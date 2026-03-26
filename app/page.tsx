@@ -59,11 +59,11 @@ export default function HomePage() {
         <div className="flex flex-wrap gap-2">
           {[
             { name: "강남구", href: "/seoul/gangnam" },
+            { name: "송파구", href: "/seoul/songpa" },
+            { name: "서초구", href: "/seoul/seocho" },
             { name: "수원시", href: "/gyeonggi/suwon" },
-            { name: "해운대구", href: "/busan/haeundae" },
-            { name: "은평구", href: "/seoul/eunpyeong" },
             { name: "성남시", href: "/gyeonggi/seongnam" },
-            { name: "중구", href: "/seoul/jung" },
+            { name: "해운대구", href: "/busan/haeundae" },
           ].map((d) => (
             <Link
               key={d.href}
