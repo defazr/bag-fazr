@@ -54,6 +54,13 @@ export async function generateMetadata({
     alternates: {
       canonical: `https://bag.fazr.co.kr/${region}/${district}`,
     },
+    openGraph: {
+      title: `${districtInfo.name} 종량제 봉투 판매처 찾기`,
+      description:
+        count > 0
+          ? `${districtInfo.name} 종량제 봉투 판매처 ${count}곳 목록`
+          : `${districtInfo.name} 종량제 봉투 판매처 정보 준비중`,
+    },
   };
 }
 
