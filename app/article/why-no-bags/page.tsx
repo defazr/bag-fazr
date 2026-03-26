@@ -54,10 +54,10 @@ export default function WhyNoBagsPage() {
           </p>
         </header>
 
-        <div className="space-y-6 text-[15px] text-gray-700 dark:text-zinc-400 leading-relaxed">
+        <div className="space-y-6 text-[15px] text-gray-700 dark:text-zinc-300 leading-relaxed">
           {/* 1. 공감 도입 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-400 pl-3 mt-10 mb-4">
               쓰레기 버리는 날인데 봉투가 없습니다
             </h2>
             <p>
@@ -73,7 +73,7 @@ export default function WhyNoBagsPage() {
 
           {/* 2. 문제 확대 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-400 pl-3 mt-10 mb-4">
               물어보니 다들 같은 상황이었습니다
             </h2>
             <p>
@@ -90,7 +90,7 @@ export default function WhyNoBagsPage() {
 
           {/* 3. 원인 설명 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-400 pl-3 mt-10 mb-4">
               알고 보니 원인이 여러 가지였습니다
             </h2>
             <p>
@@ -118,7 +118,7 @@ export default function WhyNoBagsPage() {
 
           {/* 4. 해결 방향 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-400 pl-3 mt-10 mb-4">
               무작정 찾아다니면 시간만 낭비됩니다
             </h2>
             <p>
@@ -133,7 +133,7 @@ export default function WhyNoBagsPage() {
           </section>
 
           {/* 5. CTA 중간 */}
-          <div className="rounded-xl border border-gray-200 dark:border-zinc-800 bg-gray-50 dark:bg-zinc-900 p-5 text-center">
+          <div className="rounded-xl border border-gray-200 dark:border-zinc-700 bg-gray-50 dark:bg-zinc-800 p-6 text-center shadow-sm">
             <p className="font-bold text-gray-900 dark:text-white">
               종량제 봉투 판매처, 미리 확인하세요
             </p>
@@ -142,7 +142,7 @@ export default function WhyNoBagsPage() {
             </p>
             <Link
               href="/"
-              className="mt-3 inline-block rounded-xl border border-gray-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 px-5 py-2.5 text-sm font-medium text-gray-700 dark:text-white hover:bg-gray-50 dark:hover:bg-zinc-700 transition"
+              className="mt-4 inline-block rounded-xl bg-gray-900 dark:bg-zinc-700 px-6 py-2.5 text-sm font-medium text-white hover:bg-gray-800 dark:hover:bg-zinc-600 transition"
             >
               종량제 봉투 판매처 확인하기 →
             </Link>
@@ -150,7 +150,7 @@ export default function WhyNoBagsPage() {
 
           {/* 6. 현실 팁 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-400 pl-3 mt-10 mb-4">
               직접 돌아다녀보고 느낀 것들
             </h2>
             <p>
@@ -196,7 +196,7 @@ export default function WhyNoBagsPage() {
 
           {/* 전망 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-400 pl-3 mt-10 mb-4">
               앞으로는 나아질까?
             </h2>
             <p>
@@ -212,7 +212,7 @@ export default function WhyNoBagsPage() {
           </section>
 
           {/* 7. CTA 하단 */}
-          <div className="rounded-xl border border-gray-200 dark:border-zinc-800 bg-gray-50 dark:bg-zinc-900 p-5 text-center">
+          <div className="rounded-xl border border-gray-200 dark:border-zinc-700 bg-gray-50 dark:bg-zinc-800 p-6 text-center shadow-sm">
             <p className="font-bold text-gray-900 dark:text-white">
               종량제 봉투 판매처, 지금 바로 확인하세요
             </p>
@@ -221,7 +221,7 @@ export default function WhyNoBagsPage() {
             </p>
             <Link
               href="/"
-              className="mt-3 inline-block rounded-xl border border-gray-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 px-5 py-2.5 text-sm font-medium text-gray-700 dark:text-white hover:bg-gray-50 dark:hover:bg-zinc-700 transition"
+              className="mt-4 inline-block rounded-xl bg-gray-900 dark:bg-zinc-700 px-6 py-2.5 text-sm font-medium text-white hover:bg-gray-800 dark:hover:bg-zinc-600 transition"
             >
               종량제 봉투 판매처 확인하기 →
             </Link>
@@ -229,7 +229,7 @@ export default function WhyNoBagsPage() {
 
           {/* 8. 정리 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-400 pl-3 mt-10 mb-4">
               정리
             </h2>
             <ul className="space-y-1">

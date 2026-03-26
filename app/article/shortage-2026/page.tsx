@@ -54,10 +54,10 @@ export default function ShortageArticlePage() {
           </p>
         </header>
 
-        <div className="space-y-6 text-[15px] text-gray-700 dark:text-zinc-400 leading-relaxed">
+        <div className="space-y-6 text-[15px] text-gray-700 dark:text-zinc-300 leading-relaxed">
           {/* 1. 공감 도입 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-400 pl-3 mt-10 mb-4">
               편의점 3곳을 돌았는데 봉투가 없습니다
             </h2>
             <p>
@@ -74,7 +74,7 @@ export default function ShortageArticlePage() {
 
           {/* 2. 문제 확대 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-400 pl-3 mt-10 mb-4">
               나만 겪는 문제가 아닙니다
             </h2>
             <p>
@@ -93,7 +93,7 @@ export default function ShortageArticlePage() {
 
           {/* 3. 원인 설명 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-400 pl-3 mt-10 mb-4">
               원인은 하나가 아닙니다
             </h2>
             <p>
@@ -129,7 +129,7 @@ export default function ShortageArticlePage() {
 
           {/* 4. 해결 방향 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-400 pl-3 mt-10 mb-4">
               그냥 찾아다니지 마세요. 확인하고 가세요.
             </h2>
             <p>
@@ -145,7 +145,7 @@ export default function ShortageArticlePage() {
           </section>
 
           {/* 5. CTA 중간 */}
-          <div className="rounded-xl border border-gray-200 dark:border-zinc-800 bg-gray-50 dark:bg-zinc-900 p-5 text-center">
+          <div className="rounded-xl border border-gray-200 dark:border-zinc-700 bg-gray-50 dark:bg-zinc-800 p-6 text-center shadow-sm">
             <p className="font-bold text-gray-900 dark:text-white">
               종량제 봉투 판매처, 미리 확인하세요
             </p>
@@ -154,7 +154,7 @@ export default function ShortageArticlePage() {
             </p>
             <Link
               href="/"
-              className="mt-3 inline-block rounded-xl border border-gray-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 px-5 py-2.5 text-sm font-medium text-gray-700 dark:text-white hover:bg-gray-50 dark:hover:bg-zinc-700 transition"
+              className="mt-4 inline-block rounded-xl bg-gray-900 dark:bg-zinc-700 px-6 py-2.5 text-sm font-medium text-white hover:bg-gray-800 dark:hover:bg-zinc-600 transition"
             >
               종량제 봉투 판매처 확인하기 →
             </Link>
@@ -162,7 +162,7 @@ export default function ShortageArticlePage() {
 
           {/* 6. 현실 팁 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-400 pl-3 mt-10 mb-4">
               어디서 사는 게 가장 현실적인가?
             </h2>
             <p>
@@ -203,7 +203,7 @@ export default function ShortageArticlePage() {
 
           {/* 전망 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-400 pl-3 mt-10 mb-4">
               언제쯤 나아질까?
             </h2>
             <p>
@@ -219,7 +219,7 @@ export default function ShortageArticlePage() {
           </section>
 
           {/* 7. CTA 하단 */}
-          <div className="rounded-xl border border-gray-200 dark:border-zinc-800 bg-gray-50 dark:bg-zinc-900 p-5 text-center">
+          <div className="rounded-xl border border-gray-200 dark:border-zinc-700 bg-gray-50 dark:bg-zinc-800 p-6 text-center shadow-sm">
             <p className="font-bold text-gray-900 dark:text-white">
               종량제 봉투 판매처, 지금 바로 확인하세요
             </p>
@@ -228,7 +228,7 @@ export default function ShortageArticlePage() {
             </p>
             <Link
               href="/"
-              className="mt-3 inline-block rounded-xl border border-gray-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 px-5 py-2.5 text-sm font-medium text-gray-700 dark:text-white hover:bg-gray-50 dark:hover:bg-zinc-700 transition"
+              className="mt-4 inline-block rounded-xl bg-gray-900 dark:bg-zinc-700 px-6 py-2.5 text-sm font-medium text-white hover:bg-gray-800 dark:hover:bg-zinc-600 transition"
             >
               종량제 봉투 판매처 확인하기 →
             </Link>
@@ -236,7 +236,7 @@ export default function ShortageArticlePage() {
 
           {/* 8. 정리 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-400 pl-3 mt-10 mb-4">
               정리
             </h2>
             <ul className="space-y-1">
