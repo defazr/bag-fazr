@@ -10,7 +10,7 @@ export default function Header() {
           href="/"
           className="text-base font-bold text-gray-900 dark:text-white"
         >
-          🗑️ 종량제 봉투 판매처 찾기
+          홈
         </Link>
         <div className="flex items-center gap-1">
           <ThemeToggle />
