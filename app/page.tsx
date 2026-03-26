@@ -144,7 +144,7 @@ export default function HomePage() {
             href="#regions"
             className="mt-3 inline-block rounded-xl border border-gray-200 dark:border-zinc-700 bg-gray-50 dark:bg-zinc-800 px-4 py-2 text-sm font-medium text-gray-700 dark:text-white hover:bg-gray-100 dark:hover:bg-zinc-700 transition"
           >
-            지역별 가격 확인하기 →
+            종량제 봉투 판매처 확인하기 →
           </a>
         </div>
       </section>
