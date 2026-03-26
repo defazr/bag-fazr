@@ -1,0 +1,38 @@
+{
+  "region": "서울특별시",
+  "regionSlug": "seoul",
+  "district": "서대문구",
+  "districtSlug": "seodaemun",
+  "updatedAt": "2026-03-26",
+  "totalCount": 4,
+  "stores": [
+    {
+      "name": "지에스(GS)25 종로자이점",
+      "address": "서울특별시 서대문구 북아현동 1-344",
+      "roadAddress": "서울특별시 서대문구 북아현로22마길 20 (북아현동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-08"
+    },
+    {
+      "name": "독립문현대그린마트",
+      "address": "서울특별시 서대문구 영천동 283",
+      "roadAddress": "서울특별시 서대문구 영천시장길 25 (영천동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-06-19"
+    },
+    {
+      "name": "영천마트",
+      "address": "서울특별시 서대문구 옥천동 10",
+      "roadAddress": "서울특별시 서대문구 영천시장길 68, 지하1층 및 지상1층 (옥천동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-06-18"
+    },
+    {
+      "name": "씨유 진안다람점",
+      "address": "서울특별시 서대문구 남가좌동 376 남가좌동현대아파트",
+      "roadAddress": "서울특별시 서대문구 가재울로 45, 105동 508호 (남가좌동, 남가좌동현대아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2019-01-11"
+    }
+  ]
+}

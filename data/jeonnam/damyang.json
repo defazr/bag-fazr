@@ -1,0 +1,2096 @@
+{
+  "region": "전라남도",
+  "regionSlug": "jeonnam",
+  "district": "담양군",
+  "districtSlug": "damyang",
+  "updatedAt": "2026-03-26",
+  "totalCount": 298,
+  "stores": [
+    {
+      "name": "담양슈퍼",
+      "address": "전라남도 담양군 담양읍 담주리 35-2",
+      "roadAddress": "전라남도 담양군 담양읍 담주4길 24-62",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "담주슈퍼",
+      "address": "전라남도 담양군 담양읍 담주리 90-1번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "전라남도 담양군 담양읍 담주리 78번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "삼양슈퍼",
+      "address": "전라남도 담양군 담양읍 담주리 120번지",
+      "roadAddress": "전라남도 담양군 담양읍 추성로 1297",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "월산철물점",
+      "address": "전라남도 담양군 담양읍 담주리 17-10번지",
+      "roadAddress": "전라남도 담양군 담양읍 담주4길 24-17",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "담양농업협동조합",
+      "address": "전라남도 담양군 담양읍 담주리 87-3번지",
+      "roadAddress": "전라남도 담양군 담양읍 추성로 1315",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "신성슈퍼",
+      "address": "전라남도 담양군 담양읍 천변리 5번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "은주슈퍼",
+      "address": "전라남도 담양군 담양읍 천변리 1-3",
+      "roadAddress": "전라남도 담양군 담양읍 추성로 1318",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "세운상회",
+      "address": "전라남도 담양군 담양읍 천변리 134-1",
+      "roadAddress": "전라남도 담양군 담양읍 천변4길 2",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "새마을가게",
+      "address": "전라남도 담양군 담양읍 천변리 97",
+      "roadAddress": "전라남도 담양군 담양읍 천변1길 28",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "문구상회",
+      "address": "전라남도 담양군 담양읍 천변리 73-2",
+      "roadAddress": "전라남도 담양군 담양읍 천변1길 16",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "담양정류상회",
+      "address": "전라남도 담양군 담양읍 지침리 661",
+      "roadAddress": "전라남도 담양군 담양읍 중앙로 24",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "코아마트",
+      "address": "전라남도 담양군 담양읍 지침리 664",
+      "roadAddress": "전라남도 담양군 담양읍 중앙로 20-2",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "스파슈퍼",
+      "address": "전라남도 담양군 담양읍 천변리 183-3",
+      "roadAddress": "전라남도 담양군 담양읍 중앙로 23",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "바이더슈퍼",
+      "address": "전라남도 담양군 담양읍 천변리 180-3",
+      "roadAddress": "전라남도 담양군 담양읍 중앙로 29",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "가정상회",
+      "address": "전라남도 담양군 담양읍 천변리 169-10",
+      "roadAddress": "전라남도 담양군 담양읍 중앙로 47-2",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "광신슈퍼",
+      "address": "전라남도 담양군 담양읍 천변리 173-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "전라남도 담양군 담양읍 지침리 49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "둘리슈퍼",
+      "address": "전라남도 담양군 담양읍 지침리 113-3",
+      "roadAddress": "전라남도 담양군 담양읍 지침3길 10",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "눈보슈퍼",
+      "address": "전라남도 담양군 담양읍 지침리 136-25",
+      "roadAddress": "전라남도 담양군 담양읍 지침2길 1-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "다모아문방구",
+      "address": "전라남도 담양군 담양읍 지침리 46-6",
+      "roadAddress": "전라남도 담양군 담양읍 지침5길 13-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "길벗슈퍼",
+      "address": "전라남도 담양군 담양읍 객사리 602",
+      "roadAddress": "전라남도 담양군 담양읍 추성로 1369",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "골목슈퍼",
+      "address": "전라남도 담양군 담양읍 지침리 36-16",
+      "roadAddress": "전라남도 담양군 담양읍 지침5길 27-14",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "유성슈퍼",
+      "address": "전라남도 담양군 담양읍 지침리 58",
+      "roadAddress": "전라남도 담양군 담양읍 지침4길 7-7",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "동양슈퍼",
+      "address": "전라남도 담양군 담양읍 객사리 147-4",
+      "roadAddress": "전라남도 담양군 담양읍 객사4길 30",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "민슈퍼",
+      "address": "전라남도 담양군 담양읍 객사리 173-8",
+      "roadAddress": "전라남도 담양군 담양읍 객사4길 38-9",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "현재슈퍼",
+      "address": "전라남도 담양군 담양읍 객사리 211-4",
+      "roadAddress": "전라남도 담양군 담양읍 객사3길 24",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "보배상회",
+      "address": "전라남도 담양군 담양읍 객사리 195-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "남촌상회",
+      "address": "전라남도 담양군 담양읍 객사리 250",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "한국슈퍼",
+      "address": "전라남도 담양군 담양읍 객사리 232",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "밍키슈퍼",
+      "address": "전라남도 담양군 담양읍 객사리 279-2",
+      "roadAddress": "전라남도 담양군 담양읍 객사1길 8-23",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "인지슈퍼",
+      "address": "전라남도 담양군 담양읍 객사리 222-1",
+      "roadAddress": "전라남도 담양군 담양읍 중앙로 104",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "전라남도 담양군 담양읍 객사리 264-9",
+      "roadAddress": "전라남도 담양군 담양읍 추성로 1335-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "대도슈퍼",
+      "address": "전라남도 담양군 담양읍 객사리 71",
+      "roadAddress": "전라남도 담양군 담양읍 추성로 1343",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "백동슈퍼",
+      "address": "전라남도 담양군 담양읍 백동리 88-32",
+      "roadAddress": "전라남도 담양군 담양읍 향백동1길 31-22",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "전라남도 담양군 담양읍 백동리 271",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "맛깔식품",
+      "address": "전라남도 담양군 담양읍 백동리 100",
+      "roadAddress": "전라남도 담양군 담양읍 미리산길 2",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "전라남도 담양군 담양읍 백동리 271",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 담양군 담양읍 백동리 475",
+      "roadAddress": "전라남도 담양군 담양읍 백동신기길 18-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 담양군 담양읍 백동리 240",
+      "roadAddress": "전라남도 담양군 담양읍 미리산길 59-32",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 담양군 담양읍 반룡리 560",
+      "roadAddress": "전라남도 담양군 담양읍 반룡길 37-5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "신성슈퍼",
+      "address": "전라남도 담양군 담양읍 반룡리 596",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "부녀회",
+      "address": "전라남도 담양군 담양읍 반룡리 174",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 담양군 담양읍 강쟁리 1511-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 담양군 담양읍 강쟁리 273-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "신안상회",
+      "address": "전라남도 담양군 담양읍 양각리 348-1",
+      "roadAddress": "전라남도 담양군 담양읍 양각샛터길 2-7",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "협동슈퍼",
+      "address": "전라남도 담양군 담양읍 양각리 192",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 담양군 담양읍 삼다리 602",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "이조슈퍼",
+      "address": "전라남도 담양군 담양읍 만성리 145",
+      "roadAddress": "전라남도 담양군 담양읍 완동길 9",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 담양군 담양읍 만성리 174",
+      "roadAddress": "전라남도 담양군 담양읍 벌뫼길 21-3",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "향교가게",
+      "address": "전라남도 담양군 담양읍 향교리 305",
+      "roadAddress": "전라남도 담양군 담양읍 향교길 18",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "향교슈퍼",
+      "address": "전라남도 담양군 담양읍 향교리 355",
+      "roadAddress": "전라남도 담양군 담양읍 언골길 9",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "영농회",
+      "address": "전라남도 담양군 담양읍 향교리 174",
+      "roadAddress": "전라남도 담양군 담양읍 서원길 27-5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "삼만가게",
+      "address": "전라남도 담양군 담양읍 삼만리 627-9",
+      "roadAddress": "전라남도 담양군 담양읍 태봉로 1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 담양군 담양읍 삼만리 594",
+      "roadAddress": "전라남도 담양군 담양읍 오정길 20-4",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 담양군 담양읍 학동리 236",
+      "roadAddress": "전라남도 담양군 담양읍 학동길 32-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "부식가게",
+      "address": "전라남도 담양군 담양읍 오계리 산  52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "대추리상회",
+      "address": "전라남도 담양군 봉산면 대추리 359-9",
+      "roadAddress": "전라남도 담양군 봉산면 대추2길 12",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 봉산면 대추리 130",
+      "roadAddress": "전라남도 담양군 봉산면 도고길 58",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마항새마을상회",
+      "address": "전라남도 담양군 봉산면 제월리 509",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "오형상회",
+      "address": "전라남도 담양군 봉산면 제월리 329-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "학동슈퍼",
+      "address": "전라남도 담양군 봉산면 신학리 328",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "새마을구판장",
+      "address": "전라남도 담양군 봉산면 연동리 70",
+      "roadAddress": "전라남도 담양군 봉산면 죽림길 35-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 봉산면 유산리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 봉산면 양지리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "와우회관",
+      "address": "전라남도 담양군 봉산면 와우리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "삼지회관",
+      "address": "전라남도 담양군 봉산면 삼지리 430",
+      "roadAddress": "전라남도 담양군 봉산면 삼지길 14",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "가게",
+      "address": "전라남도 담양군 봉산면 기곡리 460-5",
+      "roadAddress": "전라남도 담양군 봉산면 연산길 82",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "삼삼식당",
+      "address": "전라남도 담양군 고서면 분향리 153-33",
+      "roadAddress": "전라남도 담양군 고서면 분향용대길 3-3",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "고서슈퍼",
+      "address": "전라남도 담양군 고서면 성월리 559-6",
+      "roadAddress": "전라남도 담양군 고서면 창평현로 190",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 담양군 고서면 주산리 240-1",
+      "roadAddress": "전라남도 담양군 고서면 주평길 20",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "새마을구판장",
+      "address": "전라남도 담양군 고서면 원강리 426",
+      "roadAddress": "전라남도 담양군 고서면 원류동길 35-5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "희망알뜰상회",
+      "address": "전라남도 담양군 고서면 동운리 579-3",
+      "roadAddress": "전라남도 담양군 고서면 원등1길 4",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "고서소비자조합",
+      "address": "전라남도 담양군 고서면 동운리 579-1",
+      "roadAddress": "전라남도 담양군 고서면 원등1길 1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "영진식품",
+      "address": "전라남도 담양군 고서면 동운리 583-3",
+      "roadAddress": "전라남도 담양군 고서면 가사문학로 330",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 가사문학면 학선리 97-1",
+      "roadAddress": "전라남도 담양군 가사문학면 가사문학로 760-3",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 가사문학면 학선리 558",
+      "roadAddress": "전라남도 담양군 가사문학면 개선동길 68-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 가사문학면 지곡리 108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 가사문학면 지곡리 295",
+      "roadAddress": "전라남도 담양군 가사문학면 지실길 46-24",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 가사문학면 연천리 129-4",
+      "roadAddress": "전라남도 담양군 가사문학면 가사문학로 1136",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "슈퍼",
+      "address": "전라남도 담양군 가사문학면 정곡리 102-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 가사문학면 정곡리 382",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 가사문학면 경상리 365",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 가사문학면 무동리 311",
+      "roadAddress": "전라남도 담양군 가사문학면 무동길 225-6",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 가사문학면 만월리 385",
+      "roadAddress": "전라남도 담양군 가사문학면 만월길 192",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 가사문학면 만월리 175",
+      "roadAddress": "전라남도 담양군 가사문학면 생오지길 94",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 가사문학면 구산리 86",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 가사문학면 구산리 104",
+      "roadAddress": "전라남도 담양군 가사문학면 구산길 10",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "가게",
+      "address": "전라남도 담양군 가사문학면 인암리 44",
+      "roadAddress": "전라남도 담양군 가사문학면 인암길 34",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 가사문학면 가암리 208",
+      "roadAddress": "전라남도 담양군 가사문학면 자창길 95",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "담배판매집",
+      "address": "전라남도 담양군 가사문학면 가암리 330",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 가사문학면 풍암리 16",
+      "roadAddress": "전라남도 담양군 가사문학면 연풍동길 15",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 가사문학면 풍암리 332",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "연쇄점",
+      "address": "전라남도 담양군 가사문학면 연천리 443-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "창평농업협동조합",
+      "address": "전라남도 담양군 창평면 창평리 207-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "창평상회",
+      "address": "전라남도 담양군 창평면 창평리 211-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "해태슈퍼",
+      "address": "전라남도 담양군 창평면 창평리 200-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "축협창평지소",
+      "address": "전라남도 담양군 창평면 창평리 268-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "부흥상회",
+      "address": "전라남도 담양군 창평면 창평리 292-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "중앙상회",
+      "address": "전라남도 담양군 창평면 창평리 296",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "대인슈퍼",
+      "address": "전라남도 담양군 창평면 창평리 68-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "정류소슈퍼",
+      "address": "전라남도 담양군 창평면 창평리 52-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "금성슈퍼",
+      "address": "전라남도 담양군 창평면 삼천리 128-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "수곡담배집",
+      "address": "전라남도 담양군 창평면 용수리 227",
+      "roadAddress": "전라남도 담양군 창평면 수곡길 97",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "용운담배집",
+      "address": "전라남도 담양군 창평면 용수리 720-75",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "회관가게",
+      "address": "전라남도 담양군 창평면 유천리 121",
+      "roadAddress": "전라남도 담양군 창평면 유천길 154-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "유천담배집",
+      "address": "전라남도 담양군 창평면 유천리 412-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "보평상회",
+      "address": "전라남도 담양군 창평면 의항리 10-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "오강리슈퍼",
+      "address": "전라남도 담양군 창평면 오강리 385-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "의암상회",
+      "address": "전라남도 담양군 창평면 일산리 396-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을가게",
+      "address": "전라남도 담양군 창평면 일산리 256",
+      "roadAddress": "전라남도 담양군 창평면 하산길 17-2",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "전라남도 담양군 창평면 장화리 243",
+      "roadAddress": "전라남도 담양군 창평면 창평로 438",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을가게",
+      "address": "전라남도 담양군 창평면 유곡리 769-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을가게",
+      "address": "전라남도 담양군 창평면 해곡리 201-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "이장집",
+      "address": "전라남도 담양군 창평면 광덕리 623",
+      "roadAddress": "전라남도 담양군 창평면 신흥길 17-10",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "이장집",
+      "address": "전라남도 담양군 창평면 외동리 452",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 대덕면 매산리 278",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "호성슈퍼",
+      "address": "전라남도 담양군 대덕면 매산리 478-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "대덕약방",
+      "address": "전라남도 담양군 대덕면 매산리 93-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 대덕면 장산리 295",
+      "roadAddress": "전라남도 담양군 대덕면 대소산길 28-25",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 대덕면 장산리 206",
+      "roadAddress": "전라남도 담양군 대덕면 장동길 96",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 대덕면 비차리 717",
+      "roadAddress": "전라남도 담양군 대덕면 차동길 39",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 대덕면 비차리 401",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 대덕면 금산리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "시목담배가게",
+      "address": "전라남도 담양군 대덕면 금산리 786",
+      "roadAddress": "전라남도 담양군 대덕면 시목길 3-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "성곡간이매점",
+      "address": "전라남도 담양군 대덕면 성곡리 269-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 대덕면 운암리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 대덕면 운암리 200",
+      "roadAddress": "전라남도 담양군 대덕면 상운길 5-19",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 대덕면 운암리 787",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 대덕면 문학리 572",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 대덕면 문학리 322",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 대덕면 용대리 274",
+      "roadAddress": "전라남도 담양군 대덕면 용대길 46-2",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 대덕면 용대리 933",
+      "roadAddress": "전라남도 담양군 대덕면 청운길 68-5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 대덕면 용대리 686",
+      "roadAddress": "전라남도 담양군 대덕면 용대수곡길 48",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 대덕면 갈전리 467",
+      "roadAddress": "전라남도 담양군 대덕면 하갈길 23-4",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 대덕면 갈전리 663",
+      "roadAddress": "전라남도 담양군 대덕면 상갈길 19",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 대덕면 운산리 775",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 대덕면 입석리 321",
+      "roadAddress": "전라남도 담양군 대덕면 입석길 23",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "민희슈퍼",
+      "address": "전라남도 담양군 무정면 봉안리 633",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "무정학생사",
+      "address": "전라남도 담양군 무정면 봉안리 137-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "부녀회구판장",
+      "address": "전라남도 담양군 무정면 오례리 325",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "내당구판장",
+      "address": "전라남도 담양군 무정면 오룡리 277-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 무정면 오봉리 204",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 담양군 무정면 영천리 473",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 무정면 성도리 211-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 담양군 무정면 성도리 632",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 담양군 무정면 동산리 741",
+      "roadAddress": "전라남도 담양군 무정면 칠전길 141",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 담양군 무정면 동산리 402",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 무정면 동산리 152",
+      "roadAddress": "전라남도 담양군 무정면 동산길 28-13",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 무정면 안평리 219",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 무정면 덕곡리 341",
+      "roadAddress": "전라남도 담양군 무정면 덕곡길 154-10",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 무정면 정석리 399",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "평지상회",
+      "address": "전라남도 담양군 무정면 평지리 754",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 담양군 무정면 동강리 382",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "삼거리상회",
+      "address": "전라남도 담양군 무정면 오례리 725",
+      "roadAddress": "전라남도 담양군 무정면 무정로 1101",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "여정슈퍼",
+      "address": "전라남도 담양군 금성면 석현리 94-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "옥찬슈퍼",
+      "address": "전라남도 담양군 금성면 석현리 95-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 담양군 금성면 석현리 389",
+      "roadAddress": "전라남도 담양군 금성면 무림길 19-10",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 담양군 금성면 대성리 769",
+      "roadAddress": "전라남도 담양군 금성면 대성양지길 46",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "밤골상회",
+      "address": "전라남도 담양군 금성면 원율리 254-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 담양군 금성면 금성리 784",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 담양군 금성면 덕성리 643",
+      "roadAddress": "전라남도 담양군 금성면 덕성길 27-5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 담양군 금성면 외추리 75",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 용면 두장리 648",
+      "roadAddress": "전라남도 담양군 용면 두장길 61-11",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 담양군 용면 두장리 833",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "이장집",
+      "address": "전라남도 담양군 용면 통천리 131-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "이장집",
+      "address": "전라남도 담양군 용면 통천리 260",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "이장집",
+      "address": "전라남도 담양군 용면 통천리 666-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "이장집",
+      "address": "전라남도 담양군 용면 추성리 552",
+      "roadAddress": "전라남도 담양군 용면 추성1길 13-13",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "이장집",
+      "address": "전라남도 담양군 용면 추성리 77",
+      "roadAddress": "전라남도 담양군 용면 와산길 109-4",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "이장집",
+      "address": "전라남도 담양군 용면 추성리 568",
+      "roadAddress": "전라남도 담양군 용면 추성1길 5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "담배가게",
+      "address": "전라남도 담양군 용면 쌍태리 217",
+      "roadAddress": "전라남도 담양군 용면 태월길 9",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "도림구판장",
+      "address": "전라남도 담양군 용면 도림리 300",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "호반가든식당",
+      "address": "전라남도 담양군 용면 월계리 149-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "이장집",
+      "address": "전라남도 담양군 용면 용연리 147",
+      "roadAddress": "전라남도 담양군 용면 분통길 71-10",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "가마골민속집식당",
+      "address": "전라남도 담양군 용면 용연리 815",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "이장집",
+      "address": "전라남도 담양군 용면 용연리 589",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "이장집",
+      "address": "전라남도 담양군 용면 용치리 120",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "이장집",
+      "address": "전라남도 담양군 월산면 월산리 713",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "동산구판장",
+      "address": "전라남도 담양군 월산면 월산리 264",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "월산농업협동조합",
+      "address": "전라남도 담양군 월산면 월산리 495",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 월산면 월평리 568",
+      "roadAddress": "전라남도 담양군 월산면 월신평길 94-9",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 월산면 월평리 581-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 월산면 월평리 461",
+      "roadAddress": "전라남도 담양군 월산면 왕산길 89",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "용암슈퍼",
+      "address": "전라남도 담양군 월산면 용암리 553",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "홍암슈퍼",
+      "address": "전라남도 담양군 월산면 용암리 308",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "주민",
+      "address": "전라남도 담양군 월산면 광암리 산 100",
+      "roadAddress": "전라남도 담양군 월산면 사암길 41",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 담양군 월산면 오성리 70-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마산마을회관",
+      "address": "전라남도 담양군 월산면 화방리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 월산면 화방리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "흥진상회",
+      "address": "전라남도 담양군 월산면 화방리 585",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "동아약방",
+      "address": "전라남도 담양군 월산면 화방리 586-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "월산슈퍼",
+      "address": "전라남도 담양군 월산면 월산리 502-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 수북면 나산리 189",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "새마을가게",
+      "address": "전라남도 담양군 수북면 개동리 495",
+      "roadAddress": "전라남도 담양군 수북면 개동길 19-3",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 수북면 정중리 746",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "이장집",
+      "address": "전라남도 담양군 수북면 풍수리 500",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "이장집",
+      "address": "전라남도 담양군 수북면 풍수리 787",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 수북면 풍수리 763",
+      "roadAddress": "전라남도 담양군 수북면 동상길 69",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모둠식당",
+      "address": "전라남도 담양군 수북면 대방리 654",
+      "roadAddress": "전라남도 담양군 수북면 중촌길 3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 수북면 대방리 816-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수북슈퍼",
+      "address": "전라남도 담양군 수북면 대방리 298",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대방상회",
+      "address": "전라남도 담양군 수북면 대방리 101-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을가게",
+      "address": "전라남도 담양군 수북면 궁산리 166",
+      "roadAddress": "전라남도 담양군 수북면 구암길 7-16",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 수북면 황금리 264",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 수북면 황금리 74",
+      "roadAddress": "전라남도 담양군 수북면 금구길 17-34",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을가게",
+      "address": "전라남도 담양군 수북면 대흥리 34-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 수북면 남산리 60",
+      "roadAddress": "전라남도 담양군 수북면 남산길 37-16",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두정리가게",
+      "address": "전라남도 담양군 수북면 두정리 546",
+      "roadAddress": "전라남도 담양군 수북면 용정길 19-3",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "새마을부녀회",
+      "address": "전라남도 담양군 수북면 고성리 255",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 수북면 고성리 649",
+      "roadAddress": "전라남도 담양군 수북면 월성산길 125",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "새마을구판장",
+      "address": "전라남도 담양군 수북면 주평리 912-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "부녀회",
+      "address": "전라남도 담양군 수북면 오정리 277",
+      "roadAddress": "전라남도 담양군 수북면 강동길 50-40",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 수북면 오정리 728",
+      "roadAddress": "전라남도 담양군 수북면 삼인동길 184-2",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 수북면 궁산리 281",
+      "roadAddress": "전라남도 담양군 수북면 원궁산길 15",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "담배가게",
+      "address": "전라남도 담양군 대전면 대치리 958-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "대전농업협동조합",
+      "address": "전라남도 담양군 대전면 대치리 870-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "개미슈퍼",
+      "address": "전라남도 담양군 대전면 대치리 384-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "병풍산통닭",
+      "address": "전라남도 담양군 대전면 평장리 400-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 대전면 평장리 54-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을구판장",
+      "address": "전라남도 담양군 대전면 중옥리 421",
+      "roadAddress": "전라남도 담양군 대전면 중옥길 73-13",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을구판장",
+      "address": "전라남도 담양군 대전면 응용리 284",
+      "roadAddress": "전라남도 담양군 대전면 신룡길 78",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을구판장",
+      "address": "전라남도 담양군 대전면 태목리 247-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "점포",
+      "address": "전라남도 담양군 대전면 태목리 485-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을구판장",
+      "address": "전라남도 담양군 대전면 강의리 300-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을구판장",
+      "address": "전라남도 담양군 대전면 월본리 638",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을구판장",
+      "address": "전라남도 담양군 대전면 월본리 727",
+      "roadAddress": "전라남도 담양군 대전면 갈전길 23",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을구판장",
+      "address": "전라남도 담양군 대전면 병풍리 292-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을구판장",
+      "address": "전라남도 담양군 대전면 행성리 231-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "성산슈퍼",
+      "address": "전라남도 담양군 대전면 성산리 42-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을구판장",
+      "address": "전라남도 담양군 대전면 갑향리 565-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "마을이장집",
+      "address": "전라남도 담양군 대전면 갑향리 471",
+      "roadAddress": "전라남도 담양군 대전면 계곡길 17-15",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "담양축협",
+      "address": "전라남도 담양군 담양읍 지침리 157-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "해남상회",
+      "address": "전라남도 담양군 담양읍 지침리 661",
+      "roadAddress": "전라남도 담양군 담양읍 중앙로 24",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "호남비닐",
+      "address": "전라남도 담양군 담양읍 객사리 250",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "학동가게",
+      "address": "전라남도 담양군 담양읍 학동리 332-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "정기철물점",
+      "address": "전라남도 담양군 담양읍 지침리 178-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "광성상회",
+      "address": "전라남도 담양군 담양읍 담주리 22-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "천변슈퍼",
+      "address": "전라남도 담양군 담양읍 천변리 155-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "부르네",
+      "address": "전라남도 담양군 담양읍 지침리 136-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "청전마트",
+      "address": "전라남도 담양군 담양읍 백동리 100",
+      "roadAddress": "전라남도 담양군 담양읍 미리산길 2",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-10"
+    },
+    {
+      "name": "D-마트",
+      "address": "전라남도 담양군 담양읍 천변리 168-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-30"
+    },
+    {
+      "name": "만성슈퍼",
+      "address": "전라남도 담양군 담양읍 만성리 123",
+      "roadAddress": "전라남도 담양군 담양읍 완동길 22",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-27"
+    },
+    {
+      "name": "포촌식당",
+      "address": "전라남도 담양군 고서면 보촌리 753-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "고서농협",
+      "address": "전라남도 담양군 고서면 동운리 822",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "새봄슈퍼",
+      "address": "전라남도 담양군 고서면 동운리 602",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "순천담배",
+      "address": "전라남도 담양군 고서면 동운리 1299-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "고서식품",
+      "address": "전라남도 담양군 고서면 동운리 583-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-10"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "전라남도 담양군 창평면 오강리 385-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "마을가게",
+      "address": "전라남도 담양군 창평면 일산리 86-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "창용식품",
+      "address": "전라남도 담양군 창평면 창평리 273-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-10"
+    },
+    {
+      "name": "농공단지구내매점",
+      "address": "전라남도 담양군 무정면 봉안리 387-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "금성농협",
+      "address": "전라남도 담양군 금성면 석현리 79",
+      "roadAddress": "전라남도 담양군 금성면 석현길 9",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "석현구판장",
+      "address": "전라남도 담양군 금성면 석현리 237",
+      "roadAddress": "전라남도 담양군 금성면 석현길 75",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "현대상회",
+      "address": "전라남도 담양군 금성면 원율리 225-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "정슈퍼",
+      "address": "전라남도 담양군 월산면 화방리 586-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "마을회관",
+      "address": "전라남도 담양군 월산면 월계리 303",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-10"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "전라남도 담양군 월산면 월산리 339-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-27"
+    },
+    {
+      "name": "진동수퍼",
+      "address": "전라남도 담양군 수북면 대방리 290-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "수북종합슈퍼",
+      "address": "전라남도 담양군 수북면 대방리 292",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "전라남도 담양군 수북면 대방리 295",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "광흥슈퍼",
+      "address": "전라남도 담양군 수북면 풍수리 1107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "금성슈퍼",
+      "address": "전라남도 담양군 수북면 풍수리 1108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "전라남도 담양군 대전면 대치리 961-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "전라남도 담양군 대전면 대치리 1235-102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "한재상회",
+      "address": "전라남도 담양군 대전면 대치리 960",
+      "roadAddress": "전라남도 담양군 대전면 추성1로 185",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "동부상회",
+      "address": "전라남도 담양군 대전면 대치리 980-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "덕용식당",
+      "address": "전라남도 담양군 대전면 대치리 953-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "해태우유",
+      "address": "전라남도 담양군 대전면 대치리 957-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "동화상회",
+      "address": "전라남도 담양군 담양읍 남산리 53",
+      "roadAddress": "전라남도 담양군 담양읍 동정자길 67",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-18"
+    },
+    {
+      "name": "농협중앙회담양군지부",
+      "address": "전라남도 담양군 담양읍 객사리 280-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "봉산관광농원",
+      "address": "전라남도 담양군 봉산면 기곡리 836-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담양슈퍼",
+      "address": "전라남도 담양군 창평면 창평리 64-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-22"
+    },
+    {
+      "name": "용면농업협동조합",
+      "address": "전라남도 담양군 용면 추성리 443-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-22"
+    },
+    {
+      "name": "원마트",
+      "address": "전라남도 담양군 대전면 대치리 962",
+      "roadAddress": "전라남도 담양군 대전면 대치4길 2",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-25"
+    },
+    {
+      "name": "회관슈퍼",
+      "address": "전라남도 담양군 담양읍 향교리 243-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-22"
+    },
+    {
+      "name": "담양우체국",
+      "address": "전라남도 담양군 담양읍 지침리 176",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-30"
+    },
+    {
+      "name": "봉산우체국",
+      "address": "전라남도 담양군 봉산면 제월리 598-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-25"
+    },
+    {
+      "name": "고서우체국",
+      "address": "전라남도 담양군 고서면 보촌리 82-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-25"
+    },
+    {
+      "name": "남면우체국",
+      "address": "전라남도 담양군 가사문학면 연천리 404-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-25"
+    },
+    {
+      "name": "창평우체국",
+      "address": "전라남도 담양군 창평면 창평리 291-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-25"
+    },
+    {
+      "name": "대덕우체국",
+      "address": "전라남도 담양군 대덕면 매산리 88-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-25"
+    },
+    {
+      "name": "무정우체국",
+      "address": "전라남도 담양군 무정면 봉안리 572-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-25"
+    },
+    {
+      "name": "금성우체국",
+      "address": "전라남도 담양군 금성면 석현리 78-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-25"
+    },
+    {
+      "name": "가마골관리사무소",
+      "address": "전라남도 담양군 용면 용연리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용면우체국",
+      "address": "전라남도 담양군 용면 두장리 208-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-25"
+    },
+    {
+      "name": "월산우체국",
+      "address": "전라남도 담양군 월산면 화방리 583-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-25"
+    },
+    {
+      "name": "수북우체국",
+      "address": "전라남도 담양군 수북면 대방리 338-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-25"
+    },
+    {
+      "name": "대전우체국장",
+      "address": "전라남도 담양군 대전면 대치리 915",
+      "roadAddress": "전라남도 담양군 대전면 추성1로 192",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-25"
+    },
+    {
+      "name": "담양마트",
+      "address": "전라남도 담양군 담양읍 지침리 176",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-01"
+    },
+    {
+      "name": "베스트마트",
+      "address": "전라남도 담양군 담양읍 백동리 100",
+      "roadAddress": "전라남도 담양군 담양읍 미리산길 2",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-03"
+    },
+    {
+      "name": "은주슈퍼",
+      "address": "전라남도 담양군 담양읍 천변리 1-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-06"
+    },
+    {
+      "name": "양우회빅마트",
+      "address": "전라남도 담양군 담양읍 천변리 54",
+      "roadAddress": "전라남도 담양군 담양읍 천변1길 8",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-10"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "전라남도 담양군 담양읍 천변리 7-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-10"
+    },
+    {
+      "name": "가마골관리사무소",
+      "address": "전라남도 담양군 용면 용연리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-05"
+    },
+    {
+      "name": "(주)북부환경",
+      "address": "전라남도 담양군 담양읍 강쟁리 559-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-21"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "전라남도 담양군 대덕면 매산리 94",
+      "roadAddress": "전라남도 담양군 대덕면 창평현로 915",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-30"
+    },
+    {
+      "name": "창평할인마트",
+      "address": "전라남도 담양군 창평면 창평리 211-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-02"
+    }
+  ]
+}

@@ -1,0 +1,1935 @@
+{
+  "region": "경상남도",
+  "regionSlug": "gyeongnam",
+  "district": "남해군",
+  "districtSlug": "namhae",
+  "updatedAt": "2026-03-26",
+  "totalCount": 275,
+  "stores": [
+    {
+      "name": "씨유남해병원점",
+      "address": "경상남도 남해군 남해읍 차산리 783-1",
+      "roadAddress": "경상남도 남해군 남해읍 화전로 174",
+      "status": "영업/정상",
+      "licenseDate": "2019-08-01"
+    },
+    {
+      "name": "씨유남변문학관점",
+      "address": "경상남도 남해군 남해읍 남변리 490",
+      "roadAddress": "경상남도 남해군 남해읍 스포츠로 8",
+      "status": "영업/정상",
+      "licenseDate": "2010-09-02"
+    },
+    {
+      "name": "남영상회",
+      "address": "경상남도 남해군 남해읍 북변리 316-3 남해공용터미널",
+      "roadAddress": "경상남도 남해군 남해읍 남해대로 2835, 남해공용터미널",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "한려매점",
+      "address": "경상남도 남해군 남해읍 북변리 316-3 남해공용터미널",
+      "roadAddress": "경상남도 남해군 남해읍 남해대로 2835, 남해공용터미널 1층 115호",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "삼천포상회",
+      "address": "경상남도 남해군 남해읍 심천리 756-2 삼천포상회",
+      "roadAddress": "경상남도 남해군 남해읍 남해대로2984번길 34, 삼천포상회",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "경상남도 남해군 남해읍 북변리 265-2 남양전업사",
+      "roadAddress": "경상남도 남해군 남해읍 화전로96번길 31, 남양전업사",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-03"
+    },
+    {
+      "name": "남해농협하나로마트",
+      "address": "경상남도 남해군 남해읍 북변리 555-5",
+      "roadAddress": "경상남도 남해군 남해읍 화전로122번길 2",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-02"
+    },
+    {
+      "name": "티큐브",
+      "address": "경상남도 남해군 남해읍 북변리 316-3 남해공용터미널",
+      "roadAddress": "경상남도 남해군 남해읍 남해대로 2835, 남해공용터미널 2층",
+      "status": "영업/정상",
+      "licenseDate": "2018-10-01"
+    },
+    {
+      "name": "GS25남해대로점",
+      "address": "경상남도 남해군 남해읍 남변리 272",
+      "roadAddress": "경상남도 남해군 남해읍 남해대로 2765",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-27"
+    },
+    {
+      "name": "GS25남해체육관점",
+      "address": "경상남도 남해군 남해읍 서변리 183-6",
+      "roadAddress": "경상남도 남해군 남해읍 화전로43번길 10",
+      "status": "영업/정상",
+      "licenseDate": "2014-12-03"
+    },
+    {
+      "name": "GS남해보물섬점",
+      "address": "경상남도 남해군 남해읍 북변리 96-12",
+      "roadAddress": "경상남도 남해군 남해읍 화전로78번길 16",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "에버그린",
+      "address": "경상남도 남해군 남해읍 북변리 160-8 에버그린",
+      "roadAddress": "경상남도 남해군 남해읍 망운로 8, 에버그린",
+      "status": "영업/정상",
+      "licenseDate": "2016-02-01"
+    },
+    {
+      "name": "보물선낚시마트",
+      "address": "경상남도 남해군 남해읍 차산리 779 낚시마트",
+      "roadAddress": "경상남도 남해군 남해읍 남해대로 2905, 낚시마트",
+      "status": "영업/정상",
+      "licenseDate": "2016-08-01"
+    },
+    {
+      "name": "해피투게더",
+      "address": "경상남도 남해군 남해읍 북변리 129-4 해피투데이",
+      "roadAddress": "경상남도 남해군 남해읍 망운로 7, 해피투데이",
+      "status": "영업/정상",
+      "licenseDate": "2018-02-01"
+    },
+    {
+      "name": "씨유남해북변터미널점",
+      "address": "경상남도 남해군 남해읍 북변리 469-4",
+      "roadAddress": "경상남도 남해군 남해읍 화전로122번길 34, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2018-10-01"
+    },
+    {
+      "name": "알파남해망운점",
+      "address": "경상남도 남해군 남해읍 남변리 386",
+      "roadAddress": "경상남도 남해군 남해읍 망운로 1-21",
+      "status": "영업/정상",
+      "licenseDate": "2019-03-01"
+    },
+    {
+      "name": "GS남해남양점",
+      "address": "경상남도 남해군 남해읍 아산리 970-1 남양아파트",
+      "roadAddress": "경상남도 남해군 남해읍 망운로 77, 1층 (남양아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2019-03-01"
+    },
+    {
+      "name": "씨유남해심천점",
+      "address": "경상남도 남해군 남해읍 심천리 821-1 서진숯불갈비",
+      "roadAddress": "경상남도 남해군 남해읍 남해대로 2994, 서진숯불갈비 1층",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-01"
+    },
+    {
+      "name": "청소박사",
+      "address": "경상남도 남해군 남해읍 북변리 507-1",
+      "roadAddress": "경상남도 남해군 남해읍 화전로122번가길 19",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-01"
+    },
+    {
+      "name": "동남해농협",
+      "address": "경상남도 남해군 이동면 무림리 932 동남해농협",
+      "roadAddress": "경상남도 남해군 이동면 무림로 82, 동남해농협",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-26"
+    },
+    {
+      "name": "초록마트",
+      "address": "경상남도 남해군 이동면 무림리 1038-8 초록할인마트",
+      "roadAddress": "경상남도 남해군 이동면 무림로 68-1, 초록할인마트",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-24"
+    },
+    {
+      "name": "원천슈퍼",
+      "address": "경상남도 남해군 이동면 신전리 1136-7 원천슈퍼",
+      "roadAddress": "경상남도 남해군 이동면 남해대로 1539-3, 원천슈퍼",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-28"
+    },
+    {
+      "name": "덕성슈퍼",
+      "address": "경상남도 남해군 이동면 신전리 1206 덕성슈퍼",
+      "roadAddress": "경상남도 남해군 이동면 남해대로1534번길 1, 덕성슈퍼",
+      "status": "영업/정상",
+      "licenseDate": "2013-04-16"
+    },
+    {
+      "name": "화계정류소매점",
+      "address": "경상남도 남해군 이동면 화계리 181-3 정류소상회",
+      "roadAddress": "경상남도 남해군 이동면 남서대로 191-1, 정류소상회",
+      "status": "영업/정상",
+      "licenseDate": "2016-09-09"
+    },
+    {
+      "name": "씨유남해이동점",
+      "address": "경상남도 남해군 이동면 무림리 1223-7 우리담배",
+      "roadAddress": "경상남도 남해군 이동면 무림로 45-1, 우리담배",
+      "status": "영업/정상",
+      "licenseDate": "2017-05-31"
+    },
+    {
+      "name": "중앙상회",
+      "address": "경상남도 남해군 이동면 무림리 1140",
+      "roadAddress": "경상남도 남해군 이동면 무림로63번길 9, 4,5호",
+      "status": "영업/정상",
+      "licenseDate": "2017-08-04"
+    },
+    {
+      "name": "세븐일레븐남해이동점",
+      "address": "경상남도 남해군 이동면 석평리 802-2 우리주유소",
+      "roadAddress": "경상남도 남해군 이동면 무림로 9, 우리주유소",
+      "status": "영업/정상",
+      "licenseDate": "2018-08-03"
+    },
+    {
+      "name": "GS25남해앵강점",
+      "address": "경상남도 남해군 이동면 신전리 1030-1",
+      "roadAddress": "경상남도 남해군 이동면 남해대로 1603",
+      "status": "영업/정상",
+      "licenseDate": "2018-11-26"
+    },
+    {
+      "name": "세븐일레븐남해정강점",
+      "address": "경상남도 남해군 이동면 초음리 1535-1 다초왕갈비탕",
+      "roadAddress": "경상남도 남해군 이동면 남해대로 2436, 다초왕갈비탕",
+      "status": "영업/정상",
+      "licenseDate": "2019-01-17"
+    },
+    {
+      "name": "행복plus25편의점",
+      "address": "경상남도 남해군 이동면 신전리 1502-6 나폴리휴게소",
+      "roadAddress": "경상남도 남해군 이동면 남해대로 1387, 나폴리휴게소",
+      "status": "영업/정상",
+      "licenseDate": "2019-11-07"
+    },
+    {
+      "name": "동남해농협상주지점",
+      "address": "경상남도 남해군 상주면 상주리 1221",
+      "roadAddress": "경상남도 남해군 상주면 남해대로 684",
+      "status": "영업/정상",
+      "licenseDate": "1990-01-01"
+    },
+    {
+      "name": "상주번영회",
+      "address": "경상남도 남해군 상주면 상주리 1244-5 상주은모래비치 통합사무소",
+      "roadAddress": "경상남도 남해군 상주면 상주로 17, 상주은모래비치 통합사무소",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-01"
+    },
+    {
+      "name": "상주낚시통",
+      "address": "경상남도 남해군 상주면 상주리 1145-3",
+      "roadAddress": "경상남도 남해군 상주면 남해대로 689",
+      "status": "영업/정상",
+      "licenseDate": "2019-01-01"
+    },
+    {
+      "name": "영상할인마트",
+      "address": "경상남도 남해군 상주면 상주리 1143-5",
+      "roadAddress": "경상남도 남해군 상주면 남해대로 695",
+      "status": "영업/정상",
+      "licenseDate": "1990-01-01"
+    },
+    {
+      "name": "해주여관슈퍼",
+      "address": "경상남도 남해군 상주면 상주리 1247-4",
+      "roadAddress": "경상남도 남해군 상주면 상주로 17-6",
+      "status": "영업/정상",
+      "licenseDate": "2010-01-01"
+    },
+    {
+      "name": "GS25남해은모래상주점",
+      "address": "경상남도 남해군 상주면 상주리 1250-3",
+      "roadAddress": "경상남도 남해군 상주면 상주로 12-5",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-01"
+    },
+    {
+      "name": "GS남해상주비치점",
+      "address": "경상남도 남해군 상주면 상주리 1294-2",
+      "roadAddress": "경상남도 남해군 상주면 남해대로701번길 36",
+      "status": "영업/정상",
+      "licenseDate": "2016-07-01"
+    },
+    {
+      "name": "금전상회",
+      "address": "경상남도 남해군 상주면 상주리 1609-9",
+      "roadAddress": "경상남도 남해군 상주면 상주로74번길 5",
+      "status": "영업/정상",
+      "licenseDate": "2016-07-07"
+    },
+    {
+      "name": "평산편의점",
+      "address": "경상남도 남해군 남면 평산리 1757 평산낚시편의점",
+      "roadAddress": "경상남도 남해군 남면 남면로1739번길 39, 평산낚시편의점",
+      "status": "영업/정상",
+      "licenseDate": "2010-08-20"
+    },
+    {
+      "name": "씨유남해다랭이마을점",
+      "address": "경상남도 남해군 남면 선구리 488-1 패밀리마트",
+      "roadAddress": "경상남도 남해군 남면 남면로 1010, 패밀리마트",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-31"
+    },
+    {
+      "name": "동남해농협 남면지점",
+      "address": "경상남도 남해군 남면 죽전리 377-3 농협,하나로마트",
+      "roadAddress": "경상남도 남해군 남면 남서대로 801, 농협,하나로마트",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-13"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경상남도 남해군 남면 당항리 1378-1 중앙할인마트",
+      "roadAddress": "경상남도 남해군 남면 남서대로 777-2, 중앙할인마트",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-13"
+    },
+    {
+      "name": "류은춘",
+      "address": "경상남도 남해군 남면 선구리 402",
+      "roadAddress": "경상남도 남해군 남면 남면로1017번길 26-2",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-13"
+    },
+    {
+      "name": "늘푸른상회",
+      "address": "경상남도 남해군 남면 선구리 657-4 늘푸른슈퍼민박",
+      "roadAddress": "경상남도 남해군 남면 남면로1061번길 14-11, 늘푸른슈퍼민박",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-19"
+    },
+    {
+      "name": "조일낚시",
+      "address": "경상남도 남해군 남면 선구리 658-2 조일낚시",
+      "roadAddress": "경상남도 남해군 남면 남면로1061번길 14-4, 조일낚시",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-22"
+    },
+    {
+      "name": "남면상회",
+      "address": "경상남도 남해군 남면 당항리 1382-5 남해서점기물상회",
+      "roadAddress": "경상남도 남해군 남면 남서대로 783, 남해서점기물상회",
+      "status": "영업/정상",
+      "licenseDate": "2014-08-29"
+    },
+    {
+      "name": "가천마을회 매점",
+      "address": "경상남도 남해군 남면 홍현리 840-2",
+      "roadAddress": "경상남도 남해군 남면 남면로 702",
+      "status": "영업/정상",
+      "licenseDate": "2019-06-26"
+    },
+    {
+      "name": "GS25남해다랭이마을점",
+      "address": "경상남도 남해군 남면 선구리 126-2",
+      "roadAddress": "경상남도 남해군 남면 남면로 946-3",
+      "status": "영업/정상",
+      "licenseDate": "2015-05-23"
+    },
+    {
+      "name": "보물섬 캠핑장",
+      "address": "경상남도 남해군 남면 선구리 1060-1 보물섬캠핑장",
+      "roadAddress": "경상남도 남해군 남면 남면로1229번길 10-34, 보물섬캠핑장",
+      "status": "영업/정상",
+      "licenseDate": "2015-07-23"
+    },
+    {
+      "name": "씨유남해힐튼점",
+      "address": "경상남도 남해군 남면 덕월리 293",
+      "roadAddress": "경상남도 남해군 남면 남서대로1179번길 33-1",
+      "status": "영업/정상",
+      "licenseDate": "2018-10-10"
+    },
+    {
+      "name": "세븐일레븐 남해이끌림점",
+      "address": "경상남도 남해군 남면 당항리 32",
+      "roadAddress": "경상남도 남해군 남면 남서대로 539",
+      "status": "영업/정상",
+      "licenseDate": "2018-10-10"
+    },
+    {
+      "name": "자유마트",
+      "address": "경상남도 남해군 남면 덕월리 297",
+      "roadAddress": "경상남도 남해군 남면 남서대로1179번길 59",
+      "status": "영업/정상",
+      "licenseDate": "2018-12-12"
+    },
+    {
+      "name": "남면할인마트",
+      "address": "경상남도 남해군 남면 당항리 1379-3 남면할인마트",
+      "roadAddress": "경상남도 남해군 남면 남서대로 781, 남면할인마트",
+      "status": "영업/정상",
+      "licenseDate": "2019-05-02"
+    },
+    {
+      "name": "혜은상회",
+      "address": "경상남도 남해군 삼동면 물건리 580-5 대형할인마트",
+      "roadAddress": "경상남도 남해군 삼동면 동부대로942번길 47, 대형할인마트",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "A+할인마트",
+      "address": "경상남도 남해군 삼동면 동천리 1029-11 낙원탕",
+      "roadAddress": "경상남도 남해군 삼동면 동부대로 1288, 낙원탕",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "롯데슈퍼 남해삼동가맹점",
+      "address": "경상남도 남해군 삼동면 지족리 280-1",
+      "roadAddress": "경상남도 남해군 삼동면 동부대로 1874",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-14"
+    },
+    {
+      "name": "서울상회",
+      "address": "경상남도 남해군 삼동면 물건리 658-1 서울상회",
+      "roadAddress": "경상남도 남해군 삼동면 동부대로942번길 40-2, 서울상회",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "동남해농협삼동지점",
+      "address": "경상남도 남해군 삼동면 지족리 291",
+      "roadAddress": "경상남도 남해군 삼동면 동부대로 1875",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "동남해농협천지소",
+      "address": "경상남도 남해군 삼동면 동천리 1023-1 동남해농협",
+      "roadAddress": "경상남도 남해군 삼동면 봉화로 7, 동남해농협",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "지족슈퍼",
+      "address": "경상남도 남해군 삼동면 지족리 266-4",
+      "roadAddress": "경상남도 남해군 삼동면 동부대로1876번가길 9-1",
+      "status": "영업/정상",
+      "licenseDate": "2014-10-29"
+    },
+    {
+      "name": "그린탑마트",
+      "address": "경상남도 남해군 삼동면 동천리 1029-6 그린할인마트",
+      "roadAddress": "경상남도 남해군 삼동면 동부대로 1291, 그린할인마트",
+      "status": "영업/정상",
+      "licenseDate": "2015-11-04"
+    },
+    {
+      "name": "세븐일레븐 남해독일마을점",
+      "address": "경상남도 남해군 삼동면 물건리 562-1",
+      "roadAddress": "경상남도 남해군 삼동면 동부대로 1014",
+      "status": "영업/정상",
+      "licenseDate": "2016-01-18"
+    },
+    {
+      "name": "은점마트",
+      "address": "경상남도 남해군 삼동면 물건리 579-8 은점할인마트",
+      "roadAddress": "경상남도 남해군 삼동면 동부대로960번길 7, 은점할인마트",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "GS편의점 남해독일마을점",
+      "address": "경상남도 남해군 삼동면 물건리 254-4 물건낚시",
+      "roadAddress": "경상남도 남해군 삼동면 동부대로 1121, 물건낚시",
+      "status": "영업/정상",
+      "licenseDate": "2017-07-17"
+    },
+    {
+      "name": "씨유 남해독일마을점",
+      "address": "경상남도 남해군 삼동면 물건리 산 84-9",
+      "roadAddress": "경상남도 남해군 삼동면 독일로 25",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "남해식자재마트",
+      "address": "경상남도 남해군 삼동면 지족리 407",
+      "roadAddress": "경상남도 남해군 삼동면 동부대로 1857",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "세븐일레븐 남해미조지점",
+      "address": "경상남도 남해군 미조면 미조리 168-34 미조민박민박",
+      "roadAddress": "경상남도 남해군 미조면 미조로 224, 미조민박민박",
+      "status": "영업/정상",
+      "licenseDate": "2020-08-24"
+    },
+    {
+      "name": "세진펜션",
+      "address": "경상남도 남해군 미조면 미조리 168-48 세진펜션",
+      "roadAddress": "경상남도 남해군 미조면 미조로 206, 세진펜션",
+      "status": "영업/정상",
+      "licenseDate": "2020-07-31"
+    },
+    {
+      "name": "해모로펜션텔",
+      "address": "경상남도 남해군 미조면 미조리 652-3 해모로펜션",
+      "roadAddress": "경상남도 남해군 미조면 미송로 7, 해모로펜션",
+      "status": "영업/정상",
+      "licenseDate": "2019-03-18"
+    },
+    {
+      "name": "세븐일레븐 설리해수욕장점",
+      "address": "경상남도 남해군 미조면 송정리 962 겨울바다펜션",
+      "roadAddress": "경상남도 남해군 미조면 미송로303번길 74-1, 겨울바다펜션",
+      "status": "영업/정상",
+      "licenseDate": "2019-04-05"
+    },
+    {
+      "name": "GS남해송정점",
+      "address": "경상남도 남해군 미조면 송정리 615-1",
+      "roadAddress": "경상남도 남해군 미조면 동부대로 2",
+      "status": "영업/정상",
+      "licenseDate": "2018-01-31"
+    },
+    {
+      "name": "천해마트",
+      "address": "경상남도 남해군 미조면 미조리 100-9 천해마트",
+      "roadAddress": "경상남도 남해군 미조면 미송로 63, 천해마트",
+      "status": "영업/정상",
+      "licenseDate": "2014-01-01"
+    },
+    {
+      "name": "금동산마트",
+      "address": "경상남도 남해군 미조면 미조리 168-1",
+      "roadAddress": "경상남도 남해군 미조면 미조로236번안길 16-57",
+      "status": "영업/정상",
+      "licenseDate": "2014-01-02"
+    },
+    {
+      "name": "동남해농협미조지점",
+      "address": "경상남도 남해군 미조면 미조리 632-19 동남해농협",
+      "roadAddress": "경상남도 남해군 미조면 미송로 24, 동남해농협",
+      "status": "영업/정상",
+      "licenseDate": "2014-02-12"
+    },
+    {
+      "name": "미조할인마트",
+      "address": "경상남도 남해군 미조면 미조리 105-13 미조할인마트",
+      "roadAddress": "경상남도 남해군 미조면 미송로 50, 미조할인마트",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "이레펜션",
+      "address": "경상남도 남해군 미조면 미조리 727-4 이례펜션",
+      "roadAddress": "경상남도 남해군 미조면 남해대로 95-6, 이례펜션",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "상그니슈퍼",
+      "address": "경상남도 남해군 미조면 송정리 1079-3",
+      "roadAddress": "경상남도 남해군 미조면 미송로483번길 31",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "송정해수욕장번영회",
+      "address": "경상남도 남해군 미조면 송정리 1129 송정해수욕장관리사무소",
+      "roadAddress": "경상남도 남해군 미조면 미송로 483, 송정해수욕장관리사무소",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "두미낚시",
+      "address": "경상남도 남해군 미조면 미조리 632-3",
+      "roadAddress": "경상남도 남해군 미조면 미송로 26",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "새남해농협하나로마트 고현점",
+      "address": "경상남도 남해군 고현면 대사리 711-8 새남해농협",
+      "roadAddress": "경상남도 남해군 고현면 탑동로 40, 새남해농협",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "새남해농협 도마점",
+      "address": "경상남도 남해군 고현면 도마리 228-3 고현농협도마지소",
+      "roadAddress": "경상남도 남해군 고현면 남해대로 3199, 고현농협도마지소",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "새남해농협 하나로마트 설천점",
+      "address": "경상남도 남해군 설천면 금음리 754-3 설천농협",
+      "roadAddress": "경상남도 남해군 설천면 설천로 647, 설천농협",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "서울횟집",
+      "address": "경상남도 남해군 설천면 노량리 410-29 서울횟집",
+      "roadAddress": "경상남도 남해군 설천면 노량로195번길 10, 서울횟집",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "남양정류소",
+      "address": "경상남도 남해군 설천면 남양리 94-22",
+      "roadAddress": "경상남도 남해군 설천면 설천로 701",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "GS 남해충렬사점",
+      "address": "경상남도 남해군 설천면 노량리 439-13 거북선횟집",
+      "roadAddress": "경상남도 남해군 설천면 노량로183번길 12, 거북선횟집",
+      "status": "영업/정상",
+      "licenseDate": "2016-08-19"
+    },
+    {
+      "name": "남해슈퍼",
+      "address": "경상남도 남해군 설천면 노량리 393-11 남해슈퍼",
+      "roadAddress": "경상남도 남해군 설천면 노량로195번길 9, 남해슈퍼",
+      "status": "영업/정상",
+      "licenseDate": "2019-10-15"
+    },
+    {
+      "name": "싼마트",
+      "address": "경상남도 남해군 설천면 노량리 410-6",
+      "roadAddress": "경상남도 남해군 설천면 노량로195번길 3",
+      "status": "영업/정상",
+      "licenseDate": "2019-10-21"
+    },
+    {
+      "name": "이간상회",
+      "address": "경상남도 남해군 설천면 진목리 802-3",
+      "roadAddress": "경상남도 남해군 설천면 설천로 275",
+      "status": "영업/정상",
+      "licenseDate": "2019-07-12"
+    },
+    {
+      "name": "태평양 낚시마트",
+      "address": "경상남도 남해군 설천면 덕신리 1608-5 태평양낚시",
+      "roadAddress": "경상남도 남해군 설천면 남해대로 3999, 태평양낚시",
+      "status": "영업/정상",
+      "licenseDate": "2015-12-28"
+    },
+    {
+      "name": "창선농협하나로마트",
+      "address": "경상남도 남해군 창선면 수산리 220-1 창선농협",
+      "roadAddress": "경상남도 남해군 창선면 창선로 69, 창선농협",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-30"
+    },
+    {
+      "name": "서원탑천광마트",
+      "address": "경상남도 남해군 창선면 상죽리 127 서원탑훼미리",
+      "roadAddress": "경상남도 남해군 창선면 창선로 105, 서원탑훼미리",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-30"
+    },
+    {
+      "name": "죽방렴수산물",
+      "address": "경상남도 남해군 창선면 대벽리 6-21 죽방렴매점",
+      "roadAddress": "경상남도 남해군 창선면 동부대로2964번길 49-8, 죽방렴매점",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-04"
+    },
+    {
+      "name": "창선할인마트",
+      "address": "경상남도 남해군 창선면 수산리 196-2 창선할인마트",
+      "roadAddress": "경상남도 남해군 창선면 창선로 79, 창선할인마트",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-14"
+    },
+    {
+      "name": "씨유 창선점",
+      "address": "경상남도 남해군 창선면 상죽리 119-3 경남노인복지센터",
+      "roadAddress": "경상남도 남해군 창선면 창선로 97-4, 경남노인복지센터",
+      "status": "영업/정상",
+      "licenseDate": "2017-11-28"
+    },
+    {
+      "name": "씨유 남해오션뷰점",
+      "address": "경상남도 남해군 창선면 동대리 100-13",
+      "roadAddress": "경상남도 남해군 창선면 동부대로 2589",
+      "status": "영업/정상",
+      "licenseDate": "2020-08-31"
+    },
+    {
+      "name": "새남해농협(서면지점)",
+      "address": "경상남도 남해군 서면 서상리 641 새남해농협",
+      "roadAddress": "경상남도 남해군 서면 스포츠로 679, 새남해농협",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "축협판매장",
+      "address": "경상남도 남해군 남해읍 북변리 190-5 남해축협",
+      "roadAddress": "경상남도 남해군 남해읍 화전로78번가길 9, 남해축협",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-01"
+    },
+    {
+      "name": "새남해농협(중현지점)",
+      "address": "경상남도 남해군 서면 중현리 1467-2 새남재농협(중현지소)",
+      "roadAddress": "경상남도 남해군 서면 남서대로 2618, 새남재농협(중현지소)",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "대정보물섬편의점",
+      "address": "경상남도 남해군 서면 대정리 824-3",
+      "roadAddress": "경상남도 남해군 서면 스포츠로 474",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "서면슈퍼",
+      "address": "경상남도 남해군 서면 대정리 824-3",
+      "roadAddress": "경상남도 남해군 서면 스포츠로 474",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "CU스포츠파크호텔점",
+      "address": "경상남도 남해군 서면 서상리 1182-9 남해스포츠파크호텔",
+      "roadAddress": "경상남도 남해군 서면 스포츠파크길 73, 남해스포츠파크호텔",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "씨유 남해평산점",
+      "address": "경상남도 남해군 남면 평산리 1658",
+      "roadAddress": "경상남도 남해군 남면 남면로 1747",
+      "status": "영업/정상",
+      "licenseDate": "2021-02-19"
+    },
+    {
+      "name": "남면서점 기물상회",
+      "address": "경상남도 남해군 남면 당항리 1382-5 남해서점기물상회",
+      "roadAddress": "경상남도 남해군 남면 남서대로 783, 남해서점기물상회",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-12"
+    },
+    {
+      "name": "펜션빈",
+      "address": "경상남도 남해군 미조면 송정리 474-1 아조아펜션",
+      "roadAddress": "경상남도 남해군 미조면 동부대로 33, 아조아펜션",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-08"
+    },
+    {
+      "name": "지에스(GS)25남해창선점",
+      "address": "경상남도 남해군 창선면 지족리 293 대한횟집",
+      "roadAddress": "경상남도 남해군 창선면 동부대로 1927, 대한횟집",
+      "status": "영업/정상",
+      "licenseDate": "2021-01-21"
+    },
+    {
+      "name": "부영시장마트",
+      "address": "경상남도 남해군 남해읍 아산리 320-2",
+      "roadAddress": "경상남도 남해군 남해읍 망운로 72",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-26"
+    },
+    {
+      "name": "삼천포상회",
+      "address": "경상남도 남해군 남해읍 심천리 756-2 삼천포상회",
+      "roadAddress": "경상남도 남해군 남해읍 남해대로2984번길 34, 삼천포상회",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사랑슈퍼",
+      "address": "경상남도 남해군 남해읍 남변리 500-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협야채코너",
+      "address": "경상남도 남해군 남해읍 북변리 1000-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행운상회",
+      "address": "경상남도 남해군 남해읍 서변리 145-8 남해보훈회관",
+      "roadAddress": "경상남도 남해군 남해읍 화전로43번길 1-1, 남해보훈회관",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호비취마트",
+      "address": "경상남도 남해군 미조면 송정리 442",
+      "roadAddress": "경상남도 남해군 미조면 동부대로7번길 4",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강원냉면",
+      "address": "경상남도 남해군 남해읍 입현리 1580-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정 편의점",
+      "address": "경상남도 남해군 남해읍 북변리 257-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정편의점",
+      "address": "경상남도 남해군 남해읍 북변리 257-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남흥상회",
+      "address": "경상남도 남해군 남해읍 북변리 246-1",
+      "roadAddress": "경상남도 남해군 남해읍 화전로 110",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-27"
+    },
+    {
+      "name": "한려24시편의점",
+      "address": "경상남도 남해군 남해읍 북변리 294-3 한려24시편의점",
+      "roadAddress": "경상남도 남해군 남해읍 화전로 117-2, 한려24시편의점",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "롯데슈퍼남해점",
+      "address": "경상남도 남해군 남해읍 북변리 284-27 남해A플러스마트",
+      "roadAddress": "경상남도 남해군 남해읍 화전로96번가길 22, 남해A플러스마트",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-07"
+    },
+    {
+      "name": "도매유통남해점",
+      "address": "경상남도 남해군 남해읍 아산리 366-2",
+      "roadAddress": "경상남도 남해군 남해읍 망운로 26",
+      "status": "영업/정상",
+      "licenseDate": "2010-02-01"
+    },
+    {
+      "name": "털보상회",
+      "address": "경상남도 남해군 남해읍 북변리 246-1",
+      "roadAddress": "경상남도 남해군 남해읍 화전로 110",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-16"
+    },
+    {
+      "name": "설천슈퍼",
+      "address": "경상남도 남해군 남해읍 북변리 298-10 설천슈퍼마켓",
+      "roadAddress": "경상남도 남해군 남해읍 화전로 114, 설천슈퍼마켓",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "행운상회",
+      "address": "경상남도 남해군 남해읍 서변리 145-8 남해보훈회관",
+      "roadAddress": "경상남도 남해군 남해읍 화전로43번길 1-1, 남해보훈회관",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "홈마트남해점",
+      "address": "경상남도 남해군 남해읍 남변리 501-13",
+      "roadAddress": "경상남도 남해군 남해읍 화전로 13",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-01"
+    },
+    {
+      "name": "씨유남해수정점",
+      "address": "경상남도 남해군 남해읍 북변리 125-15 페밀리마트",
+      "roadAddress": "경상남도 남해군 남해읍 화전로 75-3, 페밀리마트",
+      "status": "영업/정상",
+      "licenseDate": "2018-02-01"
+    },
+    {
+      "name": "씨유남해군청점",
+      "address": "경상남도 남해군 남해읍 북변리 139-4 패밀리마트",
+      "roadAddress": "경상남도 남해군 남해읍 망운로9번길 2, 패밀리마트",
+      "status": "영업/정상",
+      "licenseDate": "2019-04-01"
+    },
+    {
+      "name": "씨유남해점",
+      "address": "경상남도 남해군 남해읍 북변리 212-3 페밀리마트",
+      "roadAddress": "경상남도 남해군 남해읍 화전로78번길 9, 페밀리마트",
+      "status": "영업/정상",
+      "licenseDate": "1900-01-01"
+    },
+    {
+      "name": "씨유남해현대점",
+      "address": "경상남도 남해군 남해읍 남변리 395-10 현대상회",
+      "roadAddress": "경상남도 남해군 남해읍 화전로 60, 현대상회",
+      "status": "영업/정상",
+      "licenseDate": "2015-06-01"
+    },
+    {
+      "name": "대정구판장",
+      "address": "경상남도 남해군 서면 대정리 818-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙상회",
+      "address": "경상남도 남해군 미조면 미조리 219",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "차부집",
+      "address": "경상남도 남해군 설천면 남양리 94-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경상남도 남해군 남면 당항리 1384-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대영상회",
+      "address": "경상남도 남해군 남면 당항리 1493-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "석평구판장",
+      "address": "경상남도 남해군 이동면 석평리 467-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선영상회",
+      "address": "경상남도 남해군 이동면 무림리 1235",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼호상회",
+      "address": "경상남도 남해군 이동면 무림리 1134-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화신상회",
+      "address": "경상남도 남해군 이동면 무림리 1123",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리상회",
+      "address": "경상남도 남해군 이동면 무림리 1037-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼남상회",
+      "address": "경상남도 남해군 이동면 무림리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초록25시",
+      "address": "경상남도 남해군 이동면 무림리 1038",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경상상회",
+      "address": "경상남도 남해군 이동면 무림리 927",
+      "roadAddress": "경상남도 남해군 이동면 무림로 81-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "난양구판장",
+      "address": "경상남도 남해군 이동면 난음리 1772-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "협신상회",
+      "address": "경상남도 남해군 삼동면 지족리 199-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉화마을구판장",
+      "address": "경상남도 남해군 삼동면 봉화리 934",
+      "roadAddress": "경상남도 남해군 삼동면 봉화로139번길 21-4",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은점마을구판장",
+      "address": "경상남도 남해군 삼동면 물건리 607-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해원상회",
+      "address": "경상남도 남해군 삼동면 물건리 508-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "린스편의점",
+      "address": "경상남도 남해군 삼동면 지족리 223",
+      "roadAddress": "경상남도 남해군 삼동면 동부대로1876번가길 34",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "반도수퍼",
+      "address": "경상남도 남해군 삼동면 지족리 534-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동창상회",
+      "address": "경상남도 남해군 삼동면 지족리 240-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남창미곡상회",
+      "address": "경상남도 남해군 삼동면 지족리 296",
+      "roadAddress": "경상남도 남해군 삼동면 삼이로4번길 16",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "벽련상회",
+      "address": "경상남도 남해군 상주면 양아리 1886",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "벽련구판장",
+      "address": "경상남도 남해군 상주면 양아리 1913",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상주한려슈퍼",
+      "address": "경상남도 남해군 상주면 상주리 1293-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금포상회",
+      "address": "경상남도 남해군 상주면 상주리 353-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금포상회",
+      "address": "경상남도 남해군 상주면 상주리 353-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남해상회",
+      "address": "경상남도 남해군 창선면 상죽리 153-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일꽃집",
+      "address": "경상남도 남해군 창선면 상죽리 101-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송림수퍼",
+      "address": "경상남도 남해군 이동면 무림리 1144",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송남구판장",
+      "address": "경상남도 남해군 미조면 송정리 1050",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송정해수욕장번영회",
+      "address": "경상남도 남해군 미조면 송정리 1124-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배가게",
+      "address": "경상남도 남해군 창선면 상신리 167",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울횟집",
+      "address": "경상남도 남해군 설천면 노량리 410-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상주어촌계",
+      "address": "경상남도 남해군 상주면 상주리 1154",
+      "roadAddress": "경상남도 남해군 상주면 남해대로 698-5",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금전목마상회",
+      "address": "경상남도 남해군 상주면 상주리 1365",
+      "roadAddress": "경상남도 남해군 상주면 상주로68번길 10",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금전식품",
+      "address": "경상남도 남해군 상주면 상주리 1368",
+      "roadAddress": "경상남도 남해군 상주면 상주로68번길 13-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상주문방구",
+      "address": "경상남도 남해군 상주면 상주리 631",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "임촌성림상회",
+      "address": "경상남도 남해군 상주면 상주리 1216-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상주번영회",
+      "address": "경상남도 남해군 상주면 상주리 일원",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상주번영회",
+      "address": "경상남도 남해군 상주면 상주리 일원",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "준호상회",
+      "address": "경상남도 남해군 남해읍 아산리 970-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신풍상회",
+      "address": "경상남도 남해군 남해읍 서변리 174-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이층상회",
+      "address": "경상남도 남해군 남해읍 서변리 146-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상남도 남해군 남해읍 북변리 292-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은진수퍼",
+      "address": "경상남도 남해군 남해읍 서변리 145-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "재남상회",
+      "address": "경상남도 남해군 남해읍 서변리 110-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남수상회",
+      "address": "경상남도 남해군 남해읍 서변리 53-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대원상회",
+      "address": "경상남도 남해군 남해읍 서변리 5-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "찬수상회",
+      "address": "경상남도 남해군 남해읍 아산리 397-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "설천수퍼",
+      "address": "경상남도 남해군 남해읍 북변리 298-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오복집",
+      "address": "경상남도 남해군 남해읍 북변리 519-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남도수퍼",
+      "address": "경상남도 남해군 남해읍 북변리 476-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화신상회",
+      "address": "경상남도 남해군 이동면 무림리 1123",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "육아네문방구",
+      "address": "경상남도 남해군 미조면 미조리 614",
+      "roadAddress": "경상남도 남해군 미조면 미송로2번길 9",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미송상회",
+      "address": "경상남도 남해군 미조면 미조리 552",
+      "roadAddress": "경상남도 남해군 미조면 남해대로 4-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해양상회",
+      "address": "경상남도 남해군 미조면 미조리 96-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "섬상회",
+      "address": "경상남도 남해군 미조면 미조리 168-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미성슈퍼",
+      "address": "경상남도 남해군 미조면 미조리 100-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원남슈퍼",
+      "address": "경상남도 남해군 미조면 미조리 104-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "25시편의점",
+      "address": "경상남도 남해군 미조면 미조리 164-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홍성상회",
+      "address": "경상남도 남해군 미조면 미조리 89-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경일수산",
+      "address": "경상남도 남해군 미조면 미조리 90-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔랑종점상회",
+      "address": "경상남도 남해군 미조면 미조리 264",
+      "roadAddress": "경상남도 남해군 미조면 미조로318번길 9-10",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔랑구판장",
+      "address": "경상남도 남해군 미조면 미조리 175-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙상회",
+      "address": "경상남도 남해군 미조면 미조리 219",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초전상회",
+      "address": "경상남도 남해군 미조면 미조리 105-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금화상회",
+      "address": "경상남도 남해군 미조면 미조리 84-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대사구판장",
+      "address": "경상남도 남해군 고현면 대사리 486",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "도마상회",
+      "address": "경상남도 남해군 고현면 도마리 1120-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍산슈퍼",
+      "address": "경상남도 남해군 고현면 이어리 327-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성산구판장",
+      "address": "경상남도 남해군 고현면 도마리 507-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이어구판장",
+      "address": "경상남도 남해군 고현면 이어리 438-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배가게",
+      "address": "경상남도 남해군 창선면 상신리 167",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "당저2리",
+      "address": "경상남도 남해군 창선면 당저리 322",
+      "roadAddress": "경상남도 남해군 창선면 동부대로2084번길 23-6",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새맛횟집",
+      "address": "경상남도 남해군 창선면 지족리 281",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "감암구판장",
+      "address": "경상남도 남해군 설천면 노량리 558",
+      "roadAddress": "경상남도 남해군 설천면 노량로 94",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평산구판장",
+      "address": "경상남도 남해군 남면 평산리 1504",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홍현구판장",
+      "address": "경상남도 남해군 남면 홍현리 147",
+      "roadAddress": "경상남도 남해군 남면 남면로353번길 9-7",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평1리상회",
+      "address": "경상남도 남해군 남면 평산리 1754",
+      "roadAddress": "경상남도 남해군 남면 남면로1673번길 53",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "석교구판장",
+      "address": "경상남도 남해군 남면 석교리 779-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "숙호구판장",
+      "address": "경상남도 남해군 남면 석교리 274",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월포구판장",
+      "address": "경상남도 남해군 남면 석교리 77",
+      "roadAddress": "경상남도 남해군 남면 남면로111번길 7-32",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우형회관",
+      "address": "경상남도 남해군 남면 당항리 1901",
+      "roadAddress": "경상남도 남해군 남면 두양로270번길 45",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유구구판장",
+      "address": "경상남도 남해군 남면 평산리 1224",
+      "roadAddress": "경상남도 남해군 남면 남면로1577번길 20-4",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두곡구판장",
+      "address": "경상남도 남해군 남면 당항리 407",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남흥상회",
+      "address": "경상남도 남해군 남해읍 북변리 246-1",
+      "roadAddress": "경상남도 남해군 남해읍 화전로 110",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데편의점",
+      "address": "경상남도 남해군 남해읍 북변리 255-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상남도 남해군 남해읍 북변리 292-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상남도 남해군 남해읍 북변리 292-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상남도 남해군 남해읍 북변리 292-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상남도 남해군 남해읍 남변리 395-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바다낚시",
+      "address": "경상남도 남해군 남해읍 남변리 392-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상남도 남해군 남해읍 북변리 292-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상남도 남해군 남해읍 북변리 292-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화성침구상회",
+      "address": "경상남도 남해군 남해읍 북변리 250-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "학생백화점",
+      "address": "경상남도 남해군 남해읍 북변리 231-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만우수퍼",
+      "address": "경상남도 남해군 남해읍 북변리 174-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제상회",
+      "address": "경상남도 남해군 남해읍 북변리 125-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상남도 남해군 남해읍 북변리 292-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한려편의점",
+      "address": "경상남도 남해군 남해읍 북변리 294",
+      "roadAddress": "경상남도 남해군 남해읍 화전로 117-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상남도 남해군 남해읍 북변리 292-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "재건도료사",
+      "address": "경상남도 남해군 남해읍 북변리 242-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선소구판장",
+      "address": "경상남도 남해군 남해읍 선소리 116",
+      "roadAddress": "경상남도 남해군 남해읍 선소로 161-6",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "심천구판장",
+      "address": "경상남도 남해군 남해읍 심천리 386",
+      "roadAddress": "경상남도 남해군 남해읍 남해대로2984번길 53-6",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신기구판장",
+      "address": "경상남도 남해군 남해읍 아산리 448-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광포구판장",
+      "address": "경상남도 남해군 남해읍 평리 989",
+      "roadAddress": "경상남도 남해군 남해읍 스포츠로105번길 34-22",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개인",
+      "address": "경상남도 남해군 남해읍 평리 1053-1",
+      "roadAddress": "경상남도 남해군 남해읍 스포츠로64번길 36",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소입현구판장",
+      "address": "경상남도 남해군 남해읍 입현리 1539",
+      "roadAddress": "경상남도 남해군 남해읍 남해대로2698번길 28-6",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아산구판장",
+      "address": "경상남도 남해군 남해읍 아산리 932",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남양매점",
+      "address": "경상남도 남해군 남해읍 아산리 970-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상남도 남해군 남해읍 북변리 292-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉전구판장",
+      "address": "경상남도 남해군 남해읍 아산리 336-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상남도 남해군 남해읍 북변리 292-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상남도 남해군 남해읍 북변리 292-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "작은시장",
+      "address": "경상남도 남해군 남해읍 서변리 27-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연광슈퍼",
+      "address": "경상남도 남해군 서면 서상리 643-5 연광슈퍼",
+      "roadAddress": "경상남도 남해군 서면 남서대로 1655, 연광슈퍼",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-25"
+    },
+    {
+      "name": "오리슈퍼",
+      "address": "경상남도 남해군 남면 평산리 310",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "당항구판장",
+      "address": "경상남도 남해군 남면 평산리 150-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초음구판장",
+      "address": "경상남도 남해군 이동면 초음리 1252-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무림구판장",
+      "address": "경상남도 남해군 이동면 무림리 199-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다천구판장",
+      "address": "경상남도 남해군 이동면 다정리 325",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금평구판장",
+      "address": "경상남도 남해군 이동면 신전리 157-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신전구멍가게",
+      "address": "경상남도 남해군 이동면 신전리 976-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화계정류소",
+      "address": "경상남도 남해군 이동면 화계리 181-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영신상회",
+      "address": "경상남도 남해군 이동면 화계리 242-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용소상회",
+      "address": "경상남도 남해군 이동면 용소리 608-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화계문방구",
+      "address": "경상남도 남해군 이동면 화계리 589",
+      "roadAddress": "경상남도 남해군 이동면 남서대로203번길 33-4",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해변상회",
+      "address": "경상남도 남해군 삼동면 물건리 331",
+      "roadAddress": "경상남도 남해군 삼동면 동부대로1030번길 83",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동천정류소",
+      "address": "경상남도 남해군 삼동면 동천리 1029-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상주송림슈퍼",
+      "address": "경상남도 남해군 상주면 상주리 1306",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상주수퍼",
+      "address": "경상남도 남해군 상주면 상주리 1104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금포어촌계",
+      "address": "경상남도 남해군 상주면 상주리 183-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양아어촌계",
+      "address": "경상남도 남해군 상주면 양아리 1813",
+      "roadAddress": "경상남도 남해군 상주면 남해대로1299번길 76-4",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초전구판장",
+      "address": "경상남도 남해군 미조면 송정리 352-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그늘상회",
+      "address": "경상남도 남해군 미조면 송정리 1173",
+      "roadAddress": "경상남도 남해군 미조면 미송로483번길 4-30",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보라매상회",
+      "address": "경상남도 남해군 미조면 송정리 1173-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "설리구판장",
+      "address": "경상남도 남해군 미조면 미조리 9841",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "설리상회",
+      "address": "경상남도 남해군 미조면 미조리 981-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "윤이스토아",
+      "address": "경상남도 남해군 미조면 미조리 104-71",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청탑슈퍼",
+      "address": "경상남도 남해군 고현면 대사리 765-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남산매점",
+      "address": "경상남도 남해군 남해읍 서변리 361",
+      "roadAddress": "경상남도 남해군 남해읍 망운로21번가길 24-15",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남해슈퍼",
+      "address": "경상남도 남해군 남해읍 북변리 250-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상남도 남해군 남해읍 북변리 292-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영생편의점",
+      "address": "경상남도 남해군 남해읍 서변리 292-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해풍상회",
+      "address": "경상남도 남해군 미조면 송정리 1044",
+      "roadAddress": "경상남도 남해군 미조면 미송로483번길 45",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신세계마트",
+      "address": "경상남도 남해군 삼동면 지족리 386-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해변상점",
+      "address": "경상남도 남해군 상주면 양아리 979",
+      "roadAddress": "경상남도 남해군 상주면 상주로560번길 41",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양아상회",
+      "address": "경상남도 남해군 상주면 양아리 743-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    }
+  ]
+}

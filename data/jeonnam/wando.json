@@ -1,0 +1,2558 @@
+{
+  "region": "전라남도",
+  "regionSlug": "jeonnam",
+  "district": "완도군",
+  "districtSlug": "wando",
+  "updatedAt": "2026-03-26",
+  "totalCount": 364,
+  "stores": [
+    {
+      "name": "코끼리문구사",
+      "address": "전라남도 완도군 완도읍 군내리 782-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "무궁화슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 310-58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "일성상회",
+      "address": "전라남도 완도군 완도읍 군내리 782-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "효진상회",
+      "address": "전라남도 완도군 완도읍 군내리 8502-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 829",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "진화상회",
+      "address": "전라남도 완도군 완도읍 군내리 725-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "무등슈퍼",
+      "address": "전라남도 완도군 완도읍 가용리 18-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "학림슈퍼",
+      "address": "전라남도 완도군 완도읍 가용리 1025-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "해성슈퍼",
+      "address": "전라남도 완도군 완도읍 가용리 6-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대영상회",
+      "address": "전라남도 완도군 완도읍 가용리 534-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "진흥상회",
+      "address": "전라남도 완도군 완도읍 죽청리 391-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "염신슈퍼",
+      "address": "전라남도 완도군 완도읍 장좌리 139",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "조씨상회",
+      "address": "전라남도 완도군 완도읍 대야리 721-1 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "풍년상회",
+      "address": "전라남도 완도군 완도읍 대야리 412 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대야상회",
+      "address": "전라남도 완도군 완도읍 대야리 472 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "구계등구매점",
+      "address": "전라남도 완도군 완도읍 중도리 1049-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "정도리구판장",
+      "address": "전라남도 완도군 완도읍 정도리 354-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "구계등매점",
+      "address": "전라남도 완도군 완도읍 정도리 488",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "화흥리구판장",
+      "address": "전라남도 완도군 완도읍 화흥리 668",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대구리구판장",
+      "address": "전라남도 완도군 완도읍 대신리 86",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "석장리구판장",
+      "address": "전라남도 완도군 완도읍 정도리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대신리구판장",
+      "address": "전라남도 완도군 완도읍 대신리 648",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "광명상회",
+      "address": "전라남도 완도군 금일읍 화목리 960-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "세브란스",
+      "address": "전라남도 완도군 금일읍 화목리 159",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "마을상회",
+      "address": "전라남도 완도군 금일읍 사동리 333",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 310",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "협진회생활협동조합",
+      "address": "전라남도 완도군 완도읍 군내리 363-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "청운문구",
+      "address": "전라남도 완도군 완도읍 군내리 316-51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-30"
+    },
+    {
+      "name": "대양수퍼",
+      "address": "전라남도 완도군 완도읍 군내리 308",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "곤고상회",
+      "address": "전라남도 완도군 완도읍 군내리 332-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "원일슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 362",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "고금슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 365",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "통샘슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 419-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명성슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 375",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "경일슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 367-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "영복상회",
+      "address": "전라남도 완도군 완도읍 군내리 410-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남해상회",
+      "address": "전라남도 완도군 완도읍 군내리 396-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "오케이상회",
+      "address": "전라남도 완도군 완도읍 군내리 757",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "체육관상회",
+      "address": "전라남도 완도군 완도읍 군내리 639-93",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "용암상회",
+      "address": "전라남도 완도군 완도읍 군내리 880-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "해미상회",
+      "address": "전라남도 완도군 완도읍 군내리 692",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "봉학슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 788",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "오복상회",
+      "address": "전라남도 완도군 완도읍 군내리 717",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "영미식당",
+      "address": "전라남도 완도군 완도읍 군내리 778-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "명신상회",
+      "address": "전라남도 완도군 완도읍 군내리 892-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "노두상회",
+      "address": "전라남도 완도군 완도읍 군내리 1144",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상록슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 528-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빙그레슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 527-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "진희상회",
+      "address": "전라남도 완도군 완도읍 군내리 1139-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "춘하추동슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 778",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "담배소매업",
+      "address": "전라남도 완도군 완도읍 군내리 889-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "신일상회",
+      "address": "전라남도 완도군 완도읍 군내리 1086-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "한국지체장애인협회완도군지회",
+      "address": "전라남도 완도군 완도읍 군내리 1249-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "해변슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 1267",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "완도슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 1248-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대도연쇄점",
+      "address": "전라남도 완도군 완도읍 군내리 1220-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "은혜종합슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 1272-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "길슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 1242-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "동해슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 1272-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "금호슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 1221-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "세림슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 1251 세림아파트105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "성화슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 1226",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "종합슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 1249",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "정류소슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 1230",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "행운슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 1241",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "만물상회",
+      "address": "전라남도 완도군 완도읍 군내리 822-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "흥일슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 822-219",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "봉래슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 822-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "아름식품",
+      "address": "전라남도 완도군 완도읍 군내리 818-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "한일상사",
+      "address": "전라남도 완도군 완도읍 군내리 822-187",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼천마트",
+      "address": "전라남도 완도군 완도읍 군내리 822-136",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 822-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "영감상회",
+      "address": "전라남도 완도군 완도읍 군내리 822-42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼천리슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 822-217",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 822-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "성광슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 822-152",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "청해슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 822-63",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "반도양복점",
+      "address": "전라남도 완도군 완도읍 군내리 822-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "문성상회",
+      "address": "전라남도 완도군 완도읍 군내리 741-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "할머니상회",
+      "address": "전라남도 완도군 완도읍 군내리 690",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "우대미슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 606",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "양지슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 782-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "종례상회",
+      "address": "전라남도 완도군 신지면 동고리 525 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "청운슈퍼",
+      "address": "전라남도 완도군 신지면 동고리 377-1 2구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "골든양행",
+      "address": "전라남도 완도군 고금면 덕암리 627-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "경주식당",
+      "address": "전라남도 완도군 고금면 농상리 387-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "현대사진관",
+      "address": "전라남도 완도군 고금면 덕암리 626-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "청용상회",
+      "address": "전라남도 완도군 고금면 청용리 263",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상정상회",
+      "address": "전라남도 완도군 고금면 상정리 27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "염전상회",
+      "address": "전라남도 완도군 고금면 회룡리 408-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "양지상회",
+      "address": "전라남도 완도군 고금면 농상리 602-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "영진상회",
+      "address": "전라남도 완도군 고금면 세동리 145",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "덕동상회",
+      "address": "전라남도 완도군 고금면 덕동리 306-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "일덕상회",
+      "address": "전라남도 완도군 고금면 덕암리 588-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "회룡상회",
+      "address": "전라남도 완도군 고금면 회룡리 349",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "윤동상회",
+      "address": "전라남도 완도군 고금면 덕동리 54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "가교상회",
+      "address": "전라남도 완도군 고금면 가교리 312",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "영부상회",
+      "address": "전라남도 완도군 고금면 봉명리 276-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "항동상회",
+      "address": "전라남도 완도군 고금면 가교리 724",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "봉암상회",
+      "address": "전라남도 완도군 고금면 봉명리 1475-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "장중상회",
+      "address": "전라남도 완도군 고금면 가교리 982",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대곡상회",
+      "address": "전라남도 완도군 고금면 덕동리 868-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "세동상회",
+      "address": "전라남도 완도군 고금면 세동리 502",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "교성상회",
+      "address": "전라남도 완도군 고금면 가교리 919",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "복식품",
+      "address": "전라남도 완도군 약산면 장용리 898",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "고모상회",
+      "address": "전라남도 완도군 약산면 장용리 914-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "중앙식품",
+      "address": "전라남도 완도군 약산면 장용리 826-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "여동상회",
+      "address": "전라남도 완도군 약산면 우두리 137",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼거리상회",
+      "address": "전라남도 완도군 약산면 우두리 398",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "장용상회",
+      "address": "전라남도 완도군 약산면 장용리 823",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "죽선상회",
+      "address": "전라남도 완도군 약산면 관산리 765",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "가래구매점",
+      "address": "전라남도 완도군 약산면 관산리 175",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "선열가게",
+      "address": "전라남도 완도군 약산면 관산리 75",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "부두식당",
+      "address": "전라남도 완도군 약산면 관산리 746",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "새우리식당",
+      "address": "전라남도 완도군 약산면 관산리 668-83",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "관서상회",
+      "address": "전라남도 완도군 약산면 관산리 3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "갑홍상회",
+      "address": "전라남도 완도군 약산면 관산리 739",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "득암구매점",
+      "address": "전라남도 완도군 약산면 득암리 398",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "득암식당",
+      "address": "전라남도 완도군 약산면 득암리 506",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "동부식품",
+      "address": "전라남도 완도군 약산면 해동리 359-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "해동상회",
+      "address": "전라남도 완도군 약산면 해동리 317",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "당목상회",
+      "address": "전라남도 완도군 약산면 관산리 630",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "어두구매점",
+      "address": "전라남도 완도군 약산면 우두리 158",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "가사구매점",
+      "address": "전라남도 완도군 약산면 우두리 564",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "도청상회",
+      "address": "전라남도 완도군 청산면 도청리 1141-1 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "현희상회",
+      "address": "전라남도 완도군 청산면 도청리 930-9 2구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "남해상회",
+      "address": "전라남도 완도군 청산면 도청리 1064 2구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "신흥상점",
+      "address": "전라남도 완도군 청산면 신흥리 9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "해태상회",
+      "address": "전라남도 완도군 청산면 신흥리 155",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "도락상회",
+      "address": "전라남도 완도군 청산면 국산리 910",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "현종상회",
+      "address": "전라남도 완도군 청산면 국산리 874",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "청계상회",
+      "address": "전라남도 완도군 청산면 청계리 489",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "청산약국슈퍼",
+      "address": "전라남도 완도군 청산면 지리 328",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "읍리상회",
+      "address": "전라남도 완도군 청산면 읍리 871",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "당리상회",
+      "address": "전라남도 완도군 청산면 당락리 478",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "도청1구상회",
+      "address": "전라남도 완도군 청산면 도청리 330 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "중흥상회",
+      "address": "전라남도 완도군 청산면 부흥리 122-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상서상회",
+      "address": "전라남도 완도군 청산면 상동리 351",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "원동상회",
+      "address": "전라남도 완도군 청산면 여서리 803",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "진산상회",
+      "address": "전라남도 완도군 청산면 지리 150",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "권덕상회",
+      "address": "전라남도 완도군 청산면 지리 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "구장상회",
+      "address": "전라남도 완도군 청산면 국산리 239",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "지리상회",
+      "address": "전라남도 완도군 청산면 지리 743",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "동촌상회",
+      "address": "전라남도 완도군 청산면 동촌리 317",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "부흥상회",
+      "address": "전라남도 완도군 청산면 부흥리 122",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "신흥상회",
+      "address": "전라남도 완도군 청산면 신흥리 366",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "국화상회",
+      "address": "전라남도 완도군 청산면 국산리 819-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "비동연쇄점",
+      "address": "전라남도 완도군 소안면 비자리 648-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "민중상회",
+      "address": "전라남도 완도군 소안면 비자리 1157",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "수정슈퍼",
+      "address": "전라남도 완도군 소안면 비자리 1180-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "영슈퍼",
+      "address": "전라남도 완도군 소안면 비자리 1189",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "이목상회",
+      "address": "전라남도 완도군 소안면 이월리 812-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "월항연쇄점",
+      "address": "전라남도 완도군 소안면 이월리 253",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "궁수슈퍼",
+      "address": "전라남도 완도군 소안면 이월리 453-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "동원상회",
+      "address": "전라남도 완도군 소안면 진산리 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "가학연쇄점",
+      "address": "전라남도 완도군 소안면 가학리 367",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "재영상회",
+      "address": "전라남도 완도군 소안면 가학리 152",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "맹선연쇄점",
+      "address": "전라남도 완도군 소안면 맹선리 374-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "서중연쇄점",
+      "address": "전라남도 완도군 소안면 진산리 1410",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "동진슈퍼",
+      "address": "전라남도 완도군 소안면 진산리 644",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "재생상회",
+      "address": "전라남도 완도군 소안면 진산리 1076-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "소진연쇄점",
+      "address": "전라남도 완도군 소안면 진산리 32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "부상슈퍼",
+      "address": "전라남도 완도군 소안면 비자리 1170",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "미라연쇄점",
+      "address": "전라남도 완도군 소안면 미라리 444-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "명성슈퍼",
+      "address": "전라남도 완도군 소안면 미라리 368",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "금당농협",
+      "address": "전라남도 완도군 금당면 차우리 29-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "하림슈퍼",
+      "address": "전라남도 완도군 금당면 차우리 44-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "감재슈퍼",
+      "address": "전라남도 완도군 금당면 차우리 38-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "문호상회",
+      "address": "전라남도 완도군 금당면 차우리 875",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "이준상회",
+      "address": "전라남도 완도군 금당면 차우리 706",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "세포상회",
+      "address": "전라남도 완도군 금당면 차우리 313",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "육동슈퍼",
+      "address": "전라남도 완도군 금당면 육산리 99-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "학교슈퍼",
+      "address": "전라남도 완도군 금당면 육산리 211",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼산상회",
+      "address": "전라남도 완도군 금당면 육산리 674",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "세추목상회",
+      "address": "전라남도 완도군 금당면 육산리 813",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "원동슈퍼",
+      "address": "전라남도 완도군 금당면 육산리 861",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "온금포상회",
+      "address": "전라남도 완도군 금당면 육산리 949-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "회관상회",
+      "address": "전라남도 완도군 금당면 가학리 199",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "가학슈퍼",
+      "address": "전라남도 완도군 금당면 가학리 산 198",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "관광슈퍼",
+      "address": "전라남도 완도군 보길면 부황리 1-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼아슈퍼",
+      "address": "전라남도 완도군 보길면 부황리 7-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "오뚜기슈퍼",
+      "address": "전라남도 완도군 보길면 부황리 202-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "동백매점",
+      "address": "전라남도 완도군 보길면 부황리 239-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "영아슈퍼",
+      "address": "전라남도 완도군 보길면 중통리 897",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "통리슈퍼",
+      "address": "전라남도 완도군 보길면 중통리 872-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "전라남도 완도군 보길면 부황리 427-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "중리슈퍼",
+      "address": "전라남도 완도군 보길면 중통리 605-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "여항슈퍼",
+      "address": "전라남도 완도군 보길면 762",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "냇가상점",
+      "address": "전라남도 완도군 보길면 정자리 284-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "선창슈퍼",
+      "address": "전라남도 완도군 보길면 부황리 853",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "마을상회",
+      "address": "전라남도 완도군 보길면 부황리 545",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "첫차부상회",
+      "address": "전라남도 완도군 보길면 예송리 265-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "소라상점",
+      "address": "전라남도 완도군 보길면 예송리 279",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "호산나슈퍼",
+      "address": "전라남도 완도군 보길면 예송리 293",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "정동슈퍼",
+      "address": "전라남도 완도군 보길면 정자리 182-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "유적상회",
+      "address": "전라남도 완도군 보길면 부황리 147",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "담배가게",
+      "address": "전라남도 완도군 보길면 부황리 83-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "평균상회",
+      "address": "전라남도 완도군 생일면 유서리 384",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "담배소매",
+      "address": "전라남도 완도군 생일면 유서리 498-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "잡화상회",
+      "address": "전라남도 완도군 생일면 금곡리 147",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "용출슈퍼",
+      "address": "전라남도 완도군 생일면 금곡리 463-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "유촌상회",
+      "address": "전라남도 완도군 생일면 금곡리 833-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "샛김슈퍼",
+      "address": "전라남도 완도군 생일면 금곡리 483",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "금곡슈퍼",
+      "address": "전라남도 완도군 생일면 금곡리 454",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "반도슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 1246-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "대영슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 1220-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "소비자종합매장",
+      "address": "전라남도 완도군 완도읍 군내리 1220-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "성광식품",
+      "address": "전라남도 완도군 완도읍 군내리 1249",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "해동상회",
+      "address": "전라남도 완도군 완도읍 군내리 822-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "수영슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 344-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "성남슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 1221-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "대승상회",
+      "address": "전라남도 완도군 완도읍 군내리 822",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "고금슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 822-134",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "통일슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 357-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "그린마트편의점",
+      "address": "전라남도 완도군 완도읍 군내리 782-100",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "파랑새슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 1240-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "정성문구잡화",
+      "address": "전라남도 완도군 완도읍 군내리 363-60",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "푸른슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 1236-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "동화슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 1237-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "석산장식",
+      "address": "전라남도 완도군 완도읍 군내리 822-158",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "무등식품",
+      "address": "전라남도 완도군 완도읍 군내리 749-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "화니스파",
+      "address": "전라남도 완도군 완도읍 군내리 1229-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "청운슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 123-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "알뜰매장",
+      "address": "전라남도 완도군 완도읍 군내리 1245-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "축산업판매장",
+      "address": "전라남도 완도군 완도읍 군내리 782-66",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "아모레슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 782-89",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "대일상회",
+      "address": "전라남도 완도군 완도읍 군내리 822-145",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "완도농협연쇄점",
+      "address": "전라남도 완도군 완도읍 군내리 1239-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 363",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "영은슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 1250-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "세림슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 782-121",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "피노키오문구",
+      "address": "전라남도 완도군 완도읍 군내리 1245-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "동양슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 782-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "선두낚시",
+      "address": "전라남도 완도군 완도읍 군내리 310-42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 367-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-23"
+    },
+    {
+      "name": "러브마트",
+      "address": "전라남도 완도군 완도읍 군내리 822-215",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-23"
+    },
+    {
+      "name": "대흥상회",
+      "address": "전라남도 완도군 군외면 원동리 182",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "우정상회",
+      "address": "전라남도 완도군 군외면 원동리 201-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "해송상회",
+      "address": "전라남도 완도군 군외면 원동리 185",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "영재상회",
+      "address": "전라남도 완도군 군외면 원동리 322",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "장풍상회",
+      "address": "전라남도 완도군 고금면 청용리 607",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "이덕상회",
+      "address": "전라남도 완도군 고금면 덕암리 271",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "도남상회",
+      "address": "전라남도 완도군 고금면 덕암리 155",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "연동상회",
+      "address": "전라남도 완도군 고금면 가교리 389",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "척찬상회",
+      "address": "전라남도 완도군 고금면 가교리 1544",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "봉명상회",
+      "address": "전라남도 완도군 고금면 봉명리 285",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "장항상회",
+      "address": "전라남도 완도군 고금면 상정리 604",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "칠인상회",
+      "address": "전라남도 완도군 고금면 가교리 150",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "용초상회",
+      "address": "전라남도 완도군 고금면 회룡리 941",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "청학상회",
+      "address": "전라남도 완도군 고금면 청용리 789",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "봉성상회",
+      "address": "전라남도 완도군 고금면 봉명리 523",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "신장상회",
+      "address": "전라남도 완도군 고금면 가교리 1072",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "부곡상회",
+      "address": "전라남도 완도군 고금면 가교리 392",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "진동상회",
+      "address": "전라남도 완도군 고금면 가교리 1424",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "화성상회",
+      "address": "전라남도 완도군 고금면 가교리 485-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "황태자양복점",
+      "address": "전라남도 완도군 고금면 가교리 427-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "부두상회",
+      "address": "전라남도 완도군 고금면 덕동리 307-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "신진슈퍼",
+      "address": "전라남도 완도군 고금면 농상리 543-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "중앙상회",
+      "address": "전라남도 완도군 고금면 가교리 443",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "고모상회",
+      "address": "전라남도 완도군 약산면 장용리 898-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "약산우체국",
+      "address": "전라남도 완도군 약산면 장용리 898-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "삼거리상회",
+      "address": "전라남도 완도군 청산면 도청리 330-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "소라슈퍼",
+      "address": "전라남도 완도군 고금면 가교리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-02-01"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "전라남도 완도군 청산면 도청리 1179",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-01"
+    },
+    {
+      "name": "일진슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 1236-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-29"
+    },
+    {
+      "name": "선진상회",
+      "address": "전라남도 완도군 노화읍 이포리 282",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-18"
+    },
+    {
+      "name": "프린스낚시점",
+      "address": "전라남도 완도군 완도읍 군내리 822-102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-18"
+    },
+    {
+      "name": "라온마트",
+      "address": "전라남도 완도군 완도읍 군내리 1438",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-01"
+    },
+    {
+      "name": "노화우체국",
+      "address": "전라남도 완도군 노화읍 이포리 889",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-18"
+    },
+    {
+      "name": "군외우체국",
+      "address": "전라남도 완도군 군외면 원동리 196-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-01"
+    },
+    {
+      "name": "청산우체국",
+      "address": "전라남도 완도군 청산면 도청리 1081",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-18"
+    },
+    {
+      "name": "금당우체국",
+      "address": "전라남도 완도군 금당면 차우리 29-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-18"
+    },
+    {
+      "name": "생일우체국",
+      "address": "전라남도 완도군 생일면 금곡리 475-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-01"
+    },
+    {
+      "name": "완도마트로(주)",
+      "address": "전라남도 완도군 완도읍 가용리 1072-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-17"
+    },
+    {
+      "name": "청해알뜰매장",
+      "address": "전라남도 완도군 완도읍 군내리 1272-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-20"
+    },
+    {
+      "name": "현대상회",
+      "address": "전라남도 완도군 완도읍 군내리 1154",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-22"
+    },
+    {
+      "name": "썬마트",
+      "address": "전라남도 완도군 노화읍 이포리 678-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "DC 백화점",
+      "address": "전라남도 완도군 완도읍 군내리 822-198",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-13"
+    },
+    {
+      "name": "빅웨이",
+      "address": "전라남도 완도군 완도읍 군내리 1233-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-02"
+    },
+    {
+      "name": "일흥슈퍼식품",
+      "address": "전라남도 완도군 완도읍 가용리 1014",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-07"
+    },
+    {
+      "name": "새한상사",
+      "address": "전라남도 완도군 완도읍 군내리 820-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-04"
+    },
+    {
+      "name": "청해진어선협회",
+      "address": "전라남도 완도군 완도읍 군내리 308-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-20"
+    },
+    {
+      "name": "한국마트",
+      "address": "전라남도 완도군 완도읍 군내리 782-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-16"
+    },
+    {
+      "name": "24시편의점",
+      "address": "전라남도 완도군 고금면 가교리 1270-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-14"
+    },
+    {
+      "name": "신지슈퍼",
+      "address": "전라남도 완도군 완도읍 군내리 310-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-26"
+    },
+    {
+      "name": "한아름마트",
+      "address": "전라남도 완도군 완도읍 군내리 1260-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-10"
+    },
+    {
+      "name": "믿음상회",
+      "address": "전라남도 완도군 완도읍 군내리 1246-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-18"
+    },
+    {
+      "name": "미니마트",
+      "address": "전라남도 완도군 완도읍 군내리 1265-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-07"
+    },
+    {
+      "name": "중앙문구팬시",
+      "address": "전라남도 완도군 완도읍 군내리 310-58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-08"
+    },
+    {
+      "name": "흥일상회",
+      "address": "전라남도 완도군 금일읍 화목리 744-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "인수상회",
+      "address": "전라남도 완도군 금일읍 화목리 720-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "신구상회",
+      "address": "전라남도 완도군 금일읍 사동리 1009",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상순상회",
+      "address": "전라남도 완도군 금일읍 신구리 383",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "선태상회",
+      "address": "전라남도 완도군 금일읍 신구리 436",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "전라남도 완도군 금일읍 척치리 802-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "중앙상회",
+      "address": "전라남도 완도군 금일읍 척치리 460",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대중소상회",
+      "address": "전라남도 완도군 금일읍 장정리 335",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "중앙상회",
+      "address": "전라남도 완도군 금일읍 장정리 143",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대령상회",
+      "address": "전라남도 완도군 금일읍 장원리 686",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "동송식육점",
+      "address": "전라남도 완도군 금일읍 장원리 611",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "준기상회",
+      "address": "전라남도 완도군 금일읍 월송리 137",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "현옥담배",
+      "address": "전라남도 완도군 금일읍 충동리 61",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "민욱상회",
+      "address": "전라남도 완도군 금일읍 월송리 720",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대용잡화",
+      "address": "전라남도 완도군 금일읍 월송리 748",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "동백상회",
+      "address": "전라남도 완도군 금일읍 동백리 520-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대성상회",
+      "address": "전라남도 완도군 금일읍 동백리 568-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "원조가든",
+      "address": "전라남도 완도군 금일읍 동백리 30-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "죽동상회",
+      "address": "전라남도 완도군 금일읍 사동리 156",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "사동슈퍼",
+      "address": "전라남도 완도군 금일읍 사동리 40-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "보길상회",
+      "address": "전라남도 완도군 노화읍 이포리 820-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대흥상회",
+      "address": "전라남도 완도군 노화읍 이포리 686-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "미성미발관",
+      "address": "전라남도 완도군 노화읍 이포리 674-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "경동상회",
+      "address": "전라남도 완도군 노화읍 이포리 678-130",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "풍년상회",
+      "address": "전라남도 완도군 노화읍 이포리 678-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "덕성상회",
+      "address": "전라남도 완도군 노화읍 이포리 876-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "노화비닐직매장",
+      "address": "전라남도 완도군 노화읍 이포리 678-73",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "금희상회",
+      "address": "전라남도 완도군 노화읍 이포리 195",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "포전상회",
+      "address": "전라남도 완도군 노화읍 이포리 492-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "도청상회",
+      "address": "전라남도 완도군 노화읍 도청리 501-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "소당상회",
+      "address": "전라남도 완도군 노화읍 도청리 1056",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "잘포상회",
+      "address": "전라남도 완도군 노화읍 도청리 1120",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대당상회",
+      "address": "전라남도 완도군 노화읍 등산리 281",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "염등상회",
+      "address": "전라남도 완도군 노화읍 등산리 595",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "당산상회",
+      "address": "전라남도 완도군 노화읍 등산리 933",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼마상회",
+      "address": "전라남도 완도군 노화읍 고막리 438-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "미라상회",
+      "address": "전라남도 완도군 노화읍 고막리 365-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "북고상회",
+      "address": "전라남도 완도군 노화읍 고막리 783",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "신리상회",
+      "address": "전라남도 완도군 노화읍 신양리 678-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "양하상회",
+      "address": "전라남도 완도군 노화읍 신양리 1145-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "원동터미널",
+      "address": "전라남도 완도군 군외면 원동리 42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "제일상회",
+      "address": "전라남도 완도군 군외면 원동리 174-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "매일상회",
+      "address": "전라남도 완도군 군외면 원동리 200-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "친철상회",
+      "address": "전라남도 완도군 군외면 원동리 178",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대창상회",
+      "address": "전라남도 완도군 군외면 원동리 13 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "새마을상회",
+      "address": "전라남도 완도군 군외면 원동리 151 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "영풍상회",
+      "address": "전라남도 완도군 군외면 영풍리 660",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "동아슈퍼",
+      "address": "전라남도 완도군 군외면 불목리 318",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "새마을상회",
+      "address": "전라남도 완도군 군외면 영풍리 725",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "남선상회",
+      "address": "전라남도 완도군 군외면 신학리 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "황진상회",
+      "address": "전라남도 완도군 군외면 황진리 526",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "교인상회",
+      "address": "전라남도 완도군 군외면 대문리 253",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "중리상회",
+      "address": "전라남도 완도군 군외면 당인리 819",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "달도상회",
+      "address": "전라남도 완도군 군외면 대문리 110",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "신흥상회",
+      "address": "전라남도 완도군 군외면 신학리 759",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "신학상회",
+      "address": "전라남도 완도군 군외면 신학리 443",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "용계상회",
+      "address": "전라남도 완도군 군외면 신학리 152",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "초평상회",
+      "address": "전라남도 완도군 군외면 신학리 234",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "옥당슈퍼",
+      "address": "전라남도 완도군 군외면 대문리 520",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "갈문상회",
+      "address": "전라남도 완도군 군외면 대문리 261",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼두정류소",
+      "address": "전라남도 완도군 군외면 삼두리 503",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "당인상회",
+      "address": "전라남도 완도군 군외면 당인리 170",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "물압에식당",
+      "address": "전라남도 완도군 신지면 송곡리 149",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "송곡슈퍼",
+      "address": "전라남도 완도군 신지면 송곡리 309",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "동네슈퍼",
+      "address": "전라남도 완도군 신지면 대곡리 849",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "명사휴게실",
+      "address": "전라남도 완도군 신지면 대곡리 992-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "박승수",
+      "address": "전라남도 완도군 신지면 신리 263-10",
+      "roadAddress": "전라남도 완도군 신지면 명사길 12-51",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "금곡슈퍼",
+      "address": "전라남도 완도군 신지면 대곡리 922",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "학생백화점",
+      "address": "전라남도 완도군 신지면 대곡리 779-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "신기슈퍼",
+      "address": "전라남도 완도군 신지면 신리 724",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "신상슈퍼",
+      "address": "전라남도 완도군 신지면 신상리 191-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "월부슈퍼",
+      "address": "전라남도 완도군 신지면 월양리 889",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "양지슈퍼",
+      "address": "전라남도 완도군 신지면 월양리 877-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "내동구판장",
+      "address": "전라남도 완도군 신지면 월양리 1360",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "가인슈퍼",
+      "address": "전라남도 완도군 신지면 신상리 290-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    }
+  ]
+}

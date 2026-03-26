@@ -1,0 +1,2257 @@
+{
+  "region": "전북특별자치도",
+  "regionSlug": "jeonbuk",
+  "district": "익산시",
+  "districtSlug": "iksan",
+  "updatedAt": "2026-03-26",
+  "totalCount": 321,
+  "stores": [
+    {
+      "name": "OK24시편의점",
+      "address": "전라북도 익산시 영등동 530-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-04"
+    },
+    {
+      "name": "부영마트",
+      "address": "전북특별자치도 익산시 갈산동 부영아파트상가11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "차돌슈퍼",
+      "address": "전북특별자치도 익산시 갈산동 29-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양전기철물",
+      "address": "전북특별자치도 익산시 갈산동 1053-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유)오마트",
+      "address": "전북특별자치도 익산시 갈산동 택지지구67",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공마트",
+      "address": "전북특별자치도 익산시 갈산동 621-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "디씨백화점",
+      "address": "전북특별자치도 익산시 갈산동 834-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "익산대학매점",
+      "address": "전북특별자치도 익산시 마동 194-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제3테크",
+      "address": "전북특별자치도 익산시 남중동 98",
+      "roadAddress": "전북특별자치도 익산시 선화로47길 29  (남중동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그랜드마트",
+      "address": "전북특별자치도 익산시 영등동 우남그랜드타운110-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마동주유소",
+      "address": "전북특별자치도 익산시 마동 235",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일동슈퍼",
+      "address": "전북특별자치도 익산시 남중동 211-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성당농협연쇄점",
+      "address": "전북특별자치도 익산시 성당면 장선리 261-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "윤희상회",
+      "address": "전북특별자치도 익산시 성당면 성당리 457",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장원슈퍼",
+      "address": "전북특별자치도 익산시 남중동 82-61",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새롬슈퍼",
+      "address": "전북특별자치도 익산시 평화동 27-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "베스토아편의점",
+      "address": "전북특별자치도 익산시 평화동 231-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "낭산농업협동조합",
+      "address": "전북특별자치도 익산시 낭산면 삼담리 554-7",
+      "roadAddress": "전북특별자치도 익산시 낭산면 함낭로 948",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호수슈퍼",
+      "address": "전북특별자치도 익산시 낭산면 석천리 1088-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남바우슈퍼",
+      "address": "전북특별자치도 익산시 남중동 326-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지현슈퍼",
+      "address": "전북특별자치도 익산시 마동 181-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "번영슈퍼",
+      "address": "전북특별자치도 익산시 모현동1가 234-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "익산축협모현지소",
+      "address": "전북특별자치도 익산시 모현동1가 302-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대화슈퍼",
+      "address": "전북특별자치도 익산시 모현동1가 238-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대유통",
+      "address": "전북특별자치도 익산시 모현동1가 14-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모현마트",
+      "address": "전북특별자치도 익산시 모현동1가 122-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남솔쇼핑",
+      "address": "전북특별자치도 익산시 신동 813-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주) 삼육오마트",
+      "address": "전북특별자치도 익산시 부송동 781",
+      "roadAddress": "전북특별자치도 익산시 부송1로 49  (부송동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우남대형슈퍼",
+      "address": "전북특별자치도 익산시 갈산동 216-2 우남콤비타운 110 102-103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "까치슈퍼",
+      "address": "전북특별자치도 익산시 남중동 532-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔도슈퍼",
+      "address": "전북특별자치도 익산시 남중동 364-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "Q마트",
+      "address": "전북특별자치도 익산시 황등면 구자리 999-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시영지업사",
+      "address": "전북특별자치도 익산시 마동 363-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "전북특별자치도 익산시 남중동 2가 321-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고려슈퍼",
+      "address": "전북특별자치도 익산시 남중동 2가 455-58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대서점",
+      "address": "전북특별자치도 익산시 남중동 2가 485",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "비사벌슈퍼",
+      "address": "전북특별자치도 익산시 남중동 2가 352-120",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영등상회",
+      "address": "전북특별자치도 익산시 영등동 86-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "전북특별자치도 익산시 영등동 695-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "설리슈퍼",
+      "address": "전북특별자치도 익산시 영등동 701-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영등슈퍼",
+      "address": "전북특별자치도 익산시 영등동 699-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "파랑슈퍼",
+      "address": "전북특별자치도 익산시 영등동 704-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스마일슈퍼",
+      "address": "전북특별자치도 익산시 어양동 598-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오거리평화슈퍼",
+      "address": "전북특별자치도 익산시 영등동 256-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소라상회",
+      "address": "전북특별자치도 익산시 영등동 528-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시영아파트",
+      "address": "전북특별자치도 익산시 갈산동 1040",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우미아파트",
+      "address": "전북특별자치도 익산시 갈산동 1040-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성아파트",
+      "address": "전북특별자치도 익산시 부송동 1038-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동신아파트",
+      "address": "전북특별자치도 익산시 갈산동 1038-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부송3단지아파트",
+      "address": "전북특별자치도 익산시 부송동 102",
+      "roadAddress": "전북특별자치도 익산시 무왕로31길 204-5  (부송동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부송2단지아파트",
+      "address": "전북특별자치도 익산시 부송동 773",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부송1단지아파트",
+      "address": "전북특별자치도 익산시 부송동 136",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이리직업전문학교교직원아파트",
+      "address": "전북특별자치도 익산시 어양동 61-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동남로얄아파트관리소",
+      "address": "전북특별자치도 익산시 어양동 511-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쌍용아파트관리사무소",
+      "address": "전북특별자치도 익산시 갈산동 606-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마동아파트관리사무소",
+      "address": "전북특별자치도 익산시 마동 137-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오리온사원아파트관리사무소",
+      "address": "전북특별자치도 익산시 갈산동 581",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광전자사원아파트관리사무소",
+      "address": "전북특별자치도 익산시 신흥동 406-71",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼애원아파트관리사무소",
+      "address": "전북특별자치도 익산시 신흥동 406-71",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "공단아파트관리사무소",
+      "address": "전북특별자치도 익산시 어양동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍물거리",
+      "address": "전북특별자치도 익산시 갈산동 풍물거리53호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정림슈퍼",
+      "address": "전북특별자치도 익산시 갈산동 510-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청솔슈퍼",
+      "address": "전북특별자치도 익산시 신동 142-111",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세경슈퍼",
+      "address": "전북특별자치도 익산시 갈산동 1057",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "비사벌슈퍼",
+      "address": "전북특별자치도 익산시 갈산동 1058",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남중슈퍼",
+      "address": "전북특별자치도 익산시 남중동 488-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "전북특별자치도 익산시 신동 803-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우림슈퍼",
+      "address": "전북특별자치도 익산시 모현동1가 19-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동영슈퍼",
+      "address": "전북특별자치도 익산시 송학동 86-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연금매점",
+      "address": "전북특별자치도 익산시 모현동1가 현대2차상가101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "써클K익산모현점",
+      "address": "전북특별자치도 익산시 창인동1가 49-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엄지화장품슈퍼",
+      "address": "전북특별자치도 익산시 모현동1가 236-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창대수산물상회",
+      "address": "전북특별자치도 익산시 동산동 1056-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양쇼핑센타",
+      "address": "전북특별자치도 익산시 모현동1가 186-73",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰쇼핑매장",
+      "address": "전북특별자치도 익산시 금마면 동고도리 824-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "전북특별자치도 익산시 중앙동2가 24",
+      "roadAddress": "전북특별자치도 익산시 중앙로 12-116  (중앙동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장댁가계",
+      "address": "전북특별자치도 익산시 팔봉동 73",
+      "roadAddress": "전북특별자치도 익산시 장목길 1-48  (팔봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보라매슈퍼",
+      "address": "전북특별자치도 익산시 주현동 한양아파트상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "번영슈퍼",
+      "address": "전북특별자치도 익산시 모현동1가 234-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호남이마트동산점",
+      "address": "전북특별자치도 익산시 동산동 609-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무지개쇼핑",
+      "address": "전북특별자치도 익산시 동산동 1050-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "완이슈퍼",
+      "address": "전북특별자치도 익산시 동산동 제일아파트1053-1 1515호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우남쇼핑타운",
+      "address": "전북특별자치도 익산시 부송동 216-75",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부부슈퍼",
+      "address": "전북특별자치도 익산시 마동 181-59",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모아슈퍼",
+      "address": "전북특별자치도 익산시 마동 306-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "준 유통",
+      "address": "전북특별자치도 익산시 마동 153-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일번지상회",
+      "address": "전북특별자치도 익산시 팔봉동 257",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코러스마트",
+      "address": "전북특별자치도 익산시 영등동 767-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대광쇼핑",
+      "address": "전북특별자치도 익산시 갈산동 69-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송학공판장",
+      "address": "전북특별자치도 익산시 갈산동 236-66",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코오롱유통(주) 창인점(로숀)",
+      "address": "전북특별자치도 익산시 창인동1가 30-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "약촌유통",
+      "address": "전북특별자치도 익산시 마동 339-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "전북특별자치도 익산시 창인동1가 231-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유)익산공판장",
+      "address": "전북특별자치도 익산시 남중동 34-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화이트마트",
+      "address": "전북특별자치도 익산시 동산동 215-62.65",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "휴게실슈퍼마켓트",
+      "address": "전북특별자치도 익산시 남중동 160-89",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진슈퍼",
+      "address": "전북특별자치도 익산시 주현동 196-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대상회",
+      "address": "전북특별자치도 익산시 중앙동1가 80-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "귀거래슈퍼",
+      "address": "전북특별자치도 익산시 중앙동2가 14-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모범상회",
+      "address": "전북특별자치도 익산시 중앙동3가 113-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우주문구",
+      "address": "전북특별자치도 익산시 중앙동3가 80-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "전북특별자치도 익산시 중앙동2가 38-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삐삐상회",
+      "address": "전북특별자치도 익산시 중앙동2가 54-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오성슈퍼",
+      "address": "전북특별자치도 익산시 중앙동3가 43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "철희슈퍼",
+      "address": "전북특별자치도 익산시 중앙동3가 118-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "임마누엘슈퍼",
+      "address": "전북특별자치도 익산시 중앙동1가 16-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시영슈퍼",
+      "address": "전북특별자치도 익산시 부송동 우미아파트108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영동슈퍼",
+      "address": "전북특별자치도 익산시 부송동 1051-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한성아파트관리소",
+      "address": "전북특별자치도 익산시 동산동 1061",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼호아파트관리사무소",
+      "address": "전북특별자치도 익산시 동산동 158-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성아파트관리사무소",
+      "address": "전북특별자치도 익산시 갈산동 610-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동신슈퍼",
+      "address": "전북특별자치도 익산시 갈산동 597-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양아파트관리사무소",
+      "address": "전북특별자치도 익산시 주현동 202",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양화학아파트관리사무소",
+      "address": "전북특별자치도 익산시 동산동 1053",
+      "roadAddress": "전북특별자치도 익산시 서동로18길 50  (동산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일아파트관리사무소",
+      "address": "전북특별자치도 익산시 갈산동 1053-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세경고층슈퍼",
+      "address": "전북특별자치도 익산시 동산동 1060",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우림그린맨션관리사무소",
+      "address": "전북특별자치도 익산시 마동 70-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마동시영아파트관리사무소",
+      "address": "전북특별자치도 익산시 마동 132",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "혜정아파트관리사무소",
+      "address": "전북특별자치도 익산시 마동 153-82",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전원아파트관리사무소",
+      "address": "전북특별자치도 익산시 마동 153-83",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "콩밭슈퍼",
+      "address": "전북특별자치도 익산시 갈산동 249",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "라인슈퍼",
+      "address": "전북특별자치도 익산시 영등동 255",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유원슈퍼",
+      "address": "전북특별자치도 익산시 영등동 266-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영등2단지아파트관리소",
+      "address": "전북특별자치도 익산시 갈산동 255-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신일아파트관리사무소",
+      "address": "전북특별자치도 익산시 갈산동 714-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동신아파트관리사무소",
+      "address": "전북특별자치도 익산시 갈산동 682",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우미태양슈퍼",
+      "address": "전북특별자치도 익산시 갈산동 26-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "어양현대아파트관리사무소",
+      "address": "전북특별자치도 익산시 어양동 493-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수정아파트관리사무소",
+      "address": "전북특별자치도 익산시 갈산동 256-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청아아파트매점",
+      "address": "전북특별자치도 익산시 갈산동 227-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우남남부아파트관리사무소",
+      "address": "전북특별자치도 익산시 동산동 609-42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영등동현대아파트관리사무소",
+      "address": "전북특별자치도 익산시 갈산동 529-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성호슈퍼",
+      "address": "전북특별자치도 익산시 남중동 537-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영등1단지아파트관리사무소",
+      "address": "전북특별자치도 익산시 갈산동 530-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신동아파트관리사무소",
+      "address": "전북특별자치도 익산시 신동 861-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "높으메슈퍼",
+      "address": "전북특별자치도 익산시 마동 153-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원천슈퍼",
+      "address": "전북특별자치도 익산시 마동 165",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성아파트관리사무소",
+      "address": "전북특별자치도 익산시 동산동 617-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상우아파트관리사무소",
+      "address": "전북특별자치도 익산시 마동 30-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우남아파트관리사무소",
+      "address": "전북특별자치도 익산시 마동 81-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미희청과물",
+      "address": "전북특별자치도 익산시 갈산동 139-66",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백제문구",
+      "address": "전북특별자치도 익산시 영등동 772 우남상가104동106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "전북특별자치도 익산시 주현동 202",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG쇼핑청과",
+      "address": "전북특별자치도 익산시 마동 340-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조명전업사",
+      "address": "전북특별자치도 익산시 송학동 8-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전주슈퍼",
+      "address": "전북특별자치도 익산시 송학동 76-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "케이마트",
+      "address": "전북특별자치도 익산시 동산동 609-31 지하상가101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙지업사",
+      "address": "전북특별자치도 익산시 금마면 동고도리 861-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만복슈퍼",
+      "address": "전북특별자치도 익산시 창인동1가 223-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "피피쇼핑",
+      "address": "전북특별자치도 익산시 창인동1가 180-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯대슈퍼",
+      "address": "전북특별자치도 익산시 주현동 121-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보라매슈퍼",
+      "address": "전북특별자치도 익산시 갈산동 202",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대아슈퍼",
+      "address": "전북특별자치도 익산시 남중동 86-72",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "프렌드슈퍼",
+      "address": "전북특별자치도 익산시 남중동 99-52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대일지업사",
+      "address": "전북특별자치도 익산시 남중동 11-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송정휴게소",
+      "address": "전북특별자치도 익산시 갈산동 1058-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슬림마트",
+      "address": "전북특별자치도 익산시 남중동 147-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보람슈퍼",
+      "address": "전북특별자치도 익산시 갈산동 343-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "둘리슈퍼",
+      "address": "전북특별자치도 익산시 남중동 97-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을슈퍼",
+      "address": "전북특별자치도 익산시 갈산동 212-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "푸른슈퍼",
+      "address": "전북특별자치도 익산시 갈산동 402",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원팔봉공동구판장",
+      "address": "전북특별자치도 익산시 갈산동 726-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월드낚시레저프라자",
+      "address": "전북특별자치도 익산시 갈산동 450",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우미상회",
+      "address": "전북특별자치도 익산시 갈산동 25-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "공원슈퍼",
+      "address": "전북특별자치도 익산시 마동 76-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우남쇼핑",
+      "address": "전북특별자치도 익산시 동산동 995-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모현스마일마트",
+      "address": "전북특별자치도 익산시 모현동1가 186-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부용청과",
+      "address": "전북특별자치도 익산시 갈산동 1039-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우남슈퍼",
+      "address": "전북특별자치도 익산시 갈산동 우남아파트상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정원슈퍼",
+      "address": "전북특별자치도 익산시 마동 248-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "승민슈퍼",
+      "address": "전북특별자치도 익산시 마동 348-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하이퍼마트",
+      "address": "전북특별자치도 익산시 남중동 158-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "북송슈퍼",
+      "address": "전북특별자치도 익산시 부송동 1051-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유정슈퍼",
+      "address": "전북특별자치도 익산시 동산동 1083-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남부슈퍼",
+      "address": "전북특별자치도 익산시 동산동 1090-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대일상사",
+      "address": "전북특별자치도 익산시 인화동2가 65-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전일비니루상사",
+      "address": "전북특별자치도 익산시 인화동2가 66-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새자연슈퍼",
+      "address": "전북특별자치도 익산시 인화동2가 55-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "흥문당서점",
+      "address": "전북특별자치도 익산시 인화동2가 56-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울시트카바",
+      "address": "전북특별자치도 익산시 인화동1가 21-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호남슈퍼",
+      "address": "전북특별자치도 익산시 인화동1가 107-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성슈퍼",
+      "address": "전북특별자치도 익산시 인화동1가 18-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정읍슈퍼",
+      "address": "전북특별자치도 익산시 인화동1가 89-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "전북특별자치도 익산시 인화동2가 16-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남부시장번영회",
+      "address": "전북특별자치도 익산시 인화동2가 19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "갑오슈퍼",
+      "address": "전북특별자치도 익산시 인화동1가 84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초원슈퍼",
+      "address": "전북특별자치도 익산시 인화동1가 176-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이리종합철물",
+      "address": "전북특별자치도 익산시 인화동2가 135-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "샛별슈퍼",
+      "address": "전북특별자치도 익산시 인화동2가 100",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "전북특별자치도 익산시 인화동1가 47",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지연슈퍼",
+      "address": "전북특별자치도 익산시 인화동1가 68-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다가슈퍼",
+      "address": "전북특별자치도 익산시 만석동 168",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "석상슈퍼",
+      "address": "전북특별자치도 익산시 신용동 581-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미경슈퍼",
+      "address": "전북특별자치도 익산시 신용동 350-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황금슈퍼",
+      "address": "전북특별자치도 익산시 신용동 376-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영광슈퍼",
+      "address": "전북특별자치도 익산시 신용동 356-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유정슈퍼",
+      "address": "전북특별자치도 익산시 신용동 333-93",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "88슈퍼",
+      "address": "전북특별자치도 익산시 신용동 333-99",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "거성슈퍼",
+      "address": "전북특별자치도 익산시 신용동 333-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금성슈퍼",
+      "address": "전북특별자치도 익산시 신용동 333-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오리온직배점",
+      "address": "전북특별자치도 익산시 남중동 2가 363-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "환영슈퍼",
+      "address": "전북특별자치도 익산시 갈산동 2가 364-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송화슈퍼",
+      "address": "전북특별자치도 익산시 남중동 2가 352-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초원슈퍼",
+      "address": "전북특별자치도 익산시 남중동 2가 390-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "버드나무 상회",
+      "address": "전북특별자치도 익산시 갈산동 2가 288-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모현주공아파트",
+      "address": "전북특별자치도 익산시 모현동1가 250-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "배산제일아파트",
+      "address": "전북특별자치도 익산시 모현동1가 514-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송학현대아파트관리사무소",
+      "address": "전북특별자치도 익산시 송학동 215",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모현1차아파트관리사무소",
+      "address": "전북특별자치도 익산시 모현동1가 2-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모현현대2차아파트",
+      "address": "전북특별자치도 익산시 모현동1가 303-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동신슈퍼",
+      "address": "전북특별자치도 익산시 모현동2가 198-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고려고층관리사무실",
+      "address": "전북특별자치도 익산시 모현동1가 142-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "전북특별자치도 익산시 남중동 369-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진흥슈퍼",
+      "address": "전북특별자치도 익산시 모현동1가 423-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "돼지슈퍼",
+      "address": "전북특별자치도 익산시 모현동1가 234-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일아파트",
+      "address": "전북특별자치도 익산시 모현동1가 186-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일고층아파트",
+      "address": "전북특별자치도 익산시 갈산동 227-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신일고층아파트",
+      "address": "전북특별자치도 익산시 남중동 370-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대한훼미리아파트",
+      "address": "전북특별자치도 익산시 송학동 180-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송학이화아파트",
+      "address": "전북특별자치도 익산시 송학동 224-125",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모현이화아파트",
+      "address": "전북특별자치도 익산시 모현동1가 94-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남중이화고층아파트",
+      "address": "전북특별자치도 익산시 남중동 455-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "비사벌아파트관리사무소",
+      "address": "전북특별자치도 익산시 남중동 352-92",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "거성아파트관리사무소",
+      "address": "전북특별자치도 익산시 남중동 233",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홍익슈퍼",
+      "address": "전북특별자치도 익산시 창인동2가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아트문구",
+      "address": "전북특별자치도 익산시 남중동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우남슈퍼",
+      "address": "전북특별자치도 익산시 모현동1가 99-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "전북특별자치도 익산시 모현동1가 525-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동영아파트",
+      "address": "전북특별자치도 익산시 송학동 86-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창원아파트관리사무소",
+      "address": "전북특별자치도 익산시 인화동1가 77",
+      "roadAddress": "전북특별자치도 익산시 인북로 53-5  (인화동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남성맨션관리사무소",
+      "address": "전북특별자치도 익산시 남중동 222",
+      "roadAddress": "전북특별자치도 익산시 선화로33길 10  (남중동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명일건설",
+      "address": "전북특별자치도 익산시 모현동1가 111-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신용슈퍼",
+      "address": "전북특별자치도 익산시 모현동1가 194-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰구판장",
+      "address": "전북특별자치도 익산시 모현동1가 194-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연립슈퍼",
+      "address": "전북특별자치도 익산시 신동 819-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신세대쇼핑",
+      "address": "전북특별자치도 익산시 모현동1가 2-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "전북특별자치도 익산시 송학동 230",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대상회",
+      "address": "전북특별자치도 익산시 마동 368-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "왕팔슈퍼",
+      "address": "전북특별자치도 익산시 갈산동 595-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "어양빅마트",
+      "address": "전북특별자치도 익산시 갈산동 603-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아유통",
+      "address": "전북특별자치도 익산시 갈산동 216",
+      "roadAddress": "전북특별자치도 익산시 중앙로2길 13-7  (갈산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사랑슈퍼",
+      "address": "전북특별자치도 익산시 갈산동 250-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대하이퍼마트",
+      "address": "전북특별자치도 익산시 갈산동 쌍용상가119-108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "익산슈퍼",
+      "address": "전북특별자치도 익산시 인화동2가 92-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙쇼핑",
+      "address": "전북특별자치도 익산시 갈산동 1039-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "비사벌슈퍼",
+      "address": "전북특별자치도 익산시 남중동 352-120",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연이상회",
+      "address": "전북특별자치도 익산시 인화동2가 145",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "익산슈퍼",
+      "address": "전북특별자치도 익산시 인화동2가 92-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이리농업협동조합",
+      "address": "전북특별자치도 익산시 인화동2가 95-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "전북특별자치도 익산시 갈산동 70-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팡팡마트",
+      "address": "전북특별자치도 익산시 남중동 527-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동산청과",
+      "address": "전북특별자치도 익산시 동산동 1039-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화개장터",
+      "address": "전북특별자치도 익산시 남중동 510-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대동마트",
+      "address": "전북특별자치도 익산시 갈산동 14-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "학생박화점",
+      "address": "전북특별자치도 익산시 남중동 187-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개미슈퍼",
+      "address": "전북특별자치도 익산시 마동 108-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청하상회",
+      "address": "전북특별자치도 익산시 남중동 15-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "길마트",
+      "address": "전북특별자치도 익산시 갈산동 1076",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송림슈퍼",
+      "address": "전북특별자치도 익산시 갈산동 193-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에덴슈퍼",
+      "address": "전북특별자치도 익산시 갈산동 71-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나로마트 모현점",
+      "address": "전북특별자치도 익산시 갈산동 297-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다농슈퍼",
+      "address": "전북특별자치도 익산시 모현동1가 109-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유성지업사",
+      "address": "전북특별자치도 익산시 인화동2가 65",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새로마트",
+      "address": "전북특별자치도 익산시 갈산동 1039-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쉐인뉴마트",
+      "address": "전북특별자치도 익산시 갈산동 8-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "전북특별자치도 익산시 갈산동 492-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "전북특별자치도 익산시 남중동 355-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성심슈퍼",
+      "address": "전북특별자치도 익산시 남중동 60-71",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신세대슈퍼",
+      "address": "전북특별자치도 익산시 남중동 142-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만인슈퍼",
+      "address": "전북특별자치도 익산시 남중동 508-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "국제슈퍼",
+      "address": "전북특별자치도 익산시 남중동 77-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송학제분소",
+      "address": "전북특별자치도 익산시 송학동 76-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동부편의점",
+      "address": "전북특별자치도 익산시 마동 2-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황금게란직매장",
+      "address": "전북특별자치도 익산시 남중동 35-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공슈퍼",
+      "address": "전북특별자치도 익산시 마동 137-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱부송점",
+      "address": "전북특별자치도 익산시 부송동 1039-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지현마트",
+      "address": "전북특별자치도 익산시 남중동 532-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시영유통",
+      "address": "전북특별자치도 익산시 마동 98-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초롱이슈퍼",
+      "address": "전북특별자치도 익산시 남중동 25-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-24"
+    },
+    {
+      "name": "우리상회",
+      "address": "전북특별자치도 익산시 갈산동 323-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "승민슈퍼",
+      "address": "전북특별자치도 익산시 마동 348-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하얀슈퍼",
+      "address": "전북특별자치도 익산시 영등동 757-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동부상설시장",
+      "address": "전북특별자치도 익산시 영등동 548-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "까치식품청과",
+      "address": "전북특별자치도 익산시 영등동 822 우남그랜드상가108-108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱익산영등접",
+      "address": "전북특별자치도 익산시 영등동 821",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다해슈퍼",
+      "address": "전북특별자치도 익산시 영등동 252-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "익산슈퍼",
+      "address": "전북특별자치도 익산시 영등동 256-99",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일마트",
+      "address": "전북특별자치도 익산시 영등동 821 영등제일3차아파트상가520-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "샘물슈퍼",
+      "address": "전북특별자치도 익산시 영등동 우남샘물타운상가108-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "향기마트",
+      "address": "전북특별자치도 익산시 영등동 834-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조은청과",
+      "address": "전북특별자치도 익산시 동산동 라인아파트상가앞86-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뿌리마트",
+      "address": "전북특별자치도 익산시 동산동 609-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제미곡",
+      "address": "전북특별자치도 익산시 인화동1가 123",
+      "roadAddress": "전북특별자치도 익산시 평동로11길 12  (인화동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "민우슈퍼",
+      "address": "전북특별자치도 익산시 인화동2가 90-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정든슈퍼",
+      "address": "전북특별자치도 익산시 인화동2가 92-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초원슈퍼",
+      "address": "전북특별자치도 익산시 남중동 192-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영창슈퍼",
+      "address": "전북특별자치도 익산시 황등면 구자리 영창아파트상가1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "완이슈퍼",
+      "address": "전북특별자치도 익산시 동산동 1053-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원광슈퍼",
+      "address": "전북특별자치도 익산시 신동 280-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동일슈퍼",
+      "address": "전북특별자치도 익산시 남중동 536-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대아슈퍼",
+      "address": "전북특별자치도 익산시 마동 70-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홈런상회",
+      "address": "전북특별자치도 익산시 중앙동3가 153",
+      "roadAddress": "전북특별자치도 익산시 익산대로14길 42  (중앙동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "라인마트",
+      "address": "전북특별자치도 익산시 동산동 138 라인아파트상가105",
+      "roadAddress": "전북특별자치도 익산시 동천로 81-14  (동산동,라인아파트상가105)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코끼리마트",
+      "address": "전북특별자치도 익산시 남중동 130",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주현상회",
+      "address": "전북특별자치도 익산시 주현동 54-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성곤농장직판장",
+      "address": "전북특별자치도 익산시 영등동 178-22 45통5반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성곤직판장",
+      "address": "전북특별자치도 익산시 영등동 843-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농수산물장터",
+      "address": "전북특별자치도 익산시 어양동 어양6단지상가108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱익산역점",
+      "address": "전북특별자치도 익산시 중앙동1가 20-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남중슈퍼",
+      "address": "전북특별자치도 익산시 남중동 208-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "꾸러기슈퍼",
+      "address": "전북특별자치도 익산시 마동 331-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동산마트",
+      "address": "전북특별자치도 익산시 영등동 689-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "혜림슈퍼",
+      "address": "전북특별자치도 익산시 남중동 508-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트송원점",
+      "address": "전북특별자치도 익산시 창인동1가 179-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주)코리아세븐 익산인화점",
+      "address": "전북특별자치도 익산시 인화동2가 96-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수정마트",
+      "address": "전북특별자치도 익산시 신동 825-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린편의점",
+      "address": "전북특별자치도 익산시 중앙동2가 1-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "전북특별자치도 익산시 영등동 711-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "자연슈퍼",
+      "address": "전북특별자치도 익산시 황등면 구자리 742",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이이지에이익산창인점",
+      "address": "전북특별자치도 익산시 창인동1가 54-10",
+      "roadAddress": "전북특별자치도 익산시 익산대로20길 9  (창인동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-19"
+    },
+    {
+      "name": "천지건설(주)",
+      "address": "전북특별자치도 익산시 인화동1가 132-66",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    }
+  ]
+}

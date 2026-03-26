@@ -1,0 +1,24 @@
+{
+  "region": "서울특별시",
+  "regionSlug": "seoul",
+  "district": "양천구",
+  "districtSlug": "yangcheon",
+  "updatedAt": "2026-03-26",
+  "totalCount": 2,
+  "stores": [
+    {
+      "name": "이마트24R 한국전력본사",
+      "address": "서울특별시 양천구 신정동 883 심미에셈빌 206동 11호",
+      "roadAddress": "서울특별시 양천구 목동로23길 34, 206동 11호 (신정동, 양천시장주상복합)",
+      "status": "영업/정상",
+      "licenseDate": "2024-01-03"
+    },
+    {
+      "name": "미니스톱 대불하늘점",
+      "address": "",
+      "roadAddress": "서울특별시 양천구 목동중앙본로3길 7 (목동, 동화동화옥시죤-7)",
+      "status": "영업/정상",
+      "licenseDate": "2014-10-07"
+    }
+  ]
+}

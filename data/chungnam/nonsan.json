@@ -1,0 +1,3517 @@
+{
+  "region": "충청남도",
+  "regionSlug": "chungnam",
+  "district": "논산시",
+  "districtSlug": "nonsan",
+  "updatedAt": "2026-03-26",
+  "totalCount": 501,
+  "stores": [
+    {
+      "name": "덕진상회",
+      "address": "충청남도 논산시 벌곡면 한삼천리 139",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수락상회",
+      "address": "충청남도 논산시 벌곡면 덕곡리 139",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수락리새마을구판장",
+      "address": "충청남도 논산시 벌곡면 수락리 79-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조동상회",
+      "address": "충청남도 논산시 벌곡면 조동리 285",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰할인매장",
+      "address": "충청남도 논산시 벌곡면 한삼천리 235-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홍보상회",
+      "address": "충청남도 논산시 벌곡면 한삼천리 236-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협연쇄점하나로마트",
+      "address": "충청남도 논산시 양촌면 인천리 245-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG전자대리점",
+      "address": "충청남도 논산시 양촌면 인천리 200",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양촌공판장",
+      "address": "충청남도 논산시 양촌면 인천리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한흥상회",
+      "address": "충청남도 논산시 양촌면 인천리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종연상회",
+      "address": "충청남도 논산시 가야곡면 종연리 81",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동백슈퍼",
+      "address": "충청남도 논산시 가야곡면 육곡리 375",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가야곡농공단지매점",
+      "address": "충청남도 논산시 가야곡면 야촌리 483-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사거리슈퍼",
+      "address": "충청남도 논산시 가야곡면 왕암리 401",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신광슈퍼",
+      "address": "충청남도 논산시 가야곡면 왕암리 232",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보명상회",
+      "address": "충청남도 논산시 은진면 연서리 193",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "충청남도 논산시 은진면 와야리 156-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "충청남도 논산시 은진면 와야리 193",
+      "roadAddress": "충청남도 논산시 은진면 와야2길 10",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "회관슈퍼",
+      "address": "충청남도 논산시 은진면 와야리 202-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쉼터편의점",
+      "address": "충청남도 논산시 은진면 교촌리 128-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "꿈돌이마트",
+      "address": "충청남도 논산시 은진면 와야리 276-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍원상회",
+      "address": "충청남도 논산시 은진면 와야리 193",
+      "roadAddress": "충청남도 논산시 은진면 와야2길 10",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채운농협연쇄점",
+      "address": "충청남도 논산시 채운면 화산리 333",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채운농협우기지소",
+      "address": "충청남도 논산시 채운면 화산리 349",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채운농협화정취급소",
+      "address": "충청남도 논산시 채운면 화정리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우기2리구판장",
+      "address": "충청남도 논산시 채운면 우기리 219",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용화2리구판장",
+      "address": "충청남도 논산시 채운면 용화리 222-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거4리담배가게",
+      "address": "충청남도 논산시 채운면 삼거리 485",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일상회",
+      "address": "충청남도 논산시 채운면 야화리 92",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "야화2리구판장",
+      "address": "충청남도 논산시 채운면 야화리 231",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용화1리구판장",
+      "address": "충청남도 논산시 채운면 용화리 287",
+      "roadAddress": "충청남도 논산시 채운면 탑정로40번길 32",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화정1리구판장",
+      "address": "충청남도 논산시 채운면 화정리 158",
+      "roadAddress": "충청남도 논산시 채운면 화정2길 27-4",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장화3리담배가게",
+      "address": "충청남도 논산시 채운면 장화리 188-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채운상회",
+      "address": "충청남도 논산시 채운면 용화리 300-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장화2리구판장",
+      "address": "충청남도 논산시 채운면 장화리 326",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우기1리구판장",
+      "address": "충청남도 논산시 채운면 우기리 403",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평촌구판장",
+      "address": "충청남도 논산시 채운면 삼거리 596",
+      "roadAddress": "충청남도 논산시 채운면 동안로 283-15",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장화1리이장",
+      "address": "충청남도 논산시 채운면 장화리 113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인천슈퍼",
+      "address": "충청남도 논산시 취암동 471",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양송이슈퍼",
+      "address": "충청남도 논산시 취암동 498-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금생상회",
+      "address": "충청남도 논산시 취암동 384-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성진슈퍼",
+      "address": "충청남도 논산시 취암동 383",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동일상회",
+      "address": "충청남도 논산시 취암동 438-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전일비디오",
+      "address": "충청남도 논산시 취암동 372-42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하정슈퍼",
+      "address": "충청남도 논산시 취암동 461-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신원슈퍼",
+      "address": "충청남도 논산시 취암동 261-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "낙원슈퍼",
+      "address": "충청남도 논산시 취암동 276-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동성슈퍼",
+      "address": "충청남도 논산시 지산동 615",
+      "roadAddress": "충청남도 논산시 지산2길 38-8  (지산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지성상회",
+      "address": "충청남도 논산시 지산동 130",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지산2리새마을구판장",
+      "address": "충청남도 논산시 지산동 615",
+      "roadAddress": "충청남도 논산시 지산2길 38-8  (지산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "충청남도 논산시 지산동 30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종포슈퍼",
+      "address": "충청남도 논산시 지산동 477",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "충청남도 논산시 지산동 823-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용진슈퍼",
+      "address": "충청남도 논산시 내동 292",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "여의슈퍼",
+      "address": "충청남도 논산시 내동 314-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신촌상회",
+      "address": "충청남도 논산시 내동 72-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)교촌에너지 건양지점",
+      "address": "충청남도 논산시 내동 60-2",
+      "roadAddress": "충청남도 논산시 시민로 78 (내동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "관촉1리구판장",
+      "address": "충청남도 논산시 관촉동 403-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "놀뫼슈퍼",
+      "address": "충청남도 논산시 반월동 69",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한남슈퍼",
+      "address": "충청남도 논산시 반월동 58-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성동문구",
+      "address": "충청남도 논산시 반월동 146",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명진당",
+      "address": "충청남도 논산시 반월동 100",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은하슈퍼",
+      "address": "충청남도 논산시 반월동 31-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화진식품",
+      "address": "충청남도 논산시 화지동 68-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종일슈퍼",
+      "address": "충청남도 논산시 화지동 37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대신상회",
+      "address": "충청남도 논산시 화지동 41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성상회",
+      "address": "충청남도 논산시 화지동 41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상월쌀상회",
+      "address": "충청남도 논산시 화지동 170",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "충청남도 논산시 화지동 197-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영남상회",
+      "address": "충청남도 논산시 화지동 32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕성슈퍼",
+      "address": "충청남도 논산시 화지동 20-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대원장식",
+      "address": "충청남도 논산시 취암동 565-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백제슈퍼",
+      "address": "충청남도 논산시 취암동 609-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "취암슈퍼",
+      "address": "충청남도 논산시 취암동 539-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신촌상회",
+      "address": "충청남도 논산시 내동 72-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕지상회",
+      "address": "충청남도 논산시 덕지동 45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕지1리구판장",
+      "address": "충청남도 논산시 덕지동 235",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕지2리구판장",
+      "address": "충청남도 논산시 덕지동 335",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "합천상회",
+      "address": "충청남도 논산시 덕지동 336",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동일슈퍼",
+      "address": "충청남도 논산시 취암동 567",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지산슈퍼",
+      "address": "충청남도 논산시 취암동 294-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대화슈퍼",
+      "address": "충청남도 논산시 취암동 312",
+      "roadAddress": "충청남도 논산시 관촉로251번길 28  (취암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "곰슈퍼",
+      "address": "충청남도 논산시 취암동 103-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경원상회",
+      "address": "충청남도 논산시 내동 966",
+      "roadAddress": "충청남도 논산시 시민로222번길 4  (내동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아주슈퍼",
+      "address": "충청남도 논산시 내동 968",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동신슈퍼",
+      "address": "충청남도 논산시 내동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "놀뫼슈퍼",
+      "address": "충청남도 논산시 내동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "논산상회",
+      "address": "충청남도 논산시 관촉동 248",
+      "roadAddress": "충청남도 논산시 관촉로1번길 19  (관촉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니상회",
+      "address": "충청남도 논산시 관촉동 170",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "반월슈퍼",
+      "address": "충청남도 논산시 반월동 199-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오복슈퍼",
+      "address": "충청남도 논산시 반월동 142-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "놀뫼양복점",
+      "address": "충청남도 논산시 반월동 72",
+      "roadAddress": "충청남도 논산시 해월로 173-4  (반월동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양복수선집",
+      "address": "충청남도 논산시 반월동 86",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "충청남도 논산시 반월동 67-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전원슈퍼",
+      "address": "충청남도 논산시 반월동 24-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "논산축협중부판매소",
+      "address": "충청남도 논산시 반월동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "논산축협코리아나판매소",
+      "address": "충청남도 논산시 반월동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일철물",
+      "address": "충청남도 논산시 화지동 162",
+      "roadAddress": "충청남도 논산시 중앙로479번길 16  (화지동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청하상회",
+      "address": "충청남도 논산시 화지동 32-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙비니루",
+      "address": "충청남도 논산시 화지동 106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신광세탁",
+      "address": "충청남도 논산시 화지동 45-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한일마트",
+      "address": "충청남도 논산시 화지동 73",
+      "roadAddress": "충청남도 논산시 대화로70번길 18  (화지동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미원슈퍼",
+      "address": "충청남도 논산시 화지동 73",
+      "roadAddress": "충청남도 논산시 대화로70번길 18  (화지동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "논산인삼연쇄점",
+      "address": "충청남도 논산시 화지동 41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명상회",
+      "address": "충청남도 논산시 취암동 563-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원앙편의점",
+      "address": "충청남도 논산시 취암동 1003",
+      "roadAddress": "충청남도 논산시 시민로307번길 14  (취암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부국슈퍼",
+      "address": "충청남도 논산시 취암동 565",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영지상가과일집",
+      "address": "충청남도 논산시 취암동 593-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "충청남도 논산시 반월동 33-55",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금산인삼상사",
+      "address": "충청남도 논산시 화지동 41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물상회",
+      "address": "충청남도 논산시 화지동 41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양상회",
+      "address": "충청남도 논산시 화지동 180",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼호상회",
+      "address": "충청남도 논산시 화지동 41-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고려슈퍼",
+      "address": "충청남도 논산시 화지동 41-151",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "함북상회",
+      "address": "충청남도 논산시 화지동 41-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대원청과",
+      "address": "충청남도 논산시 취암동 517-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태창쌀상회",
+      "address": "충청남도 논산시 취암동 372-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오복슈퍼",
+      "address": "충청남도 논산시 취암동 555-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "충청남도 논산시 화지동 41-269",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대창상회",
+      "address": "충청남도 논산시 화지동 41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영광슈퍼",
+      "address": "충청남도 논산시 화지동 60",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우정쌀상회",
+      "address": "충청남도 논산시 화지동 41-347",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "충청남도 논산시 화지동 41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥어물상회",
+      "address": "충청남도 논산시 화지동 41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "단골상회",
+      "address": "충청남도 논산시 화지동 41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "친절상회",
+      "address": "충청남도 논산시 화지동 41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영상회",
+      "address": "충청남도 논산시 취암동 600",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통일쌀집",
+      "address": "충청남도 논산시 화지동 199",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "충청남도 논산시 화지동 172",
+      "roadAddress": "충청남도 논산시 해월로125번길 31  (화지동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다정슈퍼",
+      "address": "충청남도 논산시 반월동 43-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리쌀상회",
+      "address": "충청남도 논산시 반월동 76-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유진슈퍼",
+      "address": "충청남도 논산시 반월동 12-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신신슈퍼",
+      "address": "충청남도 논산시 반월동 78-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "할머니가계",
+      "address": "충청남도 논산시 반월동 55-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥슈퍼",
+      "address": "충청남도 논산시 화지동 32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대도코너",
+      "address": "충청남도 논산시 화지동 80",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소비자도매",
+      "address": "충청남도 논산시 화지동 42-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종합유통센타",
+      "address": "충청남도 논산시 화지동 69-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "편의점인",
+      "address": "충청남도 논산시 화지동 62-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화신슈퍼",
+      "address": "충청남도 논산시 화지동 91-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "논산가방",
+      "address": "충청남도 논산시 화지동 76",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "충청남도 논산시 화지동 41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "흥광농약사",
+      "address": "충청남도 논산시 화지동 85",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "충청남도 논산시 화지동 58",
+      "roadAddress": "충청남도 논산시 중앙로492번길 52  (화지동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한일전기",
+      "address": "충청남도 논산시 화지동 30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "갑부상회",
+      "address": "충청남도 논산시 화지동 41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "자동차운전학원편의점",
+      "address": "충청남도 논산시 화지동 15",
+      "roadAddress": "충청남도 논산시 해월로 279  (화지동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대한슈퍼",
+      "address": "충청남도 논산시 화지동 41-308",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진미슈퍼",
+      "address": "충청남도 논산시 화지동 42-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미성슈퍼",
+      "address": "충청남도 논산시 화지동 72",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "놀뫼마트",
+      "address": "충청남도 논산시 취암동 176-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원슈퍼",
+      "address": "충청남도 논산시 취암동 447-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하이퍼켓",
+      "address": "충청남도 논산시 취암동 567-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부생상회",
+      "address": "충청남도 논산시 취암동 566-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "반도유통",
+      "address": "충청남도 논산시 취암동 176-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영지슈퍼",
+      "address": "충청남도 논산시 취암동 582-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선우슈퍼",
+      "address": "충청남도 논산시 취암동 612-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "올챙이슈퍼",
+      "address": "충청남도 논산시 취암동 296-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소산슈퍼",
+      "address": "충청남도 논산시 취암동 372-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "낙양슈퍼",
+      "address": "충청남도 논산시 취암동 103-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "충청남도 논산시 내동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "놀뫼홈인테리어",
+      "address": "충청남도 논산시 내동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아주과일",
+      "address": "충청남도 논산시 내동 382-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "심포니마트",
+      "address": "충청남도 논산시 취암동 103-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물유통",
+      "address": "충청남도 논산시 내동 969",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무영연쇄점",
+      "address": "충청남도 논산시 화지동 41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대신슈퍼",
+      "address": "충청남도 논산시 취암동 284-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백제병원매점",
+      "address": "충청남도 논산시 취암동 103-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경희슈퍼",
+      "address": "충청남도 논산시 반월동 121-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성상회",
+      "address": "충청남도 논산시 관촉동 230",
+      "roadAddress": "충청남도 논산시 관촉로31번길 38  (관촉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "놀뫼마트2호점",
+      "address": "충청남도 논산시 취암동 372-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "논산농협화지지소",
+      "address": "충청남도 논산시 화지동 45-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "충청남도 논산시 내동 395",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부적유통",
+      "address": "충청남도 논산시 화지동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보영슈퍼",
+      "address": "충청남도 논산시 취암동 590-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "건양마트",
+      "address": "충청남도 논산시 내동 40-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은호쌀상회",
+      "address": "충청남도 논산시 내동 41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "음식업논산시지부",
+      "address": "충청남도 논산시 반월동 67-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오거리할인매장",
+      "address": "충청남도 논산시 취암동 589-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "육일코아마트",
+      "address": "충청남도 논산시 취암동 177-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대원유통",
+      "address": "충청남도 논산시 취암동 975",
+      "roadAddress": "충청남도 논산시 시민로319번길 5-16  (취암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백제슈퍼",
+      "address": "충청남도 논산시 내동 290-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영슈퍼",
+      "address": "충청남도 논산시 취암동 571-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙편의점",
+      "address": "충청남도 논산시 내동 1040",
+      "roadAddress": "충청남도 논산시 시민로295번길 6  (내동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "논산우체국",
+      "address": "충청남도 논산시 화지동 55-4",
+      "roadAddress": "충청남도 논산시 중앙로480번길 33 (화지동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "논산농협남부지소",
+      "address": "충청남도 논산시 취암동 911",
+      "roadAddress": "충청남도 논산시 시민로307번길 14-42  (취암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙비니루",
+      "address": "충청남도 논산시 화지동 47-106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소망문구슈퍼",
+      "address": "충청남도 논산시 취암동 552-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만민슈퍼",
+      "address": "충청남도 논산시 반월동 113-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿마트",
+      "address": "충청남도 논산시 취암동 1049-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "배달슈퍼",
+      "address": "충청남도 논산시 취암동 103-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슬비슈퍼",
+      "address": "충청남도 논산시 화지동 136",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하정마트",
+      "address": "충청남도 논산시 취암동 571-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대우유통",
+      "address": "충청남도 논산시 화지동 41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대우유통플러스",
+      "address": "충청남도 논산시 취암동 177",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강산슈퍼",
+      "address": "충청남도 논산시 취암동 896",
+      "roadAddress": "충청남도 논산시 시민로 337  (취암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쌍둥이마트",
+      "address": "충청남도 논산시 내동 395",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "놀뫼새마을금고",
+      "address": "충청남도 논산시 취암동 601-33",
+      "roadAddress": "충청남도 논산시 번영로29번길 10, 104동  803호(취암동,취암리슈빌아파트)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개나리마트",
+      "address": "충청남도 논산시 내동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전원슈퍼",
+      "address": "충청남도 논산시 취암동 1039-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "윤희슈퍼",
+      "address": "충청남도 논산시 내동 314-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "논산슈퍼",
+      "address": "충청남도 논산시 내동 289-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕성슈퍼",
+      "address": "충청남도 논산시 반월동 33-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트중앙점",
+      "address": "충청남도 논산시 화지동 150-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트터미날",
+      "address": "충청남도 논산시 취암동 1045-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트백제병원",
+      "address": "충청남도 논산시 취암동 21-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대우슈퍼",
+      "address": "충청남도 논산시 대교동 9-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대원슈퍼",
+      "address": "충청남도 논산시 가야곡면 강청리 45-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가름네가계",
+      "address": "충청남도 논산시 대교동 264",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송비디오",
+      "address": "충청남도 논산시 대교동 52",
+      "roadAddress": "충청남도 논산시 중앙로506번길 25-1  (대교동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원광슈퍼",
+      "address": "충청남도 논산시 대교동 84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "갑부재료상회",
+      "address": "충청남도 논산시 대교동 84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황산유통",
+      "address": "충청남도 논산시 대교동 106-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양슈퍼",
+      "address": "충청남도 논산시 대교동 109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가계",
+      "address": "충청남도 논산시 대교동 201-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영일상회",
+      "address": "충청남도 논산시 대교동 204-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대림슈퍼",
+      "address": "충청남도 논산시 대교동 235-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배가계",
+      "address": "충청남도 논산시 대교동 241-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍념슈퍼",
+      "address": "충청남도 논산시 대교동 242-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "방주슈퍼",
+      "address": "충청남도 논산시 대교동 154-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "논산슈퍼",
+      "address": "충청남도 논산시 대교동 167-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가계",
+      "address": "충청남도 논산시 대교동 197",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대교슈퍼",
+      "address": "충청남도 논산시 대교동 311-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부일슈퍼",
+      "address": "충청남도 논산시 부창동 234",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물상회",
+      "address": "충청남도 논산시 부창동 53",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빙그레슈퍼",
+      "address": "충청남도 논산시 부창동 97-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부성상회",
+      "address": "충청남도 논산시 부창동 126",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상지슈퍼",
+      "address": "충청남도 논산시 부창동 139-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대림슈퍼",
+      "address": "충청남도 논산시 부창동 199-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "충청남도 논산시 부창동 164",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "충청남도 논산시 부창동 276-89",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공정육점",
+      "address": "충청남도 논산시 부창동 315",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나점슈퍼",
+      "address": "충청남도 논산시 부창동 313-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕신슈퍼",
+      "address": "충청남도 논산시 부창동 318",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무림슈퍼",
+      "address": "충청남도 논산시 부창동 355-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성결슈퍼",
+      "address": "충청남도 논산시 부창동 373-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영생슈퍼",
+      "address": "충청남도 논산시 부창동 254-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "충청남도 논산시 부창동 254-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공슈퍼",
+      "address": "충청남도 논산시 부창동 6 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대림청과상회",
+      "address": "충청남도 논산시 부창동 7 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대림종합슈퍼",
+      "address": "충청남도 논산시 부창동 7통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구판장",
+      "address": "충청남도 논산시 등화동 384",
+      "roadAddress": "충청남도 논산시 계백로 766-12  (등화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구판장",
+      "address": "충청남도 논산시 등화동 297",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "학생슈퍼",
+      "address": "충청남도 논산시 등화동 336-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구판장",
+      "address": "충청남도 논산시 취암동 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남해도매유통",
+      "address": "충청남도 논산시 취암동 552",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부영슈퍼",
+      "address": "충청남도 논산시 취암동 582",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "충청남도 논산시 취암동 261",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제안슈퍼",
+      "address": "충청남도 논산시 강경읍 남교리 43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연무슈퍼",
+      "address": "충청남도 논산시 강경읍 대흥리 23-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "역전슈퍼",
+      "address": "충청남도 논산시 강경읍 대흥리 32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대하이퍼마켓",
+      "address": "충청남도 논산시 강경읍 대흥리 32-77",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용동슈퍼",
+      "address": "충청남도 논산시 강경읍 대흥리 48-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "기연슈퍼",
+      "address": "충청남도 논산시 강경읍 대흥리 48-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채산슈퍼",
+      "address": "충청남도 논산시 강경읍 채산리 297",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미주슈퍼",
+      "address": "충청남도 논산시 강경읍 채산리 255-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "학동슈퍼",
+      "address": "충청남도 논산시 강경읍 채산리 399",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채산슈퍼",
+      "address": "충청남도 논산시 강경읍 채산리 466",
+      "roadAddress": "충청남도 논산시 강경읍 여강로 1261",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "충청남도 논산시 강경읍 채산리 467",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구판장",
+      "address": "충청남도 논산시 취암동 369",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동신유통",
+      "address": "충청남도 논산시 취암동 4통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "왕개미슈퍼",
+      "address": "충청남도 논산시 취암동 4통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홈마트",
+      "address": "충청남도 논산시 취암동 5통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부영연쇄점",
+      "address": "충청남도 논산시 취암동 5통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "페리카나치킨",
+      "address": "충청남도 논산시 취암동 2-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슬기지업사",
+      "address": "충청남도 논산시 취암동 978 7통",
+      "roadAddress": "충청남도 논산시 시민로319번길 5-6  (취암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "더브러문구",
+      "address": "충청남도 논산시 취암동 918",
+      "roadAddress": "충청남도 논산시 시민로 325  (취암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "길편의점",
+      "address": "충청남도 논산시 반월동 160-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경원마트",
+      "address": "충청남도 논산시 부창동 274-139",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "놀뫼 장례식장",
+      "address": "충청남도 논산시 내동 497-1",
+      "roadAddress": "충청남도 논산시 원댕이길 12 (내동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-11"
+    },
+    {
+      "name": "백제병원장례식장",
+      "address": "충청남도 논산시 취암동 139-2 백제병원장례식장",
+      "roadAddress": "충청남도 논산시 시민로294번길 14, 백제병원 (취암동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-24"
+    },
+    {
+      "name": "논산동부농협가야곡지소",
+      "address": "충청남도 논산시 가야곡면 육곡리 449-4",
+      "roadAddress": "충청남도 논산시 가야곡면 육곡길 10",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-23"
+    },
+    {
+      "name": "한청마트",
+      "address": "충청남도 논산시 반월동 173-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "충청남도 논산시 반월동 67-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍년슈퍼",
+      "address": "충청남도 논산시 대교동 242-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종합슈퍼",
+      "address": "충청남도 논산시 내동 737",
+      "roadAddress": "충청남도 논산시 시민로194번길 40-1  (내동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "충청남도 논산시 취암동 611",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리마트",
+      "address": "충청남도 논산시 대교동 238-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-11"
+    },
+    {
+      "name": "케이.씨마트",
+      "address": "충청남도 논산시 내동 930",
+      "roadAddress": "충청남도 논산시 시민로194번길 12-2  (내동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일할인마트",
+      "address": "충청남도 논산시 내동 272-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25논산제일점",
+      "address": "충청남도 논산시 취암동 83-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "G마트",
+      "address": "충청남도 논산시 부창동 274-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새순마트,문구",
+      "address": "충청남도 논산시 내동 619",
+      "roadAddress": "충청남도 논산시 중앙로198번길 1  (내동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 논산연무점",
+      "address": "충청남도 논산시 연무읍 동산리 903-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "비디오편의점",
+      "address": "충청남도 논산시 강경읍 채산리 309",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트논산내동점",
+      "address": "충청남도 논산시 내동 342-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지리산슈퍼",
+      "address": "충청남도 논산시 은진면 와야리 113-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25논산광장점",
+      "address": "충청남도 논산시 화지동 69-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금강슈퍼",
+      "address": "충청남도 논산시 강경읍 채산리 552",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채운슈퍼",
+      "address": "충청남도 논산시 강경읍 채산리 385",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "충청남도 논산시 강경읍 태평리 10-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "충청남도 논산시 강경읍 태평리 13",
+      "roadAddress": "충청남도 논산시 강경읍 옥녀봉로19번길 30-25",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태평슈퍼",
+      "address": "충청남도 논산시 강경읍 태평리 18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼우슈퍼",
+      "address": "충청남도 논산시 강경읍 태평리 26-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "충청남도 논산시 강경읍 홍교리 113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대경슈퍼",
+      "address": "충청남도 논산시 강경읍 황산리 135",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보성슈퍼",
+      "address": "충청남도 논산시 강경읍 황산리 11-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대승슈퍼",
+      "address": "충청남도 논산시 강경읍 황산리 149-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리강경역점마트",
+      "address": "충청남도 논산시 강경읍 대흥리 17-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강경농협연쇄점",
+      "address": "충청남도 논산시 강경읍 대흥리 11-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한남유통",
+      "address": "충청남도 논산시 강경읍 중앙리 56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강남프라자유통",
+      "address": "충청남도 논산시 강경읍 대흥리 11-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미주정육점",
+      "address": "충청남도 논산시 강경읍 산양리 256-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채산1리가계",
+      "address": "충청남도 논산시 강경읍 채산리 410",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황포상회",
+      "address": "충청남도 논산시 강경읍 황산리 181-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문광사문구",
+      "address": "충청남도 논산시 강경읍 대흥리 18-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문성사문구",
+      "address": "충청남도 논산시 강경읍 중앙리 10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창재문구",
+      "address": "충청남도 논산시 강경읍 산양리 202-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼양상회",
+      "address": "충청남도 논산시 강경읍 서창리 51-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙쌀상회",
+      "address": "충청남도 논산시 강경읍 중앙리 67",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황산전기상회",
+      "address": "충청남도 논산시 강경읍 황산리 135",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영미상회",
+      "address": "충청남도 논산시 강경읍 산양리 198",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미래식품",
+      "address": "충청남도 논산시 강경읍 채산리 309",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협태평지소연쇄점",
+      "address": "충청남도 논산시 강경읍 태평리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "천일지물포",
+      "address": "충청남도 논산시 강경읍 태평리 7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동흥슈퍼",
+      "address": "충청남도 논산시 강경읍 동흥리 63-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙리담배가계",
+      "address": "충청남도 논산시 강경읍 중앙리 260",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황산리담배가계",
+      "address": "충청남도 논산시 강경읍 황산리 124-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "울리홈마트",
+      "address": "충청남도 논산시 내동 382-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "방이더웨이 논산취암점",
+      "address": "충청남도 논산시 취암동 991",
+      "roadAddress": "충청남도 논산시 시민로 317  (취암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주윤슈퍼",
+      "address": "충청남도 논산시 은진면 와야리 170",
+      "roadAddress": "충청남도 논산시 은진면 와야길 39-5",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대경마트",
+      "address": "충청남도 논산시 취암동 1038-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "논산농협성덕지소",
+      "address": "충청남도 논산시 은진면 성덕리 221-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다도해젖갈 백화점",
+      "address": "충청남도 논산시 강경읍 채산리 553-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청남도 논산시 관촉동 42-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영남슈퍼",
+      "address": "충청남도 논산시 화지동 32-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 강경점",
+      "address": "충청남도 논산시 강경읍 대흥리 2-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고은슈퍼",
+      "address": "충청남도 논산시 은진면 와야리 246-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대영슈퍼",
+      "address": "충청남도 논산시 은진면 와야리 156-2 논산시폐기물관리조례시행규칙 제8조 제2항",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "밍크냉동",
+      "address": "충청남도 논산시 화지동 41-231",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "드림마트",
+      "address": "충청남도 논산시 반월동 47-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "늘푸른마트",
+      "address": "충청남도 논산시 취암동 621-68",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "충청남도 논산시 화지동 164",
+      "roadAddress": "충청남도 논산시 해월로125번길 26  (화지동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대한상회",
+      "address": "충청남도 논산시 연무읍 죽평리 361-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25논산중앙점",
+      "address": "충청남도 논산시 취암동 1040-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시장마켓",
+      "address": "충청남도 논산시 연산면 연산리 400-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초원편의점",
+      "address": "충청남도 논산시 은진면 와야리 246-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "갑부상회",
+      "address": "충청남도 논산시 대교동 167-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은성슈퍼",
+      "address": "충청남도 논산시 은진면 성덕리 159-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)바이더웨이 충남강경점",
+      "address": "충청남도 논산시 강경읍 대흥리 23-6",
+      "roadAddress": "충청남도 논산시 강경읍 계백로 156-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제이유25마트",
+      "address": "충청남도 논산시 내동 572",
+      "roadAddress": "충청남도 논산시 중앙로218번길 1  (내동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25 논산연무",
+      "address": "충청남도 논산시 연무읍 동산리 639-38",
+      "roadAddress": "충청남도 논산시 연무읍 평화1길 5-2",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마음하나매점",
+      "address": "충청남도 논산시 상월면 상도리 407-14",
+      "roadAddress": "충청남도 논산시 상월면 상월로 749-23",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "푸른마트",
+      "address": "충청남도 논산시 강경읍 대흥리 43-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼립빵대리점",
+      "address": "충청남도 논산시 강경읍 홍교리 99",
+      "roadAddress": "충청남도 논산시 강경읍 옥녀봉로24번길 16-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백조슈퍼",
+      "address": "충청남도 논산시 강경읍 동흥리 100-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화순슈퍼",
+      "address": "충청남도 논산시 강경읍 서창리 13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "충청남도 논산시 강경읍 대흥리 16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진슈퍼",
+      "address": "충청남도 논산시 강경읍 홍교리 85",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "충청남도 논산시 강경읍 대흥리 17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "승일슈퍼",
+      "address": "충청남도 논산시 강경읍 채산리 470-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강경휴게실",
+      "address": "충청남도 논산시 강경읍 대흥리 15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대덕상회",
+      "address": "충청남도 논산시 강경읍 중앙리 245",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "맛나상회",
+      "address": "충청남도 논산시 강경읍 대흥리 51-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성현상회",
+      "address": "충청남도 논산시 강경읍 대흥리 48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금강화원",
+      "address": "충청남도 논산시 강경읍 염천리 69",
+      "roadAddress": "충청남도 논산시 강경읍 계백로153번길 25-5",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황산3리 이장",
+      "address": "충청남도 논산시 강경읍 황산리 87-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황산미용실",
+      "address": "충청남도 논산시 강경읍 황산리 149-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옥녀봉슈퍼",
+      "address": "충청남도 논산시 강경읍 북옥리 142",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산양1리 구판장",
+      "address": "충청남도 논산시 강경읍 산양리 104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남담배가계",
+      "address": "충청남도 논산시 강경읍 대흥리 10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채산리담배가계",
+      "address": "충청남도 논산시 강경읍 채산리 553",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채운리가계",
+      "address": "충청남도 논산시 강경읍 채산리 449",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채운리가계",
+      "address": "충청남도 논산시 강경읍 채운리 238",
+      "roadAddress": "충청남도 논산시 강경읍 벌뫼길 31-13",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채산상회",
+      "address": "충청남도 논산시 강경읍 채산리 429",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남교상회",
+      "address": "충청남도 논산시 강경읍 남교리 97",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백광상회",
+      "address": "충청남도 논산시 강경읍 대흥리 8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "북옥상회",
+      "address": "충청남도 논산시 강경읍 북옥리 83",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "벋엔상회",
+      "address": "충청남도 논산시 강경읍 북옥리 99",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "천광상회",
+      "address": "충청남도 논산시 강경읍 중앙리 22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대영상회",
+      "address": "충청남도 논산시 강경읍 중앙리 30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "버들상회",
+      "address": "충청남도 논산시 강경읍 황산리 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화순상회",
+      "address": "충청남도 논산시 강경읍 서창리 13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만나상회",
+      "address": "충청남도 논산시 강경읍 대흥리 10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매일식품",
+      "address": "충청남도 논산시 강경읍 태평리 10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시골청과식품",
+      "address": "충청남도 논산시 강경읍 서창리 55",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대동벽지 황산지업사",
+      "address": "충청남도 논산시 강경읍 황산리 37-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강경마트",
+      "address": "충청남도 논산시 강경읍 대흥리 17-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두리바연쇄점",
+      "address": "충청남도 논산시 강경읍 남교리 64",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연무체육사",
+      "address": "충청남도 논산시 연무읍 안심리 19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대림슈퍼",
+      "address": "충청남도 논산시 연무읍 죽평리 366",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "니라상회",
+      "address": "충청남도 논산시 연무읍 마산리 3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지정상회",
+      "address": "충청남도 논산시 연무읍 죽평리 38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시장슈퍼",
+      "address": "충청남도 논산시 연무읍 안심리 14-87",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현제슈퍼",
+      "address": "충청남도 논산시 연무읍 안심리 9",
+      "roadAddress": "충청남도 논산시 연무읍 안심로 99-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호슈퍼",
+      "address": "충청남도 논산시 연무읍 동산리 894-215",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서천슈퍼",
+      "address": "충청남도 논산시 연무읍 안심리 76-67",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영창상회",
+      "address": "충청남도 논산시 연무읍 안심리 14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일광슈퍼",
+      "address": "충청남도 논산시 연무읍 동산리 887-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마산2리 구판장",
+      "address": "충청남도 논산시 연무읍 마산리 124",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신성슈퍼",
+      "address": "충청남도 논산시 연무읍 고내리 944",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화신슈퍼",
+      "address": "충청남도 논산시 연무읍 안심리 1126-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부여상회",
+      "address": "충청남도 논산시 연무읍 동산리 894-220",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대화슈퍼",
+      "address": "충청남도 논산시 연무읍 동산리 883-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "군산슈퍼",
+      "address": "충청남도 논산시 연무읍 금곡리 72",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "충청남도 논산시 연무읍 안심리 1-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대동지업사",
+      "address": "충청남도 논산시 연무읍 금곡리 5-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대지업사",
+      "address": "충청남도 논산시 연무읍 안심리 15-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연일슈퍼",
+      "address": "충청남도 논산시 연무읍 금곡리 70",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사랑슈퍼",
+      "address": "충청남도 논산시 연무읍 안심리 7-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "충청남도 논산시 연무읍 안심리 132-76",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보라슈퍼",
+      "address": "충청남도 논산시 연무읍 마산리 700-73",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안심소비자유통센터",
+      "address": "충청남도 논산시 연무읍 안심리 21-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "로숀편의점",
+      "address": "충청남도 논산시 연무읍 안심리 1-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정수슈퍼",
+      "address": "충청남도 논산시 연무읍 금곡리 73",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대우조명",
+      "address": "충청남도 논산시 연무읍 마산리 531",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원비디오",
+      "address": "충청남도 논산시 연무읍 동산리 592-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성원슈퍼",
+      "address": "충청남도 논산시 연무읍 고내리 155",
+      "roadAddress": "충청남도 논산시 연무읍 고내곡로 358-5",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진성상회",
+      "address": "충청남도 논산시 연무읍 마산리 117",
+      "roadAddress": "충청남도 논산시 연무읍 연무로381번길 9-6",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에이스치킨",
+      "address": "충청남도 논산시 연무읍 안심리 1125-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황화2리구판장",
+      "address": "충청남도 논산시 연무읍 황화정리 981-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진성슈퍼",
+      "address": "충청남도 논산시 연무읍 마산리 629-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보라슈퍼",
+      "address": "충청남도 논산시 연무읍 안심리 232-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부래슈퍼",
+      "address": "충청남도 논산시 연무읍 동산리 894-59",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호반상회",
+      "address": "충청남도 논산시 연무읍 안심리 1127-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키지업사",
+      "address": "충청남도 논산시 연무읍 동산리 894-166",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양지2리구판장",
+      "address": "충청남도 논산시 연무읍 양지리 535-53",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금곡슈퍼",
+      "address": "충청남도 논산시 연무읍 금곡리 16-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연무농협연쇄점",
+      "address": "충청남도 논산시 연무읍 안심리 77-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무주상회",
+      "address": "충청남도 논산시 연무읍 안심리 123",
+      "roadAddress": "충청남도 논산시 연무읍 왕릉로70번길 36",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을상회",
+      "address": "충청남도 논산시 연무읍 동산리 903-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영슈퍼",
+      "address": "충청남도 논산시 연무읍 안심리 200",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금성슈퍼",
+      "address": "충청남도 논산시 연무읍 금곡리 19-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "충청남도 논산시 연무읍 금곡리 84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화랑사",
+      "address": "충청남도 논산시 연무읍 안심리 1-124",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일신상회",
+      "address": "충청남도 논산시 연무읍 안심리 76-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인천상회",
+      "address": "충청남도 논산시 연무읍 마산리 529-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해태상회",
+      "address": "충청남도 논산시 연무읍 동산리 893-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동네슈퍼",
+      "address": "충청남도 논산시 연무읍 동산리 894-190",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화석상회",
+      "address": "충청남도 논산시 연무읍 금곡리 16-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "직행매점",
+      "address": "충청남도 논산시 연무읍 동산리 844-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연화슈퍼",
+      "address": "충청남도 논산시 연무읍 안심리 220",
+      "roadAddress": "충청남도 논산시 연무읍 원안길 58",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "공주유통",
+      "address": "충청남도 논산시 연무읍 안심리 22-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "충청남도 논산시 연무읍 안심리 1-59",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일상회",
+      "address": "충청남도 논산시 연무읍 안심리 1102-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가나안유통",
+      "address": "충청남도 논산시 연무읍 안심리 1-124",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월야슈퍼",
+      "address": "충청남도 논산시 연무읍 안심리 1065-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코러스마트",
+      "address": "충청남도 논산시 연무읍 동산리 894-177",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화성상회",
+      "address": "충청남도 논산시 연무읍 소룡리 474",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "논산영외매점",
+      "address": "충청남도 논산시 연무읍 마산리 533-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대광장식",
+      "address": "충청남도 논산시 연무읍 동산리 893-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원슈퍼",
+      "address": "충청남도 논산시 연무읍 동산리 903-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연무그린호텔",
+      "address": "충청남도 논산시 연무읍 황화정리 976",
+      "roadAddress": "충청남도 논산시 연무읍 황화로 369",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성상회",
+      "address": "충청남도 논산시 연무읍 금곡리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성동농협",
+      "address": "충청남도 논산시 성동면 삼산리 165-17",
+      "roadAddress": "충청남도 논산시 성동면 성동로 266-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성동농협 동부지소",
+      "address": "충청남도 논산시 성동면 정지리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성동농협 서부지소",
+      "address": "충청남도 논산시 성동면 병촌리 9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광덕슈퍼",
+      "address": "충청남도 논산시 광석면 신당리 190",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강씨문구",
+      "address": "충청남도 논산시 광석면 천동리 609",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초원슈퍼",
+      "address": "충청남도 논산시 광석면 천동리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "버스정류소 상회",
+      "address": "충청남도 논산시 광석면 천동리 94",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "노성농협",
+      "address": "충청남도 논산시 노성면 읍내리 333",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "노성약방",
+      "address": "충청남도 논산시 노성면 읍내리 85",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대중슈퍼",
+      "address": "충청남도 논산시 노성면 교촌리 224",
+      "roadAddress": "충청남도 논산시 노성면 노성산성길 11",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "읍내2리 구멍가게",
+      "address": "충청남도 논산시 노성면 읍내리 438",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두사1리 구멍가게",
+      "address": "충청남도 논산시 노성면 두사리 119",
+      "roadAddress": "충청남도 논산시 노성면 두사3길 14-12",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송당리 구멍가게",
+      "address": "충청남도 논산시 노성면 송당리 15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송당리 구멍가게",
+      "address": "충청남도 논산시 노성면 송당리 303",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "노성문구",
+      "address": "충청남도 논산시 노성면 교촌리 255-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하도2리 구판장",
+      "address": "충청남도 논산시 노성면 하도리 291-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "병사1리 구멍가게",
+      "address": "충청남도 논산시 노성면 병사리 178",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장구1리 구판장",
+      "address": "충청남도 논산시 노성면 장구리 55",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장구2리 구멍가게",
+      "address": "충청남도 논산시 노성면 장구리 270",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "죽림1리 구멍가게",
+      "address": "충청남도 논산시 노성면 죽림리 409",
+      "roadAddress": "충청남도 논산시 노성면 죽림1길 3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장마루슈퍼",
+      "address": "충청남도 논산시 노성면 죽림리 352",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "노성농협장마루소",
+      "address": "충청남도 논산시 노성면 죽림리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호암1리 구멍가게",
+      "address": "충청남도 논산시 노성면 호암리 72",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "노티리 구멍가게",
+      "address": "충청남도 논산시 노성면 노티리 421",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창공슈퍼",
+      "address": "충청남도 논산시 노성면 송당리 186-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "충청남도 논산시 상월면 신충리 68",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "충청남도 논산시 상월면 산성리 80",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협석종연쇄점",
+      "address": "충청남도 논산시 상월면 석종리 23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협한천연쇄점",
+      "address": "충청남도 논산시 상월면 한천리 56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부적농협협동조합",
+      "address": "충청남도 논산시 부적면 마구평리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부적농협외성지소",
+      "address": "충청남도 논산시 부적면 외성리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부적농협신교지소",
+      "address": "충청남도 논산시 부적면 신교리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을슈퍼",
+      "address": "충청남도 논산시 부적면 마구평리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "감곡2리 이장",
+      "address": "충청남도 논산시 부적면 감곡리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충곡상회",
+      "address": "충청남도 논산시 부적면 충곡리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "외성리 구판장",
+      "address": "충청남도 논산시 부적면 외성리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신풍리구판장",
+      "address": "충청남도 논산시 부적면 신풍리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대명상회",
+      "address": "충청남도 논산시 부적면 신교리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "반송리구판장",
+      "address": "충청남도 논산시 부적면 반송리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "반송리구판장",
+      "address": "충청남도 논산시 부적면 반송리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "반송리구판장",
+      "address": "충청남도 논산시 부적면 반송리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아호리구판장",
+      "address": "충청남도 논산시 부적면 아호리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동부농협",
+      "address": "충청남도 논산시 연산면 연산리 336",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕성상회",
+      "address": "충청남도 논산시 연산면 연산리 83-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "충청남도 논산시 연산면 청동리 575",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "충청남도 논산시 연산면 청동리 127",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스타상회",
+      "address": "충청남도 논산시 연산면 연산리 348",
+      "roadAddress": "충청남도 논산시 연산면 연산3길 1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "충청남도 논산시 연산면 청동리 189-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영원슈퍼",
+      "address": "충청남도 논산시 연산면 청동리 572",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동부농협하나로마트",
+      "address": "충청남도 논산시 벌곡면 한삼천리 261",
+      "roadAddress": "충청남도 논산시 벌곡면 대둔로 817",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "계란상회",
+      "address": "충청남도 논산시 벌곡면 한삼천리 241",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이마트24 임실이도점",
+      "address": "충청남도 논산시 연무읍 황화정리 555-7",
+      "roadAddress": "충청남도 논산시 연무읍 봉황로 140",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-15"
+    },
+    {
+      "name": "논산계룡축산업협동조합 계룡하나로마트",
+      "address": "충청남도 논산시 광석면 중리 86-19",
+      "roadAddress": "충청남도 논산시 광석면 갈산길 225",
+      "status": "영업/정상",
+      "licenseDate": "2014-11-17"
+    },
+    {
+      "name": "씨유 계룡두마점",
+      "address": "충청남도 논산시 취암동 95 주공아파트 206동 603호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2015-02-03"
+    },
+    {
+      "name": "논산계룡농협 계룡로컬푸드센터(직매장)",
+      "address": "충청남도 논산시 연산면 연산리 336",
+      "roadAddress": "충청남도 논산시 연산면 황산벌로 1544",
+      "status": "영업/정상",
+      "licenseDate": "2019-03-29"
+    },
+    {
+      "name": "픽미픽미아이스크림할인점",
+      "address": "충청남도 논산시 양촌면 반곡리 33-1",
+      "roadAddress": "충청남도 논산시 양촌면 반곡길 131",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-08"
+    },
+    {
+      "name": "논산계룡농협 계룡하나로마트 로컬푸드센터",
+      "address": "충청남도 논산시 연산면 연산리 336",
+      "roadAddress": "충청남도 논산시 연산면 황산벌로 1544",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-26"
+    }
+  ]
+}

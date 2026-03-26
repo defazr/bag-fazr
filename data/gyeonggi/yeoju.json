@@ -1,0 +1,4245 @@
+{
+  "region": "경기도",
+  "regionSlug": "gyeonggi",
+  "district": "여주시",
+  "districtSlug": "yeoju",
+  "updatedAt": "2026-03-26",
+  "totalCount": 605,
+  "stores": [
+    {
+      "name": "개나리슈퍼",
+      "address": "경기도 여주시 현암동 185-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "오금상회",
+      "address": "경기도 여주시 오금동 236",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "북내면 행정복지센터",
+      "address": "경기도 여주시 북내면 당우리 165-5 북내면사무소",
+      "roadAddress": "경기도 여주시 북내면 여양2로 301, 북내면사무소",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "북내면사무소오학출장소",
+      "address": "경기도 여주시 오학동 298-2",
+      "roadAddress": "경기도 여주시 여양로 303  (오학동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼진럭키슈퍼",
+      "address": "경기도 여주시 현암동 177-12",
+      "roadAddress": "경기도 여주시 현암2길 28-13  (현암동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "가정1리 구판장",
+      "address": "경기도 여주시 북내면 가정리 219",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "삼진2차@ 관리실",
+      "address": "경기도 여주시 현암동 177-3",
+      "roadAddress": "경기도 여주시 현암2길 28-13  (현암동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "신남구판장",
+      "address": "경기도 여주시 북내면 신남리 223-2",
+      "roadAddress": "경기도 여주시 북내면 신남2길 4",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "외룡리 마을회관",
+      "address": "경기도 여주시 북내면 외룡리 303-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "담터",
+      "address": "경기도 여주시 북내면 외룡리 213",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "외룡리마을회관",
+      "address": "경기도 여주시 북내면 외룡리 88-1",
+      "roadAddress": "경기도 여주시 북내면 외룡길 97-3",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "주암슈퍼",
+      "address": "경기도 여주시 북내면 주암리 224",
+      "roadAddress": "경기도 여주시 북내면 여양2로 1111-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-08-02"
+    },
+    {
+      "name": "주암상회",
+      "address": "경기도 여주시 북내면 주암리 217",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "석우2리 노인회",
+      "address": "경기도 여주시 북내면 석우리 150",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "부녀마을 구판장",
+      "address": "경기도 여주시 북내면 장암리 342-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "마을구판장",
+      "address": "경기도 여주시 북내면 중암리 681",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "운촌마을 구판장",
+      "address": "경기도 여주시 대신면 윤촌리 379",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "신접리복지회관구판장",
+      "address": "경기도 여주시 북내면 신접리 260",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "서감상회",
+      "address": "경기도 여주시 북내면 지내리 559-1",
+      "roadAddress": "경기도 여주시 북내면 여강로 139",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "지내리새마을구판장",
+      "address": "경기도 여주시 북내면 지내리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "삼진1차@관리실",
+      "address": "경기도 여주시 현암동 177-12",
+      "roadAddress": "경기도 여주시 현암2길 28-13  (현암동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "북내슈퍼",
+      "address": "경기도 여주시 북내면 당우리 155",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "은모래매점",
+      "address": "경기도 여주시 연양동 304-3",
+      "roadAddress": "경기도 여주시 강변유원지길 105  (연양동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-20"
+    },
+    {
+      "name": "보림슈퍼",
+      "address": "경기도 여주시 홍문동 169",
+      "roadAddress": "경기도 여주시 세종로67번길 21-21  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-11"
+    },
+    {
+      "name": "강변국민관광지",
+      "address": "경기도 여주시 연양동 304-8",
+      "roadAddress": "경기도 여주시 강변유원지길 105  (연양동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-07"
+    },
+    {
+      "name": "장안4리판매소",
+      "address": "경기도 여주시 점동면 장안리 100",
+      "roadAddress": "경기도 여주시 점동면 건장이길 169-4",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-18"
+    },
+    {
+      "name": "점동우체국",
+      "address": "경기도 여주시 점동면 청안리 163-1",
+      "roadAddress": "경기도 여주시 점동면 청안로 154",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "번도1리 구판장",
+      "address": "경기도 여주시 세종대왕면 번도리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "부국슈퍼",
+      "address": "경기도 여주시 세종대왕면 번도리 499",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "부녀회 구판장",
+      "address": "경기도 여주시 세종대왕면 왕대리 278",
+      "roadAddress": "경기도 여주시 세종대왕면 왕터2길 16",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "새마을공판장",
+      "address": "경기도 여주시 세종대왕면 마래리 419",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "새마을연쇄점",
+      "address": "경기도 여주시 세종대왕면 내양리 346-84",
+      "roadAddress": "경기도 여주시 세종대왕면 장수동길 10",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오계리구판장",
+      "address": "경기도 여주시 세종대왕면 오계리 174",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "구양리구판장",
+      "address": "경기도 여주시 세종대왕면 구양리 281-2",
+      "roadAddress": "경기도 여주시 세종대왕면 구양3길 16",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "광대1리 구판장",
+      "address": "경기도 여주시 세종대왕면 광대리 88",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광대1리 부녀회",
+      "address": "경기도 여주시 세종대왕면 광대리 315",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "용은2리 구판장",
+      "address": "경기도 여주시 세종대왕면 용은리 303",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-09"
+    },
+    {
+      "name": "내양2리 사무소",
+      "address": "경기도 여주시 세종대왕면 내양리 217",
+      "roadAddress": "경기도 여주시 세종대왕면 내양1길 10-5",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-20"
+    },
+    {
+      "name": "오계 구판장",
+      "address": "경기도 여주시 세종대왕면 오계리 488",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-20"
+    },
+    {
+      "name": "신지2리 사무소",
+      "address": "경기도 여주시 세종대왕면 신지리 266-1",
+      "roadAddress": "경기도 여주시 세종대왕면 양화로 897-7",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-20"
+    },
+    {
+      "name": "번도2리 사무소",
+      "address": "경기도 여주시 세종대왕면 번도리 685",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-20"
+    },
+    {
+      "name": "번도2리 사무소",
+      "address": "경기도 여주시 세종대왕면 양거리 394",
+      "roadAddress": "경기도 여주시 세종대왕면 양거2길 18",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경기도 여주시 세종대왕면 번도리 498",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "화신슈퍼",
+      "address": "경기도 여주시 세종대왕면 신지리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "용은1리 부녀가게",
+      "address": "경기도 여주시 세종대왕면 용은리 411",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-20"
+    },
+    {
+      "name": "번도3리 사무소",
+      "address": "경기도 여주시 세종대왕면 번도리 715",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-20"
+    },
+    {
+      "name": "백석1리 문방구",
+      "address": "경기도 여주시 세종대왕면 백석리 427",
+      "roadAddress": "경기도 여주시 세종대왕면 백석1길 38-6",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-20"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 여주시 흥천면 외사리 339",
+      "roadAddress": "경기도 여주시 흥천면 외사전길 16",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-02"
+    },
+    {
+      "name": "보승슈퍼",
+      "address": "경기도 여주시 금사면 이포리 275",
+      "roadAddress": "경기도 여주시 금사면 이포로 4",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-21"
+    },
+    {
+      "name": "여주시농협조합공동사업법인쌀사업본부(대신공장)",
+      "address": "경기도 여주시 대신면 초현리 205",
+      "roadAddress": "경기도 여주시 대신면 여양로 1366",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "천서리농산물",
+      "address": "경기도 여주시 대신면 천서리 219-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 여주시 대신면 율촌리 338",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-05"
+    },
+    {
+      "name": "기사식당",
+      "address": "경기도 여주시 대신면 당남리 101-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "신륵사국민관광지",
+      "address": "경기도 여주시 연양동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-25"
+    },
+    {
+      "name": "현대하이퍼마켓",
+      "address": "경기도 여주시 하동 4-3블럭",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보승슈퍼",
+      "address": "경기도 여주시 금사면 이포리 275",
+      "roadAddress": "경기도 여주시 금사면 이포로 4",
+      "status": "영업/정상",
+      "licenseDate": "1996-03-21"
+    },
+    {
+      "name": "영능쉼터",
+      "address": "경기도 여주시 세종대왕면 왕대리 956",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-10"
+    },
+    {
+      "name": "남한강매점",
+      "address": "경기도 여주시 연양동 304-3",
+      "roadAddress": "경기도 여주시 강변유원지길 105  (연양동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-10"
+    },
+    {
+      "name": "해태유통",
+      "address": "경기도 여주시 홍문동 269",
+      "roadAddress": "경기도 여주시 세종로 69  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-22"
+    },
+    {
+      "name": "현대마트",
+      "address": "경기도 여주시 홍문동 현대아파트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-11"
+    },
+    {
+      "name": "푸른강변휴게실",
+      "address": "경기도 여주시 천송동 228",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-09"
+    },
+    {
+      "name": "사거리상회",
+      "address": "경기도 여주시 오학동 268",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-16"
+    },
+    {
+      "name": "세종휴게실",
+      "address": "경기도 여주시 점봉동 429",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-17"
+    },
+    {
+      "name": "평산슈퍼",
+      "address": "경기도 여주시 홍문동 46블럭 1롯트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-19"
+    },
+    {
+      "name": "여주휴게소",
+      "address": "경기도 여주시 점봉동 산 31-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영능쉼터",
+      "address": "경기도 여주시 세종대왕면 왕대리 956",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-10"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경기도 여주시 산북면 상품리 173-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-17"
+    },
+    {
+      "name": "산북개발위원회",
+      "address": "경기도 여주시 산북면 상품리 138-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-17"
+    },
+    {
+      "name": "용인상회",
+      "address": "경기도 여주시 산북면 주어리 131",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-17"
+    },
+    {
+      "name": "능서식품",
+      "address": "경기도 여주시 세종대왕면 번도리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "경기도 여주시 세종대왕면 신지리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "무궁화슈퍼",
+      "address": "경기도 여주시 세종대왕면 신지리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "매류2리 이장",
+      "address": "경기도 여주시 세종대왕면 매류리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "매화리가게",
+      "address": "경기도 여주시 세종대왕면 매화리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "한정석",
+      "address": "경기도 여주시 세종대왕면 왕대리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "매류1리이장",
+      "address": "경기도 여주시 세종대왕면 매류리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "백석2리구판장",
+      "address": "경기도 여주시 세종대왕면 백석리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "내양2리이장",
+      "address": "경기도 여주시 세종대왕면 내양리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "가시나무새",
+      "address": "경기도 여주시 산북면 명품리 5",
+      "roadAddress": "경기도 여주시 산북면 양자산길 161",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-17"
+    },
+    {
+      "name": "관광농원판매장",
+      "address": "경기도 여주시 산북면 주어리 543",
+      "roadAddress": "경기도 여주시 산북면 주어2길 35",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-17"
+    },
+    {
+      "name": "금강슈퍼",
+      "address": "경기도 여주시 하동 324",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-04"
+    },
+    {
+      "name": "여주임업협동조합",
+      "address": "경기도 여주시 하동 124",
+      "roadAddress": "경기도 여주시 청심로 88  (하동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-24"
+    },
+    {
+      "name": "24시 명동마켓",
+      "address": "경기도 여주시 상동 72-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-13"
+    },
+    {
+      "name": "365 편의점 슈퍼",
+      "address": "경기도 여주시 상동 317-2",
+      "roadAddress": "경기도 여주시 청심로 209  (상동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-01"
+    },
+    {
+      "name": "금강슈퍼",
+      "address": "경기도 여주시 가남읍 본두리 1-2",
+      "roadAddress": "경기도 여주시 가남읍 여주남로 541",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-21"
+    },
+    {
+      "name": "(주)늘푸른@관리사무소",
+      "address": "경기도 여주시 현암동 188",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-10"
+    },
+    {
+      "name": "북내우체국",
+      "address": "경기도 여주시 북내면 당우리 152-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-07"
+    },
+    {
+      "name": "모범슈퍼",
+      "address": "경기도 여주시 홍문동 164-2",
+      "roadAddress": "경기도 여주시 세종로45번길 39  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-23"
+    },
+    {
+      "name": "여주우체국",
+      "address": "경기도 여주시 홍문동 233-5",
+      "roadAddress": "경기도 여주시 세종로 100  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-07"
+    },
+    {
+      "name": "강남마트",
+      "address": "경기도 여주시 교동 산 9-8 강남아파트상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-24"
+    },
+    {
+      "name": "우리마트",
+      "address": "경기도 여주시 점봉동 인창아파트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-30"
+    },
+    {
+      "name": "태광슈퍼",
+      "address": "경기도 여주시 홍문동 232-14",
+      "roadAddress": "경기도 여주시 세종로 86  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-16"
+    },
+    {
+      "name": "여주할인마트",
+      "address": "경기도 여주시 하동 124-13",
+      "roadAddress": "경기도 여주시 청심로 96  (하동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-06"
+    },
+    {
+      "name": "강천우체국",
+      "address": "경기도 여주시 강천면 간매리 302-6",
+      "roadAddress": "경기도 여주시 강천면 간매1길 10-1",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-07"
+    },
+    {
+      "name": "개인",
+      "address": "경기도 여주시 가남읍 하귀리 92-3",
+      "roadAddress": "경기도 여주시 가남읍 하귀길 12",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-11"
+    },
+    {
+      "name": "가남우체국",
+      "address": "경기도 여주시 가남읍 태평리 141-15",
+      "roadAddress": "경기도 여주시 가남읍 태평로 29",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-01"
+    },
+    {
+      "name": "능서우체국",
+      "address": "경기도 여주시 세종대왕면 신지리 801",
+      "roadAddress": "경기도 여주시 세종대왕면 마장로 84",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "흥천우체국",
+      "address": "경기도 여주시 흥천면 효지리 219-9",
+      "roadAddress": "경기도 여주시 흥천면 효자로 131",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "이포우체국",
+      "address": "경기도 여주시 금사면 이포리 197-1",
+      "roadAddress": "경기도 여주시 금사면 이포로 43",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-07"
+    },
+    {
+      "name": "상품우체국",
+      "address": "경기도 여주시 산북면 상품리 112-18",
+      "roadAddress": "경기도 여주시 산북면 상품로 81",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "대신우체국",
+      "address": "경기도 여주시 대신면 율촌리 278-3",
+      "roadAddress": "경기도 여주시 대신면 여양로 1430-7",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "(주)알파마트",
+      "address": "경기도 여주시 하동 333-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-22"
+    },
+    {
+      "name": "한국유통",
+      "address": "경기도 여주시 홍문동 179",
+      "roadAddress": "경기도 여주시 세종로45번길 48  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-24"
+    },
+    {
+      "name": "덩남마트",
+      "address": "경기도 여주시 가남읍 신해리 620",
+      "roadAddress": "경기도 여주시 가남읍 이화길 9",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-20"
+    },
+    {
+      "name": "여주군농협조합공동사업법인쌀사업본부(여주공장)",
+      "address": "경기도 여주시 가남읍 심석리 280 외1필지",
+      "roadAddress": "경기도 여주시 가남읍 자유그린길 20 (외1필지)",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-17"
+    },
+    {
+      "name": "가남할인마트",
+      "address": "경기도 여주시 가남읍 심석리 118",
+      "roadAddress": "경기도 여주시 가남읍 경충대로 1162-20",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-10"
+    },
+    {
+      "name": "데카마트",
+      "address": "경기도 여주시 가남읍 태평리 산 24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-23"
+    },
+    {
+      "name": "백년식품",
+      "address": "경기도 여주시 가남읍 태평리 141-36",
+      "roadAddress": "경기도 여주시 가남읍 태평중앙1길 8-5",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대신할인마트",
+      "address": "경기도 여주시 대신면 율촌리 344-7",
+      "roadAddress": "경기도 여주시 대신면 풍양1길 6-2",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-09"
+    },
+    {
+      "name": "우양유통직판장",
+      "address": "경기도 여주시 천송동 558-2",
+      "roadAddress": "경기도 여주시 신륵로 7  (천송동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-11"
+    },
+    {
+      "name": "오학유통",
+      "address": "경기도 여주시 현암동 190-6",
+      "roadAddress": "경기도 여주시 현암3길 1  (현암동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-13"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "경기도 여주시 창동 162-100",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-06"
+    },
+    {
+      "name": "대원슈퍼",
+      "address": "경기도 여주시 점봉동 466-2",
+      "roadAddress": "경기도 여주시 농산로 13  (점봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-06"
+    },
+    {
+      "name": "이옥희",
+      "address": "경기도 여주시 상동 185-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-18"
+    },
+    {
+      "name": "한성마트",
+      "address": "경기도 여주시 월송동 127-9 1층 103호, 104호",
+      "roadAddress": "경기도 여주시 우암로 190  (월송동,1층 103호, 104호)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-22"
+    },
+    {
+      "name": "훼미리마트 여주한빛점",
+      "address": "경기도 여주시 창동 141",
+      "roadAddress": "경기도 여주시 우암로 45  (창동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-10"
+    },
+    {
+      "name": "보광 훼미리마트",
+      "address": "경기도 여주시 홍문동 74-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-24"
+    },
+    {
+      "name": "점동단위농업협동조합",
+      "address": "경기도 여주시 점동면 청안리 154-3",
+      "roadAddress": "경기도 여주시 점동면 청안리길 8",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양마트 여주터미널점",
+      "address": "경기도 여주시 홍문동 269-4",
+      "roadAddress": "경기도 여주시 세종로 77-1  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-20"
+    },
+    {
+      "name": "대신농협천서지소",
+      "address": "경기도 여주시 대신면 천서리 624-3",
+      "roadAddress": "경기도 여주시 대신면 여양1로 5",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-08"
+    },
+    {
+      "name": "현진할인마트",
+      "address": "경기도 여주시 오학동 100-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-22"
+    },
+    {
+      "name": "신륵사대한불교조계종",
+      "address": "경기도 여주시 천송동 282",
+      "roadAddress": "경기도 여주시 신륵사길 73  (천송동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-18"
+    },
+    {
+      "name": "에이엠씨할인마트",
+      "address": "경기도 여주시 오학동 255-5",
+      "roadAddress": "경기도 여주시 도예로 76  (오학동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-23"
+    },
+    {
+      "name": "북내할인마트",
+      "address": "경기도 여주시 북내면 당우리 227-3",
+      "roadAddress": "경기도 여주시 북내면 당전로 8",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-09"
+    },
+    {
+      "name": "금강마트",
+      "address": "경기도 여주시 가남읍 본두리 1-2",
+      "roadAddress": "경기도 여주시 가남읍 여주남로 541",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-22"
+    },
+    {
+      "name": "현진마트",
+      "address": "경기도 여주시 가남읍 신해리 632",
+      "roadAddress": "경기도 여주시 가남읍 경충대로 1472-19",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-03"
+    },
+    {
+      "name": "현진마트",
+      "address": "경기도 여주시 가남읍 신해리 632",
+      "roadAddress": "경기도 여주시 가남읍 경충대로 1472-19",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부영할인마트",
+      "address": "경기도 여주시 점봉동 산 12-4 부영@상가 지하101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에이스마트",
+      "address": "경기도 여주시 홍문동 66-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-26"
+    },
+    {
+      "name": "현대공판장",
+      "address": "경기도 여주시 가남읍 태평리 141-25",
+      "roadAddress": "경기도 여주시 가남읍 태평로 23-6",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-17"
+    },
+    {
+      "name": "상품마트",
+      "address": "경기도 여주시 산북면 상품리 112-19",
+      "roadAddress": "경기도 여주시 산북면 상품로 85",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-04"
+    },
+    {
+      "name": "굿마트",
+      "address": "경기도 여주시 홍문동 동원@상가 1036",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-30"
+    },
+    {
+      "name": "동아리슈퍼",
+      "address": "경기도 여주시 홍문동 231-11    6/1",
+      "roadAddress": "경기도 여주시 세종로 80  (홍문동,   6/1)",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-04"
+    },
+    {
+      "name": "동부마트",
+      "address": "경기도 여주시 홍문동 73-15 동부빌딩 지하",
+      "roadAddress": "경기도 여주시 세종로 31  (홍문동,동부빌딩 지하)",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-04"
+    },
+    {
+      "name": "파라파라문구슈퍼",
+      "address": "경기도 여주시 상동 154",
+      "roadAddress": "경기도 여주시 청심로 226  (상동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-13"
+    },
+    {
+      "name": "태양할인마트",
+      "address": "경기도 여주시 가남읍 태평리 1471-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-19"
+    },
+    {
+      "name": "에이스슈퍼",
+      "address": "경기도 여주시 창동 150-3",
+      "roadAddress": "경기도 여주시 세종로40번길 8-1  (창동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-07"
+    },
+    {
+      "name": "훼미리마트 여주 IC점",
+      "address": "경기도 여주시 점봉동 437-1 1층 2,3,4호",
+      "roadAddress": "경기도 여주시 세종로 390  (점봉동,1층 2,3,4호)",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-11"
+    },
+    {
+      "name": "삼성마트",
+      "address": "경기도 여주시 교동 28 삼성명가타운상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-28"
+    },
+    {
+      "name": "여주매점",
+      "address": "경기도 여주시 산북면 용담리 132",
+      "roadAddress": "경기도 여주시 산북면 광여로 1587",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수원상회",
+      "address": "경기도 여주시 세종대왕면 번도리 918",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미원슈퍼",
+      "address": "경기도 여주시 하동 214-21",
+      "roadAddress": "경기도 여주시 청심로 127  (하동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오케이유통",
+      "address": "경기도 여주시 천송동 541-3",
+      "roadAddress": "경기도 여주시 신륵로 41  (천송동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원스탑편의방",
+      "address": "경기도 여주시 창동 140   10/1",
+      "roadAddress": "경기도 여주시 우암로 37  (창동,  10/1)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "데카마트",
+      "address": "경기도 여주시 가남읍 신해리 620-17 동남@ 상가1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-02"
+    },
+    {
+      "name": "우리마트",
+      "address": "경기도 여주시 점동면 청안리 123-4",
+      "roadAddress": "경기도 여주시 점동면 청안로 138",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅마트",
+      "address": "경기도 여주시 상동 285-10",
+      "roadAddress": "경기도 여주시 여흥로 144  (상동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우원마트",
+      "address": "경기도 여주시 홍문동 377-13",
+      "roadAddress": "경기도 여주시 세종로 173-62  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보광훼미리마트여주지점",
+      "address": "경기도 여주시 하동 122-7",
+      "roadAddress": "경기도 여주시 청심로 67  (하동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-06"
+    },
+    {
+      "name": "2000마트",
+      "address": "경기도 여주시 홍문동 401",
+      "roadAddress": "경기도 여주시 세종로 151  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "여주장갑",
+      "address": "경기도 여주시 오학동 283-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "여주장갑",
+      "address": "경기도 여주시 오학동 292-4",
+      "roadAddress": "경기도 여주시 학동1길 20  (오학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두풍마트",
+      "address": "경기도 여주시 월송동 380-5 380-5",
+      "roadAddress": "경기도 여주시 여주남로 61  (월송동,380-5)",
+      "status": "영업/정상",
+      "licenseDate": "2003-09-19"
+    },
+    {
+      "name": "호반마트",
+      "address": "경기도 여주시 교동 81-2",
+      "roadAddress": "경기도 여주시 세종로 254-16  (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-07"
+    },
+    {
+      "name": "보광훼미리마트",
+      "address": "경기도 여주시 월송동 127-9",
+      "roadAddress": "경기도 여주시 우암로 190  (월송동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-07"
+    },
+    {
+      "name": "아울렛D.C백화점",
+      "address": "경기도 여주시 홍문동 35 1F",
+      "roadAddress": "경기도 여주시 세종로 18-1  (홍문동,1F)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "경기도 여주시 홍문동 53",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-29"
+    },
+    {
+      "name": "훼미리마트여주가남점",
+      "address": "경기도 여주시 가남읍 태평리 141-13",
+      "roadAddress": "경기도 여주시 가남읍 태평로 25",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-29"
+    },
+    {
+      "name": "가남영마트",
+      "address": "경기도 여주시 가남읍 태평리 157-1",
+      "roadAddress": "경기도 여주시 가남읍 경충대로 1297",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-30"
+    },
+    {
+      "name": "훼미리마트여주창리점",
+      "address": "경기도 여주시 창동 150-7",
+      "roadAddress": "경기도 여주시 세종로40번길 4  (창동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-04"
+    },
+    {
+      "name": "훼미리마트여주창리점",
+      "address": "경기도 여주시 창동 150-7",
+      "roadAddress": "경기도 여주시 세종로40번길 4  (창동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선진철물",
+      "address": "경기도 여주시 홍문동 217-26",
+      "roadAddress": "경기도 여주시 세종로 55  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-10"
+    },
+    {
+      "name": "목아박물관",
+      "address": "경기도 여주시 강천면 이호리 396-2",
+      "roadAddress": "경기도 여주시 강천면 이문안길 21",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-02"
+    },
+    {
+      "name": "그린휴게실",
+      "address": "경기도 여주시 하동 58-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-16"
+    },
+    {
+      "name": "신지리가게",
+      "address": "경기도 여주시 세종대왕면 신지리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "능서면사무소",
+      "address": "경기도 여주시 세종대왕면 번도리 502-3 능서면사무소",
+      "roadAddress": "경기도 여주시 세종대왕면 번도1길 2-9, 능서면사무소",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "영릉쉼터",
+      "address": "경기도 여주시 세종대왕면 왕대리 956",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "흥천농협연쇄점",
+      "address": "경기도 여주시 흥천면 효지리 217-5",
+      "roadAddress": "경기도 여주시 흥천면 효자로 145",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "경기도 여주시 흥천면 효지리 377-9",
+      "roadAddress": "경기도 여주시 흥천면 효자로 157",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "시흥통닭",
+      "address": "경기도 여주시 흥천면 효지리 371-4",
+      "roadAddress": "경기도 여주시 흥천면 효자로 169",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "흥천면사무소",
+      "address": "경기도 여주시 흥천면 효지리 376-6 흥천면사무소",
+      "roadAddress": "경기도 여주시 흥천면 효자로 154, 흥천면사무소",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "주록휴게소매점",
+      "address": "경기도 여주시 금사면 주록리 44-4",
+      "roadAddress": "경기도 여주시 금사면 금품2로 483",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-21"
+    },
+    {
+      "name": "패밀리마트여주상리점",
+      "address": "경기도 여주시 상동 310-2",
+      "roadAddress": "경기도 여주시 청심로 196  (상동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-23"
+    },
+    {
+      "name": "장미마트",
+      "address": "경기도 여주시 월송동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-13"
+    },
+    {
+      "name": "하나TDS",
+      "address": "경기도 여주시 하동 122-2 예림상가 1층",
+      "roadAddress": "경기도 여주시 청심로 61  (하동,예림상가 1층)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트여주대학점",
+      "address": "경기도 여주시 교동 75-6",
+      "roadAddress": "경기도 여주시 세종로 254-10  (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-28"
+    },
+    {
+      "name": "21세기 식품마트",
+      "address": "경기도 여주시 점동면 청안리 156-4",
+      "roadAddress": "경기도 여주시 점동면 청안리길 4",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-03"
+    },
+    {
+      "name": "고봉비니루",
+      "address": "경기도 여주시 홍문동 239-2",
+      "roadAddress": "경기도 여주시 영릉로 5  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-03"
+    },
+    {
+      "name": "꼭지종합시장",
+      "address": "경기도 여주시 점동면 청안리 126-2",
+      "roadAddress": "경기도 여주시 점동면 청안로 133",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-16"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "경기도 여주시 하동 267",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을구판장",
+      "address": "경기도 여주시 산북면 주어리 421",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보광훼미리마트",
+      "address": "경기도 여주시 북내면 서원리 153",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-24"
+    },
+    {
+      "name": "북내할인마트",
+      "address": "경기도 여주시 북내면 당우리 227-3",
+      "roadAddress": "경기도 여주시 북내면 당전로 8",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-21"
+    },
+    {
+      "name": "금강마트",
+      "address": "경기도 여주시 가남읍 본두리 1",
+      "roadAddress": "경기도 여주시 가남읍 여주남로 541",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-14"
+    },
+    {
+      "name": "금강마트",
+      "address": "경기도 여주시 가남읍 본두리 1-2",
+      "roadAddress": "경기도 여주시 가남읍 여주남로 541",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보강훼미리마트여주오학점",
+      "address": "경기도 여주시 오학동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-08"
+    },
+    {
+      "name": "바이더웨이여주은혜",
+      "address": "경기도 여주시 홍문동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-08"
+    },
+    {
+      "name": "굿마트",
+      "address": "경기도 여주시 홍문동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-22"
+    },
+    {
+      "name": "할인마트",
+      "address": "경기도 여주시 창동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-22"
+    },
+    {
+      "name": "세광마트",
+      "address": "경기도 여주시 가남읍 심석리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-09"
+    },
+    {
+      "name": "장미할인마트",
+      "address": "경기도 여주시 월송동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-09"
+    },
+    {
+      "name": "현대슈퍼백화점",
+      "address": "경기도 여주시 창동 157-22",
+      "roadAddress": "경기도 여주시 세종로46번길 23  (창동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오뚜기마트",
+      "address": "경기도 여주시 가남읍 태평리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대신종합할인매장",
+      "address": "경기도 여주시 대신면 율촌리 338-2",
+      "roadAddress": "경기도 여주시 대신면 여양로 1455-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보광훼미리마트천서리점",
+      "address": "경기도 여주시 대신면 천서리 620-1",
+      "roadAddress": "경기도 여주시 대신면 여양로 1987",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙연쇄점",
+      "address": "경기도 여주시 가남읍 태평리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-19"
+    },
+    {
+      "name": "예일마트",
+      "address": "경기도 여주시 교동 121-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-19"
+    },
+    {
+      "name": "하나수퍼",
+      "address": "경기도 여주시 홍문동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-19"
+    },
+    {
+      "name": "이인석",
+      "address": "경기도 여주시 흥천면 효지리 373",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "이의범",
+      "address": "경기도 여주시 흥천면 귀백리 297",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "권영숙",
+      "address": "경기도 여주시 흥천면 다대리 541",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "조병훈",
+      "address": "경기도 여주시 흥천면 외사리 337",
+      "roadAddress": "경기도 여주시 흥천면 외사전길 17",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "박지훈",
+      "address": "경기도 여주시 흥천면 신근리 329",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "김종복",
+      "address": "경기도 여주시 흥천면 문장리 336",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "조인옥",
+      "address": "경기도 여주시 흥천면 복대리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "금사농협연쇄점",
+      "address": "경기도 여주시 금사면 이포리 208-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "경기상회",
+      "address": "경기도 여주시 금사면 이포리 185-38",
+      "roadAddress": "경기도 여주시 금사면 이포로 59",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "일운상회",
+      "address": "경기도 여주시 금사면 이포리 280",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "이포상회",
+      "address": "경기도 여주시 금사면 이포리 197",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "도곡리 가게",
+      "address": "경기도 여주시 금사면 도곡리 199",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "주록리 부녀회",
+      "address": "경기도 여주시 금사면 주록리 55",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "훼미리마트여주교리점",
+      "address": "경기도 여주시 교동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-26"
+    },
+    {
+      "name": "GS25",
+      "address": "경기도 여주시 교동 51-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제이유25마트",
+      "address": "경기도 여주시 창동 138",
+      "roadAddress": "경기도 여주시 여흥로 88  (창동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-10-05"
+    },
+    {
+      "name": "호반마트",
+      "address": "경기도 여주시 교동 81-2",
+      "roadAddress": "경기도 여주시 세종로 254-16  (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-10-05"
+    },
+    {
+      "name": "두풍마트",
+      "address": "경기도 여주시 월송동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두풍마트",
+      "address": "경기도 여주시 월송동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-10-14"
+    },
+    {
+      "name": "강남할인마트",
+      "address": "경기도 여주시 교동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-09"
+    },
+    {
+      "name": "삼일수퍼",
+      "address": "경기도 여주시 현암동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-16"
+    },
+    {
+      "name": "우정슈퍼",
+      "address": "경기도 여주시 홍문동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-16"
+    },
+    {
+      "name": "청풍할인마트",
+      "address": "경기도 여주시 현암동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-27"
+    },
+    {
+      "name": "학생의집",
+      "address": "경기도 여주시 상동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-16"
+    },
+    {
+      "name": "제일상회",
+      "address": "경기도 여주시 창동 146",
+      "roadAddress": "경기도 여주시 세종로40번길 21  (창동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-12-19"
+    },
+    {
+      "name": "우양유통",
+      "address": "경기도 여주시 오학동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-12-28"
+    },
+    {
+      "name": "알파오메가여주점",
+      "address": "경기도 여주시 홍문동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-02-08"
+    },
+    {
+      "name": "훼밀리마트여주중앙점",
+      "address": "경기도 여주시 홍문동 53",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-02-15"
+    },
+    {
+      "name": "바이더웨이강변점",
+      "address": "경기도 여주시 상동 177-4",
+      "roadAddress": "경기도 여주시 강변로 158  (상동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-02-27"
+    },
+    {
+      "name": "제이유25마트",
+      "address": "경기도 여주시 창동 138",
+      "roadAddress": "경기도 여주시 여흥로 88  (창동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-02"
+    },
+    {
+      "name": "예일마트",
+      "address": "경기도 여주시 교동 121-1 1층 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-05"
+    },
+    {
+      "name": "신지1리 마을구판장",
+      "address": "경기도 여주시 세종대왕면 신지리 193-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세일슈퍼",
+      "address": "경기도 여주시 연양동 407-2",
+      "roadAddress": "경기도 여주시 강변유원지길 22-4  (연양동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-05-02"
+    },
+    {
+      "name": "세종마트",
+      "address": "경기도 여주시 점봉동 산 29-1 세종그랑시아아파트단지내상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-05"
+    },
+    {
+      "name": "금사농업협동조합",
+      "address": "경기도 여주시 금사면 이포리 280",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-05-19"
+    },
+    {
+      "name": "가락슈퍼",
+      "address": "경기도 여주시 홍문동 272-2",
+      "roadAddress": "경기도 여주시 세종로79번길 18-4  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-02"
+    },
+    {
+      "name": "보광할인마트",
+      "address": "경기도 여주시 월송동 388-29 보광아파트 상가 103호",
+      "roadAddress": "경기도 여주시 여주남로 58-31  (월송동,보광아파트 상가 103호)",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-02"
+    },
+    {
+      "name": "여주마트",
+      "address": "경기도 여주시 점봉동 437-21",
+      "roadAddress": "경기도 여주시 세종로 397-6 (점봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-13"
+    },
+    {
+      "name": "두풍마트",
+      "address": "경기도 여주시 월송동 380-5 두풍아파트상가 102호",
+      "roadAddress": "경기도 여주시 여주남로 61  (월송동,두풍아파트상가 102호)",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-27"
+    },
+    {
+      "name": "보광훼미리마트여주점동점",
+      "address": "경기도 여주시 점동면 청안리 125",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-07"
+    },
+    {
+      "name": "하호영업소",
+      "address": "경기도 여주시 금사면 하호리 179",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "금사면사무소",
+      "address": "경기도 여주시 금사면 이포리 197-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호구판장",
+      "address": "경기도 여주시 금사면 상호리 197-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "이포상점",
+      "address": "경기도 여주시 금사면 이포리 185",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "두용상회",
+      "address": "경기도 여주시 금사면 장흥리 58",
+      "roadAddress": "경기도 여주시 금사면 장흥로 330-7",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "이포1리 부녀회",
+      "address": "경기도 여주시 금사면 이포리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "산북면사무소",
+      "address": "경기도 여주시 산북면 상품리 121",
+      "roadAddress": "경기도 여주시 산북면 상품로 93",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "금사농협산북지소",
+      "address": "경기도 여주시 산북면 상품리 163-2 금사농협산북지점",
+      "roadAddress": "경기도 여주시 산북면 상품로 86, 금사농협산북지점",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "이봉재",
+      "address": "경기도 여주시 산북면 상품리 169",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "윤용화",
+      "address": "경기도 여주시 산북면 송현리 26",
+      "roadAddress": "경기도 여주시 산북면 송현길 69-5",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서현택",
+      "address": "경기도 여주시 산북면 후리 127",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "김진희",
+      "address": "경기도 여주시 산북면 명품리 122",
+      "roadAddress": "경기도 여주시 산북면 두렁이길 10-6",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "한용진",
+      "address": "경기도 여주시 산북면 주어리 624",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "영진할인마트",
+      "address": "경기도 여주시 연양동 348-4 영진리버빌 단지내 상가 106호",
+      "roadAddress": "경기도 여주시 강변유원지길 22-35  (연양동,영진리버빌 단지내 상가 106호)",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-28"
+    },
+    {
+      "name": "북내할인마트",
+      "address": "경기도 여주시 북내면 당우리 227-3",
+      "roadAddress": "경기도 여주시 북내면 당전로 8",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-13"
+    },
+    {
+      "name": "한국유통",
+      "address": "경기도 여주시 홍문동 179",
+      "roadAddress": "경기도 여주시 세종로45번길 48  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-19"
+    },
+    {
+      "name": "여주시농협조합공동사업법인쌀사업본부(대신공장)",
+      "address": "경기도 여주시 대신면 초현리 205",
+      "roadAddress": "경기도 여주시 대신면 여양로 1366",
+      "status": "영업/정상",
+      "licenseDate": "2006-10-02"
+    },
+    {
+      "name": "대신농협천서지소",
+      "address": "경기도 여주시 대신면 천서리 624-3",
+      "roadAddress": "경기도 여주시 대신면 여양1로 5",
+      "status": "영업/정상",
+      "licenseDate": "2006-10-04"
+    },
+    {
+      "name": "원스탑편의방",
+      "address": "경기도 여주시 하동 300-2",
+      "roadAddress": "경기도 여주시 우암로 29  (하동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-06"
+    },
+    {
+      "name": "중앙편의점",
+      "address": "경기도 여주시 가남읍 태평리 163-4",
+      "roadAddress": "경기도 여주시 가남읍 태평로 37",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)코리아세븐 여주문화점",
+      "address": "경기도 여주시 창동 68 중앙프라자 102호",
+      "roadAddress": "경기도 여주시 세종로14번길 18  (창동,중앙프라자 102호)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우정슈퍼",
+      "address": "경기도 여주시 홍문동 61블록 1로트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-26"
+    },
+    {
+      "name": "훼미리마트 IC2",
+      "address": "경기도 여주시 점봉동 429-68 429-68",
+      "roadAddress": "경기도 여주시 세종로 351  (점봉동,429-68)",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-16"
+    },
+    {
+      "name": "파라파라",
+      "address": "경기도 여주시 상동 154",
+      "roadAddress": "경기도 여주시 청심로 226  (상동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-30"
+    },
+    {
+      "name": "김순동",
+      "address": "경기도 여주시 연라동 493",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-06"
+    },
+    {
+      "name": "강천면사무소",
+      "address": "경기도 여주시 강천면 간매리 312",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-13"
+    },
+    {
+      "name": "훼미리마트 가남현진점",
+      "address": "경기도 여주시 가남읍 신해리 635-48",
+      "roadAddress": "경기도 여주시 가남읍 경충대로 1468",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-27"
+    },
+    {
+      "name": "원타임24 편의점",
+      "address": "경기도 여주시 홍문동 273 월드피아 2040 101호",
+      "roadAddress": "경기도 여주시 세종로79번길 8  (홍문동,월드피아 2040 101호)",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-11"
+    },
+    {
+      "name": "풍년상회",
+      "address": "경기도 여주시 가남읍 태평리 141-16",
+      "roadAddress": "경기도 여주시 가남읍 태평로 31",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-17"
+    },
+    {
+      "name": "여강마트",
+      "address": "경기도 여주시 북내면 당우리 192-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "여강마트",
+      "address": "경기도 여주시 북내면 당우리 192-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "여강마트",
+      "address": "경기도 여주시 북내면 당우리 192-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "여강마트",
+      "address": "경기도 여주시 북내면 당우리 192-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-27"
+    },
+    {
+      "name": "세경주유소",
+      "address": "경기도 여주시 가남읍 심석리 111",
+      "roadAddress": "경기도 여주시 가남읍 경충대로 1130",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-03"
+    },
+    {
+      "name": "이득주",
+      "address": "경기도 여주시 산북면 백자리 284",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "이건화",
+      "address": "경기도 여주시 산북면 용담리 264",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "새롬마트",
+      "address": "경기도 여주시 대신면 율촌리 269-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "도매슈퍼",
+      "address": "경기도 여주시 대신면 율촌리 282-2",
+      "roadAddress": "경기도 여주시 대신면 여양로 1437",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼성슈퍼",
+      "address": "경기도 여주시 대신면 율촌리 378",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "세힘슈퍼",
+      "address": "경기도 여주시 대신면 율촌리 367-2",
+      "roadAddress": "경기도 여주시 대신면 여양로 1470-18",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대신슈퍼",
+      "address": "경기도 여주시 대신면 율촌리 340",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "송현상회",
+      "address": "경기도 여주시 대신면 율촌리 281-2",
+      "roadAddress": "경기도 여주시 대신면 여양로 1429-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "협신슈퍼",
+      "address": "경기도 여주시 대신면 율촌리 338-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "오뚜기슈퍼",
+      "address": "경기도 여주시 대신면 율촌리 371",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "경기도 여주시 대신면 율촌리 339-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "신화당약국",
+      "address": "경기도 여주시 대신면 율촌리 338-19",
+      "roadAddress": "경기도 여주시 대신면 여양로 1457",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "백화점약국",
+      "address": "경기도 여주시 대신면 율촌리 338-9",
+      "roadAddress": "경기도 여주시 대신면 여양로 1461-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 여주시 대신면 율촌리 338-2",
+      "roadAddress": "경기도 여주시 대신면 여양로 1455-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대성식품",
+      "address": "경기도 여주시 대신면 율촌리 281-2",
+      "roadAddress": "경기도 여주시 대신면 여양로 1429-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대신면사무소",
+      "address": "경기도 여주시 대신면 율촌리 390-4 대신면사무소",
+      "roadAddress": "경기도 여주시 대신면 여양로 1456-10, 대신면사무소",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은영식품",
+      "address": "경기도 여주시 대신면 천서리 603",
+      "roadAddress": "경기도 여주시 대신면 천서리길 4",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "천서리 터미널",
+      "address": "경기도 여주시 대신면 천서리 602",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "초현리가게",
+      "address": "경기도 여주시 대신면 초현리 385",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "당남리가게",
+      "address": "경기도 여주시 대신면 당남리 240-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "윤촌리가게",
+      "address": "경기도 여주시 대신면 윤촌리 182-4",
+      "roadAddress": "경기도 여주시 대신면 윤촌2길 5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대풍상회",
+      "address": "경기도 여주시 세종대왕면 번도리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "옥촌리가게",
+      "address": "경기도 여주시 대신면 옥촌리 148",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "천남리 문방구",
+      "address": "경기도 여주시 대신면 천남리 106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "초현리 구판장",
+      "address": "경기도 여주시 대신면 초현리 26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "보통3리 구판장",
+      "address": "경기도 여주시 대신면 보통리 220",
+      "roadAddress": "경기도 여주시 대신면 보율길 28",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "송촌2리 구판장",
+      "address": "경기도 여주시 대신면 송촌리 383",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "송촌2리 구판장",
+      "address": "경기도 여주시 대신면 송촌리 514",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "장풍2리 구판장",
+      "address": "경기도 여주시 대신면 장풍리 634-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "장풍1리 구판장",
+      "address": "경기도 여주시 대신면 장풍리 46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상구2리 구판장",
+      "address": "경기도 여주시 대신면 상구리 346",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상구1리 구판장",
+      "address": "경기도 여주시 대신면 상구리 202",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "하림3리 구판장",
+      "address": "경기도 여주시 대신면 하림리 130",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "하림2리 구판장",
+      "address": "경기도 여주시 대신면 하림리 380",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "하림1리 구판장",
+      "address": "경기도 여주시 대신면 하림리 188-1",
+      "roadAddress": "경기도 여주시 대신면 하림3길 5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "천남2리 구판장",
+      "address": "경기도 여주시 대신면 천남리 367",
+      "roadAddress": "경기도 여주시 대신면 천남2길 5-11",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "가산2리 구판장",
+      "address": "경기도 여주시 대신면 가산리 522-1",
+      "roadAddress": "경기도 여주시 대신면 가산2길 59",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "가산2리 구판장",
+      "address": "경기도 여주시 대신면 가산리 522-1",
+      "roadAddress": "경기도 여주시 대신면 가산2길 59",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "가산2리 구판장",
+      "address": "경기도 여주시 대신면 가산리 522-1",
+      "roadAddress": "경기도 여주시 대신면 가산2길 59",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "당산2리 구판장",
+      "address": "경기도 여주시 대신면 당산리 345",
+      "roadAddress": "경기도 여주시 대신면 풍양1길 96-111",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "당산2리 구판장",
+      "address": "경기도 여주시 대신면 당산리 14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "후포1리 구판장",
+      "address": "경기도 여주시 대신면 후포리 500",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "초현2리 이장",
+      "address": "경기도 여주시 대신면 초현리 148",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "보통2리 이장",
+      "address": "경기도 여주시 대신면 보통리 593",
+      "roadAddress": "경기도 여주시 대신면 보통2길 51-5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "보통1리 이장",
+      "address": "경기도 여주시 대신면 보통리 189",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "계림1리 이장",
+      "address": "경기도 여주시 대신면 계림리 433",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "천서2리 이장",
+      "address": "경기도 여주시 대신면 천서리 156",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송촌3리 이장",
+      "address": "경기도 여주시 대신면 송촌리 325-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "게림2리 이장",
+      "address": "경기도 여주시 대신면 계림리 316",
+      "roadAddress": "경기도 여주시 대신면 계림동길 16",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "도롱리 이장",
+      "address": "경기도 여주시 대신면 도롱리 47",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "무촌리 이장",
+      "address": "경기도 여주시 대신면 무촌리 67",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "옥촌3리 이장",
+      "address": "경기도 여주시 대신면 옥촌리 711",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "옥촌2리 2장",
+      "address": "경기도 여주시 대신면 옥촌리 726",
+      "roadAddress": "경기도 여주시 대신면 옥촌2길 19-3",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "장풍3리 이장",
+      "address": "경기도 여주시 대신면 장풍리 297",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "후포2리 이장",
+      "address": "경기도 여주시 대신면 후포리 46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "용진슈퍼",
+      "address": "경기도 여주시 북내면 당우리 150-4",
+      "roadAddress": "경기도 여주시 북내면 여양2로 277",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "부내농협연쇄점",
+      "address": "경기도 여주시 북내면 당우리 152-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "영슈퍼",
+      "address": "경기도 여주시 북내면 당우리 165",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "금당상회",
+      "address": "경기도 여주시 북내면 당우리 155-4",
+      "roadAddress": "경기도 여주시 북내면 여양2로 290-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "여강상회",
+      "address": "경기도 여주시 북내면 당우리 192",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "서울식품",
+      "address": "경기도 여주시 천송동 288",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "동샘 오락실",
+      "address": "경기도 여주시 천송동 289-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "향토정육점",
+      "address": "경기도 여주시 북내면 당우리 530",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "천송2리 구판장",
+      "address": "경기도 여주시 천송동 335",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대수리구판장",
+      "address": "경기도 여주시 천송동 418",
+      "roadAddress": "경기도 여주시 어영실로 116-4  (천송동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "오학 영슈퍼",
+      "address": "경기도 여주시 오학동 136",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "오학1리 구판장",
+      "address": "경기도 여주시 오학동 134-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "오학2리 농협지소",
+      "address": "경기도 여주시 오학동 282-4",
+      "roadAddress": "경기도 여주시 도예로 73  (오학동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경기도 여주시 오학동 285",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "오학슈퍼",
+      "address": "경기도 여주시 오학동 292-11",
+      "roadAddress": "경기도 여주시 학동1길 36  (오학동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "오학2리 구판장",
+      "address": "경기도 여주시 오학동 337",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대진슈퍼",
+      "address": "경기도 여주시 오학동 269",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "거화",
+      "address": "경기도 여주시 현암동 206",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "경기도 여주시 현암동 219-2",
+      "roadAddress": "경기도 여주시 강변북로 104-3  (현암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "길성순",
+      "address": "경기도 여주시 현암동 77",
+      "roadAddress": "경기도 여주시 평장길 81-10  (현암동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "김영철",
+      "address": "경기도 여주시 현암동 502",
+      "roadAddress": "경기도 여주시 현암4길 57-1  (현암동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "김은식",
+      "address": "경기도 여주시 현암동 555",
+      "roadAddress": "경기도 여주시 현남길 26-1  (현암동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-10-26"
+    },
+    {
+      "name": "장논상",
+      "address": "경기도 여주시 현암동 446",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "영남상회",
+      "address": "경기도 여주시 현암동 345",
+      "roadAddress": "경기도 여주시 현암3길 106  (현암동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "광주상회",
+      "address": "경기도 여주시 현암동 232",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경기도 여주시 현암동 159",
+      "roadAddress": "경기도 여주시 현암3길 54-6  (현암동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼일슈퍼",
+      "address": "경기도 여주시 현암동 155-4",
+      "roadAddress": "경기도 여주시 현암3길 45  (현암동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "동원상회",
+      "address": "경기도 여주시 현암동 191-12",
+      "roadAddress": "경기도 여주시 도예로 59  (현암동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼진슈퍼",
+      "address": "경기도 여주시 현암동 177-12",
+      "roadAddress": "경기도 여주시 현암2길 28-13  (현암동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "안금2리부녀회",
+      "address": "경기도 여주시 가남읍 안금리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "오산리구판장",
+      "address": "경기도 여주시 가남읍 오산리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "오뚜기슈퍼",
+      "address": "경기도 여주시 가남읍 태평리 100-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "금강아파트자치회",
+      "address": "경기도 여주시 가남읍 본두리 1-2",
+      "roadAddress": "경기도 여주시 가남읍 여주남로 541",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "대신2리 부녀회",
+      "address": "경기도 여주시 가남읍 대신리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "상활1리 구판장",
+      "address": "경기도 여주시 가남읍 상활리 168",
+      "roadAddress": "경기도 여주시 가남읍 상활1길 13",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "성원수퍼",
+      "address": "경기도 여주시 상동 251-2",
+      "roadAddress": "경기도 여주시 청심로 178  (상동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부림슈퍼",
+      "address": "경기도 여주시 상동 219-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "성원슈퍼",
+      "address": "경기도 여주시 상동 251-2",
+      "roadAddress": "경기도 여주시 청심로 178  (상동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼진상회",
+      "address": "경기도 여주시 상동 219-3",
+      "roadAddress": "경기도 여주시 청심로 168  (상동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경진슈퍼",
+      "address": "경기도 여주시 상동 210-1",
+      "roadAddress": "경기도 여주시 청심로 171-1  (상동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "신용슈퍼",
+      "address": "경기도 여주시 상동 156",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경기도 여주시 상동 156-1",
+      "roadAddress": "경기도 여주시 청심로 223-1  (상동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상리슈퍼",
+      "address": "경기도 여주시 상동 281",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "한강슈퍼",
+      "address": "경기도 여주시 상동 179",
+      "roadAddress": "경기도 여주시 청심로 197-8  (상동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "영광슈퍼",
+      "address": "경기도 여주시 상동 316-1",
+      "roadAddress": "경기도 여주시 청심로 207-2  (상동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "진미슈퍼",
+      "address": "경기도 여주시 상동 316-1",
+      "roadAddress": "경기도 여주시 청심로 207-2  (상동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "일흥슈퍼",
+      "address": "경기도 여주시 상동 152-1",
+      "roadAddress": "경기도 여주시 청심로 225  (상동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-10-21"
+    },
+    {
+      "name": "동진상회",
+      "address": "경기도 여주시 상동 315",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-10-21"
+    },
+    {
+      "name": "나눔슈퍼",
+      "address": "경기도 여주시 상동 118-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "샛별슈퍼",
+      "address": "경기도 여주시 상동 331",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 여주시 상동 297",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "덕암하이퍼",
+      "address": "경기도 여주시 상동 310",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "동아슈퍼",
+      "address": "경기도 여주시 상동 258-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "풍산슈퍼",
+      "address": "경기도 여주시 상동 5-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "중앙공판장",
+      "address": "경기도 여주시 상동 111",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우복슈퍼",
+      "address": "경기도 여주시 홍문동 25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "수원슈퍼",
+      "address": "경기도 여주시 홍문동 115",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "까치네슈퍼",
+      "address": "경기도 여주시 홍문동 10-2",
+      "roadAddress": "경기도 여주시 청심로 148  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "여주농협하나로마트",
+      "address": "경기도 여주시 홍문동 15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-21"
+    },
+    {
+      "name": "한림슈퍼",
+      "address": "경기도 여주시 홍문동 74",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "영양식품",
+      "address": "경기도 여주시 홍문동 65",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "양귀리마을구판장",
+      "address": "경기도 여주시 가남읍 양귀리 259",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "대신1리마을회관",
+      "address": "경기도 여주시 가남읍 대신리 58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "금곡리마을구판장",
+      "address": "경기도 여주시 가남읍 금곡리 144",
+      "roadAddress": "경기도 여주시 가남읍 금곡길 71-6",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "본두1리 노인회",
+      "address": "경기도 여주시 가남읍 본두리 761-11",
+      "roadAddress": "경기도 여주시 가남읍 본두2길 36-4",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "화평리 마을회관",
+      "address": "경기도 여주시 가남읍 화평리 302",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "삼군리 부녀회",
+      "address": "경기도 여주시 가남읍 삼군리 76",
+      "roadAddress": "경기도 여주시 가남읍 양화로 94-8",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "건장리 부녀가게",
+      "address": "경기도 여주시 가남읍 건장리 38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "화평1리 구판장",
+      "address": "경기도 여주시 가남읍 화평리 113",
+      "roadAddress": "경기도 여주시 가남읍 화평길 49",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "연대리 새마을구판장",
+      "address": "경기도 여주시 가남읍 연대리 638",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "상활2리 노인회",
+      "address": "경기도 여주시 가남읍 상활리 375",
+      "roadAddress": "경기도 여주시 가남읍 상활2길 66",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "은봉1리 이장",
+      "address": "경기도 여주시 가남읍 은봉리 513",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "은봉1리 반장",
+      "address": "경기도 여주시 가남읍 은봉리 360",
+      "roadAddress": "경기도 여주시 가남읍 건은로 241-42",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "신해1리 마을구판장",
+      "address": "경기도 여주시 가남읍 신해리 302",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "삼군구판장",
+      "address": "경기도 여주시 가남읍 삼군리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "중앙상회",
+      "address": "경기도 여주시 가남읍 태평리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "안금1리구판장",
+      "address": "경기도 여주시 가남읍 안금리 527-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "금당2리 노인정",
+      "address": "경기도 여주시 가남읍 금당리 164",
+      "roadAddress": "경기도 여주시 가남읍 금당리길 109-4",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "삼승리구판장",
+      "address": "경기도 여주시 가남읍 삼승리 93",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대신3리 부녀회",
+      "address": "경기도 여주시 가남읍 대신리 194",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부녀회 구판장",
+      "address": "경기도 여주시 가남읍 송림리 315-20",
+      "roadAddress": "경기도 여주시 가남읍 송림2길 15",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "심석리 부녀회 구판장",
+      "address": "경기도 여주시 가남읍 심석리 148-13",
+      "roadAddress": "경기도 여주시 가남읍 흑석로 55-5",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "하귀리새마을부녀구판장",
+      "address": "경기도 여주시 가남읍 하귀리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "금당1리구판장",
+      "address": "경기도 여주시 가남읍 금당리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "정단리구판장",
+      "address": "경기도 여주시 가남읍 정단리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "신해2리 구판장",
+      "address": "경기도 여주시 가남읍 신해리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "월송2리 부녀회",
+      "address": "경기도 여주시 월송동 120-2",
+      "roadAddress": "경기도 여주시 향교로 123  (월송동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "연라리구판장",
+      "address": "경기도 여주시 연라동 577",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "연라2리부녀회",
+      "address": "경기도 여주시 연라동 286",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "욘라2리부녀회",
+      "address": "경기도 여주시 연라동 286",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상거리구판장",
+      "address": "경기도 여주시 상거동 170-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "하거리구판장",
+      "address": "경기도 여주시 하거동 323",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼교1리 구판장",
+      "address": "경기도 여주시 삼교동 127",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼교2리 가게",
+      "address": "경기도 여주시 삼교동 434-7",
+      "roadAddress": "경기도 여주시 삼교1길 45  (삼교동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "점봉1리 부녀회",
+      "address": "경기도 여주시 점봉동 93-7",
+      "roadAddress": "경기도 여주시 세종로517번길 51  (점봉동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "점봉2리 구판장",
+      "address": "경기도 여주시 점봉동 2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "점봉3리 구판장",
+      "address": "경기도 여주시 점봉동 451",
+      "roadAddress": "경기도 여주시 세종로 394-30  (점봉동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "점봉4리 부녀회",
+      "address": "경기도 여주시 점봉동 426",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "인창슈퍼",
+      "address": "경기도 여주시 점봉동 114",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "멱곡1리 구판장",
+      "address": "경기도 여주시 멱곡동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "멱곡2리 가게",
+      "address": "경기도 여주시 멱곡동 296",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "단현1리 부녀회",
+      "address": "경기도 여주시 단현동 61",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "단현2리 구판장",
+      "address": "경기도 여주시 단현동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "신진상회",
+      "address": "경기도 여주시 신진동 100",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "연양리 새마을상회",
+      "address": "경기도 여주시 연양동 185",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "연양리국민관광지",
+      "address": "경기도 여주시 연양동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "매룡상회",
+      "address": "경기도 여주시 매룡동 58",
+      "roadAddress": "경기도 여주시 주내로 226  (매룡동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "우만리 부녀가게",
+      "address": "경기도 여주시 우만동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대원슈퍼",
+      "address": "경기도 여주시 점봉동 426",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "현대슈퍼백화점",
+      "address": "경기도 여주시 창동 162-65",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "고려지물",
+      "address": "경기도 여주시 하동 324",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "이호상회",
+      "address": "경기도 여주시 강천면 이호리 445",
+      "roadAddress": "경기도 여주시 강천면 이호1길 41",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "목아가게",
+      "address": "경기도 여주시 강천면 이호리 425",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "이호1리 가게",
+      "address": "경기도 여주시 강천면 이호리 418",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-10-18"
+    },
+    {
+      "name": "부흥상회",
+      "address": "경기도 여주시 강천면 이호리 112",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "가야리 구판장",
+      "address": "경기도 여주시 강천면 가야리 97",
+      "roadAddress": "경기도 여주시 강천면 오감길 107",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "가야2리 가게",
+      "address": "경기도 여주시 강천면 가야리 280",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "적금1리 가게",
+      "address": "경기도 여주시 강천면 적금리 512",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "적금2리 가게",
+      "address": "경기도 여주시 강천면 적금리 128",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "굴암리 가게",
+      "address": "경기도 여주시 강천면 굴암리 56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "강천1리 가게",
+      "address": "경기도 여주시 강천면 강천리 608",
+      "roadAddress": "경기도 여주시 강천면 강천리길 76-14",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "여울목상회",
+      "address": "경기도 여주시 강천면 부평리 501-3",
+      "roadAddress": "경기도 여주시 강천면 부평로 119",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "부평상회",
+      "address": "경기도 여주시 강천면 부평리 353",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대둔상회",
+      "address": "경기도 여주시 강천면 도전리 33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "도전1리 가게",
+      "address": "경기도 여주시 강천면 도전리 954",
+      "roadAddress": "경기도 여주시 강천면 탑전길 28-4",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "도전2리 가게",
+      "address": "경기도 여주시 강천면 도전리 884",
+      "roadAddress": "경기도 여주시 강천면 원양1로 571-11",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "도전3리 가게",
+      "address": "경기도 여주시 강천면 도전리 420",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "강천면사무소",
+      "address": "경기도 여주시 강천면 간매리 312",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "점동슈퍼",
+      "address": "경기도 여주시 점동면 청안리 125",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "이천상회",
+      "address": "경기도 여주시 점동면 청안리 126-3",
+      "roadAddress": "경기도 여주시 점동면 청안로 131",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "지영상회",
+      "address": "경기도 여주시 점동면 청안리 125",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "부구리상회",
+      "address": "경기도 여주시 점동면 부구리 26",
+      "roadAddress": "경기도 여주시 점동면 부구로 173",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "덕평리부녀가게",
+      "address": "경기도 여주시 점동면 덕평리 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "덕평리부녀가게",
+      "address": "경기도 여주시 점동면 덕평리 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "원부리부녀가게",
+      "address": "경기도 여주시 점동면 원부리 472",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "명동슈퍼",
+      "address": "경기도 여주시 홍문동 72",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "군민상회",
+      "address": "경기도 여주시 홍문동 72",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-10"
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "경기도 여주시 홍문동 74",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김분배",
+      "address": "경기도 여주시 홍문동 257",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "보리밥집",
+      "address": "경기도 여주시 홍문동 44B 6L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-10-25"
+    },
+    {
+      "name": "반석슈퍼",
+      "address": "경기도 여주시 홍문동 303-8",
+      "roadAddress": "경기도 여주시 세종로67번길 21-3  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-10-20"
+    },
+    {
+      "name": "동부매점",
+      "address": "경기도 여주시 홍문동 269-4",
+      "roadAddress": "경기도 여주시 세종로 77-1  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼한노인정",
+      "address": "경기도 여주시 홍문동 428-3",
+      "roadAddress": "경기도 여주시 세종로 145-28  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "유일상회",
+      "address": "경기도 여주시 홍문동 404-9",
+      "roadAddress": "경기도 여주시 세종로 145-22  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼한슈퍼",
+      "address": "경기도 여주시 홍문동 산 8-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상우식품",
+      "address": "경기도 여주시 홍문동 377-1",
+      "roadAddress": "경기도 여주시 세종로 173-65  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "미도파슈퍼여주점",
+      "address": "경기도 여주시 창동 50-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "부성상회",
+      "address": "경기도 여주시 창동 63-2",
+      "roadAddress": "경기도 여주시 여흥로105번길 18  (창동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "인정상회",
+      "address": "경기도 여주시 창동 97-5",
+      "roadAddress": "경기도 여주시 청심로132번길 25  (창동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "타임슈퍼",
+      "address": "경기도 여주시 창동 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "우리문방구",
+      "address": "경기도 여주시 창동 38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "경기도 여주시 창동 147",
+      "roadAddress": "경기도 여주시 세종로40번길 11  (창동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "은성슈퍼",
+      "address": "경기도 여주시 창동 141",
+      "roadAddress": "경기도 여주시 우암로 45  (창동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-10-21"
+    },
+    {
+      "name": "늘푸른슈퍼",
+      "address": "경기도 여주시 창동 162",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "성광슈퍼",
+      "address": "경기도 여주시 창동 143",
+      "roadAddress": "경기도 여주시 소양로57번길 10  (창동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "잉꼬슈퍼",
+      "address": "경기도 여주시 홍문동 143-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "경기도 여주시 홍문동 196-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-10-20"
+    },
+    {
+      "name": "풍년슈퍼",
+      "address": "경기도 여주시 창동 136",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "아리랑슈퍼",
+      "address": "경기도 여주시 창동 147-1",
+      "roadAddress": "경기도 여주시 세종로40번길 13-5  (창동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "지영슈퍼",
+      "address": "경기도 여주시 홍문동 217-13",
+      "roadAddress": "경기도 여주시 세종로 51  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경기도 여주시 창동 101-3",
+      "roadAddress": "경기도 여주시 여흥로 93  (창동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "광선슈퍼",
+      "address": "경기도 여주시 상동 338-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "골목슈퍼",
+      "address": "경기도 여주시 상동 329-3",
+      "roadAddress": "경기도 여주시 여흥로 170  (상동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "향교상회",
+      "address": "경기도 여주시 홍문동 193",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "대하슈퍼",
+      "address": "경기도 여주시 홍문동 57-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "대도슈퍼",
+      "address": "경기도 여주시 홍문동 56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경기도 여주시 상동 325-4",
+      "roadAddress": "경기도 여주시 여흥로160번길 2  (상동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "영신슈퍼",
+      "address": "경기도 여주시 상동 338-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "여주축현판매장",
+      "address": "경기도 여주시 하동 247-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "킹마트",
+      "address": "경기도 여주시 하동 306-6",
+      "roadAddress": "경기도 여주시 우암로 30  (하동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "신용슈퍼",
+      "address": "경기도 여주시 하동 231",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "동아슈퍼",
+      "address": "경기도 여주시 창동 125",
+      "roadAddress": "경기도 여주시 여흥로105번길 3-1  (창동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "에스마트여주점",
+      "address": "경기도 여주시 하동 114-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "꾸러기문구",
+      "address": "경기도 여주시 창동 37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "시온직매점",
+      "address": "경기도 여주시 홍문동 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-01-03"
+    },
+    {
+      "name": "대영상회",
+      "address": "경기도 여주시 홍문동 224",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "제일시장",
+      "address": "경기도 여주시 하동 186",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "음식업조합군지부",
+      "address": "경기도 여주시 하동 7B 17-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "한양지물",
+      "address": "경기도 여주시 창동 99-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "명진식품",
+      "address": "경기도 여주시 홍문동 178",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "남한강@자치회",
+      "address": "경기도 여주시 하동 3블럭 3롯트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "경기도 여주시 월송동 63-4",
+      "roadAddress": "경기도 여주시 우암로 158  (월송동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명슈퍼",
+      "address": "경기도 여주시 하동 274-2",
+      "roadAddress": "경기도 여주시 청심로132번길 20  (하동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "관한2리가게",
+      "address": "경기도 여주시 점동면 관한리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "뇌곡1리 가게",
+      "address": "경기도 여주시 점동면 뇌곡리 67",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "뇌곡2리가게",
+      "address": "경기도 여주시 점동면 뇌곡리 159",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "성신1리 가게",
+      "address": "경기도 여주시 점동면 성신리 19",
+      "roadAddress": "경기도 여주시 점동면 신이길 81-5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "성신2리 가게",
+      "address": "경기도 여주시 점동면 성신리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "당진상회",
+      "address": "경기도 여주시 점동면 당진리 258",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "당진새마을",
+      "address": "경기도 여주시 점동면 당진리 209",
+      "roadAddress": "경기도 여주시 점동면 오갑산길 41",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "현수1리 가게",
+      "address": "경기도 여주시 점동면 현수리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "현수2리 가게",
+      "address": "경기도 여주시 점동면 현수리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "사곡1리 가게",
+      "address": "경기도 여주시 점동면 사곡리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "사곡2리 가게",
+      "address": "경기도 여주시 점동면 사곡리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "장안새마을회",
+      "address": "경기도 여주시 점동면 장안리 553",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "장안새마을회",
+      "address": "경기도 여주시 점동면 장안리 42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경노회",
+      "address": "경기도 여주시 점동면 삼합리 550",
+      "roadAddress": "경기도 여주시 점동면 점동로 647",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼합구판장",
+      "address": "경기도 여주시 점동면 삼합리 446-2",
+      "roadAddress": "경기도 여주시 점동면 삼합리길 82-4",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼합새마을회",
+      "address": "경기도 여주시 점동면 도리 60",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "도리상회",
+      "address": "경기도 여주시 점동면 도리 60",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "흔암가게",
+      "address": "경기도 여주시 점동면 흔암리 135",
+      "roadAddress": "경기도 여주시 점동면 선사1길 103-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "처리구판장",
+      "address": "경기도 여주시 점동면 처리 198-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "관한1리 가게",
+      "address": "경기도 여주시 점동면 관한리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "점동면사무소",
+      "address": "경기도 여주시 점동면 청안리 124-1",
+      "roadAddress": "경기도 여주시 점동면 청안로 132",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "새한슈퍼",
+      "address": "경기도 여주시 점동면 청안리 130-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "청안리구판장",
+      "address": "경기도 여주시 점동면 청안리 211",
+      "roadAddress": "경기도 여주시 점동면 안말1길 8",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "영진상회",
+      "address": "경기도 여주시 가남읍 태평리 561-9",
+      "roadAddress": "경기도 여주시 가남읍 태평중앙1길 3",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "여흥슈퍼",
+      "address": "경기도 여주시 창동 74-1",
+      "roadAddress": "경기도 여주시 청심로132번길 13-1  (창동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "동일상회",
+      "address": "경기도 여주시 하동 300-2",
+      "roadAddress": "경기도 여주시 우암로 29  (하동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "젬마슈퍼",
+      "address": "경기도 여주시 하동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "미원슈퍼",
+      "address": "경기도 여주시 하동 214",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "예림슈퍼",
+      "address": "경기도 여주시 하동 248-10",
+      "roadAddress": "경기도 여주시 여흥로11번길 63  (하동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "성호슈퍼",
+      "address": "경기도 여주시 하동 231",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "경기도 여주시 하동 260-1",
+      "roadAddress": "경기도 여주시 세종로14번길 30  (하동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "다모아슈퍼",
+      "address": "경기도 여주시 하동 115-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "능서슈퍼",
+      "address": "경기도 여주시 하동 180-1",
+      "roadAddress": "경기도 여주시 여흥로57번길 20  (하동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "빙그레슈퍼",
+      "address": "경기도 여주시 하동 311",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "여궁슈퍼",
+      "address": "경기도 여주시 가업동 187-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "황금상회",
+      "address": "경기도 여주시 하동 322",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "강변문구완구",
+      "address": "경기도 여주시 하동 115-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "경기도 여주시 하동 326-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "세광상회",
+      "address": "경기도 여주시 하동 324",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나슈퍼",
+      "address": "경기도 여주시 하동 143-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "창조슈퍼",
+      "address": "경기도 여주시 하동 145-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경기도 여주시 하동 134",
+      "roadAddress": "경기도 여주시 여흥로33번길 8  (하동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "다영슈퍼",
+      "address": "경기도 여주시 하동 3블럭 11롯트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "용문슈퍼",
+      "address": "경기도 여주시 창동 154",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "경기도 여주시 교동 500-59",
+      "roadAddress": "경기도 여주시 교동2길 34  (교동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "제비상회",
+      "address": "경기도 여주시 교동 400",
+      "roadAddress": "경기도 여주시 교동2길 13  (교동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "낙원슈퍼",
+      "address": "경기도 여주시 교동 2-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "월송1리 가계",
+      "address": "경기도 여주시 월송동 265",
+      "roadAddress": "경기도 여주시 삼밭골길 76  (월송동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "교3리 부녀회",
+      "address": "경기도 여주시 교동 2-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "선영슈퍼",
+      "address": "경기도 여주시 홍문동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "장문지물",
+      "address": "경기도 여주시 홍문동 135",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "경기도 여주시 홍문동 113",
+      "roadAddress": "경기도 여주시 청심로166번길 18  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "환영슈퍼",
+      "address": "경기도 여주시 창동 142",
+      "roadAddress": "경기도 여주시 소양로53번길 10-1  (창동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "현대지물",
+      "address": "경기도 여주시 하동 257",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "동아상회",
+      "address": "경기도 여주시 하동 252-6",
+      "roadAddress": "경기도 여주시 여흥로11번길 63  (하동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "교하중부대리점",
+      "address": "경기도 여주시 하동 171",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "행복상회",
+      "address": "경기도 여주시 하동 293",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "중앙상회",
+      "address": "경기도 여주시 홍문동 111-12",
+      "roadAddress": "경기도 여주시 세종로13번길 2  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "영신슈퍼",
+      "address": "경기도 여주시 홍문동 65-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "경기도 여주시 하동 192-3",
+      "roadAddress": "경기도 여주시 우암로 4  (하동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "부흥슈퍼",
+      "address": "경기도 여주시 상동 65-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "충북상회",
+      "address": "경기도 여주시 하동 180-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "장원슈퍼",
+      "address": "경기도 여주시 창동 150-3",
+      "roadAddress": "경기도 여주시 세종로40번길 8-1  (창동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뒷골슈퍼",
+      "address": "경기도 여주시 상동 291-6",
+      "roadAddress": "경기도 여주시 여흥로160번길 14  (상동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "현재종합인테리어",
+      "address": "경기도 여주시 홍문동 48-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "대성상회",
+      "address": "경기도 여주시 상동 228",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "중앙기업사",
+      "address": "경기도 여주시 하동 293-4",
+      "roadAddress": "경기도 여주시 여흥로69번길 10-19  (하동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-02"
+    },
+    {
+      "name": "DB마트",
+      "address": "경기도 여주시 하동 186",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-02"
+    },
+    {
+      "name": "법원매점",
+      "address": "경기도 여주시 홍문동 146",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-02"
+    },
+    {
+      "name": "여주공판장",
+      "address": "경기도 여주시 홍문동 72-8",
+      "roadAddress": "경기도 여주시 세종로 31  (홍문동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-20"
+    },
+    {
+      "name": "간매구판장",
+      "address": "경기도 여주시 강천면 간매리 300",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "강천문방구",
+      "address": "경기도 여주시 강천면 간매리 312",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "여주상회",
+      "address": "경기도 여주시 가남읍 태평리 110-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 여주시 가남읍 태평리 103-1",
+      "roadAddress": "경기도 여주시 가남읍 태평1길 10",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "둘리문구",
+      "address": "경기도 여주시 가남읍 태평리 168",
+      "roadAddress": "경기도 여주시 가남읍 대명산길 17",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "경기도 여주시 가남읍 태평리 99",
+      "roadAddress": "경기도 여주시 가남읍 태평3길 8",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "학생문구사",
+      "address": "경기도 여주시 가남읍 태평리 174-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-01"
+    },
+    {
+      "name": "태평슈퍼",
+      "address": "경기도 여주시 가남읍 태평리 172",
+      "roadAddress": "경기도 여주시 가남읍 태평로 56",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "유림슈퍼",
+      "address": "경기도 여주시 가남읍 태평리 14-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "주부상회",
+      "address": "경기도 여주시 가남읍 태평리 141-36",
+      "roadAddress": "경기도 여주시 가남읍 태평중앙1길 8-5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "태평슈퍼 2",
+      "address": "경기도 여주시 가남읍 태평리 145-1",
+      "roadAddress": "경기도 여주시 가남읍 태평중앙2길 6-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "충주상회",
+      "address": "경기도 여주시 가남읍 심석리 209",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-10-27"
+    },
+    {
+      "name": "안산마을",
+      "address": "경기도 여주시 가남읍 은봉리 산 96",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "태평매점",
+      "address": "경기도 여주시 가남읍 태평리 18",
+      "roadAddress": "경기도 여주시 가남읍 신대동길 36",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼평주택",
+      "address": "경기도 여주시 가남읍 태평리 17-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "동명주택",
+      "address": "경기도 여주시 가남읍 태평리 203",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-20"
+    },
+    {
+      "name": "가남문구",
+      "address": "경기도 여주시 가남읍 심석리 265-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼진주택",
+      "address": "경기도 여주시 가남읍 태평리 191-4",
+      "roadAddress": "경기도 여주시 가남읍 태평3길 33",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "을성아파트",
+      "address": "경기도 여주시 가남읍 태평리 106-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "태선여립",
+      "address": "경기도 여주시 가남읍 태평리 193-2",
+      "roadAddress": "경기도 여주시 가남읍 태평2길 48",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "충주상회",
+      "address": "경기도 여주시 가남읍 태평리 141-27",
+      "roadAddress": "경기도 여주시 가남읍 태평로 23-5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "세경아파트",
+      "address": "경기도 여주시 가남읍 심석리 126",
+      "roadAddress": "경기도 여주시 가남읍 흑석로 1",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "은봉2리 이장",
+      "address": "경기도 여주시 가남읍 은봉리 205",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "본두2리부녀회",
+      "address": "경기도 여주시 가남읍 본두리 437",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "본두3리 이장",
+      "address": "경기도 여주시 가남읍 본두리 778",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    }
+  ]
+}

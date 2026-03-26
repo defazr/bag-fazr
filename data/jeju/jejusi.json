@@ -1,0 +1,1424 @@
+{
+  "region": "제주특별자치도",
+  "regionSlug": "jeju",
+  "district": "제주시",
+  "districtSlug": "jejusi",
+  "updatedAt": "2026-03-26",
+  "totalCount": 202,
+  "stores": [
+    {
+      "name": "대림슈퍼",
+      "address": "제주특별자치도 제주시 한림읍 대림리 1469-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배판매소",
+      "address": "제주특별자치도 제주시 한림읍 월림리 2313",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신진슈퍼",
+      "address": "제주특별자치도 제주시 한림읍 한림리 1327-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전원슈퍼",
+      "address": "제주특별자치도 제주시 한림읍 옹포리 122-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "제주특별자치도 제주시 한림읍 금악리 1893-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25 서귀운진항점",
+      "address": "제주특별자치도 제주시 이도이동 1078-6 부양장미2차아파트",
+      "roadAddress": "제주특별자치도 제주시 오복2길 27, 702호 (이도이동, 부양장미2차아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2017-11-03"
+    },
+    {
+      "name": "(주)대원자동차공업사",
+      "address": "제주특별자치도 제주시 한림읍 옹포리 295-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초록슈퍼",
+      "address": "제주특별자치도 제주시 한림읍 귀덕리 3118",
+      "roadAddress": "제주특별자치도 제주시 한림읍 귀덕7길 5",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-08"
+    },
+    {
+      "name": "미듬슈퍼",
+      "address": "제주특별자치도 제주시 한림읍 대림리 1853-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-13"
+    },
+    {
+      "name": "주연슈퍼",
+      "address": "제주특별자치도 제주시 한림읍 한수리 869",
+      "roadAddress": "제주특별자치도 제주시 한림읍 한수1길 10",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-03"
+    },
+    {
+      "name": "한림하나로클럽",
+      "address": "제주특별자치도 제주시 한림읍 한림리 560",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-30"
+    },
+    {
+      "name": "제주청소년수련원",
+      "address": "제주특별자치도 제주시 한림읍 금능리 산 19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-05"
+    },
+    {
+      "name": "동복리사무소",
+      "address": "제주특별자치도 제주시 구좌읍 동복리 1480-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "순자상회",
+      "address": "제주특별자치도 제주시 구좌읍 동복리 1566-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 동복리 1544",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 동복로 75-13",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "동복슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 동복리 1484-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "극장슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 3896",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "약수상회",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 1397",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 김녕로19길 64-1",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "가은슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 1455",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 김녕로1길 88-3",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "원숙희상회",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 2216",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 김녕로 93",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "영희상회",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 3669",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "한아름 슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 3558",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 김녕로6길 3",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "남영슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 2429",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 김녕로2길 23",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "순희식품",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 1278",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 김녕로1길 85",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "24시 편의점",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 1689-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "창훈상회",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 1667-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "일호식품",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 1710-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "폭낭슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 1573",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 1446",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 김녕로19길 32-7",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "남영슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 1515",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "동군슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 1206",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "덕천리사무소",
+      "address": "제주특별자치도 제주시 구좌읍 덕천리 292-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "덕천상회",
+      "address": "제주특별자치도 제주시 구좌읍 덕천리 234",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 덕평로 362",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "안양식당",
+      "address": "제주특별자치도 제주시 구좌읍 덕천리 275",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 월덕로 545",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "월정리사무소",
+      "address": "제주특별자치도 제주시 구좌읍 월정리 568",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "수희슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 월정리 501-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "정자상회",
+      "address": "제주특별자치도 제주시 구좌읍 월정리 403",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 월정1길 69-2",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "동동가게",
+      "address": "제주특별자치도 제주시 구좌읍 월정리 91-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "월정상회",
+      "address": "제주특별자치도 제주시 구좌읍 월정리 555",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 월정1길 70-8",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "행원리사무소",
+      "address": "제주특별자치도 제주시 구좌읍 행원리 630-11동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "화성상회",
+      "address": "제주특별자치도 제주시 구좌읍 행원리 181-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "제원상회",
+      "address": "제주특별자치도 제주시 구좌읍 행원리 603",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "행원만물상회",
+      "address": "제주특별자치도 제주시 구좌읍 행원리 811-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "농협행원취급소",
+      "address": "제주특별자치도 제주시 구좌읍 행원리 630-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "한동리사무소",
+      "address": "제주특별자치도 제주시 구좌읍 한동리 10-62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "성민상회",
+      "address": "제주특별자치도 제주시 구좌읍 한동리 1942-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "에듀시티마트",
+      "address": "제주특별자치도 제주시 화북이동 117 제주삼화엘에이치2단지",
+      "roadAddress": "제주특별자치도 제주시 화삼로 32, 203동 302호 (화북이동, 제주삼화엘에이치2단지)",
+      "status": "영업/정상",
+      "licenseDate": "2019-05-20"
+    },
+    {
+      "name": "지에스25 대정한신점",
+      "address": "제주특별자치도 제주시 외도일동 435-16",
+      "roadAddress": "제주특별자치도 제주시 절물3길 10, 2층 (외도일동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-12-30"
+    },
+    {
+      "name": "88슈퍼",
+      "address": "제주특별자치도 제주시 조천읍 신촌리 838-6",
+      "roadAddress": "제주특별자치도 제주시 조천읍 신촌남8길 106",
+      "status": "영업/정상",
+      "licenseDate": "2020-04-28"
+    },
+    {
+      "name": "한동상회",
+      "address": "제주특별자치도 제주시 구좌읍 한동리 1417-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "송이상회",
+      "address": "제주특별자치도 제주시 구좌읍 한동리 1196",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 일주동로 2843",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "계룡상회",
+      "address": "제주특별자치도 제주시 구좌읍 한동리 10-58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "단비슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 한동리 959-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "평대리사무소",
+      "address": "제주특별자치도 제주시 구좌읍 평대리 733",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 일주동로 3007",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "승희쌀상회",
+      "address": "제주특별자치도 제주시 구좌읍 평대리 612",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "어촌상회",
+      "address": "제주특별자치도 제주시 구좌읍 평대리 1945-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "구좌농협중부지소",
+      "address": "제주특별자치도 제주시 구좌읍 평대리 151-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "송당리사무소",
+      "address": "제주특별자치도 제주시 구좌읍 송당리 2476",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "원희슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 송당리 1376-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "삼거리상회",
+      "address": "제주특별자치도 제주시 구좌읍 송당리 1379-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "세화리사무소",
+      "address": "제주특별자치도 제주시 구좌읍 세화리 1465-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "연지곤지화장품",
+      "address": "제주특별자치도 제주시 구좌읍 세화리 961",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "인화 비디오",
+      "address": "제주특별자치도 제주시 구좌읍 세화리 1459-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 세화리 1452-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "세화갈비",
+      "address": "제주특별자치도 제주시 구좌읍 세화리 3645-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "D.F.S",
+      "address": "제주특별자치도 제주시 구좌읍 세화리 1429",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "투다모아물류센타",
+      "address": "제주특별자치도 제주시 구좌읍 세화리 1323-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 세화리 1419-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "삼영상회",
+      "address": "제주특별자치도 제주시 구좌읍 세화리 1421-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "백화상회",
+      "address": "제주특별자치도 제주시 구좌읍 세화리 1538-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "구좌농협",
+      "address": "제주특별자치도 제주시 구좌읍 세화리 1369-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "부녀상회",
+      "address": "제주특별자치도 제주시 구좌읍 세화리 815",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 세송로 43",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 세화리 33-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "씨유대정동일리점",
+      "address": "제주특별자치도 제주시 월평동 717",
+      "roadAddress": "제주특별자치도 제주시 첨단로동길 24, 214동 2502호 (월평동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-11-25"
+    },
+    {
+      "name": "갯마을 슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 3645-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "경우상점",
+      "address": "제주특별자치도 제주시 구좌읍 세화리 1432",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "만물센타",
+      "address": "제주특별자치도 제주시 구좌읍 세화리 3643-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "동영상회",
+      "address": "제주특별자치도 제주시 구좌읍 세화리 1476-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "상도리사무소",
+      "address": "제주특별자치도 제주시 구좌읍 상도리 474",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "새마을상회",
+      "address": "제주특별자치도 제주시 구좌읍 상도리 469-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "새마을상회",
+      "address": "제주특별자치도 제주시 구좌읍 상도리 산 3-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "새마을상회",
+      "address": "제주특별자치도 제주시 구좌읍 상도리 524",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 세종로 25",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "하도리사무소",
+      "address": "제주특별자치도 제주시 구좌읍 하도리 1428-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "하도리사무소",
+      "address": "제주특별자치도 제주시 구좌읍 하도리 2222",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 하도3길 19-6",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "태복상회",
+      "address": "제주특별자치도 제주시 구좌읍 하도리 1652",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "문주란상회",
+      "address": "제주특별자치도 제주시 구좌읍 하도리 1413-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "고도상회",
+      "address": "제주특별자치도 제주시 구좌읍 하도리 1345",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 하도7길 25-5",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "상범상회",
+      "address": "제주특별자치도 제주시 구좌읍 하도리 53-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "농협하도지소",
+      "address": "제주특별자치도 제주시 구좌읍 하도리 1486-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "서문상회",
+      "address": "제주특별자치도 제주시 구좌읍 하도리 1944",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 해맞이해안로 1682",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "서문상회",
+      "address": "제주특별자치도 제주시 구좌읍 하도리 1548",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "하도중앙상회",
+      "address": "제주특별자치도 제주시 구좌읍 하도리 1624-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "서문상회",
+      "address": "제주특별자치도 제주시 구좌읍 하도리 2119",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 하도서길 22-8",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "종달리사무소",
+      "address": "제주특별자치도 제주시 구좌읍 종달리 816",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 종달논길 52-4",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "선희슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 종달리 798",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "레몬비 라임힐점",
+      "address": "제주특별자치도 제주시 삼도일동 539-4 아델리안아파트",
+      "roadAddress": "제주특별자치도 제주시 서광로19길 45, 801호 (삼도일동, 아델리안아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-17"
+    },
+    {
+      "name": "홍마트",
+      "address": "제주특별자치도 제주시 연동 1459 아델리움",
+      "roadAddress": "제주특별자치도 제주시 과원로 118, 105동 302호 (연동, 아델리움)",
+      "status": "영업/정상",
+      "licenseDate": "2021-06-07"
+    },
+    {
+      "name": "지에스25 대정한신점",
+      "address": "제주특별자치도 제주시 외도일동 496-1 아름지운",
+      "roadAddress": "제주특별자치도 제주시 우정로10길 19, 203호 (외도일동, 아름지운)",
+      "status": "영업/정상",
+      "licenseDate": "2021-10-27"
+    },
+    {
+      "name": "종달슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 종달리 826-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "용식슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 종달리 908",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "포구슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 종달리 478-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "희망슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 종달리 1904",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 종달로 64",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "안동상회",
+      "address": "제주특별자치도 제주시 구좌읍 종달리 795-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "연희슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 종달리 1113-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "승호상회",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 1201",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "남양체인 한동구판장",
+      "address": "제주특별자치도 제주시 구좌읍 한동리 947",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 한동로 64",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "용호미니슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 3644",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 김녕로1길 8",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "해녀잠수촌",
+      "address": "제주특별자치도 제주시 구좌읍 동복리 687-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "해안도로",
+      "address": "제주특별자치도 제주시 구좌읍 동복리 1615",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 동복로1길 22",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "문주란상회",
+      "address": "제주특별자치도 제주시 구좌읍 하도리 335",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "해수욕장탈의샤워장",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 산 1-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "휴게실매점",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 산 1-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "병국이네슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 한동리 10-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "창흥동계절음식점",
+      "address": "제주특별자치도 제주시 구좌읍 하도리 1910",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "동부물류센타",
+      "address": "제주특별자치도 제주시 구좌읍 세화리 1531-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "서문동마을회관",
+      "address": "제주특별자치도 제주시 구좌읍 하도리 1910",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "정아상회",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 3468",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 김녕로2길 13-1",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "양지슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 2164",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 김녕로9길 23",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "에바다뮤직박스",
+      "address": "제주특별자치도 제주시 구좌읍 세화리 1538-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "제주홍마트김녕점",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 1691-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "한서구판장",
+      "address": "제주특별자치도 제주시 구좌읍 한동리 1150-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "코사마트김녕슈퍼",
+      "address": "제주특별자치도 제주시 구좌읍 김녕리 3606",
+      "roadAddress": "제주특별자치도 제주시 구좌읍 김녕로3길 1",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-08"
+    },
+    {
+      "name": "금등상회",
+      "address": "제주특별자치도 제주시 한경면 금등리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상명리사무소",
+      "address": "제주특별자치도 제주시 한림읍 상명리 1031",
+      "roadAddress": "제주특별자치도 제주시 한림읍 중산간서로 4066",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명월리사무소",
+      "address": "제주특별자치도 제주시 한림읍 명월리 365",
+      "roadAddress": "제주특별자치도 제주시 한림읍 명상로 23-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명월리 담배판매소",
+      "address": "제주특별자치도 제주시 한림읍 명월리 1769",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "재릉슈퍼",
+      "address": "제주특별자치도 제주시 한림읍 금능리 3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일상회",
+      "address": "제주특별자치도 제주시 한림읍 금능리 1409",
+      "roadAddress": "제주특별자치도 제주시 한림읍 금능길 67",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한라쌀상회",
+      "address": "제주특별자치도 제주시 한림읍 금능리 1753",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한림수협직판장",
+      "address": "제주특별자치도 제주시 한림읍 협재리 2470",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "돌집휴게소",
+      "address": "제주특별자치도 제주시 한림읍 협재리 2514-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "협재상회",
+      "address": "제주특별자치도 제주시 한림읍 협재리 2447-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부녀회구판장",
+      "address": "제주특별자치도 제주시 한림읍 협재리 1784-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "협재슈퍼",
+      "address": "제주특별자치도 제주시 한림읍 협재리 1590",
+      "roadAddress": "제주특별자치도 제주시 한림읍 한림로 404",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안성상회",
+      "address": "제주특별자치도 제주시 한림읍 옹포리 362-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안성상회",
+      "address": "제주특별자치도 제주시 한림읍 한림리 935",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한림유통",
+      "address": "제주특별자치도 제주시 한림읍 한림리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남양상회",
+      "address": "제주특별자치도 제주시 한림읍 한림리 1105-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한림슈퍼",
+      "address": "제주특별자치도 제주시 한림읍 한림리 1113",
+      "roadAddress": "제주특별자치도 제주시 한림읍 한림중앙로 19",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼일비닐",
+      "address": "제주특별자치도 제주시 한림읍 한림리 1315",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "제주특별자치도 제주시 한림읍 한림리 1314-68",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부일식품",
+      "address": "제주특별자치도 제주시 한림읍 한림리 1314-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한림수협",
+      "address": "제주특별자치도 제주시 한림읍 한림리 1328-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인성상회",
+      "address": "제주특별자치도 제주시 한림읍 대림리 1808",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한수슈퍼",
+      "address": "제주특별자치도 제주시 한림읍 한수리 857-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한중앙슈퍼",
+      "address": "제주특별자치도 제주시 한림읍 한수리 807",
+      "roadAddress": "제주특별자치도 제주시 한림읍 한림로 757",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바다슈퍼",
+      "address": "제주특별자치도 제주시 한림읍 한수리 821",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지은슈퍼",
+      "address": "제주특별자치도 제주시 한림읍 한수리 869",
+      "roadAddress": "제주특별자치도 제주시 한림읍 한수1길 10",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름24시편의점",
+      "address": "제주특별자치도 제주시 한림읍 한림리 1071",
+      "roadAddress": "제주특별자치도 제주시 한림읍 명랑로 4",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)우리들마트",
+      "address": "제주특별자치도 제주시 한경면 고산리 2825-1",
+      "roadAddress": "제주특별자치도 제주시 한경면 용고로 89",
+      "status": "영업/정상",
+      "licenseDate": "2016-09-06"
+    },
+    {
+      "name": "씨유 제주이노에듀타운점",
+      "address": "제주특별자치도 제주시 이도이동 1070-7",
+      "roadAddress": "제주특별자치도 제주시 승천로2길 21, 이도이동동 1층 101호 (이도이동, 삼영빌라)",
+      "status": "영업/정상",
+      "licenseDate": "2016-10-12"
+    },
+    {
+      "name": "신시장슈퍼",
+      "address": "제주특별자치도 제주시 한림읍 한림리 1314-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해태슈퍼",
+      "address": "제주특별자치도 제주시 한림읍 한림리 1385-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "민들레슈퍼",
+      "address": "제주특별자치도 제주시 한림읍 한림리 1454-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한림리담배판매소",
+      "address": "제주특별자치도 제주시 한림읍 한림리 1528-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "귀덕리담배판매소",
+      "address": "제주특별자치도 제주시 한림읍 귀덕리 1600",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성로동가게",
+      "address": "제주특별자치도 제주시 한림읍 귀덕리 1640",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "귀덕상회",
+      "address": "제주특별자치도 제주시 한림읍 귀덕리 1021",
+      "roadAddress": "제주특별자치도 제주시 한림읍 일주서로 5867",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정순상회",
+      "address": "제주특별자치도 제주시 한림읍 귀덕리 4155",
+      "roadAddress": "제주특별자치도 제주시 한림읍 귀덕3길 31",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진질구판장",
+      "address": "제주특별자치도 제주시 한림읍 귀덕리 4703",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴월드24시편의점",
+      "address": "제주특별자치도 제주시 한림읍 한림리 1314-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕영슈퍼",
+      "address": "제주특별자치도 제주시 한림읍 동명리 1591",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕영슈퍼",
+      "address": "제주특별자치도 제주시 한림읍 동명리 1591",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동명리담배판매소",
+      "address": "제주특별자치도 제주시 한림읍 동명리 139",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명월리담배판매소",
+      "address": "제주특별자치도 제주시 한림읍 명월리 429",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월령리사무소",
+      "address": "제주특별자치도 제주시 한림읍 월령리 384",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "귀덕3리사무소",
+      "address": "제주특별자치도 제주시 한림읍 귀덕리 2127",
+      "roadAddress": "제주특별자치도 제주시 한림읍 귀덕남서길 4-9",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상대리사무소",
+      "address": "제주특별자치도 제주시 한림읍 상대리 2848",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한림3리사무소",
+      "address": "제주특별자치도 제주시 한림읍 한림리 93",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강구리사무소",
+      "address": "제주특별자치도 제주시 한림읍 한림리 187",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "니오꼬레",
+      "address": "제주특별자치도 제주시 한림읍 한림리 1350-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수원리담배판매소",
+      "address": "제주특별자치도 제주시 한림읍 수원리 637",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일성콘도",
+      "address": "제주특별자치도 제주시 한림읍 금능리 2051-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쌍용각휴게소",
+      "address": "제주특별자치도 제주시 한림읍 협재리 2487",
+      "roadAddress": "제주특별자치도 제주시 한림읍 한림로 300",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사마트24시편의점",
+      "address": "제주특별자치도 제주시 한림읍 한림리 1314-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영흥리사무소",
+      "address": "제주특별자치도 제주시 추자면 영흥리 364",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "예초리사무소",
+      "address": "제주특별자치도 제주시 추자면 예초리 276",
+      "roadAddress": "제주특별자치도 제주시 추자면 예초1길 44",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "추자수협연쇄점",
+      "address": "제주특별자치도 제주시 추자면 대서리 4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "대성상회",
+      "address": "제주특별자치도 제주시 추자면 대서리 147",
+      "roadAddress": "제주특별자치도 제주시 추자면 추자로 48",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "중앙상회",
+      "address": "제주특별자치도 제주시 추자면 대서리 5-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "대서리사무소",
+      "address": "제주특별자치도 제주시 추자면 대서리 34-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "묵리사무소",
+      "address": "제주특별자치도 제주시 추자면 묵리 366",
+      "roadAddress": "제주특별자치도 제주시 추자면 묵리2길 65",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "신양1리사무소",
+      "address": "제주특별자치도 제주시 추자면 신양리 203",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "신양2리사무소",
+      "address": "제주특별자치도 제주시 추자면 신양리 799",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "면새마을부녀회",
+      "address": "제주특별자치도 제주시 추자면 신양리 422",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "영흥리 부녀회",
+      "address": "제주특별자치도 제주시 추자면 영흥리 8-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "추자 킹마트",
+      "address": "제주특별자치도 제주시 추자면 대서리 8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "유림식당",
+      "address": "제주특별자치도 제주시 추자면 신양리 433",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "하추자 민박",
+      "address": "제주특별자치도 제주시 추자면 신양리 207",
+      "roadAddress": "제주특별자치도 제주시 추자면 신양2길 39",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "진미식당",
+      "address": "제주특별자치도 제주시 추자면 신양리 410",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "에덴 미용실",
+      "address": "제주특별자치도 제주시 추자면 대서리 38-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "신양리 어촌계",
+      "address": "제주특별자치도 제주시 추자면 신양리 231",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "성희슈퍼",
+      "address": "제주특별자치도 제주시 추자면 대서리 17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "물돌이 민박",
+      "address": "제주특별자치도 제주시 추자면 신양리 442",
+      "roadAddress": "제주특별자치도 제주시 추자면 추자로 561",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "부두상회",
+      "address": "제주특별자치도 제주시 추자면 신양리 423-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "현주머리방",
+      "address": "제주특별자치도 제주시 추자면 영흥리 367-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "영화상회",
+      "address": "제주특별자치도 제주시 추자면 대서리 135",
+      "roadAddress": "제주특별자치도 제주시 추자면 대서3길 38",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "제주양돈축협한림지소",
+      "address": "제주특별자치도 제주시 한림읍 한림리 943-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하일라 제주마리나콘도",
+      "address": "제주특별자치도 제주시 한림읍 귀덕리 3861",
+      "roadAddress": "제주특별자치도 제주시 한림읍 한림해안로 530",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한림농업협동조합",
+      "address": "제주특별자치도 제주시 한림읍 한림리 1222",
+      "roadAddress": "제주특별자치도 제주시 한림읍 한림로 671",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한수풀마트 마스카라화자품",
+      "address": "제주특별자치도 제주시 한림읍 한림리 1346-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "협동슈퍼",
+      "address": "제주특별자치도 제주시 한림읍 금능리 1379",
+      "roadAddress": "제주특별자치도 제주시 한림읍 금능5길 24",
+      "status": "영업/정상",
+      "licenseDate": ""
+    }
+  ]
+}

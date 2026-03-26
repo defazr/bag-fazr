@@ -1,0 +1,3475 @@
+{
+  "region": "경상북도",
+  "regionSlug": "gyeongbuk",
+  "district": "영천시",
+  "districtSlug": "yeongcheon",
+  "updatedAt": "2026-03-26",
+  "totalCount": 495,
+  "stores": [
+    {
+      "name": "3",
+      "address": "경상북도 영천시 조교동 883",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "안동상회",
+      "address": "경상북도 영천시 망정동 169",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "23",
+      "address": "경상북도 영천시 신기동 298",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "망정슈퍼",
+      "address": "경상북도 영천시 망정동 156-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "농수산물직판장",
+      "address": "경상북도 영천시 망정동 189-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "금성아파트관리실",
+      "address": "경상북도 영천시 야사동 92",
+      "roadAddress": "경상북도 영천시 망정1길 95  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "합동슈퍼",
+      "address": "경상북도 영천시 야사동 210-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "민주슈퍼",
+      "address": "경상북도 영천시 야사동 185-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대현슈퍼",
+      "address": "경상북도 영천시 야사동 232-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "유성아파트관리실",
+      "address": "경상북도 영천시 야사동 211-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "삼양슈퍼",
+      "address": "경상북도 영천시 야사동 158-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "(주)신우건설",
+      "address": "경상북도 영천시 야사동 129-3 나-4",
+      "roadAddress": "경상북도 영천시 야사4길 37  (야사동,나-4)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "청송상회",
+      "address": "경상북도 영천시 야사동 170-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "주공3관리실",
+      "address": "경상북도 영천시 야사동 120",
+      "roadAddress": "경상북도 영천시 충효로 147  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "신우유통(야사점)",
+      "address": "경상북도 영천시 야사동 335-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "광호미용실",
+      "address": "경상북도 영천시 야사동 335-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "신복식품상회",
+      "address": "경상북도 영천시 야사동 335-75",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "복지연금판매장",
+      "address": "경상북도 영천시 야사동 331",
+      "roadAddress": "경상북도 영천시 모란1길 12  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "부식1번지",
+      "address": "경상북도 영천시 야사동 331-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "현대유통",
+      "address": "경상북도 영천시 야사동 331-46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "란제리보세",
+      "address": "경상북도 영천시 야사동 333-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "동남아파트관리실",
+      "address": "경상북도 영천시 야사동 216",
+      "roadAddress": "경상북도 영천시 영천고1길 85-5  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "청호아파트103동관리실",
+      "address": "경상북도 영천시 망정동 177-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "청호아파트103동관리실",
+      "address": "경상북도 영천시 망정동 177-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "청호아파트103동관리실",
+      "address": "경상북도 영천시 망정동 177-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "청구1관리실",
+      "address": "경상북도 영천시 야사동 350-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "청구1관리실",
+      "address": "경상북도 영천시 야사동 350-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "주공지하슈퍼",
+      "address": "경상북도 영천시 야사동 146-1",
+      "roadAddress": "경상북도 영천시 충효로 145  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-20"
+    },
+    {
+      "name": "일반슈퍼",
+      "address": "경상북도 영천시 망정동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-20"
+    },
+    {
+      "name": "대천슈퍼",
+      "address": "경상북도 영천시 화룡동 199-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-20"
+    },
+    {
+      "name": "향교슈퍼",
+      "address": "경상북도 영천시 교촌동 70-3",
+      "roadAddress": "경상북도 영천시 교촌길 17  (교촌동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-20"
+    },
+    {
+      "name": "태평빌라슈퍼",
+      "address": "경상북도 영천시 화룡동 182",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-20"
+    },
+    {
+      "name": "은지슈퍼",
+      "address": "경상북도 영천시 성내동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-20"
+    },
+    {
+      "name": "로타리식품",
+      "address": "경상북도 영천시 성내동 202-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-20"
+    },
+    {
+      "name": "삼거리식품",
+      "address": "경상북도 영천시 도동 685",
+      "roadAddress": "경상북도 영천시 송죽길 5  (도동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-20"
+    },
+    {
+      "name": "에스만트영천점",
+      "address": "경상북도 영천시 완산동 982-4",
+      "roadAddress": "경상북도 영천시 완산로 38-1  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-24"
+    },
+    {
+      "name": "삼영강변맨션관리실",
+      "address": "경상북도 영천시 야사동 207-2",
+      "roadAddress": "경상북도 영천시 영천고1길 86-26  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-24"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경상북도 영천시 조교동 400-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-24"
+    },
+    {
+      "name": "관리사무소",
+      "address": "경상북도 영천시 야사동 92",
+      "roadAddress": "경상북도 영천시 망정1길 95  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-24"
+    },
+    {
+      "name": "봉동슈퍼",
+      "address": "경상북도 영천시 봉동 650",
+      "roadAddress": "경상북도 영천시 봉동1길 29-47  (봉동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-24"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "경상북도 영천시 봉동 670-7",
+      "roadAddress": "경상북도 영천시 봉동1길 55  (봉동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-24"
+    },
+    {
+      "name": "경희슈퍼",
+      "address": "경상북도 영천시 야사동 335-16",
+      "roadAddress": "경상북도 영천시 상록1길 46  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-31"
+    },
+    {
+      "name": "금호슈퍼",
+      "address": "경상북도 영천시 금노동 587-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-31"
+    },
+    {
+      "name": "종합슈퍼",
+      "address": "경상북도 영천시 완산동 994",
+      "roadAddress": "경상북도 영천시 완산2길 9  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-31"
+    },
+    {
+      "name": "그린스토아",
+      "address": "경상북도 영천시 야사동 360-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-11"
+    },
+    {
+      "name": "칠성종합유통",
+      "address": "경상북도 영천시 성내동 145-5",
+      "roadAddress": "경상북도 영천시 서문길 60  (성내동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-11"
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "경상북도 영천시 성내동 237-5",
+      "roadAddress": "경상북도 영천시 수원지길 49  (성내동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-11"
+    },
+    {
+      "name": "3사관영외매점",
+      "address": "경상북도 영천시 야사동 252",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-11"
+    },
+    {
+      "name": "창신문구사",
+      "address": "경상북도 영천시 완산동 1058",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-11"
+    },
+    {
+      "name": "삼거리식당",
+      "address": "경상북도 영천시 화산면 삼부리 167-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-05"
+    },
+    {
+      "name": "청구2관리실",
+      "address": "경상북도 영천시 야사동 350-2",
+      "roadAddress": "경상북도 영천시 모란1길 18  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대구슈퍼",
+      "address": "경상북도 영천시 문외동 40-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상북도 영천시 문외동 12",
+      "roadAddress": "경상북도 영천시 삼산길 26  (문외동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "숙녀미용실",
+      "address": "경상북도 영천시 문외동 54-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "연이종합화장품",
+      "address": "경상북도 영천시 문외동 190-5",
+      "roadAddress": "경상북도 영천시 문외3길 33  (문외동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "경산슈퍼",
+      "address": "경상북도 영천시 문외동 156",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영부상회",
+      "address": "경상북도 영천시 문외동 179-12",
+      "roadAddress": "경상북도 영천시 동문길 111-1  (문외동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "55",
+      "address": "경상북도 영천시 문외동 129-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "이약방",
+      "address": "경상북도 영천시 문외동 46-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대원비디오",
+      "address": "경상북도 영천시 문외동 180",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "오뚜기상회",
+      "address": "경상북도 영천시 문외동 152-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대영약방",
+      "address": "경상북도 영천시 문외동 56-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영신상회",
+      "address": "경상북도 영천시 문내동 162-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "중앙기획",
+      "address": "경상북도 영천시 문내동 40-17",
+      "roadAddress": "경상북도 영천시 동문길 37  (문내동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "염매식품",
+      "address": "경상북도 영천시 문내동 71",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "중앙어머니회",
+      "address": "경상북도 영천시 문내동 85",
+      "roadAddress": "경상북도 영천시 동문1길 5-17  (문내동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대원이불",
+      "address": "경상북도 영천시 문내동 205-3",
+      "roadAddress": "경상북도 영천시 동문길 15-3  (문내동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "신일슈퍼",
+      "address": "경상북도 영천시 문내동 181-5",
+      "roadAddress": "경상북도 영천시 동문길 20  (문내동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "66",
+      "address": "경상북도 영천시 문내동 40-11",
+      "roadAddress": "경상북도 영천시 동문길 49  (문내동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "중앙문구사",
+      "address": "경상북도 영천시 문내동 35-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "68",
+      "address": "경상북도 영천시 문내동 235-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "69",
+      "address": "경상북도 영천시 문내동 216",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "카운트타운",
+      "address": "경상북도 영천시 창구동 90-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "가고파슈퍼",
+      "address": "경상북도 영천시 창구동 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "청과슈퍼",
+      "address": "경상북도 영천시 완산동 1123-1",
+      "roadAddress": "경상북도 영천시 금완로 75  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-22"
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "경상북도 영천시 성내동 189-11",
+      "roadAddress": "경상북도 영천시 청석길 4  (성내동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-09"
+    },
+    {
+      "name": "동해편의점",
+      "address": "경상북도 영천시 과전동 50-2",
+      "roadAddress": "경상북도 영천시 최무선로 272  (과전동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-19"
+    },
+    {
+      "name": "신우유통",
+      "address": "경상북도 영천시 문외동 12-3",
+      "roadAddress": "경상북도 영천시 충효로 70  (문외동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-19"
+    },
+    {
+      "name": "수진종합식품",
+      "address": "경상북도 영천시 야사동 208-1",
+      "roadAddress": "경상북도 영천시 문화새길 62-4  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-19"
+    },
+    {
+      "name": "동희종합장식",
+      "address": "경상북도 영천시 야사동 334-34",
+      "roadAddress": "경상북도 영천시 상록2길 26  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-19"
+    },
+    {
+      "name": "신우유통",
+      "address": "경상북도 영천시 북안면 임포리 328-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-04"
+    },
+    {
+      "name": "신우유통",
+      "address": "경상북도 영천시 창구동 154-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-12-26"
+    },
+    {
+      "name": "신우유통재기점",
+      "address": "경상북도 영천시 창구동 50",
+      "roadAddress": "경상북도 영천시 교창길 6  (창구동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-20"
+    },
+    {
+      "name": "경주식당",
+      "address": "경상북도 영천시 고경면 덕정리 517-1",
+      "roadAddress": "경상북도 영천시 고경면 용담로 1379-13",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무지개식당",
+      "address": "경상북도 영천시 화룡동 182-3",
+      "roadAddress": "경상북도 영천시 상아탑길 7-6  (화룡동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-04"
+    },
+    {
+      "name": "대안슈퍼",
+      "address": "경상북도 영천시 야사동 216",
+      "roadAddress": "경상북도 영천시 영천고1길 85-5  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-11"
+    },
+    {
+      "name": "엘지마트",
+      "address": "경상북도 영천시 야사동 151-1",
+      "roadAddress": "경상북도 영천시 충효로 142  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-11"
+    },
+    {
+      "name": "대경유통",
+      "address": "경상북도 영천시 문내동 38-6",
+      "roadAddress": "경상북도 영천시 동문길 30  (문내동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-17"
+    },
+    {
+      "name": "동아마켓",
+      "address": "경상북도 영천시 창구동 148-1",
+      "roadAddress": "경상북도 영천시 천문로 357-2  (창구동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-17"
+    },
+    {
+      "name": "칠성유통",
+      "address": "경상북도 영천시 야사동 129",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-15"
+    },
+    {
+      "name": "신우유통",
+      "address": "경상북도 영천시 망정동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-27"
+    },
+    {
+      "name": "대경유통",
+      "address": "경상북도 영천시 망정동 471-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-27"
+    },
+    {
+      "name": "유성슈퍼",
+      "address": "경상북도 영천시 야사동 215-1",
+      "roadAddress": "경상북도 영천시 영천고1길 75  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-27"
+    },
+    {
+      "name": "창신슈퍼",
+      "address": "경상북도 영천시 망정동 471",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-27"
+    },
+    {
+      "name": "매일식품",
+      "address": "경상북도 영천시 신녕면 화성리 926-1",
+      "roadAddress": "경상북도 영천시 신녕면 본관시장길 37",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-26"
+    },
+    {
+      "name": "시대슈퍼",
+      "address": "경상북도 영천시 창구동 346",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "73",
+      "address": "경상북도 영천시 창구동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "세아산업(주)",
+      "address": "경상북도 영천시 채신동 산 46-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "삼오상회",
+      "address": "경상북도 영천시 창구동 155-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "북부슈퍼",
+      "address": "경상북도 영천시 창구동 148-3",
+      "roadAddress": "경상북도 영천시 교촌길 10  (창구동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "관음사",
+      "address": "경상북도 영천시 과전동 123",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "78",
+      "address": "경상북도 영천시 과전동 72",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "79",
+      "address": "경상북도 영천시 문외동 49-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "무궁화타운관리사무소",
+      "address": "경상북도 영천시 문외동 49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "벤쿠버영천점",
+      "address": "경상북도 영천시 문외동 12-7",
+      "roadAddress": "경상북도 영천시 충효로 74  (문외동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "행복슈퍼",
+      "address": "경상북도 영천시 문외동 9-48",
+      "roadAddress": "경상북도 영천시 무궁화길 74-1  (문외동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "신토불이식품",
+      "address": "경상북도 영천시 문외동 5-10",
+      "roadAddress": "경상북도 영천시 무궁화길 31  (문외동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영진빌라관리실",
+      "address": "경상북도 영천시 문외동 49-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "삼산복지슈퍼",
+      "address": "경상북도 영천시 문외동 200",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "86",
+      "address": "경상북도 영천시 교촌동 82",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "강원건강원",
+      "address": "경상북도 영천시 교촌동 143",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "금영상회",
+      "address": "경상북도 영천시 교촌동 212",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "교동슈퍼",
+      "address": "경상북도 영천시 교촌동 62-2",
+      "roadAddress": "경상북도 영천시 교촌길 37  (교촌동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대교슈퍼",
+      "address": "경상북도 영천시 교촌동 179-2",
+      "roadAddress": "경상북도 영천시 숭렬당길 29  (교촌동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "경상북도 영천시 교촌동 245-3",
+      "roadAddress": "경상북도 영천시 서문길 51  (교촌동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "보보세탁소",
+      "address": "경상북도 영천시 교촌동 197-1",
+      "roadAddress": "경상북도 영천시 서문길 87  (교촌동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "서문유리",
+      "address": "경상북도 영천시 성내동 192-8",
+      "roadAddress": "경상북도 영천시 강변로 7  (성내동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영창슈퍼",
+      "address": "경상북도 영천시 성내동 175-2",
+      "roadAddress": "경상북도 영천시 서문길 30  (성내동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "축협신령지소",
+      "address": "경상북도 영천시 신녕면 화성리 961-1",
+      "roadAddress": "경상북도 영천시 신녕면 불바위길 3",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-26"
+    },
+    {
+      "name": "신일슈퍼",
+      "address": "경상북도 영천시 신녕면 화성리 970",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-26"
+    },
+    {
+      "name": "안산휴게소",
+      "address": "경상북도 영천시 북안면 상리 575",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-06"
+    },
+    {
+      "name": "만물상회",
+      "address": "경상북도 영천시 북안면 임포리 242",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-06"
+    },
+    {
+      "name": "(주)영천유통",
+      "address": "경상북도 영천시 야사동 192-4",
+      "roadAddress": "경상북도 영천시 야사시장길 42  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-14"
+    },
+    {
+      "name": "육군탄약지원사령부(2탄약창)",
+      "address": "경상북도 영천시 금노동 456",
+      "roadAddress": "경상북도 영천시 주남3길 61 (금노동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-14"
+    },
+    {
+      "name": "야사종합유통",
+      "address": "경상북도 영천시 야사동 335",
+      "roadAddress": "경상북도 영천시 충효로 110  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-08"
+    },
+    {
+      "name": "강변유통",
+      "address": "경상북도 영천시 야사동 242-5",
+      "roadAddress": "경상북도 영천시 영천고1길 33  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-10"
+    },
+    {
+      "name": "수동신발상회",
+      "address": "경상북도 영천시 완산동 998",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-21"
+    },
+    {
+      "name": "서문슈퍼",
+      "address": "경상북도 영천시 성내동 235-4",
+      "roadAddress": "경상북도 영천시 수원지길 38  (성내동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-23"
+    },
+    {
+      "name": "마을구판장",
+      "address": "경상북도 영천시 야사동 429-18",
+      "roadAddress": "경상북도 영천시 안야사길 55  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-11"
+    },
+    {
+      "name": "신광상회",
+      "address": "경상북도 영천시 고경면 단포리 48-18",
+      "roadAddress": "경상북도 영천시 고경면 호국로 387",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-09"
+    },
+    {
+      "name": "청도슈퍼",
+      "address": "경상북도 영천시 교촌동 225-2",
+      "roadAddress": "경상북도 영천시 서문길 81  (교촌동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-09"
+    },
+    {
+      "name": "북부상회",
+      "address": "경상북도 영천시 임고면 양항리 509",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-04"
+    },
+    {
+      "name": "자연상회",
+      "address": "경상북도 영천시 대창면 대창리 1076-60",
+      "roadAddress": "경상북도 영천시 대창면 금창로 691",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-26"
+    },
+    {
+      "name": "월성슈퍼",
+      "address": "경상북도 영천시 완산동 930-35",
+      "roadAddress": "경상북도 영천시 역전로 52  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-14"
+    },
+    {
+      "name": "로숀편의점",
+      "address": "경상북도 영천시 문외동 201-10",
+      "roadAddress": "경상북도 영천시 청산길 29  (문외동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-14"
+    },
+    {
+      "name": "문화인 종합유통",
+      "address": "경상북도 영천시 문내동 58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-13"
+    },
+    {
+      "name": "신우유통 망정점",
+      "address": "경상북도 영천시 망정동 116-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-22"
+    },
+    {
+      "name": "칠성유통 망정점",
+      "address": "경상북도 영천시 망정동 117",
+      "roadAddress": "경상북도 영천시 동부로 16  (망정동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-22"
+    },
+    {
+      "name": "동아슈퍼문구",
+      "address": "경상북도 영천시 완산동 1061-2",
+      "roadAddress": "경상북도 영천시 강남길 13  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-22"
+    },
+    {
+      "name": "왕눈이분식",
+      "address": "경상북도 영천시 성내동 234-5",
+      "roadAddress": "경상북도 영천시 수원지길 17  (성내동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "덕신슈퍼",
+      "address": "경상북도 영천시 성내동 202-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "경상북도 영천시 성내동 237-5",
+      "roadAddress": "경상북도 영천시 수원지길 49  (성내동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "새마을슈퍼",
+      "address": "경상북도 영천시 성내동 245",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "99",
+      "address": "경상북도 영천시 성내동 245",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "조밭국상회",
+      "address": "경상북도 영천시 성내동 75",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영일슈퍼",
+      "address": "경상북도 영천시 성내동 132",
+      "roadAddress": "경상북도 영천시 최무선로 246  (성내동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영천슈퍼",
+      "address": "경상북도 영천시 성내동 3-2",
+      "roadAddress": "경상북도 영천시 서문길 114  (성내동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "103",
+      "address": "경상북도 영천시 성내동 38",
+      "roadAddress": "경상북도 영천시 왕평길 6  (성내동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "성진슈퍼",
+      "address": "경상북도 영천시 성내동 24-2",
+      "roadAddress": "경상북도 영천시 서문길 90  (성내동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "제일유형사",
+      "address": "경상북도 영천시 화룡동 200-4",
+      "roadAddress": "경상북도 영천시 장수로 12  (화룡동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "서부슈퍼",
+      "address": "경상북도 영천시 화룡동 282-1",
+      "roadAddress": "경상북도 영천시 장수로 60  (화룡동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "박영대",
+      "address": "경상북도 영천시 화룡동 82",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "태평빌라관리실",
+      "address": "경상북도 영천시 화룡동 82",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "양지가나관리실",
+      "address": "경상북도 영천시 화룡동 182-3",
+      "roadAddress": "경상북도 영천시 상아탑길 7-6  (화룡동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "양지다동관리실",
+      "address": "경상북도 영천시 화룡동 262-3",
+      "roadAddress": "경상북도 영천시 장수로 37  (화룡동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "111",
+      "address": "경상북도 영천시 화룡동 747",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "신한상회",
+      "address": "경상북도 영천시 오수동 200",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "오수식품",
+      "address": "경상북도 영천시 오수동 124",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "재원슈퍼",
+      "address": "경상북도 영천시 오수동 133-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "가나안슈퍼",
+      "address": "경상북도 영천시 오수동 390",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "쌍계구판장",
+      "address": "경상북도 영천시 쌍계동 262-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "스카이맨션관리실",
+      "address": "경상북도 영천시 화룡동 201",
+      "roadAddress": "경상북도 영천시 장수로 10  (화룡동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "새중앙상회",
+      "address": "경상북도 영천시 북안면 명주리 192-4",
+      "roadAddress": "경상북도 영천시 북안면 운북로 1429-1",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-22"
+    },
+    {
+      "name": "화남온천랜드매점",
+      "address": "경상북도 영천시 화남면 온천리 56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-15"
+    },
+    {
+      "name": "매일할인마트",
+      "address": "경상북도 영천시 북안면 임포리 244",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-15"
+    },
+    {
+      "name": "삼성미장원상가",
+      "address": "경상북도 영천시 북안면 임포리 226",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-23"
+    },
+    {
+      "name": "청호할인마트",
+      "address": "경상북도 영천시 망정동 117-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-27"
+    },
+    {
+      "name": "도림상회",
+      "address": "경상북도 영천시 야사동 116",
+      "roadAddress": "경상북도 영천시 야사4길 11  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-22"
+    },
+    {
+      "name": "상일상회(현대할인마트)",
+      "address": "경상북도 영천시 오수동 120",
+      "roadAddress": "경상북도 영천시 오수1길 5  (오수동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-28"
+    },
+    {
+      "name": "대백마트",
+      "address": "경상북도 영천시 완산동 1000-81",
+      "roadAddress": "경상북도 영천시 강남길 37  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-12"
+    },
+    {
+      "name": "명진식품",
+      "address": "경상북도 영천시 문내동 38-5",
+      "roadAddress": "경상북도 영천시 동문길 27  (문내동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-23"
+    },
+    {
+      "name": "선화서적슈퍼",
+      "address": "경상북도 영천시 화룡동 179-6",
+      "roadAddress": "경상북도 영천시 상아탑길 23-4  (화룡동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-02"
+    },
+    {
+      "name": "세일세일할인마트",
+      "address": "경상북도 영천시 야사동 220-1",
+      "roadAddress": "경상북도 영천시 동부로 31  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-26"
+    },
+    {
+      "name": "태평스카이맨션관리실",
+      "address": "경상북도 영천시 화룡동 201",
+      "roadAddress": "경상북도 영천시 장수로 10  (화룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-26"
+    },
+    {
+      "name": "대학슈퍼",
+      "address": "경상북도 영천시 신녕면 화남리 1138-1",
+      "roadAddress": "경상북도 영천시 신녕면 대학길 79-10",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-17"
+    },
+    {
+      "name": "하이웨이마트",
+      "address": "경상북도 영천시 언하동 434-6",
+      "roadAddress": "경상북도 영천시 포은로 85  (언하동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-29"
+    },
+    {
+      "name": "행복슈퍼",
+      "address": "경상북도 영천시 문외동 9-48",
+      "roadAddress": "경상북도 영천시 무궁화길 74-1  (문외동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-25"
+    },
+    {
+      "name": "칠성종합쇼핑",
+      "address": "경상북도 영천시 야사동 148-2",
+      "roadAddress": "경상북도 영천시 충효로 143  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-15"
+    },
+    {
+      "name": "야사식품",
+      "address": "경상북도 영천시 야사동 154-35",
+      "roadAddress": "경상북도 영천시 새말1길 54  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-06"
+    },
+    {
+      "name": "빙그레아이스크림",
+      "address": "경상북도 영천시 화남면 삼창리 235",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-10"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "경상북도 영천시 야사동 311",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-12"
+    },
+    {
+      "name": "뉴드림마트",
+      "address": "경상북도 영천시 망정동 417-17",
+      "roadAddress": "경상북도 영천시 창신1길 4  (망정동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-05"
+    },
+    {
+      "name": "훼미리마트영천지점",
+      "address": "경상북도 영천시 문외동 38-3",
+      "roadAddress": "경상북도 영천시 시청로 15  (문외동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-05"
+    },
+    {
+      "name": "녹원슈퍼",
+      "address": "경상북도 영천시 화룡동 183-1",
+      "roadAddress": "경상북도 영천시 상아탑길 13  (화룡동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "달성상회",
+      "address": "경상북도 영천시 교촌동 261-5",
+      "roadAddress": "경상북도 영천시 성내안길 18  (교촌동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "서산슈퍼",
+      "address": "경상북도 영천시 교촌동 268-3",
+      "roadAddress": "경상북도 영천시 장수로 4  (교촌동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "교동문구점",
+      "address": "경상북도 영천시 교촌동 255-7",
+      "roadAddress": "경상북도 영천시 청석고개길 20  (교촌동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "은성식품",
+      "address": "경상북도 영천시 교촌동 262-6",
+      "roadAddress": "경상북도 영천시 청석길 13  (교촌동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영천상회",
+      "address": "경상북도 영천시 교촌동 170-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "124",
+      "address": "경상북도 영천시 완산동 75",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "완산1노인정",
+      "address": "경상북도 영천시 완산동 153",
+      "roadAddress": "경상북도 영천시 바깥완산길 105  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "126",
+      "address": "경상북도 영천시 완산동 468",
+      "roadAddress": "경상북도 영천시 안완산길 59  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "127",
+      "address": "경상북도 영천시 완산동 824",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "삼원슈퍼",
+      "address": "경상북도 영천시 완산동 996",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "성진슈퍼",
+      "address": "경상북도 영천시 완산동 994-62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대건맨션 입주자 자치회",
+      "address": "경상북도 영천시 완산동 577 1000-555번지",
+      "roadAddress": "경상북도 영천시 바깥완산길 82  (완산동,1000-555번지)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대구양행",
+      "address": "경상북도 영천시 완산동 983",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "동진슈퍼",
+      "address": "경상북도 영천시 완산동 982-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "동아상회",
+      "address": "경상북도 영천시 완산동 982",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "동신아파트관리실",
+      "address": "경상북도 영천시 완산동 1000-3",
+      "roadAddress": "경상북도 영천시 강남길 37-10  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "삼신기업사",
+      "address": "경상북도 영천시 완산동 988-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "풍년천막사",
+      "address": "경상북도 영천시 완산동 1000-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "서면식품",
+      "address": "경상북도 영천시 완산동 1269-4",
+      "roadAddress": "경상북도 영천시 천문로 288  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "동명상회",
+      "address": "경상북도 영천시 완산동 1064-1",
+      "roadAddress": "경상북도 영천시 시장1길 8  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영천비닐",
+      "address": "경상북도 영천시 완산동 1067",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영남세차장",
+      "address": "경상북도 영천시 완산동 920-4",
+      "roadAddress": "경상북도 영천시 약전길 9  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "청우슈퍼마켓",
+      "address": "경상북도 영천시 완산동 1056-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-10"
+    },
+    {
+      "name": "그린마트",
+      "address": "경상북도 영천시 야사동 187-2",
+      "roadAddress": "경상북도 영천시 문화새길 25  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-23"
+    },
+    {
+      "name": "대원종합상사",
+      "address": "경상북도 영천시 야사동 178-20",
+      "roadAddress": "경상북도 영천시 호국로 52  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-14"
+    },
+    {
+      "name": "Q할인마트",
+      "address": "경상북도 영천시 성내동 175-11",
+      "roadAddress": "경상북도 영천시 최무선로 221  (성내동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-10"
+    },
+    {
+      "name": "조은식품",
+      "address": "경상북도 영천시 완산동 994-39",
+      "roadAddress": "경상북도 영천시 시장4길 53  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-16"
+    },
+    {
+      "name": "아람상회",
+      "address": "경상북도 영천시 완산동 924-21",
+      "roadAddress": "경상북도 영천시 약전1길 8-10  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-16"
+    },
+    {
+      "name": "영천축협서문지소",
+      "address": "경상북도 영천시 화룡동 261-3",
+      "roadAddress": "경상북도 영천시 장수로 35  (화룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-21"
+    },
+    {
+      "name": "영진인쇄천막사",
+      "address": "경상북도 영천시 완산동 1065",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-26"
+    },
+    {
+      "name": "금호농업협동조합",
+      "address": "경상북도 영천시 금호읍 교대리 163-1 금호농협",
+      "roadAddress": "경상북도 영천시 금호읍 금호로 116, 금호농협",
+      "status": "영업/정상",
+      "licenseDate": "2009-02-01"
+    },
+    {
+      "name": "콜할인마트",
+      "address": "경상북도 영천시 망정동 471 창신아파트 106동 307호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-08-17"
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "경상북도 영천시 완산동 983",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "수성슈퍼",
+      "address": "경상북도 영천시 완산동 933",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "월일슈퍼",
+      "address": "경상북도 영천시 완산동 940-1",
+      "roadAddress": "경상북도 영천시 약전2길 17-15  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "군인아파트관리실",
+      "address": "경상북도 영천시 완산동 789",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영남이발소",
+      "address": "경상북도 영천시 완산동 926-25",
+      "roadAddress": "경상북도 영천시 완산로 15-1  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영천종합화장품",
+      "address": "경상북도 영천시 완산동 988-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "완산슈퍼",
+      "address": "경상북도 영천시 완산동 1084-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "무덕상회",
+      "address": "경상북도 영천시 완산동 1086-17",
+      "roadAddress": "경상북도 영천시 완산중앙3길 5  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영일자전차",
+      "address": "경상북도 영천시 완산동 987-7",
+      "roadAddress": "경상북도 영천시 완산중앙3길 39-1  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "마춤유과점",
+      "address": "경상북도 영천시 완산동 1079-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영화슈퍼",
+      "address": "경상북도 영천시 완산동 1082-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "부흥상회",
+      "address": "경상북도 영천시 완산동 1075-14",
+      "roadAddress": "경상북도 영천시 역전로 13  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "153",
+      "address": "경상북도 영천시 완산동 1092-8",
+      "roadAddress": "경상북도 영천시 구읍3길 34-1  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "경상북도 영천시 완산동 1094-1",
+      "roadAddress": "경상북도 영천시 구읍2길 6  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "동미사",
+      "address": "경상북도 영천시 완산동 1074",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "충북식당",
+      "address": "경상북도 영천시 완산동 930",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "귀빈가든슈퍼",
+      "address": "경상북도 영천시 완산동 1104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "군위슈퍼",
+      "address": "경상북도 영천시 완산동 984-4",
+      "roadAddress": "경상북도 영천시 완산로 31  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "궁전맨션관리실",
+      "address": "경상북도 영천시 완산동 1009-1",
+      "roadAddress": "경상북도 영천시 완산6길 29  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "160",
+      "address": "경상북도 영천시 도동 422",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "161",
+      "address": "경상북도 영천시 도동 735",
+      "roadAddress": "경상북도 영천시 도동구역길 161-27  (도동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "도동구판장",
+      "address": "경상북도 영천시 도동 126",
+      "roadAddress": "경상북도 영천시 한방로 54  (도동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "163",
+      "address": "경상북도 영천시 도동 72",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "개인",
+      "address": "경상북도 영천시 신녕면 왕산리 221",
+      "roadAddress": "경상북도 영천시 신녕면 왕산대길 27",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "165",
+      "address": "경상북도 영천시 금노동 60-10",
+      "roadAddress": "경상북도 영천시 개곡마을길 103  (금노동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "청임슈퍼",
+      "address": "경상북도 영천시 금노동 552-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "호돌이상회",
+      "address": "경상북도 영천시 금노동 546-8",
+      "roadAddress": "경상북도 영천시 강변로 59-3  (금노동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "경상북도 영천시 금노동 552-6",
+      "roadAddress": "경상북도 영천시 강변로 49  (금노동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "오성상회",
+      "address": "경상북도 영천시 금노동 550-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "태기슈퍼",
+      "address": "경상북도 영천시 금노동 546",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "경상북도 영천시 금노동 592",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "화산슈퍼",
+      "address": "경상북도 영천시 금노동 587-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영일슈퍼",
+      "address": "경상북도 영천시 금노동 582-1",
+      "roadAddress": "경상북도 영천시 강변로 50-17  (금노동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영동상회",
+      "address": "경상북도 영천시 금노동 584",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "금노슈퍼",
+      "address": "경상북도 영천시 금노동 529-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "우덕상회",
+      "address": "경상북도 영천시 금노동 537-6",
+      "roadAddress": "경상북도 영천시 담안5길 26  (금노동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "로타리상회",
+      "address": "경상북도 영천시 금노동 514",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "주남슈퍼",
+      "address": "경상북도 영천시 금노동 523-7",
+      "roadAddress": "경상북도 영천시 시장로 10  (금노동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대성문구사",
+      "address": "경상북도 영천시 금노동 502-6",
+      "roadAddress": "경상북도 영천시 천문로 247  (금노동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "새주남슈퍼",
+      "address": "경상북도 영천시 금노동 608-30",
+      "roadAddress": "경상북도 영천시 담안7길 35-2  (금노동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "새상주슈퍼",
+      "address": "경상북도 영천시 금노동 608-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "182",
+      "address": "경상북도 영천시 금노동 604-3",
+      "roadAddress": "경상북도 영천시 담안7길 22-6  (금노동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "경주슈퍼",
+      "address": "경상북도 영천시 금노동 492-65",
+      "roadAddress": "경상북도 영천시 천문로 204-3  (금노동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "버들상회",
+      "address": "경상북도 영천시 금노동 491-53",
+      "roadAddress": "경상북도 영천시 천문로 196  (금노동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "185",
+      "address": "경상북도 영천시 금노동 493",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "186",
+      "address": "경상북도 영천시 금노동 415-17",
+      "roadAddress": "경상북도 영천시 천문로 171  (금노동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "주남25시",
+      "address": "경상북도 영천시 금노동 372-66",
+      "roadAddress": "경상북도 영천시 천문로 208  (금노동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "봉작상회",
+      "address": "경상북도 영천시 작산동 140-1",
+      "roadAddress": "경상북도 영천시 한방로 223-9  (작산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "경상북도 영천시 작산동 305-3",
+      "roadAddress": "경상북도 영천시 한방로 149  (작산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "작산상회",
+      "address": "경상북도 영천시 작산동 88",
+      "roadAddress": "경상북도 영천시 범어1길 17  (작산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "삼거리상회",
+      "address": "경상북도 영천시 작산동 89-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상북도 영천시 봉동 668-5",
+      "roadAddress": "경상북도 영천시 영천아이시로 66  (봉동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "봉동식품",
+      "address": "경상북도 영천시 봉동 254",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "도남상회",
+      "address": "경상북도 영천시 도남동 293",
+      "roadAddress": "경상북도 영천시 칠백로 847  (도남동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "복지회관슈퍼",
+      "address": "경상북도 영천시 도남동 97",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "범어구판장",
+      "address": "경상북도 영천시 범어동 776",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "주민상회",
+      "address": "경상북도 영천시 작산동 236",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "본촌구판장",
+      "address": "경상북도 영천시 본촌동 597",
+      "roadAddress": "경상북도 영천시 선들길 30-17  (본촌동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "경상북도 영천시 본촌동 562",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "작산상회",
+      "address": "경상북도 영천시 작산동 88",
+      "roadAddress": "경상북도 영천시 범어1길 17  (작산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "삼거리상회",
+      "address": "경상북도 영천시 채신동 340-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상북도 영천시 괴연동 321-1",
+      "roadAddress": "경상북도 영천시 하이브리드로 476  (괴연동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "봉동식품",
+      "address": "경상북도 영천시 괴연동 558",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대전구판장",
+      "address": "경상북도 영천시 대전동 365",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대전2구판장",
+      "address": "경상북도 영천시 대전동 513",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "206",
+      "address": "경상북도 영천시 오미동 230",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "207",
+      "address": "경상북도 영천시 오미동 406-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "208",
+      "address": "경상북도 영천시 오미동 530",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "209",
+      "address": "경상북도 영천시 오미동 878",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "210",
+      "address": "경상북도 영천시 서산동 428",
+      "roadAddress": "경상북도 영천시 삼산마을길 61-8  (서산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "211",
+      "address": "경상북도 영천시 서산동 211",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "212",
+      "address": "경상북도 영천시 녹전동 142",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "213",
+      "address": "경상북도 영천시 녹전동 394",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "214",
+      "address": "경상북도 영천시 녹전동 760",
+      "roadAddress": "경상북도 영천시 조동길 23-39  (녹전동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "215",
+      "address": "경상북도 영천시 도림동 1405",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "216",
+      "address": "경상북도 영천시 도림동 671",
+      "roadAddress": "경상북도 영천시 세홈길 17-5  (도림동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "217",
+      "address": "경상북도 영천시 매산동 71",
+      "roadAddress": "경상북도 영천시 월계길 19-4  (매산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "218",
+      "address": "경상북도 영천시 매산동 749",
+      "roadAddress": "경상북도 영천시 여랑길 19  (매산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "219",
+      "address": "경상북도 영천시 매산동 656",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영풍슈퍼",
+      "address": "경상북도 영천시 금호읍 교대리 180-7",
+      "roadAddress": "경상북도 영천시 금호읍 금호시장길 26",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "신일슈퍼",
+      "address": "경상북도 영천시 금호읍 교대리 167-4",
+      "roadAddress": "경상북도 영천시 금호읍 금호시장길 53",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "축협판매장",
+      "address": "경상북도 영천시 금호읍 덕성리 101-4",
+      "roadAddress": "경상북도 영천시 금호읍 금호로 88",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "원제구판장",
+      "address": "경상북도 영천시 금호읍 원제리 432",
+      "roadAddress": "경상북도 영천시 금호읍 원제1길 27",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "냉천슈퍼",
+      "address": "경상북도 영천시 금호읍 냉천리 389",
+      "roadAddress": "경상북도 영천시 금호읍 찬샘2길 18-3",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "대구유통슈퍼",
+      "address": "경상북도 영천시 금호읍 냉천리 696-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "신일슈퍼",
+      "address": "경상북도 영천시 금호읍 신월리 480",
+      "roadAddress": "경상북도 영천시 금호읍 신월숲길 98-39",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 청통면 호당리 384",
+      "roadAddress": "경상북도 영천시 청통면 호당1길 63-6",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 청통면 호당리 38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 청통면 우천리 752",
+      "roadAddress": "경상북도 영천시 청통면 소내길 5-3",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 청통면 우천리 186-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 청통면 보성리 675-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 청통면 신덕리 329",
+      "roadAddress": "경상북도 영천시 청통면 신덕길 24-1",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 청통면 신덕리 723",
+      "roadAddress": "경상북도 영천시 청통면 성골길 111-21",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 청통면 죽정리 123",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 청통면 죽정리 123",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 청통면 송천리 172",
+      "roadAddress": "경상북도 영천시 청통면 월성길 7-7",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 청통면 원촌리 264",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 청통면 원촌리 247-4",
+      "roadAddress": "경상북도 영천시 청통면 금송로 953",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 청통면 신학리 281",
+      "roadAddress": "경상북도 영천시 청통면 신학길 41",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 청통면 신학리 2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 청통면 치일리 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 청통면 치일리 2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 청통면 애련리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 청통면 계포리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 청통면 계지리 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 청통면 계지리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 청통면 용천리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 청통면 신원리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영천시 신녕면 치산리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "치산폭포식당",
+      "address": "경상북도 영천시 신녕면 치산리 1118",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "252",
+      "address": "경상북도 영천시 신녕면 치산리 1101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 영천시 신녕면 치산리 769",
+      "roadAddress": "경상북도 영천시 신녕면 동지안길 12-4",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 영천시 신녕면 부산리 1379",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "서부식육식당",
+      "address": "경상북도 영천시 신녕면 부산리 2934",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "신령휴게소",
+      "address": "경상북도 영천시 신녕면 화남리 3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "왕산슈퍼",
+      "address": "경상북도 영천시 신녕면 왕산리 86-1",
+      "roadAddress": "경상북도 영천시 신녕면 치산효령로 36-1",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "매양1회관",
+      "address": "경상북도 영천시 신녕면 매양리 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "매양2구판장",
+      "address": "경상북도 영천시 신녕면 매양리 303",
+      "roadAddress": "경상북도 영천시 신녕면 매양안길 28-2",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "관기슈퍼",
+      "address": "경상북도 영천시 신녕면 화성리 837",
+      "roadAddress": "경상북도 영천시 신녕면 화성중앙길 15",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경상북도 영천시 신녕면 화성리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "8번상회",
+      "address": "경상북도 영천시 신녕면 화성리 818",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "263",
+      "address": "경상북도 영천시 신녕면 완전리 851-12",
+      "roadAddress": "경상북도 영천시 신녕면 장수로 1657",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "동해슈퍼",
+      "address": "경상북도 영천시 신녕면 완전리 852",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "마을구판장",
+      "address": "경상북도 영천시 신녕면 신덕리 749-21",
+      "roadAddress": "경상북도 영천시 신녕면 신단본길 14-4",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "마을구판장",
+      "address": "경상북도 영천시 신녕면 신덕리 278",
+      "roadAddress": "경상북도 영천시 신녕면 신정길 36-7",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "마을구판장",
+      "address": "경상북도 영천시 신녕면 연정리 344",
+      "roadAddress": "경상북도 영천시 신녕면 연정큰길 63-9",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "268",
+      "address": "경상북도 영천시 신녕면 연정리 630",
+      "roadAddress": "경상북도 영천시 신녕면 신화로 199",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "괴정상회",
+      "address": "경상북도 영천시 화산면 효정리 771",
+      "roadAddress": "경상북도 영천시 화산면 신화로 468-6",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "가상구판장",
+      "address": "경상북도 영천시 화산면 가상리 752",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "화산농협",
+      "address": "경상북도 영천시 화산면 유성리 599-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경상북도 영천시 화북면 자천리 1600",
+      "roadAddress": "경상북도 영천시 화북면 자천3길 1",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "도림슈퍼",
+      "address": "경상북도 영천시 화북면 자천리 1475",
+      "roadAddress": "경상북도 영천시 화북면 화북길 89",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "영신슈퍼",
+      "address": "경상북도 영천시 화북면 자천리 704",
+      "roadAddress": "경상북도 영천시 화북면 화북길 21",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "275",
+      "address": "경상북도 영천시 화북면 옥계리 387",
+      "roadAddress": "경상북도 영천시 화북면 천문로 2421-10",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "입신상회",
+      "address": "경상북도 영천시 화북면 입석리 509",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "277",
+      "address": "경상북도 영천시 화북면 용소리 786",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "278",
+      "address": "경상북도 영천시 화북면 법화리 904",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "279",
+      "address": "경상북도 영천시 화북면 하송리 658",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "280",
+      "address": "경상북도 영천시 화북면 상송리 46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "281",
+      "address": "경상북도 영천시 화북면 죽전리 773",
+      "roadAddress": "경상북도 영천시 화북면 탑들소일길 200",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "282",
+      "address": "경상북도 영천시 화북면 죽전리 382",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "283",
+      "address": "경상북도 영천시 화북면 정각리 806",
+      "roadAddress": "경상북도 영천시 화북면 정각1길 4-3",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "284",
+      "address": "경상북도 영천시 화북면 정각리 1361",
+      "roadAddress": "경상북도 영천시 화북면 태양길 44",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "285",
+      "address": "경상북도 영천시 화북면 횡계리 391",
+      "roadAddress": "경상북도 영천시 화북면 횡계2길 9-7",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "286",
+      "address": "경상북도 영천시 화북면 공덕리 398",
+      "roadAddress": "경상북도 영천시 화북면 공덕길 10-5",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "287",
+      "address": "경상북도 영천시 화북면 오동리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "288",
+      "address": "경상북도 영천시 화북면 오동리 895",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "289",
+      "address": "경상북도 영천시 화북면 오산리 136",
+      "roadAddress": "경상북도 영천시 화북면 오공길 353-22",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경상북도 영천시 화남면 삼창리 208",
+      "roadAddress": "경상북도 영천시 화남면 천문로 1613",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "대천슈퍼",
+      "address": "경상북도 영천시 화남면 대천리 540-3",
+      "roadAddress": "경상북도 영천시 화남면 천문로 1291-1",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "사천상회",
+      "address": "경상북도 영천시 화남면 사천리 516",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "구전상회",
+      "address": "경상북도 영천시 화남면 구전리 126-1",
+      "roadAddress": "경상북도 영천시 화남면 용구길 39",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "임고농협보현지소",
+      "address": "경상북도 영천시 자양면 보현리 797-1",
+      "roadAddress": "경상북도 영천시 자양면 별빛로 1125",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "충효휴게소",
+      "address": "경상북도 영천시 자양면 충효리 450",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "자양슈퍼",
+      "address": "경상북도 영천시 자양면 성곡리 559",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "만물상회",
+      "address": "경상북도 영천시 임고면 양항리 430",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "임북상회",
+      "address": "경상북도 영천시 임고면 평천리 619-1",
+      "roadAddress": "경상북도 영천시 임고면 포은로 745",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "효리판장",
+      "address": "경상북도 영천시 임고면 효리 232",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "화성상회",
+      "address": "경상북도 영천시 임고면 덕연리 807",
+      "roadAddress": "경상북도 영천시 임고면 덕연길 131-4",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "재환상회",
+      "address": "경상북도 영천시 임고면 양평리 991-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "고경농협연쇄점",
+      "address": "경상북도 영천시 고경면 해선리 202",
+      "roadAddress": "경상북도 영천시 고경면 호국로 1087",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "고경농협연쇄점",
+      "address": "경상북도 영천시 고경면 단포리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경상북도 영천시 고경면 창하리 713-25",
+      "roadAddress": "경상북도 영천시 고경면 호국로 462-6",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "교촌정류장",
+      "address": "경상북도 영천시 고경면 석계리 341-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "석계상회",
+      "address": "경상북도 영천시 고경면 석계리 308",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "동영천매점",
+      "address": "경상북도 영천시 고경면 도암리 605-1",
+      "roadAddress": "경상북도 영천시 고경면 도암길 20",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "매점휴게소",
+      "address": "경상북도 영천시 고경면 청정리 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "309",
+      "address": "경상북도 영천시 고경면 상리리 168",
+      "roadAddress": "경상북도 영천시 고경면 상리큰길 47",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "310",
+      "address": "경상북도 영천시 북안면 당리 702-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "312",
+      "address": "경상북도 영천시 북안면 북리 123",
+      "roadAddress": "경상북도 영천시 북안면 광릉2길 15-3",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "313",
+      "address": "경상북도 영천시 북안면 도유리 276",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "314",
+      "address": "경상북도 영천시 북안면 명주리 336",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "315",
+      "address": "경상북도 영천시 북안면 용계리 589",
+      "roadAddress": "경상북도 영천시 북안면 새불길 77",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "316",
+      "address": "경상북도 영천시 북안면 신대리 423",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "317",
+      "address": "경상북도 영천시 북안면 신리리 399",
+      "roadAddress": "경상북도 영천시 북안면 신평탑골길 135-1",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "318",
+      "address": "경상북도 영천시 북안면 효리 484",
+      "roadAddress": "경상북도 영천시 북안면 효동길 61-92",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "319",
+      "address": "경상북도 영천시 북안면 도천리 459",
+      "roadAddress": "경상북도 영천시 북안면 괴화길 9-3",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "320",
+      "address": "경상북도 영천시 북안면 도천리 170",
+      "roadAddress": "경상북도 영천시 북안면 연당길 66-3",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "322",
+      "address": "경상북도 영천시 북안면 서당리 30",
+      "roadAddress": "경상북도 영천시 북안면 북안서당길 26",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "323",
+      "address": "경상북도 영천시 북안면 고지리 319",
+      "roadAddress": "경상북도 영천시 북안면 고지길 12-8",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "325",
+      "address": "경상북도 영천시 북안면 임포리 272-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "326",
+      "address": "경상북도 영천시 북안면 임포리 226-3",
+      "roadAddress": "경상북도 영천시 북안면 임포역길 73",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "327",
+      "address": "경상북도 영천시 북안면 반계리 120",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "328",
+      "address": "경상북도 영천시 북안면 자포리 463",
+      "roadAddress": "경상북도 영천시 북안면 돈암길 30-18",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "329",
+      "address": "경상북도 영천시 북안면 신촌리 315",
+      "roadAddress": "경상북도 영천시 북안면 돈암길 321",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "330",
+      "address": "경상북도 영천시 북안면 원당리 111",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "331",
+      "address": "경상북도 영천시 북안면 내포리 37",
+      "roadAddress": "경상북도 영천시 북안면 돌할매로 159-9",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "332",
+      "address": "경상북도 영천시 북안면 반정리 632",
+      "roadAddress": "경상북도 영천시 북안면 반정1길 55-6",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "333",
+      "address": "경상북도 영천시 북안면 반정리 1303",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "334",
+      "address": "경상북도 영천시 북안면 반정리 50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "335",
+      "address": "경상북도 영천시 북안면 송포리 786",
+      "roadAddress": "경상북도 영천시 북안면 엿들길 5",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "336",
+      "address": "경상북도 영천시 북안면 송포리 221",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "337",
+      "address": "경상북도 영천시 북안면 유하리 406",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "338",
+      "address": "경상북도 영천시 북안면 유상리 835",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "339",
+      "address": "경상북도 영천시 북안면 유상리 157",
+      "roadAddress": "경상북도 영천시 북안면 유상길 385",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "340",
+      "address": "경상북도 영천시 북안면 반정리 157",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "341",
+      "address": "경상북도 영천시 북안면 당리 702-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "342",
+      "address": "경상북도 영천시 대창면 직천리 393",
+      "roadAddress": "경상북도 영천시 대창면 하이브리드로 104-20",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "343",
+      "address": "경상북도 영천시 대창면 운천리 273",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "344",
+      "address": "경상북도 영천시 대창면 운천리 856",
+      "roadAddress": "경상북도 영천시 대창면 운잠길 5",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "345",
+      "address": "경상북도 영천시 대창면 용전리 274",
+      "roadAddress": "경상북도 영천시 대창면 한들길 103-2",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "346",
+      "address": "경상북도 영천시 대창면 어방리 130",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "347",
+      "address": "경상북도 영천시 대창면 오길리 343",
+      "roadAddress": "경상북도 영천시 대창면 채산길 73-8",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "348",
+      "address": "경상북도 영천시 대창면 오길리 173",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "349",
+      "address": "경상북도 영천시 대창면 용호리 365",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "350",
+      "address": "경상북도 영천시 대창면 신광리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "351",
+      "address": "경상북도 영천시 대창면 신광리 833",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "새문구",
+      "address": "경상북도 영천시 대창면 조곡리 259-1",
+      "roadAddress": "경상북도 영천시 대창면 금창로 795",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "353",
+      "address": "경상북도 영천시 대창면 구지리 54",
+      "roadAddress": "경상북도 영천시 대창면 용대로 997-36",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "354",
+      "address": "경상북도 영천시 대창면 대재리 210",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "담배가게",
+      "address": "경상북도 영천시 대창면 사리리 123",
+      "roadAddress": "경상북도 영천시 대창면 선진길 46-3",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "356",
+      "address": "경상북도 영천시 대창면 사리리 625",
+      "roadAddress": "경상북도 영천시 대창면 금박로 760-6",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "대창농협",
+      "address": "경상북도 영천시 대창면 대창리 741-6",
+      "roadAddress": "경상북도 영천시 대창면 금창로 671",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "광신슈퍼",
+      "address": "경상북도 영천시 대창면 대창리 1033",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "359",
+      "address": "경상북도 영천시 대창면 대창리 1036",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "경북슈퍼",
+      "address": "경상북도 영천시 대창면 대창리 1033",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 영천시 대창면 대창리 133",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "마을회관",
+      "address": "경상북도 영천시 대창면 강회리 194",
+      "roadAddress": "경상북도 영천시 대창면 강회2길 43-3",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "마을회관",
+      "address": "경상북도 영천시 대창면 병암리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "종합슈퍼",
+      "address": "경상북도 영천시 화북면 자천리 779",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "자천슈퍼",
+      "address": "경상북도 영천시 화북면 자천리 1495",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "자천농약사",
+      "address": "경상북도 영천시 화북면 자천리 1427",
+      "roadAddress": "경상북도 영천시 화북면 천문로 2192-3",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "옥경이상회",
+      "address": "경상북도 영천시 임고면 삼매리 71-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "동부슈퍼",
+      "address": "경상북도 영천시 야사동 183-9",
+      "roadAddress": "경상북도 영천시 야사1길 3  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "청구수입품",
+      "address": "경상북도 영천시 야사동 334-1",
+      "roadAddress": "경상북도 영천시 충효로 122  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "서광전기",
+      "address": "경상북도 영천시 야사동 334-3",
+      "roadAddress": "경상북도 영천시 충효로 124  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "문화슈퍼",
+      "address": "경상북도 영천시 야사동 187-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "금성아파트",
+      "address": "경상북도 영천시 야사동 92",
+      "roadAddress": "경상북도 영천시 망정1길 95  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "협화빌딩",
+      "address": "경상북도 영천시 야사동 182-8",
+      "roadAddress": "경상북도 영천시 호국로 70  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "협화식육식당",
+      "address": "경상북도 영천시 야사동 182-8",
+      "roadAddress": "경상북도 영천시 호국로 70  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "유성아파트",
+      "address": "경상북도 영천시 야사동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "무지개슈퍼",
+      "address": "경상북도 영천시 문외동 5",
+      "roadAddress": "경상북도 영천시 삼산길 38  (문외동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "영천축협본소",
+      "address": "경상북도 영천시 문외동 40-29",
+      "roadAddress": "경상북도 영천시 호국로 17  (문외동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경상북도 영천시 문내동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "염매슈퍼",
+      "address": "경상북도 영천시 문내동 38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "교동슈퍼",
+      "address": "경상북도 영천시 성내동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "동부상회",
+      "address": "경상북도 영천시 조교동 396",
+      "roadAddress": "경상북도 영천시 조흔달1길 39  (조교동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영동문구",
+      "address": "경상북도 영천시 조교동 460-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "황남슈퍼",
+      "address": "경상북도 영천시 망정동 222-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "청호슈퍼",
+      "address": "경상북도 영천시 망정동 186-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대동슈퍼",
+      "address": "경상북도 영천시 야사동 136-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "제일전기",
+      "address": "경상북도 영천시 야사동 182-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "야사회관",
+      "address": "경상북도 영천시 야사동 154-42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "국제오토바이",
+      "address": "경상북도 영천시 야사동 290-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "세종분식",
+      "address": "경상북도 영천시 야사동 294-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "우시장식당",
+      "address": "경상북도 영천시 야사동 290",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "3동관리실",
+      "address": "경상북도 영천시 야사동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "6동관리실",
+      "address": "경상북도 영천시 야사동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "야사구판장",
+      "address": "경상북도 영천시 야사동 429-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영덕부식상회",
+      "address": "경상북도 영천시 야사동 186-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "미정지업사",
+      "address": "경상북도 영천시 야사동 186-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "주공1관리실",
+      "address": "경상북도 영천시 야사동 301",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "주공2관리실",
+      "address": "경상북도 영천시 야사동 311",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "언하구판장",
+      "address": "경상북도 영천시 언하동 79",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "언하구판장",
+      "address": "경상북도 영천시 언하동 342",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영양센타",
+      "address": "경상북도 영천시 언하동 475-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "다솜슈퍼",
+      "address": "경상북도 영천시 성내동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "경상북도 영천시 성내동 175-33",
+      "roadAddress": "경상북도 영천시 최무선로 229  (성내동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "대우전자서비스",
+      "address": "경상북도 영천시 금노동 509-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "천일상회",
+      "address": "경상북도 영천시 본촌동 677-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "덕신슈퍼",
+      "address": "경상북도 영천시 완산동 950",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "시장영화슈퍼",
+      "address": "경상북도 영천시 완산동 989",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "대우전자",
+      "address": "경상북도 영천시 완산동 1056",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "현대문구사",
+      "address": "경상북도 영천시 완산동 1070",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "청우프라자 슈퍼",
+      "address": "경상북도 영천시 완산동 1056-3",
+      "roadAddress": "경상북도 영천시 역전로 8  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "경향슈퍼",
+      "address": "경상북도 영천시 완산동 904-23",
+      "roadAddress": "경상북도 영천시 완산중앙8길 8-2  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "만물상회",
+      "address": "경상북도 영천시 완산동 956",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "영천축협영천지소",
+      "address": "경상북도 영천시 완산동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "영남슈퍼",
+      "address": "경상북도 영천시 완산동 906-12",
+      "roadAddress": "경상북도 영천시 완산중앙3길 30  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "삼화식품",
+      "address": "경상북도 영천시 완산동 994-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "대백슈퍼영천점",
+      "address": "경상북도 영천시 완산동 898-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "영천농협협동조합",
+      "address": "경상북도 영천시 화북면 자천리 892-1",
+      "roadAddress": "경상북도 영천시 화북면 자천9길 10",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "영보슈퍼",
+      "address": "경상북도 영천시 완산동 1100-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "대천천막비닐",
+      "address": "경상북도 영천시 완산동 1067-20",
+      "roadAddress": "경상북도 영천시 시장2길 9  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "오성슈퍼",
+      "address": "경상북도 영천시 완산동 1118-15",
+      "roadAddress": "경상북도 영천시 구읍1길 32-12  (완산동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "중보슈퍼",
+      "address": "경상북도 영천시 금호읍 냉천리 698",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-20"
+    },
+    {
+      "name": "복지슈퍼",
+      "address": "경상북도 영천시 고경면 창하리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-20"
+    },
+    {
+      "name": "주공슈퍼",
+      "address": "경상북도 영천시 야사동 120",
+      "roadAddress": "경상북도 영천시 충효로 147  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-20"
+    },
+    {
+      "name": "신주공부식",
+      "address": "경상북도 영천시 야사동 120",
+      "roadAddress": "경상북도 영천시 충효로 147  (야사동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-20"
+    }
+  ]
+}

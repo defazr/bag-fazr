@@ -1,0 +1,2677 @@
+{
+  "region": "부산광역시",
+  "regionSlug": "busan",
+  "district": "부산진구",
+  "districtSlug": "busanjin",
+  "updatedAt": "2026-03-26",
+  "totalCount": 381,
+  "stores": [
+    {
+      "name": "요식업조합",
+      "address": "부산광역시 부산진구 부전동 490-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배센터",
+      "address": "부산광역시 부산진구 부전동 198",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부전슈퍼",
+      "address": "부산광역시 부산진구 부전동 456",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영화포장",
+      "address": "부산광역시 부산진구 부전동 256-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고려상회",
+      "address": "부산광역시 부산진구 범전동 264-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연지동사무소",
+      "address": "부산광역시 부산진구 연지동 238-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가슈퍼",
+      "address": "부산광역시 부산진구 개금동 우성상가지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연지동새마을금고",
+      "address": "부산광역시 부산진구 연지동 190",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연학슈퍼",
+      "address": "부산광역시 부산진구 초읍동 118-3    9  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "도문문구근대화",
+      "address": "부산광역시 부산진구 초읍동 54-39   8  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우석슈퍼",
+      "address": "부산광역시 부산진구 초읍동 271-1    12 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진양상회",
+      "address": "부산광역시 부산진구 초읍동 134-53   35 통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼덕슈퍼",
+      "address": "부산광역시 부산진구 초읍동 51 11 통4  반",
+      "roadAddress": "부산광역시 부산진구 초읍천로43번가길 30  (초읍동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "예천슈퍼",
+      "address": "부산광역시 부산진구 초읍동 51-183  50 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백천슈퍼마켓",
+      "address": "부산광역시 부산진구 초읍동 105-6    33 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신일철물",
+      "address": "부산광역시 부산진구 초읍동 377-4    18 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초읍슈퍼(스토아)",
+      "address": "부산광역시 부산진구 초읍동 264-18   3  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양곡판매점",
+      "address": "부산광역시 부산진구 초읍동 549-4    27 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대림럭키슈퍼",
+      "address": "부산광역시 부산진구 초읍동 206-119  32 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평강상회",
+      "address": "부산광역시 부산진구 초읍동 207-5    32 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "준이슈퍼",
+      "address": "부산광역시 부산진구 초읍동 541-8    30 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "부산광역시 부산진구 개금동 545-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초정상회",
+      "address": "부산광역시 부산진구 초읍동 463-3    20 통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양지슈퍼",
+      "address": "부산광역시 부산진구 초읍동 442-2    20 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북설비",
+      "address": "부산광역시 부산진구 가야동 445-31   3  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스파슈퍼",
+      "address": "부산광역시 부산진구 가야동 502-19   6  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미화당슈퍼",
+      "address": "부산광역시 부산진구 개금동 1-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동일상회",
+      "address": "부산광역시 부산진구 가야동 370-6    32 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양사",
+      "address": "부산광역시 부산진구 양정동 370-1    32 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "부산광역시 부산진구 개금동 753 22 통5  반",
+      "roadAddress": "부산광역시 부산진구 진사로 48  (개금동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대림슈퍼",
+      "address": "부산광역시 부산진구 가야동 350-166  33 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국슈퍼",
+      "address": "부산광역시 부산진구 가야동 350-7    33 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "밀양상회",
+      "address": "부산광역시 부산진구 개금동 국민주택A258 3/2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영일상회",
+      "address": "부산광역시 부산진구 부전동 149-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북상회",
+      "address": "부산광역시 부산진구 개금동 633-23   7  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동성문구",
+      "address": "부산광역시 부산진구 전포동 355-29 5통2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부성슈퍼",
+      "address": "부산광역시 부산진구 전포동 357-55 5통3반",
+      "roadAddress": "부산광역시 부산진구 서전로68번길 123  (전포동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백설슈퍼",
+      "address": "부산광역시 부산진구 전포동 392-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "함양상회",
+      "address": "부산광역시 부산진구 전포동 362-48 4통3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "부산광역시 부산진구 당감동 700 7  통3  반",
+      "roadAddress": "부산광역시 부산진구 백양순환로28번길 45  (당감동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "의령상회",
+      "address": "부산광역시 부산진구 개금동 국민주택A359 2/4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "석산슈퍼",
+      "address": "부산광역시 부산진구 전포동 379-4 12통3반",
+      "roadAddress": "부산광역시 부산진구 전포대로122번길 13  (전포동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전포슈퍼",
+      "address": "부산광역시 부산진구 전포동 370-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "부산광역시 부산진구 개금동 753 22 통5  반",
+      "roadAddress": "부산광역시 부산진구 진사로 48  (개금동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "목화슈퍼",
+      "address": "부산광역시 부산진구 전포동 486-16 14통2반",
+      "roadAddress": "부산광역시 부산진구 봉수로 15  (전포동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "부산광역시 부산진구 가야동 445-17   2  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "합천슈퍼",
+      "address": "부산광역시 부산진구 전포동 487-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동성상회",
+      "address": "부산광역시 부산진구 전포동 330-815 20통4반",
+      "roadAddress": "부산광역시 부산진구 진남로305번길 46  (전포동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "의령상회",
+      "address": "부산광역시 부산진구 개금동 국민주택A359 2/4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서원할인마트",
+      "address": "부산광역시 부산진구 전포동 431-6 23통3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옷수선가게",
+      "address": "부산광역시 부산진구 부암동 298-17   3  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "골목상회",
+      "address": "부산광역시 부산진구 부암동 24-71 12통1반",
+      "roadAddress": "부산광역시 부산진구 동평로214번길 17-1  (부암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금사상회",
+      "address": "부산광역시 부산진구 부암동 26-19 13통5반",
+      "roadAddress": "부산광역시 부산진구 새싹로124번길 22-1  (부암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데미니슈퍼",
+      "address": "부산광역시 부산진구 부암동 80-22 17통2반",
+      "roadAddress": "부산광역시 부산진구 새싹로 89-14  (부암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을슈퍼",
+      "address": "부산광역시 부산진구 부암동 74-8 1통1반",
+      "roadAddress": "부산광역시 부산진구 시민공원로19번길 53  (부암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가슈퍼",
+      "address": "부산광역시 부산진구 개금동 우성상가지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름상회",
+      "address": "부산광역시 부산진구 부암동 315-37   19 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김해쌀상회",
+      "address": "부산광역시 부산진구 가야동 48-80 17통3반",
+      "roadAddress": "부산광역시 부산진구 가야대로614번길 36-16  (가야동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원아파트",
+      "address": "부산광역시 부산진구 부암동 319 5통2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "부산광역시 부산진구 개금동 605-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남산슈퍼",
+      "address": "부산광역시 부산진구 부암동 320-68 18통1반",
+      "roadAddress": "부산광역시 부산진구 동평로131번길 68  (부암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키무지개슈퍼",
+      "address": "부산광역시 부산진구 부암동 303-6 11통3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일성상회",
+      "address": "부산광역시 부산진구 부암동 137-23 50통3반",
+      "roadAddress": "부산광역시 부산진구 신천대로 198  (부암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김천상회",
+      "address": "부산광역시 부산진구 부암동 106-2 41통5반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부암슈퍼",
+      "address": "부산광역시 부산진구 부암동 218-22 33통1반",
+      "roadAddress": "부산광역시 부산진구 백양대로34번길 9  (부암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일반가게",
+      "address": "부산광역시 부산진구 부암동 221-4 31통4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부암쌀집",
+      "address": "부산광역시 부산진구 부암동 223 35통5반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일반가게",
+      "address": "부산광역시 부산진구 부암동 221-4 31통4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성문구",
+      "address": "부산광역시 부산진구 양정동 276-6    6  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심슈퍼",
+      "address": "부산광역시 부산진구 개금동 540-153",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부산슈퍼",
+      "address": "부산광역시 부산진구 부암동 393-2 7통1반",
+      "roadAddress": "부산광역시 부산진구 백양순환로164번길 23  (부암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "부산광역시 부산진구 초읍동 433-1    20 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진주상회",
+      "address": "부산광역시 부산진구 부암동 37-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "석산슈퍼",
+      "address": "부산광역시 부산진구 전포동 379-4 12통3반",
+      "roadAddress": "부산광역시 부산진구 전포대로122번길 13  (전포동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백광세탁",
+      "address": "부산광역시 부산진구 부암동 698-1    51 통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양곡판매소",
+      "address": "부산광역시 부산진구 부암동 288-14   25 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "부산광역시 부산진구 개금동 605-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "협성아파트",
+      "address": "부산광역시 부산진구 부암동 289-44   30 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남양상회",
+      "address": "부산광역시 부산진구 부암동 124-24   44 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시티마트",
+      "address": "부산광역시 부산진구 당감동 794",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "거제상회",
+      "address": "부산광역시 부산진구 개금동 526-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심할인마트",
+      "address": "부산광역시 부산진구 부암동 305-20   9  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동형상회",
+      "address": "부산광역시 부산진구 부암동 305-20   26 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "밀양상회",
+      "address": "부산광역시 부산진구 개금동 국민주택A258 3/2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씽씽마트",
+      "address": "부산광역시 부산진구 부암동 302-3    8  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금수상회",
+      "address": "부산광역시 부산진구 부암동 705-3    52 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "부산광역시 부산진구 개금동 545-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼익슈퍼",
+      "address": "부산광역시 부산진구 당감동 177-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성상회",
+      "address": "부산광역시 부산진구 당감동 440-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "혜성슈퍼",
+      "address": "부산광역시 부산진구 당감동 375",
+      "roadAddress": "부산광역시 부산진구 동평로50번길 12  (당감동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광신슈퍼",
+      "address": "부산광역시 부산진구 당감동 617-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신용상회",
+      "address": "부산광역시 부산진구 당감동 479-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원타워상가",
+      "address": "부산광역시 부산진구 당감동 515-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백양슈퍼",
+      "address": "부산광역시 부산진구 부암동 550-11   19 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수정문구사",
+      "address": "부산광역시 부산진구 당감동 479-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호돌이문구사",
+      "address": "부산광역시 부산진구 당감동 498-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미금슈퍼",
+      "address": "부산광역시 부산진구 당감동 685-12   15 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한창슈퍼",
+      "address": "부산광역시 부산진구 당감동 695 6  통1  반",
+      "roadAddress": "부산광역시 부산진구 백양순환로 34  (당감동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명진슈퍼",
+      "address": "부산광역시 부산진구 당감동 774-1    9  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성상회",
+      "address": "부산광역시 부산진구 당감동 691-32   22 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백산슈퍼",
+      "address": "부산광역시 부산진구 당감동 760-1    25 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백양슈퍼",
+      "address": "부산광역시 부산진구 부암동 550-11   19 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한창슈퍼",
+      "address": "부산광역시 부산진구 당감동 695 6  통1  반",
+      "roadAddress": "부산광역시 부산진구 백양순환로 34  (당감동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "부산광역시 부산진구 당감동 700 7  통3  반",
+      "roadAddress": "부산광역시 부산진구 백양순환로28번길 45  (당감동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고목상회",
+      "address": "부산광역시 부산진구 당감동 399 18 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가슈퍼",
+      "address": "부산광역시 부산진구 개금동 우성상가지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "당감슈퍼",
+      "address": "부산광역시 부산진구 당감동 348-12 15통1반",
+      "roadAddress": "부산광역시 부산진구 동평로45번길 18  (당감동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농산물직판장",
+      "address": "부산광역시 부산진구 당감동 680-15 21통1반",
+      "roadAddress": "부산광역시 부산진구 백양순환로 32  (당감동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김천편의점",
+      "address": "부산광역시 부산진구 당감동 386 13통1반",
+      "roadAddress": "부산광역시 부산진구 당감서로 55-1  (당감동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성상회",
+      "address": "부산광역시 부산진구 개금동 국민주택A136 21/",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "본동상회",
+      "address": "부산광역시 부산진구 가야동 산 7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신진상회",
+      "address": "부산광역시 부산진구 가야동 8-32 9통3반",
+      "roadAddress": "부산광역시 부산진구 엄광로338번길 18  (가야동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하동상회",
+      "address": "부산광역시 부산진구 가야동 445-102  8  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태흥슈퍼",
+      "address": "부산광역시 부산진구 가야동 368-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김해쌀상회",
+      "address": "부산광역시 부산진구 가야동 48-80 17통3반",
+      "roadAddress": "부산광역시 부산진구 가야대로614번길 36-16  (가야동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "밀양상회",
+      "address": "부산광역시 부산진구 개금동 국민주택A258 3/2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "국제슈퍼",
+      "address": "부산광역시 부산진구 개금동 523-71",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서원유통",
+      "address": "부산광역시 부산진구 개금동 1-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "부산광역시 부산진구 개금동 605-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아주장식",
+      "address": "부산광역시 부산진구 가야동 370-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미화당가야점",
+      "address": "부산광역시 부산진구 가야동 361-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "부산광역시 부산진구 전포동 27-79   9  통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배가게",
+      "address": "부산광역시 부산진구 가야동 374-5 24통2반",
+      "roadAddress": "부산광역시 부산진구 대학로 11  (가야동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "부산광역시 부산진구 부암동 500 화승상가A",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조양슈퍼",
+      "address": "부산광역시 부산진구 가야동 384-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배가게",
+      "address": "부산광역시 부산진구 가야동 374-5 24통2반",
+      "roadAddress": "부산광역시 부산진구 대학로 11  (가야동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼일슈퍼",
+      "address": "부산광역시 부산진구 가야동 13-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해바라기슈퍼",
+      "address": "부산광역시 부산진구 개금동 171-168",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "88슈퍼",
+      "address": "부산광역시 부산진구 가야동 301-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가야3동새마을금고",
+      "address": "부산광역시 부산진구 가야동 343-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영화슈퍼",
+      "address": "부산광역시 부산진구 가야동 390-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "부산광역시 부산진구 가야동 396",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가야슈퍼",
+      "address": "부산광역시 부산진구 가야동 464-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "부산광역시 부산진구 가야동 445-17   2  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가슈퍼",
+      "address": "부산광역시 부산진구 개금동 우성상가지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가남슈퍼",
+      "address": "부산광역시 부산진구 가야동 450-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "감전상회",
+      "address": "부산광역시 부산진구 가야동 60-37   24 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경주슈퍼",
+      "address": "부산광역시 부산진구 가야동 333-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북쌀상회",
+      "address": "부산광역시 부산진구 개금동 154-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매일유업",
+      "address": "부산광역시 부산진구 개금동 371-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한남슈퍼",
+      "address": "부산광역시 부산진구 개금동 17-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대영상회",
+      "address": "부산광역시 부산진구 개금동 419-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우진슈퍼",
+      "address": "부산광역시 부산진구 개금동 424-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수정슈퍼",
+      "address": "부산광역시 부산진구 개금동 207-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을상회",
+      "address": "부산광역시 부산진구 개금동 480-23   14 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청도쌀집",
+      "address": "부산광역시 부산진구 부암동 597-5    23 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을상회",
+      "address": "부산광역시 부산진구 개금동 480-23   14 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부일상회",
+      "address": "부산광역시 부산진구 개금동 449-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행운슈퍼",
+      "address": "부산광역시 부산진구 범천동 1240-20   21 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "부산광역시 부산진구 개금동 22",
+      "roadAddress": "부산광역시 부산진구 개금본동로 35  (개금동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미화당슈퍼",
+      "address": "부산광역시 부산진구 개금동 1-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공1단지관리사무소",
+      "address": "부산광역시 부산진구 개금동 주공1단지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘지유통",
+      "address": "부산광역시 부산진구 부전동 266-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공슈퍼",
+      "address": "부산광역시 부산진구 개금동 주공2 일반상가1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가슈퍼",
+      "address": "부산광역시 부산진구 개금동 우성상가지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한진슈퍼",
+      "address": "부산광역시 부산진구 개금동 한진상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성도슈퍼",
+      "address": "부산광역시 부산진구 개금동 성도아파트 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "부산광역시 부산진구 개금동 19-2    현대상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "근대화슈퍼",
+      "address": "부산광역시 부산진구 개금동 도개공임대상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구영상회",
+      "address": "부산광역시 부산진구 개금동 373",
+      "roadAddress": "부산광역시 부산진구 개금본동로17번길 42  (개금동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태화비니루",
+      "address": "부산광역시 부산진구 범천동 845-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나로아파트",
+      "address": "부산광역시 부산진구 범천동 1284-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김해슈퍼",
+      "address": "부산광역시 부산진구 범천동 1061",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경동잡화",
+      "address": "부산광역시 부산진구 부전동 168-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경동상회",
+      "address": "부산광역시 부산진구 부전동 168-138",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한일상회",
+      "address": "부산광역시 부산진구 부전동 156-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아르데코",
+      "address": "부산광역시 부산진구 부전동 520-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "민들레슈퍼",
+      "address": "부산광역시 부산진구 초읍동 54-4    8  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "근대화슈퍼",
+      "address": "부산광역시 부산진구 개금동 도개공임대상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "근대화슈퍼(원딩탑마트)",
+      "address": "부산광역시 부산진구 초읍동 215-26   36 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창녕슈퍼",
+      "address": "부산광역시 부산진구 전포동 240-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가슈퍼",
+      "address": "부산광역시 부산진구 개금동 우성상가지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "자연슈퍼",
+      "address": "부산광역시 부산진구 전포동 312-1    2  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대산아파트관리사무소",
+      "address": "부산광역시 부산진구 전포동 327-84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두꺼비슈퍼",
+      "address": "부산광역시 부산진구 전포동 308-22   6  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "근대화슈퍼",
+      "address": "부산광역시 부산진구 개금동 도개공임대상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창녕슈퍼",
+      "address": "부산광역시 부산진구 전포동 240-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영산상회",
+      "address": "부산광역시 부산진구 전포동 418-4    15 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍곡상회",
+      "address": "부산광역시 부산진구 전포동 188-86",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아파트슈퍼",
+      "address": "부산광역시 부산진구 전포동 412-29   21 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동화상회",
+      "address": "부산광역시 부산진구 전포동 317-6    19 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전포아파트관리사무소",
+      "address": "부산광역시 부산진구 전포동 323-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대보상회",
+      "address": "부산광역시 부산진구 전포동 307-15   6  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양슈퍼",
+      "address": "부산광역시 부산진구 부암동 313-1 9통4반",
+      "roadAddress": "부산광역시 부산진구 동평로 185  (부암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대구상회",
+      "address": "부산광역시 부산진구 당감동 26-7    3  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서원유통",
+      "address": "부산광역시 부산진구 개금동 1-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "천일슈퍼",
+      "address": "부산광역시 부산진구 당감동 818-66   5  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "부산광역시 부산진구 부암동 339-4    3  통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우덕상회",
+      "address": "부산광역시 부산진구 당감동 817-13   6  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하동상회",
+      "address": "부산광역시 부산진구 가야동 445-102  8  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남해상회",
+      "address": "부산광역시 부산진구 당감동 87-39   7  통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "부산광역시 부산진구 당감동 818-38   11 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "근대화슈퍼",
+      "address": "부산광역시 부산진구 개금동 도개공임대상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한우식육점",
+      "address": "부산광역시 부산진구 당감동 852-4    14 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지능상회",
+      "address": "부산광역시 부산진구 당감동 851-8    15 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "칠곡상회",
+      "address": "부산광역시 부산진구 당감동 844-14   15 통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "할매슈퍼",
+      "address": "부산광역시 부산진구 당감동 876-11   8  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "국제식육점",
+      "address": "부산광역시 부산진구 당감동 875-2    8  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "울산상회",
+      "address": "부산광역시 부산진구 양정동 445-186  11 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대마트",
+      "address": "부산광역시 부산진구 양정동 448-5    14 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우진철물",
+      "address": "부산광역시 부산진구 당감동 390-1 12통1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오뚜기슈퍼",
+      "address": "부산광역시 부산진구 당감동 384-30 12통4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "부산광역시 부산진구 개금동 19-2    현대상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "부산광역시 부산진구 가야동 657-50   28 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선암상회",
+      "address": "부산광역시 부산진구 당감동 785-80   17 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "부산광역시 부산진구 개금동 605-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진영슈퍼",
+      "address": "부산광역시 부산진구 당감동 703-2    7  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장태식",
+      "address": "부산광역시 부산진구 가야동 405",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안동네슈퍼",
+      "address": "부산광역시 부산진구 개금동 359-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "부산광역시 부산진구 부암동 500 화승상가A",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영신상회",
+      "address": "부산광역시 부산진구 부전동 513-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초읍미화당",
+      "address": "부산광역시 부산진구 초읍동 271-4    46 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화영상회",
+      "address": "부산광역시 부산진구 초읍동 271-6 1통3반",
+      "roadAddress": "부산광역시 부산진구 새싹로 207-6  (초읍동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대산슈퍼",
+      "address": "부산광역시 부산진구 초읍동 272-10   12 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진양상회",
+      "address": "부산광역시 부산진구 초읍동 134-53   35 통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진주슈퍼",
+      "address": "부산광역시 부산진구 개금동 633-2    15 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배집",
+      "address": "부산광역시 부산진구 부암동 366-12   10 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성지슈퍼",
+      "address": "부산광역시 부산진구 초읍동 336-9    18 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초원슈퍼마켓",
+      "address": "부산광역시 부산진구 초읍동 291-3    17 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부일상회",
+      "address": "부산광역시 부산진구 개금동 449-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼마켓",
+      "address": "부산광역시 부산진구 초읍동 249-34   28 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진화상회",
+      "address": "부산광역시 부산진구 초읍동 587-62   42 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "나영이집",
+      "address": "부산광역시 부산진구 초읍동 578 26 통4  반",
+      "roadAddress": "부산광역시 부산진구 성지로113번가길 13-1  (초읍동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성상회",
+      "address": "부산광역시 부산진구 개금동 국민주택A136 21/",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해바라기슈퍼(탑훼미리)",
+      "address": "부산광역시 부산진구 초읍동 224-1    29 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원당슈퍼",
+      "address": "부산광역시 부산진구 초읍동 529-30   30 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영슈퍼",
+      "address": "부산광역시 부산진구 초읍동 500 22 통3  반",
+      "roadAddress": "부산광역시 부산진구 성지로114번길 40  (초읍동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘지슈퍼",
+      "address": "부산광역시 부산진구 양정동 137-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부산슈퍼",
+      "address": "부산광역시 부산진구 부암동 393-2 7통1반",
+      "roadAddress": "부산광역시 부산진구 백양순환로164번길 23  (부암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양정슈퍼",
+      "address": "부산광역시 부산진구 양정동 400-6    30 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을금고분소",
+      "address": "부산광역시 부산진구 양정동 354-6    36 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙상회",
+      "address": "부산광역시 부산진구 전포동 687-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부일슈퍼",
+      "address": "부산광역시 부산진구 개금동 527-140",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무지개슈퍼",
+      "address": "부산광역시 부산진구 전포동 339-15   5  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "`경주상회",
+      "address": "부산광역시 부산진구 전포동 207-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영남슈퍼",
+      "address": "부산광역시 부산진구 전포동 334-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북슈퍼",
+      "address": "부산광역시 부산진구 전포동 685-8    1  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부경미니슈퍼",
+      "address": "부산광역시 부산진구 전포동 305-7    7  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경산슈퍼",
+      "address": "부산광역시 부산진구 전포동 산 26 22 통5반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "24시마켓",
+      "address": "부산광역시 부산진구 부암동 346-21   1  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경남슈퍼",
+      "address": "부산광역시 부산진구 전포동 658-10   39 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘리트문구",
+      "address": "부산광역시 부산진구 가야동 50-7 6통1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청도상회",
+      "address": "부산광역시 부산진구 개금동 438-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경주상회",
+      "address": "부산광역시 부산진구 전포동 207-54   2  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월광상회",
+      "address": "부산광역시 부산진구 부전동 527-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김해상회",
+      "address": "부산광역시 부산진구 양정동 70-2    20 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호성슈퍼",
+      "address": "부산광역시 부산진구 초읍동 124-1    39 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한일상회",
+      "address": "부산광역시 부산진구 부전동 156-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼흥상회",
+      "address": "부산광역시 부산진구 초읍동 271-1    1  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "꼭지슈퍼",
+      "address": "부산광역시 부산진구 초읍동 176-4    13 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동민슈퍼마켓",
+      "address": "부산광역시 부산진구 초읍동 582-5    27 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행운세탁",
+      "address": "부산광역시 부산진구 초읍동 365 49 통1  반 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍년슈퍼",
+      "address": "부산광역시 부산진구 개금동 633-10   8  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보광훼미리마트",
+      "address": "부산광역시 부산진구 양정동 458-5    14 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양상회",
+      "address": "부산광역시 부산진구 전포동 681-1    1  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데(제일)상",
+      "address": "부산광역시 부산진구 전포동 339-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미화슈퍼",
+      "address": "부산광역시 부산진구 전포동 443-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "노태화",
+      "address": "부산광역시 부산진구 전포동 316-118",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "언양슈퍼",
+      "address": "부산광역시 부산진구 전포동 188-151",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행운슈퍼",
+      "address": "부산광역시 부산진구 범천동 1240-20   21 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에이마트",
+      "address": "부산광역시 부산진구 개금동 371-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "부산광역시 부산진구 초읍동 433-1    20 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부산슈퍼대진(부산할인마트)",
+      "address": "부산광역시 부산진구 초읍동 179-7    24 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "부산광역시 부산진구 초읍동 173-20   24 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "부산광역시 부산진구 부암동 500 화승상가A",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대마트",
+      "address": "부산광역시 부산진구 양정동 448-5    14 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "러브슈퍼",
+      "address": "부산광역시 부산진구 양정동 355-38   36 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을금고분소",
+      "address": "부산광역시 부산진구 양정동 354-6    36 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아트타운",
+      "address": "부산광역시 부산진구 양정동 365-22   38 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미화당거창슈퍼",
+      "address": "부산광역시 부산진구 양정동 366-4    39 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가슈퍼",
+      "address": "부산광역시 부산진구 개금동 우성상가지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부원수퍼",
+      "address": "부산광역시 부산진구 양정동 406-6 16통4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배가게",
+      "address": "부산광역시 부산진구 가야동 374-5 24통2반",
+      "roadAddress": "부산광역시 부산진구 대학로 11  (가야동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영광슈퍼",
+      "address": "부산광역시 부산진구 전포동 33-92   4  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오동슈퍼",
+      "address": "부산광역시 부산진구 양정동 315-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가할인마트",
+      "address": "부산광역시 부산진구 부암동 383-3    6  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홈스토아",
+      "address": "부산광역시 부산진구 전포동 243-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은송슈퍼",
+      "address": "부산광역시 부산진구 전포동 316-124  20 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미진마트",
+      "address": "부산광역시 부산진구 당감동 480-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무궁화슈퍼",
+      "address": "부산광역시 부산진구 개금동 634",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "노총소비조합",
+      "address": "부산광역시 부산진구 당감동 791",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강원무지개",
+      "address": "부산광역시 부산진구 당감동 625-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종점상회",
+      "address": "부산광역시 부산진구 당감동 785-15   11 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부광상회",
+      "address": "부산광역시 부산진구 가야동 245-20   1  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주촌쌀상회",
+      "address": "부산광역시 부산진구 가야동 148-5    9  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진사슈퍼",
+      "address": "부산광역시 부산진구 가야동 599 11 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘지스토아",
+      "address": "부산광역시 부산진구 개금동 엘지아파트 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청도상회",
+      "address": "부산광역시 부산진구 개금동 438-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보람슈퍼",
+      "address": "부산광역시 부산진구 개금동 동신개금LG A동상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키마트",
+      "address": "부산광역시 부산진구 개금동 엘지아파트상가 에이동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배포",
+      "address": "부산광역시 부산진구 범전동 73-282  6  통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조이풀슈퍼",
+      "address": "부산광역시 부산진구 부전동 201",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영일상회",
+      "address": "부산광역시 부산진구 부전동 149-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배포",
+      "address": "부산광역시 부산진구 범전동 73-282  6  통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘지25 편의점",
+      "address": "부산광역시 부산진구 부전동 165-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐112호점",
+      "address": "부산광역시 부산진구 부전동 521-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시나브로",
+      "address": "부산광역시 부산진구 부전동 233-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트네오포스점",
+      "address": "부산광역시 부산진구 부전동 450",
+      "roadAddress": "부산광역시 부산진구 신천대로 122  (부전동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정심상회",
+      "address": "부산광역시 부산진구 부전동 456-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마산상회",
+      "address": "부산광역시 부산진구 초읍동 291-15   17 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성진할인마트",
+      "address": "부산광역시 부산진구 초읍동 181-14   23 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청송상회",
+      "address": "부산광역시 부산진구 양정동 445-305  3  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동일슈퍼",
+      "address": "부산광역시 부산진구 가야동 445-12   9  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "학생사",
+      "address": "부산광역시 부산진구 양정동 502-21   6  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명슈퍼",
+      "address": "부산광역시 부산진구 가야동 510-12   9  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "울산상회",
+      "address": "부산광역시 부산진구 양정동 445-186  11 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "부산광역시 부산진구 양정동 393-18   32 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에스마트",
+      "address": "부산광역시 부산진구 양정동 369-3    32 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "큐마트",
+      "address": "부산광역시 부산진구 양정동 362-11   35 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘지슈퍼",
+      "address": "부산광역시 부산진구 양정동 137-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "탑페밀리마트양정점",
+      "address": "부산광역시 부산진구 양정동 138-10 2통4반",
+      "roadAddress": "부산광역시 부산진구 연수로 47-2  (양정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "부산광역시 부산진구 양정동 337-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보현마트",
+      "address": "부산광역시 부산진구 양정동 116-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "근대화체인",
+      "address": "부산광역시 부산진구 양정동 81-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양정슈퍼",
+      "address": "부산광역시 부산진구 양정동 400-6    30 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니마트",
+      "address": "부산광역시 부산진구 양정동 271-54   12 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국까르푸",
+      "address": "부산광역시 부산진구 전포동 892-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "부산광역시 부산진구 부암동 601-18 19통3반",
+      "roadAddress": "부산광역시 부산진구 부암당산로21번길 34-4  (부암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용수슈퍼",
+      "address": "부산광역시 부산진구 당감동 818-78   5  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한일상회(농심가)",
+      "address": "부산광역시 부산진구 당감동 123 태화현대아파트 209동 802호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원상회",
+      "address": "부산광역시 부산진구 당감동 486",
+      "roadAddress": "부산광역시 부산진구 백양대로136번길 80  (당감동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창윤설비",
+      "address": "부산광역시 부산진구 당감동 617-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가할인마트",
+      "address": "부산광역시 부산진구 부암동 383-3    6  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공할인마트",
+      "address": "부산광역시 부산진구 당감동 797",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔팔편의점",
+      "address": "부산광역시 부산진구 당감동 754-2    5  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "OK 할인마트",
+      "address": "부산광역시 부산진구 당감동 797",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시티마트",
+      "address": "부산광역시 부산진구 당감동 794",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘지슈퍼렛",
+      "address": "부산광역시 부산진구 가야동 50-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부산직판장",
+      "address": "부산광역시 부산진구 가야동 8-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "부산광역시 부산진구 부암동 500 화승상가A",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가마트",
+      "address": "부산광역시 부산진구 개금동 동원아파트지하상가 10호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배가게",
+      "address": "부산광역시 부산진구 가야동 374-5 24통2반",
+      "roadAddress": "부산광역시 부산진구 대학로 11  (가야동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "푸른상회",
+      "address": "부산광역시 부산진구 개금동 현대상가 204호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "네오스포슈퍼",
+      "address": "부산광역시 부산진구 부전동 450",
+      "roadAddress": "부산광역시 부산진구 신천대로 122  (부전동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘지25서면문화",
+      "address": "부산광역시 부산진구 부전동 517-55",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동남슈퍼",
+      "address": "부산광역시 부산진구 부전동 524-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘지25서면",
+      "address": "부산광역시 부산진구 부전동 257-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조이풀슈퍼",
+      "address": "부산광역시 부산진구 부전동 201",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘지25서면센터점",
+      "address": "부산광역시 부산진구 부전동 241-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼진상회(담배포)",
+      "address": "부산광역시 부산진구 부전동 168-448",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만호슈퍼",
+      "address": "부산광역시 부산진구 부전동 535-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진주슈퍼",
+      "address": "부산광역시 부산진구 개금동 633-2    15 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼진연쇄점",
+      "address": "부산광역시 부산진구 부전동 187-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경창슈퍼",
+      "address": "부산광역시 부산진구 전포동 191-227  29 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하진상회(근대화)",
+      "address": "부산광역시 부산진구 초읍동 272-9    12 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "부산광역시 부산진구 개금동 605-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초읍할인마트",
+      "address": "부산광역시 부산진구 초읍동 218-5    29 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일식육점(마트)",
+      "address": "부산광역시 부산진구 초읍동 427 22 통2  반",
+      "roadAddress": "부산광역시 부산진구 성지로104번길 60  (초읍동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥쌀집",
+      "address": "부산광역시 부산진구 초읍동 501-14   44 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한신할인마트",
+      "address": "부산광역시 부산진구 초읍동 222-7    29 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새동래상회",
+      "address": "부산광역시 부산진구 양정동 521 1  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서원윈마트",
+      "address": "부산광역시 부산진구 양정동 523-33   6  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅마트",
+      "address": "부산광역시 부산진구 양정동 445-75   8  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북가구",
+      "address": "부산광역시 부산진구 양정동 389-15   32 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트양정스타점",
+      "address": "부산광역시 부산진구 양정동 336-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만복편의점",
+      "address": "부산광역시 부산진구 전포동 206-15   7  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "로타리담배집",
+      "address": "부산광역시 부산진구 부암동 23-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "메리움슈퍼",
+      "address": "부산광역시 부산진구 부암동 69-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일성인포아파트",
+      "address": "부산광역시 부산진구 부암동 55-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진주상회",
+      "address": "부산광역시 부산진구 부암동 37-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿모닝마트",
+      "address": "부산광역시 부산진구 부암동 208-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼보문방구",
+      "address": "부산광역시 부산진구 부암동 223 36 통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우정슈퍼",
+      "address": "부산광역시 부산진구 부암동 598-4    21 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서원탑훼밀리",
+      "address": "부산광역시 부산진구 부암동 133-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신안상회",
+      "address": "부산광역시 부산진구 당감동 629-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "당평슈퍼",
+      "address": "부산광역시 부산진구 당감동 516",
+      "roadAddress": "부산광역시 부산진구 백양관문로 10  (당감동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강원편의점",
+      "address": "부산광역시 부산진구 당감동 515-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세일(당감점)",
+      "address": "부산광역시 부산진구 당감동 516-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영24마트",
+      "address": "부산광역시 부산진구 당감동 699-2    7  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성신",
+      "address": "부산광역시 부산진구 가야동 14-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배가게",
+      "address": "부산광역시 부산진구 가야동 374-5 24통2반",
+      "roadAddress": "부산광역시 부산진구 대학로 11  (가야동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔팔슈퍼",
+      "address": "부산광역시 부산진구 가야동 3-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다조은슈퍼",
+      "address": "부산광역시 부산진구 개금동 398",
+      "roadAddress": "부산광역시 부산진구 백양대로260번길 48  (개금동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오케이 슈퍼",
+      "address": "부산광역시 부산진구 개금동 277-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한얼슈퍼",
+      "address": "부산광역시 부산진구 범천동 849-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고성체인점",
+      "address": "부산광역시 부산진구 부전동 127 1통4  반",
+      "roadAddress": "부산광역시 부산진구 중앙대로756번길 10  (부전동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "부산광역시 부산진구 개금동 19-2    현대상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화성상회",
+      "address": "부산광역시 부산진구 부전동 456-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "비락슈퍼",
+      "address": "부산광역시 부산진구 부전동 255-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북상회",
+      "address": "부산광역시 부산진구 개금동 633-23   7  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼산상회",
+      "address": "부산광역시 부산진구 부전동 168-403",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    }
+  ]
+}

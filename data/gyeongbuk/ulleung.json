@@ -1,0 +1,360 @@
+{
+  "region": "경상북도",
+  "regionSlug": "gyeongbuk",
+  "district": "울릉군",
+  "districtSlug": "ulleung",
+  "updatedAt": "2026-03-26",
+  "totalCount": 50,
+  "stores": [
+    {
+      "name": "광창상회",
+      "address": "경상북도 울릉군 울릉읍 도동리 113-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-22"
+    },
+    {
+      "name": "24시 편의점",
+      "address": "경상북도 울릉군 울릉읍 도동리 185-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일제과",
+      "address": "경상북도 울릉군 울릉읍 도동리 178-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "울릉마트",
+      "address": "경상북도 울릉군 울릉읍 도동리 224",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "도동식품",
+      "address": "경상북도 울릉군 울릉읍 도동리 181",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전한슈퍼",
+      "address": "경상북도 울릉군 울릉읍 도동리 577",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경일식품",
+      "address": "경상북도 울릉군 울릉읍 도동리 121",
+      "roadAddress": "경상북도 울릉군 울릉읍 도동1길 19",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경명상회",
+      "address": "경상북도 울릉군 울릉읍 도동리 284",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미도슈퍼",
+      "address": "경상북도 울릉군 울릉읍 도동리 338-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "항구슈퍼",
+      "address": "경상북도 울릉군 울릉읍 도동리 375-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종점슈퍼",
+      "address": "경상북도 울릉군 울릉읍 도동리 373-35",
+      "roadAddress": "경상북도 울릉군 울릉읍 봉래길 93",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화신슈퍼",
+      "address": "경상북도 울릉군 울릉읍 저동리 57",
+      "roadAddress": "경상북도 울릉군 울릉읍 저동1길 21-13",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성인상회",
+      "address": "경상북도 울릉군 울릉읍 저동리 91-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "앵무새상회",
+      "address": "경상북도 울릉군 울릉읍 도동리 211-5",
+      "roadAddress": "경상북도 울릉군 울릉읍 도동2길 81",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일광식품",
+      "address": "경상북도 울릉군 울릉읍 도동리 186",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕성상회",
+      "address": "경상북도 울릉군 울릉읍 도동리 42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "약수상회",
+      "address": "경상북도 울릉군 울릉읍 도동리 162-2",
+      "roadAddress": "경상북도 울릉군 울릉읍 약수터길 21",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대우상회",
+      "address": "경상북도 울릉군 울릉읍 도동리 577-13",
+      "roadAddress": "경상북도 울릉군 울릉읍 도동길 209-2",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경상북도 울릉군 울릉읍 도동리 206-21",
+      "roadAddress": "경상북도 울릉군 울릉읍 행남길 16",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한남체인",
+      "address": "경상북도 울릉군 울릉읍 도동리 71",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북설비",
+      "address": "경상북도 울릉군 울릉읍 도동리 377-1 어판장",
+      "roadAddress": "경상북도 울릉군 울릉읍 봉래3길 26",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영주슈퍼",
+      "address": "경상북도 울릉군 울릉읍 도동리 297-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "저동슈퍼",
+      "address": "경상북도 울릉군 울릉읍 도동리 373-9",
+      "roadAddress": "경상북도 울릉군 울릉읍 봉래길 53",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "저동24시편의점",
+      "address": "경상북도 울릉군 울릉읍 도동리 336-1",
+      "roadAddress": "경상북도 울릉군 울릉읍 봉래2길 7",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름상회",
+      "address": "경상북도 울릉군 울릉읍 도동리 332-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉래슈퍼",
+      "address": "경상북도 울릉군 울릉읍 도동리 373-35",
+      "roadAddress": "경상북도 울릉군 울릉읍 봉래길 93",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼미상회",
+      "address": "경상북도 울릉군 울릉읍 저동리 52-19",
+      "roadAddress": "경상북도 울릉군 울릉읍 저동길 8",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕성슈퍼",
+      "address": "경상북도 울릉군 울릉읍 저동리 53",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리편의점",
+      "address": "경상북도 울릉군 울릉읍 저동리 63-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "또와슈퍼",
+      "address": "경상북도 울릉군 울릉읍 저동리 57",
+      "roadAddress": "경상북도 울릉군 울릉읍 저동1길 21-13",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고향상회",
+      "address": "경상북도 울릉군 울릉읍 저동리 348",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사동슈퍼",
+      "address": "경상북도 울릉군 울릉읍 사동리 251-1",
+      "roadAddress": "경상북도 울릉군 울릉읍 울릉순환로 606",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경일상회",
+      "address": "경상북도 울릉군 북면 현포리 518",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상북도 울릉군 서면 남양리 609-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "거북상회",
+      "address": "경상북도 울릉군 서면 남양리 154-2",
+      "roadAddress": "경상북도 울릉군 서면 울릉순환로 1066",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한일상회",
+      "address": "경상북도 울릉군 서면 태하리 642-6",
+      "roadAddress": "경상북도 울릉군 서면 태하1길 11-2",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일상회",
+      "address": "경상북도 울릉군 북면 천부리 535-9",
+      "roadAddress": "경상북도 울릉군 북면 천부2길 18",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남양상회",
+      "address": "경상북도 울릉군 서면 남양리 634",
+      "roadAddress": "경상북도 울릉군 서면 남양4길 19",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대구슈퍼",
+      "address": "경상북도 울릉군 서면 남양리 651",
+      "roadAddress": "경상북도 울릉군 서면 남양4길 24",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "경상북도 울릉군 서면 남양리 646",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창녕상회",
+      "address": "경상북도 울릉군 서면 남서리 489",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일상회",
+      "address": "경상북도 울릉군 북면 천부리 535-9",
+      "roadAddress": "경상북도 울릉군 북면 천부2길 18",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경주곡물상회",
+      "address": "경상북도 울릉군 북면 천부리 528-7",
+      "roadAddress": "경상북도 울릉군 북면 천부1길 14",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대북슈퍼",
+      "address": "경상북도 울릉군 북면 천부리 509-12",
+      "roadAddress": "경상북도 울릉군 북면 천부1길 27",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "경상북도 울릉군 북면 천부리 514-4",
+      "roadAddress": "경상북도 울릉군 북면 천부1길 3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강남상회",
+      "address": "경상북도 울릉군 북면 천부리 535-18",
+      "roadAddress": "경상북도 울릉군 북면 천부길 19-10",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "곡물상회",
+      "address": "경상북도 울릉군 북면 천부리 518-1",
+      "roadAddress": "경상북도 울릉군 북면 천부길 24",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보성상회",
+      "address": "경상북도 울릉군 북면 현포리 572",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경일상회",
+      "address": "경상북도 울릉군 북면 현포리 518",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상북도 울릉군 서면 남양리 609-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    }
+  ]
+}

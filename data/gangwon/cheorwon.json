@@ -1,0 +1,1053 @@
+{
+  "region": "강원특별자치도",
+  "regionSlug": "gangwon",
+  "district": "철원군",
+  "districtSlug": "cheorwon",
+  "updatedAt": "2026-03-26",
+  "totalCount": 149,
+  "stores": [
+    {
+      "name": "경북슈퍼",
+      "address": "강원특별자치도 철원군 갈말읍 신철원리 7반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "갈말농업협동조합",
+      "address": "강원특별자치도 철원군 갈말읍 신철원리 600-24",
+      "roadAddress": "강원특별자치도 철원군 갈말읍 삼부연로 17",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "창평상회",
+      "address": "강원특별자치도 철원군 갈말읍 신철원리 7반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "사거리슈퍼",
+      "address": "강원특별자치도 철원군 갈말읍 지포리 45-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "삼호슈퍼",
+      "address": "강원특별자치도 철원군 갈말읍 지포리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "흥부슈퍼",
+      "address": "강원특별자치도 철원군 갈말읍 지포리 4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "포천슈퍼",
+      "address": "강원특별자치도 철원군 갈말읍 문혜리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "문혜슈퍼",
+      "address": "강원특별자치도 철원군 갈말읍 문혜리 2통1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "군탄구판장",
+      "address": "강원특별자치도 철원군 갈말읍 군탄리 1통3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "윗군탄구판장",
+      "address": "강원특별자치도 철원군 갈말읍 군탄리 1통7반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "종점상회",
+      "address": "강원특별자치도 철원군 갈말읍 내대리 1통6반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "미성슈퍼",
+      "address": "강원특별자치도 철원군 동송읍 이평리 1통5반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "승진슈퍼",
+      "address": "강원특별자치도 철원군 동송읍 이평리 2통6반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "막복슈퍼",
+      "address": "강원특별자치도 철원군 동송읍 이평리 4통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "정아슈퍼",
+      "address": "강원특별자치도 철원군 동송읍 이평리 11통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "대천슈퍼",
+      "address": "강원특별자치도 철원군 동송읍 오덕리 2통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "재은상회",
+      "address": "강원특별자치도 철원군 동송읍 오덕리 6통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "상노상회",
+      "address": "강원특별자치도 철원군 동송읍 상노리 1통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "부국상회",
+      "address": "강원특별자치도 철원군 서면 2통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "부산슈퍼",
+      "address": "강원특별자치도 철원군 서면 자등리 3통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "원동상회",
+      "address": "강원특별자치도 철원군 서면 자등리 3통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "영흥슈퍼",
+      "address": "강원특별자치도 철원군 서면 자등리 4통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "대성상회",
+      "address": "강원특별자치도 철원군 서면 자등리 4통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "영지상회",
+      "address": "강원특별자치도 철원군 서면 자등리 5통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "민호네상회",
+      "address": "강원특별자치도 철원군 서면 와수리 1통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "풍년슈퍼",
+      "address": "강원특별자치도 철원군 서면 와수리 1통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "영진상회",
+      "address": "강원특별자치도 철원군 서면 와수리 1통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "강원특별자치도 철원군 서면 와수리 2통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "효성상회",
+      "address": "강원특별자치도 철원군 서면 와수리 3통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-08-21"
+    },
+    {
+      "name": "용동상회",
+      "address": "강원특별자치도 철원군 서면 와수리 4통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "호남상회",
+      "address": "강원특별자치도 철원군 서면 와수리 6통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "유신상회",
+      "address": "강원특별자치도 철원군 근남면 육단리 2통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "방화상회",
+      "address": "강원특별자치도 철원군 근남면 잠곡리 3통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-01-13"
+    },
+    {
+      "name": "종점상회",
+      "address": "강원특별자치도 철원군 근남면 마현리 1통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "삼화슈퍼",
+      "address": "강원특별자치도 철원군 갈말읍 신철원리 1통7반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-09"
+    },
+    {
+      "name": "청원상회",
+      "address": "강원특별자치도 철원군 갈말읍 신철원리 1통7반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-09"
+    },
+    {
+      "name": "새한슈퍼",
+      "address": "강원특별자치도 철원군 갈말읍 신철원리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-09"
+    },
+    {
+      "name": "순담식당",
+      "address": "강원특별자치도 철원군 갈말읍 군탄리 1통8반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-09"
+    },
+    {
+      "name": "목련상회",
+      "address": "강원특별자치도 철원군 갈말읍 군탄리 1통8반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "삼양체인",
+      "address": "강원특별자치도 철원군 갈말읍 토성리 3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "중앙하이슈퍼",
+      "address": "강원특별자치도 철원군 갈말읍 신철원리 4통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-10"
+    },
+    {
+      "name": "동송농협협동조합",
+      "address": "강원특별자치도 철원군 동송읍 오덕리 1400",
+      "roadAddress": "강원특별자치도 철원군 동송읍 태봉로 2403",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-09"
+    },
+    {
+      "name": "학저수지매점",
+      "address": "강원특별자치도 철원군 동송읍 오덕리 5통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-09"
+    },
+    {
+      "name": "향토휴게실",
+      "address": "강원특별자치도 철원군 동송읍 장흥리 4통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-09"
+    },
+    {
+      "name": "춘천상회",
+      "address": "강원특별자치도 철원군 동송읍 이평리 4통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-09"
+    },
+    {
+      "name": "김화농협하나로마트",
+      "address": "강원특별자치도 철원군 서면 와수리 2통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-09"
+    },
+    {
+      "name": "강릉슈퍼",
+      "address": "강원특별자치도 철원군 동송읍 상노리 1통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-25"
+    },
+    {
+      "name": "부흥상회",
+      "address": "강원특별자치도 철원군 김화읍 학사리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-13"
+    },
+    {
+      "name": "선슈퍼",
+      "address": "강원특별자치도 철원군 갈말읍 신철원리 4통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-15"
+    },
+    {
+      "name": "현대식품",
+      "address": "강원특별자치도 철원군 갈말읍 문혜리 2통4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-15"
+    },
+    {
+      "name": "천황슈퍼",
+      "address": "강원특별자치도 철원군 철원읍 화지리 1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-20"
+    },
+    {
+      "name": "경상도집",
+      "address": "강원특별자치도 철원군 철원읍 화지리 5반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-20"
+    },
+    {
+      "name": "한성유통",
+      "address": "강원특별자치도 철원군 철원읍 화지리 2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-20"
+    },
+    {
+      "name": "종합슈퍼",
+      "address": "강원특별자치도 철원군 갈말읍 지포리 95-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-08"
+    },
+    {
+      "name": "대한슈퍼",
+      "address": "강원특별자치도 철원군 갈말읍 문혜리 4통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-21"
+    },
+    {
+      "name": "대구슈퍼",
+      "address": "강원특별자치도 철원군 동송읍 이평리 11통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-03"
+    },
+    {
+      "name": "학산슈퍼",
+      "address": "강원특별자치도 철원군 동송읍 이평리 9통6반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-03"
+    },
+    {
+      "name": "철원유통",
+      "address": "강원특별자치도 철원군 철원읍 화지리 4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-15"
+    },
+    {
+      "name": "부성유통",
+      "address": "강원특별자치도 철원군 철원읍 화지리 3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-20"
+    },
+    {
+      "name": "태창상회",
+      "address": "강원특별자치도 철원군 갈말읍 문혜리 1통1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-14"
+    },
+    {
+      "name": "삼성상회",
+      "address": "강원특별자치도 철원군 갈말읍 문혜리 4통3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-23"
+    },
+    {
+      "name": "문화상사",
+      "address": "강원특별자치도 철원군 동송읍 이평리 5통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-14"
+    },
+    {
+      "name": "유명슈퍼",
+      "address": "강원특별자치도 철원군 갈말읍 군탄리 1통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-15"
+    },
+    {
+      "name": "25시편의점",
+      "address": "강원특별자치도 철원군 동송읍 이평리 7통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-29"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "강원특별자치도 철원군 서면 와수리 2통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "부완체육사",
+      "address": "강원특별자치도 철원군 서면 자등리 2통1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-14"
+    },
+    {
+      "name": "현대서점",
+      "address": "강원특별자치도 철원군 서면 와수리 1145-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-14"
+    },
+    {
+      "name": "훼미리마트신철원점",
+      "address": "강원특별자치도 철원군 갈말읍 신철원리 1통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-05"
+    },
+    {
+      "name": "자연마트",
+      "address": "강원특별자치도 철원군 서면 와수리 2통3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-07"
+    },
+    {
+      "name": "미광할인마트",
+      "address": "강원특별자치도 철원군 서면 와수리 1216-84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-16"
+    },
+    {
+      "name": "백골군인백화점",
+      "address": "강원특별자치도 철원군 김화읍 청양리 2057-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-25"
+    },
+    {
+      "name": "터미널마트",
+      "address": "강원특별자치도 철원군 갈말읍 강포리 368-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-10"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "강원특별자치도 철원군 동송읍 이평리 5통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "부일슈퍼",
+      "address": "강원특별자치도 철원군 동송읍 이평리 5통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "이화슈퍼",
+      "address": "강원특별자치도 철원군 동송읍 이평리 11통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "세륭슈퍼",
+      "address": "강원특별자치도 철원군 동송읍 오덕리 8통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "오덕슈퍼",
+      "address": "강원특별자치도 철원군 동송읍 오덕리 2통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "영지상회",
+      "address": "강원특별자치도 철원군 동송읍 장흥리 4통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "동송ok마트",
+      "address": "강원특별자치도 철원군 동송읍 이평리 8통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-09"
+    },
+    {
+      "name": "개나리슈퍼",
+      "address": "강원특별자치도 철원군 동송읍 이평리 10통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-03-19"
+    },
+    {
+      "name": "유명슈퍼",
+      "address": "강원특별자치도 철원군 동송읍 이평리 10통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-08"
+    },
+    {
+      "name": "미림여관슈퍼",
+      "address": "강원특별자치도 철원군 동송읍 이평리 854-18 7통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-09"
+    },
+    {
+      "name": "철원유통",
+      "address": "강원특별자치도 철원군 서면 와수리 1172-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-20"
+    },
+    {
+      "name": "유명마트",
+      "address": "강원특별자치도 철원군 철원읍 화지리 83-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-27"
+    },
+    {
+      "name": "그린할인마트",
+      "address": "강원특별자치도 철원군 갈말읍 신철원리 640",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-30"
+    },
+    {
+      "name": "하늬슈퍼",
+      "address": "강원특별자치도 철원군 갈말읍 신철원리 2통1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-12"
+    },
+    {
+      "name": "경북마트",
+      "address": "강원특별자치도 철원군 갈말읍 신철원리 709-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-27"
+    },
+    {
+      "name": "오리슈퍼",
+      "address": "강원특별자치도 철원군 동송읍 오덕리 258-1 5통3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-26"
+    },
+    {
+      "name": "바이더웨이",
+      "address": "강원특별자치도 철원군 동송읍 이평리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-28"
+    },
+    {
+      "name": "은주슈퍼",
+      "address": "강원특별자치도 철원군 동송읍 이평리 7통2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-27"
+    },
+    {
+      "name": "전우사",
+      "address": "강원특별자치도 철원군 서면 자등리 2통1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-13"
+    },
+    {
+      "name": "에덴상회",
+      "address": "강원특별자치도 철원군 서면 와수리 1223-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-26"
+    },
+    {
+      "name": "신진종합상사",
+      "address": "강원특별자치도 철원군 서면 와수리 3통5반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-22"
+    },
+    {
+      "name": "김화농협근남지소",
+      "address": "강원특별자치도 철원군 근남면 육단리 2통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-12"
+    },
+    {
+      "name": "김생자",
+      "address": "강원특별자치도 철원군 갈말읍 신철원리 2통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-09"
+    },
+    {
+      "name": "신철원할인마트",
+      "address": "강원특별자치도 철원군 갈말읍 신철원리 973-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-01"
+    },
+    {
+      "name": "현계체육사",
+      "address": "강원특별자치도 철원군 갈말읍 지경리 82-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-08"
+    },
+    {
+      "name": "제일유통",
+      "address": "강원특별자치도 철원군 동송읍 이평리 680-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-27"
+    },
+    {
+      "name": "시장종합마트",
+      "address": "강원특별자치도 철원군 동송읍 이평리 680",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-12"
+    },
+    {
+      "name": "복지슈퍼",
+      "address": "강원특별자치도 철원군 서면 와수리 1148-5 2통5반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-09-05"
+    },
+    {
+      "name": "백마슈퍼",
+      "address": "강원특별자치도 철원군 서면 와수리 864-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "황해슈퍼",
+      "address": "강원특별자치도 철원군 서면 와수리 3통4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-23"
+    },
+    {
+      "name": "상록상회",
+      "address": "강원특별자치도 철원군 서면 와수리 1343-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-02"
+    },
+    {
+      "name": "산호마트",
+      "address": "강원특별자치도 철원군 철원읍 화지리 69-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-07"
+    },
+    {
+      "name": "양구상회",
+      "address": "강원특별자치도 철원군 김화읍 청양리 5반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-10-17"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "강원특별자치도 철원군 갈말읍 문혜리 2통4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-25"
+    },
+    {
+      "name": "이십사시슈퍼",
+      "address": "강원특별자치도 철원군 갈말읍 문혜리 1109-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-02-28"
+    },
+    {
+      "name": "철원슈퍼",
+      "address": "강원특별자치도 철원군 동송읍 이평리 4통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    },
+    {
+      "name": "만남휴게소",
+      "address": "강원특별자치도 철원군 김화읍 청양리 4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-10-16"
+    },
+    {
+      "name": "행복슈퍼",
+      "address": "강원특별자치도 철원군 갈말읍 신철원리 489-27 4통5반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-03"
+    },
+    {
+      "name": "솔로몬슈퍼",
+      "address": "강원특별자치도 철원군 갈말읍 군탄리 447-14 1통6반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-10"
+    },
+    {
+      "name": "약수쉼터",
+      "address": "강원특별자치도 철원군 갈말읍 신철원리 217-31 3통1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-04"
+    },
+    {
+      "name": "GS25신철원점",
+      "address": "강원특별자치도 철원군 갈말읍 신철원리 973-2 1통4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-27"
+    },
+    {
+      "name": "바이더웨이동송터미널점",
+      "address": "강원특별자치도 철원군 동송읍 이평리 680-59",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-11-27"
+    },
+    {
+      "name": "ㅆ에스유통철원점",
+      "address": "강원특별자치도 철원군 동송읍 이평리 704-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-26"
+    },
+    {
+      "name": "태봉마트",
+      "address": "강원특별자치도 철원군 갈말읍 군탄리 951-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-28"
+    },
+    {
+      "name": "훼미리마트신철원중앙점",
+      "address": "강원특별자치도 철원군 갈말읍 신철원리 977-3 2통9반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-08"
+    },
+    {
+      "name": "훼미리마트문혜리점",
+      "address": "강원특별자치도 철원군 갈말읍 문혜리 895-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-26"
+    },
+    {
+      "name": "에스엠신철원점",
+      "address": "강원특별자치도 철원군 갈말읍 지포리 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-13"
+    },
+    {
+      "name": "미성슈퍼",
+      "address": "강원특별자치도 철원군 동송읍 이평리 261 1통5반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-24"
+    },
+    {
+      "name": "GS25철원서면점",
+      "address": "강원특별자치도 철원군 서면 자등리 732-1 4통2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-30"
+    },
+    {
+      "name": "현대사",
+      "address": "강원특별자치도 철원군 서면 자등리 725-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-16"
+    },
+    {
+      "name": "필승마트",
+      "address": "강원특별자치도 철원군 근남면 육단리 3통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-14"
+    },
+    {
+      "name": "대웅마트",
+      "address": "강원특별자치도 철원군 근남면 육단리 283-59 2통7반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-28"
+    },
+    {
+      "name": "홍천마트",
+      "address": "강원특별자치도 철원군 근남면 육단리 283-70",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-31"
+    },
+    {
+      "name": "백골마트",
+      "address": "강원특별자치도 철원군 김화읍 청양리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-23"
+    },
+    {
+      "name": "고향산천",
+      "address": "강원특별자치도 철원군 김화읍 청양리 421",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-06"
+    },
+    {
+      "name": "지포리업소도매점",
+      "address": "강원특별자치도 철원군 갈말읍 신철원리 632",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-02-14"
+    },
+    {
+      "name": "동송마트",
+      "address": "강원특별자치도 철원군 동송읍 이평리 2통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-09"
+    },
+    {
+      "name": "동송종합모타",
+      "address": "강원특별자치도 철원군 동송읍 이평리 682-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-09-08"
+    },
+    {
+      "name": "삼성마트",
+      "address": "강원특별자치도 철원군 서면 자등리 3통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-21"
+    },
+    {
+      "name": "와수리공판장",
+      "address": "강원특별자치도 철원군 서면 와수리 1135",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-03-21"
+    },
+    {
+      "name": "대중상회",
+      "address": "강원특별자치도 철원군 근남면 잠곡리 239-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "보광훼미리마트철원금강점",
+      "address": "강원특별자치도 철원군 동송읍 이평리 705-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-29"
+    },
+    {
+      "name": "바이더웨이 철원.동송주공점",
+      "address": "강원특별자치도 철원군 동송읍 이평리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-12"
+    },
+    {
+      "name": "미래사",
+      "address": "강원특별자치도 철원군 동송읍 이평리 854-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-28"
+    },
+    {
+      "name": "gs25지경삼거리점",
+      "address": "강원특별자치도 철원군 갈말읍 지경리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-26"
+    },
+    {
+      "name": "성진식품",
+      "address": "강원특별자치도 철원군 동송읍 이평리 680-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-22"
+    },
+    {
+      "name": "이마트24 철원금학로점",
+      "address": "강원특별자치도 철원군 철원읍 화지리 83-21",
+      "roadAddress": "강원특별자치도 철원군 철원읍 금학로317번길 19",
+      "status": "영업/정상",
+      "licenseDate": "2015-12-07"
+    },
+    {
+      "name": "영풍상회",
+      "address": "강원특별자치도 철원군 김화읍 학사리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-23"
+    },
+    {
+      "name": "담배가게",
+      "address": "강원특별자치도 철원군 김화읍 생창리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-23"
+    },
+    {
+      "name": "생창상회",
+      "address": "강원특별자치도 철원군 김화읍 생창리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-23"
+    },
+    {
+      "name": "종점상회",
+      "address": "강원특별자치도 철원군 김화읍 생창리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-23"
+    },
+    {
+      "name": "아름상회",
+      "address": "강원특별자치도 철원군 김화읍 청양리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-23"
+    },
+    {
+      "name": "중앙마트",
+      "address": "강원특별자치도 철원군 김화읍 청양리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-23"
+    },
+    {
+      "name": "금화상회",
+      "address": "강원특별자치도 철원군 김화읍 도창리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-23"
+    },
+    {
+      "name": "부강슈퍼",
+      "address": "강원특별자치도 철원군 김화읍 도창리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-23"
+    },
+    {
+      "name": "안암슈퍼",
+      "address": "강원특별자치도 철원군 김화읍 도창리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-23"
+    },
+    {
+      "name": "환준식품",
+      "address": "강원특별자치도 철원군 갈말읍 신철원리 6반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-19"
+    }
+  ]
+}

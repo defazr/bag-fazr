@@ -1,0 +1,98 @@
+{
+  "region": "경상남도",
+  "regionSlug": "gyeongnam",
+  "updatedAt": "2026-03-26",
+  "totalCount": 4946,
+  "districts": [
+    {
+      "district": "창녕군",
+      "districtSlug": "changnyeong",
+      "count": 116
+    },
+    {
+      "district": "창원시",
+      "districtSlug": "changwon",
+      "count": 433
+    },
+    {
+      "district": "거창군",
+      "districtSlug": "geochang",
+      "count": 189
+    },
+    {
+      "district": "거제시",
+      "districtSlug": "geoje",
+      "count": 543
+    },
+    {
+      "district": "김해시",
+      "districtSlug": "gimhae",
+      "count": 1493
+    },
+    {
+      "district": "고성군",
+      "districtSlug": "gsngoseong",
+      "count": 7
+    },
+    {
+      "district": "하동군",
+      "districtSlug": "hadong",
+      "count": 6
+    },
+    {
+      "district": "함안군",
+      "districtSlug": "haman",
+      "count": 134
+    },
+    {
+      "district": "함양군",
+      "districtSlug": "hamyang",
+      "count": 5
+    },
+    {
+      "district": "합천군",
+      "districtSlug": "hapcheon",
+      "count": 1
+    },
+    {
+      "district": "진주시",
+      "districtSlug": "jinju",
+      "count": 596
+    },
+    {
+      "district": "밀양시",
+      "districtSlug": "miryang",
+      "count": 1
+    },
+    {
+      "district": "남해군",
+      "districtSlug": "namhae",
+      "count": 275
+    },
+    {
+      "district": "사천시",
+      "districtSlug": "sacheon",
+      "count": 111
+    },
+    {
+      "district": "산청군",
+      "districtSlug": "sancheong",
+      "count": 36
+    },
+    {
+      "district": "통영시",
+      "districtSlug": "tongyeong",
+      "count": 1
+    },
+    {
+      "district": "의령군",
+      "districtSlug": "uiryeong",
+      "count": 196
+    },
+    {
+      "district": "양산시",
+      "districtSlug": "yangsan",
+      "count": 803
+    }
+  ]
+}

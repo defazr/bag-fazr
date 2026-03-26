@@ -1,0 +1,3461 @@
+{
+  "region": "대구광역시",
+  "regionSlug": "daegu",
+  "district": "수성구",
+  "districtSlug": "suseong",
+  "updatedAt": "2026-03-26",
+  "totalCount": 493,
+  "stores": [
+    {
+      "name": "(주)이마트 만촌점",
+      "address": "대구광역시 수성구 만촌동 1356-5",
+      "roadAddress": "대구광역시 수성구 동원로 136 (만촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2010-09-10"
+    },
+    {
+      "name": "개인",
+      "address": "대구광역시 북구 복현동 609번지 28호",
+      "roadAddress": "대구광역시 수성구 달구벌대로641길 31, 101동 207호 (매호동, 매호 화성파크드림)",
+      "status": "영업/정상",
+      "licenseDate": "2017-03-20"
+    },
+    {
+      "name": "황금2동사무소",
+      "address": "대구광역시 수성구 황금동 541-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-05"
+    },
+    {
+      "name": "고산2동사무소",
+      "address": "대구광역시 수성구 시지동 140-3",
+      "roadAddress": "대구광역시 수성구 달구벌대로 3091  (시지동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-05"
+    },
+    {
+      "name": "고산3동사무소",
+      "address": "대구광역시 수성구 매호동 1325-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지산2동사무소",
+      "address": "대구광역시 수성구 지산동 1249-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-05"
+    },
+    {
+      "name": "고산1동사무소",
+      "address": "대구광역시 수성구 신매동 193-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-05"
+    },
+    {
+      "name": "엘지25범어화성점",
+      "address": "대구광역시 수성구 범어동 43-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-16"
+    },
+    {
+      "name": "우방참마트",
+      "address": "대구광역시 수성구 황금동 240 우방타운상가1층12-1",
+      "roadAddress": "대구광역시 수성구 청수로 274  (황금동,우방타운상가1층12-1)",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-16"
+    },
+    {
+      "name": "훼미리마트사월점",
+      "address": "대구광역시 수성구 만촌동 1356-7    메트로팔래스206-205",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사월슈퍼",
+      "address": "대구광역시 수성구 사월동 366-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-21"
+    },
+    {
+      "name": "가든하이츠1단지 관리소",
+      "address": "대구광역시 수성구 범어동 300 가든하이츠 102동 403호",
+      "roadAddress": "대구광역시 수성구 범어로 45, 102동 403호 (범어동,가든하이츠)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청산오투바이수리센타",
+      "address": "대구광역시 수성구 만촌동 234-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-25"
+    },
+    {
+      "name": "엘에이파크24",
+      "address": "대구광역시 수성구 지산동 667",
+      "roadAddress": "대구광역시 수성구 지산로 71  (지산동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-28"
+    },
+    {
+      "name": "에스할인마트",
+      "address": "대구광역시 수성구 두산동 79-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-06"
+    },
+    {
+      "name": "홈마트",
+      "address": "대구광역시 수성구 수성동1가 95",
+      "roadAddress": "대구광역시 수성구 달구벌대로454길 7  (수성동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-08"
+    },
+    {
+      "name": "유앤아이",
+      "address": "대구광역시 수성구 두산동 206-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-20"
+    },
+    {
+      "name": "행운마트",
+      "address": "대구광역시 수성구 만촌동 985-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-03"
+    },
+    {
+      "name": "훼미리마트만촌점",
+      "address": "대구광역시 수성구 만촌동 872-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "대구광역시 수성구 범어동 64-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-09"
+    },
+    {
+      "name": "조은할인마트",
+      "address": "대구광역시 수성구 욱수동 178",
+      "roadAddress": "대구광역시 수성구 욱수천로 19  (욱수동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-11"
+    },
+    {
+      "name": "푸른마트",
+      "address": "대구광역시 수성구 시지동 251-42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-16"
+    },
+    {
+      "name": "코사마트 수성점",
+      "address": "대구광역시 수성구 수성동1가 251-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-24"
+    },
+    {
+      "name": "원마트",
+      "address": "대구광역시 수성구 상동 538-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-31"
+    },
+    {
+      "name": "우리유통",
+      "address": "대구광역시 수성구 중동 7-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이화",
+      "address": "대구광역시 수성구 범어동 191-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-03"
+    },
+    {
+      "name": "훼미리마트만촌메트로점",
+      "address": "대구광역시 수성구 범물동 1281 청구타운 203동 403호",
+      "roadAddress": "대구광역시 수성구 지범로39길 12, 203동 403호 (범물동,청구타운)",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-03"
+    },
+    {
+      "name": "훼미리마트범어제일점",
+      "address": "대구광역시 수성구 만촌동 1007-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-22"
+    },
+    {
+      "name": "송이마트",
+      "address": "대구광역시 수성구 수성동4가 1020-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-13"
+    },
+    {
+      "name": "대백마트상동점",
+      "address": "대구광역시 수성구 상동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-13"
+    },
+    {
+      "name": "상동할인마트",
+      "address": "대구광역시 수성구 상동 567-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-13"
+    },
+    {
+      "name": "늘푸른마트",
+      "address": "대구광역시 수성구 상동 34-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-02"
+    },
+    {
+      "name": "오복수퍼",
+      "address": "대구광역시 수성구 상동 321-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-08"
+    },
+    {
+      "name": "상동축산물판매장",
+      "address": "대구광역시 수성구 상동 196-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-08"
+    },
+    {
+      "name": "삼일슈퍼",
+      "address": "대구광역시 수성구 두산동 44-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-11"
+    },
+    {
+      "name": "Lee Mart 할인 매장",
+      "address": "대구광역시 수성구 범어동 804-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-12"
+    },
+    {
+      "name": "덕원부동산(담배판매소)",
+      "address": "대구광역시 수성구 범어동 1240",
+      "roadAddress": "대구광역시 수성구 들안로 400  (범어동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-12"
+    },
+    {
+      "name": "X-1 24편의점",
+      "address": "대구광역시 수성구 지산동 944",
+      "roadAddress": "대구광역시 수성구 동대구로 104  (지산동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-12"
+    },
+    {
+      "name": "수성동아아파트관리실",
+      "address": "대구광역시 수성구 두산동 789-6    수성동아아파트 8동 302호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-15"
+    },
+    {
+      "name": "평화마트",
+      "address": "대구광역시 수성구 시지동 495-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "케이플러스마트",
+      "address": "대구광역시 수성구 범어동 212-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-03"
+    },
+    {
+      "name": "에스할인마트",
+      "address": "대구광역시 수성구 두산동 79-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-24"
+    },
+    {
+      "name": "우방츨러스",
+      "address": "대구광역시 수성구 중동 392-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-24"
+    },
+    {
+      "name": "영할인마트",
+      "address": "대구광역시 수성구 만촌동 657-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-06"
+    },
+    {
+      "name": "훼미리마트들안길점",
+      "address": "대구광역시 수성구 두산동 153-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-06"
+    },
+    {
+      "name": "솔마트",
+      "address": "대구광역시 수성구 지산동 517-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-06"
+    },
+    {
+      "name": "에덴슈퍼",
+      "address": "대구광역시 수성구 파동 488-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-10"
+    },
+    {
+      "name": "화남마트",
+      "address": "대구광역시 수성구 범어동 1109",
+      "roadAddress": "대구광역시 수성구 국채보상로 804  (범어동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-10"
+    },
+    {
+      "name": "중앙상사",
+      "address": "대구광역시 수성구 만촌동 1037-14   1층상가 104.105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-10"
+    },
+    {
+      "name": "영할인마트",
+      "address": "대구광역시 수성구 지산동 1271 우방상가114/5",
+      "roadAddress": "대구광역시 수성구 지산로 32  (지산동,우방상가114/5)",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-15"
+    },
+    {
+      "name": "(주)코리아세븐수성점",
+      "address": "대구광역시 수성구 수성동3가 71-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-15"
+    },
+    {
+      "name": "대밀마트",
+      "address": "대구광역시 수성구 만촌동 1037-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-16"
+    },
+    {
+      "name": "대백마트노변",
+      "address": "대구광역시 수성구 시지동 364",
+      "roadAddress": "대구광역시 수성구 달구벌대로618길 33  (시지동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-17"
+    },
+    {
+      "name": "장수마트",
+      "address": "대구광역시 수성구 지산동 1140-46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-21"
+    },
+    {
+      "name": "대경할인마트",
+      "address": "대구광역시 수성구 지산동 1024-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-21"
+    },
+    {
+      "name": "풍년할인마트",
+      "address": "대구광역시 수성구 범어동 473-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-23"
+    },
+    {
+      "name": "초이마트",
+      "address": "대구광역시 수성구 범어동 1425.1430",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-27"
+    },
+    {
+      "name": "원마트",
+      "address": "대구광역시 수성구 황금동 272 우방신천지상가106호",
+      "roadAddress": "대구광역시 수성구 청호로46길 17  (황금동,우방신천지상가106호)",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-27"
+    },
+    {
+      "name": "무당벌레",
+      "address": "대구광역시 수성구 황금동 132-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-29"
+    },
+    {
+      "name": "대백레몬마트",
+      "address": "대구광역시 수성구 만촌동 995-1 태왕리더스상가5-6호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-29"
+    },
+    {
+      "name": "코사중동점",
+      "address": "대구광역시 수성구 중동 532-344",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-31"
+    },
+    {
+      "name": "장묘사업소",
+      "address": "대구광역시 수성구 고모동 산 113-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-05"
+    },
+    {
+      "name": "땅살림생명살림",
+      "address": "대구광역시 수성구 범어동 278-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-05"
+    },
+    {
+      "name": "해피타임",
+      "address": "대구광역시 수성구 상동 157-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-18"
+    },
+    {
+      "name": "k-할인마트",
+      "address": "대구광역시 수성구 만촌동 994-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-10"
+    },
+    {
+      "name": "동아슈퍼",
+      "address": "대구광역시 수성구 범물동 1336 콤비코아 A-3",
+      "roadAddress": "대구광역시 수성구 용학로 272  (범물동,콤비코아 A-3)",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-10"
+    },
+    {
+      "name": "알뜰마트",
+      "address": "대구광역시 수성구 지산동 1057-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-10"
+    },
+    {
+      "name": "대영지물장식",
+      "address": "대구광역시 수성구 범어동 549-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대양할인마트",
+      "address": "대구광역시 수성구 시지동 384-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-17"
+    },
+    {
+      "name": "신우유통(청구1호점)",
+      "address": "대구광역시 수성구 범어동 614-46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-30"
+    },
+    {
+      "name": "소비자슈퍼",
+      "address": "대구광역시 수성구 범어동 63-118",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-01"
+    },
+    {
+      "name": "코사마트 대자연점",
+      "address": "대구광역시 수성구 파동 153 대자연상가12-1",
+      "roadAddress": "대구광역시 수성구 파동로 120  (파동,대자연상가12-1)",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-01"
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "대구광역시 수성구 지산동 1297 5단지상가7",
+      "roadAddress": "대구광역시 수성구 용학로 325  (지산동,5단지상가7)",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-07"
+    },
+    {
+      "name": "웰마트",
+      "address": "대구광역시 수성구 상동 546-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-16"
+    },
+    {
+      "name": "대학슈퍼",
+      "address": "대구광역시 수성구 만촌동 852-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-22"
+    },
+    {
+      "name": "협성슈퍼",
+      "address": "대구광역시 수성구 수성동1가 288-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-27"
+    },
+    {
+      "name": "에이스할인마트",
+      "address": "대구광역시 수성구 수성동1가 267-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-12"
+    },
+    {
+      "name": "신우유통 상동점",
+      "address": "대구광역시 수성구 상동 352-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-20"
+    },
+    {
+      "name": "필마트만촌점",
+      "address": "대구광역시 수성구 만촌동 348-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-23"
+    },
+    {
+      "name": "L.A.Park24지산점",
+      "address": "대구광역시 수성구 지산동 1188-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-26"
+    },
+    {
+      "name": "부흥슈퍼",
+      "address": "대구광역시 수성구 수성동3가 209-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-04"
+    },
+    {
+      "name": "세이브마트",
+      "address": "대구광역시 수성구 만촌동 983-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-04"
+    },
+    {
+      "name": "청송슈퍼",
+      "address": "대구광역시 수성구 사월동 438-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-04"
+    },
+    {
+      "name": "조광할인마트",
+      "address": "대구광역시 수성구 수성동4가 1028-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-04"
+    },
+    {
+      "name": "Plus24",
+      "address": "대구광역시 수성구 두산동 44-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-11"
+    },
+    {
+      "name": "뉴 메가 플러스",
+      "address": "대구광역시 수성구 두산동 743-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-11"
+    },
+    {
+      "name": "세명할인마트",
+      "address": "대구광역시 수성구 만촌동 653-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-16"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "대구광역시 수성구 황금동 833-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-17"
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "대구광역시 수성구 중동 428-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-23"
+    },
+    {
+      "name": "한 유통 범물청구점",
+      "address": "대구광역시 수성구 범물동 1277-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-26"
+    },
+    {
+      "name": "훼미리마트두산제일점",
+      "address": "대구광역시 수성구 두산동 179-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-28"
+    },
+    {
+      "name": "황금편의점",
+      "address": "대구광역시 수성구 황금동 849-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-02"
+    },
+    {
+      "name": "훼미리마트범어성조점",
+      "address": "대구광역시 수성구 범어동 2017 청구성조타운상가101",
+      "roadAddress": "대구광역시 수성구 국채보상로 846  (범어동,청구성조타운상가101)",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-10"
+    },
+    {
+      "name": "대림마트",
+      "address": "대구광역시 수성구 수성동4가 119-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-13"
+    },
+    {
+      "name": "신우유통사월점",
+      "address": "대구광역시 수성구 사월동 510-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-13"
+    },
+    {
+      "name": "홈24",
+      "address": "대구광역시 수성구 신매동 597-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-21"
+    },
+    {
+      "name": "한성유통",
+      "address": "대구광역시 수성구 지산동 423",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-21"
+    },
+    {
+      "name": "탑마트",
+      "address": "대구광역시 수성구 범물동 1261 범물1단지내상가 108",
+      "roadAddress": "대구광역시 수성구 용학로 336  (범물동,범물1단지내상가 108)",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-27"
+    },
+    {
+      "name": "대보할인마트",
+      "address": "대구광역시 수성구 수성동1가 95",
+      "roadAddress": "대구광역시 수성구 달구벌대로454길 7  (수성동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-27"
+    },
+    {
+      "name": "모드니25편의점",
+      "address": "대구광역시 수성구 범어동 197-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-02-02"
+    },
+    {
+      "name": "한양할인마트",
+      "address": "대구광역시 수성구 매호동 1055 매호협화아파트상가 113동 101호",
+      "roadAddress": "대구광역시 수성구 천을로 181  (매호동,매호협화아파트상가 113동 101호)",
+      "status": "영업/정상",
+      "licenseDate": "2005-02-02"
+    },
+    {
+      "name": "미소할인마트",
+      "address": "대구광역시 수성구 수성동1가 68-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-02-02"
+    },
+    {
+      "name": "영할인마트",
+      "address": "대구광역시 수성구 지산동 1210",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-02-21"
+    },
+    {
+      "name": "카피마트",
+      "address": "대구광역시 수성구 범어동 429-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-02-24"
+    },
+    {
+      "name": "씨엔에스편의점황금점",
+      "address": "대구광역시 수성구 수성동3가 95-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-02-24"
+    },
+    {
+      "name": "우진건축설비",
+      "address": "대구광역시 수성구 만촌동 427-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-02-24"
+    },
+    {
+      "name": "신우유통스위트점",
+      "address": "대구광역시 수성구 만촌동 1429-5    메트로팔레스506/306",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-03"
+    },
+    {
+      "name": "케이마트",
+      "address": "대구광역시 수성구 파동 311-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-03"
+    },
+    {
+      "name": "참마트황금점",
+      "address": "대구광역시 수성구 지산동 936-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화진유통",
+      "address": "대구광역시 수성구 만촌동 194-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-08"
+    },
+    {
+      "name": "플러스마트",
+      "address": "대구광역시 수성구 지산동 1030-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-08"
+    },
+    {
+      "name": "럭키홈마트",
+      "address": "대구광역시 수성구 범물동 1269 영남아파트상가  115동 1호",
+      "roadAddress": "대구광역시 수성구 용학로 316, 115동 1호 (범물동,영남아파트상가 )",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-08"
+    },
+    {
+      "name": "영광24시",
+      "address": "대구광역시 수성구 상동 49-16",
+      "roadAddress": "대구광역시 수성구 들안로 77  (상동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-16"
+    },
+    {
+      "name": "참마트",
+      "address": "대구광역시 수성구 만촌동 959-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-16"
+    },
+    {
+      "name": "신우유통",
+      "address": "대구광역시 수성구 지산동 지산협화 상가1층 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-23"
+    },
+    {
+      "name": "세이브마트",
+      "address": "대구광역시 수성구 범어동 167-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-23"
+    },
+    {
+      "name": "(주)신세계",
+      "address": "대구광역시 수성구 만촌동 1356-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-23"
+    },
+    {
+      "name": "신우유통(용지점",
+      "address": "대구광역시 수성구 범물동 753-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-31"
+    },
+    {
+      "name": "참마트2호점",
+      "address": "대구광역시 수성구 만촌동 816 301동 101.102호",
+      "roadAddress": "대구광역시 수성구 교학로11길 46, 301동 101.102호 (만촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-31"
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "대구광역시 수성구 중동 532-360",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-04"
+    },
+    {
+      "name": "초원유통",
+      "address": "대구광역시 수성구 만촌동 674-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-04"
+    },
+    {
+      "name": "삼일할인마트",
+      "address": "대구광역시 수성구 범어동 212-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-09"
+    },
+    {
+      "name": "훼미리마트범어점",
+      "address": "대구광역시 수성구 범어동 206-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-14"
+    },
+    {
+      "name": "홈마트",
+      "address": "대구광역시 수성구 만촌동 881",
+      "roadAddress": "대구광역시 수성구 교학로5길 92-5  (만촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-14"
+    },
+    {
+      "name": "하나슈퍼",
+      "address": "대구광역시 수성구 범어동 192-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-17"
+    },
+    {
+      "name": "K할인마트",
+      "address": "대구광역시 수성구 황금동 272",
+      "roadAddress": "대구광역시 수성구 청호로46길 17  (황금동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-18"
+    },
+    {
+      "name": "파동슈퍼",
+      "address": "대구광역시 수성구 파동 27-56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-21"
+    },
+    {
+      "name": "LG25신매점",
+      "address": "대구광역시 수성구 신매동 366-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-22"
+    },
+    {
+      "name": "한유통 두산희망점",
+      "address": "대구광역시 수성구 두산동 133-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-24"
+    },
+    {
+      "name": "목련할인마트",
+      "address": "대구광역시 수성구 지산동 1199-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-01"
+    },
+    {
+      "name": "케이마트",
+      "address": "대구광역시 수성구 수성동4가 1149-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-04"
+    },
+    {
+      "name": "부흥유통",
+      "address": "대구광역시 수성구 수성동3가 209-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-05"
+    },
+    {
+      "name": "동일슈퍼",
+      "address": "대구광역시 수성구 범어동 1164",
+      "roadAddress": "대구광역시 수성구 국채보상로162길 16  (범어동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-11"
+    },
+    {
+      "name": "우방마트",
+      "address": "대구광역시 수성구 황금동 240",
+      "roadAddress": "대구광역시 수성구 청수로 274  (황금동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-15"
+    },
+    {
+      "name": "한유통두산우정점",
+      "address": "대구광역시 수성구 두산동 183-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-19"
+    },
+    {
+      "name": "플러스 마트",
+      "address": "대구광역시 수성구 지산동 1030-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-19"
+    },
+    {
+      "name": "굿모닝할인마트",
+      "address": "대구광역시 수성구 중동 359-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-19"
+    },
+    {
+      "name": "(주)보광훼미리마트시지점",
+      "address": "대구광역시 수성구 신매동 567-58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-22"
+    },
+    {
+      "name": "신우유통 만촌점",
+      "address": "대구광역시 수성구 만촌동 885-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-26"
+    },
+    {
+      "name": "수성문구",
+      "address": "대구광역시 수성구 파동 196-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-29"
+    },
+    {
+      "name": "A마트",
+      "address": "대구광역시 수성구 만촌동 885-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-29"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "대구광역시 수성구 수성동2가 68-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-29"
+    },
+    {
+      "name": "우방마트",
+      "address": "대구광역시 수성구 황금동 60",
+      "roadAddress": "대구광역시 수성구 청호로 330  (황금동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-03"
+    },
+    {
+      "name": "풀마트",
+      "address": "대구광역시 수성구 지산동 1297-3 지산4단지 409호지하3호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-03"
+    },
+    {
+      "name": "모드니마트",
+      "address": "대구광역시 수성구 지산동 지산시영3단지@ 상가3호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-31"
+    },
+    {
+      "name": "늘봄할인마트",
+      "address": "대구광역시 수성구 수성동4가 1115-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-31"
+    },
+    {
+      "name": "에이스할인마트",
+      "address": "대구광역시 수성구 수성동1가 267-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-06"
+    },
+    {
+      "name": "평화마트",
+      "address": "대구광역시 수성구 시지동 495-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-06"
+    },
+    {
+      "name": "플러스마트",
+      "address": "대구광역시 수성구 신매동 579 시지천마타운상가",
+      "roadAddress": "대구광역시 수성구 신매로 71  (신매동,시지천마타운상가)",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-12"
+    },
+    {
+      "name": "향수청과",
+      "address": "대구광역시 수성구 수성동1가 585-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-12"
+    },
+    {
+      "name": "청구할인마트",
+      "address": "대구광역시 수성구 범물동 1281 조합주택상가",
+      "roadAddress": "대구광역시 수성구 지범로39길 12  (범물동,조합주택상가)",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-12"
+    },
+    {
+      "name": "원마트",
+      "address": "대구광역시 수성구 신매동 576",
+      "roadAddress": "대구광역시 수성구 신매로16길 24  (신매동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-12"
+    },
+    {
+      "name": "뉴할인마트",
+      "address": "대구광역시 수성구 상동 324-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-12"
+    },
+    {
+      "name": "오뚜기마트",
+      "address": "대구광역시 수성구 범어동 429-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-22"
+    },
+    {
+      "name": "홈마트",
+      "address": "대구광역시 수성구 욱수동 232-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-22"
+    },
+    {
+      "name": "푸른할인마트",
+      "address": "대구광역시 수성구 수성동4가 1229-10",
+      "roadAddress": "대구광역시 수성구 신천동로84길 31  (수성동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-22"
+    },
+    {
+      "name": "신우유통 은세계",
+      "address": "대구광역시 수성구 시지동 138-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-28"
+    },
+    {
+      "name": "참마트 상동점",
+      "address": "대구광역시 수성구 상동 384-17   아벨론힐 A호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-28"
+    },
+    {
+      "name": "부흥슈퍼",
+      "address": "대구광역시 수성구 수성동3가 209-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-19"
+    },
+    {
+      "name": "화성마트",
+      "address": "대구광역시 수성구 지산동 1257 화성맨션  108동 1호",
+      "roadAddress": "대구광역시 수성구 용학로35길 62, 108동 1호 (지산동,화성맨션 )",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-19"
+    },
+    {
+      "name": "다모아슈퍼",
+      "address": "대구광역시 수성구 지산동 981-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-19"
+    },
+    {
+      "name": "gs25 수성동아점",
+      "address": "대구광역시 수성구 두산동 746-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-25"
+    },
+    {
+      "name": "퀸마트",
+      "address": "대구광역시 수성구 상동 314-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-25"
+    },
+    {
+      "name": "창신할인마트",
+      "address": "대구광역시 수성구 두산동 49-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-27"
+    },
+    {
+      "name": "연재유통",
+      "address": "대구광역시 수성구 상동 25-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데할인마트",
+      "address": "대구광역시 수성구 만촌동 1429 메트로팔레스상가 322동 107호",
+      "roadAddress": "대구광역시 수성구 동원로 110, 322동 107호 (만촌동,메트로팔레스상가)",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-01"
+    },
+    {
+      "name": "훼미리마트범어점",
+      "address": "대구광역시 수성구 범어동 206-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-01"
+    },
+    {
+      "name": "신우유통 시지시장점",
+      "address": "대구광역시 수성구 매호동 1082-9   제가 나동 1층 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-10"
+    },
+    {
+      "name": "늘푸른마트",
+      "address": "대구광역시 수성구 매호동 1325-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-10"
+    },
+    {
+      "name": "동서미니슈퍼",
+      "address": "대구광역시 수성구 매호동 동서아파트상가 109동 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-14"
+    },
+    {
+      "name": "영 편의점",
+      "address": "대구광역시 수성구 수성동2가 58-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-06"
+    },
+    {
+      "name": "안일슈퍼",
+      "address": "대구광역시 수성구 지산동 1026-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-11"
+    },
+    {
+      "name": "셀마트",
+      "address": "대구광역시 수성구 만촌동 1040-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-11"
+    },
+    {
+      "name": "(주)창안 파동점",
+      "address": "대구광역시 수성구 파동 203-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-16"
+    },
+    {
+      "name": "월드마트",
+      "address": "대구광역시 수성구 지산동 1190-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-18"
+    },
+    {
+      "name": "퀸마트",
+      "address": "대구광역시 수성구 상동 314-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-19"
+    },
+    {
+      "name": "신우유통 화성점",
+      "address": "대구광역시 수성구 지산동 1257",
+      "roadAddress": "대구광역시 수성구 용학로35길 62  (지산동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-19"
+    },
+    {
+      "name": "LG25수성동아점",
+      "address": "대구광역시 수성구 두산동 746-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-24"
+    },
+    {
+      "name": "우방할인마트",
+      "address": "대구광역시 수성구 지산동 1271",
+      "roadAddress": "대구광역시 수성구 지산로 32  (지산동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-31"
+    },
+    {
+      "name": "알뜰유통",
+      "address": "대구광역시 수성구 범어동 53-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-01"
+    },
+    {
+      "name": "진보유통",
+      "address": "대구광역시 수성구 수성동2가 112-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-01"
+    },
+    {
+      "name": "대구장애인생산품판매시설",
+      "address": "대구광역시 수성구 지산동 1056-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-01"
+    },
+    {
+      "name": "지산하이퍼마켓",
+      "address": "대구광역시 수성구 지산동 1251-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-03"
+    },
+    {
+      "name": "LG25범어점",
+      "address": "대구광역시 수성구 범어동 189-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-10"
+    },
+    {
+      "name": "영유통",
+      "address": "대구광역시 수성구 매호동 1324",
+      "roadAddress": "대구광역시 수성구 천을로 131  (매호동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-14"
+    },
+    {
+      "name": "두산홈마트",
+      "address": "대구광역시 수성구 두산동 188-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-22"
+    },
+    {
+      "name": "신우유통 사월점",
+      "address": "대구광역시 수성구 사월동 464",
+      "roadAddress": "대구광역시 수성구 욱수천로 133  (사월동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-25"
+    },
+    {
+      "name": "우리식품",
+      "address": "대구광역시 수성구 만촌동 1049-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-25"
+    },
+    {
+      "name": "반석할인마트",
+      "address": "대구광역시 수성구 수성동2가 281-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-04"
+    },
+    {
+      "name": "시티마트",
+      "address": "대구광역시 수성구 범어동 1003-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-04"
+    },
+    {
+      "name": "신우유통 하나로점",
+      "address": "대구광역시 수성구 신매동 570",
+      "roadAddress": "대구광역시 수성구 신매로 91  (신매동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-10"
+    },
+    {
+      "name": "데레사마트",
+      "address": "대구광역시 수성구 지산동 1269",
+      "roadAddress": "대구광역시 수성구 지산로 56  (지산동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-10"
+    },
+    {
+      "name": "주)빙그레 지산보성점",
+      "address": "대구광역시 수성구 지산동 1270-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-12"
+    },
+    {
+      "name": "신매3길마트",
+      "address": "대구광역시 수성구 신매동 603-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-12"
+    },
+    {
+      "name": "대구축산",
+      "address": "대구광역시 수성구 지산동 1244-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-18"
+    },
+    {
+      "name": "진주상사",
+      "address": "대구광역시 수성구 시지동 138-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-14"
+    },
+    {
+      "name": "중동할인마트",
+      "address": "대구광역시 수성구 중동 26-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-14"
+    },
+    {
+      "name": "기린동구특약점",
+      "address": "대구광역시 수성구 수성동2가 96-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-14"
+    },
+    {
+      "name": "만보유통",
+      "address": "대구광역시 수성구 지산동 1200 목련아파트 상가 2층 5호",
+      "roadAddress": "대구광역시 수성구 용학로42길 13  (지산동,목련아파트 상가 2층 5호)",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-22"
+    },
+    {
+      "name": "대구고산농업협동조합",
+      "address": "대구광역시 수성구 시지동 133-3",
+      "roadAddress": "대구광역시 수성구 달구벌대로 3097  (시지동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-22"
+    },
+    {
+      "name": "메트로마트상동점",
+      "address": "대구광역시 수성구 상동 123-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "참진유통",
+      "address": "대구광역시 수성구 만촌동 1080",
+      "roadAddress": "대구광역시 수성구 달구벌대로522길 99  (만촌동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "대구광역시 수성구 범물동 1306-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황금식품",
+      "address": "대구광역시 수성구 사월동 510-2    시지6차 태왕리더스상가 108호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대백마트",
+      "address": "대구광역시 수성구 수성동4가 1119-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-15"
+    },
+    {
+      "name": "초이마트",
+      "address": "대구광역시 수성구 황금동 839-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-18"
+    },
+    {
+      "name": "드림마트",
+      "address": "대구광역시 수성구 지산동 1257-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-21"
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "대구광역시 수성구 황금동 699-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-25"
+    },
+    {
+      "name": "풀마트",
+      "address": "대구광역시 수성구 시지동 360",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-27"
+    },
+    {
+      "name": "한유통 두산예슬점",
+      "address": "대구광역시 수성구 두산동 102-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-28"
+    },
+    {
+      "name": "늘푸른마트",
+      "address": "대구광역시 수성구 만촌동 858-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-23"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "대구광역시 수성구 지산동 1290-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "대구광역시 수성구 범어동 421-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-03"
+    },
+    {
+      "name": "대경마트",
+      "address": "대구광역시 수성구 만촌동 816",
+      "roadAddress": "대구광역시 수성구 교학로11길 46  (만촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-12"
+    },
+    {
+      "name": "동방식육점",
+      "address": "대구광역시 수성구 시지동 498 고산노변타운 미진상가 1동 115호",
+      "roadAddress": "대구광역시 수성구 시지로 55, 1동 115호 (시지동,고산노변타운 미진상가)",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-15"
+    },
+    {
+      "name": "신우유통수성점",
+      "address": "대구광역시 수성구 수성동2가 50-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-16"
+    },
+    {
+      "name": "다모아슈퍼",
+      "address": "대구광역시 수성구 지산동 981-4",
+      "roadAddress": "대구광역시 수성구 청수로38길 65  (지산동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-24"
+    },
+    {
+      "name": "효성할인마트",
+      "address": "대구광역시 수성구 수성동1가 425-8",
+      "roadAddress": "대구광역시 수성구 수성로 287  (수성동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-29"
+    },
+    {
+      "name": "세계로마트",
+      "address": "대구광역시 수성구 범물동 1352",
+      "roadAddress": "대구광역시 수성구 범안로 11  (범물동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-03"
+    },
+    {
+      "name": "범어드림마트",
+      "address": "대구광역시 수성구 범어동 204-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-03"
+    },
+    {
+      "name": "케이마트",
+      "address": "대구광역시 수성구 신매동 567-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-06"
+    },
+    {
+      "name": "수성슈퍼",
+      "address": "대구광역시 수성구 수성동4가 1024-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-06"
+    },
+    {
+      "name": "후문슈퍼",
+      "address": "대구광역시 수성구 범어동 175-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-06"
+    },
+    {
+      "name": "황금건어물",
+      "address": "대구광역시 수성구 황금동 746",
+      "roadAddress": "대구광역시 수성구 청솔로 19  (황금동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-06"
+    },
+    {
+      "name": "콤비문구",
+      "address": "대구광역시 수성구 범물동 1336",
+      "roadAddress": "대구광역시 수성구 용학로 272  (범물동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-12"
+    },
+    {
+      "name": "수협바다마트희망로점",
+      "address": "대구광역시 수성구 황금동 760-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-13"
+    },
+    {
+      "name": "태왕마트",
+      "address": "대구광역시 수성구 신매동 90-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-13"
+    },
+    {
+      "name": "코사마트화신점",
+      "address": "대구광역시 수성구 파동 235-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-26"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "대구광역시 수성구 황금동 751-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-27"
+    },
+    {
+      "name": "영광슈퍼",
+      "address": "대구광역시 수성구 상동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-05"
+    },
+    {
+      "name": "뉴황금활인마트",
+      "address": "대구광역시 수성구 황금동 746",
+      "roadAddress": "대구광역시 수성구 청솔로 19  (황금동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-07"
+    },
+    {
+      "name": "용성슈퍼",
+      "address": "대구광역시 수성구 황금동 707-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-08"
+    },
+    {
+      "name": "LG25시지점",
+      "address": "대구광역시 수성구 신매동 572",
+      "roadAddress": "대구광역시 수성구 신매로 104  (신매동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-12"
+    },
+    {
+      "name": "코사마트노른자",
+      "address": "대구광역시 수성구 중동 416-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-25"
+    },
+    {
+      "name": "장묘사업소 구내매점",
+      "address": "대구광역시 수성구 고모동 113-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-25"
+    },
+    {
+      "name": "샛별편의점",
+      "address": "대구광역시 수성구 만촌동 861-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-25"
+    },
+    {
+      "name": "신우유통 대백점",
+      "address": "대구광역시 수성구 시지동 462",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-28"
+    },
+    {
+      "name": "엘플러스마트",
+      "address": "대구광역시 수성구 범어동 85",
+      "roadAddress": "대구광역시 수성구 청호로 423  (범어동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-31"
+    },
+    {
+      "name": "목련슈퍼",
+      "address": "대구광역시 수성구 시지동 499",
+      "roadAddress": "대구광역시 수성구 노변공원로 34  (시지동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-05"
+    },
+    {
+      "name": "(주)코리아세븐대구수성간호점",
+      "address": "대구광역시 수성구 범어동 223-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-05"
+    },
+    {
+      "name": "(주)코리아세븐대구매호점",
+      "address": "대구광역시 수성구 매호동 1344-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-05"
+    },
+    {
+      "name": "(주)코리아세븐대구지산청구점",
+      "address": "대구광역시 수성구 지산동 1260-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-05"
+    },
+    {
+      "name": "그린마트",
+      "address": "대구광역시 수성구 신매동 271",
+      "roadAddress": "대구광역시 수성구 달구벌대로645길 16  (신매동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-05"
+    },
+    {
+      "name": "LG25 범어궁전",
+      "address": "대구광역시 수성구 범어동 371",
+      "roadAddress": "대구광역시 수성구 동대구로 274  (범어동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-06"
+    },
+    {
+      "name": "신세계마트",
+      "address": "대구광역시 수성구 범물동 1374",
+      "roadAddress": "대구광역시 수성구 범안로8길 3  (범물동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-18"
+    },
+    {
+      "name": "신우할인마트",
+      "address": "대구광역시 수성구 황금동 687-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-18"
+    },
+    {
+      "name": "광명할인마트",
+      "address": "대구광역시 수성구 만촌동 982-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-19"
+    },
+    {
+      "name": "참진유통",
+      "address": "대구광역시 수성구 만촌동 1080",
+      "roadAddress": "대구광역시 수성구 달구벌대로522길 99  (만촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-19"
+    },
+    {
+      "name": "상동할인마트시장점",
+      "address": "대구광역시 수성구 상동 123-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-22"
+    },
+    {
+      "name": "대명유통",
+      "address": "대구광역시 수성구 두산동 77-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-26"
+    },
+    {
+      "name": "동대구농협수성지점",
+      "address": "대구광역시 수성구 수성동3가 188",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-04"
+    },
+    {
+      "name": "케이마트",
+      "address": "대구광역시 수성구 수성동2가 57",
+      "roadAddress": "대구광역시 수성구 수성로68길 38  (수성동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-06"
+    },
+    {
+      "name": "레니망",
+      "address": "대구광역시 수성구 신매동 566-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-11"
+    },
+    {
+      "name": "일광유통",
+      "address": "대구광역시 수성구 수성동1가 671-47",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-11"
+    },
+    {
+      "name": "드림마트",
+      "address": "대구광역시 수성구 신매동 588",
+      "roadAddress": "대구광역시 수성구 신매로6길 6  (신매동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-11"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "대구광역시 수성구 범어동 428-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-11"
+    },
+    {
+      "name": "신우알뜰슈퍼",
+      "address": "대구광역시 수성구 범어동 2083",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-18"
+    },
+    {
+      "name": "두레마을",
+      "address": "대구광역시 수성구 지산동 1242-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-18"
+    },
+    {
+      "name": "훼미리마트매호점",
+      "address": "대구광역시 수성구 매호동 1090-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-19"
+    },
+    {
+      "name": "피플24",
+      "address": "대구광역시 수성구 수성동2가 70-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-19"
+    },
+    {
+      "name": "동대구농협범물슈퍼마켓",
+      "address": "대구광역시 수성구 범물동 1269",
+      "roadAddress": "대구광역시 수성구 용학로 316  (범물동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-19"
+    },
+    {
+      "name": "동대구농협수동지소",
+      "address": "대구광역시 수성구 지산동 1199-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-19"
+    },
+    {
+      "name": "청구하나로유통",
+      "address": "대구광역시 수성구 매호동 727-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-19"
+    },
+    {
+      "name": "으뜸마트",
+      "address": "대구광역시 수성구 상동 394-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-19"
+    },
+    {
+      "name": "동인마트",
+      "address": "대구광역시 수성구 범어동 48-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-25"
+    },
+    {
+      "name": "기린유통",
+      "address": "대구광역시 수성구 범물동 753-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-29"
+    },
+    {
+      "name": "(주)코리아세븐",
+      "address": "대구광역시 수성구 수성동4가 1186-60",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-29"
+    },
+    {
+      "name": "농산물판매장",
+      "address": "대구광역시 수성구 범어동 225-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-03"
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "대구광역시 수성구 범어동 402-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-03"
+    },
+    {
+      "name": "범어우방축산물슈퍼",
+      "address": "대구광역시 수성구 범어동 620",
+      "roadAddress": "대구광역시 수성구 동대구로 230  (범어동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-06"
+    },
+    {
+      "name": "알뜰할인마트",
+      "address": "대구광역시 수성구 수성동2가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-09"
+    },
+    {
+      "name": "경일슈퍼",
+      "address": "대구광역시 수성구 중동 532-441",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-10"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "대구광역시 수성구 만촌동 342-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-10"
+    },
+    {
+      "name": "한아름마트",
+      "address": "대구광역시 수성구 수성동1가 106-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-11"
+    },
+    {
+      "name": "공작슈퍼",
+      "address": "대구광역시 수성구 상동 333-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-11"
+    },
+    {
+      "name": "대진슈퍼",
+      "address": "대구광역시 수성구 범어동 377-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-15"
+    },
+    {
+      "name": "문구슈퍼",
+      "address": "대구광역시 수성구 매호동 614-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-15"
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "대구광역시 수성구 수성동1가 260-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-16"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "대구광역시 수성구 만촌동 959-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-17"
+    },
+    {
+      "name": "백두마트",
+      "address": "대구광역시 수성구 만촌동 1036-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-17"
+    },
+    {
+      "name": "늘봄할인마트",
+      "address": "대구광역시 수성구 두산동 11-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-19"
+    },
+    {
+      "name": "대백마트",
+      "address": "대구광역시 수성구 시지동 462-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-22"
+    },
+    {
+      "name": "007할인마트",
+      "address": "대구광역시 수성구 수성동3가 201-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-26"
+    },
+    {
+      "name": "무경셀프세차",
+      "address": "대구광역시 수성구 지산동 1187-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-26"
+    },
+    {
+      "name": "경북축산",
+      "address": "대구광역시 수성구 만촌동 974-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-02"
+    },
+    {
+      "name": "태영슈퍼",
+      "address": "대구광역시 수성구 두산동 40-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-02"
+    },
+    {
+      "name": "영신슈퍼",
+      "address": "대구광역시 수성구 만촌동 864-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-06"
+    },
+    {
+      "name": "안동슈퍼",
+      "address": "대구광역시 수성구 수성동2가 96-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-06"
+    },
+    {
+      "name": "세계슈퍼",
+      "address": "대구광역시 수성구 만촌동 444-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-11"
+    },
+    {
+      "name": "돌꽃슈퍼",
+      "address": "대구광역시 수성구 범어동 195-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-13"
+    },
+    {
+      "name": "한유통수성범어점",
+      "address": "대구광역시 수성구 범어동 774-84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-13"
+    },
+    {
+      "name": "농심가마트범어점",
+      "address": "대구광역시 수성구 범어동 792-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-15"
+    },
+    {
+      "name": "토담한우마트",
+      "address": "대구광역시 수성구 황금동 214-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-15"
+    },
+    {
+      "name": "청정유통",
+      "address": "대구광역시 수성구 황금동 60",
+      "roadAddress": "대구광역시 수성구 청호로 330  (황금동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-13"
+    },
+    {
+      "name": "코사마트중앙점",
+      "address": "대구광역시 수성구 수성동4가 1024-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-20"
+    },
+    {
+      "name": "E-플러스할인마트",
+      "address": "대구광역시 수성구 만촌동 1000-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-20"
+    },
+    {
+      "name": "코사마트맛나점",
+      "address": "대구광역시 수성구 범어동 814-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-22"
+    },
+    {
+      "name": "(주)평생마트",
+      "address": "대구광역시 수성구 지산동 1277-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-22"
+    },
+    {
+      "name": "영할인마트",
+      "address": "대구광역시 수성구 만촌동 657-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-29"
+    },
+    {
+      "name": "청도슈퍼",
+      "address": "대구광역시 수성구 만촌동 976-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-31"
+    },
+    {
+      "name": "푸른마트",
+      "address": "대구광역시 수성구 만촌동 423-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-03"
+    },
+    {
+      "name": "엘플러스",
+      "address": "대구광역시 수성구 만촌동 859-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-03"
+    },
+    {
+      "name": "대구슈퍼",
+      "address": "대구광역시 수성구 황금동 774-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-18"
+    },
+    {
+      "name": "무지개슈퍼",
+      "address": "대구광역시 수성구 만촌동 994-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-20"
+    },
+    {
+      "name": "선우할인마트",
+      "address": "대구광역시 수성구 두산동 743-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-24"
+    },
+    {
+      "name": "(주)보광훼미리마트",
+      "address": "대구광역시 수성구 지산동 1204",
+      "roadAddress": "대구광역시 수성구 용학로 226  (지산동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-26"
+    },
+    {
+      "name": "(주)코리아세븐신매점",
+      "address": "대구광역시 수성구 신매동 567",
+      "roadAddress": "대구광역시 수성구 달구벌대로 3188  (신매동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-29"
+    },
+    {
+      "name": "대보유통",
+      "address": "대구광역시 수성구 상동 324-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-29"
+    },
+    {
+      "name": "훼미리마트 법원보경점",
+      "address": "대구광역시 수성구 범어동 13-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-10"
+    },
+    {
+      "name": "빅마트",
+      "address": "대구광역시 수성구 파동 27-60",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-11"
+    },
+    {
+      "name": "광명슈퍼",
+      "address": "대구광역시 수성구 만촌동 982-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-11"
+    },
+    {
+      "name": "(주)신세계이마트만촌점",
+      "address": "대구광역시 수성구 만촌동 1356-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-13"
+    },
+    {
+      "name": "동보슈퍼",
+      "address": "대구광역시 수성구 만촌동 848-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-18"
+    },
+    {
+      "name": "영화유통",
+      "address": "대구광역시 수성구 지산동 1234",
+      "roadAddress": "대구광역시 수성구 용학로 189  (지산동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-19"
+    },
+    {
+      "name": "H. 24편의점",
+      "address": "대구광역시 수성구 신매동 572",
+      "roadAddress": "대구광역시 수성구 신매로 104  (신매동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-22"
+    },
+    {
+      "name": "신우유통 알뜰점",
+      "address": "대구광역시 수성구 범어동 2083",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-22"
+    },
+    {
+      "name": "LG25 지산동백점",
+      "address": "대구광역시 수성구 범물동 1271",
+      "roadAddress": "대구광역시 수성구 용학로 298  (범물동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-18"
+    },
+    {
+      "name": "지산종합마트",
+      "address": "대구광역시 수성구 지산동 1285-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-22"
+    },
+    {
+      "name": "지산종합마트",
+      "address": "대구광역시 수성구 지산동 1285-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-18"
+    },
+    {
+      "name": "보성유통",
+      "address": "대구광역시 수성구 사월동 464 보성아파트 상가 106호",
+      "roadAddress": "대구광역시 수성구 욱수천로 133,  106호 (사월동,보성아파트 상가)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-25"
+    },
+    {
+      "name": "A 마트",
+      "address": "대구광역시 수성구 만촌동 885-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-25"
+    },
+    {
+      "name": "동양마트(주)",
+      "address": "대구광역시 수성구 범물동 1330-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "대구광역시 수성구 황금동 751-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-16"
+    },
+    {
+      "name": "슈퍼맨마트",
+      "address": "대구광역시 수성구 상동 66-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-19"
+    },
+    {
+      "name": "유정서점",
+      "address": "대구광역시 수성구 상동 235-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-21"
+    },
+    {
+      "name": "쵸이마트",
+      "address": "대구광역시 수성구 범어동 1430",
+      "roadAddress": "대구광역시 수성구 들안로 392  (범어동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-21"
+    },
+    {
+      "name": "G 마트",
+      "address": "대구광역시 수성구 수성동4가 1085-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-23"
+    },
+    {
+      "name": "종합양곡",
+      "address": "대구광역시 수성구 만촌동 861-1    서한상사 6호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-23"
+    },
+    {
+      "name": "신우유통 중동점",
+      "address": "대구광역시 수성구 중동 532-344",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-27"
+    },
+    {
+      "name": "훼미리마트 지산다래점",
+      "address": "대구광역시 수성구 지산동 1204",
+      "roadAddress": "대구광역시 수성구 용학로 226  (지산동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-28"
+    },
+    {
+      "name": "우방할인마트",
+      "address": "대구광역시 수성구 수성동1가 624-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-29"
+    },
+    {
+      "name": "희망유통",
+      "address": "대구광역시 수성구 범어동 806-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초원유통",
+      "address": "대구광역시 수성구 만촌동 959-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-13"
+    },
+    {
+      "name": "신우유통",
+      "address": "대구광역시 수성구 지산동 1210",
+      "roadAddress": "대구광역시 수성구 용학로48길 17  (지산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대보할인마트",
+      "address": "대구광역시 수성구 범어동 212-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-12"
+    },
+    {
+      "name": "해동슈퍼",
+      "address": "대구광역시 수성구 범어동 562-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상동마트",
+      "address": "대구광역시 수성구 상동 67-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-18"
+    },
+    {
+      "name": "푸른할인마트",
+      "address": "대구광역시 수성구 수성동4가 1229-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-19"
+    },
+    {
+      "name": "LG25 수성시지범",
+      "address": "대구광역시 수성구 신매동 567-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-19"
+    },
+    {
+      "name": "연재유통",
+      "address": "대구광역시 수성구 상동 25-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-22"
+    },
+    {
+      "name": "후레쉬마트",
+      "address": "대구광역시 수성구 범물동 871",
+      "roadAddress": "대구광역시 수성구 지범로54길 6  (범물동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-24"
+    },
+    {
+      "name": "한유통 두산우정점",
+      "address": "대구광역시 수성구 두산동 183-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-31"
+    },
+    {
+      "name": "LG25 수성희망점",
+      "address": "대구광역시 수성구 수성동1가 525-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-01"
+    },
+    {
+      "name": "대구마트",
+      "address": "대구광역시 수성구 지산동 1244-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-05"
+    },
+    {
+      "name": "신우유통 상동1호점",
+      "address": "대구광역시 수성구 상동 610-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-06"
+    },
+    {
+      "name": "현대할인마트",
+      "address": "대구광역시 수성구 범어동 225-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-06"
+    },
+    {
+      "name": "영할인마트",
+      "address": "대구광역시 수성구 신매동 579-582",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-06"
+    },
+    {
+      "name": "진보할인마트",
+      "address": "대구광역시 수성구 수성동2가 112-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-08"
+    },
+    {
+      "name": "하나마트",
+      "address": "대구광역시 수성구 신매동 100",
+      "roadAddress": "대구광역시 수성구 욱수천로 77  (신매동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-08"
+    },
+    {
+      "name": "코사마트대자연점",
+      "address": "대구광역시 수성구 파동 153",
+      "roadAddress": "대구광역시 수성구 파동로 120  (파동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-12"
+    },
+    {
+      "name": "훼미리마트 범어점",
+      "address": "대구광역시 수성구 범어동 206-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-14"
+    },
+    {
+      "name": "단양할인마트",
+      "address": "대구광역시 수성구 지산동 500-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-14"
+    },
+    {
+      "name": "보성유통",
+      "address": "대구광역시 수성구 사월동 464",
+      "roadAddress": "대구광역시 수성구 욱수천로 133  (사월동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-20"
+    },
+    {
+      "name": "김춘희",
+      "address": "대구광역시 수성구 만촌동 856",
+      "roadAddress": "대구광역시 수성구 달구벌대로528길 11  (만촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-26"
+    },
+    {
+      "name": "신우유통 덕화점",
+      "address": "대구광역시 수성구 상동 384-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-04"
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "대구광역시 수성구 수성동3가 262-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-06"
+    },
+    {
+      "name": "상주집",
+      "address": "대구광역시 수성구 범어동 258-4",
+      "roadAddress": "대구광역시 수성구 달구벌대로496길 25  (범어동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-06"
+    },
+    {
+      "name": "하나로유통",
+      "address": "대구광역시 수성구 매호동 1324 두레타운제상가동제 1동 1호",
+      "roadAddress": "대구광역시 수성구 천을로 131, 1동 1호 (매호동,두레타운제상가동제)",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-11"
+    },
+    {
+      "name": "동보할인마트",
+      "address": "대구광역시 수성구 만촌동 848",
+      "roadAddress": "대구광역시 수성구 청호로96안길 1  (만촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-21"
+    },
+    {
+      "name": "창신할인마트",
+      "address": "대구광역시 수성구 두산동 49-3",
+      "roadAddress": "대구광역시 수성구 들안로18길 42  (두산동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-24"
+    },
+    {
+      "name": "대도슈퍼",
+      "address": "대구광역시 수성구 범어동 399-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-26"
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "대구광역시 수성구 범어동 225-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-26"
+    },
+    {
+      "name": "셀마트",
+      "address": "대구광역시 수성구 만촌동 1040-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-10"
+    },
+    {
+      "name": "세이브마트",
+      "address": "대구광역시 수성구 만촌동 983-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-03"
+    },
+    {
+      "name": "우방플러스마트",
+      "address": "대구광역시 수성구 중동 392-5",
+      "roadAddress": "대구광역시 수성구 수성로29길 16  (중동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-14"
+    },
+    {
+      "name": "참마트",
+      "address": "대구광역시 수성구 지산동 936-4",
+      "roadAddress": "대구광역시 수성구 동대구로20길 61  (지산동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-17"
+    },
+    {
+      "name": "다오슈퍼",
+      "address": "대구광역시 수성구 범어동 21-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-08"
+    },
+    {
+      "name": "진보할인마트",
+      "address": "대구광역시 수성구 수성동2가 112-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-09"
+    },
+    {
+      "name": "코사마트",
+      "address": "대구광역시 수성구 범어동 219-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-13"
+    },
+    {
+      "name": "신우유통수성1호점",
+      "address": "대구광역시 수성구 상동 39-9",
+      "roadAddress": "대구광역시 수성구 들안로13길 83  (상동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-17"
+    },
+    {
+      "name": "호반할인마트",
+      "address": "대구광역시 수성구 지산동 1208",
+      "roadAddress": "대구광역시 수성구 용학로46길 40  (지산동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-27"
+    },
+    {
+      "name": "동아슈퍼",
+      "address": "대구광역시 수성구 중동 482-1",
+      "roadAddress": "대구광역시 수성구 수성로37길 66  (중동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-22"
+    },
+    {
+      "name": "(주)한유통 지산보성점",
+      "address": "대구광역시 수성구 지산동 1270-1",
+      "roadAddress": "대구광역시 수성구 지범로21길 3  (지산동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-27"
+    },
+    {
+      "name": "007바다편의점",
+      "address": "대구광역시 수성구 범어동 225-20",
+      "roadAddress": "대구광역시 수성구 범어로 116  (범어동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-27"
+    },
+    {
+      "name": "영할인마트",
+      "address": "대구광역시 수성구 신매동 579-582  시지천마타운상가지하1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성슈퍼",
+      "address": "대구광역시 수성구 상동 524",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-06"
+    },
+    {
+      "name": "동양마트",
+      "address": "대구광역시 수성구 신매동 568-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-06"
+    },
+    {
+      "name": "훼미리마트 지산스마일",
+      "address": "대구광역시 수성구 지산동 1288-20",
+      "roadAddress": "대구광역시 수성구 용학로 293-9  (지산동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-07"
+    },
+    {
+      "name": "중앙문구사",
+      "address": "대구광역시 수성구 만촌동 430-14",
+      "roadAddress": "대구광역시 수성구 만촌로 128  (만촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-11"
+    },
+    {
+      "name": "대구항금유통",
+      "address": "대구광역시 수성구 황금동 859-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-11"
+    },
+    {
+      "name": "유성슈퍼",
+      "address": "대구광역시 수성구 수성동1가 649-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-20"
+    },
+    {
+      "name": "신우유통협화점",
+      "address": "대구광역시 수성구 지산동 1273 협화맨션 1동 103호",
+      "roadAddress": "대구광역시 수성구 지범로22길 23, 1동 103호 (지산동,협화맨션)",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-20"
+    },
+    {
+      "name": "대백마트두산점",
+      "address": "대구광역시 수성구 두산동 743-5",
+      "roadAddress": "대구광역시 수성구 용학로25안길 9  (두산동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-21"
+    },
+    {
+      "name": "신우마트",
+      "address": "대구광역시 수성구 지산동 950-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-21"
+    },
+    {
+      "name": "훼미리마트두산점",
+      "address": "대구광역시 수성구 두산동 118-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-21"
+    },
+    {
+      "name": "세화유통",
+      "address": "대구광역시 수성구 지산동 995-2",
+      "roadAddress": "대구광역시 수성구 동대구로12안길 9  (지산동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-27"
+    },
+    {
+      "name": "엘지25 대구효신점",
+      "address": "대구광역시 수성구 만촌동 1356-3 매트로팔레스상가 121-104",
+      "roadAddress": "대구광역시 수성구 동원로 135  (만촌동,매트로팔레스상가 121-104)",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-28"
+    },
+    {
+      "name": "엘지25 수성만촌점",
+      "address": "대구광역시 수성구 만촌동 1356-7 매트로팔레스상가 222/101",
+      "roadAddress": "대구광역시 수성구 동원로 123  (만촌동,매트로팔레스상가 222/101)",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-28"
+    },
+    {
+      "name": "고산문구서점",
+      "address": "대구광역시 수성구 시지동 35-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-05"
+    },
+    {
+      "name": "참마트",
+      "address": "대구광역시 수성구 상동 384-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-11"
+    },
+    {
+      "name": "킴스마트",
+      "address": "대구광역시 수성구 범어동 192-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-18"
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "대구광역시 수성구 만촌동 194-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-19"
+    },
+    {
+      "name": "한유통금탑점",
+      "address": "대구광역시 수성구 만촌동 860 금탑아파트 상가제3동1층2호",
+      "roadAddress": "대구광역시 수성구 교학로 3  (만촌동,금탑아파트 상가제3동1층2호)",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-19"
+    },
+    {
+      "name": "유원마트",
+      "address": "대구광역시 수성구 지산동 992-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-25"
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "대구광역시 수성구 만촌동 857-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-25"
+    },
+    {
+      "name": "원마트오성점",
+      "address": "대구광역시 수성구 수성동1가 96-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-27"
+    },
+    {
+      "name": "훼미리마트 수성팔레스점",
+      "address": "대구광역시 수성구 수성동4가 1090-1    수성우방파렐스상가 102호-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-02"
+    },
+    {
+      "name": "지산25유통",
+      "address": "대구광역시 수성구 지산동 1234 지산1단지 113동 111호",
+      "roadAddress": "대구광역시 수성구 용학로 189, 113동 111호 (지산동,지산1단지)",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-02"
+    },
+    {
+      "name": "유창마트",
+      "address": "대구광역시 수성구 지산동 1359-1    무학상가 102동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-02"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "대구광역시 수성구 두산동 11-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-04"
+    },
+    {
+      "name": "광명마트",
+      "address": "대구광역시 수성구 황금동 690-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-04"
+    },
+    {
+      "name": "라성산업(주)",
+      "address": "대구광역시 수성구 지산동 1257 지산화성맨션상가 113동 1호",
+      "roadAddress": "대구광역시 수성구 용학로35길 62, 113동 1호 (지산동,지산화성맨션상가)",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-08"
+    },
+    {
+      "name": "청정유통",
+      "address": "대구광역시 수성구 황금동 60 우방2차아파트상가 20호",
+      "roadAddress": "대구광역시 수성구 청호로 330,  20호 (황금동,우방2차아파트상가)",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-08"
+    },
+    {
+      "name": "앰마트슈퍼",
+      "address": "대구광역시 수성구 황금동 771-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-11"
+    },
+    {
+      "name": "대보유통",
+      "address": "대구광역시 수성구 성동 324-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-14"
+    },
+    {
+      "name": "늘푸른마트",
+      "address": "대구광역시 수성구 상동 34-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-15"
+    },
+    {
+      "name": "멀티편의마트24",
+      "address": "대구광역시 수성구 수성동3가 313-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한유통지산보성점",
+      "address": "대구광역시 수성구 지산동 1270-1    보성아파트상가 111동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-16"
+    },
+    {
+      "name": "범어드림마트",
+      "address": "대구광역시 수성구 범어동 204-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-16"
+    },
+    {
+      "name": "(사당법인)수성구새마을지회",
+      "address": "대구광역시 수성구 만촌동 1021-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-16"
+    },
+    {
+      "name": "농심마트",
+      "address": "대구광역시 수성구 지산동 1034-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-19"
+    },
+    {
+      "name": "엘지25편의점수성점",
+      "address": "대구광역시 수성구 범어동 587-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "007마트수성점",
+      "address": "대구광역시 수성구 수성동3가 201-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-13"
+    },
+    {
+      "name": "동산슈퍼",
+      "address": "대구광역시 수성구 범어동 687-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-13"
+    },
+    {
+      "name": "송월슈퍼",
+      "address": "대구광역시 수성구 만촌동 444-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-13"
+    },
+    {
+      "name": "시티마트",
+      "address": "대구광역시 수성구 범어동 1003-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-16"
+    },
+    {
+      "name": "신우유통",
+      "address": "대구광역시 수성구 사월동 464 시지2차보성타운상가",
+      "roadAddress": "대구광역시 수성구 욱수천로 133  (사월동,시지2차보성타운상가)",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-16"
+    },
+    {
+      "name": "대구마트",
+      "address": "대구광역시 수성구 지산동 1193-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-16"
+    },
+    {
+      "name": "신우유통목련점",
+      "address": "대구광역시 수성구 지산동 1210",
+      "roadAddress": "대구광역시 수성구 용학로48길 17  (지산동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-16"
+    },
+    {
+      "name": "엘플러스",
+      "address": "대구광역시 수성구 수성동2가 258-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-26"
+    },
+    {
+      "name": "하나로할인마트",
+      "address": "대구광역시 수성구 범물동 871-1    건아상가101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-03"
+    },
+    {
+      "name": "훼미리마트 범어유성점",
+      "address": "대구광역시 수성구 범어동 614-3    태왕유성하이빌상가 1동 4호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-03"
+    },
+    {
+      "name": "홈마트",
+      "address": "대구광역시 수성구 만촌동 974-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-07"
+    },
+    {
+      "name": "신우유통알뜰점",
+      "address": "대구광역시 수성구 범어동 2083",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-12"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "대구광역시 수성구 만촌동 615-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-16"
+    },
+    {
+      "name": "대백슈퍼",
+      "address": "대구광역시 수성구 범물동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-18"
+    },
+    {
+      "name": "엘지25범어청구점",
+      "address": "대구광역시 수성구 범어동 7-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-24"
+    },
+    {
+      "name": "경북축산물",
+      "address": "대구광역시 수성구 만촌동 663-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-24"
+    },
+    {
+      "name": "멀티24시",
+      "address": "대구광역시 수성구 범어동 614-100  범어청구푸른마을 102동 1502호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-05"
+    },
+    {
+      "name": "대경할인마트",
+      "address": "대구광역시 수성구 만촌동 605 보성상가 401동 1호",
+      "roadAddress": "대구광역시 수성구 공경로 70, 401동 1호 (만촌동,보성상가)",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-09"
+    },
+    {
+      "name": "신우유통수성점",
+      "address": "대구광역시 수성구 수성동2가 50-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-09"
+    },
+    {
+      "name": "엘지25황금명성점",
+      "address": "대구광역시 수성구 황금동 690-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-18"
+    },
+    {
+      "name": "풍년할인마트",
+      "address": "대구광역시 수성구 범어동 473-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-25"
+    },
+    {
+      "name": "엘에이24시슈퍼",
+      "address": "대구광역시 수성구 만촌동 1327-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-29"
+    },
+    {
+      "name": "안동옛맛한우",
+      "address": "대구광역시 수성구 수성동4가 1090-6    수성보성상가1층 118동 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-31"
+    },
+    {
+      "name": "에스24시편의점",
+      "address": "대구광역시 수성구 상동 67-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-11"
+    },
+    {
+      "name": "노변마트",
+      "address": "대구광역시 수성구 노변동 12-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-11"
+    },
+    {
+      "name": "참마트",
+      "address": "대구광역시 수성구 만촌동 959-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-13"
+    },
+    {
+      "name": "대경할인마트",
+      "address": "대구광역시 수성구 수성동3가 385-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-13"
+    },
+    {
+      "name": "교수촌마트",
+      "address": "대구광역시 수성구 만촌동 1005-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-16"
+    },
+    {
+      "name": "데보라쌀아줌마",
+      "address": "대구광역시 수성구 두산동 149-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-21"
+    },
+    {
+      "name": "동양낚시",
+      "address": "대구광역시 수성구 만촌동 414-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-28"
+    },
+    {
+      "name": "홈마트",
+      "address": "대구광역시 수성구 만촌동 1037-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트만촌팔레스점",
+      "address": "대구광역시 수성구 만촌동 1463-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-09-30"
+    },
+    {
+      "name": "옥수유통",
+      "address": "대구광역시 수성구 만촌동 373",
+      "roadAddress": "대구광역시 수성구 화랑로34길 29-7  (만촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-01"
+    },
+    {
+      "name": "편의점 미미",
+      "address": "대구광역시 수성구 매호동 994-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-07"
+    },
+    {
+      "name": "화성마트",
+      "address": "대구광역시 수성구 지산동 1257",
+      "roadAddress": "대구광역시 수성구 용학로35길 62  (지산동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-15"
+    },
+    {
+      "name": "금비슈퍼",
+      "address": "대구광역시 수성구 만촌동 1025-87",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-27"
+    },
+    {
+      "name": "훼미리마트시지노변점",
+      "address": "대구광역시 수성구 시지동 316-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-28"
+    },
+    {
+      "name": "훼미리마트황금점",
+      "address": "대구광역시 수성구 황금동 796-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-28"
+    },
+    {
+      "name": "또레문구",
+      "address": "대구광역시 수성구 신매동 593-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-04"
+    },
+    {
+      "name": "참마트",
+      "address": "대구광역시 수성구 중동 526-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-04"
+    },
+    {
+      "name": "우리농 만촌골동체",
+      "address": "대구광역시 수성구 만촌동 660-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-11"
+    },
+    {
+      "name": "한유통범어공원점",
+      "address": "대구광역시 수성구 범어동 249-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-15"
+    },
+    {
+      "name": "CM클럽효목점",
+      "address": "대구광역시 수성구 만촌동 430-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-15"
+    },
+    {
+      "name": "(주)바이더웨이대구중동점",
+      "address": "대구광역시 수성구 중동 261-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-20"
+    },
+    {
+      "name": "조은할인슈퍼",
+      "address": "대구광역시 수성구 범어동 94-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-25"
+    },
+    {
+      "name": "김기량",
+      "address": "대구광역시 수성구 수성동2가 142-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-30"
+    },
+    {
+      "name": "대경슈퍼",
+      "address": "대구광역시 수성구 만촌동 1021-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세진유통",
+      "address": "대구광역시 수성구 두산동 15-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-03"
+    },
+    {
+      "name": "모드니25",
+      "address": "대구광역시 수성구 수성동4가 1024-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-05"
+    },
+    {
+      "name": "청구플러스마트",
+      "address": "대구광역시 수성구 지산동 1270 청구아파트상가 1동",
+      "roadAddress": "대구광역시 수성구 지산로 48, 1동 (지산동,청구아파트상가)",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-05"
+    },
+    {
+      "name": "원앤원마트",
+      "address": "대구광역시 수성구 범어동 268-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-13"
+    },
+    {
+      "name": "엘지25수성정화점",
+      "address": "대구광역시 수성구 중동 391-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-17"
+    },
+    {
+      "name": "바이더웨이 중동점",
+      "address": "대구광역시 수성구 범어동 208-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-26"
+    },
+    {
+      "name": "태왕할인마트",
+      "address": "대구광역시 수성구 만촌동 1429 메트로팔레스305-505",
+      "roadAddress": "대구광역시 수성구 동원로 110  (만촌동,메트로팔레스305-505)",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-05"
+    },
+    {
+      "name": "고모상점",
+      "address": "대구광역시 수성구 고모동 384-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-16"
+    },
+    {
+      "name": "시지우리농",
+      "address": "대구광역시 수성구 신매동 589-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-06"
+    },
+    {
+      "name": "태왕슈퍼",
+      "address": "대구광역시 수성구 욱수동 181-1    태왕상가203-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-06"
+    },
+    {
+      "name": "신대경할인마트",
+      "address": "대구광역시 수성구 범어동 117-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-12"
+    },
+    {
+      "name": "하나원마트",
+      "address": "대구광역시 수성구 매호동 1338-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-26"
+    },
+    {
+      "name": "한아름마트",
+      "address": "대구광역시 수성구 범어동 262-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-14"
+    },
+    {
+      "name": "상아마트",
+      "address": "대구광역시 수성구 신매동 607-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-10"
+    },
+    {
+      "name": "서울유통",
+      "address": "대구광역시 수성구 중동 118-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-10"
+    },
+    {
+      "name": "정화할인마트",
+      "address": "대구광역시 수성구 상동 87",
+      "roadAddress": "대구광역시 수성구 수성로25길 13  (상동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-11"
+    },
+    {
+      "name": "신우유통",
+      "address": "대구광역시 수성구 상동 39-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-11"
+    },
+    {
+      "name": "하나할인마트",
+      "address": "대구광역시 수성구 매호동 1344-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창년슈퍼",
+      "address": "대구광역시 수성구 만촌동 1329-56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-14"
+    },
+    {
+      "name": "엘지25수성상동점",
+      "address": "대구광역시 수성구 상동 107-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-24"
+    },
+    {
+      "name": "시앤에스",
+      "address": "대구광역시 수성구 지산동 1241-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-26"
+    },
+    {
+      "name": "신우유옹시지점",
+      "address": "대구광역시 수성구 시지동 83",
+      "roadAddress": "대구광역시 수성구 천을로 48  (시지동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-08"
+    },
+    {
+      "name": "영할인마트",
+      "address": "대구광역시 수성구 수성동2가 289-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-11"
+    },
+    {
+      "name": "영남할인마트",
+      "address": "대구광역시 수성구 황금동 888-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-21"
+    },
+    {
+      "name": "빅마트",
+      "address": "대구광역시 수성구 매호동 1344-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-21"
+    },
+    {
+      "name": "코사할인마트",
+      "address": "대구광역시 수성구 욱수동 232-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-28"
+    },
+    {
+      "name": "씨엠클럽수성점",
+      "address": "대구광역시 수성구 중동 359-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-06"
+    },
+    {
+      "name": "태성슈퍼",
+      "address": "대구광역시 수성구 지산동 1213",
+      "roadAddress": "대구광역시 수성구 범안로3길 73  (지산동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-11"
+    },
+    {
+      "name": "신우유통팔래스점",
+      "address": "대구광역시 수성구 만촌동 1429 매트로팔래스상가 521동 104호",
+      "roadAddress": "대구광역시 수성구 동원로 110, 521동 104호 (만촌동,매트로팔래스상가)",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-11"
+    },
+    {
+      "name": "신우유통은세게점",
+      "address": "대구광역시 수성구 시지동 138-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-13"
+    },
+    {
+      "name": "성일",
+      "address": "대구광역시 수성구 두산동 137-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-24"
+    },
+    {
+      "name": "거산애드",
+      "address": "대구광역시 수성구 범물동 1315-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-02"
+    },
+    {
+      "name": "평화마트",
+      "address": "대구광역시 수성구 시지동 495-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-03"
+    },
+    {
+      "name": "범어2동사무소",
+      "address": "대구광역시 수성구 범어동 163-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    }
+  ]
+}

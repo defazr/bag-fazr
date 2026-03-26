@@ -1,0 +1,1676 @@
+{
+  "region": "전라남도",
+  "regionSlug": "jeonnam",
+  "district": "장흥군",
+  "districtSlug": "jangheung",
+  "updatedAt": "2026-03-26",
+  "totalCount": 238,
+  "stores": [
+    {
+      "name": "건산4구부녀회",
+      "address": "전라남도 장흥군 장흥읍 건산리 565-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "한빛슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 752",
+      "roadAddress": "전라남도 장흥군 장흥읍 동교1길 10-5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "보광주단",
+      "address": "전라남도 장흥군 장흥읍 건산리 722-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "삼미슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 720-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "축협연쇄점",
+      "address": "전라남도 장흥군 장흥읍 건산리 722",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "관산슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 382",
+      "roadAddress": "전라남도 장흥군 장흥읍 중앙로1길 8",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "대일슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 477-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "동방슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 486-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 720-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "부용슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 478-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "무지개슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 667-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "향양1구마을회",
+      "address": "전라남도 장흥군 장흥읍 향양리 594 1구 496번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "월평구판장",
+      "address": "전라남도 장흥군 장흥읍 향양리 150-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "삼산담배판매소",
+      "address": "전라남도 장흥군 장흥읍 삼산리 98",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "해당구판장",
+      "address": "전라남도 장흥군 장흥읍 해당리 253-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "동부슈퍼",
+      "address": "전라남도 장흥군 장흥읍 해당리 396",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "상리상점",
+      "address": "전라남도 장흥군 장흥읍 상리 216",
+      "roadAddress": "전라남도 장흥군 장흥읍 제암산길 53",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "축내상점",
+      "address": "전라남도 장흥군 장흥읍 축내리 201-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "수강상회",
+      "address": "전라남도 장흥군 장흥읍 원도리 120-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "월평슈퍼",
+      "address": "전라남도 장흥군 장흥읍 원도리 300-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "동산슈퍼",
+      "address": "전라남도 장흥군 장흥읍 원도리 300-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "행원구판장",
+      "address": "전라남도 장흥군 장흥읍 행원리 125",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "사거리상점",
+      "address": "전라남도 장흥군 장흥읍 관덕리 222",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "연산부녀회",
+      "address": "전라남도 장흥군 장흥읍 연산리 281-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "사안 담배판매소",
+      "address": "전라남도 장흥군 장흥읍 사안리 70",
+      "roadAddress": "전라남도 장흥군 장흥읍 사안2길 7-3",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "영전마을구판장",
+      "address": "전라남도 장흥군 장흥읍 영전리 334-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "평장구판장",
+      "address": "전라남도 장흥군 장흥읍 평장리 427",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "덕제2구연쇄점",
+      "address": "전라남도 장흥군 장흥읍 덕제리 207",
+      "roadAddress": "전라남도 장흥군 장흥읍 송산길 24",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "덕제구판장",
+      "address": "전라남도 장흥군 장흥읍 덕제리 557",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "순지구판장",
+      "address": "전라남도 장흥군 장흥읍 순지리 358-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "충열구판장",
+      "address": "전라남도 장흥군 장흥읍 충열리 78-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "남외2구구판장",
+      "address": "전라남도 장흥군 장흥읍 남외리 259-57",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "남외리슈퍼",
+      "address": "전라남도 장흥군 장흥읍 남외리 137-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "남동슈퍼",
+      "address": "전라남도 장흥군 장흥읍 남동리 11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "낭동담배가게",
+      "address": "전라남도 장흥군 장흥읍 남동리 82",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "월출슈퍼",
+      "address": "전라남도 장흥군 장흥읍 남동리 42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "진미식품",
+      "address": "전라남도 장흥군 장흥읍 동동리 274-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "삼거리상회",
+      "address": "전라남도 장흥군 장흥읍 동동리 177",
+      "roadAddress": "전라남도 장흥군 장흥읍 장원길 10-57",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "장흥군청식당",
+      "address": "전라남도 장흥군 장흥읍 건산리 715-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "죽곡구판장",
+      "address": "전라남도 장흥군 관산읍 죽교리 23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "유진상회",
+      "address": "전라남도 장흥군 관산읍 옥당리 493",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "광주상회",
+      "address": "전라남도 장흥군 관산읍 옥당리 589",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "외동마을구매소",
+      "address": "전라남도 장흥군 관산읍 외동리 494-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "산동구판장",
+      "address": "전라남도 장흥군 관산읍 삼산리 110-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "삼산3구구판장",
+      "address": "전라남도 장흥군 관산읍 삼산리 33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "고마1구구판장",
+      "address": "전라남도 장흥군 관산읍 고마리 763",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "죽청1구구판장",
+      "address": "전라남도 장흥군 관산읍 죽청리 288-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "용전슈퍼",
+      "address": "전라남도 장흥군 관산읍 용전리 531",
+      "roadAddress": "전라남도 장흥군 관산읍 용전1길 20",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "관산농협연쇄점",
+      "address": "전라남도 장흥군 관산읍 옥당리 428",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "부산슈퍼",
+      "address": "전라남도 장흥군 관산읍 옥당리 453-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "삼학슈퍼",
+      "address": "전라남도 장흥군 관산읍 옥당리 454-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "산장슈퍼",
+      "address": "전라남도 장흥군 관산읍 옥당리 479-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "관산 정류소",
+      "address": "전라남도 장흥군 관산읍 죽교리 465-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "천관산관광농원",
+      "address": "전라남도 장흥군 관산읍 옥당리 84-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "천관농업협동조합",
+      "address": "전라남도 장흥군 대덕읍 신월리 102-2",
+      "roadAddress": "전라남도 장흥군 대덕읍 대대로 928",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "신신슈퍼",
+      "address": "전라남도 장흥군 대덕읍 신월리 193-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "달성사",
+      "address": "전라남도 장흥군 대덕읍 신월리 396-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "대신슈퍼",
+      "address": "전라남도 장흥군 대덕읍 신리 810-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "옹암슈퍼",
+      "address": "전라남도 장흥군 대덕읍 옹암리 107-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "신흥슈퍼",
+      "address": "전라남도 장흥군 대덕읍 연지리 235-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "용산농약사",
+      "address": "전라남도 장흥군 용산면 인암리 801-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "만물상회",
+      "address": "전라남도 장흥군 용산면 인암리 803-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "용산농협연쇄점",
+      "address": "전라남도 장흥군 용산면 인암리 791-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 장흥군 용산면 인암리 527",
+      "roadAddress": "전라남도 장흥군 용산면 용안로 67",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "상금가게",
+      "address": "전라남도 장흥군 용산면 상금리 742",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "어동가게",
+      "address": "전라남도 장흥군 용산면 어산리 675-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "용산상회",
+      "address": "전라남도 장흥군 용산면 인암리 743",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "상발구판장",
+      "address": "전라남도 장흥군 용산면 상발리 569",
+      "roadAddress": "전라남도 장흥군 용산면 상발길 8",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "관지구판장",
+      "address": "전라남도 장흥군 용산면 관지리 555-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "덕암구판장",
+      "address": "전라남도 장흥군 용산면 덕암리 100",
+      "roadAddress": "전라남도 장흥군 용산면 원등2길 15-7",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "계산구판장",
+      "address": "전라남도 장흥군 용산면 계산리 611-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "남하정류소",
+      "address": "전라남도 장흥군 용산면 계산리 310-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "운정슈퍼",
+      "address": "전라남도 장흥군 안양면 운흥리 682",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "삼거리상회",
+      "address": "전라남도 장흥군 안양면 수양리 382-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "풍암상점",
+      "address": "전라남도 장흥군 안양면 모령리 307",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "율산상점",
+      "address": "전라남도 장흥군 안양면 사촌리 528-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "신흥상회",
+      "address": "전라남도 장흥군 안양면 수문리 151-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "삼거리상회",
+      "address": "전라남도 장흥군 안양면 수문리 151-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "민박촌상점",
+      "address": "전라남도 장흥군 안양면 수문리 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "신촌슈퍼",
+      "address": "전라남도 장흥군 안양면 신촌리 199-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "연초판매점",
+      "address": "전라남도 장흥군 안양면 사촌리 659-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "지천상점",
+      "address": "전라남도 장흥군 안양면 지천리 153",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "용곡부녀회",
+      "address": "전라남도 장흥군 장동면 용곡리 95",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "전라남도 장흥군 장동면 북교리 7-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "농협만년분점",
+      "address": "전라남도 장흥군 장동면 용곡리 17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "정류소슈퍼",
+      "address": "전라남도 장흥군 장평면 용강리 42-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "흥덕문구사",
+      "address": "전라남도 장흥군 장평면 용강리 58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "등촌상회",
+      "address": "전라남도 장흥군 장평면 등촌리 69",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "흥덕상회",
+      "address": "전라남도 장흥군 장평면 양촌리 342",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "미우사",
+      "address": "전라남도 장흥군 장평면 양촌리 588-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "금산상회",
+      "address": "전라남도 장흥군 장평면 축내리 172-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "정류소슈퍼",
+      "address": "전라남도 장흥군 장평면 봉림리 61-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "우산상회",
+      "address": "전라남도 장흥군 장평면 우산리 585-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "병동상회",
+      "address": "전라남도 장흥군 장평면 병동리 261",
+      "roadAddress": "전라남도 장흥군 장평면 병동길 16-2",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "장평농협연쇄점",
+      "address": "전라남도 장흥군 장평면 양촌리 302-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "대리상점",
+      "address": "전라남도 장흥군 유치면 대리 410",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 장흥군 유치면 단산리 359-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "신풍정류소",
+      "address": "전라남도 장흥군 유치면 신풍리 267",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "송정식당",
+      "address": "전라남도 장흥군 유치면 송정리 485-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "용문상회",
+      "address": "전라남도 장흥군 유치면 용문리 231",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "보림슈퍼",
+      "address": "전라남도 장흥군 유치면 봉덕리 382",
+      "roadAddress": "전라남도 장흥군 유치면 봉덕신덕길 209-108",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "봉덕가게",
+      "address": "전라남도 장흥군 유치면 봉덕리 217-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "유치농협연쇄점",
+      "address": "전라남도 장흥군 유치면 송정리 496-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "내안상회",
+      "address": "전라남도 장흥군 부산면 내안리 216",
+      "roadAddress": "전라남도 장흥군 부산면 내안구룡길 79",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "문흥슈퍼",
+      "address": "전라남도 장흥군 부산면 유량리 75-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "용반상회",
+      "address": "전라남도 장흥군 부산면 용반리 681",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "호계슈퍼",
+      "address": "전라남도 장흥군 부산면 호계리 83",
+      "roadAddress": "전라남도 장흥군 부산면 흥성로 807",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 장흥군 회진면 진목리 471",
+      "roadAddress": "전라남도 장흥군 회진면 진목1길 4-4",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 장흥군 회진면 진목리 1712-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "신상리슈퍼",
+      "address": "전라남도 장흥군 회진면 신상리 293-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "선자상회",
+      "address": "전라남도 장흥군 회진면 회진리 53",
+      "roadAddress": "전라남도 장흥군 회진면 가학회진로 1169-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 장흥군 회진면 회진리 739",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "전라남도 장흥군 회진면 회진리 2138-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "정류장매점",
+      "address": "전라남도 장흥군 회진면 회진리 1896-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "해창상회",
+      "address": "전라남도 장흥군 회진면 회진리 2137-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "전라남도 장흥군 회진면 회진리 2143-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "덕진슈퍼",
+      "address": "전라남도 장흥군 회진면 회진리 1798-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "전라남도 장흥군 회진면 회진리 761-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "대창상회",
+      "address": "전라남도 장흥군 회진면 회진리 925-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "미래슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 473-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "길신발",
+      "address": "전라남도 장흥군 장흥읍 기양리 132-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "보광상회",
+      "address": "전라남도 장흥군 장흥읍 건산리 647",
+      "roadAddress": "전라남도 장흥군 장흥읍 새동네길 11-1",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "대신슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 734-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "태강상사",
+      "address": "전라남도 장흥군 장흥읍 건산리 384",
+      "roadAddress": "전라남도 장흥군 장흥읍 건산로 12",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "형제상회",
+      "address": "전라남도 장흥군 장흥읍 기양리 88-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "진미식품",
+      "address": "전라남도 장흥군 장흥읍 건산리 380-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "월평식품",
+      "address": "전라남도 장흥군 장흥읍 건산리 720-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "백운지업사",
+      "address": "전라남도 장흥군 장흥읍 건산리 720-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "광주상회",
+      "address": "전라남도 장흥군 장흥읍 예양리 197-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "현대천막사",
+      "address": "전라남도 장흥군 장흥읍 예양리 158-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "장원슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 720-149",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "장흥슈퍼",
+      "address": "전라남도 장흥군 장흥읍 기양리 117",
+      "roadAddress": "전라남도 장흥군 장흥읍 칠거리예양로 76",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "동부사",
+      "address": "전라남도 장흥군 장흥읍 건산리 427-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "승은라사",
+      "address": "전라남도 장흥군 용산면 인암리 801-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "장미상회",
+      "address": "전라남도 장흥군 안양면 수문리 214-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "진아상점",
+      "address": "전라남도 장흥군 안양면 수문리 265",
+      "roadAddress": "전라남도 장흥군 안양면 수문1길 27-1",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "안양슈퍼",
+      "address": "전라남도 장흥군 안양면 수문리 884-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-10"
+    },
+    {
+      "name": "호수상회",
+      "address": "전라남도 장흥군 장흥읍 기양리 91-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "한강슈퍼",
+      "address": "전라남도 장흥군 장흥읍 원도리 305-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "탐진상회",
+      "address": "전라남도 장흥군 장흥읍 건산리 421-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "남양슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 721-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "학우사",
+      "address": "전라남도 장흥군 장흥읍 건산리 487",
+      "roadAddress": "전라남도 장흥군 장흥읍 장흥로 33-1",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "따봉식품",
+      "address": "전라남도 장흥군 장흥읍 건산리 478-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "일승슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 382-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "궁전슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 671",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 112",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 장흥군 장흥읍 건산리 112",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "신정상회",
+      "address": "전라남도 장흥군 장흥읍 기양리 135-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "의창상회",
+      "address": "전라남도 장흥군 장흥읍 기양리 114-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "고흥천막",
+      "address": "전라남도 장흥군 장흥읍 예양리 44",
+      "roadAddress": "전라남도 장흥군 장흥읍 예양4길 4-9",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "베비라슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 385-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "협동상회",
+      "address": "전라남도 장흥군 관산읍 죽교리 482-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "빙그레",
+      "address": "전라남도 장흥군 관산읍 옥당리 306-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "풍산슈퍼",
+      "address": "전라남도 장흥군 관산읍 옥당리 424-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "관산슈퍼",
+      "address": "전라남도 장흥군 관산읍 옥당리 1937",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "대원슈퍼",
+      "address": "전라남도 장흥군 관산읍 옥당리 496-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "전라남도 장흥군 관산읍 옥당리 484-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "썬비디오",
+      "address": "전라남도 장흥군 관산읍 옥당리 453-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "신성상회",
+      "address": "전라남도 장흥군 관산읍 옥당리 424-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "영일농약사",
+      "address": "전라남도 장흥군 관산읍 죽교리 475-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "삼산슈퍼",
+      "address": "전라남도 장흥군 관산읍 외동리 20-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "산서구판장",
+      "address": "전라남도 장흥군 관산읍 삼산리 386-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "대덕정류소",
+      "address": "전라남도 장흥군 대덕읍 연정리 413-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "잠두슈퍼",
+      "address": "전라남도 장흥군 대덕읍 잠두리 198",
+      "roadAddress": "전라남도 장흥군 대덕읍 잠두2길 13-11",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "도청슈퍼",
+      "address": "전라남도 장흥군 대덕읍 도청리 400-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "신영슈퍼",
+      "address": "전라남도 장흥군 대덕읍 신월리 57-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "전라남도 장흥군 대덕읍 신월리 114",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "담배판매소",
+      "address": "전라남도 장흥군 대덕읍 신월리 118-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "남부상회",
+      "address": "전라남도 장흥군 장흥읍 예양리 159-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-14"
+    },
+    {
+      "name": "장흥지업사",
+      "address": "전라남도 장흥군 장흥읍 예양리 167-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-14"
+    },
+    {
+      "name": "부춘호식당",
+      "address": "전라남도 장흥군 부산면 부춘리 414-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-12-05"
+    },
+    {
+      "name": "고흥상회",
+      "address": "전라남도 장흥군 관산읍 옥당리 484-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-28"
+    },
+    {
+      "name": "삼부유통",
+      "address": "전라남도 장흥군 장흥읍 건산리 753",
+      "roadAddress": "전라남도 장흥군 장흥읍 동교1길 17",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-25"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "전라남도 장흥군 장흥읍 예양리 121-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-25"
+    },
+    {
+      "name": "보림철물",
+      "address": "전라남도 장흥군 유치면 송정리 484-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-03-21"
+    },
+    {
+      "name": "신동현슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 688-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-10"
+    },
+    {
+      "name": "유치휴양림",
+      "address": "전라남도 장흥군 유치면 신월리 산 2-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-23"
+    },
+    {
+      "name": "월평수퍼",
+      "address": "전라남도 장흥군 장흥읍 원도리 300-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-04"
+    },
+    {
+      "name": "대림슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 752-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-03"
+    },
+    {
+      "name": "행원마을구판장",
+      "address": "전라남도 장흥군 장흥읍 행원리 216",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-03"
+    },
+    {
+      "name": "회진슈퍼",
+      "address": "전라남도 장흥군 회진면 회진리 937",
+      "roadAddress": "전라남도 장흥군 회진면 회진로 442",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-20"
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "전라남도 장흥군 회진면 회진리 910",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-25"
+    },
+    {
+      "name": "삼부3호점",
+      "address": "전라남도 장흥군 관산읍 옥당리 425-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "학생백화점",
+      "address": "전라남도 장흥군 관산읍 남송리 30-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-08"
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 685-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-08"
+    },
+    {
+      "name": "장재가든",
+      "address": "전라남도 장흥군 안양면 사촌리 650",
+      "roadAddress": "전라남도 장흥군 안양면 사촌큰길 65",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-16"
+    },
+    {
+      "name": "수문 해변의집",
+      "address": "전라남도 장흥군 안양면 수문리 29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-16"
+    },
+    {
+      "name": "수남상회",
+      "address": "전라남도 장흥군 장흥읍 예양리 121-123",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-22"
+    },
+    {
+      "name": "장흥농협연쇄점",
+      "address": "전라남도 장흥군 장흥읍 건산리 715-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-02"
+    },
+    {
+      "name": "또와상회",
+      "address": "전라남도 장흥군 장흥읍 남동리 14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-17"
+    },
+    {
+      "name": "라온마트",
+      "address": "전라남도 장흥군 장흥읍 건산리 721-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-10"
+    },
+    {
+      "name": "장흥마트",
+      "address": "전라남도 장흥군 장흥읍 건산리 207-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-13"
+    },
+    {
+      "name": "황제슈퍼",
+      "address": "전라남도 장흥군 장평면 용강리 58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-20"
+    },
+    {
+      "name": "장흥우체국",
+      "address": "전라남도 장흥군 장흥읍 건산리 715-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-05"
+    },
+    {
+      "name": "사인정매점",
+      "address": "전라남도 장흥군 장흥읍 송암리 363-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-03"
+    },
+    {
+      "name": "금천상회",
+      "address": "전라남도 장흥군 장흥읍 예양리 47-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-10"
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 384-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙마트",
+      "address": "전라남도 장흥군 장흥읍 건산리 721-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-03"
+    },
+    {
+      "name": "삼영상회",
+      "address": "전라남도 장흥군 장흥읍 예양리 100",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "또와상회",
+      "address": "전라남도 장흥군 장흥읍 동동리 270",
+      "roadAddress": "전라남도 장흥군 장흥읍 읍성로 141",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-12"
+    },
+    {
+      "name": "사촌상회",
+      "address": "전라남도 장흥군 안양면 사촌리 672",
+      "roadAddress": "전라남도 장흥군 안양면 사촌당산길 16",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-04"
+    },
+    {
+      "name": "수문슈퍼",
+      "address": "전라남도 장흥군 안양면 수문리 196-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-04"
+    },
+    {
+      "name": "마트로마트 관산점",
+      "address": "전라남도 장흥군 관산읍 죽교리 457-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-08"
+    },
+    {
+      "name": "신동3구구판장",
+      "address": "전라남도 장흥군 관산읍 신동리 137",
+      "roadAddress": "전라남도 장흥군 관산읍 사금길 28-15",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-07"
+    },
+    {
+      "name": "동교슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 700-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-03"
+    },
+    {
+      "name": "뉴마트",
+      "address": "전라남도 장흥군 장흥읍 건산리 392",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "임경가든",
+      "address": "전라남도 장흥군 유치면 봉덕리 221",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-29"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "전라남도 장흥군 장흥읍 남동리 1-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-24"
+    },
+    {
+      "name": "은영슈퍼",
+      "address": "전라남도 장흥군 회진면 회진리 301",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-28"
+    },
+    {
+      "name": "노송슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 673-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-28"
+    },
+    {
+      "name": "플러스마트",
+      "address": "전라남도 장흥군 장흥읍 건산리 379-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-05"
+    },
+    {
+      "name": "참마트",
+      "address": "전라남도 장흥군 장흥읍 건산리 725-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-06"
+    },
+    {
+      "name": "엘지마트",
+      "address": "전라남도 장흥군 장흥읍 건산리 739-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-13"
+    },
+    {
+      "name": "음식업지부",
+      "address": "전라남도 장흥군 장흥읍 건산리 379-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-18"
+    },
+    {
+      "name": "대리슈퍼",
+      "address": "전라남도 장흥군 회진면 대리 189-3",
+      "roadAddress": "전라남도 장흥군 회진면 회진로 812-3",
+      "status": "영업/정상",
+      "licenseDate": "2008-03-27"
+    },
+    {
+      "name": "장안천막사",
+      "address": "전라남도 장흥군 장흥읍 예양리 197-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-11"
+    },
+    {
+      "name": "천관농협회진지점 하나로마트",
+      "address": "전라남도 장흥군 회진면 회진리 1901-3",
+      "roadAddress": "전라남도 장흥군 회진면 회진로 447",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-13"
+    },
+    {
+      "name": "정남진 편백숲 우드랜드",
+      "address": "전라남도 장흥군 장흥읍 건산리 715-11",
+      "roadAddress": "전라남도 장흥군 장흥읍 장흥로 21",
+      "status": "영업/정상",
+      "licenseDate": "2015-01-29"
+    },
+    {
+      "name": "해동슈퍼",
+      "address": "전라남도 장흥군 장흥읍 기양리 68",
+      "roadAddress": "전라남도 장흥군 장흥읍 읍성로 157-2",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "평화상회",
+      "address": "전라남도 장흥군 장흥읍 기양리 114",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "영덕사료",
+      "address": "전라남도 장흥군 장흥읍 예양리 20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "담배판매소",
+      "address": "전라남도 장흥군 장흥읍 예양리 52",
+      "roadAddress": "전라남도 장흥군 장흥읍 예양2길 31",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "담배판매소",
+      "address": "전라남도 장흥군 장흥읍 예양리 115",
+      "roadAddress": "전라남도 장흥군 장흥읍 칠거리예양로 31-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "우리집슈퍼",
+      "address": "전라남도 장흥군 장흥읍 예양리 46-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "탐진상회",
+      "address": "전라남도 장흥군 장흥읍 예양리 121-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "평화2구부녀회",
+      "address": "전라남도 장흥군 장흥읍 평화리 416",
+      "roadAddress": "전라남도 장흥군 장흥읍 외평길 128-6",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "평화3구구판장",
+      "address": "전라남도 장흥군 장흥읍 평화리 146",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "안양슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 158-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "일신사",
+      "address": "전라남도 장흥군 장흥읍 건산리 464-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "목골가게",
+      "address": "전라남도 장흥군 장흥읍 건산리 441",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "사거리상회",
+      "address": "전라남도 장흥군 장흥읍 건산리 431",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "마을구판장",
+      "address": "전라남도 장흥군 장흥읍 건산리 112-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "유경상회",
+      "address": "전라남도 장흥군 장흥읍 건산리 712",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "서울식품",
+      "address": "전라남도 장흥군 장흥읍 건산리 699-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "동교슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 700-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "농창상회",
+      "address": "전라남도 장흥군 장흥읍 건산리 704",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "청하슈퍼",
+      "address": "전라남도 장흥군 장흥읍 건산리 685-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    },
+    {
+      "name": "건산4구노인회",
+      "address": "전라남도 장흥군 장흥읍 건산리 658-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-23"
+    }
+  ]
+}

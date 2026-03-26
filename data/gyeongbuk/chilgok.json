@@ -1,0 +1,1494 @@
+{
+  "region": "경상북도",
+  "regionSlug": "gyeongbuk",
+  "district": "칠곡군",
+  "districtSlug": "chilgok",
+  "updatedAt": "2026-03-26",
+  "totalCount": 212,
+  "stores": [
+    {
+      "name": "나이스식자재마트",
+      "address": "경상북도 칠곡군 동명면 기성리 997-15",
+      "roadAddress": "경상북도 칠곡군 동명면 한티로 531",
+      "status": "영업/정상",
+      "licenseDate": "2020-04-13"
+    },
+    {
+      "name": "가산농협주유소, 하나로마트",
+      "address": "경상북도 칠곡군 가산면 금화리 150-3",
+      "roadAddress": "경상북도 칠곡군 가산면 경북대로 1365",
+      "status": "영업/정상",
+      "licenseDate": "2019-05-03"
+    },
+    {
+      "name": "가산농협",
+      "address": "경상북도 칠곡군 가산면 천평리 38",
+      "roadAddress": "경상북도 칠곡군 가산면 경북대로 1576",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-29"
+    },
+    {
+      "name": "진목상회",
+      "address": "경상북도 칠곡군 가산면 다부리 24",
+      "roadAddress": "경상북도 칠곡군 가산면 경북대로 1232",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-29"
+    },
+    {
+      "name": "대구식품점",
+      "address": "경상북도 칠곡군 지천면 신리 506-8",
+      "roadAddress": "경상북도 칠곡군 지천면 신동로7길 7",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-29"
+    },
+    {
+      "name": "LG25(우방점)",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 774-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-26"
+    },
+    {
+      "name": "칠곡축협",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 221-8",
+      "roadAddress": "경상북도 칠곡군 왜관읍 중앙로 168",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-25"
+    },
+    {
+      "name": "시장상회",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 276-3",
+      "roadAddress": "경상북도 칠곡군 왜관읍 2번도로길 22-5",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-02"
+    },
+    {
+      "name": "J-마트",
+      "address": "경상북도 칠곡군 약목면 복성리 864-15",
+      "roadAddress": "경상북도 칠곡군 약목면 약목로 94-9",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-23"
+    },
+    {
+      "name": "신동농약사",
+      "address": "경상북도 칠곡군 지천면 신리 507",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-14"
+    },
+    {
+      "name": "온누리유통",
+      "address": "경상북도 칠곡군 왜관읍 삼청리 410-60",
+      "roadAddress": "경상북도 칠곡군 왜관읍 삼청3길 16",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-22"
+    },
+    {
+      "name": "한아름유통",
+      "address": "경상북도 칠곡군 왜관읍 석전리 479 우방3차 103동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-26"
+    },
+    {
+      "name": "현대유통",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 788-44",
+      "roadAddress": "경상북도 칠곡군 왜관읍 자조1길 31",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-10"
+    },
+    {
+      "name": "종점24시편의점",
+      "address": "경상북도 칠곡군 동명면 금암리 327-1",
+      "roadAddress": "경상북도 칠곡군 동명면 금암중앙길 69",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-23"
+    },
+    {
+      "name": "월드마트",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 298-10",
+      "roadAddress": "경상북도 칠곡군 왜관읍 중앙로 117",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-02"
+    },
+    {
+      "name": "한빛할인유통마트",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 255-73",
+      "roadAddress": "경상북도 칠곡군 왜관읍 중앙로4길 20-6",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-17"
+    },
+    {
+      "name": "동명편의점",
+      "address": "경상북도 칠곡군 기산면 봉산리 108",
+      "roadAddress": "경상북도 칠곡군 기산면 봉산6길 3",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-27"
+    },
+    {
+      "name": "경북과학대학식당",
+      "address": "경상북도 칠곡군 기산면 봉산리 산 159",
+      "roadAddress": "경상북도 칠곡군 기산면 지산로 634",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-06"
+    },
+    {
+      "name": "우방식품점",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 우방상가 102동 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-14"
+    },
+    {
+      "name": "왜관슈퍼",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 210-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-14"
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 487",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-20"
+    },
+    {
+      "name": "삼성슈퍼",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 780-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-07"
+    },
+    {
+      "name": "석전마트점",
+      "address": "경상북도 칠곡군 왜관읍 석전리 536-26",
+      "roadAddress": "경상북도 칠곡군 왜관읍 석전로9길 6",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-09"
+    },
+    {
+      "name": "그린한우전문점",
+      "address": "경상북도 칠곡군 북삼읍 인평리 18B 현진아파트 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-11"
+    },
+    {
+      "name": "칠곡축협(약목지점)",
+      "address": "경상북도 칠곡군 약목면 복성리 863-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-11"
+    },
+    {
+      "name": "홈마트",
+      "address": "경상북도 칠곡군 지천면 신리 356-1",
+      "roadAddress": "경상북도 칠곡군 지천면 신동로 177",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-21"
+    },
+    {
+      "name": "WELL MART",
+      "address": "경상북도 칠곡군 북삼읍 인평리 53B/3L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-23"
+    },
+    {
+      "name": "누비슈퍼",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 337-15",
+      "roadAddress": "경상북도 칠곡군 왜관읍 평장1길 13",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-24"
+    },
+    {
+      "name": "장문사",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 211-166",
+      "roadAddress": "경상북도 칠곡군 왜관읍 중앙로 223",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-11"
+    },
+    {
+      "name": "21세기마트",
+      "address": "경상북도 칠곡군 석적읍 중리 구획지구 57B",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-25"
+    },
+    {
+      "name": "하늘마트",
+      "address": "경상북도 칠곡군 약목면 남계리 84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-22"
+    },
+    {
+      "name": "화성할인마트",
+      "address": "경상북도 칠곡군 북삼읍 인평리 22B 화성타운상가1001",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-09"
+    },
+    {
+      "name": "삼부유통",
+      "address": "경상북도 칠곡군 북삼읍 인평리 309 상가121호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-14"
+    },
+    {
+      "name": "(주)삼부쇼핑",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 841-43",
+      "roadAddress": "경상북도 칠곡군 왜관읍 중앙로 73",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-17"
+    },
+    {
+      "name": "우방슈퍼",
+      "address": "경상북도 칠곡군 석적읍 남율리 710 우방상가 801동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-23"
+    },
+    {
+      "name": "신우유통(그린점)",
+      "address": "경상북도 칠곡군 석적읍 남율리 710 우방상가 802동 110호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-04"
+    },
+    {
+      "name": "그린상사",
+      "address": "경상북도 칠곡군 약목면 남계리 2-4",
+      "roadAddress": "경상북도 칠곡군 약목면 칠곡대로 704",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-04"
+    },
+    {
+      "name": "필마트부영점",
+      "address": "경상북도 칠곡군 석적읍 중리 142-1",
+      "roadAddress": "경상북도 칠곡군 석적읍 유학로 24",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-04"
+    },
+    {
+      "name": "삼공단편의점",
+      "address": "경상북도 칠곡군 석적읍 중리 634-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-14"
+    },
+    {
+      "name": "돌마트 우방점",
+      "address": "경상북도 칠곡군 석적읍 남율리 737-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-28"
+    },
+    {
+      "name": "뉴드림마트",
+      "address": "경상북도 칠곡군 석적읍 중리 83-7",
+      "roadAddress": "경상북도 칠곡군 석적읍 북중리3길 65",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-14"
+    },
+    {
+      "name": "현대체인 북삼점",
+      "address": "경상북도 칠곡군 북삼읍 인평리 늘푸른 아파트 상가117",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-11"
+    },
+    {
+      "name": "성인슈퍼",
+      "address": "경상북도 칠곡군 북삼읍 인평리 523-50",
+      "roadAddress": "경상북도 칠곡군 북삼읍 인평1길 52",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-11"
+    },
+    {
+      "name": "한남체인 숭오점",
+      "address": "경상북도 칠곡군 북삼읍 인평리 85B 화진아파트 상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-11"
+    },
+    {
+      "name": "훈이네슈퍼",
+      "address": "경상북도 칠곡군 북삼읍 어로리 439-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-11"
+    },
+    {
+      "name": "홈스토아",
+      "address": "경상북도 칠곡군 북삼읍 율리 830-53",
+      "roadAddress": "경상북도 칠곡군 북삼읍 외율1길 3",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-11"
+    },
+    {
+      "name": "신흥상회",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 184-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-21"
+    },
+    {
+      "name": "무성그린슈퍼",
+      "address": "경상북도 칠곡군 왜관읍 석전리 산 62-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-22"
+    },
+    {
+      "name": "삼주유통",
+      "address": "경상북도 칠곡군 북삼읍 어로리 234-2",
+      "roadAddress": "경상북도 칠곡군 북삼읍 어로3길 8",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-20"
+    },
+    {
+      "name": "장안슈퍼",
+      "address": "경상북도 칠곡군 동명면 금암리 266-2",
+      "roadAddress": "경상북도 칠곡군 동명면 백송로 825",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-18"
+    },
+    {
+      "name": "화성할인마트",
+      "address": "경상북도 칠곡군 북삼읍 숭오리 79B3L 숭오화성파크 상가 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-09"
+    },
+    {
+      "name": "007마트",
+      "address": "경상북도 칠곡군 북삼읍 인평리 오태지구 12B1-4L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금산종합상사",
+      "address": "경상북도 칠곡군 왜관읍 금산리 392-8",
+      "roadAddress": "경상북도 칠곡군 왜관읍 공단로 117",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25칠곡북삼점",
+      "address": "경상북도 칠곡군 북삼읍 인평리 173B 4-L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25시 북삼점",
+      "address": "경상북도 칠곡군 북삼읍 인평리 1077-3",
+      "roadAddress": "경상북도 칠곡군 북삼읍 금오대로 283",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-29"
+    },
+    {
+      "name": "GS25왜관점",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 250-2",
+      "roadAddress": "경상북도 칠곡군 왜관읍 중앙로2길 36",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대동슈퍼",
+      "address": "경상북도 칠곡군 북삼읍 인평리 숭외대동상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홈마트",
+      "address": "경상북도 칠곡군 북삼읍 인평리 1085-5",
+      "roadAddress": "경상북도 칠곡군 북삼읍 금오대로8길 13",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행복슈퍼",
+      "address": "경상북도 칠곡군 왜관읍 삼청리 410-60",
+      "roadAddress": "경상북도 칠곡군 왜관읍 삼청3길 16",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "웰빙할인마트",
+      "address": "경상북도 칠곡군 석적읍 중리 251-1",
+      "roadAddress": "경상북도 칠곡군 석적읍 남중리2길 48",
+      "status": "영업/정상",
+      "licenseDate": "2005-10-11"
+    },
+    {
+      "name": "웨미리마트 약목대로점",
+      "address": "경상북도 칠곡군 약목면 관호리 952-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-12-23"
+    },
+    {
+      "name": "디시(DC)마트 약목점",
+      "address": "경상북도 칠곡군 약목면 복성리 864",
+      "roadAddress": "경상북도 칠곡군 약목면 약목로 94-2",
+      "status": "영업/정상",
+      "licenseDate": "2005-12-28"
+    },
+    {
+      "name": "에이스 할인마트",
+      "address": "경상북도 칠곡군 석적읍 중리 219-2 오룡타운 1층상가",
+      "roadAddress": "경상북도 칠곡군 석적읍 동중리7길 30  (오룡타운 1층상가)",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-10"
+    },
+    {
+      "name": "웰빙할인마트",
+      "address": "경상북도 칠곡군 북삼읍 숭오리 22-12 숭오빌1층상가",
+      "roadAddress": "경상북도 칠곡군 북삼읍 안산4길 9  (숭오빌1층상가)",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-17"
+    },
+    {
+      "name": "KY편의점",
+      "address": "경상북도 칠곡군 북삼읍 인평리 670-10 부자마을상가 101",
+      "roadAddress": "경상북도 칠곡군 북삼읍 인강4길 2  (부자마을상가 101)",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-04"
+    },
+    {
+      "name": "미향슈퍼",
+      "address": "경상북도 칠곡군 약목면 복성리 950-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-04"
+    },
+    {
+      "name": "지천농협하나로 마트",
+      "address": "경상북도 칠곡군 지천면 신리 408-1",
+      "roadAddress": "경상북도 칠곡군 지천면 신동로 153",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-06"
+    },
+    {
+      "name": "007마트",
+      "address": "경상북도 칠곡군 북삼읍 인평리 오태지구 12B1-4L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-06"
+    },
+    {
+      "name": "CNN 25",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 224-5",
+      "roadAddress": "경상북도 칠곡군 왜관읍 중앙로 174-1",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-06"
+    },
+    {
+      "name": "산울림병원 구내매점",
+      "address": "경상북도 칠곡군 왜관읍 금남리 36-6",
+      "roadAddress": "경상북도 칠곡군 왜관읍 금남3길 99-1",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-06"
+    },
+    {
+      "name": "홈마트",
+      "address": "경상북도 칠곡군 북삼읍 인평리 1076-2",
+      "roadAddress": "경상북도 칠곡군 북삼읍 금오대로3길 7",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-14"
+    },
+    {
+      "name": "공공근로자복지관",
+      "address": "경상북도 칠곡군 왜관읍 금산리 986-33 칠곡군 근로자종합복지관 내",
+      "roadAddress": "경상북도 칠곡군 왜관읍 공단로4길 18-16  (칠곡군 근로자종합복지관 내)",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-26"
+    },
+    {
+      "name": "E-Time 24",
+      "address": "경상북도 칠곡군 동명면 기성리 983-3",
+      "roadAddress": "경상북도 칠곡군 동명면 한티로 542",
+      "status": "영업/정상",
+      "licenseDate": "2006-05-03"
+    },
+    {
+      "name": "훼미리마트팔공산정상점",
+      "address": "경상북도 칠곡군 동명면 기성리 171-7",
+      "roadAddress": "경상북도 칠곡군 동명면 한티로 631",
+      "status": "영업/정상",
+      "licenseDate": "2006-05-03"
+    },
+    {
+      "name": "푸른마트",
+      "address": "경상북도 칠곡군 약목면 복성리 950-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-05-16"
+    },
+    {
+      "name": "에이스할인마트 중리점",
+      "address": "경상북도 칠곡군 석적읍 중리 247-5",
+      "roadAddress": "경상북도 칠곡군 석적읍 남중리8길 8",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-13"
+    },
+    {
+      "name": "웰빙마트",
+      "address": "경상북도 칠곡군 석적읍 중리 210-6 미소빌",
+      "roadAddress": "경상북도 칠곡군 석적읍 동중리5길 20  (미소빌)",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-13"
+    },
+    {
+      "name": "창신마트",
+      "address": "경상북도 칠곡군 북삼읍 인평리 1090 창신아파트 상가106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-13"
+    },
+    {
+      "name": "(주)바이더웨이 인평리점",
+      "address": "경상북도 칠곡군 북삼읍 인평리 1083-1",
+      "roadAddress": "경상북도 칠곡군 북삼읍 금오대로 286",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-26"
+    },
+    {
+      "name": "동화마트",
+      "address": "경상북도 칠곡군 석적읍 남율리 593 동화공단타운상가101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-10-02"
+    },
+    {
+      "name": "거문상회",
+      "address": "경상북도 칠곡군 가산면 다부리 780",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-11-10"
+    },
+    {
+      "name": "녹두코 슈퍼",
+      "address": "경상북도 칠곡군 북삼읍 인평리 618-1",
+      "roadAddress": "경상북도 칠곡군 북삼읍 인평3길 19",
+      "status": "영업/정상",
+      "licenseDate": "2006-11-10"
+    },
+    {
+      "name": "훼미리마트북삼인현점",
+      "address": "경상북도 칠곡군 북삼읍 인평리 1054-9",
+      "roadAddress": "경상북도 칠곡군 북삼읍 북삼로5길 2",
+      "status": "영업/정상",
+      "licenseDate": "2006-11-10"
+    },
+    {
+      "name": "(주)드림",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 777-29",
+      "roadAddress": "경상북도 칠곡군 왜관읍 중앙로 101",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만복슈퍼",
+      "address": "경상북도 칠곡군 동명면 금암리 263-4",
+      "roadAddress": "경상북도 칠곡군 동명면 백송로 818",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-26"
+    },
+    {
+      "name": "드림마트",
+      "address": "경상북도 칠곡군 석적읍 중리 157-6",
+      "roadAddress": "경상북도 칠곡군 석적읍 북중리6길 13",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-16"
+    },
+    {
+      "name": "훼미리마트 석적중리점",
+      "address": "경상북도 칠곡군 석적읍 중리 229-15",
+      "roadAddress": "경상북도 칠곡군 석적읍 동중리10길 10",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-07"
+    },
+    {
+      "name": "훼미리마트 북삼점",
+      "address": "경상북도 칠곡군 북삼읍 인평리 1076-2",
+      "roadAddress": "경상북도 칠곡군 북삼읍 금오대로3길 7",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-07"
+    },
+    {
+      "name": "씨스페이스 왜관점",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 245-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-21"
+    },
+    {
+      "name": "웰빙마트",
+      "address": "경상북도 칠곡군 석적읍 중리 210-6 미소빌",
+      "roadAddress": "경상북도 칠곡군 석적읍 동중리5길 20  (미소빌)",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-04"
+    },
+    {
+      "name": "D마트",
+      "address": "경상북도 칠곡군 석적읍 중리 204-9",
+      "roadAddress": "경상북도 칠곡군 석적읍 유학로 64",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-12"
+    },
+    {
+      "name": "야베스슈퍼",
+      "address": "경상북도 칠곡군 약목면 교리 509-14",
+      "roadAddress": "경상북도 칠곡군 약목면 교8길 17",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-03"
+    },
+    {
+      "name": "승원유통",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 561 한빛타운상가 201동 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-20"
+    },
+    {
+      "name": "세븐일레븐 칠곡약목중리점",
+      "address": "경상북도 칠곡군 약목면 복성리 963-3",
+      "roadAddress": "경상북도 칠곡군 약목면 약목로 75",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-27"
+    },
+    {
+      "name": "뉴월드마트",
+      "address": "경상북도 칠곡군 왜관읍 금산리 986-24",
+      "roadAddress": "경상북도 칠곡군 왜관읍 공단로 198-27",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-27"
+    },
+    {
+      "name": "가실슈퍼",
+      "address": "경상북도 칠곡군 왜관읍 낙산리 581-1",
+      "roadAddress": "경상북도 칠곡군 왜관읍 가실1길 30",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-24"
+    },
+    {
+      "name": "태영할인마트",
+      "address": "경상북도 칠곡군 북삼읍 인평리 826-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-24"
+    },
+    {
+      "name": "대동다숲슈퍼",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 654-1 대동다숲아파트 상가동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-19"
+    },
+    {
+      "name": "훼미리마트 석적2호점",
+      "address": "경상북도 칠곡군 석적읍 중리 227-3",
+      "roadAddress": "경상북도 칠곡군 석적읍 동중리10길 22",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-10"
+    },
+    {
+      "name": "훼미리마트 북삼원룸점",
+      "address": "경상북도 칠곡군 북삼읍 인평리 681-10",
+      "roadAddress": "경상북도 칠곡군 북삼읍 안산2길 50",
+      "status": "영업/정상",
+      "licenseDate": "2007-11-02"
+    },
+    {
+      "name": "프라임마트",
+      "address": "경상북도 칠곡군 북삼읍 인평리 204-3",
+      "roadAddress": "경상북도 칠곡군 북삼읍 금오대로4길 8",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-17"
+    },
+    {
+      "name": "로손편의점",
+      "address": "경상북도 칠곡군 석적읍 중리 210-10 리치빌 203호",
+      "roadAddress": "경상북도 칠곡군 석적읍 장곡길 179  (리치빌 203호)",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-05"
+    },
+    {
+      "name": "윙마트 북삼숭오점",
+      "address": "경상북도 칠곡군 북삼읍 숭오리 30-11",
+      "roadAddress": "경상북도 칠곡군 북삼읍 안산2길 5-2",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-03"
+    },
+    {
+      "name": "하나유통",
+      "address": "경상북도 칠곡군 약목면 관호리 897-2",
+      "roadAddress": "경상북도 칠곡군 약목면 관호8길 18-1",
+      "status": "영업/정상",
+      "licenseDate": "2008-01-22"
+    },
+    {
+      "name": "대동상회",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 191-3",
+      "roadAddress": "경상북도 칠곡군 왜관읍 중앙로 238-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "중지지업사",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 211",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "태평상회",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 211",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "태평상회",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 216-58",
+      "roadAddress": "경상북도 칠곡군 왜관읍 중앙로5길 14",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "종합슈퍼",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 251",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "성주슈퍼",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 210-18",
+      "roadAddress": "경상북도 칠곡군 왜관읍 2번도로길 85-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "진흥양곡",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 258-86",
+      "roadAddress": "경상북도 칠곡군 왜관읍 중앙로4길 23-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "종해",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 262",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "중앙홈슈퍼",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 281",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "대구슈퍼",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 211-190",
+      "roadAddress": "경상북도 칠곡군 왜관읍 시장2길 11",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "바른손펜시문구사",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 985-109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "공주문구사",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 785-66",
+      "roadAddress": "경상북도 칠곡군 왜관읍 구상길 201",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "건우슈퍼",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 788-12",
+      "roadAddress": "경상북도 칠곡군 왜관읍 자조2길 28",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "동부슈퍼",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 676",
+      "roadAddress": "경상북도 칠곡군 왜관읍 평장4길 28",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "희망슈퍼",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 184-13",
+      "roadAddress": "경상북도 칠곡군 왜관읍 군청1길 104",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "동일상회",
+      "address": "경상북도 칠곡군 지천면 신리 268-1",
+      "roadAddress": "경상북도 칠곡군 지천면 상지1길 20",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 347-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "오성복지회관",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 978",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "선경슈퍼",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 442",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "정문슈퍼",
+      "address": "경상북도 칠곡군 왜관읍 석전리 530-5",
+      "roadAddress": "경상북도 칠곡군 왜관읍 석전로 125",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "중앙상회",
+      "address": "경상북도 칠곡군 왜관읍 석전리 443-6",
+      "roadAddress": "경상북도 칠곡군 왜관읍 석전로13길 18-5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "제일상회",
+      "address": "경상북도 칠곡군 왜관읍 석전리 444",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "현대상회",
+      "address": "경상북도 칠곡군 왜관읍 석전리 436-7",
+      "roadAddress": "경상북도 칠곡군 왜관읍 석전로12길 13",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "최고상회",
+      "address": "경상북도 칠곡군 왜관읍 석전리 367",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "승리문구",
+      "address": "경상북도 칠곡군 왜관읍 석전리 590-1",
+      "roadAddress": "경상북도 칠곡군 왜관읍 석전로 75",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "낙동상회",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 207",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "사거리슈퍼",
+      "address": "경상북도 칠곡군 왜관읍 석전리 731-17",
+      "roadAddress": "경상북도 칠곡군 왜관읍 석전로 26",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "대화유통",
+      "address": "경상북도 칠곡군 왜관읍 석전리 420",
+      "roadAddress": "경상북도 칠곡군 왜관읍 석전로9길 5",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-18"
+    },
+    {
+      "name": "대화@부녀회",
+      "address": "경상북도 칠곡군 왜관읍 석전리 대화아파트 102동 207호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "새마을회",
+      "address": "경상북도 칠곡군 왜관읍 매원리 441",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "고속상회",
+      "address": "경상북도 칠곡군 왜관읍 삼청리 483-14",
+      "roadAddress": "경상북도 칠곡군 왜관읍 칠곡대로 1752",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "대중슈퍼",
+      "address": "경상북도 칠곡군 왜관읍 삼청리 453-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "이주슈퍼",
+      "address": "경상북도 칠곡군 왜관읍 삼청리 410",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "지천농협하나로마트",
+      "address": "경상북도 칠곡군 지천면 신리 408-1",
+      "roadAddress": "경상북도 칠곡군 지천면 신동로 153",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "신동지업사",
+      "address": "경상북도 칠곡군 지천면 신리 506",
+      "roadAddress": "경상북도 칠곡군 지천면 신동로7길 37",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "신광상회",
+      "address": "경상북도 칠곡군 지천면 신리 364",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "일성상회",
+      "address": "경상북도 칠곡군 지천면 신리 514-18",
+      "roadAddress": "경상북도 칠곡군 지천면 신동로 125-2",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "내실상회",
+      "address": "경상북도 칠곡군 지천면 신리 615-16",
+      "roadAddress": "경상북도 칠곡군 지천면 신동로3길 6",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "오성상회",
+      "address": "경상북도 칠곡군 지천면 신리 268-1",
+      "roadAddress": "경상북도 칠곡군 지천면 상지1길 20",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신동슈퍼",
+      "address": "경상북도 칠곡군 지천면 신리 147",
+      "roadAddress": "경상북도 칠곡군 지천면 상지2길 33-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "경상북도 칠곡군 동명면 금암리 231-81",
+      "roadAddress": "경상북도 칠곡군 동명면 금암2길 1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "쓰리커플잡식",
+      "address": "경상북도 칠곡군 동명면 금암리 231-3",
+      "roadAddress": "경상북도 칠곡군 동명면 금암중앙길 58",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "새동명슈퍼",
+      "address": "경상북도 칠곡군 동명면 금암리 231-33",
+      "roadAddress": "경상북도 칠곡군 동명면 금암중앙길 48",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "한독약국",
+      "address": "경상북도 칠곡군 동명면 금암리 232",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "동명신약방",
+      "address": "경상북도 칠곡군 동명면 금암리 240",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "상주상회",
+      "address": "경상북도 칠곡군 동명면 금암리 260",
+      "roadAddress": "경상북도 칠곡군 동명면 금암6길 18",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "학생사",
+      "address": "경상북도 칠곡군 동명면 송산리 120-3",
+      "roadAddress": "경상북도 칠곡군 동명면 송산9길 22",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "광일슈퍼",
+      "address": "경상북도 칠곡군 동명면 송산리 178-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "금암고속주유소",
+      "address": "경상북도 칠곡군 동명면 가천리 99",
+      "roadAddress": "경상북도 칠곡군 동명면 가천1길 8",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "학명상회",
+      "address": "경상북도 칠곡군 동명면 학명리 304",
+      "roadAddress": "경상북도 칠곡군 동명면 학명1길 16",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "담배판매소",
+      "address": "경상북도 칠곡군 동명면 남원리 583",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "대덕상회",
+      "address": "경상북도 칠곡군 동명면 기성리 962",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "수정상회",
+      "address": "경상북도 칠곡군 동명면 구덕리 143",
+      "roadAddress": "경상북도 칠곡군 동명면 구남로 15",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "진옥상회",
+      "address": "경상북도 칠곡군 동명면 봉암리 354",
+      "roadAddress": "경상북도 칠곡군 동명면 봉암1길 7-5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "동네슈퍼",
+      "address": "경상북도 칠곡군 동명면 봉암리 321",
+      "roadAddress": "경상북도 칠곡군 동명면 봉암2길 38-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "다부슈퍼체인",
+      "address": "경상북도 칠곡군 가산면 다부리 255",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "금호상회",
+      "address": "경상북도 칠곡군 가산면 금화리 161",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "금화부녀상회",
+      "address": "경상북도 칠곡군 가산면 금화리 180-2",
+      "roadAddress": "경상북도 칠곡군 가산면 경북대로 1334",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "성미휴게소",
+      "address": "경상북도 칠곡군 가산면 천평리 131-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "영도상회",
+      "address": "경상북도 칠곡군 가산면 천평리 143-1",
+      "roadAddress": "경상북도 칠곡군 가산면 경북대로 1583",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "장원상회",
+      "address": "경상북도 칠곡군 가산면 송학리 259",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "농심",
+      "address": "경상북도 칠곡군 가산면 학상리 54-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "석우가게",
+      "address": "경상북도 칠곡군 가산면 석우리 994",
+      "roadAddress": "경상북도 칠곡군 가산면 석우1길 23",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "화신상회",
+      "address": "경상북도 칠곡군 석적읍 포남리 606",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "북삼농협",
+      "address": "경상북도 칠곡군 북삼읍 인평리 392",
+      "roadAddress": "경상북도 칠곡군 북삼읍 금오대로 183-4",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "문화상회",
+      "address": "경상북도 칠곡군 북삼읍 인평리 371-5",
+      "roadAddress": "경상북도 칠곡군 북삼읍 인평중앙로 34-4",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "녹두코슈퍼",
+      "address": "경상북도 칠곡군 북삼읍 인평리 345-2",
+      "roadAddress": "경상북도 칠곡군 북삼읍 인평3길 14",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "북남슈퍼",
+      "address": "경상북도 칠곡군 북삼읍 인평리 523-58",
+      "roadAddress": "경상북도 칠곡군 북삼읍 인평1길 46",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "신용슈퍼",
+      "address": "경상북도 칠곡군 약목면 복성리 993",
+      "roadAddress": "경상북도 칠곡군 약목면 복성1길 2",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "대구약국",
+      "address": "경상북도 칠곡군 약목면 복성리 950-7",
+      "roadAddress": "경상북도 칠곡군 약목면 약목로 72",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "애림슈퍼",
+      "address": "경상북도 칠곡군 약목면 복성리 862-2",
+      "roadAddress": "경상북도 칠곡군 약목면 약목로 84",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "삼일슈퍼",
+      "address": "경상북도 칠곡군 약목면 복성리 974-7",
+      "roadAddress": "경상북도 칠곡군 약목면 약목로3길 16",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "대백슈퍼",
+      "address": "경상북도 칠곡군 약목면 복성리 701",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "복성슈퍼",
+      "address": "경상북도 칠곡군 약목면 복성리 809-7",
+      "roadAddress": "경상북도 칠곡군 약목면 복성11길 26",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "우영슈퍼",
+      "address": "경상북도 칠곡군 약목면 복성리 51-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "김창호",
+      "address": "경상북도 칠곡군 약목면 동안리 498",
+      "roadAddress": "경상북도 칠곡군 약목면 동안3길 20-8",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "동네슈퍼",
+      "address": "경상북도 칠곡군 약목면 남계리 8-5",
+      "roadAddress": "경상북도 칠곡군 약목면 약목로 50",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "은영이슈퍼",
+      "address": "경상북도 칠곡군 약목면 남계리 84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "경상북도 칠곡군 약목면 남계리 140-3",
+      "roadAddress": "경상북도 칠곡군 약목면 남계6길 19",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "강변종합식품",
+      "address": "경상북도 칠곡군 약목면 관호리 산 74-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "권오진",
+      "address": "경상북도 칠곡군 기산면 평복리 359-2",
+      "roadAddress": "경상북도 칠곡군 기산면 평복1길 20-7",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "박태상",
+      "address": "경상북도 칠곡군 기산면 행정리 1025",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "김춘자",
+      "address": "경상북도 칠곡군 기산면 행정리 298-1",
+      "roadAddress": "경상북도 칠곡군 기산면 선노로 1206-2",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "영동슈퍼",
+      "address": "경상북도 칠곡군 기산면 영리 517",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "만물상회",
+      "address": "경상북도 칠곡군 동명면 금암리 231",
+      "roadAddress": "경상북도 칠곡군 동명면 금암4길 3-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "못밑상회",
+      "address": "경상북도 칠곡군 동명면 금암리 182",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "한남동명",
+      "address": "경상북도 칠곡군 동명면 금암리 231",
+      "roadAddress": "경상북도 칠곡군 동명면 금암4길 3-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "시장지업사",
+      "address": "경상북도 칠곡군 동명면 금암리 231",
+      "roadAddress": "경상북도 칠곡군 동명면 금암4길 3-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경상북도 칠곡군 약목면 복성리 862-6",
+      "roadAddress": "경상북도 칠곡군 약목면 약목로 88",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "경아문구",
+      "address": "경상북도 칠곡군 약목면 복성리 1022",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "경상북도 칠곡군 약목면 복성리 834-8",
+      "roadAddress": "경상북도 칠곡군 약목면 복성8길 8-6",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "아람쇼핑",
+      "address": "경상북도 칠곡군 약목면 관호리 952 상가111호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "두성유통",
+      "address": "경상북도 칠곡군 약목면 복성리 산 54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-22"
+    },
+    {
+      "name": "봉산상회",
+      "address": "경상북도 칠곡군 기산면 봉산리 656",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-22"
+    },
+    {
+      "name": "각산1리 구판장",
+      "address": "경상북도 칠곡군 기산면 각산리 606",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-22"
+    },
+    {
+      "name": "노석1리 구판장",
+      "address": "경상북도 칠곡군 기산면 노석리 552",
+      "roadAddress": "경상북도 칠곡군 기산면 노석1길 81",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-22"
+    },
+    {
+      "name": "백석새마을구판장",
+      "address": "경상북도 칠곡군 기산면 노석리 304",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-22"
+    },
+    {
+      "name": "기산연쇄점",
+      "address": "경상북도 칠곡군 기산면 죽전리 259",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-22"
+    },
+    {
+      "name": "전원유통",
+      "address": "경상북도 칠곡군 북삼읍 율리 830-47",
+      "roadAddress": "경상북도 칠곡군 북삼읍 외율1길 9",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안국슈퍼",
+      "address": "경상북도 칠곡군 약목면 동안리 1017-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-08"
+    },
+    {
+      "name": "기성농협",
+      "address": "경상북도 칠곡군 동명면 기성리 239-3",
+      "roadAddress": "경상북도 칠곡군 동명면 한티로 570",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-18"
+    },
+    {
+      "name": "북삼S마트",
+      "address": "경상북도 칠곡군 북삼읍 인평리 화진금봉 101동 309호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-18"
+    },
+    {
+      "name": "신우방슈퍼마켓",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 259",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-11"
+    },
+    {
+      "name": "팔공산도립공원관리소",
+      "address": "경상북도 칠곡군 동명면 득명리 113-1",
+      "roadAddress": "경상북도 칠곡군 동명면 한티로 1034",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-03"
+    },
+    {
+      "name": "신우유통 봉암점",
+      "address": "경상북도 칠곡군 동명면 봉암리 392-6",
+      "roadAddress": "경상북도 칠곡군 동명면 봉암3길 2",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-18"
+    },
+    {
+      "name": "공단철물",
+      "address": "경상북도 칠곡군 왜관읍 왜관리 207-37",
+      "roadAddress": "경상북도 칠곡군 왜관읍 2번도로길 117",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-09"
+    },
+    {
+      "name": "풍년슈퍼",
+      "address": "경상북도 칠곡군 약목면 복성리 159-1",
+      "roadAddress": "경상북도 칠곡군 약목면 칠곡대로 634",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-09"
+    },
+    {
+      "name": "왜관지방산업단지관리공단",
+      "address": "경상북도 칠곡군 왜관읍 금산리 986-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-22"
+    }
+  ]
+}

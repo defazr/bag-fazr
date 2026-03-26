@@ -1,0 +1,52 @@
+{
+  "region": "경상남도",
+  "regionSlug": "gyeongnam",
+  "district": "하동군",
+  "districtSlug": "hadong",
+  "updatedAt": "2026-03-26",
+  "totalCount": 6,
+  "stores": [
+    {
+      "name": "새하동농협 적량지소",
+      "address": "경상남도 하동군 적량면 관리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "악양농협협동조합",
+      "address": "경상남도 하동군 악양면 정서리 288",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-23"
+    },
+    {
+      "name": "수지마트",
+      "address": "",
+      "roadAddress": "경상남도 하동군 북천면 경서대로 2445",
+      "status": "영업/정상",
+      "licenseDate": "2013-10-01"
+    },
+    {
+      "name": "농협하나로마트",
+      "address": "",
+      "roadAddress": "경상남도 하동군 북천면 경서대로 2463",
+      "status": "영업/정상",
+      "licenseDate": "2008-01-01"
+    },
+    {
+      "name": "CU",
+      "address": "경상남도 하동군 옥종면 215-18",
+      "roadAddress": "경상남도 하동군 옥종면 옥종중앙길 50-1",
+      "status": "영업/정상",
+      "licenseDate": "2014-02-24"
+    },
+    {
+      "name": "풀마트",
+      "address": "",
+      "roadAddress": "경상남도 하동군 옥종면 옥종중앙길 73",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-09"
+    }
+  ]
+}

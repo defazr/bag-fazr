@@ -1,0 +1,570 @@
+{
+  "region": "전북특별자치도",
+  "regionSlug": "jeonbuk",
+  "district": "김제시",
+  "districtSlug": "gimje",
+  "updatedAt": "2026-03-26",
+  "totalCount": 80,
+  "stores": [
+    {
+      "name": "터미널슈퍼",
+      "address": "전북특별자치도 김제시 만경읍 대동리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "면세마트",
+      "address": "전북특별자치도 김제시 만경읍 만경리 473",
+      "roadAddress": "전북특별자치도 김제시 만경읍 만경로 816",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "요동슈퍼",
+      "address": "전북특별자치도 김제시 황산동 65-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "검산상회",
+      "address": "전북특별자치도 김제시 검산동 667",
+      "roadAddress": "전북특별자치도 김제시 성당길 48  (검산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-22"
+    },
+    {
+      "name": "담배판매소",
+      "address": "전북특별자치도 김제시 검산동 804",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-22"
+    },
+    {
+      "name": "담배판매소",
+      "address": "전북특별자치도 김제시 검산동 543",
+      "roadAddress": "전북특별자치도 김제시 금성로 171  (검산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-22"
+    },
+    {
+      "name": "양지상회",
+      "address": "전북특별자치도 김제시 검산동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-22"
+    },
+    {
+      "name": "검산상회",
+      "address": "전북특별자치도 김제시 검산동 542",
+      "roadAddress": "전북특별자치도 김제시 금성로 169  (검산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공슈퍼",
+      "address": "전북특별자치도 김제시 검산동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공마트",
+      "address": "전북특별자치도 김제시 검산동 1030-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-24"
+    },
+    {
+      "name": "성은슈퍼",
+      "address": "전북특별자치도 김제시 검산동 1030-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-13"
+    },
+    {
+      "name": "부영슈퍼",
+      "address": "전북특별자치도 김제시 검산동 1032-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-14"
+    },
+    {
+      "name": "검산동사무소상록회",
+      "address": "전북특별자치도 김제시 검산동 산 14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-02-05"
+    },
+    {
+      "name": "그랜드마트",
+      "address": "전북특별자치도 김제시 검산동 1032-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-29"
+    },
+    {
+      "name": "김제유통썬마트",
+      "address": "전북특별자치도 김제시 검산동 820-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진우슈퍼",
+      "address": "전북특별자치도 김제시 검산동 1032-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-14"
+    },
+    {
+      "name": "정읍상회",
+      "address": "전북특별자치도 김제시 검산동 707",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정읍상회",
+      "address": "전북특별자치도 김제시 검산동 707",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-19"
+    },
+    {
+      "name": "부영마트",
+      "address": "전북특별자치도 김제시 검산동 1030",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-24"
+    },
+    {
+      "name": "친절슈퍼",
+      "address": "전북특별자치도 김제시 서암동 438-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동신슈퍼",
+      "address": "전북특별자치도 김제시 서암동 390-21",
+      "roadAddress": "전북특별자치도 김제시 구수동1길 15-8  (서암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이평슈퍼",
+      "address": "전북특별자치도 김제시 서암동 452-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구수동슈퍼",
+      "address": "전북특별자치도 김제시 서암동 379-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-22"
+    },
+    {
+      "name": "상동매점",
+      "address": "전북특별자치도 김제시 서암동 408",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장댁",
+      "address": "전북특별자치도 김제시 신곡동 253",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "KBS송신소",
+      "address": "전북특별자치도 김제시 신곡동 134",
+      "roadAddress": "전북특별자치도 김제시 신곡2길 109  (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두일골드A",
+      "address": "전북특별자치도 김제시 서암동 402-1",
+      "roadAddress": "전북특별자치도 김제시 향교길 157-4  (서암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "근로자슈퍼",
+      "address": "전북특별자치도 김제시 흥사동 558-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성산슈퍼",
+      "address": "전북특별자치도 김제시 교동 202",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "전북특별자치도 김제시 옥산동 117-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍전슈퍼",
+      "address": "전북특별자치도 김제시 교동 44-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "천일슈퍼",
+      "address": "전북특별자치도 김제시 교동 27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원슈퍼",
+      "address": "전북특별자치도 김제시 옥산동 411",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대웅슈퍼",
+      "address": "전북특별자치도 김제시 교동 115",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "기린슈퍼",
+      "address": "전북특별자치도 김제시 옥산동 331-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옥산슈퍼",
+      "address": "전북특별자치도 김제시 옥산동 54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "교산담배판매소",
+      "address": "전북특별자치도 김제시 옥산동 288-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한남슈퍼",
+      "address": "전북특별자치도 김제시 옥산동 339-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농수축산물직판장",
+      "address": "전북특별자치도 김제시 옥산동 339-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새순슈퍼",
+      "address": "전북특별자치도 김제시 옥산동 6-82",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "왕슈퍼",
+      "address": "전북특별자치도 김제시 옥산동 79",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세운슈퍼",
+      "address": "전북특별자치도 김제시 교동 196",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문화슈퍼",
+      "address": "전북특별자치도 김제시 만경읍 몽산리 911-1",
+      "roadAddress": "전북특별자치도 김제시 만경읍 봉회길 82-127",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동성슈퍼",
+      "address": "전북특별자치도 김제시 옥산동 6-79",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신발백화점",
+      "address": "전북특별자치도 김제시 교동 10-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유미커텐",
+      "address": "전북특별자치도 김제시 옥산동 134-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금강슈퍼",
+      "address": "전북특별자치도 김제시 교동 93",
+      "roadAddress": "전북특별자치도 김제시 동서1길 61-2  (교동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오성슈퍼",
+      "address": "전북특별자치도 김제시 교동 83",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김제슈퍼",
+      "address": "전북특별자치도 김제시 교동 216",
+      "roadAddress": "전북특별자치도 김제시 향교길 45  (교동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "N마트",
+      "address": "전북특별자치도 김제시 옥산동 339-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김제대중 중앙마트",
+      "address": "전북특별자치도 김제시 교동 122-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옥산슈퍼",
+      "address": "전북특별자치도 김제시 교동 6-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선돌슈퍼",
+      "address": "전북특별자치도 김제시 입석동 367",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정우사",
+      "address": "전북특별자치도 김제시 만경읍 만경리 203-1",
+      "roadAddress": "전북특별자치도 김제시 만경읍 두내산로 28",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-23"
+    },
+    {
+      "name": "금만농업협동조합",
+      "address": "전북특별자치도 김제시 청하면 월현리 579",
+      "roadAddress": "전북특별자치도 김제시 청하면 월현2길 24",
+      "status": "영업/정상",
+      "licenseDate": "2005-09-20"
+    },
+    {
+      "name": "삶의 여유공간",
+      "address": "전북특별자치도 김제시 요촌동 585-2",
+      "roadAddress": "전북특별자치도 김제시 요촌중길 47  (요촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2010-06-11"
+    },
+    {
+      "name": "칸위드마트",
+      "address": "전북특별자치도 김제시 서암동 16-2",
+      "roadAddress": "전북특별자치도 김제시 남북로 265  (서암동)",
+      "status": "영업/정상",
+      "licenseDate": "2010-06-01"
+    },
+    {
+      "name": "GS25 김제주공점",
+      "address": "전북특별자치도 김제시 검산동 주공3차 휴먼시아아파트 상가 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-05-19"
+    },
+    {
+      "name": "은행슈퍼",
+      "address": "전북특별자치도 김제시 요촌동 121-3",
+      "roadAddress": "전북특별자치도 김제시 남북10길 71  (요촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2010-03-29"
+    },
+    {
+      "name": "황가게슈퍼",
+      "address": "전북특별자치도 김제시 요촌동 118-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-03-25"
+    },
+    {
+      "name": "드림마트",
+      "address": "전북특별자치도 김제시 옥산동 286-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-03-18"
+    },
+    {
+      "name": "시장상회",
+      "address": "전북특별자치도 김제시 요촌동 418-24",
+      "roadAddress": "전북특별자치도 김제시 성산길 145  (요촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2010-02-25"
+    },
+    {
+      "name": "쎄븐일레븐(김제고속터미널점)",
+      "address": "전북특별자치도 김제시 요촌동 47-18",
+      "roadAddress": "전북특별자치도 김제시 남북로 300 (요촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2010-02-04"
+    },
+    {
+      "name": "GS25 김제용지점",
+      "address": "전북특별자치도 김제시 용지면 효정리 519-4",
+      "roadAddress": "전북특별자치도 김제시 용지면 콩쥐팥쥐로 413",
+      "status": "영업/정상",
+      "licenseDate": "2010-08-03"
+    },
+    {
+      "name": "동아마트",
+      "address": "전북특별자치도 김제시 금산면 쌍용리 458-1",
+      "roadAddress": "전북특별자치도 김제시 금산면 금산사로 65",
+      "status": "영업/정상",
+      "licenseDate": "2010-08-30"
+    },
+    {
+      "name": "씨유지평선새마루점",
+      "address": "전북특별자치도 김제시 죽산면 서포리 577-40 1층",
+      "roadAddress": "전북특별자치도 김제시 죽산면 월죽로 8",
+      "status": "영업/정상",
+      "licenseDate": "2024-04-29"
+    },
+    {
+      "name": "지에스(GS)25 김제검산점",
+      "address": "전북특별자치도 김제시 검산동 828",
+      "roadAddress": "전북특별자치도 김제시 도작로 30 (검산동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-05-14"
+    },
+    {
+      "name": "씨유 요촌복지점",
+      "address": "전북특별자치도 김제시 요촌동 599-3",
+      "roadAddress": "전북특별자치도 김제시 요촌길 105 (요촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-05-28"
+    },
+    {
+      "name": "지에스25김제검산시영점",
+      "address": "전북특별자치도 김제시 검산동 1030-2 시영아파트",
+      "roadAddress": "전북특별자치도 김제시 요촌길 8 (검산동, 시영아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2024-05-30"
+    },
+    {
+      "name": "유한회사 슈퍼와",
+      "address": "전북특별자치도 김제시 서암동 399-1",
+      "roadAddress": "전북특별자치도 김제시 향교길 199 (서암동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-06-10"
+    },
+    {
+      "name": "씨유김제황산점",
+      "address": "전북특별자치도 김제시 황산면 봉월리 616-7",
+      "roadAddress": "전북특별자치도 김제시 황산면 용마로 68, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2024-06-04"
+    },
+    {
+      "name": "씨유 김제백산점",
+      "address": "전북특별자치도 김제시 하동 82-1",
+      "roadAddress": "전북특별자치도 김제시 학당길 9 (하동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-06-20"
+    },
+    {
+      "name": "유한회사 엔마트",
+      "address": "전북특별자치도 김제시 서암동 16",
+      "roadAddress": "전북특별자치도 김제시 남북로 271 (서암동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-03-07"
+    },
+    {
+      "name": "지에스25요촌행복점",
+      "address": "전북특별자치도 김제시 요촌동 178-1 제니오피스텔",
+      "roadAddress": "전북특별자치도 김제시 신풍길 253-5 (요촌동, 제니오피스텔)",
+      "status": "영업/정상",
+      "licenseDate": "2024-06-27"
+    },
+    {
+      "name": "씨유김제동서로점",
+      "address": "전북특별자치도 김제시 교동 117-52",
+      "roadAddress": "전북특별자치도 김제시 동서로 89, 1층 우측 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-08-19"
+    },
+    {
+      "name": "씨유김제검산부영점",
+      "address": "전북특별자치도 김제시 검산동 1032-1 부영아파트",
+      "roadAddress": "전북특별자치도 김제시 도작로 111, 상가동 101호 (검산동, 부영아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2024-08-16"
+    },
+    {
+      "name": "(주)제이앤에이치",
+      "address": "전북특별자치도 김제시 교동 123-6",
+      "roadAddress": "전북특별자치도 김제시 동서로 79, 1층층 101호 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-01-10"
+    },
+    {
+      "name": "지에스(GS)김제금산사점",
+      "address": "전북특별자치도 김제시 금산면 금산리 218-5",
+      "roadAddress": "전북특별자치도 김제시 금산면 모악로 427, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2025-07-23"
+    },
+    {
+      "name": "세븐일레븐 김제서희스타점",
+      "address": "전북특별자치도 김제시 금구면 금구리 317-10",
+      "roadAddress": "전북특별자치도 김제시 금구면 봉두4길 36",
+      "status": "영업/정상",
+      "licenseDate": "2025-08-13"
+    },
+    {
+      "name": "씨유 김제백구점",
+      "address": "전북특별자치도 김제시 백구면 반월리 149-18",
+      "roadAddress": "전북특별자치도 김제시 백구면 번영로 2539",
+      "status": "영업/정상",
+      "licenseDate": "2025-12-16"
+    }
+  ]
+}

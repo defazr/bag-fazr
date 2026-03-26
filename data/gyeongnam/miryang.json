@@ -1,0 +1,17 @@
+{
+  "region": "경상남도",
+  "regionSlug": "gyeongnam",
+  "district": "밀양시",
+  "districtSlug": "miryang",
+  "updatedAt": "2026-03-26",
+  "totalCount": 1,
+  "stores": [
+    {
+      "name": "우리소비자하이퍼마켓",
+      "address": "경상남도 밀양시 산내면 원서리 72",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2020-10-20"
+    }
+  ]
+}

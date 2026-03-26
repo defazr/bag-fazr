@@ -1,0 +1,808 @@
+{
+  "region": "경상북도",
+  "regionSlug": "gyeongbuk",
+  "district": "안동시",
+  "districtSlug": "andong",
+  "updatedAt": "2026-03-26",
+  "totalCount": 114,
+  "stores": [
+    {
+      "name": "하나로유통",
+      "address": "경상북도 안동시 용상동 581-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-09"
+    },
+    {
+      "name": "창고홈마트",
+      "address": "경상북도 안동시 평화동 156-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-24"
+    },
+    {
+      "name": "세영편의점",
+      "address": "경상북도 안동시 안기동 285",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-10"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경상북도 안동시 평화동 344-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-07"
+    },
+    {
+      "name": "아리랑마트",
+      "address": "경상북도 안동시 풍산읍 안교리 123-129",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-08"
+    },
+    {
+      "name": "푸른산쇼핑",
+      "address": "경상북도 안동시 목성동 40-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-11"
+    },
+    {
+      "name": "대석편의점",
+      "address": "경상북도 안동시 대석동 129",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-02"
+    },
+    {
+      "name": "1번지슈퍼",
+      "address": "경상북도 안동시 용상동 1204-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-03"
+    },
+    {
+      "name": "교동슈퍼",
+      "address": "경상북도 안동시 서후면 교리 483",
+      "roadAddress": "경상북도 안동시 서후면 서선길 191-8",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-26"
+    },
+    {
+      "name": "홈마트안동점",
+      "address": "경상북도 안동시 안막동 64-55",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-14"
+    },
+    {
+      "name": "자연슈퍼",
+      "address": "경상북도 안동시 태화동 634-118",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-28"
+    },
+    {
+      "name": "천산산장휴게소",
+      "address": "경상북도 안동시 서후면 태장리 933-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-29"
+    },
+    {
+      "name": "(주)라인유통킹스할인클럽",
+      "address": "경상북도 안동시 옥야동 327-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-14"
+    },
+    {
+      "name": "문구마트",
+      "address": "경상북도 안동시 옥동 618-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-28"
+    },
+    {
+      "name": "상아편의점",
+      "address": "경상북도 안동시 용상동 1461-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-02"
+    },
+    {
+      "name": "대농종묘사",
+      "address": "경상북도 안동시 일직면 운산리 95-47",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-16"
+    },
+    {
+      "name": "안동농협협동조합",
+      "address": "경상북도 안동시 당북동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-17"
+    },
+    {
+      "name": "오린편의점",
+      "address": "경상북도 안동시 송천동 865",
+      "roadAddress": "경상북도 안동시 송천2길 48  (송천동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-16"
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "경상북도 안동시 태화동 71-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-08"
+    },
+    {
+      "name": "축협중앙지소",
+      "address": "경상북도 안동시 서부동 177-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-23"
+    },
+    {
+      "name": "한양매점",
+      "address": "경상북도 안동시 동부동 75-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-23"
+    },
+    {
+      "name": "삼부유통",
+      "address": "경상북도 안동시 옥동 12-1블럭 세영상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-01"
+    },
+    {
+      "name": "동일화방액자제작소",
+      "address": "경상북도 안동시 북문동 27-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-03"
+    },
+    {
+      "name": "주)하나로홈마트 용상지점",
+      "address": "경상북도 안동시 용상동 1434",
+      "roadAddress": "경상북도 안동시 경동로 822  (용상동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-22"
+    },
+    {
+      "name": "진보종합슈퍼",
+      "address": "경상북도 안동시 용상동 1616",
+      "roadAddress": "경상북도 안동시 전거리2길 1  (용상동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-23"
+    },
+    {
+      "name": "럭키쇼핑",
+      "address": "경상북도 안동시 안기동 170-64",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-30"
+    },
+    {
+      "name": "태화문구사",
+      "address": "경상북도 안동시 태화동 224-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-28"
+    },
+    {
+      "name": "3주공수퍼",
+      "address": "경상북도 안동시 용상동 1461-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-15"
+    },
+    {
+      "name": "고려슈퍼",
+      "address": "경상북도 안동시 용상동 1154-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-19"
+    },
+    {
+      "name": "금탑마트",
+      "address": "경상북도 안동시 신안동 277-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신진슈퍼",
+      "address": "경상북도 안동시 태화동 702-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-01"
+    },
+    {
+      "name": "아리랑마트",
+      "address": "경상북도 안동시 송현동 346-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-20"
+    },
+    {
+      "name": "송천부녀회구판장",
+      "address": "경상북도 안동시 송천동 998",
+      "roadAddress": "경상북도 안동시 송천길 97-7  (송천동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-25"
+    },
+    {
+      "name": "노하동구판장",
+      "address": "경상북도 안동시 노하동 642",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-24"
+    },
+    {
+      "name": "현대편의점",
+      "address": "경상북도 안동시 안막동 산 14-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-17"
+    },
+    {
+      "name": "한가름마트",
+      "address": "경상북도 안동시 태화동 218-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-25"
+    },
+    {
+      "name": "대영슈퍼",
+      "address": "경상북도 안동시 옥야동 323-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-03"
+    },
+    {
+      "name": "서구사",
+      "address": "경상북도 안동시 풍산읍 하리리 233",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-24"
+    },
+    {
+      "name": "우성쇼핑",
+      "address": "경상북도 안동시 태화동 582-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-26"
+    },
+    {
+      "name": "숙이슈퍼",
+      "address": "경상북도 안동시 송천동 884-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-26"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상북도 안동시 태화동 230-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "세기마켓",
+      "address": "경상북도 안동시 옥야동 340-82",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-12-10"
+    },
+    {
+      "name": "용상새마을 금고",
+      "address": "경상북도 안동시 용상동 1246-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-31"
+    },
+    {
+      "name": "안기시장슈퍼",
+      "address": "경상북도 안동시 안기동 109-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-06"
+    },
+    {
+      "name": "만풍상회",
+      "address": "경상북도 안동시 태화동 694-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-06"
+    },
+    {
+      "name": "주진휴게소",
+      "address": "경상북도 안동시 와룡면 라소리 산 86-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-09"
+    },
+    {
+      "name": "동산편의점",
+      "address": "경상북도 안동시 태화동 204-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-07"
+    },
+    {
+      "name": "영심이",
+      "address": "경상북도 안동시 옥야동 292-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-28"
+    },
+    {
+      "name": "구시장마트",
+      "address": "경상북도 안동시 서부동 160-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-28"
+    },
+    {
+      "name": "(주)나이스마트안동점",
+      "address": "경상북도 안동시 운흥동 300-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-28"
+    },
+    {
+      "name": "청구하이츠마츠",
+      "address": "경상북도 안동시 송현동 515",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-15"
+    },
+    {
+      "name": "플라워메니아",
+      "address": "경상북도 안동시 남문동 189-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-01"
+    },
+    {
+      "name": "현대편의점",
+      "address": "경상북도 안동시 용상동 600",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-08"
+    },
+    {
+      "name": "영심이",
+      "address": "경상북도 안동시 옥야동 292-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-28"
+    },
+    {
+      "name": "동산편의점",
+      "address": "경상북도 안동시 태화동 204-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-07"
+    },
+    {
+      "name": "해송슈퍼",
+      "address": "경상북도 안동시 예안면 정산리 629-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-31"
+    },
+    {
+      "name": "바다마트",
+      "address": "경상북도 안동시 용상동 1624-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-31"
+    },
+    {
+      "name": "(주)홈마트",
+      "address": "경상북도 안동시 옥동 609-1",
+      "roadAddress": "경상북도 안동시 경북대로 396 (옥동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-14"
+    },
+    {
+      "name": "옥돌슈퍼",
+      "address": "경상북도 안동시 운흥동 254-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-11"
+    },
+    {
+      "name": "계명산자연휴양림",
+      "address": "경상북도 안동시 명륜동 344",
+      "roadAddress": "경상북도 안동시 퇴계로 115  (명륜동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-16"
+    },
+    {
+      "name": "총각슈퍼",
+      "address": "경상북도 안동시 태화동 631-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-13"
+    },
+    {
+      "name": "화성새마을슈퍼",
+      "address": "경상북도 안동시 화성동 118-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-06"
+    },
+    {
+      "name": "에버빌마트",
+      "address": "경상북도 안동시 정하동 240-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-06"
+    },
+    {
+      "name": "세화종합슈퍼",
+      "address": "경상북도 안동시 용상동 1085-2",
+      "roadAddress": "경상북도 안동시 마들1길 5  (용상동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-10"
+    },
+    {
+      "name": "태광슈퍼(상회)",
+      "address": "경상북도 안동시 옥야동 307-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-26"
+    },
+    {
+      "name": "삼선슈퍼",
+      "address": "경상북도 안동시 옥야동 306-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-10"
+    },
+    {
+      "name": "삼선슈퍼",
+      "address": "경상북도 안동시 옥야동 306-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-11"
+    },
+    {
+      "name": "아리랑주유소",
+      "address": "경상북도 안동시 태화동 227-2",
+      "roadAddress": "경상북도 안동시 태화중앙로 90 (태화동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-29"
+    },
+    {
+      "name": "엘리트문구전산",
+      "address": "경상북도 안동시 율세동 415-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-15"
+    },
+    {
+      "name": "광명슈퍼",
+      "address": "경상북도 안동시 태화동 175-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-18"
+    },
+    {
+      "name": "그린디스카운트스토아용상",
+      "address": "경상북도 안동시 용상동 1598-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-10"
+    },
+    {
+      "name": "공신슈퍼",
+      "address": "경상북도 안동시 임하면 신덕리 1154",
+      "roadAddress": "경상북도 안동시 임하면 건동길 2",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-22"
+    },
+    {
+      "name": "금소상회",
+      "address": "경상북도 안동시 임하면 금소리 575",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-11"
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "경상북도 안동시 용상동 1107-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-23"
+    },
+    {
+      "name": "금당고개쉼터",
+      "address": "경상북도 안동시 서후면 교리 507-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-11"
+    },
+    {
+      "name": "은혜상회",
+      "address": "경상북도 안동시 임하면 신덕리 658",
+      "roadAddress": "경상북도 안동시 임하면 범바위길 19-12",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-19"
+    },
+    {
+      "name": "솔뫼수퍼복사",
+      "address": "경상북도 안동시 송천동 477",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-29"
+    },
+    {
+      "name": "부성슈퍼",
+      "address": "경상북도 안동시 태화동 243-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-02"
+    },
+    {
+      "name": "2아파트문구",
+      "address": "경상북도 안동시 용상동 1475",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-11"
+    },
+    {
+      "name": "종합쇼핑",
+      "address": "경상북도 안동시 옥동 974",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-28"
+    },
+    {
+      "name": "일등슈퍼",
+      "address": "경상북도 안동시 태화동 656",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-08"
+    },
+    {
+      "name": "대동상사",
+      "address": "경상북도 안동시 천리동 209-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-08"
+    },
+    {
+      "name": "천리융성슈퍼",
+      "address": "경상북도 안동시 천리동 220-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-04"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상북도 안동시 임하면 임하리 305",
+      "roadAddress": "경상북도 안동시 임하면 푸레실길 12",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-22"
+    },
+    {
+      "name": "공주상회",
+      "address": "경상북도 안동시 용상동 1429-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-06"
+    },
+    {
+      "name": "안동슈퍼",
+      "address": "경상북도 안동시 남부동 236-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-17"
+    },
+    {
+      "name": "덕신유통",
+      "address": "경상북도 안동시 안기동 170-52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-05"
+    },
+    {
+      "name": "뉴-마트",
+      "address": "경상북도 안동시 옥동 993-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-06"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "경상북도 안동시 송천동 910-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-19"
+    },
+    {
+      "name": "삼성쇼핑",
+      "address": "경상북도 안동시 옥동 638-1 옥동 삼성 상가 126호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-06"
+    },
+    {
+      "name": "문일슈퍼",
+      "address": "경상북도 안동시 용상동 1109-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-07"
+    },
+    {
+      "name": "다모아마트",
+      "address": "경상북도 안동시 송천동 867-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-08"
+    },
+    {
+      "name": "구)현대슈퍼",
+      "address": "경상북도 안동시 용상동 570-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-06"
+    },
+    {
+      "name": "하나편의점",
+      "address": "경상북도 안동시 용상동 1471-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-25"
+    },
+    {
+      "name": "코렉스마트",
+      "address": "경상북도 안동시 용상동 1110-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-27"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상북도 안동시 천리동 222",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-03"
+    },
+    {
+      "name": "신사장마트",
+      "address": "경상북도 안동시 옥야동 284-66",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-18"
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "경상북도 안동시 남부동 169-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-20"
+    },
+    {
+      "name": "우아미슈퍼",
+      "address": "경상북도 안동시 북문동 19-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-09"
+    },
+    {
+      "name": "옥 슈퍼",
+      "address": "경상북도 안동시 옥정동 440-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-23"
+    },
+    {
+      "name": "삼성명가마트",
+      "address": "경상북도 안동시 송현동 527",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "그린홈마트",
+      "address": "경상북도 안동시 용상동 1598-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-17"
+    },
+    {
+      "name": "문성편의점",
+      "address": "경상북도 안동시 동부동 119-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-29"
+    },
+    {
+      "name": "훼미리마트안동중앙점",
+      "address": "경상북도 안동시 삼산동 173",
+      "roadAddress": "경상북도 안동시 서동문로 174-3  (삼산동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-18"
+    },
+    {
+      "name": "훼미리마트안동사랑점",
+      "address": "경상북도 안동시 법상동 152-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-22"
+    },
+    {
+      "name": "옥동 18시마트",
+      "address": "경상북도 안동시 옥동 791-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-09"
+    },
+    {
+      "name": "한마음마트",
+      "address": "경상북도 안동시 운안동 345 101호",
+      "roadAddress": "경상북도 안동시 단원로 81-8,  101호 (운안동)",
+      "status": "영업/정상",
+      "licenseDate": "2010-06-16"
+    },
+    {
+      "name": "경상북도 북부건설사업소",
+      "address": "경상북도 안동시 풍산읍 상리리 500-120 경상북도북부청사",
+      "roadAddress": "경상북도 안동시 풍산읍 풍산태사로 1165, 경상북도북부청사",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍요마트",
+      "address": "",
+      "roadAddress": "경상북도 안동시 풍천면 풍요6길 12",
+      "status": "영업/정상",
+      "licenseDate": "2016-04-18"
+    },
+    {
+      "name": "서안동농협 신도청지점",
+      "address": "경상북도 안동시 풍천면 갈전리 1280",
+      "roadAddress": "경상북도 안동시 풍천면 새움3로 69",
+      "status": "영업/정상",
+      "licenseDate": "2020-04-08"
+    },
+    {
+      "name": "하늘채 마트",
+      "address": "경상북도 안동시 풍천면 갈전리 1177 경북도청신도시 코오롱하늘채",
+      "roadAddress": "경상북도 안동시 풍천면 검무로 35-14 (경북도청신도시 코오롱하늘채)",
+      "status": "영업/정상",
+      "licenseDate": "2020-10-07"
+    },
+    {
+      "name": "이마트24 경북도청점",
+      "address": "경상북도 안동시 풍천면 갈전리 1155 경상북도청",
+      "roadAddress": "경상북도 안동시 풍천면 도청대로 455, 경상북도청 108호",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-07"
+    },
+    {
+      "name": "GS25 풍천하늘채점",
+      "address": "경상북도 안동시 풍천면 갈전리 1177",
+      "roadAddress": "경상북도 안동시 풍천면 검무로 35-18, 110,111호",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-18"
+    },
+    {
+      "name": "CU 경북경찰청앞점",
+      "address": "경상북도 안동시 풍천면 갈전리 1330",
+      "roadAddress": "경상북도 안동시 풍천면 풍요5길 30-3, 102~104호",
+      "status": "영업/정상",
+      "licenseDate": "2023-10-25"
+    }
+  ]
+}

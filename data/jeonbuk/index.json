@@ -1,0 +1,78 @@
+{
+  "region": "전북특별자치도",
+  "regionSlug": "jeonbuk",
+  "updatedAt": "2026-03-26",
+  "totalCount": 5370,
+  "districts": [
+    {
+      "district": "부안군",
+      "districtSlug": "buan",
+      "count": 279
+    },
+    {
+      "district": "김제시",
+      "districtSlug": "gimje",
+      "count": 80
+    },
+    {
+      "district": "고창군",
+      "districtSlug": "gochang",
+      "count": 224
+    },
+    {
+      "district": "군산시",
+      "districtSlug": "gunsan",
+      "count": 671
+    },
+    {
+      "district": "익산시",
+      "districtSlug": "iksan",
+      "count": 321
+    },
+    {
+      "district": "임실군",
+      "districtSlug": "imsil",
+      "count": 230
+    },
+    {
+      "district": "장수군",
+      "districtSlug": "jangsu",
+      "count": 46
+    },
+    {
+      "district": "정읍시",
+      "districtSlug": "jeongeup",
+      "count": 487
+    },
+    {
+      "district": "전주시",
+      "districtSlug": "jeonju",
+      "count": 2028
+    },
+    {
+      "district": "진안군",
+      "districtSlug": "jinan",
+      "count": 130
+    },
+    {
+      "district": "무주군",
+      "districtSlug": "muju",
+      "count": 186
+    },
+    {
+      "district": "남원시",
+      "districtSlug": "namwon",
+      "count": 357
+    },
+    {
+      "district": "순창군",
+      "districtSlug": "sunchang",
+      "count": 12
+    },
+    {
+      "district": "완주군",
+      "districtSlug": "wanju",
+      "count": 319
+    }
+  ]
+}

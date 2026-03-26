@@ -1,0 +1,80 @@
+{
+  "region": "인천광역시",
+  "regionSlug": "incheon",
+  "district": "계양구",
+  "districtSlug": "gyeyang",
+  "updatedAt": "2026-03-26",
+  "totalCount": 10,
+  "stores": [
+    {
+      "name": "부성슈퍼",
+      "address": "인천광역시 계양구 효성동 260-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-05"
+    },
+    {
+      "name": "바이더웨이작전중앙점",
+      "address": "인천광역시 계양구 작전동 98-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-10-23"
+    },
+    {
+      "name": "오감만족",
+      "address": "인천광역시 계양구 계산동 1080-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-10-20"
+    },
+    {
+      "name": "믿음상회",
+      "address": "인천광역시 계양구 서운동 142-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-10-19"
+    },
+    {
+      "name": "모닝마트",
+      "address": "인천광역시 계양구 서운동 52-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-10-12"
+    },
+    {
+      "name": "마을슈퍼",
+      "address": "인천광역시 계양구 작전동 232-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-10-12"
+    },
+    {
+      "name": "GS25귤현제일점",
+      "address": "인천광역시 계양구 귤현동 491-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-29"
+    },
+    {
+      "name": "미니스톱인천작전점",
+      "address": "인천광역시 계양구 작전동 900-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-29"
+    },
+    {
+      "name": "한아름유통",
+      "address": "인천광역시 계양구 작전동 868-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-24"
+    },
+    {
+      "name": "뉴서울마트",
+      "address": "인천광역시 계양구 작전동 26-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-18"
+    }
+  ]
+}

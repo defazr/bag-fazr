@@ -1,0 +1,38 @@
+{
+  "region": "충청남도",
+  "regionSlug": "chungnam",
+  "district": "서산시",
+  "districtSlug": "seosan",
+  "updatedAt": "2026-03-26",
+  "totalCount": 4,
+  "stores": [
+    {
+      "name": "가락동농축산마트",
+      "address": "충청남도 서산시 인지면 풍전리 20",
+      "roadAddress": "충청남도 서산시 인지면 풍전2길 234-1",
+      "status": "영업/정상",
+      "licenseDate": "2010-09-16"
+    },
+    {
+      "name": "미니스톱천안성정점",
+      "address": "충청남도 서산시 음암면 부산리 33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-25"
+    },
+    {
+      "name": "엘마트",
+      "address": "충청남도 서산시 음암면 도당리 1550-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-12-07"
+    },
+    {
+      "name": "GS25 서산시네마점",
+      "address": "충청남도 서산시 동문동 194-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-12-09"
+    }
+  ]
+}

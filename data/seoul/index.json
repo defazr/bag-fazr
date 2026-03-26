@@ -1,0 +1,133 @@
+{
+  "region": "서울특별시",
+  "regionSlug": "seoul",
+  "updatedAt": "2026-03-26",
+  "totalCount": 13523,
+  "districts": [
+    {
+      "district": "도봉구",
+      "districtSlug": "dobong",
+      "count": 4
+    },
+    {
+      "district": "동대문구",
+      "districtSlug": "dongdaemun",
+      "count": 823
+    },
+    {
+      "district": "동작구",
+      "districtSlug": "dongjak",
+      "count": 1
+    },
+    {
+      "district": "은평구",
+      "districtSlug": "eunpyeong",
+      "count": 71
+    },
+    {
+      "district": "강북구",
+      "districtSlug": "gangbuk",
+      "count": 1779
+    },
+    {
+      "district": "강동구",
+      "districtSlug": "gangdong",
+      "count": 2393
+    },
+    {
+      "district": "강남구",
+      "districtSlug": "gangnam",
+      "count": 2002
+    },
+    {
+      "district": "강서구",
+      "districtSlug": "gangseo",
+      "count": 1518
+    },
+    {
+      "district": "금천구",
+      "districtSlug": "geumcheon",
+      "count": 47
+    },
+    {
+      "district": "구로구",
+      "districtSlug": "guro",
+      "count": 4
+    },
+    {
+      "district": "관악구",
+      "districtSlug": "gwanak",
+      "count": 7
+    },
+    {
+      "district": "광진구",
+      "districtSlug": "gwangjin",
+      "count": 86
+    },
+    {
+      "district": "종로구",
+      "districtSlug": "jongno",
+      "count": 639
+    },
+    {
+      "district": "중구",
+      "districtSlug": "junggu",
+      "count": 2727
+    },
+    {
+      "district": "중랑구",
+      "districtSlug": "jungnang",
+      "count": 0
+    },
+    {
+      "district": "마포구",
+      "districtSlug": "mapo",
+      "count": 603
+    },
+    {
+      "district": "노원구",
+      "districtSlug": "nowon",
+      "count": 91
+    },
+    {
+      "district": "서초구",
+      "districtSlug": "seocho",
+      "count": 291
+    },
+    {
+      "district": "서대문구",
+      "districtSlug": "seodaemun",
+      "count": 4
+    },
+    {
+      "district": "성북구",
+      "districtSlug": "seongbuk",
+      "count": 414
+    },
+    {
+      "district": "성동구",
+      "districtSlug": "seongdong",
+      "count": 7
+    },
+    {
+      "district": "송파구",
+      "districtSlug": "songpa",
+      "count": 0
+    },
+    {
+      "district": "양천구",
+      "districtSlug": "yangcheon",
+      "count": 2
+    },
+    {
+      "district": "영등포구",
+      "districtSlug": "yeongdeungpo",
+      "count": 8
+    },
+    {
+      "district": "용산구",
+      "districtSlug": "yongsan",
+      "count": 2
+    }
+  ]
+}

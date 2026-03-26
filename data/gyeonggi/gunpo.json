@@ -1,0 +1,3104 @@
+{
+  "region": "경기도",
+  "regionSlug": "gyeonggi",
+  "district": "군포시",
+  "districtSlug": "gunpo",
+  "updatedAt": "2026-03-26",
+  "totalCount": 442,
+  "stores": [
+    {
+      "name": "IGA 산본온누리점",
+      "address": "경기도 군포시 산본동 208번지외 래미안하이어스단지 147동 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-28"
+    },
+    {
+      "name": "GS25 산본중앙",
+      "address": "경기도 군포시 산본동 1134번지 센타A빌딩 104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-22"
+    },
+    {
+      "name": "래미안슈퍼",
+      "address": "경기도 군포시 산본동 1240번지 래미안하이어스상가 148호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-22"
+    },
+    {
+      "name": "세븐일레븐 금정삼성쉐르빌점",
+      "address": "경기도 군포시 산본동 1026-10외8필지 금정삼성쉐르빌상가 148호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-22"
+    },
+    {
+      "name": "(주)자유할인마트",
+      "address": "경기도 군포시 산본1동 91-41호 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-18"
+    },
+    {
+      "name": "훼미리마트 군포행운점",
+      "address": "경기도 군포시 금정동 757-15 (1층)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-15"
+    },
+    {
+      "name": "하모니마트",
+      "address": "경기도 군포시 당동 917-4 101호,102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-11"
+    },
+    {
+      "name": "대우할인마트",
+      "address": "경기도 군포시 당정동 1025-1외1 청천마을 대우(아)단지내상가 103,104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-05"
+    },
+    {
+      "name": "화성슈퍼",
+      "address": "경기도 군포시 군포1동 747-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-09-28"
+    },
+    {
+      "name": "하모니마트 산본래미안점",
+      "address": "경기도 군포시 산본2동 208외5필지 삼성래미안1단지 분산상가1,2호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-09-27"
+    },
+    {
+      "name": "롯데쇼핑(주)롯데슈퍼",
+      "address": "경기도 군포시 대야미동  17블럭5롯트 스타파크 B101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-07-20"
+    },
+    {
+      "name": "365복권잔치",
+      "address": "경기도 군포시 대야미동 374-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-06-09"
+    },
+    {
+      "name": "대야할인마트",
+      "address": "경기도 군포시 대야미동 29블럭4롯트외2필지 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-17"
+    },
+    {
+      "name": "군포농업협동조합",
+      "address": "경기도 군포시 금정동 728-7 경기도 군포시 산본동 1099",
+      "roadAddress": "경기도 군포시 당산로171번길 1 (금정동)",
+      "status": "영업/정상",
+      "licenseDate": "2010-03-22"
+    },
+    {
+      "name": "군포농협협동조합",
+      "address": "경기도 군포시 금정동 율곡지하상가 지하1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-03-22"
+    },
+    {
+      "name": "세븐일레븐 금정역점",
+      "address": "경기도 군포시 금정동 40-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-08-20"
+    },
+    {
+      "name": "아이지에이 금정공단",
+      "address": "경기도 군포시 금정동 689-28 한림테크노 103, 106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-06-18"
+    },
+    {
+      "name": "LG25 군포금정점",
+      "address": "경기도 군포시 금정동 747",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-04-13"
+    },
+    {
+      "name": "군포농협협동조합",
+      "address": "경기도 군포시 금정동 728-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-03-22"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "경기도 군포시 금정동 725-42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-11-30"
+    },
+    {
+      "name": "e 편한마트",
+      "address": "경기도 군포시 산본2동 310-2 e편한 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-08-24"
+    },
+    {
+      "name": "미니스톱 금정연아점",
+      "address": "경기도 군포시 산본1동 92-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-11-18"
+    },
+    {
+      "name": "알뜰할인마트",
+      "address": "경기도 군포시 산본1동 1029-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-11-10"
+    },
+    {
+      "name": "삼호농축산",
+      "address": "경기도 군포시 산본1동 85-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-04-23"
+    },
+    {
+      "name": "e편한 할인마트",
+      "address": "경기도 군포시 당동  979-1외2 용호마을 e편한상가 2/107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-08-05"
+    },
+    {
+      "name": "미니스톱 당정역점",
+      "address": "경기도 군포시 당동 923 대흥상가 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-08-05"
+    },
+    {
+      "name": "24시농수산마트",
+      "address": "경기도 군포시 부곡동 부곡택지개발지구 부곡A-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-07-02"
+    },
+    {
+      "name": "군포농협협동조합",
+      "address": "경기도 군포시 당동 750-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-03-22"
+    },
+    {
+      "name": "GS25 군포한솔점",
+      "address": "경기도 군포시 당정동 995-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-08-30"
+    },
+    {
+      "name": "군포할인마트",
+      "address": "경기도 군포시 군포1동  772-1번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-23"
+    },
+    {
+      "name": "장터DC마트",
+      "address": "경기도 군포시 군포1동 732-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-18"
+    },
+    {
+      "name": "충남상회",
+      "address": "경기도 군포시 당정동 231-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-18"
+    },
+    {
+      "name": "은화상회",
+      "address": "경기도 군포시 군포1동 434",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-18"
+    },
+    {
+      "name": "제일슈퍼(명상)",
+      "address": "경기도 군포시 군포1동 740-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-01-01"
+    },
+    {
+      "name": "일심식품",
+      "address": "경기도 군포시 군포1동 당동 748-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-02"
+    },
+    {
+      "name": "오봉상회",
+      "address": "경기도 군포시 군포1동 당정동294-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-19"
+    },
+    {
+      "name": "은성종합공구",
+      "address": "경기도 군포시 군포1동 369-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-11"
+    },
+    {
+      "name": "진미슈퍼",
+      "address": "경기도 군포시 군포1동 630-1번지(당정동)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-31"
+    },
+    {
+      "name": "안성슈퍼",
+      "address": "경기도 군포시 군포1동 778-13번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-18"
+    },
+    {
+      "name": "은혜미니마트",
+      "address": "경기도 군포시 군포1동  754-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-24"
+    },
+    {
+      "name": "은진마트",
+      "address": "경기도 군포시 군포1동 766-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-03"
+    },
+    {
+      "name": "나이스데이(24마트)",
+      "address": "경기도 군포시 군포1동 750-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-13"
+    },
+    {
+      "name": "정훈할인마트",
+      "address": "경기도 군포시 군포1동 759 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-10-20"
+    },
+    {
+      "name": "당동DC마트",
+      "address": "경기도 군포시 군포1동  846-5 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-31"
+    },
+    {
+      "name": "다래하이퍼마켓",
+      "address": "경기도 군포시 군포1동 739-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-06"
+    },
+    {
+      "name": "만물철물",
+      "address": "경기도 군포시 군포1동  729-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-13"
+    },
+    {
+      "name": "보람슈퍼",
+      "address": "경기도 군포시 군포1동 862",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-15"
+    },
+    {
+      "name": "행운슈퍼",
+      "address": "경기도 군포시 군포1동  115-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-20"
+    },
+    {
+      "name": "한미할인마트",
+      "address": "경기도 군포시 군포2동  793-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-23"
+    },
+    {
+      "name": "보영할인매장",
+      "address": "경기도 군포시 군포1동  836-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-10"
+    },
+    {
+      "name": "킴스클럽마트군포점",
+      "address": "경기도 군포시 군포1동  784-5.6번지 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-27"
+    },
+    {
+      "name": "수리산마트",
+      "address": "경기도 군포시 군포1동  789-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-28"
+    },
+    {
+      "name": "gs25 군포으뜸점",
+      "address": "경기도 군포시 군포1동  743-19외 1필지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-13"
+    },
+    {
+      "name": "한솔마트",
+      "address": "경기도 군포시 군포1동 16-1 한솔테크노타운 117",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-08-16"
+    },
+    {
+      "name": "명성아울렛",
+      "address": "경기도 군포시 군포1동 2블럭 5롯트 오성상가 105동 B04호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-02-25"
+    },
+    {
+      "name": "훼미리마트 군포본점",
+      "address": "경기도 군포시 군포1동 763-20번지 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-09-12"
+    },
+    {
+      "name": "군포할인공판장",
+      "address": "경기도 군포시 군포1동 759-11번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-17"
+    },
+    {
+      "name": "조아슈퍼",
+      "address": "경기도 군포시 군포1동  437-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-03"
+    },
+    {
+      "name": "훼미리마트당동제일점",
+      "address": "경기도 군포시 군포1동  836-2번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-19"
+    },
+    {
+      "name": "금봉매점",
+      "address": "경기도 군포시 군포1동 93-5 금봉테크노밸리 2차 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-01"
+    },
+    {
+      "name": "바이더웨이누리에뜰2",
+      "address": "경기도 군포시 군포1동 974-6 106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-24"
+    },
+    {
+      "name": "성원마트",
+      "address": "경기도 군포시 군포1동 당정동 997-1 성원아파트상가 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-26"
+    },
+    {
+      "name": "열린마트",
+      "address": "경기도 군포시 군포1동 당동 763-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-13"
+    },
+    {
+      "name": "대명슈퍼",
+      "address": "경기도 군포시 군포1동 당동 765-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-20"
+    },
+    {
+      "name": "바이더웨이",
+      "address": "경기도 군포시 군포1동 당정동 552 101동 215호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-21"
+    },
+    {
+      "name": "홈마트",
+      "address": "경기도 군포시 군포1동 당정동 986-2 1층 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-09"
+    },
+    {
+      "name": "마을상회",
+      "address": "경기도 군포시 군포1동  216-1 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-13"
+    },
+    {
+      "name": "K-마트",
+      "address": "경기도 군포시 군포1동  835-76 두아골들빌 B-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-21"
+    },
+    {
+      "name": "한마음슈퍼",
+      "address": "경기도 군포시 군포1동 731-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-11-30"
+    },
+    {
+      "name": "공단매점",
+      "address": "경기도 군포시 군포1동 508-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-12-03"
+    },
+    {
+      "name": "뉴마트",
+      "address": "경기도 군포시 당동 769-6번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-20"
+    },
+    {
+      "name": "우리마트",
+      "address": "경기도 군포시 군포1동 732-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-09"
+    },
+    {
+      "name": "화니슈퍼",
+      "address": "경기도 군포시 군포1동 780번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "청맥슈퍼",
+      "address": "경기도 군포시 군포1동 748-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "훼미리마트군포점",
+      "address": "경기도 군포시 군포1동  775-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-30"
+    },
+    {
+      "name": "대원슈퍼",
+      "address": "경기도 군포시 군포1동  750-6 번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-14"
+    },
+    {
+      "name": "행운하이퍼",
+      "address": "경기도 군포시 군포1동 756-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "무진장상회",
+      "address": "경기도 군포시 군포1동 750-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-10"
+    },
+    {
+      "name": "GS25 군포일동점",
+      "address": "경기도 군포시 군포1동 853-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-12"
+    },
+    {
+      "name": "무지개슈퍼",
+      "address": "경기도 군포시 군포1동 740-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-23"
+    },
+    {
+      "name": "운악슈퍼",
+      "address": "경기도 군포시 군포1동 413번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-20"
+    },
+    {
+      "name": "두리슈퍼마켓",
+      "address": "경기도 군포시 군포1동 236-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-17"
+    },
+    {
+      "name": "당정럭키슈퍼",
+      "address": "경기도 군포시 군포1동 103-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "경기도 군포시 당정동  506-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "세경마트",
+      "address": "경기도 군포시 산본1동 1034-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-17"
+    },
+    {
+      "name": "훼미리마트군포금정점",
+      "address": "경기도 군포시 산본1동 265-9   1층 전체",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-01"
+    },
+    {
+      "name": "진슈퍼",
+      "address": "경기도 군포시 산본1동 229-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-25"
+    },
+    {
+      "name": "우리마트",
+      "address": "경기도 군포시 산본1동 1056-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-15"
+    },
+    {
+      "name": "산본마트",
+      "address": "경기도 군포시 산본1동 81-1 신광빌딩1층상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-02"
+    },
+    {
+      "name": "나누리마트",
+      "address": "경기도 군포시 산본1동 84-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-20"
+    },
+    {
+      "name": "우주공판장",
+      "address": "경기도 군포시 산본1동 79-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-16"
+    },
+    {
+      "name": "삼성마트",
+      "address": "경기도 군포시 산본1동 1028 삼성아파트상가 B01",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-25"
+    },
+    {
+      "name": "다농마트",
+      "address": "경기도 군포시 산본1동 216-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-22"
+    },
+    {
+      "name": "IGA금정본점",
+      "address": "경기도 군포시 산본1동 98번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-02-08"
+    },
+    {
+      "name": "산본마트",
+      "address": "경기도 군포시 산본1동 221-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-05-17"
+    },
+    {
+      "name": "형제상회",
+      "address": "경기도 군포시 산본1동 213-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-04"
+    },
+    {
+      "name": "천지",
+      "address": "경기도 군포시 산본1동 18-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-21"
+    },
+    {
+      "name": "현대종합할인마트",
+      "address": "경기도 군포시 산본1동  90-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-25"
+    },
+    {
+      "name": "gs25 금정역",
+      "address": "경기도 군포시 산본1동 266-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-30"
+    },
+    {
+      "name": "한아름마트",
+      "address": "경기도 군포시 산본1동 90-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-31"
+    },
+    {
+      "name": "세원슈퍼",
+      "address": "경기도 군포시 산본1동  73-19 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-09"
+    },
+    {
+      "name": "우향종합상사",
+      "address": "경기도 군포시 군포1동 852-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-06"
+    },
+    {
+      "name": "GS25 군포태광점",
+      "address": "경기도 군포시 금정동 838-10 태광오피스텔 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-12"
+    },
+    {
+      "name": "주)경기티엔씨",
+      "address": "경기도 군포시 금정동 725-1(6층)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-04"
+    },
+    {
+      "name": "광원슈퍼",
+      "address": "경기도 군포시 금정동 758-6 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-03"
+    },
+    {
+      "name": "세븐일레븐 금정2호점",
+      "address": "경기도 군포시 금정동 742-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-29"
+    },
+    {
+      "name": "공단슈퍼",
+      "address": "경기도 군포시 금정동 692번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-14"
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "경기도 군포시 궁내동 백두@ 한양종합상가103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-16"
+    },
+    {
+      "name": "아이마트",
+      "address": "경기도 군포시 궁내동 1148 묘향상가 B01호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-19"
+    },
+    {
+      "name": "코코마트",
+      "address": "경기도 군포시 궁내동 1146 대림솔거상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-12"
+    },
+    {
+      "name": "코사마트",
+      "address": "경기도 군포시 궁내동 1146-7 1층 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-27"
+    },
+    {
+      "name": "새마을직판장",
+      "address": "경기도 군포시 산본동 1146-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-21"
+    },
+    {
+      "name": "동성마트",
+      "address": "경기도 군포시 산본동 1119-4  백두@상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-28"
+    },
+    {
+      "name": "세븐일레븐산본점",
+      "address": "경기도 군포시 산본동 1147번지 금강상가 115호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-03"
+    },
+    {
+      "name": "현대마트",
+      "address": "경기도 군포시 궁내동 1147 금강2 단지주상복합 C.D동지하 12호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-09-20"
+    },
+    {
+      "name": "종합문구",
+      "address": "경기도 군포시 산본동 1148-4 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-07"
+    },
+    {
+      "name": "빈마트",
+      "address": "경기도 군포시 궁내동 1119 백두한양아파트상가 B01호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-11-01"
+    },
+    {
+      "name": "훼미리마트산본",
+      "address": "경기도 군포시 광정동 1134-2번지 신명타운1층 1005호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-22"
+    },
+    {
+      "name": "목련할인마트",
+      "address": "경기도 군포시 광정동 1091-1번지 목련APT상기 지하5호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-16"
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "경기도 군포시 광정동 을지상가지하(621동)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-04"
+    },
+    {
+      "name": "L마트",
+      "address": "경기도 군포시 광정동 주몽2차단지일반상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-13"
+    },
+    {
+      "name": "강원슈퍼",
+      "address": "경기도 군포시 광정동 1129-1 럭키빌딩 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-11"
+    },
+    {
+      "name": "IGA산본점",
+      "address": "경기도 군포시 산본동 1130-3 백운빌딩 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-19"
+    },
+    {
+      "name": "GS25 산본경원",
+      "address": "경기도 군포시 산본동 1126 경원빌딩 1층 113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-15"
+    },
+    {
+      "name": "한샘문구센타",
+      "address": "경기도 군포시 산본동 1131-2 청운빌딩 101.102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-19"
+    },
+    {
+      "name": "신세계슈퍼",
+      "address": "경기도 군포시 광정동 중심상업지역 1131 서련빌딩 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-27"
+    },
+    {
+      "name": "세븐일레븐1682호점",
+      "address": "경기도 군포시 군포1동 777-3 1층 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-11"
+    },
+    {
+      "name": "우리매점",
+      "address": "경기도 군포시 군포1동 347-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-26"
+    },
+    {
+      "name": "행운마트",
+      "address": "경기도 군포시 군포1동 783-8 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-02"
+    },
+    {
+      "name": "동산슈퍼",
+      "address": "경기도 군포시 군포1동 150-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-22"
+    },
+    {
+      "name": "우리할인마트",
+      "address": "경기도 군포시 군포1동 729-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-24"
+    },
+    {
+      "name": "제주슈퍼",
+      "address": "경기도 군포시 군포1동 774-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-13"
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "경기도 군포시 군포1동  752-6번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-03"
+    },
+    {
+      "name": "대영슈퍼",
+      "address": "경기도 군포시 군포1동 756-13유한빌라 지하1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-13"
+    },
+    {
+      "name": "K-1마트",
+      "address": "경기도 군포시 군포1동 15블럭2롯트 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-18"
+    },
+    {
+      "name": "우리마트",
+      "address": "경기도 군포시 군포1동 788-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-18"
+    },
+    {
+      "name": "L마트",
+      "address": "경기도 군포시 군포1동 852    1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-01"
+    },
+    {
+      "name": "청양슈퍼",
+      "address": "경기도 군포시 군포1동 (108-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-17"
+    },
+    {
+      "name": "당동할인마트",
+      "address": "경기도 군포시 군포1동  770-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-13"
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "경기도 군포시 군포1동 762 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-07"
+    },
+    {
+      "name": "훼미리마트 동군포점",
+      "address": "경기도 군포시 군포1동 135-1.4 동영벤처스텔 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-09"
+    },
+    {
+      "name": "IGA편의점",
+      "address": "경기도 군포시 군포2동 904-4 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-12-20"
+    },
+    {
+      "name": "군포할인마트",
+      "address": "경기도 군포시 군포1동 750-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-03"
+    },
+    {
+      "name": "대명슈퍼",
+      "address": "경기도 군포시 군포1동 765-4 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-11"
+    },
+    {
+      "name": "우리마트",
+      "address": "경기도 군포시 군포1동 784-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-28"
+    },
+    {
+      "name": "그린스퀘어",
+      "address": "경기도 군포시 군포1동 43블럭 3롯트신세기프라자 103호-107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-05-22"
+    },
+    {
+      "name": "아주마트",
+      "address": "경기도 군포시 산본1동 73-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-10"
+    },
+    {
+      "name": "영빈마트",
+      "address": "경기도 군포시 산본1동 238-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-23"
+    },
+    {
+      "name": "금강마트",
+      "address": "경기도 군포시 산본1동 18-10번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-03"
+    },
+    {
+      "name": "덕풍슈퍼",
+      "address": "경기도 군포시 금정동 170-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-20"
+    },
+    {
+      "name": "IGA한림휴먼타워",
+      "address": "경기도 군포시 금정동 1-40 한림휴먼타워 109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-18"
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "경기도 군포시 금정동 43-3  1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-08"
+    },
+    {
+      "name": "오비탈문구",
+      "address": "경기도 군포시 광정동 1120 10단지 종합상가 201",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-06"
+    },
+    {
+      "name": "공원슈퍼",
+      "address": "경기도 군포시 광정동 1121",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-28"
+    },
+    {
+      "name": "(주)뉴코아아울렛산본",
+      "address": "경기도 군포시 광정동 1231번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-11"
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "경기도 군포시 광정동 1091 목련분산상가 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-29"
+    },
+    {
+      "name": "GS25 산본대림점",
+      "address": "경기도 군포시 산본동 1099-4 대림타운 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-16"
+    },
+    {
+      "name": "신원전기철물",
+      "address": "경기도 군포시 산본동 1123-5 신원타워빌딩 108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-20"
+    },
+    {
+      "name": "GS25산본거성점",
+      "address": "경기도 군포시 산본동 1139-3 거성프라자 105.106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-10"
+    },
+    {
+      "name": "상민슈퍼",
+      "address": "경기도 군포시 광정동 1120 주몽종합상가 106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-05"
+    },
+    {
+      "name": "세종마트",
+      "address": "경기도 군포시 산본동 1145-3 단지내상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-13"
+    },
+    {
+      "name": "개풍DC마트",
+      "address": "경기도 군포시 산본동  1106 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-08-23"
+    },
+    {
+      "name": "우방슈퍼",
+      "address": "경기도 군포시 산본동 1091-1 목련@분산상가동 제1층 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-03"
+    },
+    {
+      "name": "훼미리마트군포산본점",
+      "address": "경기도 군포시 산본동 1135번지 107호.110호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-04-21"
+    },
+    {
+      "name": "해성슈퍼",
+      "address": "경기도 군포시 산본동  1111번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-16"
+    },
+    {
+      "name": "에덴슈퍼",
+      "address": "경기도 군포시 광정동 1129-2번지 산본프라자 114호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-05"
+    },
+    {
+      "name": "GS25산본우정점",
+      "address": "경기도 군포시 산본동 1138번지 우정빌딩 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-30"
+    },
+    {
+      "name": "훼미리마트 산본역점",
+      "address": "경기도 군포시 산본동 1134-2번지 신영빌딩 1005",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-24"
+    },
+    {
+      "name": "IGA 산본중앙점",
+      "address": "경기도 군포시 광정동 1137 동화프라자 1층 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-06"
+    },
+    {
+      "name": "럭키슈퍼렛",
+      "address": "경기도 군포시 광정동  1145-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-16"
+    },
+    {
+      "name": "세븐일레븐디오플러스",
+      "address": "경기도 군포시 광정동 1142-2 산본대우디오플러스 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-20"
+    },
+    {
+      "name": "맑은샘마트",
+      "address": "경기도 군포시 산본동 1100-2번지(992동후문쪽)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-30"
+    },
+    {
+      "name": "산본구판장",
+      "address": "경기도 군포시 산본동 1088 한양목련상가 지하 B1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-03"
+    },
+    {
+      "name": "꽃슈퍼",
+      "address": "경기도 군포시 광정동 1123-3번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-20"
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "경기도 군포시 광정동 1092번지 11단지 장미아파트상가 B-102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-13"
+    },
+    {
+      "name": "24시 슈퍼",
+      "address": "경기도 군포시 산본동 1142-5 금화프라자 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-01-21"
+    },
+    {
+      "name": "한솔할인마트",
+      "address": "경기도 군포시 산본1동 1055-1 매화@ 2차상가동 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-04-18"
+    },
+    {
+      "name": "돼지마트",
+      "address": "경기도 군포시 산본1동  89-4 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-08"
+    },
+    {
+      "name": "DC백화점",
+      "address": "경기도 군포시 산본1동 225-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-07"
+    },
+    {
+      "name": "세븐일레븐 군포금점",
+      "address": "경기도 군포시 산본1동 1026-52 L&C 타워 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-30"
+    },
+    {
+      "name": "(주)케이에스글로벌",
+      "address": "경기도 군포시 산본1동 81-29호 산본종합상가 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-09"
+    },
+    {
+      "name": "진로마트",
+      "address": "경기도 군포시 산본1동  213-7 8번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-25"
+    },
+    {
+      "name": "덕본슈퍼",
+      "address": "경기도 군포시 산본1동 229-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-11-20"
+    },
+    {
+      "name": "골안슈퍼",
+      "address": "경기도 군포시 산본2동 1077번지 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-01"
+    },
+    {
+      "name": "수리산슈퍼",
+      "address": "경기도 군포시 산본2동 3-2단계133호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-15"
+    },
+    {
+      "name": "훈이슈퍼",
+      "address": "경기도 군포시 산본2동 1052 주공11단지 상가 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-01"
+    },
+    {
+      "name": "주공공판장",
+      "address": "경기도 군포시 산본2동 1066-4 개나리주공상가 나동 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-07"
+    },
+    {
+      "name": "GS25산본타운점",
+      "address": "경기도 군포시 산본2동 1060번지 산본타운빌딩103-104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-31"
+    },
+    {
+      "name": "올웨이즈",
+      "address": "경기도 군포시 산본2동 1097-1번지 109호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-03"
+    },
+    {
+      "name": "롯데쇼핑(주)롯데슈퍼산본2동점",
+      "address": "경기도 군포시 산본동 1066-2 대현빌딩 101~103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-06"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경기도 군포시 산본2동 1087-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-16"
+    },
+    {
+      "name": "모란슈퍼",
+      "address": "경기도 군포시 산본2동 1065-4 15호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-12"
+    },
+    {
+      "name": "대광슈퍼",
+      "address": "경기도 군포시 산본2동 1061-3 106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-28"
+    },
+    {
+      "name": "LG슈퍼",
+      "address": "경기도 군포시 산본2동 1063 백합(아)상가1층  107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-02"
+    },
+    {
+      "name": "우성슈퍼",
+      "address": "경기도 군포시 산본2동 1059 동백우성상가 A동 16.19호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-06"
+    },
+    {
+      "name": "두리슈퍼",
+      "address": "경기도 군포시 산본2동 1059 우성B상가1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-10-27"
+    },
+    {
+      "name": "정우마트",
+      "address": "경기도 군포시 산본2동 1061-3 101-102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-04"
+    },
+    {
+      "name": "개나리슈퍼",
+      "address": "경기도 군포시 산본2동 1066-3번지 개나리상가 111호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-11"
+    },
+    {
+      "name": "서초슈퍼",
+      "address": "경기도 군포시 금정동 769번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "야목쌀상회",
+      "address": "경기도 군포시 금정동 764-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "대덕슈퍼",
+      "address": "경기도 군포시 금정동 708-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "금정마트",
+      "address": "경기도 군포시 금정동 723-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-12"
+    },
+    {
+      "name": "행운마트",
+      "address": "경기도 군포시 금정동 79-13 1층상가점포",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-11"
+    },
+    {
+      "name": "신환할인마트",
+      "address": "경기도 군포시 금정동 744-1 신환아파트상가 1층 1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-17"
+    },
+    {
+      "name": "우리하이퍼마켓",
+      "address": "경기도 군포시 금정동 45-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-13"
+    },
+    {
+      "name": "은주슈퍼",
+      "address": "경기도 군포시 금정동 709-5번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-03"
+    },
+    {
+      "name": "금정하이퍼마켓",
+      "address": "경기도 군포시 금정동 763-1번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-28"
+    },
+    {
+      "name": "오성슈퍼",
+      "address": "경기도 군포시 금정동 706번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-08"
+    },
+    {
+      "name": "대농식품",
+      "address": "경기도 군포시 금정동 759-21(금정시장내)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "한성슈퍼",
+      "address": "경기도 군포시 금정동 721-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-14"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경기도 군포시 금정동 757-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-11"
+    },
+    {
+      "name": "신안슈퍼",
+      "address": "경기도 군포시 금정동 767-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-04"
+    },
+    {
+      "name": "편의점사랑 군포점",
+      "address": "경기도 군포시 금정동 79-7번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-09-12"
+    },
+    {
+      "name": "매화슈퍼",
+      "address": "경기도 군포시 금정동 706-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-11"
+    },
+    {
+      "name": "개성슈퍼",
+      "address": "경기도 군포시 산본1동 75-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-11"
+    },
+    {
+      "name": "알뜰미도",
+      "address": "경기도 군포시 산본1동 45-1번지 미도상가 지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-20"
+    },
+    {
+      "name": "골드마트",
+      "address": "경기도 군포시 산본1동 235-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-03"
+    },
+    {
+      "name": "호성슈퍼",
+      "address": "경기도 군포시 산본1동 225-1(금정역마을금고옆",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "매화식품",
+      "address": "경기도 군포시 산본1동 1057-18(미도APT뒤)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-31"
+    },
+    {
+      "name": "신세계마트",
+      "address": "경기도 군포시 산본1동 236-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-13"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "경기도 군포시 산본1동 97-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-16"
+    },
+    {
+      "name": "동양슈퍼",
+      "address": "경기도 군포시 산본1동 79-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-26"
+    },
+    {
+      "name": "로얄프라자",
+      "address": "경기도 군포시 금정동 748-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-08"
+    },
+    {
+      "name": "오뚜기문구",
+      "address": "경기도 군포시 산본1동 1035-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-18"
+    },
+    {
+      "name": "만성슈퍼",
+      "address": "경기도 군포시 산본1동 94번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-08"
+    },
+    {
+      "name": "청도상회",
+      "address": "경기도 군포시 금정동 733 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-13"
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "경기도 군포시 금정동 693-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-01"
+    },
+    {
+      "name": "바이더웨이산본희망점",
+      "address": "경기도 군포시 광정동 1128  금성프라자 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-05"
+    },
+    {
+      "name": "한독철물",
+      "address": "경기도 군포시 산본동 1141 동선빌딩 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-29"
+    },
+    {
+      "name": "삼성마트",
+      "address": "경기도 군포시 산본동 1092 장미@상가 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-01-29"
+    },
+    {
+      "name": "한살림산본매장",
+      "address": "경기도 군포시 산본동 1145-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-02"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "경기도 군포시 산본동  세종@ 종합상가 109호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-15"
+    },
+    {
+      "name": "유기농하우스",
+      "address": "경기도 군포시 산본동 1183-3 시티빌딩103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-11"
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "경기도 군포시 재궁동 747번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-31"
+    },
+    {
+      "name": "e-미소 인테리어",
+      "address": "경기도 군포시 재궁동 874-1 역사상가 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-31"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 군포시 금정동 716-20번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-12"
+    },
+    {
+      "name": "힐편의점",
+      "address": "경기도 군포시 재궁동 870-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-30"
+    },
+    {
+      "name": "훼미리마트군포재궁점",
+      "address": "경기도 군포시 재궁동 866-3번지 1층 101.102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-29"
+    },
+    {
+      "name": "뉴마트",
+      "address": "경기도 군포시 금정동 850 무궁화분산상가1-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-22"
+    },
+    {
+      "name": "충무마트",
+      "address": "경기도 군포시 재궁동 872-3 충무(아)주공2단지상가104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-01"
+    },
+    {
+      "name": "현대마트",
+      "address": "경기도 군포시 재궁동 849-2  101~103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-03"
+    },
+    {
+      "name": "에브리데이24시편의점",
+      "address": "경기도 군포시 금정동 719-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-02"
+    },
+    {
+      "name": "DC마트",
+      "address": "경기도 군포시 금정동 748-38 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-14"
+    },
+    {
+      "name": "가정할인마트",
+      "address": "경기도 군포시 재궁동 856번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-24"
+    },
+    {
+      "name": "조아마트",
+      "address": "경기도 군포시 재궁동 744-1 신환아파트제상가2동제2층 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-12-07"
+    },
+    {
+      "name": "적성그린마트",
+      "address": "경기도 군포시 재궁동 744 적성아파트상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-10"
+    },
+    {
+      "name": "IGA마트 산본재원점",
+      "address": "경기도 군포시 재궁동 873-4 명산빌딩 106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-10"
+    },
+    {
+      "name": "광성마트",
+      "address": "경기도 군포시 재궁동 850-5 제상가동 1층 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-11-10"
+    },
+    {
+      "name": "신환DC마트",
+      "address": "경기도 군포시 금정동 744-1 신환상가 32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-28"
+    },
+    {
+      "name": "청원종합상사",
+      "address": "경기도 군포시 금정동 871 시민체육광장 매점",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-19"
+    },
+    {
+      "name": "동영",
+      "address": "경기도 군포시 금정동 847-2 지층 101.102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-17"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경기도 군포시 금정동 705-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "현대철물건재상사",
+      "address": "경기도 군포시 금정동 52-3번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-12"
+    },
+    {
+      "name": "DC마트",
+      "address": "경기도 군포시 금정동 84-18번지 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-21"
+    },
+    {
+      "name": "양지유통",
+      "address": "경기도 군포시 금정동 764-63번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-06"
+    },
+    {
+      "name": "민지상회",
+      "address": "경기도 군포시 금정동 172-8 상가 1층 2호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-08"
+    },
+    {
+      "name": "금정아울렛마트",
+      "address": "경기도 군포시 금정동 729-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-06"
+    },
+    {
+      "name": "영마트",
+      "address": "경기도 군포시 금정동 721번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-28"
+    },
+    {
+      "name": "영진슈퍼(개미)",
+      "address": "경기도 군포시 금정동 725-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-22"
+    },
+    {
+      "name": "푸른마트",
+      "address": "경기도 군포시 금정동 726-7 1층 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-27"
+    },
+    {
+      "name": "세븐일레븐금정4호점",
+      "address": "경기도 군포시 금정동 731-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-27"
+    },
+    {
+      "name": "세븐일레븐금정",
+      "address": "경기도 군포시 금정동 77-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-27"
+    },
+    {
+      "name": "한림편의점",
+      "address": "경기도 군포시 금정동  689-6 한림벤처타운 103-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-29"
+    },
+    {
+      "name": "편의점사랑 금정점",
+      "address": "경기도 군포시 금정동 689-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-28"
+    },
+    {
+      "name": "은성마트",
+      "address": "경기도 군포시 금정동 766-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-06"
+    },
+    {
+      "name": "부광전기",
+      "address": "경기도 군포시 금정동 765-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-24"
+    },
+    {
+      "name": "IGA",
+      "address": "경기도 군포시 금정동 41-5 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-07"
+    },
+    {
+      "name": "동남할인마트",
+      "address": "경기도 군포시 금정동 45-1번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-31"
+    },
+    {
+      "name": "성수슈퍼",
+      "address": "경기도 군포시 군포1동 당동 745-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-15"
+    },
+    {
+      "name": "샵폰슈퍼",
+      "address": "경기도 군포시 군포1동  469-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-28"
+    },
+    {
+      "name": "신풍상사",
+      "address": "경기도 군포시 군포1동 당정동476-3 대준빌딩 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-10"
+    },
+    {
+      "name": "당말할인마트",
+      "address": "경기도 군포시 군포1동  862-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-18"
+    },
+    {
+      "name": "훼미리마트군포중앙",
+      "address": "경기도 군포시 군포1동 771-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-14"
+    },
+    {
+      "name": "훼미리마트한세대점",
+      "address": "경기도 군포시 군포1동 47B 2LOT 104.105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-01"
+    },
+    {
+      "name": "팝마트",
+      "address": "경기도 군포시 군포1동 781- 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-20"
+    },
+    {
+      "name": "미도마트",
+      "address": "경기도 군포시 군포1동 853-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-01"
+    },
+    {
+      "name": "반월상회",
+      "address": "경기도 군포시 군포1동 742-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-19"
+    },
+    {
+      "name": "미화슈퍼마켓",
+      "address": "경기도 군포시 군포2동 791 한미상가 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-14"
+    },
+    {
+      "name": "삼양슈퍼",
+      "address": "경기도 군포시 군포2동 793번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "경기도 군포시 군포2동 923",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-13"
+    },
+    {
+      "name": "코사마트",
+      "address": "경기도 군포시 군포2동 913번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-16"
+    },
+    {
+      "name": "오아시스마트",
+      "address": "경기도 군포시 군포2동 872-2 군포리빙스텔 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-29"
+    },
+    {
+      "name": "훼미리마트군포덕산점",
+      "address": "경기도 군포시 군포2동  902 덕산상가 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-16"
+    },
+    {
+      "name": "선일마트",
+      "address": "경기도 군포시 군포2동 786-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-19"
+    },
+    {
+      "name": "바이더웨이군포주공점",
+      "address": "경기도 군포시 군포2동 872-5 무광프라자 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-20"
+    },
+    {
+      "name": "삼성마트",
+      "address": "경기도 군포시 군포2동 788번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-27"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 군포시 군포2동 906-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-23"
+    },
+    {
+      "name": "한국유통",
+      "address": "경기도 군포시 군포2동 919",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-07"
+    },
+    {
+      "name": "스물넷마트",
+      "address": "경기도 군포시 군포1동 745-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-14"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 군포시 군포2동 874-3 주공A 제상가동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-05"
+    },
+    {
+      "name": "쌍용공판장",
+      "address": "경기도 군포시 군포2동 873 쌍용아파트상가동 1층 106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-11"
+    },
+    {
+      "name": "바이더웨이",
+      "address": "경기도 군포시 군포2동 (당동)29블럭5롯트 동영프라자109.110",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-09-23"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 군포시 군포2동 786-6 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-29"
+    },
+    {
+      "name": "동아그린마트",
+      "address": "경기도 군포시 군포2동 898-14 동아상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-13"
+    },
+    {
+      "name": "하나로할인마트",
+      "address": "경기도 군포시 군포2동 무지개대림상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-08-23"
+    },
+    {
+      "name": "K마트",
+      "address": "경기도 군포시 군포2동 874-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-10"
+    },
+    {
+      "name": "대림마트",
+      "address": "경기도 군포시 군포2동 951-3번지 제이엠프라자지하 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-09-26"
+    },
+    {
+      "name": "한마음슈퍼",
+      "address": "경기도 군포시 군포2동  885-1 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-17"
+    },
+    {
+      "name": "진로마트",
+      "address": "경기도 군포시 군포2동 917-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-28"
+    },
+    {
+      "name": "코사주공마트",
+      "address": "경기도 군포시 군포2동 886-3호 주공상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-12"
+    },
+    {
+      "name": "용호할인마트",
+      "address": "경기도 군포시 군포2동 957-2 107호.108호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-13"
+    },
+    {
+      "name": "동성마트",
+      "address": "경기도 군포시 산본동 1119-4 동성아파트 상가 101~103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-05-17"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "경기도 군포시 금정동 849-4 주공1단지 단독상가 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-28"
+    },
+    {
+      "name": "그린힐 슈퍼",
+      "address": "경기도 군포시 금정동 870-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-03"
+    },
+    {
+      "name": "금성마트",
+      "address": "경기도 군포시 금정동 715-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-07"
+    },
+    {
+      "name": "훼미리마트국제교육센",
+      "address": "경기도 군포시 산본1동  1151-10 상가동 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-23"
+    },
+    {
+      "name": "다산슈퍼",
+      "address": "경기도 군포시 오금동 871-12 주공3단지 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-06"
+    },
+    {
+      "name": "금정마트",
+      "address": "경기도 군포시 금정동 41-1번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-04"
+    },
+    {
+      "name": "우성슈퍼",
+      "address": "경기도 군포시 금정동 730-1 1층 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-10"
+    },
+    {
+      "name": "개나리슈퍼",
+      "address": "경기도 군포시 금정동 728-8 (금정동 어린이집 뒷편)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-27"
+    },
+    {
+      "name": "매일마트",
+      "address": "경기도 군포시 금정동 756-21금호아파트상가 102동 101.102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-05-01"
+    },
+    {
+      "name": "바로코사(ABS)",
+      "address": "경기도 군포시 금정동 757-22  1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-08"
+    },
+    {
+      "name": "두리슈퍼마켓",
+      "address": "경기도 군포시 금정동 694-1 1층 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-10-27"
+    },
+    {
+      "name": "자연하나마트",
+      "address": "경기도 군포시 금정동  875-2 퇴계종합상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-04"
+    },
+    {
+      "name": "우정슈퍼",
+      "address": "경기도 군포시 금정동 84-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-09"
+    },
+    {
+      "name": "GS25 산본충무점",
+      "address": "경기도 군포시 금정동 874-1 역사상가 207",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-02"
+    },
+    {
+      "name": "개미슈퍼",
+      "address": "경기도 군포시 금정동 725-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-12"
+    },
+    {
+      "name": "만나슈퍼",
+      "address": "경기도 군포시 금정동 747-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-23"
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "경기도 군포시 금정동 734-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-26"
+    },
+    {
+      "name": "GS25군포번영점",
+      "address": "경기도 군포시 금정동 722-7 아산나부빌 상가동 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-08"
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "경기도 군포시 금정동 706-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-23"
+    },
+    {
+      "name": "뉴소월마트",
+      "address": "경기도 군포시 금정동 871-7 소월상가 지층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-03"
+    },
+    {
+      "name": "하모니마트 금정점",
+      "address": "경기도 군포시 금정동 710-8 101.102.103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-11-14"
+    },
+    {
+      "name": "싱싱마트",
+      "address": "경기도 군포시 금정동 765번지 지하 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-04-23"
+    },
+    {
+      "name": "두리마트",
+      "address": "경기도 군포시 금정동  726-31 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-05-13"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경기도 군포시 금정동 41-10 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-19"
+    },
+    {
+      "name": "샘물슈퍼",
+      "address": "경기도 군포시 금정동 191-4번지 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-20"
+    },
+    {
+      "name": "현대홈마트",
+      "address": "경기도 군포시 대야미동 637-14 현대빌딩 103호",
+      "roadAddress": "경기도 군포시 대야2로55번길 6  (대야미동,현대빌딩 103호)",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-05"
+    },
+    {
+      "name": "현대홈마트",
+      "address": "경기도 군포시 대야미동 637-14 현대빌딩 103호",
+      "roadAddress": "경기도 군포시 대야2로55번길 6  (대야미동,현대빌딩 103호)",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-05"
+    },
+    {
+      "name": "현대홈마트",
+      "address": "경기도 군포시 대야미동 637-14 현대빌딩 103호",
+      "roadAddress": "경기도 군포시 대야2로55번길 6  (대야미동,현대빌딩 103호)",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-05"
+    },
+    {
+      "name": "현대홈마트",
+      "address": "경기도 군포시 대야미동 637-14 현대빌딩 103호",
+      "roadAddress": "경기도 군포시 대야2로55번길 6  (대야미동,현대빌딩 103호)",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-05"
+    },
+    {
+      "name": "현대홈마트",
+      "address": "경기도 군포시 대야미동 637-14 현대빌딩 103호",
+      "roadAddress": "경기도 군포시 대야2로55번길 6  (대야미동,현대빌딩 103호)",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-05"
+    },
+    {
+      "name": "현대홈마트",
+      "address": "경기도 군포시 대야미동 637-14 현대빌딩 103호",
+      "roadAddress": "경기도 군포시 대야2로55번길 6  (대야미동,현대빌딩 103호)",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-05"
+    },
+    {
+      "name": "현대홈마트",
+      "address": "경기도 군포시 대야미동 637-14 현대빌딩 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-05"
+    },
+    {
+      "name": "훼미리마트 산본아카데미점",
+      "address": "경기도 군포시 산본동 1061-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-31"
+    },
+    {
+      "name": "그린마트",
+      "address": "경기도 군포시 부곡동 1080 휴먼시아상가 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-31"
+    },
+    {
+      "name": "화니마트",
+      "address": "경기도 군포시 당동 780",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-29"
+    },
+    {
+      "name": "알파군포 당동점",
+      "address": "경기도 군포시 당동 904-4 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-22"
+    },
+    {
+      "name": "대림뉴마트",
+      "address": "경기도 군포시 대야미동 토지구획정리사업지구 33블럭3롯트 대야미 이편한세상상가동 105,106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-23"
+    },
+    {
+      "name": "GS25 군포열린",
+      "address": "경기도 군포시 당동 763-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-08"
+    },
+    {
+      "name": "한미종합상사",
+      "address": "경기도 군포시 금정동 766 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-03"
+    },
+    {
+      "name": "세븐일레븐 군포오누리점",
+      "address": "경기도 군포시 당동 780-2 당동누리에뜰해밀 제106, 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-28"
+    },
+    {
+      "name": "동산슈퍼",
+      "address": "경기도 군포시 당정동 150-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-22"
+    },
+    {
+      "name": "GS25 산본스타",
+      "address": "경기도 군포시 산본동 80-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-11"
+    },
+    {
+      "name": "GS25 산본스타",
+      "address": "경기도 군포시 산본동 80-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-11"
+    },
+    {
+      "name": "GS25 산본스타",
+      "address": "경기도 군포시 산본동 80-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-11"
+    },
+    {
+      "name": "주공마트",
+      "address": "경기도 군포시 부곡동 1086 휴먼시아상가동 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-06"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경기도 군포시 당동 783-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-05"
+    },
+    {
+      "name": "NS마트 용호점",
+      "address": "경기도 군포시 당동 970-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-30"
+    },
+    {
+      "name": "(주) 코리아세븐 산본세종점",
+      "address": "경기도 군포시 산본동 1145-3 세종아파트 제일반상가동 101호",
+      "roadAddress": "경기도 군포시 산본천로 34-46 (산본동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-30"
+    },
+    {
+      "name": "(주)지에스리테일 GS수퍼 군포당동점",
+      "address": "경기도 군포시 당동 874-2 한우리교육문화센터 제지하층 제1호, 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-27"
+    },
+    {
+      "name": "월드마트수리산점",
+      "address": "경기도 군포시 산본동 가야(주공)종합상가 제지하층 제1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-16"
+    },
+    {
+      "name": "미니스톱산본광장점",
+      "address": "경기도 군포시 산본동 1130 군포프라자 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-15"
+    },
+    {
+      "name": "아이쿱군포소비자생활협동조합",
+      "address": "경기도 군포시 산본동 1099-2 대림프라자 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-08"
+    },
+    {
+      "name": "GS슈퍼 군포고산점",
+      "address": "경기도 군포시 당정동 988-1 LG프라자 107호",
+      "roadAddress": "경기도 군포시 고산로151번길 28, LG프라자 107-111호 (당정동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-30"
+    },
+    {
+      "name": "(주)이마트 산본점",
+      "address": "경기도 군포시 산본동 1123",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-26"
+    },
+    {
+      "name": "(주)이마트 산본점",
+      "address": "경기도 군포시 산본동 1123",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-26"
+    },
+    {
+      "name": "홈플러스익스프레스군포산본2점",
+      "address": "경기도 군포시 궁내동 1146 솔거대림스포츠센터 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-02"
+    },
+    {
+      "name": "편의점사랑산본점",
+      "address": "경기도 군포시 산본동 1078-3 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-27"
+    },
+    {
+      "name": "GS25 금정삼성",
+      "address": "경기도 군포시 산본동 1029-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-11"
+    },
+    {
+      "name": "미니스톱 산본광장점",
+      "address": "경기도 군포시 산본동 1130 군포프라자 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-05"
+    },
+    {
+      "name": "미니스톱 군포금정점",
+      "address": "경기도 군포시 금정동 700-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-29"
+    },
+    {
+      "name": "롯데쇼핑(주) 롯데마켓999 군포당정점",
+      "address": "경기도 군포시 당정동 980-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-28"
+    },
+    {
+      "name": "홈플러스(주) 익스프레스 군포수리산역점",
+      "address": "경기도 군포시 산본동 한라아파트 주공4단지 제상가동 110호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-28"
+    },
+    {
+      "name": "홈플러스(주) 산본점",
+      "address": "경기도 군포시 산본2동 1060-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-11"
+    },
+    {
+      "name": "세븐일레븐 군포시청점",
+      "address": "경기도 군포시 금정동 718-7 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-28"
+    },
+    {
+      "name": "굿마트군포당정점",
+      "address": "경기도 군포시 당정동 352번지 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-28"
+    },
+    {
+      "name": "래미안마트",
+      "address": "경기도 군포시 산본동 1240 래미안(아)상가 2단지 4102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-17"
+    },
+    {
+      "name": "군포DC마트",
+      "address": "경기도 군포시 당동 777-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-17"
+    },
+    {
+      "name": "GS25 금정센타점",
+      "address": "경기도 군포시 산본동 98번지 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-31"
+    },
+    {
+      "name": "한세마트",
+      "address": "경기도 군포시 당정동 1013-6 유영타운 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-31"
+    },
+    {
+      "name": "세븐일레븐 금정희망점",
+      "address": "경기도 군포시 산본동 94-5  101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-27"
+    },
+    {
+      "name": "GS25군포흥안",
+      "address": "경기도 군포시 당동 922",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-04"
+    },
+    {
+      "name": "위드미",
+      "address": "경기도 군포시 산본동 1026-9 금정하이뷰 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-03"
+    },
+    {
+      "name": "홈플러스(주) 군포부곡점",
+      "address": "경기도 군포시 군포2동 부곡동 1120-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-31"
+    },
+    {
+      "name": "우리편의점",
+      "address": "경기도 군포시 산본동 1144-1번지 유공빌딩 106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-23"
+    },
+    {
+      "name": "훼미리마트 산본래미안점",
+      "address": "경기도 군포시 산본동 1240번지 래미안하이어스 상가 1115호~1116호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-21"
+    },
+    {
+      "name": "NS마트 당동점",
+      "address": "경기도 군포시 당동 908번지 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-20"
+    },
+    {
+      "name": "세븐일레븐 군포부곡점",
+      "address": "경기도 군포시 부곡동 1132-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-16"
+    },
+    {
+      "name": "컬투 패밀리",
+      "address": "경기도 군포시 당동 898-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-06"
+    },
+    {
+      "name": "GS25 금정평화점",
+      "address": "경기도 군포시 금정동 766-34 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-06"
+    },
+    {
+      "name": "SKY할인마트",
+      "address": "경기도 군포시 부곡동 1098번지 휴먼시아 3단지 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-29"
+    },
+    {
+      "name": "주공슈퍼",
+      "address": "경기도 군포시 산본동 1156-8 주공4단지 상가 209-B호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-23"
+    },
+    {
+      "name": "진로할인마트",
+      "address": "경기도 군포시 대야미동 654-13 1층 105~110호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-22"
+    },
+    {
+      "name": "(주)지에스리테일 GS슈퍼 군포당정점",
+      "address": "경기도 군포시 당정동 1004-1 (1층)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-16"
+    },
+    {
+      "name": "LG25(군포부곡)",
+      "address": "경기도 군포시 부곡동 1140-1 부곡프라자 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-08"
+    },
+    {
+      "name": "제로마트",
+      "address": "경기도 군포시 산본동 81-29 산본종합상가 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-29"
+    },
+    {
+      "name": "세븐일레븐 금정사랑점",
+      "address": "경기도 군포시 산본동 97번지 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-29"
+    },
+    {
+      "name": "소비자유통",
+      "address": "경기도 군포시 산본동 설악아파트 설악아파트상가 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-03"
+    },
+    {
+      "name": "한미종합상사",
+      "address": "경기도 군포시 금정동 766",
+      "roadAddress": "경기도 군포시 당산로116번길 8, 금정동동 (금정동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-05-10"
+    },
+    {
+      "name": "오피스넥스 군포의왕점",
+      "address": "경기도 군포시 당정동 2-3 신일IT유토지식산업센터",
+      "roadAddress": "경기도 군포시 엘에스로 13, 신일IT유토지식산업센터 S동 203호 (당정동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-06-10"
+    },
+    {
+      "name": "부곡진로마트",
+      "address": "경기도 군포시 부곡동 1132-1 1층",
+      "roadAddress": "경기도 군포시 송부로273번안길 3-35, 1층 (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-11-07"
+    },
+    {
+      "name": "GS25 군포부곡빌리지점",
+      "address": "경기도 군포시 부곡동 1136-1 1층",
+      "roadAddress": "경기도 군포시 송부로291번길 5, 1층 (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-11-08"
+    },
+    {
+      "name": "홈플러스익스프레스 군포부곡점",
+      "address": "경기도 군포시 부곡동 1120-1 거성프라자1",
+      "roadAddress": "경기도 군포시 번영로28번길 37-12, 거성프라자1 (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-11-08"
+    },
+    {
+      "name": "풍년미니슈퍼",
+      "address": "경기도 군포시 오금동 876번지 공무원아파트상가 119호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-24"
+    },
+    {
+      "name": "선경종합보수",
+      "address": "경기도 군포시 오금동 율곡@내 율곡중심상가 115호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "원스톱유통",
+      "address": "경기도 군포시 오금동 1156-15 주공종합상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-12"
+    },
+    {
+      "name": "대림슈퍼",
+      "address": "경기도 군포시 오금동 875-13 퇴계2차일반상가101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-03"
+    },
+    {
+      "name": "싱싱슈퍼",
+      "address": "경기도 군포시 산본동 1156-25 4단지상가101.104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-19"
+    },
+    {
+      "name": "삼익슈퍼",
+      "address": "경기도 군포시 금정동 871-7 삼익소월상가203호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-12"
+    },
+    {
+      "name": "한라마트",
+      "address": "경기도 군포시 산본동 한라2차분산상가 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-04"
+    },
+    {
+      "name": "럭키할인마트",
+      "address": "경기도 군포시 금정동  875-2 퇴계종합상사지층상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-04-30"
+    },
+    {
+      "name": "민지네슈퍼",
+      "address": "경기도 군포시 산본동 1155-8  5단지종합상가105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-04"
+    },
+    {
+      "name": "주공중앙슈퍼",
+      "address": "경기도 군포시 수리동 5단지중심상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "소망보훈마트",
+      "address": "경기도 군포시 산본동  계룡@ 상가 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-08"
+    },
+    {
+      "name": "한양청과",
+      "address": "경기도 군포시 수리동 8단지분산상가A",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "설악슈퍼",
+      "address": "경기도 군포시 수리동 8단지주공101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-03-12"
+    },
+    {
+      "name": "로고스마트",
+      "address": "경기도 군포시 수리동 1155-1 가야주공종합상사 104호. 110호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-16"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "경기도 군포시 산본동 1155-8 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-31"
+    },
+    {
+      "name": "삼영슈퍼",
+      "address": "경기도 군포시 산본동 1151-5 한양수리(아)분산상가 2-103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-09-11"
+    },
+    {
+      "name": "롯데슈퍼 산본점",
+      "address": "경기도 군포시 산본동 1151-5 한양수리아파트 지하1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-10"
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "경기도 군포시 궁내동 1148-5 금강종합상가 111",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-12"
+    },
+    {
+      "name": "청우전기철물",
+      "address": "경기도 군포시 산본동 1129번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-10-05"
+    },
+    {
+      "name": "후레쉬마트",
+      "address": "경기도 군포시 대야동 242-1번지 현대프라자상가B03호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-30"
+    },
+    {
+      "name": "해동마트",
+      "address": "경기도 군포시 대야동 199-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-23"
+    },
+    {
+      "name": "대성공판장",
+      "address": "경기도 군포시 대야동 (다야미동)214-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-30"
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "경기도 군포시 대야동 6블럭 18롯트 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-07"
+    },
+    {
+      "name": "GS25대야미역점",
+      "address": "경기도 군포시 대야동 25블록 16로트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-07"
+    },
+    {
+      "name": "바이더웨이(대야미점)",
+      "address": "경기도 군포시 대야동 19블럭 2롯트 참이타워 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-02-28"
+    },
+    {
+      "name": "참편한마트",
+      "address": "경기도 군포시 대야미동 37블럭 8롯트 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-04-15"
+    },
+    {
+      "name": "뉴하나로마트",
+      "address": "경기도 군포시 대야미동  34블럭 6롯트 1층상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-11"
+    },
+    {
+      "name": "대림할인마트",
+      "address": "경기도 군포시 대야미동 364-5 101.102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-26"
+    },
+    {
+      "name": "현대마트",
+      "address": "경기도 군포시 대야미동  9블록 8롯트 105.106.107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-16"
+    },
+    {
+      "name": "퀸마트",
+      "address": "경기도 군포시 대야동  33블럭 3.4.5노트 1층 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-20"
+    },
+    {
+      "name": "친절마트",
+      "address": "경기도 군포시 대야동 194-1(1층)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-04"
+    },
+    {
+      "name": "GS25 군포금산점",
+      "address": "경기도 군포시 금정동 723-13 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-19"
+    },
+    {
+      "name": "LG슈퍼",
+      "address": "경기도 군포시 산본동 1063번지 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-23"
+    },
+    {
+      "name": "청우컴퓨터",
+      "address": "경기도 군포시 산본동 222-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-13"
+    },
+    {
+      "name": "(주)영인유통",
+      "address": "경기도 군포시 대야미동 622-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-18"
+    },
+    {
+      "name": "풍미식당",
+      "address": "경기도 군포시 당정동 343-11 2층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-19"
+    },
+    {
+      "name": "GS산본주몽점",
+      "address": "경기도 군포시 산본동 1120-6 주공아파트상가 가동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-21"
+    },
+    {
+      "name": "초이스편의점",
+      "address": "경기도 군포시 산본동 1099-2 대림프라자 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-28"
+    },
+    {
+      "name": "코사마트",
+      "address": "경기도 군포시 금정동 757-55",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-01"
+    },
+    {
+      "name": "GS25산본우정",
+      "address": "경기도 군포시 산본동 1138 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-14"
+    },
+    {
+      "name": "진로마트",
+      "address": "경기도 군포시 부곡동 1092-1 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-02"
+    },
+    {
+      "name": "훼미리마트 군포당동점",
+      "address": "경기도 군포시 당동 904-4 경림빌딩 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-24"
+    },
+    {
+      "name": "훼미리마트 군포신일IT점",
+      "address": "경기도 군포시 당정동 2-3 신일IT 유토지식산업센터 1층 S102G호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-24"
+    },
+    {
+      "name": "코리아세븐 군포제일점",
+      "address": "경기도 군포시 당동 군포로565번길 28 (당동)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-13"
+    },
+    {
+      "name": "GS25 금정본점",
+      "address": "경기도 군포시 금정동 731-8, 당산로 166-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-09"
+    },
+    {
+      "name": "GS25 군포번영",
+      "address": "경기도 군포시 금정동 722-7 아신나부빌상가동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-25"
+    },
+    {
+      "name": "GS25 산본충무",
+      "address": "경기도 군포시 번영로 502, 207 (금정동,역사상가)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-03"
+    },
+    {
+      "name": "군포할인마트",
+      "address": "경기도 군포시 당정역로4번길7 120(당정동,외2필지 동호프라자)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-21"
+    }
+  ]
+}

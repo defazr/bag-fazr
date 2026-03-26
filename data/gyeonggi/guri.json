@@ -1,0 +1,1760 @@
+{
+  "region": "경기도",
+  "regionSlug": "gyeonggi",
+  "district": "구리시",
+  "districtSlug": "guri",
+  "updatedAt": "2026-03-26",
+  "totalCount": 250,
+  "stores": [
+    {
+      "name": "세신슈퍼",
+      "address": "경기도 구리시 인창동 672-2 세신인창종합상가 106호",
+      "roadAddress": "경기도 구리시 건원대로34번길 27  (인창동,세신인창종합상가 106호)",
+      "status": "영업/정상",
+      "licenseDate": "2008-05-23"
+    },
+    {
+      "name": "사노구판장",
+      "address": "경기도 구리시 사노동 288-1",
+      "roadAddress": "경기도 구리시 동구릉로389번길 89-5 (사노동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "인제상회",
+      "address": "경기도 구리시 인창동 648-72",
+      "roadAddress": "경기도 구리시 인창2로71번길 15  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "교문상회",
+      "address": "경기도 구리시 교문동 236",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "코아교재 마을철물점",
+      "address": "경기도 구리시 교문동 335-2",
+      "roadAddress": "경기도 구리시 경춘로24번길 16  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "두아슈퍼",
+      "address": "경기도 구리시 교문동 724",
+      "roadAddress": "경기도 구리시 경춘로148번길 31  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "강원상회",
+      "address": "경기도 구리시 교문동 21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "하나네가게",
+      "address": "경기도 구리시 아천동 380-2",
+      "roadAddress": "경기도 구리시 아치울길 69  (아천동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "새마을마트",
+      "address": "경기도 구리시 교문동 751-7",
+      "roadAddress": "경기도 구리시 안골로20번길 46  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "태흥상회",
+      "address": "경기도 구리시 교문동 314-4",
+      "roadAddress": "경기도 구리시 딸기원중문길 9  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "남양주축협 교문지점",
+      "address": "경기도 구리시 교문동 765",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "자매슈퍼",
+      "address": "경기도 구리시 수택동 438",
+      "roadAddress": "경기도 구리시 원수택로11번길 42  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "경북슈퍼",
+      "address": "경기도 구리시 수택동 441-12",
+      "roadAddress": "경기도 구리시 원수택로12번길 17  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "고려슈퍼",
+      "address": "경기도 구리시 수택동 472",
+      "roadAddress": "경기도 구리시 원수택로64번길 28  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "놀이터슈퍼",
+      "address": "경기도 구리시 수택동 466-26",
+      "roadAddress": "경기도 구리시 원수택로42번길 13  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "경기도 구리시 수택동 474-78",
+      "roadAddress": "경기도 구리시 검배로72번길 38  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "청해쌀상회",
+      "address": "경기도 구리시 수택동 462-11",
+      "roadAddress": "경기도 구리시 원수택로32번길 11-38  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "인창슈퍼",
+      "address": "경기도 구리시 인창동 313-36",
+      "roadAddress": "경기도 구리시 건원대로99번길 144 (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-13"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경기도 구리시 교문동 229-23",
+      "roadAddress": "경기도 구리시 체육관로153번길 10  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-26"
+    },
+    {
+      "name": "개미슈퍼",
+      "address": "경기도 구리시 교문동 227-5",
+      "roadAddress": "경기도 구리시 체육관로171번길 20  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-12-06"
+    },
+    {
+      "name": "남양슈퍼",
+      "address": "경기도 구리시 수택동 474-31",
+      "roadAddress": "경기도 구리시 검배로60번길 41  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "대동지업사",
+      "address": "경기도 구리시 수택동 488-7",
+      "roadAddress": "경기도 구리시 검배로72번길 10  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "뉴월드마트",
+      "address": "경기도 구리시 인창동 주공6단지아파트 상가 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-29"
+    },
+    {
+      "name": "통일쌀",
+      "address": "경기도 구리시 교문동 226-24",
+      "roadAddress": "경기도 구리시 아차산로500번길 79  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-29"
+    },
+    {
+      "name": "인성슈퍼",
+      "address": "경기도 구리시 교문동 217-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-19"
+    },
+    {
+      "name": "문화슈퍼",
+      "address": "경기도 구리시 교문동 362-2",
+      "roadAddress": "경기도 구리시 아차산로467번길 12  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-14"
+    },
+    {
+      "name": "구리시청(평생학습과)",
+      "address": "경기도 구리시 교문동 390-1 구리시청",
+      "roadAddress": "경기도 구리시 아차산로 439, 구리시청 (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-04"
+    },
+    {
+      "name": "동아철물",
+      "address": "경기도 구리시 교문동 764-19",
+      "roadAddress": "경기도 구리시 이문안로 5  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-29"
+    },
+    {
+      "name": "소망신발",
+      "address": "경기도 구리시 교문동 766",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-29"
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "경기도 구리시 수택동 382-3",
+      "roadAddress": "경기도 구리시 안골로63번길 44  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-20"
+    },
+    {
+      "name": "동명상회",
+      "address": "경기도 구리시 수택동 515-51",
+      "roadAddress": "경기도 구리시 수택천로7번길 21  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-19"
+    },
+    {
+      "name": "신세계마트",
+      "address": "경기도 구리시 인창동 주공2단지아파트 상가 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-02"
+    },
+    {
+      "name": "교문문구",
+      "address": "경기도 구리시 교문동 734-4",
+      "roadAddress": "경기도 구리시 안골로 49  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-05"
+    },
+    {
+      "name": "코리아세븐",
+      "address": "경기도 구리시 교문동 216-7",
+      "roadAddress": "경기도 구리시 경춘로172번길 2  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-15"
+    },
+    {
+      "name": "LG마트",
+      "address": "경기도 구리시 교문동 741-1",
+      "roadAddress": "경기도 구리시 안골로8번길 7-4  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-14"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "경기도 구리시 수택동 515-17",
+      "roadAddress": "경기도 구리시 검배로15번길 28  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-31"
+    },
+    {
+      "name": "상록슈퍼",
+      "address": "경기도 구리시 수택동 556",
+      "roadAddress": "경기도 구리시 경춘로288번길 23  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-30"
+    },
+    {
+      "name": "하나슈퍼",
+      "address": "경기도 구리시 수택동 379",
+      "roadAddress": "경기도 구리시 안골로63번길 12  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-30"
+    },
+    {
+      "name": "청산슈퍼",
+      "address": "경기도 구리시 수택동 460-13",
+      "roadAddress": "경기도 구리시 원수택로32번길 33-17  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-02"
+    },
+    {
+      "name": "그린마트",
+      "address": "경기도 구리시 수택동 453-8",
+      "roadAddress": "경기도 구리시 이문안로99번길 22-26  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-18"
+    },
+    {
+      "name": "갈매우체국",
+      "address": "경기도 구리시 갈매동 420",
+      "roadAddress": "경기도 구리시 경춘북로182번길 82-20 (갈매동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-25"
+    },
+    {
+      "name": "에이(A)마트",
+      "address": "경기도 구리시 인창동 474 건영아파트 상가내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-27"
+    },
+    {
+      "name": "훼밀리타운",
+      "address": "경기도 구리시 인창동 세신상가 1-2호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-17"
+    },
+    {
+      "name": "구리우체국",
+      "address": "경기도 구리시 인창동 674-1 구리우체국",
+      "roadAddress": "경기도 구리시 건원대로34번길 34 (인창동,구리우체국)",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-20"
+    },
+    {
+      "name": "가평슈퍼",
+      "address": "경기도 구리시 인창동 546-19",
+      "roadAddress": "경기도 구리시 인창1로 13  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-23"
+    },
+    {
+      "name": "부영슈퍼",
+      "address": "경기도 구리시 인창동 641-7",
+      "roadAddress": "경기도 구리시 인창1로 45-6  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-17"
+    },
+    {
+      "name": "인창우체국",
+      "address": "경기도 구리시 인창동 284-1",
+      "roadAddress": "경기도 구리시 경춘로 203  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-20"
+    },
+    {
+      "name": "원일슈퍼",
+      "address": "경기도 구리시 인창동 651-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-07"
+    },
+    {
+      "name": "아름슈퍼",
+      "address": "경기도 구리시 인창동 651-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-10"
+    },
+    {
+      "name": "교문우체국",
+      "address": "경기도 구리시 교문동 736-1",
+      "roadAddress": "경기도 구리시 안골로 32  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-25"
+    },
+    {
+      "name": "행복마트",
+      "address": "경기도 구리시 교문동 317-2",
+      "roadAddress": "경기도 구리시 딸기원중문길 16  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-01"
+    },
+    {
+      "name": "성일마트",
+      "address": "경기도 구리시 교문동 227-21",
+      "roadAddress": "경기도 구리시 체육관로 173  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-24"
+    },
+    {
+      "name": "세광슈퍼",
+      "address": "경기도 구리시 수택동 516-3",
+      "roadAddress": "경기도 구리시 검배로15번길 46  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-04"
+    },
+    {
+      "name": "고향마트",
+      "address": "경기도 구리시 수택동 503-5",
+      "roadAddress": "경기도 구리시 검배로59번길 22  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-20"
+    },
+    {
+      "name": "코오롱유통 로손편의점",
+      "address": "경기도 구리시 수택동 425-21",
+      "roadAddress": "경기도 구리시 안골로 103  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-21"
+    },
+    {
+      "name": "원일슈퍼",
+      "address": "경기도 구리시 수택동 557-11",
+      "roadAddress": "경기도 구리시 경춘로288번길 32  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-02-18"
+    },
+    {
+      "name": "민선마트",
+      "address": "경기도 구리시 수택동 456-11",
+      "roadAddress": "경기도 구리시 검배로72번길 86  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-10"
+    },
+    {
+      "name": "현대유통",
+      "address": "경기도 구리시 인창동 주공2단지아파트 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-11"
+    },
+    {
+      "name": "롯데유통(주)",
+      "address": "경기도 구리시 인창동 430",
+      "roadAddress": "경기도 구리시 동구릉로136번길 57  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-21"
+    },
+    {
+      "name": "유명슈퍼",
+      "address": "경기도 구리시 인창동 410-12",
+      "roadAddress": "경기도 구리시 동구릉로 126-17  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-18"
+    },
+    {
+      "name": "원일아파트 노인정",
+      "address": "경기도 구리시 교문동 232-5",
+      "roadAddress": "경기도 구리시 동구릉로6번길 48  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-18"
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "경기도 구리시 교문동 740-8",
+      "roadAddress": "경기도 구리시 안골로8번길 28  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-10"
+    },
+    {
+      "name": "소비자슈퍼",
+      "address": "경기도 구리시 교문동 748-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-16"
+    },
+    {
+      "name": "까치슈퍼",
+      "address": "경기도 구리시 교문동 806",
+      "roadAddress": "경기도 구리시 장자대로13번길 7-26  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-23"
+    },
+    {
+      "name": "(주)한유통C-SPACE 구리덕현점",
+      "address": "경기도 구리시 교문동 800-10",
+      "roadAddress": "경기도 구리시 장자대로13번길 55  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-11"
+    },
+    {
+      "name": "지수페인트",
+      "address": "경기도 구리시 교문동 806-1",
+      "roadAddress": "경기도 구리시 장자대로13번길 25  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-11"
+    },
+    {
+      "name": "성진상회",
+      "address": "경기도 구리시 수택동 493-3",
+      "roadAddress": "경기도 구리시 검배로71번길 16  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-05"
+    },
+    {
+      "name": "원영슈퍼",
+      "address": "경기도 구리시 수택동 404-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-11"
+    },
+    {
+      "name": "청산슈퍼",
+      "address": "경기도 구리시 수택동 522-12",
+      "roadAddress": "경기도 구리시 수택천로25번길 41  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-11"
+    },
+    {
+      "name": "방산슈퍼",
+      "address": "경기도 구리시 수택동 526-15",
+      "roadAddress": "경기도 구리시 검배로13번길 5-1  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-25"
+    },
+    {
+      "name": "24시마트",
+      "address": "경기도 구리시 수택동 383-21",
+      "roadAddress": "경기도 구리시 체육관로172번길 47  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-02"
+    },
+    {
+      "name": "수택상회",
+      "address": "경기도 구리시 수택동 430-29",
+      "roadAddress": "경기도 구리시 안골로 72-13  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-23"
+    },
+    {
+      "name": "성림슈퍼",
+      "address": "경기도 구리시 수택동 442-1",
+      "roadAddress": "경기도 구리시 원수택로32번길 28  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-11"
+    },
+    {
+      "name": "빅마트",
+      "address": "경기도 구리시 수택동 481",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-23"
+    },
+    {
+      "name": "농수산시장슈퍼",
+      "address": "경기도 구리시 인창동 구리농수산물시장 2층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-21"
+    },
+    {
+      "name": "샛별슈퍼",
+      "address": "경기도 구리시 인창동 458-3",
+      "roadAddress": "경기도 구리시 동구릉로 107  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-01"
+    },
+    {
+      "name": "인창슈퍼",
+      "address": "경기도 구리시 인창동 642-8",
+      "roadAddress": "경기도 구리시 인창1로45번길 18  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-27"
+    },
+    {
+      "name": "김금순",
+      "address": "경기도 구리시 인창동 539-12",
+      "roadAddress": "경기도 구리시 인창1로 29-6  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-30"
+    },
+    {
+      "name": "성진슈퍼",
+      "address": "경기도 구리시 교문동 209-2",
+      "roadAddress": "경기도 구리시 아차산로500번길 29  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-13"
+    },
+    {
+      "name": "청평문구",
+      "address": "경기도 구리시 교문동 194-56",
+      "roadAddress": "경기도 구리시 체육관로153번길 39  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "오정마트",
+      "address": "경기도 구리시 교문동 758-8",
+      "roadAddress": "경기도 구리시 안골로20번길 78  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-19"
+    },
+    {
+      "name": "삼거리식품",
+      "address": "경기도 구리시 교문동 327-18",
+      "roadAddress": "경기도 구리시 딸기원중문길 36  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-22"
+    },
+    {
+      "name": "원진슈퍼",
+      "address": "경기도 구리시 교문동 802",
+      "roadAddress": "경기도 구리시 장자대로1번길 38-30  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-26"
+    },
+    {
+      "name": "우리마트",
+      "address": "경기도 구리시 교문동 809-2 구리아파트 상가 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-14"
+    },
+    {
+      "name": "구룡슈퍼",
+      "address": "경기도 구리시 수택동 525",
+      "roadAddress": "경기도 구리시 검배로15번길 1  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-12"
+    },
+    {
+      "name": "원마트",
+      "address": "경기도 구리시 수택동 557-18",
+      "roadAddress": "경기도 구리시 경춘로276번길 29  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-30"
+    },
+    {
+      "name": "교문슈퍼",
+      "address": "경기도 구리시 수택동 375-38",
+      "roadAddress": "경기도 구리시 안골로63번길 31  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-12"
+    },
+    {
+      "name": "으뜸상회",
+      "address": "경기도 구리시 수택동 525-87",
+      "roadAddress": "경기도 구리시 경춘로242번길 38  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-02"
+    },
+    {
+      "name": "행복마트2호점",
+      "address": "경기도 구리시 인창동 313-13",
+      "roadAddress": "경기도 구리시 건원대로33번길 24 (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-09"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 구리시 인창동 신일아파트 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-01"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경기도 구리시 인창동 신래주택상가 라-1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-10"
+    },
+    {
+      "name": "롯데마트 구리점",
+      "address": "경기도 구리시 인창동 480",
+      "roadAddress": "경기도 구리시 동구릉로159번길 30  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-12"
+    },
+    {
+      "name": "한진마트",
+      "address": "경기도 구리시 인창동 한진그랑빌 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-21"
+    },
+    {
+      "name": "인정슈퍼",
+      "address": "경기도 구리시 인창동 277-5",
+      "roadAddress": "경기도 구리시 경춘로227번길 36  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-28"
+    },
+    {
+      "name": "훼미리마트 구리원일점",
+      "address": "경기도 구리시 인창동 651-72",
+      "roadAddress": "경기도 구리시 동구릉로85번길 21  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-07"
+    },
+    {
+      "name": "성림매점",
+      "address": "경기도 구리시 인창동 527-44",
+      "roadAddress": "경기도 구리시 동구릉로 65  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-30"
+    },
+    {
+      "name": "제일마트",
+      "address": "경기도 구리시 인창동 314-45",
+      "roadAddress": "경기도 구리시 응달말로52번길 79-18  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-08"
+    },
+    {
+      "name": "부림슈퍼",
+      "address": "경기도 구리시 교문동 731-4",
+      "roadAddress": "경기도 구리시 안골로19번길 7-5  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-06"
+    },
+    {
+      "name": "솔슈퍼",
+      "address": "경기도 구리시 아천동 89",
+      "roadAddress": "경기도 구리시 아치울길 16  (아천동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-06"
+    },
+    {
+      "name": "하나마트",
+      "address": "경기도 구리시 교문동 217-1",
+      "roadAddress": "경기도 구리시 경춘로162번길 21  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-24"
+    },
+    {
+      "name": "경기슈퍼",
+      "address": "경기도 구리시 교문동 228-15",
+      "roadAddress": "경기도 구리시 체육관로161번길 10  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-28"
+    },
+    {
+      "name": "하나슈퍼",
+      "address": "경기도 구리시 교문동 하나아파트 상가 113호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-23"
+    },
+    {
+      "name": "신명아이마트",
+      "address": "경기도 구리시 교문동 신명아파트 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-18"
+    },
+    {
+      "name": "대도약국",
+      "address": "경기도 구리시 수택동 515-7",
+      "roadAddress": "경기도 구리시 검배로 31  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-22"
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "경기도 구리시 수택동 427",
+      "roadAddress": "경기도 구리시 안골로77번길 12  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-07"
+    },
+    {
+      "name": "동화마을교육상사",
+      "address": "경기도 구리시 수택동 512-14",
+      "roadAddress": "경기도 구리시 검배로 43  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-31"
+    },
+    {
+      "name": "돌다리편의점",
+      "address": "경기도 구리시 수택동 409-2",
+      "roadAddress": "경기도 구리시 검배로6번길 17  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-30"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경기도 구리시 수택동 518-13",
+      "roadAddress": "경기도 구리시 수택천로15번길 30  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-20"
+    },
+    {
+      "name": "지리산축산",
+      "address": "경기도 구리시 인창동 430",
+      "roadAddress": "경기도 구리시 동구릉로136번길 57  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-02"
+    },
+    {
+      "name": "세진마트",
+      "address": "경기도 구리시 인창동 672-2",
+      "roadAddress": "경기도 구리시 건원대로34번길 27  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-09"
+    },
+    {
+      "name": "강북얼음",
+      "address": "경기도 구리시 인창동 696-1 101호",
+      "roadAddress": "경기도 구리시 동구릉로148번길 24-36  (인창동,101호)",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-10"
+    },
+    {
+      "name": "현대홈마트",
+      "address": "경기도 구리시 인창동 407-1",
+      "roadAddress": "경기도 구리시 동구릉로 112-2  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-14"
+    },
+    {
+      "name": "세라네마트",
+      "address": "경기도 구리시 인창동 295-1",
+      "roadAddress": "경기도 구리시 응달말로16번길 54  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-11"
+    },
+    {
+      "name": "민석슈퍼",
+      "address": "경기도 구리시 인창동 546-13",
+      "roadAddress": "경기도 구리시 인창1로 17  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-14"
+    },
+    {
+      "name": "양지슈퍼",
+      "address": "경기도 구리시 인창동 584",
+      "roadAddress": "경기도 구리시 동구릉로66번길 58  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-07"
+    },
+    {
+      "name": "성일슈퍼",
+      "address": "경기도 구리시 인창동 289-27",
+      "roadAddress": "경기도 구리시 응달말로8번길 18  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-14"
+    },
+    {
+      "name": "청과슈퍼",
+      "address": "경기도 구리시 교문동 745",
+      "roadAddress": "경기도 구리시 안골로20번길 7-9  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-13"
+    },
+    {
+      "name": "하나로마트",
+      "address": "경기도 구리시 교문동 315-5",
+      "roadAddress": "경기도 구리시 딸기원중문길 11  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-11"
+    },
+    {
+      "name": "도림철물건재상사",
+      "address": "경기도 구리시 교문동 395",
+      "roadAddress": "경기도 구리시 아차산로413번길 37  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-14"
+    },
+    {
+      "name": "하나마트",
+      "address": "경기도 구리시 교문동 765 대명상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-15"
+    },
+    {
+      "name": "싱싱슈퍼",
+      "address": "경기도 구리시 교문동 804-10",
+      "roadAddress": "경기도 구리시 장자대로1번길 8-9  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-23"
+    },
+    {
+      "name": "금호슈퍼",
+      "address": "경기도 구리시 교문동 820 금호1차아파트 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-22"
+    },
+    {
+      "name": "새마을슈퍼",
+      "address": "경기도 구리시 수택동 347-7",
+      "roadAddress": "경기도 구리시 왕숙천로247번길 31-3  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-07"
+    },
+    {
+      "name": "제일제당 구리특판",
+      "address": "경기도 구리시 수택동 560-2",
+      "roadAddress": "경기도 구리시 경춘로288번길 11-10  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-19"
+    },
+    {
+      "name": "여주슈퍼",
+      "address": "경기도 구리시 수택동 466-26",
+      "roadAddress": "경기도 구리시 원수택로42번길 13  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-18"
+    },
+    {
+      "name": "코사마트 수택점",
+      "address": "경기도 구리시 수택동 479-32",
+      "roadAddress": "경기도 구리시 검배로72번길 11-12  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-11"
+    },
+    {
+      "name": "동방슈퍼",
+      "address": "경기도 구리시 교문동 1-8 동방아파트 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-07"
+    },
+    {
+      "name": "세븐일레븐 인창2호",
+      "address": "경기도 구리시 인창동 668-4",
+      "roadAddress": "경기도 구리시 건원대로34번길 67  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-29"
+    },
+    {
+      "name": "세븐일레븐 인창3호",
+      "address": "경기도 구리시 인창동 382",
+      "roadAddress": "경기도 구리시 건원대로 87  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-29"
+    },
+    {
+      "name": "고향마트",
+      "address": "경기도 구리시 인창동 305",
+      "roadAddress": "경기도 구리시 응달말로52번길 62  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-09"
+    },
+    {
+      "name": "불티나슈퍼",
+      "address": "경기도 구리시 교문동 758-17",
+      "roadAddress": "경기도 구리시 아차산로432번길 29  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-11"
+    },
+    {
+      "name": "LG25",
+      "address": "경기도 구리시 교문동 228-1",
+      "roadAddress": "경기도 구리시 체육관로171번길 7  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-17"
+    },
+    {
+      "name": "한가람슈퍼",
+      "address": "경기도 구리시 교문동 809",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-28"
+    },
+    {
+      "name": "인영유통",
+      "address": "경기도 구리시 교문동 761-10",
+      "roadAddress": "경기도 구리시 이문안로5번길 20  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-10"
+    },
+    {
+      "name": "백문슈퍼",
+      "address": "경기도 구리시 교문동 800-9",
+      "roadAddress": "경기도 구리시 장자대로13번길 57  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-19"
+    },
+    {
+      "name": "Buy the way 그랑프리점",
+      "address": "경기도 구리시 수택동 426-6",
+      "roadAddress": "경기도 구리시 안골로 85  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-06"
+    },
+    {
+      "name": "고향마트 9호점",
+      "address": "경기도 구리시 수택동 546 광명아파트 상가 102호",
+      "roadAddress": "경기도 구리시 수택천로35번길 20  (수택동,광명아파트 상가 102호)",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-27"
+    },
+    {
+      "name": "세븐일레븐 수택4호점",
+      "address": "경기도 구리시 수택동 506-2",
+      "roadAddress": "경기도 구리시 검배로 47  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-29"
+    },
+    {
+      "name": "세븐일레븐 수택점",
+      "address": "경기도 구리시 수택동 425-21",
+      "roadAddress": "경기도 구리시 안골로 103  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-29"
+    },
+    {
+      "name": "경일상회",
+      "address": "경기도 구리시 수택동 426-30",
+      "roadAddress": "경기도 구리시 안골로97번길 17-5  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-05"
+    },
+    {
+      "name": "준마트",
+      "address": "경기도 구리시 수택동 751-59",
+      "roadAddress": "경기도 구리시 원수택로11번길 11  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-15"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 구리시 인창동 삼보아파트 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-08"
+    },
+    {
+      "name": "미니스톱 인창점",
+      "address": "경기도 구리시 인창동 삼원골드 1층 111호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-13"
+    },
+    {
+      "name": "동구중학교 매점",
+      "address": "경기도 구리시 인창동 산 2-144",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-09"
+    },
+    {
+      "name": "대광슈퍼",
+      "address": "경기도 구리시 인창동 307-11",
+      "roadAddress": "경기도 구리시 응달말로52번길 71  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-15"
+    },
+    {
+      "name": "엘림마트",
+      "address": "경기도 구리시 인창동 527-21",
+      "roadAddress": "경기도 구리시 동구릉로 61  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-02"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "경기도 구리시 인창동 676-6 동원플에이스테이션 106호",
+      "roadAddress": "경기도 구리시 경춘로 249  (인창동,동원플에이스테이션 106호)",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-03"
+    },
+    {
+      "name": "우리마트",
+      "address": "경기도 구리시 교문동 724-12",
+      "roadAddress": "경기도 구리시 안골로19번길 30  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-12"
+    },
+    {
+      "name": "행복마트",
+      "address": "경기도 구리시 교문동 748",
+      "roadAddress": "경기도 구리시 안골로30번길 30-9  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-20"
+    },
+    {
+      "name": "부일유통",
+      "address": "경기도 구리시 교문동 306-4",
+      "roadAddress": "경기도 구리시 딸기원로8번길 56  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-08"
+    },
+    {
+      "name": "우리마트",
+      "address": "경기도 구리시 교문동 809-2 구리아파트 상가 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-22"
+    },
+    {
+      "name": "원마트",
+      "address": "경기도 구리시 교문동 798-1",
+      "roadAddress": "경기도 구리시 장자대로1번길 82-6  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-07"
+    },
+    {
+      "name": "구리열쇠",
+      "address": "경기도 구리시 수택동 423-20",
+      "roadAddress": "경기도 구리시 안골로103번길 26  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-06"
+    },
+    {
+      "name": "상훈이네슈퍼",
+      "address": "경기도 구리시 수택동 517-5 1층",
+      "roadAddress": "경기도 구리시 수택천로 25  (수택동,1층)",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-06"
+    },
+    {
+      "name": "태양마트",
+      "address": "경기도 구리시 수택동 493-18",
+      "roadAddress": "경기도 구리시 검배로83번길 23  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-08"
+    },
+    {
+      "name": "한샘슈퍼",
+      "address": "경기도 구리시 수택동 422-22",
+      "roadAddress": "경기도 구리시 안골로103번길 19-22  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-20"
+    },
+    {
+      "name": "LG25 구리중앙점",
+      "address": "경기도 구리시 수택동 404-13",
+      "roadAddress": "경기도 구리시 검배로6번길 24  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-17"
+    },
+    {
+      "name": "성진할인마트",
+      "address": "경기도 구리시 수택동 515 1층",
+      "roadAddress": "경기도 구리시 검배로29번길 12  (수택동,1층)",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-11"
+    },
+    {
+      "name": "구리마트",
+      "address": "경기도 구리시 수택동 381-21",
+      "roadAddress": "경기도 구리시 안골로63번길 28-11  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-24"
+    },
+    {
+      "name": "향기마트",
+      "address": "경기도 구리시 수택동 506-6",
+      "roadAddress": "경기도 구리시 검배로 53  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-27"
+    },
+    {
+      "name": "새생활공판장",
+      "address": "경기도 구리시 인창동 주공1단지아파트 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-09"
+    },
+    {
+      "name": "GS25 구리원일점",
+      "address": "경기도 구리시 인창동 원일가대라곡아파트 상가 1층 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-19"
+    },
+    {
+      "name": "럭키마트",
+      "address": "경기도 구리시 인창동 383-80",
+      "roadAddress": "경기도 구리시 건원대로99번길 55  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-10-17"
+    },
+    {
+      "name": "크로바마트",
+      "address": "경기도 구리시 인창동 주공4단지아파트 상가 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-29"
+    },
+    {
+      "name": "금강마트",
+      "address": "경기도 구리시 인창동 607-11",
+      "roadAddress": "경기도 구리시 응달말로 10  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-26"
+    },
+    {
+      "name": "한양마트",
+      "address": "경기도 구리시 교문동 256-9",
+      "roadAddress": "경기도 구리시 동구릉로 6  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-24"
+    },
+    {
+      "name": "(주)지에스리테일 GS스퀘어 구리점",
+      "address": "경기도 구리시 인창동 677 GS스퀘어 구리점",
+      "roadAddress": "경기도 구리시 경춘로 261  (인창동,GS스퀘어 구리점)",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-18"
+    },
+    {
+      "name": "명동슈퍼",
+      "address": "경기도 구리시 인창동 280-4",
+      "roadAddress": "경기도 구리시 경춘로 223  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-08"
+    },
+    {
+      "name": "쌍용슈퍼",
+      "address": "경기도 구리시 인창동 264-4 쌍용플래티넘선스타원 1층 10호",
+      "roadAddress": "경기도 구리시 경춘로 229  (인창동,쌍용플래티넘선스타원 1층 10호)",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-02"
+    },
+    {
+      "name": "대지슈퍼",
+      "address": "경기도 구리시 인창동 576-40",
+      "roadAddress": "경기도 구리시 응달말로40번길 1  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-24"
+    },
+    {
+      "name": "굿모닝마트",
+      "address": "경기도 구리시 인창동 343-3 성윤빌딩 1층",
+      "roadAddress": "경기도 구리시 건원대로99번길 99  (인창동,성윤빌딩 1층)",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-27"
+    },
+    {
+      "name": "GS25 구리동원점",
+      "address": "경기도 구리시 인창동 651-30",
+      "roadAddress": "경기도 구리시 동구릉로85번길 15  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-14"
+    },
+    {
+      "name": "삼호마트",
+      "address": "경기도 구리시 교문동 752",
+      "roadAddress": "경기도 구리시 안골로8번길 39  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-14"
+    },
+    {
+      "name": "한샘마트",
+      "address": "경기도 구리시 교문동 806-8",
+      "roadAddress": "경기도 구리시 장자대로13번길 9  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-16"
+    },
+    {
+      "name": "굿마트",
+      "address": "경기도 구리시 수택동 879 검배주공아파트 상가 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-10-04"
+    },
+    {
+      "name": "남양마트",
+      "address": "경기도 구리시 수택동 551",
+      "roadAddress": "경기도 구리시 경춘로276번길 67-34  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-06"
+    },
+    {
+      "name": "유정마트",
+      "address": "경기도 구리시 수택동 377-43",
+      "roadAddress": "경기도 구리시 안골로57번길 14-3  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-14"
+    },
+    {
+      "name": "뉴월드마트",
+      "address": "경기도 구리시 수택동 296",
+      "roadAddress": "경기도 구리시 벌말로 215  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-01"
+    },
+    {
+      "name": "한국유통",
+      "address": "경기도 구리시 수택동 418-2 , 3호",
+      "roadAddress": "경기도 구리시 안골로85번길 29-7  (수택동,, 3호)",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-12"
+    },
+    {
+      "name": "미니스톱(주)",
+      "address": "경기도 구리시 수택동 376-8",
+      "roadAddress": "경기도 구리시 체육관로 150  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-27"
+    },
+    {
+      "name": "GS25 구리으뜸점",
+      "address": "경기도 구리시 수택동 559 1층",
+      "roadAddress": "경기도 구리시 경춘로276번길 13  (수택동,1층)",
+      "status": "영업/정상",
+      "licenseDate": "2005-12-01"
+    },
+    {
+      "name": "바이더웨이 구리수택점",
+      "address": "경기도 구리시 수택동 487-16",
+      "roadAddress": "경기도 구리시 검배로60번길 4  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-15"
+    },
+    {
+      "name": "성경하이퍼마켓",
+      "address": "경기도 구리시 수택동 612-2",
+      "roadAddress": "경기도 구리시 원수택로32번길 62  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-14"
+    },
+    {
+      "name": "새마을슈퍼",
+      "address": "경기도 구리시 갈매동 215-15",
+      "roadAddress": "경기도 구리시 담터길32번길 44  (갈매동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-24"
+    },
+    {
+      "name": "동구릉휴게소",
+      "address": "경기도 구리시 인창동 67-18",
+      "roadAddress": "경기도 구리시 동구릉로 267-14 (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-21"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 구리시 인창동 663-4 주공1단지아파트 상가 105호",
+      "roadAddress": "경기도 구리시 건원대로76번길 29  (인창동,주공1단지아파트 상가 105호)",
+      "status": "영업/정상",
+      "licenseDate": "2006-05-16"
+    },
+    {
+      "name": "GS25 구리동구점",
+      "address": "경기도 구리시 인창동 487 동양아파트 상가 103,104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-25"
+    },
+    {
+      "name": "A마트",
+      "address": "경기도 구리시 인창동 29 한진그랑빌 상가 113호",
+      "roadAddress": "경기도 구리시 동구릉로238번길 20  (인창동,한진그랑빌 상가 113호)",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-26"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "경기도 구리시 인창동 610-93",
+      "roadAddress": "경기도 구리시 응달말로19번길 27  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-05-16"
+    },
+    {
+      "name": "(주)신선지엠 GM마트",
+      "address": "경기도 구리시 인창동 651-31",
+      "roadAddress": "경기도 구리시 동구릉로85번길 11  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-05-29"
+    },
+    {
+      "name": "김재중",
+      "address": "경기도 구리시 인창동 610-84",
+      "roadAddress": "경기도 구리시 동구릉로16번길 28  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-05-01"
+    },
+    {
+      "name": "경인상회",
+      "address": "경기도 구리시 교문동 328-57",
+      "roadAddress": "경기도 구리시 딸기원로24번길 9  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-02-27"
+    },
+    {
+      "name": "고구려슈퍼",
+      "address": "경기도 구리시 교문동 735-4",
+      "roadAddress": "경기도 구리시 안골로 50  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-15"
+    },
+    {
+      "name": "즐거운마트",
+      "address": "경기도 구리시 교문동 194-57",
+      "roadAddress": "경기도 구리시 체육관로153번길 35  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-02"
+    },
+    {
+      "name": "태호네가게",
+      "address": "경기도 구리시 교문동 328-69",
+      "roadAddress": "경기도 구리시 딸기원로 25  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-21"
+    },
+    {
+      "name": "구리마트",
+      "address": "경기도 구리시 수택동 534-2 성원메스티지상가 108호",
+      "roadAddress": "경기도 구리시 경춘로 274  (수택동,성원메스티지상가 108호)",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-10"
+    },
+    {
+      "name": "패밀리마트 수택점",
+      "address": "경기도 구리시 수택동 419-14",
+      "roadAddress": "경기도 구리시 안골로85번길 22  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-19"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경기도 구리시 갈매동 163-29",
+      "roadAddress": "경기도 구리시 담터길 19  (갈매동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-07"
+    },
+    {
+      "name": "소망식품",
+      "address": "경기도 구리시 갈매동 313",
+      "roadAddress": "경기도 구리시 산마루로10번길 108  (갈매동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-23"
+    },
+    {
+      "name": "미성상회",
+      "address": "경기도 구리시 인창동 52-7",
+      "roadAddress": "경기도 구리시 동구릉로 227  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-02"
+    },
+    {
+      "name": "현대편의점",
+      "address": "경기도 구리시 사노동 340-22 1층",
+      "roadAddress": "경기도 구리시 동구릉로 430  (사노동,1층)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-24"
+    },
+    {
+      "name": "S마트",
+      "address": "경기도 구리시 인창동 307-12",
+      "roadAddress": "경기도 구리시 응달말로52번길 67  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-28"
+    },
+    {
+      "name": "그린마트",
+      "address": "경기도 구리시 인창동 458-17",
+      "roadAddress": "경기도 구리시 동구릉로 109-12  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-30"
+    },
+    {
+      "name": "믿음슈퍼",
+      "address": "경기도 구리시 인창동 291-4",
+      "roadAddress": "경기도 구리시 응달말로16번길 37  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-16"
+    },
+    {
+      "name": "삼성테스코(주) 홈플러스 인창점",
+      "address": "경기도 구리시 인창동 666-2",
+      "roadAddress": "경기도 구리시 건원대로76번길 42  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-02"
+    },
+    {
+      "name": "GS25 구리제일점",
+      "address": "경기도 구리시 인창동 487-32 아름일신아파트 상가 1층 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-11"
+    },
+    {
+      "name": "동문힐마트",
+      "address": "경기도 구리시 인창동 337 동문굿모닝힐",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-23"
+    },
+    {
+      "name": "동산슈퍼",
+      "address": "경기도 구리시 인창동 648-66",
+      "roadAddress": "경기도 구리시 인창2로63번길 16  (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-11-20"
+    },
+    {
+      "name": "행운마트",
+      "address": "경기도 구리시 교문동 207-2",
+      "roadAddress": "경기도 구리시 아차산로506번길 27  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-23"
+    },
+    {
+      "name": "딸기원마트",
+      "address": "경기도 구리시 교문동 305-31",
+      "roadAddress": "경기도 구리시 딸기원로8번길 59  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-26"
+    },
+    {
+      "name": "원광마트",
+      "address": "경기도 구리시 교문동 260-5",
+      "roadAddress": "경기도 구리시 경춘로 127-1  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-02"
+    },
+    {
+      "name": "24시한양마트",
+      "address": "경기도 구리시 교문동 256-9 조운빌딩",
+      "roadAddress": "경기도 구리시 동구릉로 6  (교문동,조운빌딩)",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-27"
+    },
+    {
+      "name": "오렌지마트",
+      "address": "경기도 구리시 교문동 227-8",
+      "roadAddress": "경기도 구리시 체육관로171번길 12  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-29"
+    },
+    {
+      "name": "201마트",
+      "address": "경기도 구리시 교문동 727",
+      "roadAddress": "경기도 구리시 안골로19번길 47  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-11-08"
+    },
+    {
+      "name": "한다리상회",
+      "address": "경기도 구리시 교문동 671",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-11-20"
+    },
+    {
+      "name": "삼호마트",
+      "address": "경기도 구리시 교문동 752",
+      "roadAddress": "경기도 구리시 안골로8번길 39  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-11-22"
+    },
+    {
+      "name": "구리유통(e-푸른마트)",
+      "address": "경기도 구리시 교문동 808",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-11"
+    },
+    {
+      "name": "잉꼬슈퍼",
+      "address": "경기도 구리시 수택동 498-25",
+      "roadAddress": "경기도 구리시 검배로93번길 51  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-06"
+    },
+    {
+      "name": "알뜰할인마트",
+      "address": "경기도 구리시 수택동 373-14",
+      "roadAddress": "경기도 구리시 체육관로 162-1  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-11-02"
+    },
+    {
+      "name": "GS 구리수택점",
+      "address": "경기도 구리시 수택동 374-22",
+      "roadAddress": "경기도 구리시 체육관로172번길 38  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-17"
+    },
+    {
+      "name": "GS25 구리꽃길점",
+      "address": "경기도 구리시 수택동 376-3",
+      "roadAddress": "경기도 구리시 체육관로 156  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-10"
+    },
+    {
+      "name": "수택주공마트",
+      "address": "경기도 구리시 수택동 549-4 주공아파트 상가 101호",
+      "roadAddress": "경기도 구리시 수택천로 62  (수택동,주공아파트 상가 101호)",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-14"
+    },
+    {
+      "name": "이조슈퍼",
+      "address": "경기도 구리시 수택동 537-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-15"
+    },
+    {
+      "name": "GS25 수택제일점",
+      "address": "경기도 구리시 수택동 560-1",
+      "roadAddress": "경기도 구리시 경춘로288번길 11-8  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-17"
+    },
+    {
+      "name": "일미식품",
+      "address": "경기도 구리시 수택동 422-1",
+      "roadAddress": "경기도 구리시 안골로103번길 41  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-03"
+    },
+    {
+      "name": "수택슈퍼",
+      "address": "경기도 구리시 수택동 525-37",
+      "roadAddress": "경기도 구리시 경춘로242번길 26  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-05"
+    },
+    {
+      "name": "훼미리마트 구리돌다리점",
+      "address": "경기도 구리시 수택동 383-10",
+      "roadAddress": "경기도 구리시 경춘로 216  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-06"
+    },
+    {
+      "name": "GS25 구리돌다리점",
+      "address": "경기도 구리시 수택동 404-1",
+      "roadAddress": "경기도 구리시 경춘로 220  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-19"
+    },
+    {
+      "name": "오피스디포 구리남양주점",
+      "address": "경기도 구리시 수택동 376-7",
+      "roadAddress": "경기도 구리시 체육관로 152  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-08"
+    },
+    {
+      "name": "남양마트",
+      "address": "경기도 구리시 수택동 551",
+      "roadAddress": "경기도 구리시 경춘로276번길 67-34  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-11-22"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경기도 구리시 수택동 456-70",
+      "roadAddress": "경기도 구리시 검배로72번길 74  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-08"
+    },
+    {
+      "name": "대한불교천태종",
+      "address": "경기도 구리시 교문동 542-1",
+      "roadAddress": "경기도 구리시 장자호수길 62-40  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-05-26"
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "경기도 구리시 사노동 209-20",
+      "roadAddress": "경기도 구리시 동구릉로389번길 4  (사노동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-02-11"
+    },
+    {
+      "name": "OK할인마트",
+      "address": "경기도 구리시 인창동 309-6 e편한세상아파트 상가",
+      "roadAddress": "경기도 구리시 동구릉로 64  (인창동,e편한세상아파트 상가)",
+      "status": "영업/정상",
+      "licenseDate": "2008-01-23"
+    },
+    {
+      "name": "금호마트",
+      "address": "경기도 구리시 인창동 30-15 금호어울림 상가동 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-04-14"
+    },
+    {
+      "name": "컬투패밀리",
+      "address": "경기도 구리시 인창동 487-1 일신건영2차아파트 상가 101호",
+      "roadAddress": "경기도 구리시 동구릉로85번길 63  (인창동,일신건영2차아파트 상가 101호)",
+      "status": "영업/정상",
+      "licenseDate": "2008-04-29"
+    },
+    {
+      "name": "대한마트",
+      "address": "경기도 구리시 교문동 743-9",
+      "roadAddress": "경기도 구리시 안골로20번길 8-27  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-04-14"
+    },
+    {
+      "name": "행운슈퍼",
+      "address": "경기도 구리시 교문동 328-21",
+      "roadAddress": "경기도 구리시 딸기원로 16  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-04-11"
+    },
+    {
+      "name": "충북상회",
+      "address": "경기도 구리시 교문동 745",
+      "roadAddress": "경기도 구리시 안골로20번길 7-9  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-05-23"
+    },
+    {
+      "name": "경일슈퍼",
+      "address": "경기도 구리시 교문동 763-6",
+      "roadAddress": "경기도 구리시 이문안로15번길 11  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-01-22"
+    },
+    {
+      "name": "덕현마트",
+      "address": "경기도 구리시 교문동 800-10",
+      "roadAddress": "경기도 구리시 장자대로13번길 55  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-18"
+    },
+    {
+      "name": "돌다리슈퍼",
+      "address": "경기도 구리시 수택동 404-5",
+      "roadAddress": "경기도 구리시 경춘로 228  (수택동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-01-03"
+    },
+    {
+      "name": "훼미리마트 구리태영점",
+      "address": "경기도 구리시 인창동 670-1 태영빌딩 1층 113호",
+      "roadAddress": "경기도 구리시 건원대로 44  (인창동,태영빌딩 1층 113호)",
+      "status": "영업/정상",
+      "licenseDate": "2008-07-08"
+    },
+    {
+      "name": "이마트24별내미리내",
+      "address": "경기도 구리시 인창동 665-1 삼보아파트",
+      "roadAddress": "경기도 구리시 건원대로 56, 301동 1704호 (인창동, 삼보아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2020-01-16"
+    },
+    {
+      "name": "GS25시 교문중앙점",
+      "address": "경기도 구리시 교문동 228-4",
+      "roadAddress": "경기도 구리시 체육관로 169  (교문동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-07-16"
+    },
+    {
+      "name": "주식회사 엘마트",
+      "address": "경기도 구리시 인창동 430 구리유통종합상가",
+      "roadAddress": "경기도 구리시 동구릉로136번길 57, 구리유통종합상가 (인창동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데쇼핑(주) 구리점",
+      "address": "경기도 구리시 인창동 677 롯데백화점 구리점",
+      "roadAddress": "경기도 구리시 경춘로 261, 롯데백화점 구리점 (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-28"
+    },
+    {
+      "name": "롯데쇼핑(주)롯데마트 그랑그로서리 구리점",
+      "address": "경기도 구리시 인창동 430 구리유통종합상가",
+      "roadAddress": "경기도 구리시 동구릉로136번길 57, 구리유통종합상가 A동 101, 201호 (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-05-28"
+    },
+    {
+      "name": "구리농협하나로마트",
+      "address": "경기도 구리시 인창동 103-4 구리농업협동조합",
+      "roadAddress": "경기도 구리시 동구릉로200번길 110, 구리농업협동조합 (인창동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-11-24"
+    },
+    {
+      "name": "다산 왕식자재마트",
+      "address": "경기도 구리시 사노동 147-8 가, 나동",
+      "roadAddress": "경기도 구리시 산마루로 300, 가, 나동 (사노동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-03-13"
+    }
+  ]
+}

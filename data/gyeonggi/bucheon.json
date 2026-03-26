@@ -1,0 +1,24 @@
+{
+  "region": "경기도",
+  "regionSlug": "gyeonggi",
+  "district": "부천시",
+  "districtSlug": "bucheon",
+  "updatedAt": "2026-03-26",
+  "totalCount": 2,
+  "stores": [
+    {
+      "name": "세븐일레븐 설악유명산점",
+      "address": "경기도 부천시 원미구 중동 1039 은하마을",
+      "roadAddress": "경기도 부천시 원미구 중동로 301, 528동 102호 (중동, 은하마을)",
+      "status": "영업/정상",
+      "licenseDate": "2026-01-23"
+    },
+    {
+      "name": "씨유천안청당원룸점",
+      "address": "경기도 부천시 옥길동 748-1 엘에이치옥길센트럴힐 512동 201호",
+      "roadAddress": "경기도 부천시 양지로 234-38, 512동 201호 (옥길동, 엘에이치옥길센트럴힐)",
+      "status": "영업/정상",
+      "licenseDate": "2020-07-27"
+    }
+  ]
+}

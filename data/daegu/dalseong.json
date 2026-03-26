@@ -1,0 +1,1634 @@
+{
+  "region": "대구광역시",
+  "regionSlug": "daegu",
+  "district": "달성군",
+  "districtSlug": "dalseong",
+  "updatedAt": "2026-03-26",
+  "totalCount": 232,
+  "stores": [
+    {
+      "name": "농협달성농산물종합유통센터",
+      "address": "대구광역시 달성군 화원읍 설화리 555",
+      "roadAddress": "대구광역시 달성군 화원읍 성천로 9",
+      "status": "영업/정상",
+      "licenseDate": "2010-09-29"
+    },
+    {
+      "name": "*농협달성유통센타",
+      "address": "대구광역시 달성군 화원읍 설화리 555",
+      "roadAddress": "대구광역시 달성군 화원읍 성천로 9",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-05"
+    },
+    {
+      "name": "달창수퍼",
+      "address": "대구광역시 달성군 논공읍 남리 474",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "소비자수퍼",
+      "address": "대구광역시 달성군 논공읍 남리 572",
+      "roadAddress": "대구광역시 달성군 논공읍 남리길 5-1",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "대한수퍼체인",
+      "address": "대구광역시 달성군 논공읍 남리 1078",
+      "roadAddress": "대구광역시 달성군 논공읍 논공로9길 42",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "삼주할인마트",
+      "address": "대구광역시 달성군 논공읍 남리 224 삼주상가6-105",
+      "roadAddress": "대구광역시 달성군 논공읍 논공로7길 55  (삼주상가6-105)",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "경일수퍼",
+      "address": "대구광역시 달성군 논공읍 남리 224-116",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "영신전기",
+      "address": "대구광역시 달성군 논공읍 남리 1114",
+      "roadAddress": "대구광역시 달성군 논공읍 논공로9길 20",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "논공상회",
+      "address": "대구광역시 달성군 논공읍 남리 224-72",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "대성수퍼",
+      "address": "대구광역시 달성군 논공읍 남리 224-113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "논공24시",
+      "address": "대구광역시 달성군 논공읍 북리 833-106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "달성수퍼",
+      "address": "대구광역시 달성군 논공읍 북리 833-57",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "훼미리마트논공점",
+      "address": "대구광역시 달성군 논공읍 북리 803-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "한아름수퍼",
+      "address": "대구광역시 달성군 논공읍 북리 824-178",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "성은수퍼",
+      "address": "대구광역시 달성군 논공읍 북리 824-122",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "인화수퍼",
+      "address": "대구광역시 달성군 논공읍 북리 824-107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "신우유통논공점",
+      "address": "대구광역시 달성군 논공읍 북리 803-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "공단농협",
+      "address": "대구광역시 달성군 논공읍 북리 803-97",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "청구아파트관리사무소",
+      "address": "대구광역시 달성군 논공읍 북리 803",
+      "roadAddress": "대구광역시 달성군 논공읍 논공로7길 73",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "달성산업단지관리공단",
+      "address": "대구광역시 달성군 논공읍 북리 1-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "노이1리구판장",
+      "address": "대구광역시 달성군 논공읍 노이리 299",
+      "roadAddress": "대구광역시 달성군 논공읍 노이8길 29",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "노이2리구판장",
+      "address": "대구광역시 달성군 논공읍 노이리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "금포1리구판장",
+      "address": "대구광역시 달성군 논공읍 금포리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "정수퍼",
+      "address": "대구광역시 달성군 논공읍 금포리 2024",
+      "roadAddress": "대구광역시 달성군 논공읍 돌끼1길 5-17",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "금포3리구판장",
+      "address": "대구광역시 달성군 논공읍 금포리 1238",
+      "roadAddress": "대구광역시 달성군 논공읍 강림1길 48",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "공단식품수퍼",
+      "address": "대구광역시 달성군 논공읍 금포리 932",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "대구광역시 달성군 논공읍 금포리 2002",
+      "roadAddress": "대구광역시 달성군 논공읍 비슬로 1778",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "금포수퍼",
+      "address": "대구광역시 달성군 논공읍 금포리 1805",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "삼리1리구판장",
+      "address": "대구광역시 달성군 논공읍 삼리리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "삼리2리구판장",
+      "address": "대구광역시 달성군 논공읍 삼리리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "삼리3리구판장",
+      "address": "대구광역시 달성군 논공읍 삼리리 824-122",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "위천1리구판장",
+      "address": "대구광역시 달성군 논공읍 위천리 824-107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "원일수퍼",
+      "address": "대구광역시 달성군 논공읍 위천리 186",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "상1리구판장",
+      "address": "대구광역시 달성군 논공읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "상1리연쇄점",
+      "address": "대구광역시 달성군 논공읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "하2리구판장",
+      "address": "대구광역시 달성군 논공읍 하리 457",
+      "roadAddress": "대구광역시 달성군 논공읍 약산덧재2길 11-4",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "대명수퍼",
+      "address": "대구광역시 달성군 논공읍 북리 803-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "대백수퍼",
+      "address": "대구광역시 달성군 논공읍 북리 803-278",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "경북유통",
+      "address": "대구광역시 달성군 논공읍 남리 224-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "팔팔수퍼",
+      "address": "대구광역시 달성군 논공읍 남리 224-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "축협판매장",
+      "address": "대구광역시 달성군 논공읍 남리 1140",
+      "roadAddress": "대구광역시 달성군 논공읍 논공로11길 7",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "금포2리구판장",
+      "address": "대구광역시 달성군 논공읍 금포리 2406-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "경북비디오",
+      "address": "대구광역시 달성군 논공읍 남리 224-115",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "신세계메리야스",
+      "address": "대구광역시 달성군 논공읍 북리 803",
+      "roadAddress": "대구광역시 달성군 논공읍 논공로7길 73",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "달성논공수퍼",
+      "address": "대구광역시 달성군 논공읍 금포리 1805",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홈마트",
+      "address": "대구광역시 달성군 논공읍 남리 1078",
+      "roadAddress": "대구광역시 달성군 논공읍 논공로9길 42",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "원진할인마트",
+      "address": "대구광역시 달성군 논공읍 북리 474-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "대자연상회",
+      "address": "대구광역시 달성군 논공읍 남리 656-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "LG25시논공점",
+      "address": "대구광역시 달성군 논공읍 북리 803-129",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "신일수퍼",
+      "address": "대구광역시 달성군 논공읍 북리 1-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "한진유통",
+      "address": "대구광역시 달성군 논공읍 북리 824-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "대한마트",
+      "address": "대구광역시 달성군 논공읍 북리 803-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "성원유통",
+      "address": "대구광역시 달성군 논공읍 북리 803",
+      "roadAddress": "대구광역시 달성군 논공읍 논공로7길 73",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "일선유통",
+      "address": "대구광역시 달성군 논공읍 북리 835-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "대구농수산물식육점",
+      "address": "대구광역시 달성군 논공읍 북리 803-152",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "삼일마트",
+      "address": "대구광역시 달성군 논공읍 남리 577-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "성원하이츠유통",
+      "address": "대구광역시 달성군 논공읍 북리 803-210",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "신우유통",
+      "address": "대구광역시 달성군 논공읍 남리 635",
+      "roadAddress": "대구광역시 달성군 논공읍 남리길 48",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "수현식육식당",
+      "address": "대구광역시 달성군 논공읍 남리 635-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "논공수퍼",
+      "address": "대구광역시 달성군 논공읍 금포리 1805",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "21세기할인마트",
+      "address": "대구광역시 달성군 논공읍 북리 803-99",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "현대종합장식",
+      "address": "대구광역시 달성군 논공읍 북리 803-93",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "동원진미식품",
+      "address": "대구광역시 달성군 논공읍 북리 803-214",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "LG스토아",
+      "address": "대구광역시 달성군 논공읍 북리 803-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "장원할인마트",
+      "address": "대구광역시 달성군 논공읍 남리 571-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "동일만물상사",
+      "address": "대구광역시 달성군 논공읍 북리 803-301",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "공단수퍼",
+      "address": "대구광역시 달성군 논공읍 남리 224-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "정우수퍼",
+      "address": "대구광역시 달성군 논공읍 남리 224-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "신세계수퍼",
+      "address": "대구광역시 달성군 논공읍 금포리 2018-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "매일유통",
+      "address": "대구광역시 달성군 논공읍 북리 803-142",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "다사농협",
+      "address": "대구광역시 달성군 다사읍 매곡리 234",
+      "roadAddress": "대구광역시 달성군 다사읍 다사로4길 1",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "대구광역시 달성군 다사읍 서재리 121-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "가창슈퍼",
+      "address": "대구광역시 달성군 가창면 용계리 50-1",
+      "roadAddress": "대구광역시 달성군 가창면 가창로 1106-2",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-13"
+    },
+    {
+      "name": "가창단위조합",
+      "address": "대구광역시 달성군 가창면 용계리 30-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-13"
+    },
+    {
+      "name": "선산수퍼",
+      "address": "대구광역시 달성군 가창면 용계리 217-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-13"
+    },
+    {
+      "name": "중석할인마트",
+      "address": "대구광역시 달성군 가창면 용계리 465",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-13"
+    },
+    {
+      "name": "형제상회",
+      "address": "대구광역시 달성군 가창면 용계리 529",
+      "roadAddress": "대구광역시 달성군 가창면 가창로 1011-17",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-13"
+    },
+    {
+      "name": "삼산수퍼",
+      "address": "대구광역시 달성군 가창면 삼산리 847-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-13"
+    },
+    {
+      "name": "냉천2리구판장",
+      "address": "대구광역시 달성군 가창면 냉천리 380-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-13"
+    },
+    {
+      "name": "용계아파트수퍼",
+      "address": "대구광역시 달성군 가창면 용계리 33-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-13"
+    },
+    {
+      "name": "대일수퍼",
+      "address": "대구광역시 달성군 가창면 대일리 299",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-13"
+    },
+    {
+      "name": "화신상회",
+      "address": "대구광역시 달성군 가창면 주리 1-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-13"
+    },
+    {
+      "name": "농협달성유통센터",
+      "address": "",
+      "roadAddress": "대구광역시 달성군 화원읍 성천로 9, 1층 (농협달성유통센터)",
+      "status": "영업/정상",
+      "licenseDate": "2017-05-17"
+    },
+    {
+      "name": "부곡상회",
+      "address": "대구광역시 달성군 가창면 우록리 24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-13"
+    },
+    {
+      "name": "대창문구",
+      "address": "대구광역시 달성군 가창면 용계리 12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-13"
+    },
+    {
+      "name": "청파미니",
+      "address": "대구광역시 달성군 가창면 용계리 4-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-13"
+    },
+    {
+      "name": "우록매점",
+      "address": "대구광역시 달성군 가창면 우록리 544",
+      "roadAddress": "대구광역시 달성군 가창면 우록1길 20-28",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-13"
+    },
+    {
+      "name": "하산1리 구판장",
+      "address": "대구광역시 달성군 하빈면 하산리 1061",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "달성슈퍼",
+      "address": "대구광역시 달성군 하빈면 하산리 1073",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하산2리구판장",
+      "address": "대구광역시 달성군 하빈면 하산리 904",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼일슈퍼",
+      "address": "대구광역시 달성군 하빈면 현내리 472",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동곡농협연쇄점",
+      "address": "대구광역시 달성군 하빈면 동곡리 69-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하빈농협연쇄점",
+      "address": "대구광역시 달성군 하빈면 현내리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현내1리구판장",
+      "address": "대구광역시 달성군 하빈면 현내리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉촌2리구판장",
+      "address": "대구광역시 달성군 하빈면 봉촌리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하빈슈퍼",
+      "address": "대구광역시 달성군 하빈면 현내리 845",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "칠성편의점",
+      "address": "대구광역시 달성군 하빈면 하산리 1084-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-02"
+    },
+    {
+      "name": "옥포농협본리점",
+      "address": "대구광역시 달성군 옥포면 본리리 2403",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종합상회",
+      "address": "대구광역시 달성군 옥포면 본리리 1538",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "달성수퍼",
+      "address": "대구광역시 달성군 옥포면 본리리 2416-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "육일수퍼",
+      "address": "대구광역시 달성군 옥포면 본리리 2407-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심수퍼",
+      "address": "대구광역시 달성군 옥포면 본리리 2107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "본리연쇄점",
+      "address": "대구광역시 달성군 옥포면 본리리 941",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "달성식품",
+      "address": "대구광역시 달성군 옥포면 본리리 2312",
+      "roadAddress": "대구광역시 달성군 옥포면 비슬로432길 27-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "법화수퍼",
+      "address": "대구광역시 달성군 옥포면 교항리 1711-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금계상회",
+      "address": "대구광역시 달성군 옥포면 교항리 1667",
+      "roadAddress": "대구광역시 달성군 옥포면 금계길 48",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협신교지소",
+      "address": "대구광역시 달성군 옥포면 교항리 1538-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이정탁상회",
+      "address": "대구광역시 달성군 옥포면 신당리 1112",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사마트",
+      "address": "대구광역시 달성군 옥포면 신당리 1150",
+      "roadAddress": "대구광역시 달성군 옥포면 신당길 63",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협강림지소",
+      "address": "대구광역시 달성군 옥포면 강림리 572-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경서수퍼",
+      "address": "대구광역시 달성군 옥포면 강림리 502-1",
+      "roadAddress": "대구광역시 달성군 옥포면 비슬로 1929",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강림구판장",
+      "address": "대구광역시 달성군 옥포면 강림리 276",
+      "roadAddress": "대구광역시 달성군 옥포면 시저로4길 2-3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협간경지소",
+      "address": "대구광역시 달성군 옥포면 간경리 865-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "윤정수퍼",
+      "address": "대구광역시 달성군 옥포면 간경리 980",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동남수퍼",
+      "address": "대구광역시 달성군 옥포면 간경리 848",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동네수퍼",
+      "address": "대구광역시 달성군 옥포면 간경리 829",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대영수퍼",
+      "address": "대구광역시 달성군 옥포면 간경리 143-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물수퍼",
+      "address": "대구광역시 달성군 옥포면 간경리 268",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리수퍼",
+      "address": "대구광역시 달성군 옥포면 간경리 842-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "간경수퍼",
+      "address": "대구광역시 달성군 옥포면 간경리 743",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옥포수퍼",
+      "address": "대구광역시 달성군 옥포면 기세리 162",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "반송상회",
+      "address": "대구광역시 달성군 옥포면 반송리 139",
+      "roadAddress": "대구광역시 달성군 옥포면 기산1길 23-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대호상회",
+      "address": "대구광역시 달성군 옥포면 반송리 54-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협용연지소",
+      "address": "대구광역시 달성군 옥포면 기세리 161",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일유통",
+      "address": "대구광역시 달성군 옥포면 본리리 839",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평화수퍼",
+      "address": "대구광역시 달성군 옥포면 간경리 427",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수진수퍼",
+      "address": "대구광역시 달성군 옥포면 간경리 913",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성광상회",
+      "address": "대구광역시 달성군 옥포면 본리리 907",
+      "roadAddress": "대구광역시 달성군 옥포면 옥계길 45",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제림홈마트",
+      "address": "대구광역시 달성군 옥포면 교항리 1519",
+      "roadAddress": "대구광역시 달성군 옥포면 교항제림길 10",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보람유통",
+      "address": "대구광역시 달성군 옥포면 교항리 1394-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통",
+      "address": "대구광역시 달성군 옥포면 교항리 1519",
+      "roadAddress": "대구광역시 달성군 옥포면 교항제림길 10",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통(나양덕)",
+      "address": "대구광역시 달성군 옥포면 교항리 1364",
+      "roadAddress": "대구광역시 달성군 옥포면 다리목중앙길 22",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동제수퍼",
+      "address": "대구광역시 달성군 옥포면 교항리 1397",
+      "roadAddress": "대구광역시 달성군 옥포면 다리목중앙길 12",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영마트",
+      "address": "대구광역시 달성군 옥포면 교항리 1544-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "공단할인마트",
+      "address": "대구광역시 달성군 옥포면 강림리 565-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동문상회",
+      "address": "대구광역시 달성군 옥포면 기세리 598",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금강수퍼",
+      "address": "대구광역시 달성군 옥포면 강림리 555-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경서문구사",
+      "address": "대구광역시 달성군 옥포면 강림리 502-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성주상회",
+      "address": "대구광역시 달성군 옥포면 신당리 1057",
+      "roadAddress": "대구광역시 달성군 옥포면 신당2길 9-2",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "기세상회",
+      "address": "대구광역시 달성군 옥포면 기세리 610",
+      "roadAddress": "대구광역시 달성군 옥포면 옥포로56길 10",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "기세상회",
+      "address": "대구광역시 달성군 옥포면 기세리 610",
+      "roadAddress": "대구광역시 달성군 옥포면 옥포로56길 10",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송촌리",
+      "address": "대구광역시 달성군 옥포면 송촌리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김흥3리",
+      "address": "대구광역시 달성군 옥포면 김흥리 1300",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김흥2리 부녀회",
+      "address": "대구광역시 달성군 옥포면 김흥리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "반송2리 부녀회",
+      "address": "대구광역시 달성군 옥포면 반송리 527",
+      "roadAddress": "대구광역시 달성군 옥포면 반송3길 26",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰수퍼",
+      "address": "대구광역시 달성군 옥포면 간경리 803",
+      "roadAddress": "대구광역시 달성군 옥포면 간경2길 25",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옥계수퍼",
+      "address": "대구광역시 달성군 옥포면 본리리 896",
+      "roadAddress": "대구광역시 달성군 옥포면 본리로 64-10",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옥정상회",
+      "address": "대구광역시 달성군 옥포면 교항리 1304",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진담불상회",
+      "address": "대구광역시 달성군 옥포면 반송리 529",
+      "roadAddress": "대구광역시 달성군 옥포면 반송3길 30",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만복수퍼",
+      "address": "대구광역시 달성군 옥포면 간경리 679",
+      "roadAddress": "대구광역시 달성군 옥포면 간경길 52",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을수퍼",
+      "address": "대구광역시 달성군 옥포면 교항리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평생유통대곡점",
+      "address": "대구광역시 달성군 화원읍 구라리 1735-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통",
+      "address": "대구광역시 달성군 화원읍 천내리 716-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청송수퍼",
+      "address": "대구광역시 달성군 화원읍 천내리 47-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "설화수퍼",
+      "address": "대구광역시 달성군 화원읍 설화리 753-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한남빅마트",
+      "address": "대구광역시 달성군 화원읍 설화리 536-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼포식품",
+      "address": "대구광역시 달성군 화원읍 구라리 1683-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청솔마트",
+      "address": "대구광역시 달성군 화원읍 구라리 1683-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙수퍼",
+      "address": "대구광역시 달성군 화원읍 천내리 717",
+      "roadAddress": "대구광역시 달성군 화원읍 명천로27길 16-5",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화원종합전자수퍼",
+      "address": "대구광역시 달성군 화원읍 천내리 417-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세천구판장",
+      "address": "대구광역시 달성군 다사읍 세천리 916",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-05"
+    },
+    {
+      "name": "서재구판장",
+      "address": "대구광역시 달성군 다사읍 서재리 424",
+      "roadAddress": "대구광역시 달성군 다사읍 서재로18길 5",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-05"
+    },
+    {
+      "name": "광덕유통",
+      "address": "대구광역시 달성군 다사읍 서재리 145",
+      "roadAddress": "대구광역시 달성군 다사읍 서재로30길 17",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-24"
+    },
+    {
+      "name": "신우유통 우방",
+      "address": "대구광역시 달성군 다사읍 매곡리 719-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-06"
+    },
+    {
+      "name": "농협동부지소",
+      "address": "대구광역시 달성군 다사읍 서재리 128",
+      "roadAddress": "대구광역시 달성군 다사읍 서재로 83",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-06"
+    },
+    {
+      "name": "대백마트 유천점",
+      "address": "대구광역시 달성군 화원읍 구라리 1730-6",
+      "roadAddress": "대구광역시 달성군 화원읍 비슬로539길 24",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-08"
+    },
+    {
+      "name": "대구슈퍼",
+      "address": "대구광역시 달성군 다사읍 죽곡리 산 62-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-04"
+    },
+    {
+      "name": "만복수퍼",
+      "address": "대구광역시 달성군 화원읍 천내리 633",
+      "roadAddress": "대구광역시 달성군 화원읍 명천로17길 48",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한샘타운관리사무소",
+      "address": "대구광역시 달성군 화원읍 천내리 346",
+      "roadAddress": "대구광역시 달성군 화원읍 사문진로6길 17",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서촌상회",
+      "address": "대구광역시 달성군 화원읍 성산리 524",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)빅마트",
+      "address": "대구광역시 달성군 화원읍 천내리 187-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙마트",
+      "address": "대구광역시 달성군 다사읍 죽곡리 117-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-06"
+    },
+    {
+      "name": "다사원마트",
+      "address": "대구광역시 달성군 다사읍 매곡리 303-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-02-23"
+    },
+    {
+      "name": "(주)대성서재마트",
+      "address": "대구광역시 달성군 다사읍 서재리 139-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-15"
+    },
+    {
+      "name": "신우유통 서재",
+      "address": "대구광역시 달성군 다사읍 서재리 256-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-03"
+    },
+    {
+      "name": "솔플러스마트",
+      "address": "대구광역시 달성군 화원읍 천내리 891",
+      "roadAddress": "대구광역시 달성군 화원읍 명천로 167",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사마트",
+      "address": "대구광역시 달성군 화원읍 설화리 779-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대백마트화원점",
+      "address": "대구광역시 달성군 화원읍 성산리 514-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알파와오메가",
+      "address": "대구광역시 달성군 화원읍 천내리 128-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아유통",
+      "address": "대구광역시 달성군 화원읍 천내리 100-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통명곡1호점",
+      "address": "대구광역시 달성군 화원읍 명곡리 198-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새천년마트",
+      "address": "대구광역시 달성군 화원읍 성산리 493-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보성마트",
+      "address": "대구광역시 달성군 다사읍 서재리 산 61 보성상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-02"
+    },
+    {
+      "name": "(주)나이스할인매장",
+      "address": "대구광역시 달성군 다사읍 죽곡리 209",
+      "roadAddress": "대구광역시 달성군 다사읍 죽곡1길 16-6",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-20"
+    },
+    {
+      "name": "태성알뜰",
+      "address": "대구광역시 달성군 다사읍 죽곡리 152",
+      "roadAddress": "대구광역시 달성군 다사읍 죽곡2길 6",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-23"
+    },
+    {
+      "name": "대경유통 서재점",
+      "address": "대구광역시 달성군 다사읍 서재리 145",
+      "roadAddress": "대구광역시 달성군 다사읍 서재로30길 17",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-10"
+    },
+    {
+      "name": "한서유통",
+      "address": "대구광역시 달성군 다사읍 매곡리 719-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-25"
+    },
+    {
+      "name": "다사슈퍼낚시",
+      "address": "대구광역시 달성군 다사읍 매곡리 922-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-28"
+    },
+    {
+      "name": "보성슈퍼",
+      "address": "대구광역시 달성군 다사읍 서재리 145",
+      "roadAddress": "대구광역시 달성군 다사읍 서재로30길 17",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-10"
+    },
+    {
+      "name": "동서할인마트",
+      "address": "대구광역시 달성군 다사읍 매곡리 302",
+      "roadAddress": "대구광역시 달성군 다사읍 왕선로 49",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-01"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "대구광역시 달성군 다사읍 죽곡리 산 56-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-12"
+    },
+    {
+      "name": "신우유통한서점",
+      "address": "대구광역시 달성군 다사읍 매곡리 719-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-05"
+    },
+    {
+      "name": "삼주할인마트",
+      "address": "대구광역시 달성군 화원읍 성산리 55  삼주화원타운상가 110",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "늘봄할인마트",
+      "address": "대구광역시 달성군 화원읍 명곡리 명곡1지구 준주거용8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나쇼핑",
+      "address": "대구광역시 달성군 화원읍 명곡리 명곡택지1지구 5호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통 명곡2호점",
+      "address": "대구광역시 달성군 화원읍 명곡리 112 1단지상가 103호",
+      "roadAddress": "대구광역시 달성군 화원읍 명곡로 11  (1단지상가 103호)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에이스마트",
+      "address": "대구광역시 달성군 화원읍 명곡리 112 미래빌상가 4동 101호",
+      "roadAddress": "대구광역시 달성군 화원읍 명곡로 11, 4동 101호 (미래빌상가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통 명곡3호점",
+      "address": "대구광역시 달성군 화원읍 명곡리 3블럭상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공할인마트",
+      "address": "대구광역시 달성군 화원읍 명곡리 2블럭 주공내상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)한라유통골드클럽",
+      "address": "대구광역시 달성군 화원읍 명곡리 166",
+      "roadAddress": "대구광역시 달성군 화원읍 명천로 206",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리수퍼",
+      "address": "대구광역시 달성군 화원읍 천내리 573-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원수퍼",
+      "address": "대구광역시 달성군 화원읍 천내리 851-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통 명곡4호점",
+      "address": "대구광역시 달성군 화원읍 명곡리 4블록 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김천수퍼",
+      "address": "대구광역시 달성군 화원읍 천내리 685",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통강창하이츠",
+      "address": "대구광역시 달성군 다사읍 죽곡리 129-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-22"
+    },
+    {
+      "name": "성주복지매장",
+      "address": "대구광역시 달성군 다사읍 서재리 89",
+      "roadAddress": "대구광역시 달성군 다사읍 서재로27길 49",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-02"
+    },
+    {
+      "name": "삼산식품슈퍼",
+      "address": "대구광역시 달성군 다사읍 매곡리 산 32-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-29"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "대구광역시 달성군 다사읍 매곡리 306-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-17"
+    },
+    {
+      "name": "21세기마트",
+      "address": "대구광역시 달성군 다사읍 죽곡리 산 62-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-29"
+    },
+    {
+      "name": "조일유통",
+      "address": "대구광역시 달성군 다사읍 서재리 149",
+      "roadAddress": "대구광역시 달성군 다사읍 서재로28길 19",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-15"
+    },
+    {
+      "name": "금봉할인타운",
+      "address": "대구광역시 달성군 다사읍 서재리 169",
+      "roadAddress": "대구광역시 달성군 다사읍 서재로 120",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-28"
+    },
+    {
+      "name": "2마트",
+      "address": "대구광역시 달성군 옥포면 본리리 976",
+      "roadAddress": "대구광역시 달성군 옥포면 옥계길 64-4",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청솔마트화원점",
+      "address": "대구광역시 달성군 화원읍 천내리 124-3 지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-13"
+    },
+    {
+      "name": "LG25화원유천점",
+      "address": "대구광역시 달성군 화원읍 구라리 1735-13 18호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-06"
+    },
+    {
+      "name": "공단유통",
+      "address": "대구광역시 달성군 논공읍 북리 824-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-16"
+    },
+    {
+      "name": "우리농축산물마트",
+      "address": "대구광역시 달성군 논공읍 금포리 933",
+      "roadAddress": "대구광역시 달성군 논공읍 시저로 3",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-19"
+    },
+    {
+      "name": "남동슈퍼",
+      "address": "대구광역시 달성군 논공읍 남리 224-114",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-05"
+    },
+    {
+      "name": "콜 마 트",
+      "address": "대구광역시 달성군 다사읍 매곡리 산 32-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-27"
+    },
+    {
+      "name": "보림상회",
+      "address": "대구광역시 달성군 다사읍 서재리 128",
+      "roadAddress": "대구광역시 달성군 다사읍 서재로 83",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-12"
+    },
+    {
+      "name": "세천마트",
+      "address": "대구광역시 달성군 다사읍 세천리 933",
+      "roadAddress": "대구광역시 달성군 다사읍 세천북로9길 17-1",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-09"
+    },
+    {
+      "name": "훼밀리마트",
+      "address": "대구광역시 달성군 다사읍 죽곡리 산 56-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-12"
+    },
+    {
+      "name": "훼밀리마트",
+      "address": "대구광역시 달성군 다사읍 죽곡리 산 56-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-16"
+    },
+    {
+      "name": "서재마트",
+      "address": "대구광역시 달성군 다사읍 서재리 139-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-26"
+    },
+    {
+      "name": "달성군농업기술센터",
+      "address": "대구광역시 달성군 옥포면 교항리 2521-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대하할인마트",
+      "address": "대구광역시 달성군 현풍면 중리 424-2",
+      "roadAddress": "대구광역시 달성군 현풍면 현풍중앙로 2",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-13"
+    },
+    {
+      "name": "파워할인마트",
+      "address": "대구광역시 달성군 옥포면 본리리 1067-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-15"
+    },
+    {
+      "name": "옥포면사무소",
+      "address": "대구광역시 달성군 옥포면 본리리 814",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-09"
+    },
+    {
+      "name": "리마트",
+      "address": "대구광역시 달성군 논공읍 북리 803-130",
+      "roadAddress": "대구광역시 달성군 논공읍 논공로9길 88",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씨엔1000냥",
+      "address": "대구광역시 달성군 논공읍 북리 824-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 논공행복점",
+      "address": "대구광역시 달성군 논공읍 북리 824-114",
+      "roadAddress": "대구광역시 달성군 논공읍 논공로24길 23",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홈플러스(주)익스프레스 화원점",
+      "address": "대구광역시 달성군 화원읍 1717",
+      "roadAddress": "대구광역시 달성군 화원읍 비슬로543길 27",
+      "status": "영업/정상",
+      "licenseDate": "2017-11-14"
+    },
+    {
+      "name": "대구농산물생산자영농조합법인",
+      "address": "대구광역시 달성군 다사읍 문양리 400 문양역",
+      "roadAddress": "대구광역시 달성군 다사읍 문양역길 71, 문양역",
+      "status": "영업/정상",
+      "licenseDate": "2019-05-01"
+    }
+  ]
+}

@@ -1,0 +1,822 @@
+{
+  "region": "경상남도",
+  "regionSlug": "gyeongnam",
+  "district": "창녕군",
+  "districtSlug": "changnyeong",
+  "updatedAt": "2026-03-26",
+  "totalCount": 116,
+  "stores": [
+    {
+      "name": "동포미니슈퍼",
+      "address": "경상남도 창녕군 남지읍 남지리 662",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남지할인마트25",
+      "address": "경상남도 창녕군 남지읍 남지리 650",
+      "roadAddress": "경상남도 창녕군 남지읍 남포길 5",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "경상남도 창녕군 남지읍 남지리 826 국화빌라",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데슈퍼",
+      "address": "경상남도 창녕군 부곡면 거문리 686",
+      "roadAddress": "경상남도 창녕군 부곡면 거문1길 40",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동포담배상회",
+      "address": "경상남도 창녕군 남지읍 남지리 605-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물상회",
+      "address": "경상남도 창녕군 남지읍 남지리 512",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남지종합문구",
+      "address": "경상남도 창녕군 남지읍 남지리 725-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린DC마트",
+      "address": "경상남도 창녕군 남지읍 남지리 609-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남지스토아",
+      "address": "경상남도 창녕군 남지읍 남지리 663-104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남지농협하나로마트",
+      "address": "경상남도 창녕군 남지읍 남지리 662-9",
+      "roadAddress": "경상남도 창녕군 남지읍 낙동로 498-2",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "샛별상회",
+      "address": "경상남도 창녕군 고암면 우천리 1054-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성산슈퍼",
+      "address": "경상남도 창녕군 성산면 냉천리 128-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대터정류소",
+      "address": "경상남도 창녕군 성산면 정녕리 552-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대견가게(구판장)",
+      "address": "경상남도 창녕군 성산면 대견리 236",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옥야슈퍼",
+      "address": "경상남도 창녕군 이방면 장천리 15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이방약국",
+      "address": "경상남도 창녕군 이방면 거남리 435",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이방농협",
+      "address": "경상남도 창녕군 이방면 거남리 436",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대풍상회",
+      "address": "경상남도 창녕군 이방면 장천리 13-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동산상회",
+      "address": "경상남도 창녕군 이방면 거남리 435",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옥야종고",
+      "address": "경상남도 창녕군 이방면 장천리 1096-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경상남도 창녕군 유어면 부곡리 20-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "경상남도 창녕군 유어면 부곡리 18-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "계명상회",
+      "address": "경상남도 창녕군 계성면 명리 564",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태화상회",
+      "address": "경상남도 창녕군 계성면 계성리 188-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나장식",
+      "address": "경상남도 창녕군 영산면 서리 131",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화신상회",
+      "address": "경상남도 창녕군 영산면 동리 69-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영산기물점",
+      "address": "경상남도 창녕군 영산면 성내리 383",
+      "roadAddress": "경상남도 창녕군 영산면 성내안길 5",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성우상회",
+      "address": "경상남도 창녕군 영산면 서리 8-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "도천슈퍼",
+      "address": "경상남도 창녕군 도천면 도천리 246-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경상남도 창녕군 창녕읍 교상리 59-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경상남도 창녕군 도천면 일리 506",
+      "roadAddress": "경상남도 창녕군 도천면 마을안길 20",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은하슈퍼",
+      "address": "경상남도 창녕군 도천면 일리 547",
+      "roadAddress": "경상남도 창녕군 도천면 중앙길 4",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현주슈퍼",
+      "address": "경상남도 창녕군 길곡면 증산리 976-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동문슈퍼상사",
+      "address": "경상남도 창녕군 부곡면 부곡리 356",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "관조할인마트",
+      "address": "경상남도 창녕군 창녕읍 술정리 331",
+      "roadAddress": "경상남도 창녕군 창녕읍 군청길 25",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-31"
+    },
+    {
+      "name": "올림픽슈퍼",
+      "address": "경상남도 창녕군 부곡면 거문리 223-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-22"
+    },
+    {
+      "name": "일성레져산업(주)부곡사업본부",
+      "address": "경상남도 창녕군 부곡면 거문리 203-10",
+      "roadAddress": "경상남도 창녕군 부곡면 온천로 594 (일성부곡휴양콘도미니엄)",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-22"
+    },
+    {
+      "name": "솔마트",
+      "address": "경상남도 창녕군 창녕읍 송현리 115-8 솔터상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-13"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "경상남도 창녕군 창녕읍 교상리 45",
+      "roadAddress": "경상남도 창녕군 창녕읍 종로 38",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-01"
+    },
+    {
+      "name": "KS마트",
+      "address": "경상남도 창녕군 부곡면 거문리 231-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-15"
+    },
+    {
+      "name": "윈마트",
+      "address": "경상남도 창녕군 남지읍 남지리 280-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-22"
+    },
+    {
+      "name": "대흥상회",
+      "address": "경상남도 창녕군 남지읍 남지리 833-2   대흥아파트2층1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-28"
+    },
+    {
+      "name": "홈마트슈퍼",
+      "address": "경상남도 창녕군 창녕읍 교하리 222-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-24"
+    },
+    {
+      "name": "온천슈퍼",
+      "address": "경상남도 창녕군 부곡면 거문리 216-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-24"
+    },
+    {
+      "name": "콜할인마트",
+      "address": "경상남도 창녕군 이방면 장천리 65-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-11"
+    },
+    {
+      "name": "성원C마트",
+      "address": "경상남도 창녕군 대합면 십이리 239-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-25"
+    },
+    {
+      "name": "경남장식",
+      "address": "경상남도 창녕군 창녕읍 교리 260-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-17"
+    },
+    {
+      "name": "25시마트",
+      "address": "경상남도 창녕군 남지읍 남지리 988-1 중앙상가101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-28"
+    },
+    {
+      "name": "도천할인마트",
+      "address": "경상남도 창녕군 도천면 일리 558",
+      "roadAddress": "경상남도 창녕군 도천면 도천중앙로 13-3",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-31"
+    },
+    {
+      "name": "건우가든유통",
+      "address": "경상남도 창녕군 창녕읍 송현리 165-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-01"
+    },
+    {
+      "name": "영산중앙병원",
+      "address": "경상남도 창녕군 영산면 죽사리 1456-26",
+      "roadAddress": "경상남도 창녕군 영산면 영산도천로 430",
+      "status": "영업/정상",
+      "licenseDate": "2005-02-05"
+    },
+    {
+      "name": "GS25창녕남지점",
+      "address": "경상남도 창녕군 남지읍 남지리 985-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-07"
+    },
+    {
+      "name": "탑마트 창녕점",
+      "address": "경상남도 창녕군 창녕읍 술정리 137",
+      "roadAddress": "경상남도 창녕군 창녕읍 술정동탑길 4",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-22"
+    },
+    {
+      "name": "포스할인마트",
+      "address": "경상남도 창녕군 이방면 장천리 79-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 창녕대로점",
+      "address": "경상남도 창녕군 창녕읍 술정리 322",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-24"
+    },
+    {
+      "name": "축협마트",
+      "address": "경상남도 창녕군 창녕읍 교리 262-1",
+      "roadAddress": "경상남도 창녕군 창녕읍 명덕로 68",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-10"
+    },
+    {
+      "name": "진마트영산점",
+      "address": "경상남도 창녕군 영산면 서리 217-1",
+      "roadAddress": "경상남도 창녕군 영산면 영산장마로 753",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-07"
+    },
+    {
+      "name": "훼미리마트창녕대합점",
+      "address": "경상남도 창녕군 대합면 십이리 436-1",
+      "roadAddress": "경상남도 창녕군 대합면 십이리1길 14",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-30"
+    },
+    {
+      "name": "부일상회",
+      "address": "경상남도 창녕군 부곡면 부곡리 285-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일운슈퍼",
+      "address": "경상남도 창녕군 부곡면 부곡리 319-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "경상남도 창녕군 부곡면 거문리 224-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원앙상회",
+      "address": "경상남도 창녕군 부곡면 수다리 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아서점",
+      "address": "경상남도 창녕군 부곡면 부곡리 281-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데슈퍼",
+      "address": "경상남도 창녕군 부곡면 거문리 686",
+      "roadAddress": "경상남도 창녕군 부곡면 거문1길 40",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "직교상회",
+      "address": "경상남도 창녕군 창녕읍 직교리 61",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성심슈퍼",
+      "address": "경상남도 창녕군 창녕읍 교하리 138-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성상회",
+      "address": "경상남도 창녕군 창녕읍 교하리 263-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영미사",
+      "address": "경상남도 창녕군 창녕읍 교하리 132",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "교리구멍가게",
+      "address": "경상남도 창녕군 창녕읍 교리 282-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대진슈퍼",
+      "address": "경상남도 창녕군 창녕읍 교리 279-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경상남도 창녕군 창녕읍 교상리 59-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종합슈퍼",
+      "address": "경상남도 창녕군 창녕읍 송현리 264",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼미하이쇼핑",
+      "address": "경상남도 창녕군 창녕읍 교하리 156",
+      "roadAddress": "경상남도 창녕군 창녕읍 교하길 27-7",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "목마슈퍼",
+      "address": "경상남도 창녕군 창녕읍 송현리 144-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진양슈퍼",
+      "address": "경상남도 창녕군 창녕읍 교하리 48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "거인슈퍼",
+      "address": "경상남도 창녕군 창녕읍 교리 227",
+      "roadAddress": "경상남도 창녕군 창녕읍 명덕로 87",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신동아쇼핑",
+      "address": "경상남도 창녕군 창녕읍 교하리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동남슈퍼",
+      "address": "경상남도 창녕군 창녕읍 교리 227",
+      "roadAddress": "경상남도 창녕군 창녕읍 명덕로 87",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조광상회",
+      "address": "경상남도 창녕군 창녕읍 술정리 368-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "최신담배집",
+      "address": "경상남도 창녕군 창녕읍 술정리 13-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "규일상회",
+      "address": "경상남도 창녕군 창녕읍 술정리 53",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화성상회",
+      "address": "경상남도 창녕군 창녕읍 술정리 410-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문창지업사",
+      "address": "경상남도 창녕군 창녕읍 술정리 38-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시장슈퍼",
+      "address": "경상남도 창녕군 창녕읍 술정리 1-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "CU창녕영산점",
+      "address": "경상남도 창녕군 영산면 서리 145-13",
+      "roadAddress": "경상남도 창녕군 영산면 연지길 3",
+      "status": "영업/정상",
+      "licenseDate": "2018-05-21"
+    },
+    {
+      "name": "동해분식휴게소",
+      "address": "경상남도 창녕군 이방면 현창리 71-3",
+      "roadAddress": "경상남도 창녕군 이방면 우포1대로 72",
+      "status": "영업/정상",
+      "licenseDate": "2018-05-28"
+    },
+    {
+      "name": "서울유통",
+      "address": "경상남도 창녕군 창녕읍 교하리 138",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼영지업사",
+      "address": "경상남도 창녕군 창녕읍 술정리 55",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일흥아파트 부녀회",
+      "address": "경상남도 창녕군 창녕읍 탐하리 일흥아파트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "갈대슈퍼",
+      "address": "경상남도 창녕군 창녕읍 말흘리 222-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빙그레완구",
+      "address": "경상남도 창녕군 창녕읍 교하리 39-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진마트",
+      "address": "경상남도 창녕군 창녕읍 말흘리 경호빌라 A동 301호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상남도 창녕군 창녕읍 교리 981-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행운할인마트",
+      "address": "경상남도 창녕군 길곡면 증산리 701",
+      "roadAddress": "경상남도 창녕군 길곡면 낙동로 1510-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "솔화장품",
+      "address": "경상남도 창녕군 남지읍 남지리 609-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진마트남지점",
+      "address": "경상남도 창녕군 남지읍 남지리 534-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대DC마트",
+      "address": "경상남도 창녕군 남지읍 마산리 906-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대지상회",
+      "address": "경상남도 창녕군 대지면 모산리 526",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼호슈퍼",
+      "address": "경상남도 창녕군 도천면 송진리 1692",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리할인마트",
+      "address": "경상남도 창녕군 도천면 일리 494",
+      "roadAddress": "경상남도 창녕군 도천면 중앙길 12-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "거문회관슈퍼",
+      "address": "경상남도 창녕군 부곡면 거문리 664",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕암슈퍼",
+      "address": "경상남도 창녕군 부곡면 부곡리 283-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼상회",
+      "address": "경상남도 창녕군 부곡면 거문리 491",
+      "roadAddress": "경상남도 창녕군 부곡면 한골길 70-6",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "곽명기",
+      "address": "경상남도 창녕군 부곡면 거문리 213-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "온천매점",
+      "address": "경상남도 창녕군 부곡면 거문리 863",
+      "roadAddress": "경상남도 창녕군 부곡면 원앙로 72",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일문구서점",
+      "address": "경상남도 창녕군 부곡면 부곡리 279-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배가게",
+      "address": "경상남도 창녕군 영산면 죽사리 209",
+      "roadAddress": "경상남도 창녕군 영산면 내천길 40-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세기문구사",
+      "address": "경상남도 창녕군 영산면 죽사리 209",
+      "roadAddress": "경상남도 창녕군 영산면 내천길 40-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영산지업사",
+      "address": "경상남도 창녕군 영산면 성내리 472",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "윤마트",
+      "address": "경상남도 창녕군 영산면 성내리 510",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙상회",
+      "address": "경상남도 창녕군 영산면 서리 36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장마건어물상회",
+      "address": "경상남도 창녕군 장마면 강리 804-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "관조할인마트",
+      "address": "경상남도 창녕군 창녕읍 술정리 331",
+      "roadAddress": "경상남도 창녕군 창녕읍 군청길 25",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협파머스마켓",
+      "address": "경상남도 창녕군 창녕읍 교하리 235-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창녕DC마트",
+      "address": "경상남도 창녕군 창녕읍 술정리 19-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홈마트",
+      "address": "경상남도 창녕군 창녕읍 교하리 222-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    }
+  ]
+}

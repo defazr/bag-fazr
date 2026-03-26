@@ -1,0 +1,1620 @@
+{
+  "region": "경상북도",
+  "regionSlug": "gyeongbuk",
+  "district": "고령군",
+  "districtSlug": "goryeong",
+  "updatedAt": "2026-03-26",
+  "totalCount": 230,
+  "stores": [
+    {
+      "name": "시장철물",
+      "address": "경상북도 고령군 대가야읍 쾌빈리 547-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "동명쌀집",
+      "address": "경상북도 고령군 대가야읍 쾌빈리 521",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "대백고령점",
+      "address": "경상북도 고령군 대가야읍 쾌빈리 553",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "고령비닐",
+      "address": "경상북도 고령군 대가야읍 쾌빈리 554",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "대영슈퍼",
+      "address": "경상북도 고령군 대가야읍 쾌빈리 492",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "평화알파마트",
+      "address": "경상북도 고령군 대가야읍 쾌빈리 508-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "고령우체국",
+      "address": "경상북도 고령군 대가야읍 쾌빈리 433-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "성진슈퍼",
+      "address": "경상북도 고령군 대가야읍 쾌빈리 402",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "경상북도 고령군 대가야읍 쾌빈리 415-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "보광상회",
+      "address": "경상북도 고령군 대가야읍 쾌빈리 330-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "대일슈퍼",
+      "address": "경상북도 고령군 대가야읍 쾌빈리 402-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 대가야읍 쾌빈리 14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 대가야읍 쾌빈리 556-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 대가야읍 쾌빈리 105-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "덕운상회",
+      "address": "경상북도 고령군 대가야읍 쾌빈리 19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 대가야읍 고아리 287",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 대가야읍 장기리 36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "부녀회장",
+      "address": "경상북도 고령군 대가야읍 장기리 142-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "로타리상회",
+      "address": "경상북도 고령군 대가야읍 헌문리 50-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "경상북도 고령군 대가야읍 헌문리 270-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경상북도 고령군 대가야읍 헌문리 247-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "관리실",
+      "address": "경상북도 고령군 대가야읍 연조리 588-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "연조상회",
+      "address": "경상북도 고령군 대가야읍 연조리 214-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "수정상회",
+      "address": "경상북도 고령군 대가야읍 연조리 183-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "학교문구사",
+      "address": "경상북도 고령군 대가야읍 연조리 129-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "성주슈퍼",
+      "address": "경상북도 고령군 대가야읍 연조리 129-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "영창상회",
+      "address": "경상북도 고령군 대가야읍 연조리 132",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "종합시장",
+      "address": "경상북도 고령군 대가야읍 연조리 222-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "축협연쇄점",
+      "address": "경상북도 고령군 대가야읍 지산리 221-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 대가야읍 지산리 37-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "부영상회",
+      "address": "경상북도 고령군 대가야읍 지산리 222-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "협동상회",
+      "address": "경상북도 고령군 대가야읍 지산리 228-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "제일천막사",
+      "address": "경상북도 고령군 대가야읍 지산리 225-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "민주네수퍼",
+      "address": "경상북도 고령군 대가야읍 지산리 600-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "대경유통",
+      "address": "경상북도 고령군 대가야읍 지산리 909",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "파랑새슈퍼",
+      "address": "경상북도 고령군 대가야읍 지산리 905-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "신우유통",
+      "address": "경상북도 고령군 대가야읍 지산리 905-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "농협직판장",
+      "address": "경상북도 고령군 대가야읍 본관리 722-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 고령군 대가야읍 본관리 164",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 대가야읍 중화리 124",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 대가야읍 중화리 552-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 고령군 대가야읍 신리 117",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 고령군 대가야읍 저전리 264",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장댁",
+      "address": "경상북도 고령군 대가야읍 저전리 889",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "부녀회장",
+      "address": "경상북도 고령군 대가야읍 내곡리 16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "지도자집",
+      "address": "경상북도 고령군 덕곡면 가륜리 769",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "형제상회",
+      "address": "경상북도 고령군 덕곡면 가륜리 227",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "덕곡우체국",
+      "address": "경상북도 고령군 덕곡면 가륜리 227",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 덕곡면 원송리 256",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "지도자",
+      "address": "경상북도 고령군 덕곡면 원송리 329",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 덕곡면 백리 695",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 덕곡면 옥계리 110",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 덕곡면 용흥리 170",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "지도자집",
+      "address": "경상북도 고령군 덕곡면 용흥리 458",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 덕곡면 예리 421",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 덕곡면 반성리 811",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 덕곡면 후암리 357",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경상북도 고령군 운수면 봉평리 834-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "운수상회",
+      "address": "경상북도 고령군 운수면 봉평리 849-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "담배포",
+      "address": "경상북도 고령군 운수면 봉평리 792",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "운수우체국",
+      "address": "경상북도 고령군 운수면 봉평리 596-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "담배포",
+      "address": "경상북도 고령군 운수면 봉평리 248",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 고령군 운수면 대평리 900-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "담배포",
+      "address": "경상북도 고령군 운수면 대평리 555",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 운수면 신간리 772",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 고령군 운수면 운산리 74-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "담배포",
+      "address": "경상북도 고령군 운수면 운산리 35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 고령군 운수면 월산리 462",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상북도 고령군 운수면 화암리 48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "고령상회",
+      "address": "경상북도 고령군 성산면 어곡리 254-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "오뚜기상회",
+      "address": "경상북도 고령군 성산면 어곡리 132",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "성산상회",
+      "address": "경상북도 고령군 성산면 어곡리 228-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "중앙상회",
+      "address": "경상북도 고령군 성산면 어곡리 134",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "어곡상회",
+      "address": "경상북도 고령군 성산면 어곡리 142-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "성산우체국",
+      "address": "경상북도 고령군 성산면 어곡리 131-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "포항상회",
+      "address": "경상북도 고령군 성산면 득성리 183-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "인덕슈퍼",
+      "address": "경상북도 고령군 성산면 득성리 132",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "시장슈퍼",
+      "address": "경상북도 고령군 성산면 득성리 210-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "득성상회",
+      "address": "경상북도 고령군 성산면 득성리 247",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "직판장",
+      "address": "경상북도 고령군 성산면 득성리 133-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경상북도 고령군 성산면 득성리 208-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 성산면 삼대리 456",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "낙동상회",
+      "address": "경상북도 고령군 성산면 삼대리 116-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 성산면 삼대리 254-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 성산면 오곡리 520",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상북도 고령군 성산면 강정리 59",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 성산면 무계리 352",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "담배포",
+      "address": "경상북도 고령군 성산면 박곡리 244",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "박곡식육점",
+      "address": "경상북도 고령군 성산면 박곡리 526",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "대흥상회",
+      "address": "경상북도 고령군 성산면 대흥리 84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 성산면 용소리 322",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 성산면 상용리 631",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 성산면 고탄리 399",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 고령군 성산면 기족리 95",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 성산면 기산리 613",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 성산면 기산리 187",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "담배포",
+      "address": "경상북도 고령군 성산면 사부리 136",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 성산면 사부리 244-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경상북도 고령군 다산면 평리리 372-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "다산슈퍼",
+      "address": "경상북도 고령군 다산면 평리리 269-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "다산우체국",
+      "address": "경상북도 고령군 다산면 평리리 370-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "호촌상회",
+      "address": "경상북도 고령군 다산면 호촌리 687-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "상곡상회",
+      "address": "경상북도 고령군 다산면 상곡리 303",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "신우유통",
+      "address": "경상북도 고령군 다산면 상곡리 101 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "강남식육점",
+      "address": "경상북도 고령군 다산면 상곡리 105 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "다산유통",
+      "address": "경상북도 고령군 다산면 상곡리 150-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "풍요로운재래시장",
+      "address": "경상북도 고령군 다산면 상곡리 359-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경상북도 고령군 다산면 노곡리 1242-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "나정상회",
+      "address": "경상북도 고령군 다산면 나정리 217",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경상북도 고령군 다산면 벌지리 19-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 개진면 양전리 3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 개진면 양전리 155",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경상북도 고령군 개진면 양전리 228-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "공단상회",
+      "address": "경상북도 고령군 개진면 반운리 2B23L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 개진면 신안리 214-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "한솔슈퍼",
+      "address": "경상북도 고령군 개진면 직리 402-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 개진면 직리 70",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "나루터상회",
+      "address": "경상북도 고령군 개진면 개포리 355-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 개진면 개포리 214",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 개진면 개포리 203",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "오사문방구",
+      "address": "경상북도 고령군 개진면 오사리 52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 개진면 오사리 781",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "부녀회장",
+      "address": "경상북도 고령군 개진면 구곡리 533",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "개진우체국",
+      "address": "경상북도 고령군 개진면 옥산리 495-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 개진면 옥산리 371",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 개진면 옥산리 657",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 개진면 부리 375",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "개진부동산",
+      "address": "경상북도 고령군 개진면 부리 378-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "담배포",
+      "address": "경상북도 고령군 개진면 인안리 275",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "정류소상회",
+      "address": "경상북도 고령군 우곡면 도진리 287",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경상북도 고령군 우곡면 도진리 163",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상북도 고령군 우곡면 도진리 197",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "우곡우체국",
+      "address": "경상북도 고령군 우곡면 도진리 164-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "들꽃마을",
+      "address": "경상북도 고령군 우곡면 예곡리 159",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 우곡면 답곡리 915",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상북도 고령군 우곡면 답곡리 593",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 우곡면 답곡리 880",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경상북도 고령군 우곡면 봉산리 1135",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 우곡면 봉산리 1045",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "담배포",
+      "address": "경상북도 고령군 우곡면 봉산리 1265",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상북도 고령군 우곡면 객기리 294",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 우곡면 연리 333",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 우곡면 월오리 223",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "마을회",
+      "address": "경상북도 고령군 우곡면 사전리 110",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "부녀회장",
+      "address": "경상북도 고령군 우곡면 사전리 213",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "담배포",
+      "address": "경상북도 고령군 우곡면 야정리 929",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "사촌상회",
+      "address": "경상북도 고령군 우곡면 사촌리 276",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "담배포",
+      "address": "경상북도 고령군 우곡면 사촌리 272",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "동일전기",
+      "address": "경상북도 고령군 쌍림면 귀원리 125",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "건영상회",
+      "address": "경상북도 고령군 쌍림면 귀원리 115",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "쌍림우체국",
+      "address": "경상북도 고령군 쌍림면 귀원리 271-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 쌍림면 산당리 244",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "수정상회",
+      "address": "경상북도 고령군 쌍림면 백산리 162-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "진희상회",
+      "address": "경상북도 고령군 쌍림면 백산리 273",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "신촌숲내",
+      "address": "경상북도 고령군 쌍림면 신촌리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 쌍림면 산주리 427-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "매촌상회",
+      "address": "경상북도 고령군 쌍림면 매촌리 259",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 쌍림면 신곡리 446",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "안림식품점",
+      "address": "경상북도 고령군 쌍림면 안림리 562",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "경상북도 고령군 쌍림면 안림리 283-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경상북도 고령군 쌍림면 안림리 359",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 쌍림면 고곡리 298",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 쌍림면 월막리 94",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "신우유통",
+      "address": "경상북도 고령군 대가야읍 쾌빈리 433-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "고령완구점",
+      "address": "경상북도 고령군 대가야읍 헌문리 233",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "수정1차관리실",
+      "address": "경상북도 고령군 대가야읍 연조리 183",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "수정2차관리실",
+      "address": "경상북도 고령군 대가야읍 연조리 183-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "홍진상회",
+      "address": "경상북도 고령군 대가야읍 지산리 5-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "경상북도 고령군 대가야읍 지산리 732",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 고령군 대가야읍 본관리 374",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 대가야읍 중화리 371-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 대가야읍 중화리 450",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 고령군 대가야읍 내상리 137",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 고령군 대가야읍 외리 420",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 고령군 대가야읍 외리 668",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 고령군 대가야읍 내곡리 735",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 덕곡면 가륜리 358",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 덕곡면 노리 341-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 덕곡면 노리 999",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 덕곡면 백리 252",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 덕곡면 본리리 139",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 덕곡면 본리리 633",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 덕곡면 예리 388",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 덕곡면 예리 448",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 덕곡면 반성리 716",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "지도자집",
+      "address": "경상북도 고령군 덕곡면 반성리 328",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 덕곡면 후암리 67",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 운수면 신간리 123",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 운수면 법리 57",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 운수면 유리 77",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 고령군 운수면 팔산리 222",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 운수면 월산리 76-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 고령군 운수면 화암리 1037",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "시장슈퍼",
+      "address": "경상북도 고령군 다산면 평리리 274-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 다산면 호촌리 309",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 다산면 호촌리 613-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 다산면 곽촌리 996",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 다산면 좌학리 98",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "솔밭가든",
+      "address": "경상북도 고령군 다산면 나정리 446-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "벽오동식당",
+      "address": "경상북도 고령군 다산면 벌지리 961-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "송곡휴게소",
+      "address": "경상북도 고령군 다산면 송곡리 263-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "공단슈퍼",
+      "address": "경상북도 고령군 다산면 송곡리 1625-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "강남알뜰쇼핑",
+      "address": "경상북도 고령군 다산면 상곡리 상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 개진면 양전리 37-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 개진면 양전리 722",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "영아슈퍼",
+      "address": "경상북도 고령군 개진면 반운리 456-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 개진면 직리 646",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "직동가스",
+      "address": "경상북도 고령군 개진면 직리 265-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 개진면 구곡리 86",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경상북도 고령군 개진면 옥산리 525-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "부동연쇄점",
+      "address": "경상북도 고령군 개진면 부리 172-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 개진면 생리 290",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장집",
+      "address": "경상북도 고령군 개진면 인안리 124",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 고령군 우곡면 월오리 237",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 고령군 우곡면 야정리 359",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 고령군 우곡면 답곡리 601",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "부녀슈퍼",
+      "address": "경상북도 고령군 우곡면 연리 424",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "합천슈퍼",
+      "address": "경상북도 고령군 쌍림면 귀원리 320-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장댁",
+      "address": "경상북도 고령군 쌍림면 송림리 255-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상북도 고령군 쌍림면 송림리 200",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 고령군 쌍림면 송림리 268",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장댁",
+      "address": "경상북도 고령군 쌍림면 하거리 522",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장댁",
+      "address": "경상북도 고령군 쌍림면 하거리 254-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 고령군 쌍림면 매촌리 147-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장댁",
+      "address": "경상북도 고령군 쌍림면 합가리 76",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장댁",
+      "address": "경상북도 고령군 쌍림면 합가리 797",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장댁",
+      "address": "경상북도 고령군 쌍림면 신곡리 642",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장댁",
+      "address": "경상북도 고령군 쌍림면 평지리 873",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 고령군 쌍림면 고곡리 298",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "이장댁",
+      "address": "경상북도 고령군 쌍림면 용리 947",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    }
+  ]
+}

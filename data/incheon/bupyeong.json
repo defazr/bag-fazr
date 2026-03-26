@@ -1,0 +1,2964 @@
+{
+  "region": "인천광역시",
+  "regionSlug": "incheon",
+  "district": "부평구",
+  "districtSlug": "bupyeong",
+  "updatedAt": "2026-03-26",
+  "totalCount": 422,
+  "stores": [
+    {
+      "name": "우리미니슈퍼",
+      "address": "인천광역시 부평구 부평동 182-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "으뜸종합슈퍼",
+      "address": "인천광역시 부평구 부평동 134-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일상회",
+      "address": "인천광역시 부평구 청천동 13-53",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경동슈퍼",
+      "address": "인천광역시 부평구 부평동 143-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "예천슈퍼",
+      "address": "인천광역시 부평구 부평동 166-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미광슈퍼마켓",
+      "address": "인천광역시 부평구 부평동 98-64",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "예산슈퍼",
+      "address": "인천광역시 부평구 부평동 191-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중부상회",
+      "address": "인천광역시 부평구 부평동 453-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼진슈퍼",
+      "address": "인천광역시 부평구 부평동 495-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼양슈퍼",
+      "address": "인천광역시 부평구 부평동 160-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "인천광역시 부평구 갈산동 371",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼원슈퍼",
+      "address": "인천광역시 부평구 부평동 570-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선경슈퍼",
+      "address": "인천광역시 부평구 부평동 502-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "여주슈퍼",
+      "address": "인천광역시 부평구 부평동 168-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유신상회",
+      "address": "인천광역시 부평구 부평동 135",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "인천광역시 부평구 십정동 309-138",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "인천광역시 부평구 부평동 150-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름유통",
+      "address": "인천광역시 부평구 십정동 400-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "왕자슈퍼",
+      "address": "인천광역시 부평구 부평동 113-52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성유통",
+      "address": "인천광역시 부평구 부평동 495-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유진슈퍼",
+      "address": "인천광역시 부평구 부평동 459-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "88문구",
+      "address": "인천광역시 부평구 부평동 497-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "인천광역시 부평구 산곡동 225-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙지물",
+      "address": "인천광역시 부평구 부평동 192-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동서유통",
+      "address": "인천광역시 부평구 부평동 143-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "인천광역시 부평구 산곡동 225-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙미니슈퍼",
+      "address": "인천광역시 부평구 부평동 155-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "놀이터슈퍼",
+      "address": "인천광역시 부평구 부평동 486-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서광하이마트",
+      "address": "인천광역시 부평구 부평동 127-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부일슈퍼",
+      "address": "인천광역시 부평구 부평동 146-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "흥부상회",
+      "address": "인천광역시 부평구 부평동 152-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울유통도매센타",
+      "address": "인천광역시 부평구 부평동 143-59",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영신슈퍼",
+      "address": "인천광역시 부평구 부평동 585-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아슈퍼",
+      "address": "인천광역시 부평구 부개동 477-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "인천광역시 부평구 부평동 605-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대우마트",
+      "address": "인천광역시 부평구 부평동 519-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대영슈퍼마켓",
+      "address": "인천광역시 부평구 부평동 364-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선열쇠",
+      "address": "인천광역시 부평구 부평동 364-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나마트",
+      "address": "인천광역시 부평구 부평동 98-200",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소망유통",
+      "address": "인천광역시 부평구 부평동 476-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경인유통",
+      "address": "인천광역시 부평구 부평동 156-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인천원예농업협동조합",
+      "address": "인천광역시 부평구 부평동 150-24",
+      "roadAddress": "인천광역시 부평구 시장로 48 (부평동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금강유통",
+      "address": "인천광역시 부평구 부평동 480-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동일슈퍼",
+      "address": "인천광역시 부평구 부평동 115-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부평5동새마을금고(본소)",
+      "address": "인천광역시 부평구 부평동 572-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부평5동새마을금고(본소)",
+      "address": "인천광역시 부평구 부평동 572-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)코리아세븐부평점",
+      "address": "인천광역시 부평구 부평동 153-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25중앙점",
+      "address": "인천광역시 부평구 부평동 154-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "인천광역시 부평구 갈산동 78",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱부평중앙점",
+      "address": "인천광역시 부평구 부평동 153-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수보당약국",
+      "address": "인천광역시 부평구 부평동 201-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전주슈퍼",
+      "address": "인천광역시 부평구 부평동 98-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "효성마트",
+      "address": "인천광역시 부평구 부평동 368-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바우슈퍼",
+      "address": "인천광역시 부평구 부평동 177-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부평종합유통",
+      "address": "인천광역시 부평구 부평동 468-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25부평역점",
+      "address": "인천광역시 부평구 부평동 199-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG칼텍스부흥로주유소",
+      "address": "인천광역시 부평구 부평동 10-855",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "인천광역시 부평구 부평동 605-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채식유통",
+      "address": "인천광역시 부평구 부평동 113-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선영슈퍼",
+      "address": "인천광역시 부평구 부평동 159-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대공판장",
+      "address": "인천광역시 부평구 십정동 277-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대은마트",
+      "address": "인천광역시 부평구 부평동 112-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양마트(주)부평역점",
+      "address": "인천광역시 부평구 부평동 153-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔도쌀유통",
+      "address": "인천광역시 부평구 부평동 485-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "인천광역시 부평구 산곡동 179-92",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "인천광역시 부평구 산곡동 225-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홍천상회",
+      "address": "인천광역시 부평구 부평동 379-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "인천광역시 부평구 갈산동 78",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고향슈퍼",
+      "address": "인천광역시 부평구 부평동 416-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경기상회",
+      "address": "인천광역시 부평구 부평동 441-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "인천광역시 부평구 갈산동 78",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키부일슈퍼",
+      "address": "인천광역시 부평구 부평동 433-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매일상사",
+      "address": "인천광역시 부평구 부평동 372-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두산슈퍼",
+      "address": "인천광역시 부평구 부평동 10-439",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "까치미니슈퍼",
+      "address": "인천광역시 부평구 부평동 408-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오성사",
+      "address": "인천광역시 부평구 부평동 441-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호남슈퍼",
+      "address": "인천광역시 부평구 부평동 12-80",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사마트",
+      "address": "인천광역시 부평구 산곡동 274-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "범표국제봉투",
+      "address": "인천광역시 부평구 부평동 240-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일산업",
+      "address": "인천광역시 부평구 부평동 241-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신트리슈퍼",
+      "address": "인천광역시 부평구 부평동 38-77",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "윤명철물",
+      "address": "인천광역시 부평구 부평동 436-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우정슈퍼",
+      "address": "인천광역시 부평구 부평동 379-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "인천광역시 부평구 부평동 887-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영풍상사",
+      "address": "인천광역시 부평구 부평동 222-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정일슈퍼",
+      "address": "인천광역시 부평구 부평동 396-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "향도식품",
+      "address": "인천광역시 부평구 부평동 211-74",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "당진슈퍼",
+      "address": "인천광역시 부평구 부평동 34-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대농슈퍼",
+      "address": "인천광역시 부평구 십정동 216-151",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부평비닐",
+      "address": "인천광역시 부평구 부평동 239-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시장봉투",
+      "address": "인천광역시 부평구 부평동 406-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성슈퍼",
+      "address": "인천광역시 부평구 부평동 206-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "곰상회",
+      "address": "인천광역시 부평구 부평동 229-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홍의상회",
+      "address": "인천광역시 부평구 부평동 231",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대하이퍼",
+      "address": "인천광역시 부평구 부평동 10-931",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미래전자",
+      "address": "인천광역시 부평구 부평동 904-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성마트",
+      "address": "인천광역시 부평구 부평동 12-127",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부평슈퍼",
+      "address": "인천광역시 부평구 부평동 909-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대원슈퍼",
+      "address": "인천광역시 부평구 부평동 406-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양식품슈퍼",
+      "address": "인천광역시 부평구 부평동 409-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "민속식품",
+      "address": "인천광역시 부평구 부평동 888-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "인천광역시 부평구 갈산동 78",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한강슈퍼",
+      "address": "인천광역시 부평구 산곡동 180-390",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼보슈퍼",
+      "address": "인천광역시 부평구 산곡동 180-384",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "노랑다리슈퍼",
+      "address": "인천광역시 부평구 산곡동 180-421",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "재원슈퍼",
+      "address": "인천광역시 부평구 산곡동 180-329",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북슈퍼",
+      "address": "인천광역시 부평구 산곡동 87",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주영슈퍼",
+      "address": "인천광역시 부평구 산곡동 87-947",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금산알뜰유통",
+      "address": "인천광역시 부평구 산곡동 82-58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원LG슈퍼",
+      "address": "인천광역시 부평구 산곡동 82-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "혜경슈퍼",
+      "address": "인천광역시 부평구 산곡동 10-117",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "인천광역시 부평구 부평동 605-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산곡슈퍼",
+      "address": "인천광역시 부평구 산곡동 199-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진흥유통슈퍼",
+      "address": "인천광역시 부평구 산곡동 38-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명동슈퍼",
+      "address": "인천광역시 부평구 부평동 636-59",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금산슈퍼",
+      "address": "인천광역시 부평구 산곡동 68",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행원세탁소",
+      "address": "인천광역시 부평구 산곡동 34-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산곡슈퍼",
+      "address": "인천광역시 부평구 산곡동 199-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "번개슈퍼",
+      "address": "인천광역시 부평구 산곡동 179",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해성슈퍼",
+      "address": "인천광역시 부평구 산곡동 146",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "희망슈퍼",
+      "address": "인천광역시 부평구 산곡동 10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭희슈퍼",
+      "address": "인천광역시 부평구 산곡동 7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을금고 본점",
+      "address": "인천광역시 부평구 산곡동 87",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새사미미니슈퍼",
+      "address": "인천광역시 부평구 산곡동 98-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문화슈퍼",
+      "address": "인천광역시 부평구 산곡동 13-51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백마럭키슈퍼",
+      "address": "인천광역시 부평구 산곡동 87-287",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소망상회",
+      "address": "인천광역시 부평구 산곡동 181-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "배마장봉투",
+      "address": "인천광역시 부평구 산곡동 87",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연백상회",
+      "address": "인천광역시 부평구 부평동 733-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "단양사",
+      "address": "인천광역시 부평구 산곡동 181-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정우슈퍼",
+      "address": "인천광역시 부평구 부평동 756-245",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "인천광역시 부평구 부평동 605-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "효성상회",
+      "address": "인천광역시 부평구 산곡동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "싱싱유통",
+      "address": "인천광역시 부평구 산곡동 391-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명보슈퍼",
+      "address": "인천광역시 부평구 산곡동 234-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두산슈퍼",
+      "address": "인천광역시 부평구 부평동 10-439",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나유통",
+      "address": "인천광역시 부평구 갈산동 363 하나상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "찬스쇼핑",
+      "address": "인천광역시 부평구 산곡동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동남유통",
+      "address": "인천광역시 부평구 산곡동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태화유통",
+      "address": "인천광역시 부평구 산곡동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부흥슈퍼",
+      "address": "인천광역시 부평구 산곡동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제상회",
+      "address": "인천광역시 부평구 산곡동 15-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대운슈퍼",
+      "address": "인천광역시 부평구 산곡동 120-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "인천광역시 부평구 산곡동 106-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "인천광역시 부평구 산곡동 179-92",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양마을슈퍼",
+      "address": "인천광역시 부평구 산곡동 152",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진흥슈퍼",
+      "address": "인천광역시 부평구 산곡동 251-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산곡2,4동새마을금고",
+      "address": "인천광역시 부평구 산곡동 100-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동화약국",
+      "address": "인천광역시 부평구 산곡동 145-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한화쌀마트",
+      "address": "인천광역시 부평구 산곡동 124-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성식품",
+      "address": "인천광역시 부평구 산곡동 251-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하이퍼마켓",
+      "address": "인천광역시 부평구 갈산동 27-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "얼드마트",
+      "address": "인천광역시 부평구 십정동 588-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나마트",
+      "address": "인천광역시 부평구 부평동 98-200",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진슈퍼",
+      "address": "인천광역시 부평구 십정동 499-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시영수퍼",
+      "address": "인천광역시 부평구 십정동 479-197",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사마트",
+      "address": "인천광역시 부평구 산곡동 274-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종합슈퍼",
+      "address": "인천광역시 부평구 청천동 13-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉봉수퍼",
+      "address": "인천광역시 부평구 십정동 484-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동암남부슈퍼",
+      "address": "인천광역시 부평구 십정동 467-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신동암슈퍼",
+      "address": "인천광역시 부평구 십정동 518-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대쌀상회",
+      "address": "인천광역시 부평구 십정동 388-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평택슈퍼",
+      "address": "인천광역시 부평구 십정동 391-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새로나슈퍼",
+      "address": "인천광역시 부평구 십정동 400",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부흥슈퍼",
+      "address": "인천광역시 부평구 산곡동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동암슈퍼",
+      "address": "인천광역시 부평구 십정동 423",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남부동산",
+      "address": "인천광역시 부평구 십정동 317-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동암슈퍼",
+      "address": "인천광역시 부평구 십정동 423",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "역전문구백화점",
+      "address": "인천광역시 부평구 십정동 407-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유명약국",
+      "address": "인천광역시 부평구 십정동 402-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코리아마트",
+      "address": "인천광역시 부평구 십정동 407-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "역전미니슈퍼",
+      "address": "인천광역시 부평구 십정동 408-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연초소매업",
+      "address": "인천광역시 부평구 청천동 168-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금성슈퍼",
+      "address": "인천광역시 부평구 십정동 309-105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유성슈퍼",
+      "address": "인천광역시 부평구 부평동 185-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동성전기",
+      "address": "인천광역시 부평구 십정동 426-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대명슈퍼",
+      "address": "인천광역시 부평구 십정동 447-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대운하이퍼",
+      "address": "인천광역시 부평구 십정동 316",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "근복슈퍼",
+      "address": "인천광역시 부평구 십정동 316-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "배발미니슈퍼",
+      "address": "인천광역시 부평구 십정동 316-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빙그레슈퍼",
+      "address": "인천광역시 부평구 십정동 317-113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "인천광역시 부평구 산곡동 225-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "석정슈퍼",
+      "address": "인천광역시 부평구 십정동 460-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유진슈퍼마켓",
+      "address": "인천광역시 부평구 십정동 450-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한진슈퍼",
+      "address": "인천광역시 부평구 십정동 581-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상아하이퍼",
+      "address": "인천광역시 부평구 십정동 584-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명동슈퍼",
+      "address": "인천광역시 부평구 부평동 636-59",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "인천광역시 부평구 부평동 744-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "인천광역시 부평구 갈산동 180-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "인천광역시 부평구 산곡동 179-92",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동진슈퍼",
+      "address": "인천광역시 부평구 십정동 479-103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대흥쌀상회",
+      "address": "인천광역시 부평구 십정동 460-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일산미니마트",
+      "address": "인천광역시 부평구 십정동 493-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대영마트",
+      "address": "인천광역시 부평구 십정동 401-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성하이퍼",
+      "address": "인천광역시 부평구 십정동 482-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동신하이퍼마켓",
+      "address": "인천광역시 부평구 십정동 485-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협중앙회동암지점",
+      "address": "인천광역시 부평구 십정동 402-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "흥천슈퍼",
+      "address": "인천광역시 부평구 십정동 517-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그랜드마트",
+      "address": "인천광역시 부평구 부개동 227",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린공판장",
+      "address": "인천광역시 부평구 십정동 434-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "도매유통",
+      "address": "인천광역시 부평구 십정동 407-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사랑슈퍼",
+      "address": "인천광역시 부평구 십정동 389",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름유통",
+      "address": "인천광역시 부평구 십정동 400-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평화쌀상회",
+      "address": "인천광역시 부평구 십정동 402-58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산곡 2,4동새마을금고 분소",
+      "address": "인천광역시 부평구 산곡동 264-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을금고 제1분소",
+      "address": "인천광역시 부평구 산곡동 180-383",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을금고 제2분소",
+      "address": "인천광역시 부평구 산곡동 26-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "꼬모문구",
+      "address": "인천광역시 부평구 산곡동 67",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한화마트부평점",
+      "address": "인천광역시 부평구 산곡동 159-52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리공판장",
+      "address": "인천광역시 부평구 십정동 421",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "DC마트",
+      "address": "인천광역시 부평구 십정동 486-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신동아아파트관리소",
+      "address": "인천광역시 부평구 십정동 514-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정선할인공핀징",
+      "address": "인천광역시 부평구 십정동 493-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신동아소비자마트",
+      "address": "인천광역시 부평구 십정동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구원유통",
+      "address": "인천광역시 부평구 산곡동 87-1065",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정인전기",
+      "address": "인천광역시 부평구 산곡동 101-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "24시편의점",
+      "address": "인천광역시 부평구 부평동 207-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "방아촌",
+      "address": "인천광역시 부평구 산곡동 125",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새집슈퍼",
+      "address": "인천광역시 부평구 산곡동 30-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "철마슈퍼",
+      "address": "인천광역시 부평구 산곡동 179-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "믿음슈퍼",
+      "address": "인천광역시 부평구 산곡동 79",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훠미리마트",
+      "address": "인천광역시 부평구 산곡동 159",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한화유통",
+      "address": "인천광역시 부평구 산곡동 124-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한화슈퍼",
+      "address": "인천광역시 부평구 산곡동 123",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산곡프라자",
+      "address": "인천광역시 부평구 산곡동 51-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "OK마트",
+      "address": "인천광역시 부평구 산곡동 87-274",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥할인마트",
+      "address": "인천광역시 부평구 산곡동 251-74",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "인천광역시 부평구 산곡동 179-92",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "인천광역시 부평구 일신동 90-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명성유통",
+      "address": "인천광역시 부평구 산곡동 38-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔팔유통",
+      "address": "인천광역시 부평구 산곡동 87-492",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무지개슈퍼",
+      "address": "인천광역시 부평구 부평동 751-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전원할인마트",
+      "address": "인천광역시 부평구 산곡동 369-365",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "거성슈퍼",
+      "address": "인천광역시 부평구 갈산동 182-52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하이퍼마켓",
+      "address": "인천광역시 부평구 갈산동 27-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신정슈퍼",
+      "address": "인천광역시 부평구 갈산동 27-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새로나슈퍼",
+      "address": "인천광역시 부평구 십정동 400",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동진라사",
+      "address": "인천광역시 부평구 갈산동 62-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신일슈퍼",
+      "address": "인천광역시 부평구 부개동 12-293",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "인천광역시 부평구 갈산동 78",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대왕미니슈퍼",
+      "address": "인천광역시 부평구 갈산동 77",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "갈산전기상회",
+      "address": "인천광역시 부평구 갈산동 83-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "인천광역시 부평구 산곡동 106-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "민정슈퍼",
+      "address": "인천광역시 부평구 갈산동 112-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "인천광역시 부평구 삼산동 191",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정원기름집",
+      "address": "인천광역시 부평구 갈산동 161-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종합슈퍼",
+      "address": "인천광역시 부평구 청천동 13-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수덕슈퍼",
+      "address": "인천광역시 부평구 갈산동 177",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정광슈퍼",
+      "address": "인천광역시 부평구 갈산동 171-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백조미니슈퍼",
+      "address": "인천광역시 부평구 갈산동 181-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일유통",
+      "address": "인천광역시 부평구 갈산동 178-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조은슈퍼",
+      "address": "인천광역시 부평구 갈산동 183",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세종슈퍼",
+      "address": "인천광역시 부평구 갈산동 182-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성경슈퍼",
+      "address": "인천광역시 부평구 갈산동 8-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성종합슈퍼",
+      "address": "인천광역시 부평구 갈산동 54-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "실로암슈퍼",
+      "address": "인천광역시 부평구 갈산동 161",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명진상회",
+      "address": "인천광역시 부평구 갈산동 183-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태화마트",
+      "address": "인천광역시 부평구 갈산동 416",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호림슈퍼",
+      "address": "인천광역시 부평구 갈산동 182-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰소비자유통",
+      "address": "인천광역시 부평구 갈산동 176-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "인천광역시 부평구 부평동 605-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새한슈퍼",
+      "address": "인천광역시 부평구 갈산동 1-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우남슈퍼",
+      "address": "인천광역시 부평구 갈산동 224-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한나유통",
+      "address": "인천광역시 부평구 갈산동 60-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "인천광역시 부평구 갈산동 78",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "인천광역시 부평구 갈산동 180-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국종합마트",
+      "address": "인천광역시 부평구 갈산동 179-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씨티라이프",
+      "address": "인천광역시 부평구 갈산동 108-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "돼지슈퍼",
+      "address": "인천광역시 부평구 갈산동 172-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보인상사",
+      "address": "인천광역시 부평구 갈산동 441-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "인천광역시 부평구 갈산동 172-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강화슈퍼",
+      "address": "인천광역시 부평구 갈산동 168-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "인천광역시 부평구 십정동 292-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "인천광역시 부평구 부평동 744-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "인천광역시 부평구 십정동 309-138",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해남문구",
+      "address": "인천광역시 부평구 부개동 355-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "준표문구",
+      "address": "인천광역시 부평구 부개동 276-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호슈퍼",
+      "address": "인천광역시 부평구 부개동 246-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부일슈퍼",
+      "address": "인천광역시 부평구 부평동 146-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부여상회",
+      "address": "인천광역시 부평구 부개동 307-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "인천광역시 부평구 갈산동 180-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일미니수퍼",
+      "address": "인천광역시 부평구 부개동 299",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대경유통",
+      "address": "인천광역시 부평구 부개동 299",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장훈유통",
+      "address": "인천광역시 부평구 부개동 274-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대승수퍼",
+      "address": "인천광역시 부평구 부개동 273-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그랜드마트",
+      "address": "인천광역시 부평구 부개동 227",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "리마트",
+      "address": "인천광역시 부평구 부개동 226-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "크라운베이커리",
+      "address": "인천광역시 부평구 부개동 265-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼마아파트 관리사무소",
+      "address": "인천광역시 부평구 부개동 441",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미형상회",
+      "address": "인천광역시 부평구 부개동 445",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주경슈퍼",
+      "address": "인천광역시 부평구 부개동 254-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장안슈퍼",
+      "address": "인천광역시 부평구 부개동 243-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성수퍼",
+      "address": "인천광역시 부평구 부개동 197-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원아파트관리사무소",
+      "address": "인천광역시 부평구 부개동 446",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국아파트관리사무소",
+      "address": "인천광역시 부평구 부개동 442-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "요한슈퍼",
+      "address": "인천광역시 부평구 부평동 675-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신일상회",
+      "address": "인천광역시 부평구 부개동 267-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상원슈퍼",
+      "address": "인천광역시 부평구 부개동 408-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "로얄장식",
+      "address": "인천광역시 부평구 부개동 396-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "인천광역시 부평구 산곡동 179-92",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영식품",
+      "address": "인천광역시 부평구 부개동 445",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "인천광역시 부평구 부평동 70-109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동네슈퍼",
+      "address": "인천광역시 부평구 부개동 404-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "나광마트",
+      "address": "인천광역시 부평구 부개동 446",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성아파트매점",
+      "address": "인천광역시 부평구 부개동 399-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진주유통",
+      "address": "인천광역시 부평구 부개동 243-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가나안슈퍼",
+      "address": "인천광역시 부평구 부평동 751-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유일지업사",
+      "address": "인천광역시 부평구 부개동 265-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부림슈퍼",
+      "address": "인천광역시 부평구 부개동 301-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "드림마트",
+      "address": "인천광역시 부평구 부개동 382-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월드유통",
+      "address": "인천광역시 부평구 부개동 394-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김포슈퍼",
+      "address": "인천광역시 부평구 부개동 236",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "인천광역시 부평구 산곡동 106-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나슈퍼",
+      "address": "인천광역시 부평구 부개동 398-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부평동새마을금고부개분소",
+      "address": "인천광역시 부평구 부개동 265-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부개화장품",
+      "address": "인천광역시 부평구 부개동 305-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새로나유통",
+      "address": "인천광역시 부평구 부개동 283-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "여주하이퍼마켓",
+      "address": "인천광역시 부평구 부개동 250-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일설비공사",
+      "address": "인천광역시 부평구 부개동 236-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부개종합유통",
+      "address": "인천광역시 부평구 부개동 264",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "공터슈퍼",
+      "address": "인천광역시 부평구 부개동 445",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "24시희망슈퍼",
+      "address": "인천광역시 부평구 부개동 301-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅마트",
+      "address": "인천광역시 부평구 부개동 388-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "환길유통",
+      "address": "인천광역시 부평구 부개동 442-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이레할인마트",
+      "address": "인천광역시 부평구 부개동 442-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25부개역",
+      "address": "인천광역시 부평구 부개동 289-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "인천광역시 부평구 십정동 292-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경기슈퍼",
+      "address": "인천광역시 부평구 부평동 671-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "대호문방구",
+      "address": "인천광역시 부평구 부개동 90-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "B.S마트",
+      "address": "인천광역시 부평구 부개동 92-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "창현수퍼",
+      "address": "인천광역시 부평구 부개동 134-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "사산유통",
+      "address": "인천광역시 부평구 부개동 132-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "동신쌀상회",
+      "address": "인천광역시 부평구 부개동 141-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "금강수퍼",
+      "address": "인천광역시 부평구 부개동 148-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "진아수퍼",
+      "address": "인천광역시 부평구 부개동 101-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "오산수퍼",
+      "address": "인천광역시 부평구 부개동 120-201",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "한마음수퍼",
+      "address": "인천광역시 부평구 부개동 120-287",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "영화수퍼",
+      "address": "인천광역시 부평구 부개동 191-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "신현수퍼",
+      "address": "인천광역시 부평구 부개동 494",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "대동수퍼",
+      "address": "인천광역시 부평구 부개동 494-1 대동상가 104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "인천광역시 부평구 십정동 309-138",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "백조수퍼",
+      "address": "인천광역시 부평구 부개동 87-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "대전부동산",
+      "address": "인천광역시 부평구 부개동 148-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "오거리수퍼",
+      "address": "인천광역시 부평구 부개동 144-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "부개유통",
+      "address": "인천광역시 부평구 부개동 99-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "만물수퍼",
+      "address": "인천광역시 부평구 부개동 155-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "형제철물",
+      "address": "인천광역시 부평구 부개동 146-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "청운수퍼",
+      "address": "인천광역시 부평구 부개동 191-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "부개유통",
+      "address": "인천광역시 부평구 부개동 99-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "대성수퍼",
+      "address": "인천광역시 부평구 부개동 197-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "종선마트",
+      "address": "인천광역시 부평구 부개동 105-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "인천광역시 부평구 부평동 70-109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "영득마트",
+      "address": "인천광역시 부평구 부개동 120-78",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "인천광역시 부평구 산곡동 179-92",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "부개수퍼",
+      "address": "인천광역시 부평구 부개동 91-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "진성유통",
+      "address": "인천광역시 부평구 부개동 191-64",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "진아수퍼",
+      "address": "인천광역시 부평구 부개동 101-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "강원농산수퍼",
+      "address": "인천광역시 부평구 부개동 489-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "안나수퍼",
+      "address": "인천광역시 부평구 부개동 127-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "부흥종합수퍼체인",
+      "address": "인천광역시 부평구 부개동 127-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "진영정육프라자",
+      "address": "인천광역시 부평구 부개동 96-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "지하공판장",
+      "address": "인천광역시 부평구 부개동 139-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "부평5동새마을금고제1분소",
+      "address": "인천광역시 부평구 부개동 93-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "고려신덕산유통",
+      "address": "인천광역시 부평구 부개동 136-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "지오마트",
+      "address": "인천광역시 부평구 부개동 108-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "금호마트",
+      "address": "인천광역시 부평구 부개동 주공아파트 7블럭",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "인천광역시 부평구 부개동 502-8 주공아파트7블럭 5-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "주공마트",
+      "address": "인천광역시 부평구 부개동 주공아파트 7블럭 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "롯데유통",
+      "address": "인천광역시 부평구 부개동 491-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "세인수퍼",
+      "address": "인천광역시 부평구 부개동 100-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "아이들",
+      "address": "인천광역시 부평구 부개동 120-175",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "인천광역시 부평구 십정동 309-138",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "부개하이퍼",
+      "address": "인천광역시 부평구 부개동 148-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "장원서점",
+      "address": "인천광역시 부평구 부개동 502-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "준호상회",
+      "address": "인천광역시 부평구 부개동 191-130",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "대명슈퍼",
+      "address": "인천광역시 부평구 십정동 447-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "일신마트",
+      "address": "인천광역시 부평구 일신동 108-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연백상회",
+      "address": "인천광역시 부평구 부평동 733-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연세슈퍼",
+      "address": "인천광역시 부평구 부평동 744-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동수슈퍼체인",
+      "address": "인천광역시 부평구 부평동 665",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현진슈퍼",
+      "address": "인천광역시 부평구 부평동 653-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "인천광역시 부평구 부평동 605-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선진유통",
+      "address": "인천광역시 부평구 부평동 609-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "등나무슈퍼",
+      "address": "인천광역시 부평구 부평동 산 12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "인천광역시 부평구 갈산동 78",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새동수슈퍼",
+      "address": "인천광역시 부평구 부평동 625-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시외버스매표소",
+      "address": "인천광역시 부평구 부평동 621-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다양슈퍼",
+      "address": "인천광역시 부평구 부평동 665-108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부성상회",
+      "address": "인천광역시 부평구 부평동 624-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양지상회",
+      "address": "인천광역시 부평구 부평동 643",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아름슈퍼",
+      "address": "인천광역시 부평구 부평동 643",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔도상회",
+      "address": "인천광역시 부평구 부평동 620-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍성상회",
+      "address": "인천광역시 부평구 부평동 716-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린유통",
+      "address": "인천광역시 부평구 부평동 655-46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "예지슈퍼",
+      "address": "인천광역시 부평구 부평동 650-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명동슈퍼",
+      "address": "인천광역시 부평구 부평동 636-59",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금성유통",
+      "address": "인천광역시 부평구 부평동 665-278",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "인천광역시 부평구 산곡동 274-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "인천광역시 부평구 산곡동 179-92",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "골든마트",
+      "address": "인천광역시 부평구 부평동 658-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을슈퍼",
+      "address": "인천광역시 부평구 부평동 산 12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한서유통센타",
+      "address": "인천광역시 부평구 부평동 645-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부일슈퍼",
+      "address": "인천광역시 부평구 부평동 146-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔도유통",
+      "address": "인천광역시 부평구 부평동 632-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상현슈퍼마켓",
+      "address": "인천광역시 부평구 부평동 670-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "목련슈퍼",
+      "address": "인천광역시 부평구 부평동 612-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영선슈퍼",
+      "address": "인천광역시 부평구 부평동 722-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장흥철물",
+      "address": "인천광역시 부평구 부평동 623-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부평6동새마을금고",
+      "address": "인천광역시 부평구 부평동 657-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소비자마트",
+      "address": "인천광역시 부평구 부평동 669-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다래슈퍼",
+      "address": "인천광역시 부평구 부평동 609-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린하이퍼마켓",
+      "address": "인천광역시 부평구 삼산동 170-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부부슈퍼",
+      "address": "인천광역시 부평구 부평동 624-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동남마트",
+      "address": "인천광역시 부평구 부평동 657-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양평슈퍼",
+      "address": "인천광역시 부평구 부평동 665-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리공판장",
+      "address": "인천광역시 부평구 십정동 421",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신역전슈퍼",
+      "address": "인천광역시 부평구 부평동 728-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경기슈퍼",
+      "address": "인천광역시 부평구 부평동 671-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "으뜸종합슈퍼",
+      "address": "인천광역시 부평구 부평동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일상회",
+      "address": "인천광역시 부평구 부평동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데쇼핑(주)롯데마트 삼산점",
+      "address": "인천광역시 부평구 삼산동 465-1",
+      "roadAddress": "인천광역시 부평구 길주로 623 (삼산동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-23"
+    },
+    {
+      "name": "북부상회",
+      "address": "전라남도 광양시 광양읍 칠성리 901-2",
+      "roadAddress": "인천광역시 부평구 후정동로 26-13, 사동  301호(삼산동,영진빌라)",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-17"
+    }
+  ]
+}

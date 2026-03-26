@@ -1,0 +1,24 @@
+{
+  "region": "경기도",
+  "regionSlug": "gyeonggi",
+  "district": "이천시",
+  "districtSlug": "icheon",
+  "updatedAt": "2026-03-26",
+  "totalCount": 2,
+  "stores": [
+    {
+      "name": "이천스케일시스템(주)",
+      "address": "경기도 이천시 부발읍 응암리 419-8",
+      "roadAddress": "경기도 이천시 부발읍 경충대로1687번길 99",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-01"
+    },
+    {
+      "name": "고흥해장국",
+      "address": "전라남도 광양시 광양읍 인서리 238",
+      "roadAddress": "경기도 이천시 부발읍 무촌로97번길 35, B동  302호(해원주택)",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-29"
+    }
+  ]
+}

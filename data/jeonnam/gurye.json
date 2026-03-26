@@ -1,0 +1,1074 @@
+{
+  "region": "전라남도",
+  "regionSlug": "jeonnam",
+  "district": "구례군",
+  "districtSlug": "gurye",
+  "updatedAt": "2026-03-26",
+  "totalCount": 152,
+  "stores": [
+    {
+      "name": "한마음슈퍼",
+      "address": "전라남도 구례군 구례읍 봉동리 111-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-05-26"
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "전라남도 구례군 구례읍 봉남리 105-3",
+      "roadAddress": "전라남도 구례군 구례읍 구례여중길 1",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-30"
+    },
+    {
+      "name": "행운슈퍼",
+      "address": "전라남도 구례군 구례읍 봉동리 486-1",
+      "roadAddress": "전라남도 구례군 구례읍 학교길 109",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-30"
+    },
+    {
+      "name": "홈마트",
+      "address": "전라남도 구례군 구례읍 봉동리 314-2",
+      "roadAddress": "전라남도 구례군 구례읍 봉성로 84",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-30"
+    },
+    {
+      "name": "만물상회",
+      "address": "전라남도 구례군 구례읍 봉동리 531",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-30"
+    },
+    {
+      "name": "냉천상회",
+      "address": "전라남도 구례군 마산면 냉천리 691",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-30"
+    },
+    {
+      "name": "짝궁상회",
+      "address": "전라남도 구례군 마산면 마산리 689-4",
+      "roadAddress": "전라남도 구례군 마산면 화엄사로 123",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-30"
+    },
+    {
+      "name": "화엄각 여관",
+      "address": "전라남도 구례군 마산면 황전리 325-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-30"
+    },
+    {
+      "name": "G.R.24",
+      "address": "전라남도 구례군 구례읍 봉동리 412-2 광성빌딩 1층",
+      "roadAddress": "전라남도 구례군 구례읍 북문길 2  (광성빌딩 1층)",
+      "status": "영업/정상",
+      "licenseDate": "2008-04-24"
+    },
+    {
+      "name": "국립공원관리공단 지리산국립공원남부사무소",
+      "address": "전라남도 구례군 마산면 황전리 511-1",
+      "roadAddress": "전라남도 구례군 마산면 화엄사로 356",
+      "status": "영업/정상",
+      "licenseDate": "2008-07-03"
+    },
+    {
+      "name": "한아름마트",
+      "address": "전라남도 구례군 마산면 냉천리 430-6",
+      "roadAddress": "전라남도 구례군 마산면 냉천5길 1",
+      "status": "영업/정상",
+      "licenseDate": "2016-01-26"
+    },
+    {
+      "name": "동해구판장",
+      "address": "전라남도 구례군 문척면 죽마리 1038-2",
+      "roadAddress": "전라남도 구례군 문척면 동해벚꽃로 383",
+      "status": "영업/정상",
+      "licenseDate": "2008-09-29"
+    },
+    {
+      "name": "죽연슈퍼",
+      "address": "전라남도 구례군 문척면 죽마리 360",
+      "roadAddress": "전라남도 구례군 문척면 동해벚꽃로 99",
+      "status": "영업/정상",
+      "licenseDate": "2008-09-29"
+    },
+    {
+      "name": "월평휴게소",
+      "address": "전라남도 구례군 문척면 월전리 139-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-09-24"
+    },
+    {
+      "name": "반야봉슈퍼",
+      "address": "전라남도 구례군 토지면 내동리 1155-2",
+      "roadAddress": "전라남도 구례군 토지면 직전길 34",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-10"
+    },
+    {
+      "name": "토지주유소",
+      "address": "전라남도 구례군 토지면 용두리 30-4",
+      "roadAddress": "전라남도 구례군 토지면 섬진강대로 5232",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-10"
+    },
+    {
+      "name": "민박상회",
+      "address": "전라남도 구례군 토지면 내동리 893-5",
+      "roadAddress": "전라남도 구례군 토지면 피아골로 668",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-10"
+    },
+    {
+      "name": "영하네슈퍼",
+      "address": "전라남도 구례군 토지면 내서리 893-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-10"
+    },
+    {
+      "name": "문수골슈퍼",
+      "address": "전라남도 구례군 토지면 문수리 930",
+      "roadAddress": "전라남도 구례군 토지면 상죽길 34",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-15"
+    },
+    {
+      "name": "피아골민박상회",
+      "address": "전라남도 구례군 토지면 문수리 1207",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-15"
+    },
+    {
+      "name": "오봉 구판장",
+      "address": "전라남도 구례군 구례읍 봉서리 517-8",
+      "roadAddress": "전라남도 구례군 구례읍 강촌길 15-28",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "병방구판장",
+      "address": "전라남도 구례군 구례읍 원방리 369-2",
+      "roadAddress": "전라남도 구례군 구례읍 병방길 19",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "후문슈퍼",
+      "address": "전라남도 구례군 구례읍 봉남리 86-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "대도슈퍼",
+      "address": "전라남도 구례군 구례읍 봉동리 236-5",
+      "roadAddress": "전라남도 구례군 구례읍 봉동길 14",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "거석상회",
+      "address": "전라남도 구례군 간전면 중대리 70",
+      "roadAddress": "전라남도 구례군 간전면 거석길 193-5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "파도구판장",
+      "address": "전라남도 구례군 토지면 파도리 794-4",
+      "roadAddress": "전라남도 구례군 토지면 파도길 11-6",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "오미상회",
+      "address": "전라남도 구례군 토지면 오미리 162",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "우종횟집/슈퍼",
+      "address": "전라남도 구례군 토지면 외곡리 303",
+      "roadAddress": "전라남도 구례군 토지면 외곡중기길 11",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "만물상회",
+      "address": "전라남도 구례군 마산면 냉천리 477-2",
+      "roadAddress": "전라남도 구례군 마산면 냉천길 38",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "제일상회",
+      "address": "전라남도 구례군 마산면 황전리 310",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "만남식당",
+      "address": "전라남도 구례군 마산면 황전리 396-1",
+      "roadAddress": "전라남도 구례군 마산면 화엄사로 330-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "아리랑민박",
+      "address": "전라남도 구례군 마산면 황전리 425-9",
+      "roadAddress": "전라남도 구례군 마산면 황전4길 12",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "전주상회",
+      "address": "전라남도 구례군 마산면 황전리 546",
+      "roadAddress": "전라남도 구례군 마산면 화엄사로 381",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "당촌 구판장",
+      "address": "전라남도 구례군 광의면 수월리 121-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "광성슈퍼",
+      "address": "전라남도 구례군 광의면 연파리 417",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "광의문방구",
+      "address": "전라남도 구례군 광의면 연파리 615",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "하대 슈퍼",
+      "address": "전라남도 구례군 광의면 대전리 585",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "대촌구판장",
+      "address": "전라남도 구례군 광의면 대산리 175-1",
+      "roadAddress": "전라남도 구례군 광의면 은행정3길 9-6",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "온천슈퍼",
+      "address": "전라남도 구례군 산동면 원촌리 137",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "중동상회",
+      "address": "전라남도 구례군 산동면 좌사리 806",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "산동농협",
+      "address": "전라남도 구례군 산동면 원촌리 250-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "산동슈퍼",
+      "address": "전라남도 구례군 산동면 원촌리 227-2",
+      "roadAddress": "전라남도 구례군 산동면 원촌길 111",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "만물상회",
+      "address": "전라남도 구례군 토지면 구산리 207-2",
+      "roadAddress": "전라남도 구례군 토지면 섬진강대로 5050",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "송림슈퍼",
+      "address": "전라남도 구례군 토지면 외곡리 538",
+      "roadAddress": "전라남도 구례군 토지면 피아골로 56",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "여울목횟집",
+      "address": "전라남도 구례군 토지면 송정리 578-2",
+      "roadAddress": "전라남도 구례군 토지면 섬진강대로 4731",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "마산슈퍼",
+      "address": "전라남도 구례군 마산면 마산리 577",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "신흥슈퍼",
+      "address": "전라남도 구례군 마산면 마산리 569-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "서종슈퍼",
+      "address": "전라남도 구례군 마산면 마산리 545-2",
+      "roadAddress": "전라남도 구례군 마산면 화엄사로 161",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "청천상회",
+      "address": "전라남도 구례군 마산면 마산리 666",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "광평구판장",
+      "address": "전라남도 구례군 마산면 광평리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "전라남도 구례군 마산면 황전리 368",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "호남지업사",
+      "address": "전라남도 구례군 구례읍 봉동리 306",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "신촌슈퍼",
+      "address": "전라남도 구례군 구례읍 신월리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "전라남도 구례군 구례읍 봉북리 85-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "황전슈퍼",
+      "address": "전라남도 구례군 마산면 황전리 410-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "믿음슈퍼",
+      "address": "전라남도 구례군 마산면 마산리 544-3",
+      "roadAddress": "전라남도 구례군 마산면 화엄사로 157",
+      "status": "영업/정상",
+      "licenseDate": "1996-12-29"
+    },
+    {
+      "name": "시장슈퍼",
+      "address": "전라남도 구례군 구례읍 봉동리 189",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-30"
+    },
+    {
+      "name": "온천편의점",
+      "address": "전라남도 구례군 산동면 관산리 715-2",
+      "roadAddress": "전라남도 구례군 산동면 하관1길 26",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-30"
+    },
+    {
+      "name": "마산우체국",
+      "address": "전라남도 구례군 마산면 마산리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-29"
+    },
+    {
+      "name": "지리산우체국",
+      "address": "전라남도 구례군 산동면 관산리 726",
+      "roadAddress": "전라남도 구례군 산동면 관산구산길 14-17",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-29"
+    },
+    {
+      "name": "광의우체국",
+      "address": "전라남도 구례군 광의면 연파리 416",
+      "roadAddress": "전라남도 구례군 광의면 구만제로 336-1",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-29"
+    },
+    {
+      "name": "송원마트",
+      "address": "전라남도 구례군 구례읍 봉동리 369-2",
+      "roadAddress": "전라남도 구례군 구례읍 구례1길 48",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-29"
+    },
+    {
+      "name": "삼성마트",
+      "address": "전라남도 구례군 구례읍 봉동리 214-2",
+      "roadAddress": "전라남도 구례군 구례읍 봉동길 37",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-29"
+    },
+    {
+      "name": "코리아 편의점",
+      "address": "전라남도 구례군 구례읍 봉동리 358-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상설시장 번영회",
+      "address": "전라남도 구례군 구례읍 봉동리 380",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백련슈퍼",
+      "address": "전라남도 구례군 구례읍 백련리 370",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-12-21"
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "전라남도 구례군 구례읍 봉북리 165",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "봉북슈퍼",
+      "address": "전라남도 구례군 구례읍 봉북리 134-7",
+      "roadAddress": "전라남도 구례군 구례읍 구례2길 63",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "북성슈퍼",
+      "address": "전라남도 구례군 구례읍 봉북리 352-3",
+      "roadAddress": "전라남도 구례군 구례읍 봉성로 113",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "오거리 슈퍼",
+      "address": "전라남도 구례군 구례읍 봉남리 108",
+      "roadAddress": "전라남도 구례군 구례읍 봉성로 51",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "남악슈퍼",
+      "address": "전라남도 구례군 마산면 냉천리 397",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-30"
+    },
+    {
+      "name": "구례마트",
+      "address": "전라남도 구례군 구례읍 백련리 578-1",
+      "roadAddress": "전라남도 구례군 구례읍 동편제길 43",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-30"
+    },
+    {
+      "name": "이마트24 구례명지점",
+      "address": "전라남도 구례군 구례읍 백련리 575",
+      "roadAddress": "전라남도 구례군 구례읍 동편제길 42",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-30"
+    },
+    {
+      "name": "금호슈퍼",
+      "address": "전라남도 구례군 마산면 황전리 369-1",
+      "roadAddress": "전라남도 구례군 마산면 황전5길 10-1",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-30"
+    },
+    {
+      "name": "이마트",
+      "address": "전라남도 구례군 구례읍 봉동리 287",
+      "roadAddress": "전라남도 구례군 구례읍 중앙로 22",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-30"
+    },
+    {
+      "name": "용방상회",
+      "address": "전라남도 구례군 용방면 용정리 235-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-30"
+    },
+    {
+      "name": "그옛날산채식당",
+      "address": "전라남도 구례군 마산면 황전리 425-7",
+      "roadAddress": "전라남도 구례군 마산면 화엄사로 320",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-30"
+    },
+    {
+      "name": "중앙건어물",
+      "address": "전라남도 구례군 구례읍 봉동리 380",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-30"
+    },
+    {
+      "name": "지리산 마트",
+      "address": "전라남도 구례군 구례읍 봉북리 458-6",
+      "roadAddress": "전라남도 구례군 구례읍 서시천로 103-16",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-30"
+    },
+    {
+      "name": "성광슈퍼",
+      "address": "전라남도 구례군 구례읍 봉남리 66-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-30"
+    },
+    {
+      "name": "큰마트",
+      "address": "전라남도 구례군 구례읍 봉동리 376",
+      "roadAddress": "전라남도 구례군 구례읍 로터리길 11",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원광슈퍼",
+      "address": "전라남도 구례군 구례읍 봉남리 71-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "학교문구",
+      "address": "전라남도 구례군 구례읍 봉동리 484-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "온천슈퍼",
+      "address": "전라남도 구례군 구례읍 봉동리 181-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼락슈퍼",
+      "address": "전라남도 구례군 마산면 냉천리 277-14",
+      "roadAddress": "전라남도 구례군 마산면 냉천길 11-4",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-30"
+    },
+    {
+      "name": "원광슈퍼",
+      "address": "전라남도 구례군 구례읍 봉남리 71-21",
+      "roadAddress": "전라남도 구례군 구례읍 봉성산샛길 19-4",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-30"
+    },
+    {
+      "name": "학교 문구사",
+      "address": "전라남도 구례군 구례읍 봉동리 484-4",
+      "roadAddress": "전라남도 구례군 구례읍 학교길 121",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-30"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "전라남도 구례군 산동면 탑정리 895-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구례농협간전지소",
+      "address": "전라남도 구례군 간전면 간문리 22-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구례농협간전지소",
+      "address": "전라남도 구례군 간전면 흥대리 1063-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-30"
+    },
+    {
+      "name": "준마트",
+      "address": "전라남도 구례군 구례읍 봉동리 298-35",
+      "roadAddress": "전라남도 구례군 구례읍 북교길 7",
+      "status": "영업/정상",
+      "licenseDate": "2005-12-30"
+    },
+    {
+      "name": "구례장례식장",
+      "address": "전라남도 구례군 구례읍 백련리 569-6",
+      "roadAddress": "전라남도 구례군 구례읍 용방로 15",
+      "status": "영업/정상",
+      "licenseDate": "2005-12-30"
+    },
+    {
+      "name": "씨스페이스 구례점",
+      "address": "전라남도 구례군 용방면 신지리 861-87 1층",
+      "roadAddress": "전라남도 구례군 용방면 선월길 102-5, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2024-09-19"
+    },
+    {
+      "name": "남호슈퍼",
+      "address": "전라남도 구례군 구례읍 봉동리 201-4",
+      "roadAddress": "전라남도 구례군 구례읍 중앙로 50-1",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-07"
+    },
+    {
+      "name": "참맛",
+      "address": "전라남도 구례군 산동면 관산리 561-3",
+      "roadAddress": "전라남도 구례군 산동면 관산구산길 14-7",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-12"
+    },
+    {
+      "name": "믿음슈퍼",
+      "address": "전라남도 구례군 산동면 원촌리 161",
+      "roadAddress": "전라남도 구례군 산동면 원촌2길 12",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-12"
+    },
+    {
+      "name": "명성슈퍼",
+      "address": "전라남도 구례군 산동면 원촌리 242",
+      "roadAddress": "전라남도 구례군 산동면 원촌길 101",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-12"
+    },
+    {
+      "name": "미니스톱지리산온천점",
+      "address": "전라남도 구례군 산동면 관산리 710-2",
+      "roadAddress": "전라남도 구례군 산동면 지리산온천로 270",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-12"
+    },
+    {
+      "name": "25시온천마트",
+      "address": "전라남도 구례군 산동면 관산리 715-2",
+      "roadAddress": "전라남도 구례군 산동면 하관1길 26",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-12"
+    },
+    {
+      "name": "일오삼",
+      "address": "전라남도 구례군 산동면 원촌리 255-8",
+      "roadAddress": "전라남도 구례군 산동면 원촌길 85",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-09"
+    },
+    {
+      "name": "두리마트",
+      "address": "전라남도 구례군 토지면 구산리 207-1",
+      "roadAddress": "전라남도 구례군 토지면 섬진강대로 5052",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-21"
+    },
+    {
+      "name": "광의할인마트",
+      "address": "전라남도 구례군 광의면 연파리 417-2",
+      "roadAddress": "전라남도 구례군 광의면 광의철쭉동산로 2",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-31"
+    },
+    {
+      "name": "구례농협광의하나로마트",
+      "address": "전라남도 구례군 광의면 연파리 417-3",
+      "roadAddress": "전라남도 구례군 광의면 구만제로 336",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-31"
+    },
+    {
+      "name": "구례농협 하나로마트",
+      "address": "전라남도 구례군 구례읍 봉북리 447-1",
+      "roadAddress": "전라남도 구례군 구례읍 봉성로 142",
+      "status": "영업/정상",
+      "licenseDate": "2010-07-22"
+    },
+    {
+      "name": "수락폭포편의점",
+      "address": "전라남도 구례군 산동면 수기리 249-4",
+      "roadAddress": "전라남도 구례군 산동면 수락길 73",
+      "status": "영업/정상",
+      "licenseDate": "2010-07-27"
+    },
+    {
+      "name": "송원리조트슈퍼마켓",
+      "address": "전라남도 구례군 산동면 관산리 447-1",
+      "roadAddress": "전라남도 구례군 산동면 하관길 70-1",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-25"
+    },
+    {
+      "name": "농협구례교육원구내매점",
+      "address": "전라남도 구례군 용방면 사림리 705-1",
+      "roadAddress": "전라남도 구례군 용방면 용방로 117-53",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-03"
+    },
+    {
+      "name": "가족편의",
+      "address": "전라남도 구례군 산동면 대평리 729",
+      "roadAddress": "전라남도 구례군 산동면 지리산온천로 317",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-04"
+    },
+    {
+      "name": "지리산온천랜드 편의점",
+      "address": "전라남도 구례군 산동면 관산리 522",
+      "roadAddress": "전라남도 구례군 산동면 지리산온천로 261",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-06"
+    },
+    {
+      "name": "드림디포",
+      "address": "전라남도 구례군 구례읍 봉남리 10-2",
+      "roadAddress": "전라남도 구례군 구례읍 봉성로 16",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-19"
+    },
+    {
+      "name": "상아파크호텔",
+      "address": "전라남도 구례군 산동면 관산리 683",
+      "roadAddress": "전라남도 구례군 산동면 지리산온천로 261",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-30"
+    },
+    {
+      "name": "산동신발",
+      "address": "전라남도 구례군 산동면 원촌리 101-2",
+      "roadAddress": "전라남도 구례군 산동면 원촌1길 13",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-13"
+    },
+    {
+      "name": "풍년마트",
+      "address": "전라남도 구례군 구례읍 봉동리 386-4",
+      "roadAddress": "전라남도 구례군 구례읍 상설시장길 11",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-19"
+    },
+    {
+      "name": "지리산림마트",
+      "address": "전라남도 구례군 산동면 탑정리 818",
+      "roadAddress": "전라남도 구례군 산동면 지리산온천로 159",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-22"
+    },
+    {
+      "name": "GS25구례중앙점",
+      "address": "전라남도 구례군 구례읍 봉남리 103-3",
+      "roadAddress": "전라남도 구례군 구례읍 중앙초등길 2",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-05"
+    },
+    {
+      "name": "지천리생활관연쇄점",
+      "address": "전라남도 구례군 광의면 지천리",
+      "roadAddress": "전라남도 구례군 광의면 지하1길 37",
+      "status": "영업/정상",
+      "licenseDate": "2014-02-10"
+    },
+    {
+      "name": "오일시장상인회",
+      "address": "전라남도 구례군 구례읍 봉동리 189-5",
+      "roadAddress": "전라남도 구례군 구례읍 5일시장작은길 20",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-23"
+    },
+    {
+      "name": "만남의 광장",
+      "address": "전라남도 구례군 토지면 내동리 1158-3",
+      "roadAddress": "전라남도 구례군 토지면 직전길 9",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-26"
+    },
+    {
+      "name": "GS25 구례병원",
+      "address": "전라남도 구례군 구례읍 봉북리 1438번지 10호",
+      "roadAddress": "전라남도 구례군 구례읍 동편제길 5",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-18"
+    },
+    {
+      "name": "구례병원24시마트",
+      "address": "전라남도 구례군 구례읍 봉북리 1433-7",
+      "roadAddress": "전라남도 구례군 구례읍 동편제길 4",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-20"
+    },
+    {
+      "name": "세븐일레븐 지리산온천랜드점",
+      "address": "전라남도 구례군 산동면 관산리 522",
+      "roadAddress": "전라남도 구례군 산동면 지리산온천로 261",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-09"
+    },
+    {
+      "name": "지리산둘레길호텔,둘레길",
+      "address": "",
+      "roadAddress": "전라남도 구례군 산동면 지리산온천로 261",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-30"
+    },
+    {
+      "name": "심수정",
+      "address": "전라남도 구례군 산동면 좌사리 4-2",
+      "roadAddress": "전라남도 구례군 산동면 심원길 110",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-29"
+    },
+    {
+      "name": "상위부녀쉼터",
+      "address": "전라남도 구례군 산동면 위안리 290번지",
+      "roadAddress": "전라남도 구례군 산동면 산수유꽃길로 227",
+      "status": "영업/정상",
+      "licenseDate": "2013-08-05"
+    },
+    {
+      "name": "요산관",
+      "address": "전라남도 구례군 산동면 81",
+      "roadAddress": "전라남도 구례군 산동면 수락길 246",
+      "status": "영업/정상",
+      "licenseDate": "2013-08-13"
+    },
+    {
+      "name": "연희수퍼",
+      "address": "",
+      "roadAddress": "전라남도 구례군 마산면 화엄사로 49",
+      "status": "영업/정상",
+      "licenseDate": "2014-02-10"
+    },
+    {
+      "name": "(주)쿱스토어전남구례자연드림파크점",
+      "address": "전라남도 구례군 용방면 죽정리 931",
+      "roadAddress": "전라남도 구례군 용방면 용산로 107-73, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2014-02-27"
+    },
+    {
+      "name": "피아골오토캠핑장",
+      "address": "",
+      "roadAddress": "전라남도 구례군 토지면 원기양지길 26",
+      "status": "영업/정상",
+      "licenseDate": "2017-06-09"
+    },
+    {
+      "name": "구례종합상사",
+      "address": "",
+      "roadAddress": "전라남도 구례군 구례읍 구례여중길 1",
+      "status": "영업/정상",
+      "licenseDate": "2014-11-11"
+    },
+    {
+      "name": "지리산온천관광개발(주)",
+      "address": "",
+      "roadAddress": "전라남도 구례군 산동면 지리산온천로 261",
+      "status": "영업/정상",
+      "licenseDate": "2015-01-21"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "",
+      "roadAddress": "전라남도 구례군 구례읍 중앙로 8",
+      "status": "영업/정상",
+      "licenseDate": "2015-01-28"
+    },
+    {
+      "name": "CU구례정원점",
+      "address": "전라남도 구례군 구례읍 봉동리 179-1 전주해장국",
+      "roadAddress": "전라남도 구례군 구례읍 서시천로 9, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2018-03-27"
+    },
+    {
+      "name": "메이플벨리 편의점",
+      "address": "전라남도 구례군 토지면 내동리 938",
+      "roadAddress": "전라남도 구례군 토지면 당치길 6",
+      "status": "영업/정상",
+      "licenseDate": "2018-07-12"
+    },
+    {
+      "name": "블루썬",
+      "address": "전라남도 구례군 산동면 관산리 447-1",
+      "roadAddress": "전라남도 구례군 산동면 하관길 70-1",
+      "status": "영업/정상",
+      "licenseDate": "2018-07-24"
+    },
+    {
+      "name": "와이식자재마트이안유통 주식회사",
+      "address": "전라남도 구례군 구례읍 봉남리 6-2",
+      "roadAddress": "전라남도 구례군 구례읍 구례로 480",
+      "status": "영업/정상",
+      "licenseDate": "2018-08-24"
+    },
+    {
+      "name": "GS25 구례봉동점",
+      "address": "전라남도 구례군 구례읍 봉동리 219",
+      "roadAddress": "전라남도 구례군 구례읍 봉동길 46",
+      "status": "영업/정상",
+      "licenseDate": "2018-09-12"
+    },
+    {
+      "name": "구례공구철물",
+      "address": "전라남도 구례군 구례읍 봉동리 393-2",
+      "roadAddress": "전라남도 구례군 구례읍 중앙로 59-1",
+      "status": "영업/정상",
+      "licenseDate": "2019-01-22"
+    },
+    {
+      "name": "세븐일레븐 구례점",
+      "address": "전라남도 구례군 구례읍 봉북리 389 위니아딤채",
+      "roadAddress": "전라남도 구례군 구례읍 서시천로 72, 위니아딤채",
+      "status": "영업/정상",
+      "licenseDate": "2019-03-11"
+    },
+    {
+      "name": "세븐일레븐 구례토지점",
+      "address": "전라남도 구례군 토지면 파도리 853 우리수퍼",
+      "roadAddress": "전라남도 구례군 토지면 섬진강대로 5047, 우리수퍼",
+      "status": "영업/정상",
+      "licenseDate": "2019-03-11"
+    },
+    {
+      "name": "세븐일레븐 구례화엄사점",
+      "address": "전라남도 구례군 마산면 황전리 423-3 지리산수퍼",
+      "roadAddress": "전라남도 구례군 마산면 화엄사로 322, 지리산수퍼",
+      "status": "영업/정상",
+      "licenseDate": "2019-04-15"
+    },
+    {
+      "name": "섬진강 휴게소(마트)",
+      "address": "전라남도 구례군 토지면 외곡리 산 173-1",
+      "roadAddress": "전라남도 구례군 토지면 피아골로 4",
+      "status": "영업/정상",
+      "licenseDate": "2019-09-24"
+    },
+    {
+      "name": "한아름마트",
+      "address": "전라남도 구례군 구례읍 봉남리 111-10",
+      "roadAddress": "전라남도 구례군 구례읍 구례여중길 8",
+      "status": "영업/정상",
+      "licenseDate": "2020-04-09"
+    },
+    {
+      "name": "만물상회",
+      "address": "전라남도 구례군 마산면 황전리 571-9",
+      "roadAddress": "전라남도 구례군 마산면 화엄사로 377-1, 화엄사 중앙상가 1층 101호",
+      "status": "영업/정상",
+      "licenseDate": "2020-07-29"
+    },
+    {
+      "name": "알파문구 구례점",
+      "address": "전라남도 구례군 구례읍 봉북리 1450-1 한국국토정보공사",
+      "roadAddress": "전라남도 구례군 구례읍 동편제길 3, 한국국토정보공사",
+      "status": "영업/정상",
+      "licenseDate": "2021-11-15"
+    },
+    {
+      "name": "미니스톱 구례동광점",
+      "address": "전라남도 구례군 구례읍 봉동리 358-1",
+      "roadAddress": "전라남도 구례군 구례읍 중앙로 39, 미니스톱 구례동광점",
+      "status": "영업/정상",
+      "licenseDate": "2022-01-27"
+    },
+    {
+      "name": "자연웰푸트 구례자연드림파크점",
+      "address": "전라남도 구례군 용방면 죽정리 931",
+      "roadAddress": "전라남도 구례군 용방면 용산로 107-73, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2025-04-11"
+    },
+    {
+      "name": "한아름마트",
+      "address": "전라남도 구례군 광의면 연파리 381-1 한아름마트",
+      "roadAddress": "전라남도 구례군 광의면 구만제로 312, 한아름마트",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-01"
+    },
+    {
+      "name": "이마트 24 구례군청점",
+      "address": "전라남도 구례군 구례읍 봉남리 10-3 광남건설&주유소",
+      "roadAddress": "전라남도 구례군 구례읍 봉성로 12",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-30"
+    },
+    {
+      "name": "씨유구례중앙점",
+      "address": "전라남도 구례군 구례읍 봉남리 12",
+      "roadAddress": "전라남도 구례군 구례읍 중앙로 4",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-17"
+    },
+    {
+      "name": "생활용품 할인매장",
+      "address": "전라남도 구례군 구례읍 봉동리 235-2",
+      "roadAddress": "전라남도 구례군 구례읍 봉동길 16",
+      "status": "영업/정상",
+      "licenseDate": "2023-10-25"
+    },
+    {
+      "name": "슈퍼월평카페",
+      "address": "전라남도 구례군 문척면 월전리 102-1",
+      "roadAddress": "전라남도 구례군 문척면 수달생태로 360, 슈퍼월평카페",
+      "status": "영업/정상",
+      "licenseDate": "2024-07-02"
+    },
+    {
+      "name": "지리산산채식당",
+      "address": "전라남도 구례군 토지면 내동리 1197-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2024-07-24"
+    }
+  ]
+}

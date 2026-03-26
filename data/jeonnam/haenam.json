@@ -1,0 +1,2285 @@
+{
+  "region": "전라남도",
+  "regionSlug": "jeonnam",
+  "district": "해남군",
+  "districtSlug": "haenam",
+  "updatedAt": "2026-03-26",
+  "totalCount": 325,
+  "stores": [
+    {
+      "name": "하나슈퍼",
+      "address": "",
+      "roadAddress": "전라남도 해남군 송지면 어란로 444",
+      "status": "영업/정상",
+      "licenseDate": "2015-03-20"
+    },
+    {
+      "name": "남선상회",
+      "address": "전라남도 해남군 해남읍 고도리 127-8",
+      "roadAddress": "전라남도 해남군 해남읍 고도길 25",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "광성슈퍼",
+      "address": "전라남도 해남군 해남읍 평동리 92-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "남일슈퍼",
+      "address": "전라남도 해남군 해남읍 읍내리 54-3",
+      "roadAddress": "전라남도 해남군 해남읍 홍교로 15",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "삼광상회",
+      "address": "전라남도 해남군 해남읍 읍내리 29-7",
+      "roadAddress": "전라남도 해남군 해남읍 읍내길 10-7",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "다솜유통",
+      "address": "전라남도 해남군 해남읍 읍내리 59",
+      "roadAddress": "전라남도 해남군 해남읍 홍교로 16",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "미원슈퍼",
+      "address": "전라남도 해남군 해남읍 고도리 114-5",
+      "roadAddress": "전라남도 해남군 해남읍 중앙2로 120",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "하얀슈퍼",
+      "address": "전라남도 해남군 해남읍 고도리 399-8",
+      "roadAddress": "전라남도 해남군 해남읍 고도길 20",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "운암한의원",
+      "address": "전라남도 해남군 해남읍 고도리 121-6",
+      "roadAddress": "전라남도 해남군 해남읍 중앙2로 123",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "지에스25 강진중흥점",
+      "address": "전라남도 해남군 송지면 해원리 산 229-6",
+      "roadAddress": "전라남도 해남군 송지면 사가길 168",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-21"
+    },
+    {
+      "name": "한양상회",
+      "address": "전라남도 해남군 옥천면 영춘리 533-0001",
+      "roadAddress": "전라남도 해남군 옥천면 해강로 20",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "옥천슈퍼",
+      "address": "전라남도 해남군 옥천면 영춘리 536",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "양지슈퍼",
+      "address": "전라남도 해남군 옥천면 신계리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-17"
+    },
+    {
+      "name": "장소슈퍼",
+      "address": "전라남도 해남군 계곡면 장소리 36",
+      "roadAddress": "전라남도 해남군 계곡면 절터길 29-23",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "둔주슈퍼",
+      "address": "전라남도 해남군 계곡면 덕정리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "둔주문방구",
+      "address": "전라남도 해남군 계곡면 덕정리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "사정담배가게",
+      "address": "전라남도 해남군 계곡면 사정리 239-1",
+      "roadAddress": "전라남도 해남군 계곡면 흑석로 714",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "가학슈퍼",
+      "address": "전라남도 해남군 계곡면 가학리 145",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "맹진상회",
+      "address": "전라남도 해남군 마산면 맹진리 370",
+      "roadAddress": "전라남도 해남군 마산면 흑석로 346-42",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "호교상회",
+      "address": "전라남도 해남군 마산면 상등리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "아진슈퍼",
+      "address": "전라남도 해남군 마산면 학의리 907",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-23"
+    },
+    {
+      "name": "해남농협마산지소",
+      "address": "전라남도 해남군 마산면 화내리 486",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-17"
+    },
+    {
+      "name": "해남군상하수도사업소",
+      "address": "전라남도 해남군 황산면 관춘리 초월리 지내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "황산마트",
+      "address": "전라남도 해남군 황산면 남리리 58-2",
+      "roadAddress": "전라남도 해남군 황산면 명량로 1447",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-03"
+    },
+    {
+      "name": "해남군상하수도사업소",
+      "address": "전라남도 해남군 황산면 관춘리 초월리 지내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "해남군상하수도사업소",
+      "address": "전라남도 해남군 황산면 관춘리 초월리 지내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대림산업(주)",
+      "address": "전라남도 해남군 산이면 진산리 초송리 예정리 일원",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "동훈슈퍼",
+      "address": "전라남도 해남군 산이면 덕호리 414",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "신덕슈퍼",
+      "address": "초송리 577-2",
+      "roadAddress": "전라남도 해남군 산이면 비석길 108",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "해남군산이면사무소",
+      "address": "전라남도 해남군 산이면 초송리 557",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "산이면사무소",
+      "address": "전라남도 해남군 산이면 금송리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "정미슈퍼",
+      "address": "전라남도 해남군 산이면 금호리 565",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "양지상회",
+      "address": "전라남도 해남군 산이면 상공리 568",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "산이주유소",
+      "address": "전라남도 해남군 산이면 구성리 50 대양주유소",
+      "roadAddress": "전라남도 해남군 산이면 산이로 2076",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "서교상회",
+      "address": "전라남도 해남군 산이면 상공리 599-0013",
+      "roadAddress": "전라남도 해남군 산이면 상공길 3",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-26"
+    },
+    {
+      "name": "선두상회",
+      "address": "전라남도 해남군 문내면 선두리 421-1",
+      "roadAddress": "전라남도 해남군 문내면 우수영안길 84",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "(주)남흥건설",
+      "address": "전라남도 해남군 문내면 석교리 지내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "(주)남흥건설",
+      "address": "전라남도 해남군 문내면 석교리 지내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-18"
+    },
+    {
+      "name": "(주)남흥건설",
+      "address": "전라남도 해남군 문내면 석교리 지내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "동외슈퍼",
+      "address": "전라남도 해남군 문내면 동외리 1138",
+      "roadAddress": "전라남도 해남군 문내면 동헌길 38-4",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-20"
+    },
+    {
+      "name": "문내슈퍼",
+      "address": "전라남도 해남군 문내면 동외리 1079",
+      "roadAddress": "전라남도 해남군 문내면 우수영안길 35-3",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-12"
+    },
+    {
+      "name": "우수영1급자동차공업사",
+      "address": "전라남도 해남군 문내면 동외리 873-2",
+      "roadAddress": "전라남도 해남군 문내면 동영길 13",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "수평종합건설",
+      "address": "전라남도 해남군 문내면 서상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-12"
+    },
+    {
+      "name": "중앙문구",
+      "address": "전라남도 해남군 문내면 고평리 501",
+      "roadAddress": "전라남도 해남군 문내면 고평길 34-5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "화원고등학교",
+      "address": "전라남도 해남군 화원면 신덕리 45 화원중고등학교",
+      "roadAddress": "전라남도 해남군 화원면 신평리길 25-19, 화원중고등학교",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "화원고등학교",
+      "address": "전라남도 해남군 화원면 신덕리 45 화원중고등학교",
+      "roadAddress": "전라남도 해남군 화원면 신평리길 25-19, 화원중고등학교",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "화원고등학교",
+      "address": "전라남도 해남군 화원면 신덕리 45 화원중고등학교",
+      "roadAddress": "전라남도 해남군 화원면 신평리길 25-19, 화원중고등학교",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "화원고등학교",
+      "address": "전라남도 해남군 화원면 신덕리 45 화원중고등학교",
+      "roadAddress": "전라남도 해남군 화원면 신평리길 25-19, 화원중고등학교",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "화원고등학교",
+      "address": "전라남도 해남군 화원면 신덕리 45 화원중고등학교",
+      "roadAddress": "전라남도 해남군 화원면 신평리길 25-19, 화원중고등학교",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-18"
+    },
+    {
+      "name": "중앙마트",
+      "address": "전라남도 해남군 해남읍 수성리 175-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금영슈퍼",
+      "address": "전라남도 해남군 해남읍 해리 305-2 금영아파트내",
+      "roadAddress": "전라남도 해남군 해남읍 동초길 70",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-22"
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "전라남도 해남군 해남읍 해리 403-1",
+      "roadAddress": "전라남도 해남군 해남읍 해남로 12",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-22"
+    },
+    {
+      "name": "해남축산업협동조합",
+      "address": "전라남도 해남군 해남읍 해리 367-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-13"
+    },
+    {
+      "name": "개인",
+      "address": "전라남도 해남군 송지면 송호리 229-6",
+      "roadAddress": "전라남도 해남군 송지면 땅끝해안로 1473",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-02"
+    },
+    {
+      "name": "동교슈퍼",
+      "address": "광주광역시 북구 동림동 931-7",
+      "roadAddress": "전라남도 해남군 해남읍 중앙1로 42",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-23"
+    },
+    {
+      "name": "남선슈퍼",
+      "address": "전라남도 해남군 북평면 남창리 229-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-15"
+    },
+    {
+      "name": "25시편의점",
+      "address": "전라남도 해남군 해남읍 구교리 310-1",
+      "roadAddress": "전라남도 해남군 해남읍 북부순환로 175",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-15"
+    },
+    {
+      "name": "파도슈퍼",
+      "address": "전라남도 해남군 송지면 송호리 1050",
+      "roadAddress": "전라남도 해남군 송지면 갈산길 2",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-12"
+    },
+    {
+      "name": "공간마트",
+      "address": "전라남도 해남군 해남읍 구교리 81-9 공간아파트상가 102호",
+      "roadAddress": "전라남도 해남군 해남읍 구교2길 42-102",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-26"
+    },
+    {
+      "name": "정운상회",
+      "address": "전라남도 해남군 해남읍 읍내리 48 1-34호(매일시장)",
+      "roadAddress": "전라남도 해남군 해남읍 천변2길 15  (1-34호(매일시장))",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-11"
+    },
+    {
+      "name": "부흥상회",
+      "address": "전라남도 해남군 송지면 학가리 479",
+      "roadAddress": "전라남도 해남군 송지면 학가2길 8-5",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "믿음슈퍼",
+      "address": "전라남도 해남군 해남읍 해리 570",
+      "roadAddress": "전라남도 해남군 해남읍 해리9길 13",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-07"
+    },
+    {
+      "name": "제이유25마트 해남평동점",
+      "address": "전라남도 해남군 해남읍 평동리 35-6",
+      "roadAddress": "전라남도 해남군 해남읍 홍교로 39",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-17"
+    },
+    {
+      "name": "개인",
+      "address": "전라남도 해남군 해남읍 해리 562-1",
+      "roadAddress": "전라남도 해남군 해남읍 해리6길 11",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-23"
+    },
+    {
+      "name": "화원보건지소",
+      "address": "전라남도 해남군 화원면 금평리 216",
+      "roadAddress": "전라남도 해남군 화원면 관광레저로 1249",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-14"
+    },
+    {
+      "name": "해남참숯불가마사우나",
+      "address": "전라남도 해남군 해남읍 해리 361-7",
+      "roadAddress": "전라남도 해남군 해남읍 남부순환로 10",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-21"
+    },
+    {
+      "name": "(유)온누리 마트",
+      "address": "전라남도 해남군 해남읍 구교리 95",
+      "roadAddress": "전라남도 해남군 해남읍 구교2길 34",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-04"
+    },
+    {
+      "name": "신정보건진료소",
+      "address": "전라남도 해남군 송지면 군곡리 2216-9",
+      "roadAddress": "전라남도 해남군 송지면 독고개길 3",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-05"
+    },
+    {
+      "name": "우수영1급자동차공업사",
+      "address": "전라남도 해남군 문내면 동외리 873-2",
+      "roadAddress": "전라남도 해남군 문내면 동영길 13",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-07"
+    },
+    {
+      "name": "남흥마트",
+      "address": "전라남도 해남군 해남읍 해리 166-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-13"
+    },
+    {
+      "name": "혜성마트",
+      "address": "전라남도 해남군 해남읍 고도리 106-17",
+      "roadAddress": "전라남도 해남군 해남읍 중앙2로 102",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-22"
+    },
+    {
+      "name": "화원면사무소",
+      "address": "전라남도 해남군 화원면 금평리 216 화원면사무소 보건지소",
+      "roadAddress": "전라남도 해남군 화원면 금평길 32, 화원면사무소 보건지소",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-26"
+    },
+    {
+      "name": "GS25땅끝마을점",
+      "address": "전라남도 해남군 송지면 송호리 1174",
+      "roadAddress": "전라남도 해남군 송지면 땅끝마을길 58",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-11"
+    },
+    {
+      "name": "해남해광마트",
+      "address": "전라남도 해남군 해남읍 수성리 195-4",
+      "roadAddress": "전라남도 해남군 해남읍 북부순환로 141",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-18"
+    },
+    {
+      "name": "운암한의원",
+      "address": "전라남도 해남군 해남읍 고도리 121-6",
+      "roadAddress": "전라남도 해남군 해남읍 중앙2로 123",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-18"
+    },
+    {
+      "name": "개인",
+      "address": "전라남도 해남군 송지면 송호리 229-6",
+      "roadAddress": "전라남도 해남군 송지면 땅끝해안로 1473",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-18"
+    },
+    {
+      "name": "고려종함상가",
+      "address": "전라남도 해남군 해남읍 읍내리 61-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-22"
+    },
+    {
+      "name": "개인",
+      "address": "전라남도 해남군 송지면 통호리 588-8",
+      "roadAddress": "전라남도 해남군 송지면 땅끝해안로 2308",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-30"
+    },
+    {
+      "name": "수정슈퍼",
+      "address": "전라남도 해남군 북평면 영전리 245-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-06"
+    },
+    {
+      "name": "오뚜기 마트",
+      "address": "전라남도 해남군 해남읍 평동리 159",
+      "roadAddress": "전라남도 해남군 해남읍 홍교로 54",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-25"
+    },
+    {
+      "name": "문내보건지소",
+      "address": "전라남도 해남군 문내면 동외리 1009 문내면 건강증진형 보건지소",
+      "roadAddress": "전라남도 해남군 문내면 우수영안길 23-10, 문내면 건강증진형 보건지소",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-22"
+    },
+    {
+      "name": "간이매점",
+      "address": "전라남도 해남군 삼산면 구림리 799",
+      "roadAddress": "전라남도 해남군 삼산면 대흥사길 400",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-09"
+    },
+    {
+      "name": "박문수치과의원",
+      "address": "전라남도 해남군 해남읍 고도리 401-45",
+      "roadAddress": "전라남도 해남군 해남읍 남부순환로 156",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-21"
+    },
+    {
+      "name": "새천년마트",
+      "address": "전라남도 해남군 북평면 남창리 254-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-21"
+    },
+    {
+      "name": "케이블카매점",
+      "address": "전라남도 해남군 삼산면 구림리 산 7-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-17"
+    },
+    {
+      "name": "삼산슈퍼",
+      "address": "전라남도 해남군 삼산면 평활리 348-38 지내",
+      "roadAddress": "전라남도 해남군 삼산면 나범길 37-3",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-24"
+    },
+    {
+      "name": "인산제재소",
+      "address": "전라남도 해남군 해남읍 남외리 3-2",
+      "roadAddress": "전라남도 해남군 해남읍 남외2길 7",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-27"
+    },
+    {
+      "name": "DC 마트",
+      "address": "전라남도 해남군 북평면 남창리 371-10",
+      "roadAddress": "전라남도 해남군 북평면 달량진길 31",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-20"
+    },
+    {
+      "name": "송호리번영회",
+      "address": "전라남도 해남군 송지면 송호리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-09"
+    },
+    {
+      "name": "해남군청",
+      "address": "전라남도 해남군 송지면 소죽리 지내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-09"
+    },
+    {
+      "name": "대둔슈퍼",
+      "address": "전라남도 해남군 삼산면 구림리 138-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-14"
+    },
+    {
+      "name": "국제마트",
+      "address": "전라남도 해남군 해남읍 해리 596",
+      "roadAddress": "전라남도 해남군 해남읍 중앙1로 92",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-27"
+    },
+    {
+      "name": "송림상회",
+      "address": "전라남도 해남군 송지면 송호리 973",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-09-03"
+    },
+    {
+      "name": "고향분식구멍가게",
+      "address": "전라남도 해남군 해남읍 해리 319-8",
+      "roadAddress": "전라남도 해남군 해남읍 동초길 40",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-10"
+    },
+    {
+      "name": "미니스톱 해남읍내점",
+      "address": "전라남도 해남군 해남읍 읍내리 24-1",
+      "roadAddress": "전라남도 해남군 해남읍 읍내길 17",
+      "status": "영업/정상",
+      "licenseDate": "2019-05-23"
+    },
+    {
+      "name": "우리치과의원",
+      "address": "전라남도 해남군 문내면 동외리 870-15",
+      "roadAddress": "전라남도 해남군 문내면 동영길 9",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-06"
+    },
+    {
+      "name": "소요람 편의점",
+      "address": "전라남도 해남군 해남읍 성내리 9",
+      "roadAddress": "전라남도 해남군 해남읍 수성2길 29",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-14"
+    },
+    {
+      "name": "해남군보건소",
+      "address": "전라남도 해남군 해남읍 해리 186 해남군청",
+      "roadAddress": "전라남도 해남군 해남읍 해남로 46 (해남보건소)",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-20"
+    },
+    {
+      "name": "365편의점",
+      "address": "전라남도 해남군 해남읍 해리 150-4",
+      "roadAddress": "전라남도 해남군 해남읍 북부순환로 26",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-17"
+    },
+    {
+      "name": "고산유적지 매점",
+      "address": "전라남도 해남군 해남읍 연동리 77-1",
+      "roadAddress": "전라남도 해남군 해남읍 녹우당길 135-1",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-06"
+    },
+    {
+      "name": "남창마트문구사",
+      "address": "전라남도 해남군 북평면 남창리 368-9",
+      "roadAddress": "전라남도 해남군 북평면 달량진길 33-1",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-13"
+    },
+    {
+      "name": "해남해광마트",
+      "address": "전라남도 해남군 해남읍 수성리 195-4",
+      "roadAddress": "전라남도 해남군 해남읍 북부순환로 141",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-24"
+    },
+    {
+      "name": "현대상회",
+      "address": "전라남도 해남군 송지면 어란리 1393-8",
+      "roadAddress": "전라남도 해남군 송지면 어란로 455-1",
+      "status": "영업/정상",
+      "licenseDate": "2005-02-23"
+    },
+    {
+      "name": "현산보건지소",
+      "address": "전라남도 해남군 현산면 일평리 762-1",
+      "roadAddress": "전라남도 해남군 현산면 현산북평로 97",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-27"
+    },
+    {
+      "name": "개인",
+      "address": "전라남도 해남군 송지면 송호리 229-6",
+      "roadAddress": "전라남도 해남군 송지면 땅끝해안로 1473",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-06"
+    },
+    {
+      "name": "제이유25마트 해남평동점",
+      "address": "전라남도 해남군 해남읍 평동리 35-6",
+      "roadAddress": "전라남도 해남군 해남읍 홍교로 39",
+      "status": "영업/정상",
+      "licenseDate": "2005-09-16"
+    },
+    {
+      "name": "훼미리마트 평동점",
+      "address": "전라남도 해남군 해남읍 평동리 91",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-09-20"
+    },
+    {
+      "name": "화원고등학교",
+      "address": "전라남도 해남군 화원면 신덕리 45 화원중고등학교",
+      "roadAddress": "전라남도 해남군 화원면 신평리길 25-19, 화원중고등학교",
+      "status": "영업/정상",
+      "licenseDate": "2005-10-07"
+    },
+    {
+      "name": "제이유25마트 해남평동점",
+      "address": "전라남도 해남군 해남읍 평동리 35-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해남해광마트",
+      "address": "전라남도 해남군 해남읍 수성리 195-4",
+      "roadAddress": "전라남도 해남군 해남읍 북부순환로 141",
+      "status": "영업/정상",
+      "licenseDate": "2005-12-19"
+    },
+    {
+      "name": "한국미니스톱(주)",
+      "address": "전라남도 해남군 해남읍 해리 407-4",
+      "roadAddress": "전라남도 해남군 해남읍 남부순환로 2",
+      "status": "영업/정상",
+      "licenseDate": "2005-12-20"
+    },
+    {
+      "name": "일흥상회",
+      "address": "전라남도 해남군 황산면 남리리 31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황산농업하나로마트",
+      "address": "전라남도 해남군 황산면 우항리 444-2",
+      "roadAddress": "전라남도 해남군 황산면 시등로 79",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "비타민 마트",
+      "address": "전라남도 해남군 해남읍 고도리 115-30",
+      "roadAddress": "전라남도 해남군 해남읍 중앙2로 132",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-19"
+    },
+    {
+      "name": "(유)학동",
+      "address": "전라남도 해남군 해남읍 구교리 763-2 학동주유소",
+      "roadAddress": "전라남도 해남군 해남읍 명량로 2994, 학동주유소",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-20"
+    },
+    {
+      "name": "명성주유소",
+      "address": "전라남도 해남군 황산면 우항리 469 S-oil명성주유소",
+      "roadAddress": "전라남도 해남군 황산면 명량로 1482, S-oil명성주유소",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-03"
+    },
+    {
+      "name": "명성주유소",
+      "address": "전라남도 해남군 황산면 우항리 469 S-oil명성주유소",
+      "roadAddress": "전라남도 해남군 황산면 명량로 1482, S-oil명성주유소",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-20"
+    },
+    {
+      "name": "큰 슈퍼",
+      "address": "전라남도 해남군 계곡면 성진리 91-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-10"
+    },
+    {
+      "name": "동성수산",
+      "address": "전라남도 해남군 북평면 영전리 227-3",
+      "roadAddress": "전라남도 해남군 북평면 남전길 37-5",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이안슈퍼",
+      "address": "전라남도 해남군 해남읍 해리 626-7",
+      "roadAddress": "전라남도 해남군 해남읍 성동1길 17",
+      "status": "영업/정상",
+      "licenseDate": "2006-10-23"
+    },
+    {
+      "name": "해남해광마트",
+      "address": "전라남도 해남군 해남읍 수성리 195-4",
+      "roadAddress": "전라남도 해남군 해남읍 북부순환로 141",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-12"
+    },
+    {
+      "name": "우수영1급자동차공업사",
+      "address": "전라남도 해남군 문내면 동외리 873-2",
+      "roadAddress": "전라남도 해남군 문내면 동영길 13",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-26"
+    },
+    {
+      "name": "세븐일레븐 해남점",
+      "address": "전라남도 해남군 해남읍 해리 600-11",
+      "roadAddress": "전라남도 해남군 해남읍 중앙1로 81",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-28"
+    },
+    {
+      "name": "(유)푸드아츠청용지점",
+      "address": "전라남도 해남군 화원면 청용리 569",
+      "roadAddress": "전라남도 해남군 화원면 관광레저로 1120",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-27"
+    },
+    {
+      "name": "산이농업협동조합",
+      "address": "전라남도 해남군 산이면 초송리 577-15",
+      "roadAddress": "전라남도 해남군 산이면 비석길 117",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-16"
+    },
+    {
+      "name": "사랑펜시",
+      "address": "전라남도 해남군 화원면 금평리 239-157",
+      "roadAddress": "전라남도 해남군 화원면 금평길 10",
+      "status": "영업/정상",
+      "licenseDate": "2008-07-07"
+    },
+    {
+      "name": "블랑코비치레져",
+      "address": "전라남도 해남군 화원면 주광리 산 30-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-07-22"
+    },
+    {
+      "name": "장터이불집",
+      "address": "전라남도 해남군 해남읍 고도리 106-22",
+      "roadAddress": "전라남도 해남군 해남읍 중앙2로 100-1",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-29"
+    },
+    {
+      "name": "해남경찰서 구내매점",
+      "address": "전라남도 해남군 해남읍 해리 281-2",
+      "roadAddress": "전라남도 해남군 해남읍 영빈로 61",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-17"
+    },
+    {
+      "name": "남창슈퍼",
+      "address": "전라남도 해남군 북평면 남창리 10 3통",
+      "roadAddress": "전라남도 해남군 북평면 백도로 13",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-19"
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "전라남도 해남군 북일면 신월리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-02-03"
+    },
+    {
+      "name": "대한유동",
+      "address": "전라남도 해남군 해남읍 고도리 90-2",
+      "roadAddress": "전라남도 해남군 해남읍 영빈로 22",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-19"
+    },
+    {
+      "name": "이루도매물류센터",
+      "address": "전라남도 해남군 해남읍 해리 166-7",
+      "roadAddress": "전라남도 해남군 해남읍 해남로 11",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-29"
+    },
+    {
+      "name": "씨유해남주연점",
+      "address": "전라남도 해남군 해남읍 해리 350-1",
+      "roadAddress": "전라남도 해남군 해남읍 남부순환로 25",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-17"
+    },
+    {
+      "name": "드림마트",
+      "address": "전라남도 해남군 문내면 동외리 860-1",
+      "roadAddress": "전라남도 해남군 문내면 우수영로 10-5",
+      "status": "영업/정상",
+      "licenseDate": "2009-10-05"
+    },
+    {
+      "name": "문내농업협동조합",
+      "address": "전라남도 해남군 문내면 동외리 849",
+      "roadAddress": "전라남도 해남군 문내면 문내화원로 10",
+      "status": "영업/정상",
+      "licenseDate": "2009-12-10"
+    },
+    {
+      "name": "금영마트",
+      "address": "전라남도 해남군 해남읍 해리 305-2",
+      "roadAddress": "전라남도 해남군 해남읍 동초길 70",
+      "status": "영업/정상",
+      "licenseDate": "2009-12-14"
+    },
+    {
+      "name": "옥천농협",
+      "address": "전라남도 해남군 옥천면 영춘리 533-9",
+      "roadAddress": "전라남도 해남군 옥천면 해강로 6",
+      "status": "영업/정상",
+      "licenseDate": "2009-12-29"
+    },
+    {
+      "name": "디씨백화점",
+      "address": "전라남도 해남군 해남읍 평동리 91",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-02-05"
+    },
+    {
+      "name": "땅끝농업협동조합",
+      "address": "전라남도 해남군 송지면 산정리 748-4",
+      "roadAddress": "전라남도 해남군 송지면 산정1길 75-2",
+      "status": "영업/정상",
+      "licenseDate": "2010-03-24"
+    },
+    {
+      "name": "읍내마트",
+      "address": "전라남도 해남군 해남읍 읍내리 25-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-05-10"
+    },
+    {
+      "name": "해남종합병원구내마트",
+      "address": "전라남도 해남군 해남읍 해리 182-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-05-24"
+    },
+    {
+      "name": "화원마트",
+      "address": "전라남도 해남군 화원면 금평리 239-157",
+      "roadAddress": "전라남도 해남군 화원면 금평길 10",
+      "status": "영업/정상",
+      "licenseDate": "2010-06-04"
+    },
+    {
+      "name": "화산농업협동조합",
+      "address": "전라남도 해남군 화산면 방축리 342-1",
+      "roadAddress": "전라남도 해남군 화산면 해남화산로 1055",
+      "status": "영업/정상",
+      "licenseDate": "2010-07-20"
+    },
+    {
+      "name": "삼덕마트",
+      "address": "전라남도 해남군 문내면 동외리 874-3",
+      "roadAddress": "전라남도 해남군 문내면 동영길 17",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-22"
+    },
+    {
+      "name": "씨유해남땅끝점",
+      "address": "",
+      "roadAddress": "전라남도 해남군 송지면 땅끝마을길 79",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-22"
+    },
+    {
+      "name": "하나원마트",
+      "address": "전라남도 해남군 송지면 산정리 712-3",
+      "roadAddress": "전라남도 해남군 송지면 산정길 66",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-23"
+    },
+    {
+      "name": "미니스톱 해남우슬점",
+      "address": "전라남도 해남군 해남읍 해리 178",
+      "roadAddress": "전라남도 해남군 해남읍 해남로 41",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-28"
+    },
+    {
+      "name": "남도문구사",
+      "address": "전라남도 해남군 해남읍 성내리 27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-13"
+    },
+    {
+      "name": "한양마트",
+      "address": "전라남도 해남군 해남읍 해리 642-1",
+      "roadAddress": "전라남도 해남군 해남읍 영빈로 1",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-20"
+    },
+    {
+      "name": "비타민마트",
+      "address": "전라남도 해남군 해남읍 고도리 115-30",
+      "roadAddress": "전라남도 해남군 해남읍 중앙2로 132",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-15"
+    },
+    {
+      "name": "씨유해남남외점",
+      "address": "전라남도 해남군 해남읍 남외리 544-2",
+      "roadAddress": "전라남도 해남군 해남읍 남부순환로 176",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-01"
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "전라남도 해남군 송지면 송호리 1205",
+      "roadAddress": "전라남도 해남군 송지면 땅끝마을길 39",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-28"
+    },
+    {
+      "name": "돼지슈퍼",
+      "address": "전라남도 해남군 화원면 청용리 574-6",
+      "roadAddress": "전라남도 해남군 화원면 청용새길 40-5",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-10"
+    },
+    {
+      "name": "마산상회",
+      "address": "전라남도 해남군 마산면 학의리 470",
+      "roadAddress": "전라남도 해남군 마산면 학의길 68-6",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-03"
+    },
+    {
+      "name": "미니스톱 해남주공점",
+      "address": "전라남도 해남군 해남읍 구교리 312",
+      "roadAddress": "전라남도 해남군 해남읍 북부순환로 170",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-28"
+    },
+    {
+      "name": "오렌지마트",
+      "address": "전라남도 해남군 해남읍 수성리 82-2",
+      "roadAddress": "전라남도 해남군 해남읍 북부순환로 102",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-09"
+    },
+    {
+      "name": "해남월마트",
+      "address": "전라남도 해남군 해남읍 해리 182",
+      "roadAddress": "전라남도 해남군 해남읍 해남로 45-1",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-27"
+    },
+    {
+      "name": "오뚜기마트",
+      "address": "전라남도 해남군 해남읍 평동리 21",
+      "roadAddress": "전라남도 해남군 해남읍 홍교로 57",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-02"
+    },
+    {
+      "name": "땅끝전망대상회",
+      "address": "전라남도 해남군 송지면 송호리 1158-3",
+      "roadAddress": "전라남도 해남군 송지면 땅끝마을길 38-106",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-16"
+    },
+    {
+      "name": "GS25 해남읍점",
+      "address": "전라남도 해남군 해남읍 성내리 19-18",
+      "roadAddress": "전라남도 해남군 해남읍 중앙2로 19",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-18"
+    },
+    {
+      "name": "미니스톱 해남대흥점",
+      "address": "전라남도 해남군 해남읍 평동리 139-2",
+      "roadAddress": "전라남도 해남군 해남읍 홍교로 34",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-24"
+    },
+    {
+      "name": "미니스톰수성점",
+      "address": "전라남도 해남군 해남읍 해리 518-6",
+      "roadAddress": "전라남도 해남군 해남읍 북부순환로 75",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-28"
+    },
+    {
+      "name": "땉끝만물편의점",
+      "address": "전라남도 해남군 북평면 영전리 244-15",
+      "roadAddress": "전라남도 해남군 북평면 남전길 4",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-16"
+    },
+    {
+      "name": "씨유해남수성점",
+      "address": "전라남도 해남군 해남읍 수성리 226",
+      "roadAddress": "전라남도 해남군 해남읍 북부순환로 147",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-24"
+    },
+    {
+      "name": "한길마트",
+      "address": "전라남도 해남군 해남읍 남외리 24-1",
+      "roadAddress": "전라남도 해남군 해남읍 남외2길 7",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-20"
+    },
+    {
+      "name": "남도수퍼",
+      "address": "전라남도 해남군 삼산면 구림리 8-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-23"
+    },
+    {
+      "name": "유진홀딩스화원",
+      "address": "",
+      "roadAddress": "전라남도 해남군 화원면 관광레저로 120",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-08"
+    },
+    {
+      "name": "빅스포츠",
+      "address": "전라남도 해남군 해남읍 해리 599-6",
+      "roadAddress": "전라남도 해남군 해남읍 중앙1로 100-1",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-19"
+    },
+    {
+      "name": "1000냥백화점",
+      "address": "전라남도 해남군 해남읍 평동리 136-1",
+      "roadAddress": "전라남도 해남군 해남읍 홍교로 28",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-27"
+    },
+    {
+      "name": "GS해남터미널점",
+      "address": "",
+      "roadAddress": "전라남도 해남군 해남읍 해남로 11",
+      "status": "영업/정상",
+      "licenseDate": "2012-12-04"
+    },
+    {
+      "name": "씨유 해남남부점",
+      "address": "전라남도 해남군 해남읍 고도리 475-7",
+      "roadAddress": "전라남도 해남군 해남읍 남부순환로 140",
+      "status": "영업/정상",
+      "licenseDate": "2012-12-27"
+    },
+    {
+      "name": "한둘유통",
+      "address": "",
+      "roadAddress": "전라남도 해남군 해남읍 동초길 13",
+      "status": "영업/정상",
+      "licenseDate": "2013-04-08"
+    },
+    {
+      "name": "미니스톱(해남금강점)",
+      "address": "전라남도 해남군 해남읍 구교리 91-7",
+      "roadAddress": "전라남도 해남군 해남읍 구교3길 11",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-03"
+    },
+    {
+      "name": "중앙농약사",
+      "address": "",
+      "roadAddress": "전라남도 해남군 현산면 시등리길 35",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-04"
+    },
+    {
+      "name": "땅끝본동건어물",
+      "address": "전라남도 해남군 송지면 891 5통",
+      "roadAddress": "전라남도 해남군 송지면 땅끝해안로 1796-4",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-16"
+    },
+    {
+      "name": "송평마을청년회",
+      "address": "",
+      "roadAddress": "전라남도 해남군 화산면 송평1길 21-9",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-26"
+    },
+    {
+      "name": "세븐일레븐 해남문내점",
+      "address": "",
+      "roadAddress": "전라남도 해남군 문내면 동영길 1",
+      "status": "영업/정상",
+      "licenseDate": "2013-09-23"
+    },
+    {
+      "name": "하나로편의점(하나로횟집마당)",
+      "address": "",
+      "roadAddress": "전라남도 해남군 문내면 관광레저로 12-1",
+      "status": "영업/정상",
+      "licenseDate": "2013-09-23"
+    },
+    {
+      "name": "농은식당",
+      "address": "전라남도 해남군 해남읍 해리 182-1",
+      "roadAddress": "전라남도 해남군 해남읍 해남로 45-1",
+      "status": "영업/정상",
+      "licenseDate": "2013-11-12"
+    },
+    {
+      "name": "현산농업협동조합 하나로마트",
+      "address": "전라남도 해남군 현산면 일평리 835번지 1호 현산농업협동조합 하나로마트",
+      "roadAddress": "전라남도 해남군 현산면 현산북평로 110",
+      "status": "영업/정상",
+      "licenseDate": "2013-12-09"
+    },
+    {
+      "name": "(주)아이붐월드",
+      "address": "",
+      "roadAddress": "전라남도 해남군 송지면 땅끝해안로 1730",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-25"
+    },
+    {
+      "name": "DC아울렛(천냥백화점)",
+      "address": "",
+      "roadAddress": "전라남도 해남군 해남읍 홍교로 39",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-25"
+    },
+    {
+      "name": "매일식품",
+      "address": "",
+      "roadAddress": "전라남도 해남군 문내면 우수영로 12-1",
+      "status": "영업/정상",
+      "licenseDate": "2014-05-19"
+    },
+    {
+      "name": "유한회사 한두레",
+      "address": "",
+      "roadAddress": "전라남도 해남군 해남읍 구교3길 1",
+      "status": "영업/정상",
+      "licenseDate": "2014-05-22"
+    },
+    {
+      "name": "삼진식자재도매물류센터",
+      "address": "",
+      "roadAddress": "전라남도 해남군 해남읍 읍관동길 21",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-16"
+    },
+    {
+      "name": "송평마을청년회",
+      "address": "",
+      "roadAddress": "전라남도 해남군 화산면 송평1길 21-9",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-23"
+    },
+    {
+      "name": "비타민마트 수성점",
+      "address": "",
+      "roadAddress": "전라남도 해남군 해남읍 북부순환로 130",
+      "status": "영업/정상",
+      "licenseDate": "2014-12-04"
+    },
+    {
+      "name": "씨유해남청용점",
+      "address": "",
+      "roadAddress": "전라남도 해남군 화원면 청용길 31",
+      "status": "영업/정상",
+      "licenseDate": "2015-02-06"
+    },
+    {
+      "name": "문내농협하나로마트",
+      "address": "",
+      "roadAddress": "전라남도 해남군 문내면 문내화원로 10",
+      "status": "영업/정상",
+      "licenseDate": "2015-02-13"
+    },
+    {
+      "name": "등대슈퍼",
+      "address": "",
+      "roadAddress": "전라남도 해남군 송지면 어란로 504",
+      "status": "영업/정상",
+      "licenseDate": "2015-03-20"
+    },
+    {
+      "name": "어란슈퍼",
+      "address": "",
+      "roadAddress": "전라남도 해남군 송지면 어란2길 7-7",
+      "status": "영업/정상",
+      "licenseDate": "2015-03-20"
+    },
+    {
+      "name": "다영슈퍼",
+      "address": "",
+      "roadAddress": "전라남도 해남군 송지면 어란로 455",
+      "status": "영업/정상",
+      "licenseDate": "2015-03-20"
+    },
+    {
+      "name": "세븐일레븐 해남화원점",
+      "address": "",
+      "roadAddress": "전라남도 해남군 화원면 금평길 8",
+      "status": "영업/정상",
+      "licenseDate": "2015-04-28"
+    },
+    {
+      "name": "해오름슈퍼",
+      "address": "",
+      "roadAddress": "전라남도 해남군 삼산면 매정길 5",
+      "status": "영업/정상",
+      "licenseDate": "2015-04-29"
+    },
+    {
+      "name": "스마일마트",
+      "address": "",
+      "roadAddress": "전라남도 해남군 문내면 명량로 150",
+      "status": "영업/정상",
+      "licenseDate": "2015-06-17"
+    },
+    {
+      "name": "슈퍼센터",
+      "address": "",
+      "roadAddress": "전라남도 해남군 화원면 청용새길 71",
+      "status": "영업/정상",
+      "licenseDate": "2015-07-06"
+    },
+    {
+      "name": "송평마을회",
+      "address": "전라남도 해남군 화산면 평호리 496-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2015-07-13"
+    },
+    {
+      "name": "봉동마을회",
+      "address": "전라남도 해남군 현산면 황산리 산 19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2015-07-20"
+    },
+    {
+      "name": "씨유해남고점",
+      "address": "",
+      "roadAddress": "전라남도 해남군 해남읍 서림길 39, 101호 (무에타이관 워킹맘베이커리 해양도시가스)",
+      "status": "영업/정상",
+      "licenseDate": "2015-08-26"
+    },
+    {
+      "name": "미니스톱 뉴해남터미널점",
+      "address": "",
+      "roadAddress": "전라남도 해남군 해남읍 남부순환로 9 (완구할인마트)",
+      "status": "영업/정상",
+      "licenseDate": "2015-09-09"
+    },
+    {
+      "name": "지에스25 해남산이점",
+      "address": "",
+      "roadAddress": "전라남도 해남군 산이면 관광레저로 1785 (제5동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-09-16"
+    },
+    {
+      "name": "세븐일레븐 해남송지점",
+      "address": "",
+      "roadAddress": "전라남도 해남군 송지면 산정1길 57 (하나로약국)",
+      "status": "영업/정상",
+      "licenseDate": "2015-09-18"
+    },
+    {
+      "name": "하나로편의점",
+      "address": "",
+      "roadAddress": "전라남도 해남군 문내면 관광레저로 12-1 (하나로휴게소)",
+      "status": "영업/정상",
+      "licenseDate": "2015-09-18"
+    },
+    {
+      "name": "황금종합마트",
+      "address": "",
+      "roadAddress": "전라남도 해남군 문내면 관광레저로 53 (울돌목기사식당)",
+      "status": "영업/정상",
+      "licenseDate": "2015-09-18"
+    },
+    {
+      "name": "계곡농업협동조합",
+      "address": "전라남도 해남군 계곡면 성진리 81",
+      "roadAddress": "전라남도 해남군 계곡면 해남로 1452 (계곡농협)",
+      "status": "영업/정상",
+      "licenseDate": "2016-01-07"
+    },
+    {
+      "name": "김가네쉼터매점",
+      "address": "",
+      "roadAddress": "전라남도 해남군 북평면 백도로 15 (김가네쉼터)",
+      "status": "영업/정상",
+      "licenseDate": "2016-03-22"
+    },
+    {
+      "name": "참사랑마트",
+      "address": "",
+      "roadAddress": "전라남도 해남군 해남읍 동초길 13",
+      "status": "영업/정상",
+      "licenseDate": "2016-03-22"
+    },
+    {
+      "name": "공간마트",
+      "address": "",
+      "roadAddress": "전라남도 해남군 해남읍 구교2길 40, 1층 102호",
+      "status": "영업/정상",
+      "licenseDate": "2016-03-22"
+    },
+    {
+      "name": "씨유 해남 서림점",
+      "address": "",
+      "roadAddress": "전라남도 해남군 해남읍 중앙1로 251 (서림마트)",
+      "status": "영업/정상",
+      "licenseDate": "2016-05-11"
+    },
+    {
+      "name": "천혜사",
+      "address": "",
+      "roadAddress": "전라남도 해남군 황산면 시등로 117-3 (광주학원)",
+      "status": "영업/정상",
+      "licenseDate": "2016-06-09"
+    },
+    {
+      "name": "봉동마을회",
+      "address": "전라남도 해남군 현산면 황산리 산 19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2016-07-15"
+    },
+    {
+      "name": "미니스톱해남우항리점",
+      "address": "",
+      "roadAddress": "전라남도 해남군 황산면 공룡박물관길 77",
+      "status": "영업/정상",
+      "licenseDate": "2016-08-01"
+    },
+    {
+      "name": "미니스톱해남송지점",
+      "address": "",
+      "roadAddress": "전라남도 해남군 송지면 산정1길 111 (정다방)",
+      "status": "영업/정상",
+      "licenseDate": "2016-08-01"
+    },
+    {
+      "name": "대성철물공구",
+      "address": "",
+      "roadAddress": "전라남도 해남군 문내면 동영길 29-2 (대성정)",
+      "status": "영업/정상",
+      "licenseDate": "2016-12-20"
+    },
+    {
+      "name": "지에스25 해남화산점",
+      "address": "",
+      "roadAddress": "전라남도 해남군 화산면 해남화산로 1057-0 (한일슈퍼)",
+      "status": "영업/정상",
+      "licenseDate": "2017-01-20"
+    },
+    {
+      "name": "미니스톱 해남서림점",
+      "address": "",
+      "roadAddress": "전라남도 해남군 해남읍 중앙1로 189 (대성N스쿨)",
+      "status": "영업/정상",
+      "licenseDate": "2017-02-20"
+    },
+    {
+      "name": "미니스톱 해남우슬점",
+      "address": "",
+      "roadAddress": "전라남도 해남군 해남읍 해남로 41 (미니스톱)",
+      "status": "영업/정상",
+      "licenseDate": "2017-03-30"
+    },
+    {
+      "name": "세븐일레븐 해남중앙점",
+      "address": "",
+      "roadAddress": "전라남도 해남군 해남읍 중앙1로 113",
+      "status": "영업/정상",
+      "licenseDate": "2017-05-24"
+    },
+    {
+      "name": "씨유(CU)해남울돌목점",
+      "address": "",
+      "roadAddress": "전라남도 해남군 문내면 관광레저로 53 (울돌목기사식당)",
+      "status": "영업/정상",
+      "licenseDate": "2017-06-23"
+    },
+    {
+      "name": "보람슈퍼",
+      "address": "",
+      "roadAddress": "전라남도 해남군 문내면 동영길 1 (7ELEVEN편의점)",
+      "status": "영업/정상",
+      "licenseDate": "2017-09-13"
+    },
+    {
+      "name": "샛별상사",
+      "address": "전라남도 해남군 해남읍 평동리 120-1",
+      "roadAddress": "전라남도 해남군 해남읍 평동길 26",
+      "status": "영업/정상",
+      "licenseDate": "2018-02-02"
+    },
+    {
+      "name": "세븐일레븐 해남소방서점",
+      "address": "전라남도 해남군 해남읍 해리 688-6 연세우유",
+      "roadAddress": "전라남도 해남군 해남읍 교육청길 41-8, 연세우유",
+      "status": "영업/정상",
+      "licenseDate": "2018-04-24"
+    },
+    {
+      "name": "세븐일레븐 해남송지산정점",
+      "address": "전라남도 해남군 송지면 산정리 785 세븐일레븐 해남송지산정점",
+      "roadAddress": "전라남도 해남군 송지면 산정길 26, 라인소주방",
+      "status": "영업/정상",
+      "licenseDate": "2018-04-26"
+    },
+    {
+      "name": "GS25 해남북평점",
+      "address": "전라남도 해남군 북평면 남창리 368-10",
+      "roadAddress": "전라남도 해남군 북평면 달량진길 39-1",
+      "status": "영업/정상",
+      "licenseDate": "2018-04-27"
+    },
+    {
+      "name": "주식회사 파라",
+      "address": "전라남도 해남군 화원면 화봉리 376-1 오시아노캠핑리조트",
+      "roadAddress": "전라남도 해남군 화원면 시아로 552, 관광단지현장사무소",
+      "status": "영업/정상",
+      "licenseDate": "2018-05-11"
+    },
+    {
+      "name": "GS25해남성내점",
+      "address": "전라남도 해남군 해남읍 성내리 16-31 GS25",
+      "roadAddress": "전라남도 해남군 해남읍 중앙1로 142, GS25",
+      "status": "영업/정상",
+      "licenseDate": "2018-07-19"
+    },
+    {
+      "name": "GS25해남군청점",
+      "address": "전라남도 해남군 해남읍 수성리 184-1",
+      "roadAddress": "전라남도 해남군 해남읍 군청길 27",
+      "status": "영업/정상",
+      "licenseDate": "2018-07-24"
+    },
+    {
+      "name": "미니스톱 해남해리점",
+      "address": "전라남도 해남군 해남읍 해리 510 다우할인마트",
+      "roadAddress": "전라남도 해남군 해남읍 동초길 13, 다우할인마트",
+      "status": "영업/정상",
+      "licenseDate": "2018-08-24"
+    },
+    {
+      "name": "세븐일레븐 해남웰빙점",
+      "address": "전라남도 해남군 해남읍 수성리 199-8",
+      "roadAddress": "전라남도 해남군 해남읍 명문길 21",
+      "status": "영업/정상",
+      "licenseDate": "2018-10-22"
+    },
+    {
+      "name": "북평농업협동조합하나로마트",
+      "address": "전라남도 해남군 북평면 남창리 365-1 농협하나로마트",
+      "roadAddress": "전라남도 해남군 북평면 볼무당길 15, 농협하나로마트",
+      "status": "영업/정상",
+      "licenseDate": "2018-10-18"
+    },
+    {
+      "name": "㈜쿱스토어전남 해남점",
+      "address": "전라남도 해남군 해남읍 구교리 326-8 자연드림",
+      "roadAddress": "전라남도 해남군 해남읍 북부순환로 165, 자연드림",
+      "status": "영업/정상",
+      "licenseDate": "2018-10-22"
+    },
+    {
+      "name": "황산할인마트",
+      "address": "전라남도 해남군 황산면 남리리 58-2 황산마트",
+      "roadAddress": "전라남도 해남군 황산면 명량로 1447, 황산마트",
+      "status": "영업/정상",
+      "licenseDate": "2018-10-25"
+    },
+    {
+      "name": "씨유해남북평점",
+      "address": "전라남도 해남군 북평면 남창리 439-7",
+      "roadAddress": "전라남도 해남군 북평면 달량진길 21-1",
+      "status": "영업/정상",
+      "licenseDate": "2018-12-31"
+    },
+    {
+      "name": "세븐일레븐 해남토말점",
+      "address": "전라남도 해남군 송지면 송호리 1205 충남건어물",
+      "roadAddress": "전라남도 해남군 송지면 땅끝마을길 39, 충남건어물",
+      "status": "영업/정상",
+      "licenseDate": "2019-03-05"
+    },
+    {
+      "name": "개인",
+      "address": "전라남도 해남군 화원면 마산리 204-4 대영마트",
+      "roadAddress": "전라남도 해남군 화원면 월산길 65, 대영마트",
+      "status": "영업/정상",
+      "licenseDate": "2019-03-08"
+    },
+    {
+      "name": "세븐일레븐 해남흑석점",
+      "address": "전라남도 해남군 계곡면 성진리 91-2 계곡다방",
+      "roadAddress": "전라남도 해남군 계곡면 해남로 1439, 계곡다방",
+      "status": "영업/정상",
+      "licenseDate": "2019-04-02"
+    },
+    {
+      "name": "효명마트",
+      "address": "전라남도 해남군 황산면 우항리 487-1 효명마트",
+      "roadAddress": "전라남도 해남군 황산면 시등로 98, 효명마트",
+      "status": "영업/정상",
+      "licenseDate": "2019-05-31"
+    },
+    {
+      "name": "지에스(GS)25 해남송지어란점",
+      "address": "전라남도 해남군 송지면 어란리 1381",
+      "roadAddress": "전라남도 해남군 송지면 어란로 474",
+      "status": "영업/정상",
+      "licenseDate": "2019-07-15"
+    },
+    {
+      "name": "세븐일레븐 해남대흥사점",
+      "address": "전라남도 해남군 삼산면 구림리 141-6 중앙24편의점",
+      "roadAddress": "전라남도 해남군 삼산면 대흥사길 158-2, 중앙24편의점",
+      "status": "영업/정상",
+      "licenseDate": "2019-07-03"
+    },
+    {
+      "name": "개인",
+      "address": "전라남도 해남군 해남읍 해리 511-13 한빛 빌딩",
+      "roadAddress": "전라남도 해남군 해남읍 천변2길 61-3, 한빛 빌딩",
+      "status": "영업/정상",
+      "licenseDate": "2019-08-13"
+    },
+    {
+      "name": "지에스25 해남스위트점",
+      "address": "전라남도 해남군 해남읍 고도리 88",
+      "roadAddress": "전라남도 해남군 해남읍 동초길 79",
+      "status": "영업/정상",
+      "licenseDate": "2019-08-27"
+    },
+    {
+      "name": "세븐일레븐 해남읍내점",
+      "address": "전라남도 해남군 해남읍 해리 589-1",
+      "roadAddress": "전라남도 해남군 해남읍 수성1길 1",
+      "status": "영업/정상",
+      "licenseDate": "2019-09-17"
+    },
+    {
+      "name": "미니스톱 해남삼산점",
+      "address": "전라남도 해남군 삼산면 평활리 884-8 포근한민박",
+      "roadAddress": "전라남도 해남군 삼산면 고산로 514, 포근한민박",
+      "status": "영업/정상",
+      "licenseDate": "2019-09-24"
+    },
+    {
+      "name": "아시아월드마트",
+      "address": "전라남도 해남군 황산면 남리리 18-7 좋은약국",
+      "roadAddress": "전라남도 해남군 황산면 명량로 1453",
+      "status": "영업/정상",
+      "licenseDate": "2019-12-02"
+    },
+    {
+      "name": "니나린 아시아 마트",
+      "address": "전라남도 해남군 해남읍 고도리 156-3",
+      "roadAddress": "전라남도 해남군 해남읍 고도1길 14, 1동 104호",
+      "status": "영업/정상",
+      "licenseDate": "2019-12-17"
+    },
+    {
+      "name": "비타민마트 수성점",
+      "address": "전라남도 해남군 해남읍 수성리 204-7 비타민마트 모닝글로리",
+      "roadAddress": "전라남도 해남군 해남읍 북부순환로 130, 비타민마트 수성점",
+      "status": "영업/정상",
+      "licenseDate": "2019-12-30"
+    },
+    {
+      "name": "씨유해남군청점",
+      "address": "전라남도 해남군 해남읍 수성리 179-3",
+      "roadAddress": "전라남도 해남군 해남읍 수성5길 1",
+      "status": "영업/정상",
+      "licenseDate": "2020-04-13"
+    },
+    {
+      "name": "씨유 해남북평점",
+      "address": "전라남도 해남군 북평면 남창리 439-7",
+      "roadAddress": "전라남도 해남군 북평면 달량진길 21-1",
+      "status": "영업/정상",
+      "licenseDate": "2020-05-08"
+    },
+    {
+      "name": "지에스(GS)25 해남우수영점",
+      "address": "전라남도 해남군 문내면 동외리 874-3 삼덕마트 맹물호프",
+      "roadAddress": "전라남도 해남군 문내면 동영길 17, 삼덕마트 맹물호프",
+      "status": "영업/정상",
+      "licenseDate": "2020-05-08"
+    },
+    {
+      "name": "세븐일레븐 해남산이로드점",
+      "address": "전라남도 해남군 산이면 상공리 563-3",
+      "roadAddress": "전라남도 해남군 산이면 산이로 1768",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-01"
+    },
+    {
+      "name": "미니스톱 해남읍내점",
+      "address": "전라남도 해남군 해남읍 읍내리 24-1 파슈헤어라인 봉구스  미니스톱",
+      "roadAddress": "전라남도 해남군 해남읍 읍내길 17, 파슈헤어라인 봉구스  미니스톱",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-08"
+    },
+    {
+      "name": "지에스25 옥천다나점",
+      "address": "전라남도 해남군 옥천면 영춘리 523-2 성모의원",
+      "roadAddress": "전라남도 해남군 옥천면 해남로 394, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2020-08-25"
+    },
+    {
+      "name": "해남 로컬푸드 임시 상설직매장",
+      "address": "전라남도 해남군 해남읍 성내리 41-2 해남YMCA",
+      "roadAddress": "전라남도 해남군 해남읍 군청길 7, 해남YMCA 1층",
+      "status": "영업/정상",
+      "licenseDate": "2020-10-15"
+    },
+    {
+      "name": "박문수치과의원",
+      "address": "전라남도 해남군 해남읍 고도리 401-45",
+      "roadAddress": "전라남도 해남군 해남읍 남부순환로 156",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "박문수치과의원",
+      "address": "전라남도 해남군 해남읍 고도리 401-45",
+      "roadAddress": "전라남도 해남군 해남읍 남부순환로 156",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "인산제재소",
+      "address": "전라남도 해남군 해남읍 남외리 3-2",
+      "roadAddress": "전라남도 해남군 해남읍 남외2길 7",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "해락",
+      "address": "전라남도 해남군 해남읍 성내리",
+      "roadAddress": "전라남도 해남군 해남읍 수성2길 33",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "동아슈퍼",
+      "address": "전라남도 해남군 해남읍 성내리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "해락",
+      "address": "전라남도 해남군 해남읍 성내리",
+      "roadAddress": "전라남도 해남군 해남읍 수성2길 33",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "호돌슈퍼",
+      "address": "전라남도 해남군 해남읍 수성리 97",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "예술사",
+      "address": "전라남도 해남군 해남읍 수성리 55-9",
+      "roadAddress": "전라남도 해남군 해남읍 수성4길 25",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "해남해광마트",
+      "address": "전라남도 해남군 해남읍 수성리 195-4",
+      "roadAddress": "전라남도 해남군 해남읍 북부순환로 141",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-12"
+    },
+    {
+      "name": "은미슈퍼",
+      "address": "전라남도 해남군 해남읍 수성리 889-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "해남해광마트",
+      "address": "전라남도 해남군 해남읍 수성리 195-4",
+      "roadAddress": "전라남도 해남군 해남읍 북부순환로 141",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "도연슈퍼",
+      "address": "전라남도 해남군 해남읍 해리 530-8",
+      "roadAddress": "전라남도 해남군 해남읍 북부순환로 80",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "연지슈퍼",
+      "address": "전라남도 해남군 해남읍 해리 511-25",
+      "roadAddress": "전라남도 해남군 해남읍 천변2길 57",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "화산슈퍼",
+      "address": "전라남도 해남군 해남읍 해리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "서림아파트슈퍼",
+      "address": "전라남도 해남군 해남읍 구교리 94",
+      "roadAddress": "전라남도 해남군 해남읍 구교2길 20",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "주부편의점",
+      "address": "전라남도 해남군 해남읍 남외리 39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "인산제재소",
+      "address": "전라남도 해남군 해남읍 남외리 3-2",
+      "roadAddress": "전라남도 해남군 해남읍 남외2길 7",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "우리상회",
+      "address": "전라남도 해남군 해남읍 성내리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "(유)창대건설",
+      "address": "전라남도 해남군 해남읍 해리 483",
+      "roadAddress": "전라남도 해남군 해남읍 해리4길 15",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-10"
+    },
+    {
+      "name": "운암한의원",
+      "address": "전라남도 해남군 해남읍 고도리 121-6",
+      "roadAddress": "전라남도 해남군 해남읍 중앙2로 123",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-30"
+    },
+    {
+      "name": "박문수치과의원",
+      "address": "전라남도 해남군 해남읍 고도리 401-45",
+      "roadAddress": "전라남도 해남군 해남읍 남부순환로 156",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-13"
+    },
+    {
+      "name": "축협본소",
+      "address": "전라남도 해남군 해남읍 평동리 162",
+      "roadAddress": "전라남도 해남군 해남읍 홍교로 64",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-13"
+    },
+    {
+      "name": "축협고도분소",
+      "address": "전라남도 해남군 해남읍 고도리 106-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-13"
+    },
+    {
+      "name": "동교슈퍼",
+      "address": "광주광역시 북구 동림동 931-7",
+      "roadAddress": "전라남도 해남군 해남읍 중앙1로 42",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-13"
+    },
+    {
+      "name": "해남농협",
+      "address": "전라남도 해남군 해남읍 성내리 25-1",
+      "roadAddress": "전라남도 해남군 해남읍 중앙1로 180",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-19"
+    },
+    {
+      "name": "금강아파트슈퍼",
+      "address": "전라남도 해남군 해남읍 해리 480-2",
+      "roadAddress": "전라남도 해남군 삼산면 농암길 28",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "한양마트",
+      "address": "전라남도 해남군 해남읍 해리 642-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-21"
+    },
+    {
+      "name": "명지마트",
+      "address": "전라남도 해남군 해남읍 해리 684-103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-21"
+    },
+    {
+      "name": "뉴월드마트",
+      "address": "전라남도 해남군 해남읍 해리 169-1",
+      "roadAddress": "전라남도 해남군 해남읍 해남로 35, 101동  305호(해남백두4차아파트)",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-18"
+    },
+    {
+      "name": "조양정미소",
+      "address": "전라남도 해남군 해남읍 고도리 436",
+      "roadAddress": "전라남도 해남군 해남읍 땅끝대로 41",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-07"
+    },
+    {
+      "name": "DC 마트",
+      "address": "전라남도 해남군 해남읍 구교리 397",
+      "roadAddress": "전라남도 해남군 해남읍 구교3길 1",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-27"
+    },
+    {
+      "name": "다우마트",
+      "address": "전라남도 해남군 해남읍 해리 4 해성도시공원내",
+      "roadAddress": "전라남도 해남군 해남읍 동초길 13",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-20"
+    },
+    {
+      "name": "인산제재소",
+      "address": "전라남도 해남군 해남읍 남외리 3-2",
+      "roadAddress": "전라남도 해남군 해남읍 남외2길 7",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-20"
+    },
+    {
+      "name": "주공마트",
+      "address": "전라남도 해남군 해남읍 구교리 918",
+      "roadAddress": "전라남도 해남군 해남읍 구교3길 26",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-23"
+    },
+    {
+      "name": "미니스톱 해남점",
+      "address": "전라남도 해남군 해남읍 해리 31-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-30"
+    },
+    {
+      "name": "구교슈퍼",
+      "address": "전라남도 해남군 해남읍 구교리 213",
+      "roadAddress": "전라남도 해남군 해남읍 구교1길 21",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-05"
+    },
+    {
+      "name": "제일지업사",
+      "address": "전라남도 해남군 해남읍 평동리 86-3",
+      "roadAddress": "전라남도 해남군 해남읍 천변1길 6-2",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-30"
+    },
+    {
+      "name": "수협바다마트",
+      "address": "전라남도 해남군 해남읍 고도리 115-7",
+      "roadAddress": "전라남도 해남군 해남읍 중앙2로 136",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-08"
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "전라남도 해남군 해남읍 평동리 117-1",
+      "roadAddress": "전라남도 해남군 해남읍 평동길 30",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-30"
+    },
+    {
+      "name": "해남해광마트",
+      "address": "전라남도 해남군 해남읍 수성리 195-4",
+      "roadAddress": "전라남도 해남군 해남읍 북부순환로 141",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-30"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "전라남도 해남군 해남읍 구교리 260-5",
+      "roadAddress": "전라남도 해남군 해남읍 구교1길 2",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-13"
+    },
+    {
+      "name": "토산품직매장",
+      "address": "전라남도 해남군 삼산면 구림리 산 8-1",
+      "roadAddress": "전라남도 해남군 삼산면 대흥사길 400",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-20"
+    },
+    {
+      "name": "동백슈퍼",
+      "address": "전라남도 해남군 삼산면 구림리 24-1",
+      "roadAddress": "전라남도 해남군 삼산면 대흥사길 326-18, 다동동  2호",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-09"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "전라남도 해남군 삼산면 구림리 819-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-09"
+    },
+    {
+      "name": "옥천농협삼산지소",
+      "address": "전라남도 해남군 삼산면 평활리 1109-7",
+      "roadAddress": "전라남도 해남군 삼산면 고산로 512",
+      "status": "영업/정상",
+      "licenseDate": "2013-08-14"
+    },
+    {
+      "name": "남교흑염소",
+      "address": "전라남도 해남군 화산면 석호리 877-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-11"
+    },
+    {
+      "name": "연곡사장걸슈퍼",
+      "address": "전라남도 해남군 화산면 연곡리 732-2",
+      "roadAddress": "전라남도 해남군 화산면 연곡길 51-15",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-14"
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "전라남도 해남군 화산면 방축리 399",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "화산주유소",
+      "address": "전라남도 해남군 화산면 방축리 388-9",
+      "roadAddress": "전라남도 해남군 화산면 해남화산로 1045 (SK주유소)",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-20"
+    },
+    {
+      "name": "현산보건지소",
+      "address": "전라남도 해남군 현산면 일평리 762-1",
+      "roadAddress": "전라남도 해남군 현산면 현산북평로 97",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "현산보건지소",
+      "address": "전라남도 해남군 현산면 일평리 762-1",
+      "roadAddress": "전라남도 해남군 현산면 현산북평로 97",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-06"
+    },
+    {
+      "name": "현산보건지소",
+      "address": "전라남도 해남군 현산면 일평리 762-1",
+      "roadAddress": "전라남도 해남군 현산면 현산북평로 97",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "고현상회",
+      "address": "전라남도 해남군 현산면 고현리 193-1",
+      "roadAddress": "전라남도 해남군 현산면 고현길 27",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "바다산업",
+      "address": "전라남도 해남군 현산면 초호리 275",
+      "roadAddress": "전라남도 해남군 현산면 땅끝해안로 119",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "시등담배가게",
+      "address": "전라남도 해남군 현산면 월송리 290-2",
+      "roadAddress": "전라남도 해남군 현산면 시등리길 63-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "시등정류소슈퍼",
+      "address": "전라남도 해남군 현산면 월송리 271",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "한양치과",
+      "address": "전라남도 해남군 송지면 산정리 765-1 한양의원치과",
+      "roadAddress": "전라남도 해남군 송지면 산정1길 70, 한양의원치과",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "한양치과",
+      "address": "전라남도 해남군 송지면 산정리 765-1 한양의원치과",
+      "roadAddress": "전라남도 해남군 송지면 산정1길 70, 한양의원치과",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "(유)동은건설",
+      "address": "전라남도 해남군 송지면 미야리 223-0005",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-13"
+    },
+    {
+      "name": "특산품직매장",
+      "address": "전라남도 해남군 송지면 송호리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-01"
+    },
+    {
+      "name": "청호장슈퍼",
+      "address": "전라남도 해남군 송지면 송호리 903",
+      "roadAddress": "전라남도 해남군 송지면 땅끝해안로 1795-10",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-19"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "전라남도 해남군 송지면 송호리 915",
+      "roadAddress": "전라남도 해남군 송지면 땅끝해안로 1817",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-16"
+    },
+    {
+      "name": "송호리정류소",
+      "address": "전라남도 해남군 송지면 송호리 989",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-20"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "전라남도 해남군 송지면 송호리 960-1",
+      "roadAddress": "전라남도 해남군 송지면 송호길 27",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-10"
+    },
+    {
+      "name": "남창마트문구사",
+      "address": "전라남도 해남군 북평면 남창리 368-9",
+      "roadAddress": "전라남도 해남군 북평면 달량진길 33-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "삼일슈퍼",
+      "address": "전라남도 해남군 북평면 남창리 326-9",
+      "roadAddress": "전라남도 해남군 북평면 볼무당길 5",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-16"
+    },
+    {
+      "name": "아주슈퍼",
+      "address": "전라남도 해남군 북평면 남창리 455-1",
+      "roadAddress": "전라남도 해남군 북평면 볼무당길 47",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-21"
+    },
+    {
+      "name": "북일보건지소",
+      "address": "전라남도 해남군 북일면 신월리 188-1",
+      "roadAddress": "전라남도 해남군 북일면 백도로 779 (북일주유소)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "북일보건지소",
+      "address": "전라남도 해남군 북일면 신월리 188-1",
+      "roadAddress": "전라남도 해남군 북일면 백도로 779 (북일주유소)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "북일보건지소",
+      "address": "전라남도 해남군 북일면 신월리 188-1",
+      "roadAddress": "전라남도 해남군 북일면 백도로 779 (북일주유소)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "한양상회",
+      "address": "전라남도 해남군 옥천면 영춘리 533-0001",
+      "roadAddress": "전라남도 해남군 옥천면 해강로 20",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    }
+  ]
+}

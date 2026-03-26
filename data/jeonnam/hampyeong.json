@@ -1,0 +1,1298 @@
+{
+  "region": "전라남도",
+  "regionSlug": "jeonnam",
+  "district": "함평군",
+  "districtSlug": "hampyeong",
+  "updatedAt": "2026-03-26",
+  "totalCount": 184,
+  "stores": [
+    {
+      "name": "마을이장집",
+      "address": "전라남도 함평군 학교면 월산리 352-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "마을이장집",
+      "address": "전라남도 함평군 학교면 월산리 916",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "마을이장집",
+      "address": "전라남도 함평군 학교면 죽정리 32",
+      "roadAddress": "전라남도 함평군 학교면 학교호암길 9-5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "마을이장집",
+      "address": "전라남도 함평군 학교면 곡창리 373",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "약찜상회",
+      "address": "전라남도 함평군 손불면 궁산리 1008-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-24"
+    },
+    {
+      "name": "영일상회",
+      "address": "전라남도 함평군 함평읍 기각리 967",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "모이세 슈퍼",
+      "address": "전라남도 함평군 함평읍 기각리 918",
+      "roadAddress": "전라남도 함평군 함평읍 중앙길 134",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "우정수퍼",
+      "address": "전라남도 함평군 함평읍 함평리 139",
+      "roadAddress": "전라남도 함평군 함평읍 중앙길 209",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "풍성수퍼",
+      "address": "전라남도 함평군 함평읍 기각리 1031",
+      "roadAddress": "전라남도 함평군 함평읍 중앙길 187-35",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "알뜰수퍼",
+      "address": "전라남도 함평군 함평읍 내교리 114",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "무안상회",
+      "address": "전라남도 함평군 함평읍 기각리 982",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "신흥수퍼",
+      "address": "전라남도 함평군 함평읍 기각리 1004",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "가람수퍼",
+      "address": "전라남도 함평군 함평읍 기각리 1001",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "함평식품",
+      "address": "전라남도 함평군 함평읍 기각리 980",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-12-02"
+    },
+    {
+      "name": "고향가든",
+      "address": "전라남도 함평군 나산면 삼축리 1394-1",
+      "roadAddress": "전라남도 함평군 나산면 나산문화길 22-4",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-17"
+    },
+    {
+      "name": "방주마트",
+      "address": "전라남도 함평군 함평읍 기각리 1011",
+      "roadAddress": "전라남도 함평군 함평읍 광남길 69-3",
+      "status": "영업/정상",
+      "licenseDate": "1998-02-16"
+    },
+    {
+      "name": "해태힐집",
+      "address": "전라남도 함평군 손불면 월천리 1140",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-31"
+    },
+    {
+      "name": "함평우체국",
+      "address": "전라남도 함평군 함평읍 내교리 145",
+      "roadAddress": "전라남도 함평군 함평읍 광남길 66",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-18"
+    },
+    {
+      "name": "학교우체국",
+      "address": "전라남도 함평군 학교면 학교리 478",
+      "roadAddress": "전라남도 함평군 학교면 백학길 140",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-18"
+    },
+    {
+      "name": "월야우체국",
+      "address": "전라남도 함평군 월야면 월야리 498-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-18"
+    },
+    {
+      "name": "나산우체국",
+      "address": "전라남도 함평군 나산면 삼축리 298",
+      "roadAddress": "전라남도 함평군 나산면 나산길 80",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-18"
+    },
+    {
+      "name": "손불우체국",
+      "address": "전라남도 함평군 손불면 대전리 223",
+      "roadAddress": "전라남도 함평군 손불면 손불중앙길 76-7",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-18"
+    },
+    {
+      "name": "대동우체국",
+      "address": "전라남도 함평군 대동면 향교리 877-2",
+      "roadAddress": "전라남도 함평군 대동면 대동길 29",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-18"
+    },
+    {
+      "name": "주포우체국",
+      "address": "전라남도 함평군 함평읍 석성리 630-21",
+      "roadAddress": "전라남도 함평군 함평읍 석성길 107",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-18"
+    },
+    {
+      "name": "신광우체국",
+      "address": "전라남도 함평군 신광면 월암리 255-3",
+      "roadAddress": "전라남도 함평군 신광면 신광중앙길 106",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-18"
+    },
+    {
+      "name": "엄다우체국",
+      "address": "전라남도 함평군 엄다면 엄다리 760-18",
+      "roadAddress": "전라남도 함평군 엄다면 엄다길 58-1",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-18"
+    },
+    {
+      "name": "해보우체국",
+      "address": "전라남도 함평군 해보면 문장리 794-8",
+      "roadAddress": "전라남도 함평군 해보면 밀재로 1331",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-18"
+    },
+    {
+      "name": "제일수퍼",
+      "address": "전라남도 함평군 함평읍 내교리 131-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-06"
+    },
+    {
+      "name": "베스트마트 함평점",
+      "address": "전라남도 함평군 함평읍 기각리 921-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-16"
+    },
+    {
+      "name": "군청 청우회",
+      "address": "전라남도 함평군 함평읍 함평리 123-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-12"
+    },
+    {
+      "name": "문장푸른마트",
+      "address": "전라남도 함평군 해보면 문장리 822-134",
+      "roadAddress": "전라남도 함평군 해보면 밀재로 1285",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-01"
+    },
+    {
+      "name": "하나로마트",
+      "address": "전라남도 함평군 함평읍 내교리 193-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-18"
+    },
+    {
+      "name": "주공마트",
+      "address": "전라남도 함평군 함평읍 내교리 855",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-29"
+    },
+    {
+      "name": "미니스톱",
+      "address": "전라남도 함평군 함평읍 내교리 202-1",
+      "roadAddress": "전라남도 함평군 함평읍 영수길 170",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-20"
+    },
+    {
+      "name": "함평축협하나로마트 한우프라자점",
+      "address": "전라남도 함평군 함평읍 내교리 47",
+      "roadAddress": "전라남도 함평군 함평읍 서부길 42",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-09"
+    },
+    {
+      "name": "나비생활용품",
+      "address": "전라남도 함평군 함평읍 내교리 210",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-26"
+    },
+    {
+      "name": "신선마트",
+      "address": "",
+      "roadAddress": "전라남도 함평군 손불면 손무로 749",
+      "status": "영업/정상",
+      "licenseDate": "2015-04-09"
+    },
+    {
+      "name": "돌머리체험마을편의점",
+      "address": "",
+      "roadAddress": "전라남도 함평군 함평읍 주포로 600-29",
+      "status": "영업/정상",
+      "licenseDate": "2015-06-02"
+    },
+    {
+      "name": "국군복지단 광주지원본부",
+      "address": "",
+      "roadAddress": "전라남도 함평군 해보면 신해로 1027",
+      "status": "영업/정상",
+      "licenseDate": "2016-05-31"
+    },
+    {
+      "name": "영일상회",
+      "address": "전라남도 함평군 함평읍 기각리 967",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "모이세 슈퍼",
+      "address": "전라남도 함평군 함평읍 기각리 918",
+      "roadAddress": "전라남도 함평군 함평읍 중앙길 134",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "유달슈퍼",
+      "address": "전라남도 함평군 함평읍 기각리 914-7",
+      "roadAddress": "전라남도 함평군 함평읍 중앙길 150",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "중앙수퍼",
+      "address": "전라남도 함평군 함평읍 기각리 857",
+      "roadAddress": "전라남도 함평군 함평읍 중앙길 181-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "우정수퍼",
+      "address": "전라남도 함평군 함평읍 함평리 139",
+      "roadAddress": "전라남도 함평군 함평읍 중앙길 209",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "인동수퍼",
+      "address": "전라남도 함평군 함평읍 함평리 103",
+      "roadAddress": "전라남도 함평군 함평읍 남일길 72",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "나나상회",
+      "address": "전라남도 함평군 함평읍 함평리 370",
+      "roadAddress": "전라남도 함평군 함평읍 남일길 93",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "장동수퍼",
+      "address": "전라남도 함평군 함평읍 함평리 157-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "풍성수퍼",
+      "address": "전라남도 함평군 함평읍 기각리 1031",
+      "roadAddress": "전라남도 함평군 함평읍 중앙길 187-35",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "소비자조합",
+      "address": "전라남도 함평군 함평읍 기각리 1019",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "마을수퍼",
+      "address": "전라남도 함평군 함평읍 내교리 430",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "제일문구사",
+      "address": "전라남도 함평군 함평읍 내교리 270",
+      "roadAddress": "전라남도 함평군 함평읍 구룡길 41",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "칠성수퍼",
+      "address": "전라남도 함평군 함평읍 내교리 488",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "지성수퍼",
+      "address": "전라남도 함평군 함평읍 내교리 101-1",
+      "roadAddress": "전라남도 함평군 함평읍 영수길 105",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "알뜰수퍼",
+      "address": "전라남도 함평군 함평읍 내교리 114",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "함평수퍼",
+      "address": "전라남도 함평군 함평읍 내교리 160",
+      "roadAddress": "전라남도 함평군 함평읍 영수길 151",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "성실문구사",
+      "address": "전라남도 함평군 함평읍 내교리 144",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "대일미곡",
+      "address": "전라남도 함평군 함평읍 내교리 209-20",
+      "roadAddress": "전라남도 함평군 함평읍 광남길 108",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "천지식당",
+      "address": "전라남도 함평군 함평읍 내교리 118-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "무안상회",
+      "address": "전라남도 함평군 함평읍 기각리 982",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "신흥수퍼",
+      "address": "전라남도 함평군 함평읍 기각리 1004",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "가람수퍼",
+      "address": "전라남도 함평군 함평읍 기각리 1001",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "제중약국",
+      "address": "전라남도 함평군 함평읍 기각리 966",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "영훈수퍼",
+      "address": "전라남도 함평군 함평읍 기각리 982-22",
+      "roadAddress": "전라남도 함평군 함평읍 영수길 236",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "큰우리수퍼",
+      "address": "전라남도 함평군 함평읍 기각리 897-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "솔식당",
+      "address": "전라남도 함평군 함평읍 기각리 776-5",
+      "roadAddress": "전라남도 함평군 함평읍 기산길 31",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "기산상회",
+      "address": "전라남도 함평군 함평읍 기각리 763",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "기산수퍼",
+      "address": "전라남도 함평군 함평읍 기각리 707",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "리 장",
+      "address": "전라남도 함평군 함평읍 석성리 587-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 함평군 함평읍 장년리 886",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 함평군 함평읍 대덕리 320-2",
+      "roadAddress": "전라남도 함평군 함평읍 남일길 322",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "종합식품",
+      "address": "전라남도 함평군 손불면 대전리 652-2",
+      "roadAddress": "전라남도 함평군 손불면 손불중앙길 42",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "손불농협협동조합",
+      "address": "전라남도 함평군 손불면 대전리 652-2",
+      "roadAddress": "전라남도 함평군 손불면 손불중앙길 42",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "축협연쇄점",
+      "address": "전라남도 함평군 손불면 대전리 445",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "새마을상회",
+      "address": "전라남도 함평군 손불면 대전리 296",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "목포상회",
+      "address": "전라남도 함평군 손불면 대전리 362",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "현대상회",
+      "address": "전라남도 함평군 손불면 대전리 651",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "진숙수퍼",
+      "address": "전라남도 함평군 신광면 백운리 387",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "버드나무수퍼",
+      "address": "전라남도 함평군 신광면 월암리 241-1",
+      "roadAddress": "전라남도 함평군 신광면 신광중앙길 100",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "신광약업사",
+      "address": "전라남도 함평군 신광면 백운리 383",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "신광축산계연쇄점",
+      "address": "전라남도 함평군 신광면 백운리 371",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "사거1리 부녀회",
+      "address": "전라남도 함평군 학교면 사거리 471-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "학교식품가게",
+      "address": "전라남도 함평군 학교면 학교리 449-7",
+      "roadAddress": "전라남도 함평군 학교면 학다리길 354",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "학교문구사",
+      "address": "전라남도 함평군 학교면 사거리 467",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "평화수퍼",
+      "address": "전라남도 함평군 학교면 사거리 634-3",
+      "roadAddress": "전라남도 함평군 학교면 학교길 24",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "사거리 수퍼",
+      "address": "전라남도 함평군 학교면 사거리 634",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "학교농협협동조합",
+      "address": "전라남도 함평군 학교면 학교리 878-65",
+      "roadAddress": "전라남도 함평군 학교면 학다리길 313",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "해남상회",
+      "address": "전라남도 함평군 학교면 학교리 484-2",
+      "roadAddress": "전라남도 함평군 학교면 큰동네길 2",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "학교식품",
+      "address": "전라남도 함평군 학교면 사거리 471-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "새마을상회",
+      "address": "전라남도 함평군 학교면 학교리 878",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "대흥수퍼",
+      "address": "전라남도 함평군 학교면 학교리 878-55",
+      "roadAddress": "전라남도 함평군 학교면 학다리길 264",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "영진수퍼",
+      "address": "전라남도 함평군 학교면 사거리 718",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "서울상회",
+      "address": "전라남도 함평군 학교면 사거리 991",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "오복상회",
+      "address": "전라남도 함평군 엄다면 엄다리 824",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "엄다수퍼",
+      "address": "전라남도 함평군 엄다면 엄다리 831-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "창신사",
+      "address": "전라남도 함평군 엄다면 엄다리 747",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "삼거리수퍼",
+      "address": "전라남도 함평군 엄다면 엄다리 578",
+      "roadAddress": "전라남도 함평군 엄다면 정동길 7-8",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "청동상회",
+      "address": "전라남도 함평군 엄다면 엄다리 719-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "대동농협협동조합연쇄점",
+      "address": "전라남도 함평군 대동면 향교리 908",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 함평군 대동면 향교리 697",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 함평군 대동면 향교리 989",
+      "roadAddress": "전라남도 함평군 대동면 향교길 13",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 함평군 대동면 향교리 889-1",
+      "roadAddress": "전라남도 함평군 대동면 대동길 36",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "대동수퍼",
+      "address": "전라남도 함평군 대동면 향교리 587",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "향교수퍼",
+      "address": "전라남도 함평군 대동면 향교리 591-2",
+      "roadAddress": "전라남도 함평군 대동면 대동길 42-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 함평군 대동면 향교리 644",
+      "roadAddress": "전라남도 함평군 대동면 대동길 54",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "나산농협협동조합",
+      "address": "전라남도 함평군 나산면 삼축리 274-3",
+      "roadAddress": "전라남도 함평군 나산면 나산길 51",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "학생백화점",
+      "address": "전라남도 함평군 나산면 삼축리 387-9",
+      "roadAddress": "전라남도 함평군 나산면 함장로 2440",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "뉴덕산수퍼",
+      "address": "전라남도 함평군 해보면 금덕리 228",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "문장수퍼",
+      "address": "전라남도 함평군 해보면 문장리 822",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "이당약국",
+      "address": "전라남도 함평군 해보면 문장리 822-86",
+      "roadAddress": "전라남도 함평군 해보면 밀재로 1286-2",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "잉꼬신발",
+      "address": "전라남도 함평군 해보면 금덕리 407",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "대한문구사",
+      "address": "전라남도 함평군 해보면 문장리 822-25",
+      "roadAddress": "전라남도 함평군 해보면 해삼로 363",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "대한문구사",
+      "address": "전라남도 함평군 해보면 문장리 822-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "만성상회",
+      "address": "전라남도 함평군 해보면 문장리 822-60",
+      "roadAddress": "전라남도 함평군 해보면 밀재로 1292",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "제일수퍼",
+      "address": "전라남도 함평군 해보면 금덕리 407-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "영광수퍼",
+      "address": "전라남도 함평군 해보면 문장리 822-51",
+      "roadAddress": "전라남도 함평군 해보면 밀재로 1293",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "해보수퍼",
+      "address": "전라남도 함평군 해보면 금덕리 407",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "광명수퍼",
+      "address": "전라남도 함평군 해보면 문장리 829-5",
+      "roadAddress": "전라남도 함평군 해보면 밀재로 1286-34",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "풍년농약사",
+      "address": "전라남도 함평군 해보면 금덕리 407-86",
+      "roadAddress": "전라남도 함평군 해보면 밀재로 1282-2",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "월야정류소수퍼",
+      "address": "전라남도 함평군 월야면 월야리 494-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "월야문구",
+      "address": "전라남도 함평군 월야면 월야리 275",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "월야문구",
+      "address": "전라남도 함평군 월야면 월야리 714",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "장교철물점",
+      "address": "전라남도 함평군 월야면 정산리 595",
+      "roadAddress": "전라남도 함평군 월야면 월야장교길 13",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "형제자전거",
+      "address": "전라남도 함평군 월야면 월야리 427-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "청송지업사",
+      "address": "전라남도 함평군 월야면 월야리 494-43",
+      "roadAddress": "전라남도 함평군 월야면 밀재로 1521",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "제일수퍼",
+      "address": "전라남도 함평군 월야면 월야리 450-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "월야식육점",
+      "address": "전라남도 함평군 월야면 월야리 75",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "월야청과수퍼",
+      "address": "전라남도 함평군 월야면 월야리 713-36",
+      "roadAddress": "전라남도 함평군 월야면 밀재로 1508-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "월야청과수퍼",
+      "address": "전라남도 함평군 월야면 월야리 463-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "장동상회",
+      "address": "전라남도 함평군 월야면 월야리 757",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "외치매점",
+      "address": "전라남도 함평군 월야면 외치리 133",
+      "roadAddress": "전라남도 함평군 월야면 외치길 38-4",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "지변수퍼",
+      "address": "전라남도 함평군 월야면 월악리 854",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "나산수퍼",
+      "address": "전라남도 함평군 나산면 삼축리 343-1",
+      "roadAddress": "전라남도 함평군 나산면 나산길 76",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "나산수퍼",
+      "address": "전라남도 함평군 나산면 삼축리 343-1",
+      "roadAddress": "전라남도 함평군 나산면 나산길 76",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "백운상회",
+      "address": "전라남도 함평군 나산면 삼축리 255-1",
+      "roadAddress": "전라남도 함평군 나산면 나산길 42",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "동아상회",
+      "address": "전라남도 함평군 함평읍 기각리 821-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "동원수퍼",
+      "address": "전라남도 함평군 함평읍 내교리 213",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-15"
+    },
+    {
+      "name": "함평신협",
+      "address": "전라남도 함평군 함평읍 기각리 859-1",
+      "roadAddress": "전라남도 함평군 함평읍 중앙길 179",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "리장",
+      "address": "전라남도 함평군 함평읍 내교리 546-2",
+      "roadAddress": "전라남도 함평군 함평읍 외대화길 5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "리장",
+      "address": "전라남도 함평군 함평읍 수호리 598-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "마을수퍼",
+      "address": "전라남도 함평군 함평읍 수호리 864",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "리장",
+      "address": "전라남도 함평군 함평읍 수호리 884",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "부녀회장",
+      "address": "전라남도 함평군 함평읍 성남리 43",
+      "roadAddress": "전라남도 함평군 함평읍 소등길 25-10",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "부녀회장",
+      "address": "전라남도 함평군 함평읍 성남리 47",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "마을수퍼",
+      "address": "전라남도 함평군 함평읍 자풍리 537",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "리장",
+      "address": "전라남도 함평군 함평읍 자풍리 546-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "마을수퍼",
+      "address": "전라남도 함평군 함평읍 만흥리 550",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "리장",
+      "address": "전라남도 함평군 함평읍 만흥리 16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "마을수퍼",
+      "address": "전라남도 함평군 함평읍 장교리 200",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "리장",
+      "address": "전라남도 함평군 함평읍 장교리 43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "마을수퍼",
+      "address": "전라남도 함평군 함평읍 장교리 43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "마을수퍼",
+      "address": "전라남도 함평군 함평읍 옥산리 267",
+      "roadAddress": "전라남도 함평군 함평읍 흥용길 15-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "마을수퍼",
+      "address": "전라남도 함평군 함평읍 옥산리 275",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "리장",
+      "address": "전라남도 함평군 함평읍 가동리 170",
+      "roadAddress": "전라남도 함평군 함평읍 가동길 13-27",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "마을수퍼",
+      "address": "전라남도 함평군 함평읍 석성리 299",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "마을수퍼",
+      "address": "전라남도 함평군 함평읍 석성리 산 30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "마을수퍼",
+      "address": "전라남도 함평군 함평읍 장년리 23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "리장",
+      "address": "전라남도 함평군 함평읍 장년리 529-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "마을수퍼",
+      "address": "전라남도 함평군 함평읍 진양리 425",
+      "roadAddress": "전라남도 함평군 함평읍 양림길 36-37",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "마을수퍼",
+      "address": "전라남도 함평군 함평읍 진양리 802",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "마을수퍼",
+      "address": "전라남도 함평군 함평읍 대덕리 497",
+      "roadAddress": "전라남도 함평군 함평읍 남일길 219-8",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "월초포상회",
+      "address": "전라남도 함평군 나산면 초포리 620",
+      "roadAddress": "전라남도 함평군 나산면 원초포길 9-6",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "덕림상회",
+      "address": "전라남도 함평군 나산면 덕림리 607",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "왕궁상회",
+      "address": "전라남도 함평군 나산면 수하리 399-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "모정수퍼",
+      "address": "전라남도 함평군 나산면 나산리 635-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "초포수퍼",
+      "address": "전라남도 함평군 나산면 초포리 758",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "이문상회",
+      "address": "전라남도 함평군 나산면 이문리 859",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "송암상회",
+      "address": "전라남도 함평군 나산면 송암리 713",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "대흥식육점",
+      "address": "전라남도 함평군 나산면 용두리 505",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "덕산가게",
+      "address": "전라남도 함평군 학교면 죽정리 1100",
+      "roadAddress": "전라남도 함평군 학교면 덕산길 12-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "석정가게",
+      "address": "전라남도 함평군 학교면 석정리 594",
+      "roadAddress": "전라남도 함평군 학교면 고막천로 123-29",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "새마을가게",
+      "address": "전라남도 함평군 학교면 고막리 112",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "월호가게",
+      "address": "전라남도 함평군 학교면 월호리 53",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "이암가게",
+      "address": "전라남도 함평군 학교면 학교리 631",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "금송식육점",
+      "address": "전라남도 함평군 학교면 금송리 502",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "가게",
+      "address": "전라남도 함평군 학교면 월호리 207",
+      "roadAddress": "전라남도 함평군 학교면 월호길 100-10",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "표산가게",
+      "address": "전라남도 함평군 학교면 마산리 485",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "마을가게",
+      "address": "전라남도 함평군 학교면 마산리 274",
+      "roadAddress": "전라남도 함평군 학교면 학교신기길 14-4",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "복천가게",
+      "address": "전라남도 함평군 학교면 복천리 355",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "복천1구가게",
+      "address": "전라남도 함평군 학교면 복천리 736",
+      "roadAddress": "전라남도 함평군 학교면 두동길 81",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "마을이장집",
+      "address": "전라남도 함평군 학교면 죽정리 838",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "마을이장집",
+      "address": "전라남도 함평군 학교면 죽정리 230",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "제일수퍼",
+      "address": "전라남도 함평군 학교면 사거리 634",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "6일상회",
+      "address": "전라남도 함평군 학교면 금송리 657",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "마을부녀회",
+      "address": "전라남도 함평군 학교면 학교리 145",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    }
+  ]
+}

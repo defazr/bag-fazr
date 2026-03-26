@@ -1,0 +1,2334 @@
+{
+  "region": "전라남도",
+  "regionSlug": "jeonnam",
+  "district": "영암군",
+  "districtSlug": "yeongam",
+  "updatedAt": "2026-03-26",
+  "totalCount": 332,
+  "stores": [
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해남상회",
+      "address": "전라남도 영암군 미암면 채지리 157",
+      "roadAddress": "전라남도 영암군 미암면 비래길 38-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일문구사",
+      "address": "전라남도 영암군 미암면 춘동리 76",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호음가게",
+      "address": "전라남도 영암군 미암면 호포리 455-1",
+      "roadAddress": "전라남도 영암군 미암면 홈실길 13",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신정상회",
+      "address": "전라남도 영암군 미암면 신한리 2구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두억문대식",
+      "address": "전라남도 영암군 미암면 두억리 635",
+      "roadAddress": "전라남도 영암군 미암면 학평장수길 16",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미촌가게",
+      "address": "전라남도 영암군 미암면 미암리 708",
+      "roadAddress": "전라남도 영암군 미암면 곤미현로 1179",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "춘동김삼순",
+      "address": "전라남도 영암군 미암면 춘동리 80",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채지윤충근",
+      "address": "전라남도 영암군 미암면 채지리 558",
+      "roadAddress": "전라남도 영암군 미암면 채지신기길 36",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두억이영헌",
+      "address": "전라남도 영암군 미암면 두억리 산 80-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "당리가게",
+      "address": "전라남도 영암군 미암면 선황리 1091",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선황박양희",
+      "address": "전라남도 영암군 미암면 선황리 708",
+      "roadAddress": "전라남도 영암군 미암면 대초길 34-20",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남산김준용",
+      "address": "전라남도 영암군 미암면 남산리 417",
+      "roadAddress": "전라남도 영암군 미암면 영선길 45",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부암가게",
+      "address": "전라남도 영암군 미암면 남산리 790",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "춘동가게",
+      "address": "전라남도 영암군 미암면 춘동리 340",
+      "roadAddress": "전라남도 영암군 미암면 춘동길 26-8",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "춘동가게",
+      "address": "전라남도 영암군 미암면 춘동리 340",
+      "roadAddress": "전라남도 영암군 미암면 춘동길 26-8",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채지조성춘",
+      "address": "전라남도 영암군 미암면 채지리 724",
+      "roadAddress": "전라남도 영암군 미암면 지종로 128-8",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채지이순임",
+      "address": "전라남도 영암군 미암면 채지리 924",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신한김옥미",
+      "address": "전라남도 영암군 미암면 신한리 35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만하가게",
+      "address": "전라남도 영암군 미암면 신한리 258",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신포박순례",
+      "address": "전라남도 영암군 미암면 신포리 484",
+      "roadAddress": "전라남도 영암군 미암면 기동길 26",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영암축산업협동조합",
+      "address": "전라남도 영암군 영암읍 역리 155-1",
+      "roadAddress": "전라남도 영암군 영암읍 중앙로 66",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서창가게",
+      "address": "전라남도 영암군 삼호읍 서창리 369",
+      "roadAddress": "전라남도 영암군 삼호읍 서창길 14",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원망산구판장",
+      "address": "전라남도 영암군 삼호읍 망산리 617",
+      "roadAddress": "전라남도 영암군 삼호읍 망산길 94-13",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동역구판장",
+      "address": "전라남도 영암군 삼호읍 동호리 345",
+      "roadAddress": "전라남도 영암군 삼호읍 동역로 58-3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "협신상회",
+      "address": "전라남도 영암군 삼호읍 서호리 143-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원서호부녀회",
+      "address": "전라남도 영암군 삼호읍 서호리 311",
+      "roadAddress": "전라남도 영암군 삼호읍 목우천길 97-15",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동암새마을지도자",
+      "address": "전라남도 영암군 삼호읍 산호리 198",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중촌구판장",
+      "address": "전라남도 영암군 삼호읍 산호리 755",
+      "roadAddress": "전라남도 영암군 삼호읍 중촌길 35",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대촌슈퍼",
+      "address": "전라남도 영암군 삼호읍 산호리 895",
+      "roadAddress": "전라남도 영암군 삼호읍 대촌길 16",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대불상회",
+      "address": "전라남도 영암군 삼호읍 나불리 313-1",
+      "roadAddress": "전라남도 영암군 삼호읍 나불외도로 13-3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙촌부녀회",
+      "address": "전라남도 영암군 삼호읍 용앙리 284-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경주슈퍼",
+      "address": "전라남도 영암군 삼호읍 용앙리 대불주단 11-913 122",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕성슈퍼",
+      "address": "전라남도 영암군 삼호읍 용앙리 1006",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "검일부녀회",
+      "address": "전라남도 영암군 삼호읍 난전리 1189",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을구판장",
+      "address": "전라남도 영암군 삼호읍 난전리 873",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영창상회",
+      "address": "전라남도 영암군 삼호읍 삼포리 656",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가내항부녀회",
+      "address": "전라남도 영암군 삼호읍 삼포리 656",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초연상회",
+      "address": "전라남도 영암군 삼호읍 삼포리 509",
+      "roadAddress": "전라남도 영암군 삼호읍 용당로 106-43",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영양상회",
+      "address": "전라남도 영암군 삼호읍 용당리 822-1",
+      "roadAddress": "전라남도 영암군 삼호읍 모밀항길 61",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유선장매점",
+      "address": "전라남도 영암군 삼호읍 나불리 143",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리상회",
+      "address": "전라남도 영암군 삼호읍 용앙리 206-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "저두상회",
+      "address": "전라남도 영암군 삼호읍 난전리 182",
+      "roadAddress": "전라남도 영암군 삼호읍 저두길 134-4",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "난대상회",
+      "address": "전라남도 영암군 삼호읍 난전리 558",
+      "roadAddress": "전라남도 영암군 삼호읍 관광레저로 2816-13",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대동골가게",
+      "address": "전라남도 영암군 삼호읍 삼포리 1036-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금일슈퍼",
+      "address": "전라남도 영암군 삼호읍 용당리 483-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "전라남도 영암군 삼호읍 용당리 483",
+      "roadAddress": "전라남도 영암군 삼호읍 용당로 321",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "공항슈퍼",
+      "address": "전라남도 영암군 삼호읍 용당리 565",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호슈퍼",
+      "address": "전라남도 영암군 삼호읍 용앙리 379-11",
+      "roadAddress": "전라남도 영암군 삼호읍 삼호중앙로 167",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아파트상회",
+      "address": "전라남도 영암군 삼호읍 용당리 417",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서창슈퍼",
+      "address": "전라남도 영암군 삼호읍 서창리 876",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백야부녀회",
+      "address": "전라남도 영암군 삼호읍 동호리 381",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신정가게",
+      "address": "전라남도 영암군 삼호읍 서호리 501",
+      "roadAddress": "전라남도 영암군 삼호읍 원서호길 50-20",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한라축산물판매장",
+      "address": "전라남도 영암군 삼호읍 용당리 한라아파트 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고흥슈퍼",
+      "address": "전라남도 영암군 삼호읍 용당리 아산 383-1",
+      "roadAddress": "전라남도 영암군 삼호읍 아산길 32",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼호터미널슈퍼",
+      "address": "전라남도 영암군 삼호읍 용앙리 12",
+      "roadAddress": "전라남도 영암군 삼호읍 삼호중앙로 242",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "흥진상회",
+      "address": "전라남도 영암군 삼호읍 용앙리 321-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개발상회",
+      "address": "전라남도 영암군 삼호읍 삼포리 607",
+      "roadAddress": "전라남도 영암군 삼호읍 중하촌길 47",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국기프코",
+      "address": "전라남도 영암군 삼호읍 용당리 1700",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동암상회",
+      "address": "전라남도 영암군 삼호읍 산호리 200",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산호주택관리사무소",
+      "address": "전라남도 영암군 삼호읍 산호리 101-36",
+      "roadAddress": "전라남도 영암군 삼호읍 녹색로 1126-13",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운동장매점",
+      "address": "전라남도 영암군 삼호읍 나불리 106",
+      "roadAddress": "전라남도 영암군 삼호읍 나불도길 23-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "야영장매점",
+      "address": "전라남도 영암군 삼호읍 나불리 276",
+      "roadAddress": "전라남도 영암군 삼호읍 나불외도로 85-26",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한라삼차슈퍼",
+      "address": "전라남도 영암군 삼호읍 용당리 한라3차아파트상가101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한라필드제지구내매점",
+      "address": "전라남도 영암군 삼호읍 난전리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "나불도편의점",
+      "address": "전라남도 영암군 삼호읍 나불리 302-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호종합편의점",
+      "address": "전라남도 영암군 삼호읍 용앙리 1680-1",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거로 163",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호마트",
+      "address": "전라남도 영암군 삼호읍 용앙리 지내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종원마트",
+      "address": "전라남도 영암군 삼호읍 용앙리 222-9",
+      "roadAddress": "전라남도 영암군 삼호읍 세가래1길 17",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주봉마트",
+      "address": "전라남도 영암군 삼호읍 용앙리 종원 아파트앞",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용당슈퍼",
+      "address": "전라남도 영암군 삼호읍 용당리 483-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화영상회",
+      "address": "전라남도 영암군 삼호읍 용당리 411-39",
+      "roadAddress": "전라남도 영암군 삼호읍 아산길 38",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고흥슈퍼",
+      "address": "전라남도 영암군 삼호읍 용당리 아산 383-1",
+      "roadAddress": "전라남도 영암군 삼호읍 아산길 32",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼호빌리지마트",
+      "address": "전라남도 영암군 삼호읍 용앙리 삼호빌리지마트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새천년슈퍼",
+      "address": "전라남도 영암군 삼호읍 용당리 1545-5",
+      "roadAddress": "전라남도 영암군 삼호읍 신항로 24-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "치킨마트",
+      "address": "전라남도 영암군 삼호읍 산호리 282-2",
+      "roadAddress": "전라남도 영암군 삼호읍 신호정길 20-99",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "교동가게",
+      "address": "전라남도 영암군 영암읍 교동리 입구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "학동구멍가게",
+      "address": "전라남도 영암군 신북면 학동리 428-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양계리농기계",
+      "address": "전라남도 영암군 신북면 양계리 151",
+      "roadAddress": "전라남도 영암군 신북면 금동길 25-30",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구산구멍가게",
+      "address": "전라남도 영암군 시종면 구산리 1179",
+      "roadAddress": "전라남도 영암군 시종면 구산로 57",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "육일상회",
+      "address": "전라남도 영암군 서호면 장천리 475",
+      "roadAddress": "전라남도 영암군 서호면 서호로 300",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용산상회",
+      "address": "전라남도 영암군 학산면 용산리 510",
+      "roadAddress": "전라남도 영암군 학산면 용산길 7-7",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아천상회",
+      "address": "전라남도 영암군 학산면 용산리 945-3",
+      "roadAddress": "전라남도 영암군 학산면 신복길 3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용소상회",
+      "address": "전라남도 영암군 학산면 용소리 490",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아슈퍼",
+      "address": "전라남도 영암군 학산면 독천리 164-7",
+      "roadAddress": "전라남도 영암군 학산면 영산로 52",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리마트",
+      "address": "전라남도 영암군 삼호읍 용앙리 1642-12",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거9로 92",
+      "status": "영업/정상",
+      "licenseDate": "2008-02-20"
+    },
+    {
+      "name": "콤비푠의점낚시",
+      "address": "전라남도 영암군 삼호읍 난전리 1685-38",
+      "roadAddress": "전라남도 영암군 삼호읍 대불로 757",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-11"
+    },
+    {
+      "name": "GS25 대불공단점",
+      "address": "전라남도 영암군 삼호읍 나불리 338-6",
+      "roadAddress": "전라남도 영암군 삼호읍 나불로 202",
+      "status": "영업/정상",
+      "licenseDate": "2013-06-17"
+    },
+    {
+      "name": "한주유통",
+      "address": "전라남도 영암군 삼호읍 난전리 1691-8",
+      "roadAddress": "전라남도 영암군 삼호읍 대불산단6로 317",
+      "status": "영업/정상",
+      "licenseDate": "2008-07-08"
+    },
+    {
+      "name": "미니스톱대불산단점",
+      "address": "전라남도 영암군 삼호읍 나불리 604-14",
+      "roadAddress": "전라남도 영암군 삼호읍 대불산단1로 166",
+      "status": "영업/정상",
+      "licenseDate": "2013-11-28"
+    },
+    {
+      "name": "개미마트",
+      "address": "전라남도 영암군 삼호읍 용앙리 1647-10",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거7로10길 5",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-07"
+    },
+    {
+      "name": "드림마트",
+      "address": "전라남도 영암군 영암읍 춘양리 101-807",
+      "roadAddress": "전라남도 영암군 영암읍 잠곡동1길 420",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-29"
+    },
+    {
+      "name": "GS25 대불자유점",
+      "address": "전라남도 영암군 삼호읍 나불리 611-11",
+      "roadAddress": "전라남도 영암군 삼호읍 자유무역로 205",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-28"
+    },
+    {
+      "name": "훼미리마트대불항점",
+      "address": "전라남도 영암군 삼호읍 난전리 1685-39",
+      "roadAddress": "전라남도 영암군 삼호읍 대불로 753",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-10"
+    },
+    {
+      "name": "훼미리마트 대불할인점",
+      "address": "전라남도 영암군 삼호읍 나불리 335-8",
+      "roadAddress": "전라남도 영암군 삼호읍 대불산단4로 308",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-24"
+    },
+    {
+      "name": "GS25 대불타운점",
+      "address": "전라남도 영암군 삼호읍 용앙리 1661-6",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거5로1길 3",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-24"
+    },
+    {
+      "name": "GS25 대불자유점",
+      "address": "전라남도 영암군 삼호읍 나불리 611-11",
+      "roadAddress": "전라남도 영암군 삼호읍 자유무역로 205",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-23"
+    },
+    {
+      "name": "서진마트",
+      "address": "전라남도 영암군 영암읍 역리 146",
+      "roadAddress": "전라남도 영암군 영암읍 동문밖길 21",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-31"
+    },
+    {
+      "name": "GS25 대불산단점",
+      "address": "전라남도 영암군 삼호읍 나불리 604-16",
+      "roadAddress": "전라남도 영암군 삼호읍 소등로 151",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-28"
+    },
+    {
+      "name": "대한중공업구내매점",
+      "address": "전라남도 영암군 삼호읍 난전리 1712-1 대불공단",
+      "roadAddress": "전라남도 영암군 삼호읍 용앙로 290  (대불공단)",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-21"
+    },
+    {
+      "name": "아시아마트",
+      "address": "전라남도 영암군 삼호읍 용앙리 1661-5",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거5로1길 5",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-21"
+    },
+    {
+      "name": "영산호농업박물관매점",
+      "address": "전라남도 영암군 삼호읍 나불리 307",
+      "roadAddress": "전라남도 영암군 삼호읍 녹색로 653-15",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-07"
+    },
+    {
+      "name": "혜성마트",
+      "address": "전라남도 영암군 삼호읍 용앙리 1696-18",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거1로16길 22",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-15"
+    },
+    {
+      "name": "금정농협하나로마트",
+      "address": "전라남도 영암군 금정면 용흥리 1184-4",
+      "roadAddress": "전라남도 영암군 금정면 용두로 24",
+      "status": "영업/정상",
+      "licenseDate": "2009-10-21"
+    },
+    {
+      "name": "캡슐편의점",
+      "address": "전라남도 영암군 삼호읍 용앙리 1651-14 대불금호아파트",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거9로 16  (대불금호아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2009-10-28"
+    },
+    {
+      "name": "삼호슈퍼",
+      "address": "전라남도 영암군 삼호읍 삼포리 1015-3",
+      "roadAddress": "전라남도 영암군 삼호읍 대불로 96-5",
+      "status": "영업/정상",
+      "licenseDate": "2009-02-12"
+    },
+    {
+      "name": "1차마트",
+      "address": "전라남도 영암군 삼호읍 용당리 2174-1",
+      "roadAddress": "전라남도 영암군 삼호읍 신항로 135-53",
+      "status": "영업/정상",
+      "licenseDate": "2009-02-12"
+    },
+    {
+      "name": "한양마트",
+      "address": "전라남도 영암군 삼호읍 용앙리 405-4",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거로 81-15",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-12"
+    },
+    {
+      "name": "청송편의점",
+      "address": "전라남도 영암군 삼호읍 용앙리 1700-3",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거1로18길 15",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-26"
+    },
+    {
+      "name": "세븐일레븐 영암삼호현대점",
+      "address": "전라남도 영암군 삼호읍 용당리 1853-3",
+      "roadAddress": "전라남도 영암군 삼호읍 신항로 118",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-07"
+    },
+    {
+      "name": "대불마트",
+      "address": "전라남도 영암군 삼호읍 용앙리 1664-1",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거7로 3",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-07"
+    },
+    {
+      "name": "기찬랜드 매점",
+      "address": "전라남도 영암군 영암읍 회문리 91-1",
+      "roadAddress": "전라남도 영암군 영암읍 기찬랜드로 19-3",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-02"
+    },
+    {
+      "name": "삼성마트",
+      "address": "전라남도 영암군 삼호읍 용앙리 1678-1",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거2로2길 2",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-07"
+    },
+    {
+      "name": "한주유통",
+      "address": "전라남도 영암군 삼호읍 난전리 1691-8",
+      "roadAddress": "전라남도 영암군 삼호읍 대불산단6로 317",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-19"
+    },
+    {
+      "name": "석기시대매점",
+      "address": "전라남도 영암군 삼호읍 용앙리 675-8",
+      "roadAddress": "전라남도 영암군 삼호읍 용앙로 83",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-19"
+    },
+    {
+      "name": "GS25 삼호주공점",
+      "address": "전라남도 영암군 삼호읍 용앙리 213-5",
+      "roadAddress": "전라남도 영암군 삼호읍 삼호중앙로 215",
+      "status": "영업/정상",
+      "licenseDate": "2009-12-03"
+    },
+    {
+      "name": "삼호주공마트",
+      "address": "전라남도 영암군 삼호읍 용앙리 1736",
+      "roadAddress": "전라남도 영암군 삼호읍 삼호중앙로 214",
+      "status": "영업/정상",
+      "licenseDate": "2010-01-05"
+    },
+    {
+      "name": "삼호할인마트",
+      "address": "전라남도 영암군 삼호읍 용앙리 180-12",
+      "roadAddress": "전라남도 영암군 삼호읍 삼호중앙로 204-14",
+      "status": "영업/정상",
+      "licenseDate": "2009-12-16"
+    },
+    {
+      "name": "미니스톱 영암삼호점",
+      "address": "전라남도 영암군 삼호읍 용당리 1870",
+      "roadAddress": "전라남도 영암군 삼호읍 신촌길 2",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-15"
+    },
+    {
+      "name": "월드마트1호점",
+      "address": "전라남도 영암군 삼호읍 용앙리 1645-8",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거7로1길 9",
+      "status": "영업/정상",
+      "licenseDate": "2010-01-05"
+    },
+    {
+      "name": "월드마트2호점",
+      "address": "전라남도 영암군 삼호읍 용앙리 1684-24",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거1로6길 34",
+      "status": "영업/정상",
+      "licenseDate": "2010-01-05"
+    },
+    {
+      "name": "운동장마트",
+      "address": "전라남도 영암군 삼호읍 용앙리 1649-1",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거7로6길 13",
+      "status": "영업/정상",
+      "licenseDate": "2010-04-13"
+    },
+    {
+      "name": "미니스톱 대불항점",
+      "address": "전라남도 영암군 삼호읍 난전리 1691-7",
+      "roadAddress": "전라남도 영암군 삼호읍 대불산단6로 321",
+      "status": "영업/정상",
+      "licenseDate": "2010-09-24"
+    },
+    {
+      "name": "훼미리마트 대불산단점",
+      "address": "전라남도 영암군 삼호읍 나불리 606-11",
+      "roadAddress": "전라남도 영암군 삼호읍 소등로 175",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-16"
+    },
+    {
+      "name": "커피향기",
+      "address": "전라남도 영암군 영암읍 회문리 417-4",
+      "roadAddress": "전라남도 영암군 영암읍 기찬랜드로 16",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-12"
+    },
+    {
+      "name": "천원낚시",
+      "address": "전라남도 영암군 삼호읍 난전리 1685-33",
+      "roadAddress": "전라남도 영암군 삼호읍 대불로 763",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-06"
+    },
+    {
+      "name": "미니스톱 현대삼호점",
+      "address": "전라남도 영암군 삼호읍 용당리 2175-2",
+      "roadAddress": "전라남도 영암군 삼호읍 신항로 135-29",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-21"
+    },
+    {
+      "name": "한-베마트",
+      "address": "전라남도 영암군 삼호읍 용앙리 1683-1",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거1로9길 44",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-08"
+    },
+    {
+      "name": "미니스톱 영암금호점",
+      "address": "전라남도 영암군 삼호읍 용앙리 1680-1",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거로 163",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-17"
+    },
+    {
+      "name": "GS25 영암신북점",
+      "address": "전라남도 영암군 신북면 월평리 127-4",
+      "roadAddress": "전라남도 영암군 신북면 황금동로 73",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-22"
+    },
+    {
+      "name": "포시즌마트",
+      "address": "전라남도 영암군 삼호읍 산호리 863-2",
+      "roadAddress": "전라남도 영암군 삼호읍 녹색로 836",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-10"
+    },
+    {
+      "name": "훼미리마트 삼호중앙점",
+      "address": "전라남도 영암군 삼호읍 용앙리 313-27",
+      "roadAddress": "전라남도 영암군 삼호읍 삼호중앙로 139",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-02"
+    },
+    {
+      "name": "무지개마트",
+      "address": "전라남도 영암군 삼호읍 용앙리 1640-1",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거로 207",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-18"
+    },
+    {
+      "name": "미니스톱 대불타운점",
+      "address": "전라남도 영암군 삼호읍 용앙리 1697-12",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거1로9길 35",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-27"
+    },
+    {
+      "name": "주공2차마트",
+      "address": "전라남도 영암군 삼호읍 용앙리 193-2 영암용앙2휴먼시상단지내상가 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-27"
+    },
+    {
+      "name": "세븐일레븐 영암삼호조선소점",
+      "address": "전라남도 영암군 삼호읍 삼포리 1014-31",
+      "roadAddress": "전라남도 영암군 삼호읍 대불로 96-4",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-14"
+    },
+    {
+      "name": "삼호농협 하나로마트",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 삼호중앙로 175",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-10"
+    },
+    {
+      "name": "상상편의점",
+      "address": "전라남도 영암군 삼호읍 용앙리 16-46",
+      "roadAddress": "전라남도 영암군 삼호읍 녹색로 1096",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-29"
+    },
+    {
+      "name": "미니스톱 영암대불점",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거7로7길 19",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-04"
+    },
+    {
+      "name": "롯데쇼핑(주)롯데슈퍼",
+      "address": "전라남도 영암군 삼호읍 용당리 2178-2",
+      "roadAddress": "전라남도 영암군 삼호읍 신항로 63-12",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-01"
+    },
+    {
+      "name": "동원생물서부총판",
+      "address": "전라남도 영암군 삼호읍 나불리 604-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-11"
+    },
+    {
+      "name": "동아중국식품",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거1로1길 21",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-16"
+    },
+    {
+      "name": "복지슈퍼",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 신항로 122",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-05"
+    },
+    {
+      "name": "영산호슈퍼",
+      "address": "전라남도 영암군 삼호읍 나불리 314",
+      "roadAddress": "전라남도 영암군 삼호읍 나불외도로 13-13",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-25"
+    },
+    {
+      "name": "야미마트",
+      "address": "전라남도 영암군 삼호읍 용앙리 1689-12",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거1로9길 18",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-06"
+    },
+    {
+      "name": "아웃렛마트",
+      "address": "전라남도 영암군 삼호읍 용당리 2183",
+      "roadAddress": "전라남도 영암군 삼호읍 모밀항길 39-18",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-24"
+    },
+    {
+      "name": "미니스톱 삼호으뜸점",
+      "address": "전라남도 영암군 삼호읍 용앙리 407-31",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거로 51",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-07"
+    },
+    {
+      "name": "흥용중국식품",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거7로5길 11",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-15"
+    },
+    {
+      "name": "미니스톱 삼호주공점",
+      "address": "전라남도 영암군 삼호읍 용앙리 171-2",
+      "roadAddress": "전라남도 영암군 삼호읍 삼호중앙로 202",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-03"
+    },
+    {
+      "name": "풀할인마트",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 녹색로 1117-67",
+      "status": "영업/정상",
+      "licenseDate": "2013-06-03"
+    },
+    {
+      "name": "주식회사 영암마트",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 신항로 88-1",
+      "status": "영업/정상",
+      "licenseDate": "2013-06-18"
+    },
+    {
+      "name": "기찬랜드2호매점",
+      "address": "전라남도 영암군 영암읍 회문리 91",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2013-06-26"
+    },
+    {
+      "name": "미니스톱 대불공단점",
+      "address": "전라남도 영암군 삼호읍 나불리 335-1",
+      "roadAddress": "전라남도 영암군 삼호읍 소등로 2",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-14"
+    },
+    {
+      "name": "늘푸른슈퍼",
+      "address": "",
+      "roadAddress": "전라남도 영암군 영암읍 여중고길 10",
+      "status": "영업/정상",
+      "licenseDate": "2013-08-11"
+    },
+    {
+      "name": "용마트",
+      "address": "전라남도 영암군 삼호읍 용앙리 1651-6",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거7로13길 5",
+      "status": "영업/정상",
+      "licenseDate": "2013-10-03"
+    },
+    {
+      "name": "뉴수영낚시편의점",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 신항로 24",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-09"
+    },
+    {
+      "name": "정훈마트",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거7로6길 14",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-21"
+    },
+    {
+      "name": "행복마트",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거7로10길 6",
+      "status": "영업/정상",
+      "licenseDate": "2014-10-28"
+    },
+    {
+      "name": "롯데영암마트",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거7로14길 6",
+      "status": "영업/정상",
+      "licenseDate": "2014-12-15"
+    },
+    {
+      "name": "현대종합마트",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거5로4길 15",
+      "status": "영업/정상",
+      "licenseDate": "2015-03-31"
+    },
+    {
+      "name": "필리핀가게",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거5로4길 15",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-27"
+    },
+    {
+      "name": "영암마트",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거로 183",
+      "status": "영업/정상",
+      "licenseDate": "2015-03-31"
+    },
+    {
+      "name": "아시아마트",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 신항로 96-3",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-16"
+    },
+    {
+      "name": "캄보디아더홈",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거5로 27",
+      "status": "영업/정상",
+      "licenseDate": "2017-08-21"
+    },
+    {
+      "name": "어울림마트",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거로 160 (금호타운)",
+      "status": "영업/정상",
+      "licenseDate": "2015-10-13"
+    },
+    {
+      "name": "상해중국식품마트",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거7로6길 14",
+      "status": "영업/정상",
+      "licenseDate": "2017-10-23"
+    },
+    {
+      "name": "세븐일레븐 영암독천터미널점",
+      "address": "",
+      "roadAddress": "전라남도 영암군 학산면 영산로 6 (독천공용버스터미널)",
+      "status": "영업/정상",
+      "licenseDate": "2015-12-04"
+    },
+    {
+      "name": "웰빙1000",
+      "address": "",
+      "roadAddress": "전라남도 영암군 영암읍 중앙로 58-2",
+      "status": "영업/정상",
+      "licenseDate": "2017-03-03"
+    },
+    {
+      "name": "미니스톱삼호중흥점",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거1로10길 27",
+      "status": "영업/정상",
+      "licenseDate": "2016-05-09"
+    },
+    {
+      "name": "GS25영암시종점",
+      "address": "",
+      "roadAddress": "전라남도 영암군 시종면 쌍구길 6",
+      "status": "영업/정상",
+      "licenseDate": "2017-07-27"
+    },
+    {
+      "name": "롯데슈퍼영암삼호가맹점",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거로 55-1 (서준빌딩)",
+      "status": "영업/정상",
+      "licenseDate": "2017-08-23"
+    },
+    {
+      "name": "GS25 영암학산점",
+      "address": "",
+      "roadAddress": "전라남도 영암군 학산면 독천로 194",
+      "status": "영업/정상",
+      "licenseDate": "2017-09-07"
+    },
+    {
+      "name": "CU영암시종점",
+      "address": "",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1274",
+      "status": "영업/정상",
+      "licenseDate": "2017-09-08"
+    },
+    {
+      "name": "더줌마트",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 삼호중앙로 221",
+      "status": "영업/정상",
+      "licenseDate": "2017-09-20"
+    },
+    {
+      "name": "렉시안마트",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 대불주거8로 55 (영암대불렉시안아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2016-10-07"
+    },
+    {
+      "name": "미니스톱 영암읍내점",
+      "address": "",
+      "roadAddress": "전라남도 영암군 영암읍 중앙로 14",
+      "status": "영업/정상",
+      "licenseDate": "2016-11-23"
+    },
+    {
+      "name": "우리동네생활용품점",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 신항로 1",
+      "status": "영업/정상",
+      "licenseDate": "2016-12-01"
+    },
+    {
+      "name": "월출산농협하나로마트 시종점",
+      "address": "",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1258 (하나로마트)",
+      "status": "영업/정상",
+      "licenseDate": "2017-01-09"
+    },
+    {
+      "name": "영암축협하나로마트",
+      "address": "",
+      "roadAddress": "전라남도 영암군 영암읍 월출로 6",
+      "status": "영업/정상",
+      "licenseDate": "2017-01-10"
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "",
+      "roadAddress": "전라남도 영암군 삼호읍 세가래2길 27, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2017-05-08"
+    },
+    {
+      "name": "세븐일레븐 영암무등점",
+      "address": "",
+      "roadAddress": "전라남도 영암군 영암읍 성밖로 18 (영암무등파크맨션)",
+      "status": "영업/정상",
+      "licenseDate": "2017-05-12"
+    },
+    {
+      "name": "회촌상점",
+      "address": "전라남도 영암군 영암읍 회문리 220-19",
+      "roadAddress": "전라남도 영암군 영암읍 회의촌길 9-5",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-31"
+    },
+    {
+      "name": "동아문구",
+      "address": "전라남도 영암군 영암읍 회문리 231",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-03"
+    },
+    {
+      "name": "무등슈퍼",
+      "address": "전라남도 영암군 영암읍 교동리 45",
+      "roadAddress": "전라남도 영암군 영암읍 성밖로 18",
+      "status": "영업/정상",
+      "licenseDate": "2009-02-15"
+    },
+    {
+      "name": "교동상점",
+      "address": "전라남도 영암군 영암읍 교동리 282",
+      "roadAddress": "전라남도 영암군 영암읍 교동로 78-1",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-07"
+    },
+    {
+      "name": "교육청입구",
+      "address": "전라남도 영암군 영암읍 서남리 65-2",
+      "roadAddress": "전라남도 영암군 영암읍 서문로 6",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "임영금",
+      "address": "전라남도 영암군 영암읍 서남리 85",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "전라남도 영암군 영암읍 서남리 103",
+      "roadAddress": "전라남도 영암군 영암읍 남문안길 7",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-28"
+    },
+    {
+      "name": "모모슈퍼",
+      "address": "전라남도 영암군 영암읍 동무리 47-10",
+      "roadAddress": "전라남도 영암군 영암읍 열무정로 38",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오일(호남슈퍼)",
+      "address": "전라남도 영암군 영암읍 동무리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-21"
+    },
+    {
+      "name": "민경이네슈퍼",
+      "address": "전라남도 영암군 영암읍 동무리 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "낭주상회",
+      "address": "전라남도 영암군 영암읍 동무리 137-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을슈퍼",
+      "address": "전라남도 영암군 영암읍 동무리 142",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-12"
+    },
+    {
+      "name": "대화상회",
+      "address": "전라남도 영암군 영암읍 동무리 144",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-14"
+    },
+    {
+      "name": "원일슈퍼",
+      "address": "전라남도 영암군 영암읍 회문리 165-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백년슈퍼",
+      "address": "전라남도 영암군 영암읍 역리 199-6",
+      "roadAddress": "전라남도 영암군 영암읍 백년동길 8-3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연쇄점",
+      "address": "전라남도 영암군 영암읍 역리 290",
+      "roadAddress": "전라남도 영암군 영암읍 웃시암길 5",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남부슈퍼",
+      "address": "전라남도 영암군 영암읍 남풍리 146",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-11-24"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 영암군 영암읍 춘양리 470",
+      "roadAddress": "전라남도 영암군 영암읍 잠곡동2길 34",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산악인의집",
+      "address": "전라남도 영암군 영암읍 대신리 413",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송계부녀회",
+      "address": "전라남도 영암군 영암읍 송평리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대신구판장",
+      "address": "전라남도 영암군 영암읍 대신리 316",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "녹암슈퍼",
+      "address": "전라남도 영암군 영암읍 회문리 496",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홈웨이",
+      "address": "전라남도 영암군 영암읍 서남리 16",
+      "roadAddress": "전라남도 영암군 영암읍 남문로 1",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-27"
+    },
+    {
+      "name": "대광상회",
+      "address": "전라남도 영암군 영암읍 서남리 19-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배상회",
+      "address": "전라남도 영암군 영암읍 서남리 66-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-22"
+    },
+    {
+      "name": "전남상회",
+      "address": "전라남도 영암군 영암읍 동무리 107-2",
+      "roadAddress": "전라남도 영암군 영암읍 중앙로 53-2",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-02"
+    },
+    {
+      "name": "인성슈퍼",
+      "address": "전라남도 영암군 영암읍 역리 162-8",
+      "roadAddress": "전라남도 영암군 영암읍 중앙로 84-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영암파크매점",
+      "address": "전라남도 영암군 영암읍 역리 183-4",
+      "roadAddress": "전라남도 영암군 영암읍 백년동길 22-8",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리문구사",
+      "address": "전라남도 영암군 영암읍 회문리 241-5",
+      "roadAddress": "전라남도 영암군 영암읍 영암초중고길 16",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "칠성상회",
+      "address": "전라남도 영암군 영암읍 교동리 340",
+      "roadAddress": "전라남도 영암군 영암읍 교동로 93",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "교동가게",
+      "address": "전라남도 영암군 영암읍 교동리 입구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "낭자슈퍼",
+      "address": "전라남도 영암군 영암읍 역리 161-2",
+      "roadAddress": "전라남도 영암군 영암읍 동문로 84",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유풍상회",
+      "address": "전라남도 영암군 영암읍 동무리 106-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원마트",
+      "address": "전라남도 영암군 영암읍 서남리 41-1",
+      "roadAddress": "전라남도 영암군 영암읍 서문로 12",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-12"
+    },
+    {
+      "name": "상록수매점",
+      "address": "전라남도 영암군 영암읍 역리 185-1",
+      "roadAddress": "전라남도 영암군 영암읍 백년동길 22-8",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에이(A)마트",
+      "address": "전라남도 영암군 영암읍 역리 277",
+      "roadAddress": "전라남도 영암군 영암읍 중앙로 73",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕진농업협동조합",
+      "address": "전라남도 영암군 덕진면 덕진리 210-1",
+      "roadAddress": "전라남도 영암군 덕진면 내촌길 18-8",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕진농협영보분소",
+      "address": "전라남도 영암군 덕진면 덕진리 210-1",
+      "roadAddress": "전라남도 영암군 덕진면 내촌길 18-8",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운암상회",
+      "address": "전라남도 영암군 덕진면 운암리 74",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕진정유소슈퍼",
+      "address": "전라남도 영암군 덕진면 덕진리 205-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태평상회",
+      "address": "전라남도 영암군 덕진면 금강리 745",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장선상회",
+      "address": "전라남도 영암군 덕진면 장선리 651",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연산상회",
+      "address": "전라남도 영암군 금정면 연보리 406-1",
+      "roadAddress": "전라남도 영암군 금정면 여운재로 817-2",
+      "status": "영업/정상",
+      "licenseDate": "2009-10-11"
+    },
+    {
+      "name": "영신상회",
+      "address": "전라남도 영암군 금정면 아천리 279-8",
+      "roadAddress": "전라남도 영암군 금정면 부월길 13",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "취정금고구판장",
+      "address": "전라남도 영암군 금정면 월평리 620-4",
+      "roadAddress": "전라남도 영암군 금정면 영나로 996",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금대정유소슈퍼",
+      "address": "전라남도 영암군 금정면 와운리 1158-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원안노구판장",
+      "address": "전라남도 영암군 금정면 안노리 965-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대창슈퍼",
+      "address": "전라남도 영암군 금정면 용흥리 1191-17",
+      "roadAddress": "전라남도 영암군 금정면 용두로 13-2",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세흥상회",
+      "address": "전라남도 영암군 금정면 용흥리 627-3",
+      "roadAddress": "전라남도 영암군 금정면 안기길 2",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남송상회",
+      "address": "전라남도 영암군 금정면 남송리 718-14",
+      "roadAddress": "전라남도 영암군 금정면 남송길 17-2",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "저작상회",
+      "address": "전라남도 영암군 금정면 연소리 89-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동산상회",
+      "address": "전라남도 영암군 금정면 청용리 915-6",
+      "roadAddress": "전라남도 영암군 금정면 내산로 821",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세류구판장",
+      "address": "전라남도 영암군 금정면 세류리 297",
+      "roadAddress": "전라남도 영암군 금정면 궁성길 18-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "전라남도 영암군 신북면 월평리 127-4",
+      "roadAddress": "전라남도 영암군 신북면 황금동로 73",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리문구사",
+      "address": "전라남도 영암군 신북면 월평리 127-4",
+      "roadAddress": "전라남도 영암군 신북면 황금동로 73",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "전라남도 영암군 신북면 월평리 150-1",
+      "roadAddress": "전라남도 영암군 신북면 간은정로 18-1",
+      "status": "영업/정상",
+      "licenseDate": "2009-12-01"
+    },
+    {
+      "name": "신북농업혐동조합",
+      "address": "전라남도 영암군 신북면 월평리 162-4",
+      "roadAddress": "전라남도 영암군 신북면 간은정로 32",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신북슈퍼",
+      "address": "전라남도 영암군 신북면 월평리 14",
+      "roadAddress": "전라남도 영암군 신북면 간은정로 57-10",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보해슈퍼",
+      "address": "전라남도 영암군 신북면 월평리 34-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정류소슈퍼",
+      "address": "전라남도 영암군 신북면 월평리 34-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마트클럽",
+      "address": "전라남도 영암군 신북면 월평리 111-25",
+      "roadAddress": "전라남도 영암군 신북면 황금동로 59-2",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-19"
+    },
+    {
+      "name": "마을구멍가게",
+      "address": "전라남도 영암군 시종면 신흥리 938",
+      "roadAddress": "전라남도 영암군 시종면 월롱길 42",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시종슈퍼",
+      "address": "전라남도 영암군 시종면 내동리 12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제상회",
+      "address": "전라남도 영암군 시종면 만수리 935",
+      "roadAddress": "전라남도 영암군 시종면 쌍구길 15",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "나영소비자매점",
+      "address": "전라남도 영암군 시종면 만수리 951-6",
+      "roadAddress": "전라남도 영암군 시종면 쌍구길 3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을구멍가게",
+      "address": "전라남도 영암군 시종면 신흥리 938",
+      "roadAddress": "전라남도 영암군 시종면 월롱길 42",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을구멍가게",
+      "address": "전라남도 영암군 시종면 신흥리 938",
+      "roadAddress": "전라남도 영암군 시종면 월롱길 42",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을구멍가게",
+      "address": "전라남도 영암군 시종면 신흥리 938",
+      "roadAddress": "전라남도 영암군 시종면 월롱길 42",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을구멍가게",
+      "address": "전라남도 영암군 시종면 신흥리 938",
+      "roadAddress": "전라남도 영암군 시종면 월롱길 42",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을구멍가게",
+      "address": "전라남도 영암군 시종면 신흥리 938",
+      "roadAddress": "전라남도 영암군 시종면 월롱길 42",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을구멍가게",
+      "address": "전라남도 영암군 시종면 신흥리 938",
+      "roadAddress": "전라남도 영암군 시종면 월롱길 42",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을구멍가게",
+      "address": "전라남도 영암군 시종면 신흥리 938",
+      "roadAddress": "전라남도 영암군 시종면 월롱길 42",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사거리식육점",
+      "address": "전라남도 영암군 시종면 신학리 725-2",
+      "roadAddress": "전라남도 영암군 시종면 반학길 4",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물상회",
+      "address": "전라남도 영암군 시종면 만수리 930-9",
+      "roadAddress": "전라남도 영암군 시종면 쌍구길 14-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 영암군 시종면 만수리 920-1",
+      "roadAddress": "전라남도 영암군 시종면 마한로 1281-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "전라남도 영암군 시종면 만수리 895-6",
+      "roadAddress": "전라남도 영암군 시종면 고분로 28",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대마트",
+      "address": "전라남도 영암군 시종면 만수리 924-3",
+      "roadAddress": "전라남도 영암군 시종면 쌍구길 6",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을구판장",
+      "address": "전라남도 영암군 삼호읍 난전리 873",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을구판장",
+      "address": "전라남도 영암군 삼호읍 난전리 873",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을구판장",
+      "address": "전라남도 영암군 삼호읍 난전리 873",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수정슈퍼",
+      "address": "전라남도 영암군 도포면 봉호리 188",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명당슈퍼",
+      "address": "전라남도 영암군 도포면 덕화리 188",
+      "roadAddress": "전라남도 영암군 도포면 인덕길 68",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을구판장",
+      "address": "전라남도 영암군 삼호읍 난전리 873",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "도포상회",
+      "address": "전라남도 영암군 도포면 도포리 36",
+      "roadAddress": "전라남도 영암군 도포면 도포길 6-6",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구정상회",
+      "address": "전라남도 영암군 도포면 구학리 63",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을구판장",
+      "address": "전라남도 영암군 삼호읍 난전리 873",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "도신상회",
+      "address": "전라남도 영암군 도포면 영호리 195",
+      "roadAddress": "전라남도 영암군 도포면 호산로 285",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을구판장",
+      "address": "전라남도 영암군 삼호읍 난전리 873",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원산상회",
+      "address": "전라남도 영암군 도포면 구학리 84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상가",
+      "address": "전라남도 영암군 군서면 월곡리 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태화마트",
+      "address": "전라남도 영암군 군서면 동구림리 95",
+      "roadAddress": "전라남도 영암군 군서면 왕인로 503",
+      "status": "영업/정상",
+      "licenseDate": "2014-06-30"
+    },
+    {
+      "name": "상가",
+      "address": "전라남도 영암군 군서면 월곡리 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "전라남도 영암군 군서면 동구림리 48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상가",
+      "address": "전라남도 영암군 군서면 월곡리 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐 왕인박사점",
+      "address": "전라남도 영암군 군서면 동구림리 48",
+      "roadAddress": "전라남도 영암군 군서면 왕인로 500-1",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-04"
+    },
+    {
+      "name": "학생백화점",
+      "address": "전라남도 영암군 군서면 동구림리 424",
+      "roadAddress": "전라남도 영암군 군서면 왕인로 477",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상가",
+      "address": "전라남도 영암군 군서면 월곡리 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상가",
+      "address": "전라남도 영암군 군서면 월곡리 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전라남도 영암군 군서면 도갑리 667",
+      "roadAddress": "전라남도 영암군 군서면 평리길 99-11",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상가",
+      "address": "전라남도 영암군 군서면 월곡리 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상가",
+      "address": "전라남도 영암군 군서면 월곡리 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상가",
+      "address": "전라남도 영암군 군서면 월곡리 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상가",
+      "address": "전라남도 영암군 군서면 월곡리 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부녀회장",
+      "address": "전라남도 영암군 군서면 도장리 2구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부녀회장",
+      "address": "전라남도 영암군 군서면 도장리 2구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고정식육점",
+      "address": "전라남도 영암군 군서면 동구림리 3구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "비둘기장식",
+      "address": "전라남도 영암군 군서면 동구림리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "왕박매점",
+      "address": "전라남도 영암군 군서면 동구림리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아천상회",
+      "address": "전라남도 영암군 학산면 용산리 945-3",
+      "roadAddress": "전라남도 영암군 학산면 신복길 3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엄길삼거리상회",
+      "address": "전라남도 영암군 서호면 엄길리 317",
+      "roadAddress": "전라남도 영암군 서호면 길촌길 6",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성재상회",
+      "address": "전라남도 영암군 서호면 성재리 187",
+      "roadAddress": "전라남도 영암군 서호면 성재길 19-13",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금강상회",
+      "address": "전라남도 영암군 서호면 금강리 617",
+      "roadAddress": "전라남도 영암군 서호면 금강길 29",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화소부녀회",
+      "address": "전라남도 영암군 서호면 화송리 168",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소흫살회",
+      "address": "전라남도 영암군 서호면 소산리 502",
+      "roadAddress": "전라남도 영암군 서호면 서호로 699",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상월상회",
+      "address": "전라남도 영암군 학산면 상월리 620",
+      "roadAddress": "전라남도 영암군 학산면 학용로 156",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초안상회",
+      "address": "전라남도 영암군 학산면 금계리 460-3",
+      "roadAddress": "전라남도 영암군 학산면 금계로 212",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은하상회",
+      "address": "전라남도 영암군 학산면 독천리 1237-33",
+      "roadAddress": "전라남도 영암군 학산면 독천로 168",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부성상회",
+      "address": "전라남도 영암군 학산면 독천리 184",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "학산농협(연쇄점)",
+      "address": "전라남도 영암군 학산면 독천리 4구 1237-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광산상회",
+      "address": "전라남도 영암군 학산면 독천리 519-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신덕상회",
+      "address": "전라남도 영암군 학산면 신덕리 258",
+      "roadAddress": "전라남도 영암군 학산면 화암길 22",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아슈퍼",
+      "address": "전라남도 영암군 학산면 독천리 164-7",
+      "roadAddress": "전라남도 영암군 학산면 영산로 52",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바다마트",
+      "address": "전라남도 영암군 학산면 독천리 177-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용산상회",
+      "address": "전라남도 영암군 학산면 용산리 510",
+      "roadAddress": "전라남도 영암군 학산면 용산길 7-7",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아천상회",
+      "address": "전라남도 영암군 학산면 용산리 945-3",
+      "roadAddress": "전라남도 영암군 학산면 신복길 3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용소상회",
+      "address": "전라남도 영암군 학산면 용소리 490",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보용상회",
+      "address": "전라남도 영암군 미암면 채지리 172-2",
+      "roadAddress": "전라남도 영암군 미암면 독천로 144-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월창가게",
+      "address": "전라남도 영암군 미암면 채지리 124-2",
+      "roadAddress": "전라남도 영암군 미암면 월창길 2",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대영슈퍼",
+      "address": "전라남도 영암군 미암면 채지리 288-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    }
+  ]
+}

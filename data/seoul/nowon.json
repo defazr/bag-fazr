@@ -1,0 +1,647 @@
+{
+  "region": "서울특별시",
+  "regionSlug": "seoul",
+  "district": "노원구",
+  "districtSlug": "nowon",
+  "updatedAt": "2026-03-26",
+  "totalCount": 91,
+  "stores": [
+    {
+      "name": "중앙세탁소",
+      "address": "서울특별시 노원구 월계동 278-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-31"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "서울특별시 노원구 월계동 272-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-31"
+    },
+    {
+      "name": "진흥상회",
+      "address": "서울특별시 노원구 월계동 685-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-31"
+    },
+    {
+      "name": "새마을슈퍼",
+      "address": "서울특별시 노원구 월계동 508-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-31"
+    },
+    {
+      "name": "월계슈퍼",
+      "address": "서울특별시 노원구 월계동 271-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-31"
+    },
+    {
+      "name": "청운슈퍼",
+      "address": "서울특별시 노원구 월계동 534-170",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-31"
+    },
+    {
+      "name": "세자매슈퍼",
+      "address": "서울특별시 노원구 월계동 274-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-04"
+    },
+    {
+      "name": "광운마트",
+      "address": "서울특별시 노원구 월계동 402-7",
+      "roadAddress": "서울특별시 노원구 광운로 39  (월계동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-04"
+    },
+    {
+      "name": "김제슈퍼",
+      "address": "서울특별시 노원구 월계동 287-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "서울특별시 노원구 월계동 383-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-22"
+    },
+    {
+      "name": "성북마트",
+      "address": "서울특별시 노원구 월계동 392",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-21"
+    },
+    {
+      "name": "둘리마트",
+      "address": "서울특별시 노원구 월계동 509-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-11"
+    },
+    {
+      "name": "북부슈퍼",
+      "address": "서울특별시 노원구 공릉동 621-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "봉이마트",
+      "address": "서울특별시 노원구 공릉동 568-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-18"
+    },
+    {
+      "name": "공덕슈퍼",
+      "address": "서울특별시 노원구 공릉동 517-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "화성슈퍼",
+      "address": "서울특별시 노원구 공릉동 589-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-11"
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "서울특별시 노원구 공릉동 494-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "영풍유통",
+      "address": "서울특별시 노원구 공릉동 581-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "한마음슈퍼",
+      "address": "서울특별시 노원구 공릉동 559-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-11"
+    },
+    {
+      "name": "오성슈퍼",
+      "address": "서울특별시 노원구 공릉동 392-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "제일연쇄점",
+      "address": "서울특별시 노원구 공릉동 633-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-16"
+    },
+    {
+      "name": "공릉소비자",
+      "address": "서울특별시 노원구 공릉동 575-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "서울특별시 노원구 공릉동 517-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-12"
+    },
+    {
+      "name": "공릉공판장",
+      "address": "서울특별시 노원구 공릉동 561-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-02"
+    },
+    {
+      "name": "경성슈퍼",
+      "address": "서울특별시 노원구 공릉동 604-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "강릉슈퍼",
+      "address": "서울특별시 노원구 공릉동 591-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-10"
+    },
+    {
+      "name": "풍년슈퍼",
+      "address": "서울특별시 노원구 공릉동 596-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-18"
+    },
+    {
+      "name": "장수슈퍼",
+      "address": "서울특별시 노원구 공릉동 653-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-18"
+    },
+    {
+      "name": "호남슈퍼",
+      "address": "서울특별시 노원구 공릉동 238-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-23"
+    },
+    {
+      "name": "초원슈퍼",
+      "address": "서울특별시 노원구 공릉동 421-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-25"
+    },
+    {
+      "name": "천우식품",
+      "address": "서울특별시 노원구 공릉동 240-177",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-22"
+    },
+    {
+      "name": "호돌이슈퍼",
+      "address": "서울특별시 노원구 공릉동 240-236",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-22"
+    },
+    {
+      "name": "신일슈퍼",
+      "address": "서울특별시 노원구 공릉동 329-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-11"
+    },
+    {
+      "name": "태경슈퍼",
+      "address": "서울특별시 노원구 공릉동 224",
+      "roadAddress": "서울특별시 노원구 공릉로34길 109  (공릉동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-16"
+    },
+    {
+      "name": "새마을마트",
+      "address": "서울특별시 노원구 공릉동 270-51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-01"
+    },
+    {
+      "name": "광신슈퍼",
+      "address": "서울특별시 노원구 공릉동 240-167",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-11"
+    },
+    {
+      "name": "파주슈퍼",
+      "address": "서울특별시 노원구 공릉동 269-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-15"
+    },
+    {
+      "name": "석전상회",
+      "address": "서울특별시 노원구 공릉동 415-65",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-07"
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "서울특별시 노원구 공릉동 222-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-11"
+    },
+    {
+      "name": "뉴월드마트",
+      "address": "서울특별시 노원구 공릉동 408-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-23"
+    },
+    {
+      "name": "상현슈퍼",
+      "address": "서울특별시 노원구 공릉동 408-149",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-05"
+    },
+    {
+      "name": "앞마을상회",
+      "address": "서울특별시 노원구 공릉동 341-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-11"
+    },
+    {
+      "name": "대아마트",
+      "address": "서울특별시 노원구 공릉동 740",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-14"
+    },
+    {
+      "name": "동부양곡",
+      "address": "서울특별시 노원구 공릉동 351-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-11"
+    },
+    {
+      "name": "엘지슈퍼렛",
+      "address": "서울특별시 노원구 공릉동 238-53",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-05"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "서울특별시 노원구 공릉동 435-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-20"
+    },
+    {
+      "name": "드림마트",
+      "address": "서울특별시 노원구 공릉동 208-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-05"
+    },
+    {
+      "name": "예림하이퍼",
+      "address": "서울특별시 노원구 공릉동 208-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-25"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "서울특별시 노원구 공릉동 435-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-21"
+    },
+    {
+      "name": "성은슈퍼",
+      "address": "서울특별시 노원구 공릉동 375-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "풍원슈퍼",
+      "address": "서울특별시 노원구 공릉동 383-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-11"
+    },
+    {
+      "name": "동명슈퍼",
+      "address": "서울특별시 노원구 공릉동 312-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-01"
+    },
+    {
+      "name": "소망하이퍼",
+      "address": "서울특별시 노원구 공릉동 383-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-01"
+    },
+    {
+      "name": "푸른동산24시",
+      "address": "서울특별시 노원구 공릉동 386-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-01"
+    },
+    {
+      "name": "공릉슈퍼",
+      "address": "서울특별시 노원구 공릉동 366-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-23"
+    },
+    {
+      "name": "소망하이퍼",
+      "address": "서울특별시 노원구 공릉동 383-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-01"
+    },
+    {
+      "name": "불암하이퍼",
+      "address": "서울특별시 노원구 중계동 94-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-14"
+    },
+    {
+      "name": "종점마트",
+      "address": "서울특별시 노원구 중계동 93-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "천일상회",
+      "address": "서울특별시 노원구 중계동 20-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-13"
+    },
+    {
+      "name": "신양상회",
+      "address": "서울특별시 노원구 중계동 22-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "노원우체국",
+      "address": "서울특별시 노원구 중계동 311-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-18"
+    },
+    {
+      "name": "금강슈퍼",
+      "address": "서울특별시 노원구 중계동 578-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "제이마트",
+      "address": "서울특별시 노원구 중계동 43-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-11"
+    },
+    {
+      "name": "돌리상회",
+      "address": "서울특별시 노원구 중계동 27-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-05"
+    },
+    {
+      "name": "현대종합슈퍼",
+      "address": "서울특별시 노원구 중계동 44-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "중앙상회",
+      "address": "서울특별시 노원구 상계동 1010",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-06"
+    },
+    {
+      "name": "부부상회",
+      "address": "서울특별시 노원구 상계동 1121-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-13"
+    },
+    {
+      "name": "광주상회",
+      "address": "서울특별시 노원구 상계동 1132-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-04"
+    },
+    {
+      "name": "으뜸장터",
+      "address": "서울특별시 노원구 상계동 1048-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-20"
+    },
+    {
+      "name": "삼양마트",
+      "address": "서울특별시 노원구 월계동 436",
+      "roadAddress": "서울특별시 노원구 광운로2나길 30  (월계동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-01"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "서울특별시 노원구 월계동 20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-08"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "서울특별시 노원구 월계동 435-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-27"
+    },
+    {
+      "name": "동양마트",
+      "address": "서울특별시 노원구 월계동 59-3",
+      "roadAddress": "서울특별시 노원구 석계로 9  (월계동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-01"
+    },
+    {
+      "name": "월계슈퍼",
+      "address": "서울특별시 노원구 월계동 31-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-24"
+    },
+    {
+      "name": "유미슈퍼",
+      "address": "서울특별시 노원구 월계동 476-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-01"
+    },
+    {
+      "name": "보령슈퍼",
+      "address": "서울특별시 노원구 월계동 26-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-01"
+    },
+    {
+      "name": "희망슈퍼",
+      "address": "서울특별시 노원구 월계동 480-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-07"
+    },
+    {
+      "name": "두일한우",
+      "address": "서울특별시 노원구 월계동 55-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-22"
+    },
+    {
+      "name": "광장슈퍼",
+      "address": "서울특별시 노원구 월계동 383-42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-09"
+    },
+    {
+      "name": "럭키유통",
+      "address": "서울특별시 노원구 월계동 925",
+      "roadAddress": "서울특별시 노원구 광운로 46  (월계동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-01"
+    },
+    {
+      "name": "교육촌슈퍼",
+      "address": "서울특별시 노원구 월계동 534-194",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-31"
+    },
+    {
+      "name": "새마음슈퍼",
+      "address": "서울특별시 노원구 월계동 534-209",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-31"
+    },
+    {
+      "name": "그린마트",
+      "address": "서울특별시 노원구 월계동 513-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-31"
+    },
+    {
+      "name": "동명슈퍼",
+      "address": "서울특별시 노원구 월계동 496-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-31"
+    },
+    {
+      "name": "삼양슈퍼",
+      "address": "서울특별시 노원구 월계동 392-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-31"
+    },
+    {
+      "name": "일신상회",
+      "address": "서울특별시 노원구 월계동 291-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-31"
+    },
+    {
+      "name": "청운슈퍼",
+      "address": "서울특별시 노원구 월계동 279-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-31"
+    },
+    {
+      "name": "(주)코리아세븐 원주단계공원점",
+      "address": "서울특별시 노원구 중계동 361-1",
+      "roadAddress": "서울특별시 노원구 노원로22길 34, 105동 603호 (중계동, 우성아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2014-05-30"
+    },
+    {
+      "name": "21세기그린마트",
+      "address": "전라남도 광양시 광양읍 인동리 385-2",
+      "roadAddress": "서울특별시 노원구 섬밭로 52, 101동  1009호(공릉동,대주파크빌)",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-09"
+    },
+    {
+      "name": "새마을슈퍼",
+      "address": "전라남도 광양시 광양읍 우산리 563-6",
+      "roadAddress": "서울특별시 노원구 수락산로 174, 1420동  106호(상계동,주공아파트)",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-27"
+    },
+    {
+      "name": "이마트24 동탄2시범단지점",
+      "address": "서울특별시 노원구 월계동 26-17",
+      "roadAddress": "서울특별시 노원구 화랑로47길 8-4 (월계동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-03-20"
+    }
+  ]
+}

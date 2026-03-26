@@ -1,0 +1,794 @@
+{
+  "region": "경상북도",
+  "regionSlug": "gyeongbuk",
+  "district": "청송군",
+  "districtSlug": "cheongsong",
+  "updatedAt": "2026-03-26",
+  "totalCount": 112,
+  "stores": [
+    {
+      "name": "공간25시",
+      "address": "경상북도 청송군 주왕산면 상의리 367-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-10"
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "경상북도 청송군 주왕산면 상의리 499-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-10"
+    },
+    {
+      "name": "광명상회",
+      "address": "경상북도 청송군 현동면 도평리 357-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "남욱24시",
+      "address": "경상북도 청송군 현동면 도평리 796-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "삼자현휴게소",
+      "address": "경상북도 청송군 현동면 도평리 산 10-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-12-01"
+    },
+    {
+      "name": "도화상회",
+      "address": "경상북도 청송군 현동면 도평리 908",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "의성상회",
+      "address": "경상북도 청송군 현동면 도평리 718",
+      "roadAddress": "경상북도 청송군 현동면 도평안길 14",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "신우유통",
+      "address": "경상북도 청송군 현동면 도평리 720-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "약수상회",
+      "address": "경상북도 청송군 진보면 신촌리 65",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "부경건설(주)",
+      "address": "경상북도 청송군 청송읍 금곡리 542-2",
+      "roadAddress": "경상북도 청송군 청송읍 금월로 39",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-24"
+    },
+    {
+      "name": "부동면사무소",
+      "address": "경상북도 청송군 주왕산면 주산지리 829",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-24"
+    },
+    {
+      "name": "(주)청안건설",
+      "address": "경상북도 청송군 부남면 대전리 239-2",
+      "roadAddress": "경상북도 청송군 부남면 부남로 123",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현동면사무소",
+      "address": "경상북도 청송군 현동면 월매리 지내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안덕면사무소",
+      "address": "경상북도 청송군 안덕면 신성리 381-1 지내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-24"
+    },
+    {
+      "name": "파천면사무소",
+      "address": "경상북도 청송군 파천면 관리 572-1",
+      "roadAddress": "경상북도 청송군 파천면 청송로 5544",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진보면",
+      "address": "경상북도 청송군 진보면 진안리 51-1",
+      "roadAddress": "경상북도 청송군 진보면 진안동2길 4-10",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진마트",
+      "address": "경상북도 청송군 진보면 진안리 384-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-20"
+    },
+    {
+      "name": "민박촌노래방식당",
+      "address": "경상북도 청송군 주왕산면 상의리 568-14",
+      "roadAddress": "경상북도 청송군 주왕산면 당마을길 11-3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트진보점",
+      "address": "경상북도 청송군 진보면 진안리 384-0003",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-20"
+    },
+    {
+      "name": "원탕 약수수퍼",
+      "address": "경상북도 청송군 진보면 신촌리 24-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-21"
+    },
+    {
+      "name": "진보홈마트",
+      "address": "경상북도 청송군 진보면 진안리 414-1",
+      "roadAddress": "경상북도 청송군 진보면 경동로 4193",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-15"
+    },
+    {
+      "name": "훼미리마트청송중앙점",
+      "address": "경상북도 청송군 청송읍 월막리 347-1",
+      "roadAddress": "경상북도 청송군 청송읍 중앙로 249-1",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-12"
+    },
+    {
+      "name": "진우하이츠슈퍼",
+      "address": "경상북도 청송군 청송읍 덕리 255 진우하이츠 107동 1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-20"
+    },
+    {
+      "name": "청송오토캠핑장",
+      "address": "경상북도 청송군 부남면 화장리 381-1",
+      "roadAddress": "경상북도 청송군 부남면 얼음골로 690, 청송오토캠핑장",
+      "status": "영업/정상",
+      "licenseDate": "2020-04-22"
+    },
+    {
+      "name": "씨유 청송현서점",
+      "address": "경상북도 청송군 현서면 구산리 445",
+      "roadAddress": "경상북도 청송군 현서면 청송로 1163, 1층층",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-08"
+    },
+    {
+      "name": "세븐일레븐 청송부남중앙점",
+      "address": "경상북도 청송군 부남면 대전리 97-3",
+      "roadAddress": "경상북도 청송군 부남면 대전로 130",
+      "status": "영업/정상",
+      "licenseDate": "2021-10-28"
+    },
+    {
+      "name": "GS25(청송주왕산점)",
+      "address": "경상북도 청송군 주왕산면 상의리 341-4",
+      "roadAddress": "경상북도 청송군 주왕산면 공원길 178",
+      "status": "영업/정상",
+      "licenseDate": "2022-03-14"
+    },
+    {
+      "name": "지에스(GS)25 청송현동점",
+      "address": "경상북도 청송군 현동면 도평리 796-6",
+      "roadAddress": "경상북도 청송군 현동면 청송로 2648",
+      "status": "영업/정상",
+      "licenseDate": "2023-07-25"
+    },
+    {
+      "name": "GS25 청송중앙로점",
+      "address": "경상북도 청송군 청송읍 월막리 78-2",
+      "roadAddress": "경상북도 청송군 청송읍 중앙로 302",
+      "status": "영업/정상",
+      "licenseDate": "2024-06-11"
+    },
+    {
+      "name": "GS25 경북북부교정점",
+      "address": "경상북도 청송군 진보면 광덕리 2 교정아파트",
+      "roadAddress": "경상북도 청송군 진보면 양정길 217 (교정아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2024-06-19"
+    },
+    {
+      "name": "청송영양축산농협 축산물전문판매장 하나로마트",
+      "address": "경상북도 청송군 진보면 각산리 226",
+      "roadAddress": "경상북도 청송군 진보면 진보로 264",
+      "status": "영업/정상",
+      "licenseDate": "2024-07-25"
+    },
+    {
+      "name": "씨유 청송유앤드림점",
+      "address": "경상북도 청송군 청송읍 금곡리 850-5 청송 유엔드림플러스",
+      "roadAddress": "경상북도 청송군 청송읍 금월로 209, 1층 101호 (청송 유엔드림플러스)",
+      "status": "영업/정상",
+      "licenseDate": "2024-09-09"
+    },
+    {
+      "name": "지에스(GS)25청송진보타운점",
+      "address": "경상북도 청송군 진보면 이촌리 28-18",
+      "roadAddress": "경상북도 청송군 진보면 진보로 78, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2024-09-09"
+    },
+    {
+      "name": "씨유 청송안덕점",
+      "address": "경상북도 청송군 안덕면 명당리 433-12",
+      "roadAddress": "경상북도 청송군 안덕면 안덕로 78, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2024-10-10"
+    },
+    {
+      "name": "청송수퍼",
+      "address": "경상북도 청송군 청송읍 월막리 235-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "제일식품",
+      "address": "경상북도 청송군 청송읍 월막리 209-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-27"
+    },
+    {
+      "name": "제일수퍼",
+      "address": "경상북도 청송군 청송읍 월막리 208",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "24시수퍼",
+      "address": "경상북도 청송군 청송읍 월막리 428-60",
+      "roadAddress": "경상북도 청송군 청송읍 중앙로 215-8",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "대구회관상회",
+      "address": "경상북도 청송군 청송읍 부곡리 300",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "부곡구판장",
+      "address": "경상북도 청송군 청송읍 부곡리 239",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "풀마트",
+      "address": "경상북도 청송군 청송읍 월막리 428-80",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-02"
+    },
+    {
+      "name": "매일상회",
+      "address": "경상북도 청송군 현서면 구산리 116",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-04"
+    },
+    {
+      "name": "청송농업협동조합",
+      "address": "경상북도 청송군 청송읍 월막리 387-1 청송농협",
+      "roadAddress": "경상북도 청송군 청송읍 중앙로 240, 청송농협",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-02"
+    },
+    {
+      "name": "빅플러스마트",
+      "address": "경상북도 청송군 청송읍 월막리 354-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-18"
+    },
+    {
+      "name": "청송 홈 마트",
+      "address": "경상북도 청송군 청송읍 월막리 422-42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-07"
+    },
+    {
+      "name": "정유소 매점",
+      "address": "경상북도 청송군 부남면 대전리 63",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-28"
+    },
+    {
+      "name": "고와휴게소",
+      "address": "경상북도 청송군 안덕면 고와리 446",
+      "roadAddress": "경상북도 청송군 안덕면 백석탄로 166",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-13"
+    },
+    {
+      "name": "신성가든슈퍼",
+      "address": "경상북도 청송군 안덕면 신성리 357",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-13"
+    },
+    {
+      "name": "신성슈퍼",
+      "address": "경상북도 청송군 안덕면 신성리 130-1",
+      "roadAddress": "경상북도 청송군 안덕면 방호정로 126",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-13"
+    },
+    {
+      "name": "방대슈퍼",
+      "address": "경상북도 청송군 안덕면 신성리 149-2",
+      "roadAddress": "경상북도 청송군 안덕면 방호정로 132",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-13"
+    },
+    {
+      "name": "홈마트",
+      "address": "경상북도 청송군 현동면 도평리 748-2",
+      "roadAddress": "경상북도 청송군 현동면 새마을로 5486",
+      "status": "영업/정상",
+      "licenseDate": "2008-03-12"
+    },
+    {
+      "name": "동부슈퍼",
+      "address": "경상북도 청송군 진보면 진안리 79-3",
+      "roadAddress": "경상북도 청송군 진보면 진보로 148-3",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-25"
+    },
+    {
+      "name": "우리상회",
+      "address": "경상북도 청송군 청송읍 청운리 532",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-07-17"
+    },
+    {
+      "name": "민박촌식당",
+      "address": "경상북도 청송군 주왕산면 상의리 568-4",
+      "roadAddress": "경상북도 청송군 주왕산면 당마을길 11-15",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-29"
+    },
+    {
+      "name": "주왕산상회",
+      "address": "경상북도 청송군 주왕산면 상의리 205-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-29"
+    },
+    {
+      "name": "상일할인마트",
+      "address": "경상북도 청송군 청송읍 월막리 456-19",
+      "roadAddress": "경상북도 청송군 청송읍 중앙로 188",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-20"
+    },
+    {
+      "name": "GS25청송점",
+      "address": "경상북도 청송군 청송읍 금곡리 843-13",
+      "roadAddress": "경상북도 청송군 청송읍 금월로 229",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-16"
+    },
+    {
+      "name": "솔마트",
+      "address": "경상북도 청송군 부남면 대전리 641",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-07"
+    },
+    {
+      "name": "구천제일상회",
+      "address": "경상북도 청송군 부남면 구천리 756-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-10-16"
+    },
+    {
+      "name": "풍년슈퍼",
+      "address": "경상북도 청송군 부남면 대전리 63-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-02-04"
+    },
+    {
+      "name": "남청송농협안덕장례식장",
+      "address": "경상북도 청송군 안덕면 명당리 319",
+      "roadAddress": "경상북도 청송군 안덕면 청송로 1914",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-20"
+    },
+    {
+      "name": "남청송농협안덕지점유류취급소",
+      "address": "경상북도 청송군 안덕면 명당리 439-4",
+      "roadAddress": "경상북도 청송군 안덕면 명당1길 5",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-08"
+    },
+    {
+      "name": "청송영양축산업협동조합",
+      "address": "경상북도 청송군 청송읍 월막리 197",
+      "roadAddress": "경상북도 청송군 청송읍 중앙로 266-1",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-09"
+    },
+    {
+      "name": "현서농협",
+      "address": "경상북도 청송군 현서면 구산리 100-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-04"
+    },
+    {
+      "name": "영남수퍼",
+      "address": "경상북도 청송군 안덕면 명당리 384",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-14"
+    },
+    {
+      "name": "제일수퍼",
+      "address": "경상북도 청송군 안덕면 명당리 432",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-02"
+    },
+    {
+      "name": "풀마트",
+      "address": "경상북도 청송군 안덕면 명당리 384-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일신수퍼",
+      "address": "경상북도 청송군 안덕면 명당리 431",
+      "roadAddress": "경상북도 청송군 안덕면 안마길 8-2",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-02"
+    },
+    {
+      "name": "명성수퍼",
+      "address": "경상북도 청송군 안덕면 명당리 379-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-15"
+    },
+    {
+      "name": "미성상회",
+      "address": "경상북도 청송군 안덕면 명당리 427",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-15"
+    },
+    {
+      "name": "서탁이수퍼",
+      "address": "경상북도 청송군 파천면 관리 103",
+      "roadAddress": "경상북도 청송군 파천면 관리길 119",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-15"
+    },
+    {
+      "name": "마을회관가게",
+      "address": "경상북도 청송군 파천면 덕천리 271",
+      "roadAddress": "경상북도 청송군 파천면 덕천길 89",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-28"
+    },
+    {
+      "name": "진영수퍼",
+      "address": "경상북도 청송군 진보면 진안리 507-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "신영수퍼",
+      "address": "경상북도 청송군 진보면 진안리 123-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "안동수퍼",
+      "address": "경상북도 청송군 진보면 진안리 79-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "진안수퍼",
+      "address": "경상북도 청송군 진보면 진안리 126-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "비봉수퍼",
+      "address": "경상북도 청송군 진보면 이촌리 47",
+      "roadAddress": "경상북도 청송군 진보면 이촌2길 3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니수퍼",
+      "address": "경상북도 청송군 진보면 진안리 54-129",
+      "roadAddress": "경상북도 청송군 진보면 체육공원로 31",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-26"
+    },
+    {
+      "name": "교정마트",
+      "address": "경상북도 청송군 진보면 광덕리 2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-14"
+    },
+    {
+      "name": "자보수퍼",
+      "address": "경상북도 청송군 진보면 진안리 79-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "동보수퍼",
+      "address": "경상북도 청송군 진보면 진안리 384-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "진보축협",
+      "address": "경상북도 청송군 진보면 진안리 422-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "현대수퍼",
+      "address": "경상북도 청송군 진보면 각산리 298-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "만물상회",
+      "address": "경상북도 청송군 진보면 신촌리 41-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "C - 마트",
+      "address": "경상북도 청송군 진보면 진안리 482",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-16"
+    },
+    {
+      "name": "상록상회",
+      "address": "경상북도 청송군 부남면 대전리 636-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-18"
+    },
+    {
+      "name": "덕화상회",
+      "address": "경상북도 청송군 부남면 대전리 72-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-17"
+    },
+    {
+      "name": "럭키편의점",
+      "address": "경상북도 청송군 부남면 대전리 64-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-17"
+    },
+    {
+      "name": "풍창휴게소",
+      "address": "경상북도 청송군 주왕산면 하의리 870-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-18"
+    },
+    {
+      "name": "삼영수퍼",
+      "address": "경상북도 청송군 주왕산면 주산지리 828",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-15"
+    },
+    {
+      "name": "수부정",
+      "address": "경상북도 청송군 주왕산면 내룡리 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주왕산매점",
+      "address": "경상북도 청송군 주왕산면 상의리 349-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-10"
+    },
+    {
+      "name": "시량슈퍼",
+      "address": "경상북도 청송군 진보면 시량리 296-10",
+      "roadAddress": "경상북도 청송군 진보면 경동로 4832",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-08"
+    },
+    {
+      "name": "참마트",
+      "address": "경상북도 청송군 청송읍 월막리 412-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-06"
+    },
+    {
+      "name": "주왕산정류소",
+      "address": "경상북도 청송군 주왕산면 상의리 295",
+      "roadAddress": "경상북도 청송군 주왕산면 공원길 146",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-17"
+    },
+    {
+      "name": "청송농협부동점하나로마트",
+      "address": "경상북도 청송군 주왕산면 주산지리 876-1",
+      "roadAddress": "경상북도 청송군 주왕산면 부동로 1023",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-25"
+    },
+    {
+      "name": "신토불이식당",
+      "address": "경상북도 청송군 주왕산면 상의리 288-6",
+      "roadAddress": "경상북도 청송군 주왕산면 공원길 156",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-25"
+    },
+    {
+      "name": "혜초여행개발(주)",
+      "address": "경상북도 청송군 부남면 화장리 산 118",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2014-09-17"
+    },
+    {
+      "name": "청송농협하나로마트진보점",
+      "address": "",
+      "roadAddress": "경상북도 청송군 진보면 진안로 14",
+      "status": "영업/정상",
+      "licenseDate": "2015-02-04"
+    },
+    {
+      "name": "일진상회",
+      "address": "경상북도 청송군 청송읍 월막리 421-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2015-08-17"
+    },
+    {
+      "name": "노래2리",
+      "address": "경상북도 청송군 안덕면 노래리 508",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2016-01-11"
+    },
+    {
+      "name": "청송 느티나무 캠핑장",
+      "address": "부동면 상의리 621-1",
+      "roadAddress": "경상북도 청송군 주왕산면 양지마을길 19-0, 상의리동",
+      "status": "영업/정상",
+      "licenseDate": "2016-06-29"
+    },
+    {
+      "name": "청송영양축산업협동조합한우프라자",
+      "address": "경상북도 청송군 주왕산면 하의리 690-11",
+      "roadAddress": "경상북도 청송군 주왕산면 주왕산로 440",
+      "status": "영업/정상",
+      "licenseDate": "2016-08-29"
+    },
+    {
+      "name": "시원마트",
+      "address": "청송군 현서면 도리115-30",
+      "roadAddress": "경상북도 청송군 현서면 청송로 596",
+      "status": "영업/정상",
+      "licenseDate": "2017-03-24"
+    },
+    {
+      "name": "청송친환경영농조합법인(텃밭지기 직매장)",
+      "address": "경상북도 청송군 청송읍 송생리 631",
+      "roadAddress": "경상북도 청송군 청송읍 주왕산로 266",
+      "status": "영업/정상",
+      "licenseDate": "2017-08-16"
+    },
+    {
+      "name": "오라카이",
+      "address": "경상북도 청송군 안덕면 성재리 151",
+      "roadAddress": "경상북도 청송군 안덕면 성덕댐로 1291-70",
+      "status": "영업/정상",
+      "licenseDate": "2017-10-13"
+    },
+    {
+      "name": "세븐일레븐 청송진보점",
+      "address": "경상북도 청송군 진보면 이촌리 56-8",
+      "roadAddress": "경상북도 청송군 진보면 진보로 67",
+      "status": "영업/정상",
+      "licenseDate": "2017-11-21"
+    },
+    {
+      "name": "우정마트",
+      "address": "경상북도 청송군 진보면 신촌리 32-4",
+      "roadAddress": "경상북도 청송군 진보면 경동로 5159",
+      "status": "영업/정상",
+      "licenseDate": "2017-12-15"
+    },
+    {
+      "name": "진보식자재마트",
+      "address": "경상북도 청송군 진보면 진안리 414-4",
+      "roadAddress": "경상북도 청송군 진보면 경동로 4193",
+      "status": "영업/정상",
+      "licenseDate": "2018-07-19"
+    },
+    {
+      "name": "행복DC마트",
+      "address": "경상북도 청송군 진보면 이촌리 28-18",
+      "roadAddress": "경상북도 청송군 진보면 진보로 78",
+      "status": "영업/정상",
+      "licenseDate": "2019-01-18"
+    },
+    {
+      "name": "지에스(GS)25 청송진보대로점",
+      "address": "경상북도 청송군 진보면 각산리 544-1",
+      "roadAddress": "경상북도 청송군 진보면 진보로 184, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2019-10-29"
+    },
+    {
+      "name": "남근네식당",
+      "address": "경상북도 청송군 주왕산면 상의리 367-1",
+      "roadAddress": "경상북도 청송군 주왕산면 당마을길 39",
+      "status": "영업/정상",
+      "licenseDate": "2019-11-28"
+    }
+  ]
+}

@@ -1,0 +1,7269 @@
+{
+  "region": "경기도",
+  "regionSlug": "gyeonggi",
+  "district": "안산시",
+  "districtSlug": "ansan",
+  "updatedAt": "2026-03-26",
+  "totalCount": 1037,
+  "stores": [
+    {
+      "name": "원곡슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 812-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동네25시슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 815-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "나라유통",
+      "address": "경기도 안산시 단원구 고잔동 661-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대덕마트",
+      "address": "경기도 안산시 단원구 와동 747-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다정미니슈퍼",
+      "address": "경기도 안산시 상록구 일동 666-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성슈퍼",
+      "address": "경기도 안산시 상록구 본오동 872-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신토불이슈퍼",
+      "address": "경기도 안산시 상록구 일동 603-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마트21",
+      "address": "경기도 안산시 상록구 월피동 452-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선부미니슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1141-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부곡염가매장",
+      "address": "경기도 안산시 상록구 부곡동 656-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "공원슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 681-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현수슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 696",
+      "roadAddress": "경기도 안산시 상록구 성호로 212  (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영광슈퍼마켓",
+      "address": "경기도 안산시 상록구 부곡동 612-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 640-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지현슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 642",
+      "roadAddress": "경기도 안산시 상록구 부곡로5안길 10-1  (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우정정육점",
+      "address": "경기도 안산시 상록구 부곡동 646",
+      "roadAddress": "경기도 안산시 상록구 정재로3길 28  (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 648-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우석슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 682",
+      "roadAddress": "경기도 안산시 상록구 성호로15안길 14  (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새서울슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 686-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원미슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 684-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "경기도 안산시 상록구 본오동 854",
+      "roadAddress": "경기도 안산시 상록구 본오로 66  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경기도 안산시 상록구 월피동 447",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금성슈퍼",
+      "address": "경기도 안산시 상록구 월피동 444-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심알뜰매장",
+      "address": "경기도 안산시 상록구 월피동 435-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나로공판장",
+      "address": "경기도 안산시 상록구 월피동 489-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유미마트",
+      "address": "경기도 안산시 상록구 월피동 447",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "본오마트",
+      "address": "경기도 안산시 상록구 본오동 970-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사랑슈퍼",
+      "address": "경기도 안산시 상록구 본오동 953-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만나슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 793-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신일상회",
+      "address": "경기도 안산시 단원구 대부북동 54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개봉공판장",
+      "address": "경기도 안산시 상록구 일동 610-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)코리아세븐",
+      "address": "경기도 안산시 상록구 일동 661",
+      "roadAddress": "경기도 안산시 상록구 매화로3길 32  (일동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-11"
+    },
+    {
+      "name": "보형슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 853-3 원곡상가지하 7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-12"
+    },
+    {
+      "name": "조아매장",
+      "address": "경기도 안산시 상록구 사동 1340-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-12"
+    },
+    {
+      "name": "초이마트선부",
+      "address": "경기도 안산시 단원구 선부동 961 주공아파트7단지상가 109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-12"
+    },
+    {
+      "name": "화정그린마트",
+      "address": "경기도 안산시 단원구 선부동 1102-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-12"
+    },
+    {
+      "name": "마포슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1080-1 주공15단지 108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-12"
+    },
+    {
+      "name": "라성마트(주)",
+      "address": "경기도 안산시 단원구 원곡동 846-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-12"
+    },
+    {
+      "name": "24시식당",
+      "address": "경기도 안산시 단원구 성곡동 시화공단 4마 706",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-12"
+    },
+    {
+      "name": "싱싱마트",
+      "address": "경기도 안산시 상록구 사동 1252-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-12"
+    },
+    {
+      "name": "경원슈퍼",
+      "address": "경기도 안산시 상록구 이동 587-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-12"
+    },
+    {
+      "name": "농심가",
+      "address": "경기도 안산시 상록구 일동 605-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-12"
+    },
+    {
+      "name": "킴스마트",
+      "address": "경기도 안산시 상록구 이동 535-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "경기도 안산시 상록구 일동 122",
+      "roadAddress": "경기도 안산시 상록구 구룡로 20  (일동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-12"
+    },
+    {
+      "name": "요진슈퍼마켓",
+      "address": "경기도 안산시 상록구 사동 1345-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-12"
+    },
+    {
+      "name": "다정슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 804-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-16"
+    },
+    {
+      "name": "럭키마트",
+      "address": "경기도 안산시 단원구 선부동 985-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-16"
+    },
+    {
+      "name": "농심가연지하이퍼",
+      "address": "경기도 안산시 상록구 수암동 206-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한진슈퍼",
+      "address": "경기도 안산시 단원구 신길동 1420-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-16"
+    },
+    {
+      "name": "코스모스슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 799-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-16"
+    },
+    {
+      "name": "우정마트",
+      "address": "경기도 안산시 단원구 원곡동 746-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-16"
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "경기도 안산시 상록구 일동 623",
+      "roadAddress": "경기도 안산시 상록구 안산대학로 189  (일동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-16"
+    },
+    {
+      "name": "럭키마트",
+      "address": "경기도 안산시 단원구 원곡동 760-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-16"
+    },
+    {
+      "name": "윤희슈퍼",
+      "address": "경기도 안산시 단원구 선부동 988-",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-16"
+    },
+    {
+      "name": "약수터마트",
+      "address": "경기도 안산시 상록구 본오동 745-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-16"
+    },
+    {
+      "name": "주공슈퍼(구농심가)",
+      "address": "경기도 안산시 상록구 본오동 879 주공상가 104",
+      "roadAddress": "경기도 안산시 상록구 본삼로 8  (본오동,주공상가 104)",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-16"
+    },
+    {
+      "name": "드림마트",
+      "address": "경기도 안산시 상록구 이동 692-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-16"
+    },
+    {
+      "name": "농심가",
+      "address": "경기도 안산시 단원구 와동 812-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-16"
+    },
+    {
+      "name": "미니스톱안산법원점",
+      "address": "경기도 안산시 단원구 고잔동 707 안산법조타운 109",
+      "roadAddress": "경기도 안산시 단원구 광덕서로 86  (고잔동,안산법조타운 109)",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-18"
+    },
+    {
+      "name": "유통미니슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 994-5 편익B동 204",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-19"
+    },
+    {
+      "name": "본원공판장",
+      "address": "경기도 안산시 상록구 본오동 906-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "싱싱마트",
+      "address": "경기도 안산시 상록구 본오동 717-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 745-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진주슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1105-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오고파슈퍼",
+      "address": "경기도 안산시 상록구 팔곡이동 1114--14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "반월쌀상회",
+      "address": "경기도 안산시 단원구 원곡동 846-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한마음슈퍼",
+      "address": "경기도 안산시 상록구 성포동 592",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25 안산광장점",
+      "address": "경기도 안산시 단원구 선부동 1076-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행동슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 811-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미래슈퍼",
+      "address": "경기도 안산시 상록구 본오동 994-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유미네슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1059-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소라슈퍼",
+      "address": "경기도 안산시 단원구 선부동 971-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "자매슈퍼",
+      "address": "경기도 안산시 단원구 선부동 987-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세종문구슈퍼",
+      "address": "경기도 안산시 상록구 사동 1160-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보람슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1005",
+      "roadAddress": "경기도 안산시 단원구 선이로3길 23  (선부동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신아식품",
+      "address": "경기도 안산시 상록구 일동 126-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "열린마트",
+      "address": "경기도 안산시 상록구 부곡동 627",
+      "roadAddress": "경기도 안산시 상록구 부곡로 104  (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우너슈퍼",
+      "address": "경기도 안산시 상록구 건건동 624-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보은그린마트",
+      "address": "경기도 안산시 상록구 건건동 665",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한마음마트",
+      "address": "경기도 안산시 상록구 부곡동 674-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심공판장",
+      "address": "경기도 안산시 상록구 본오동 917-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "나두아슈퍼정육점",
+      "address": "경기도 안산시 단원구 대부북동 496-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대일슈퍼",
+      "address": "경기도 안산시 상록구 사동 1412-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월피마트",
+      "address": "경기도 안산시 상록구 월피동 435-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서해슈퍼",
+      "address": "경기도 안산시 상록구 건건동 665 서해상가 지층 5,6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장터알뜰매장슈퍼",
+      "address": "경기도 안산시 단원구 와동 832-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유통미니슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 994-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태영슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 810-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우영슈퍼",
+      "address": "경기도 안산시 상록구 팔곡일동 603-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동산슈퍼",
+      "address": "경기도 안산시 상록구 성포동 593-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한솔마트",
+      "address": "경기도 안산시 상록구 일동 580-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부흥슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1065-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-19"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1078 11단지다상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-19"
+    },
+    {
+      "name": "농심가공판장",
+      "address": "경기도 안산시 상록구 본오동 935-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-19"
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "경기도 안산시 상록구 본오동 718-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-19"
+    },
+    {
+      "name": "탐라슈퍼",
+      "address": "경기도 안산시 상록구 본오동 776-12 65/4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-19"
+    },
+    {
+      "name": "안산슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 764-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-19"
+    },
+    {
+      "name": "주)내고향",
+      "address": "경기도 안산시 상록구 본오동 880",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-19"
+    },
+    {
+      "name": "초이마트",
+      "address": "경기도 안산시 단원구 와동 832-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-19"
+    },
+    {
+      "name": "대한슈퍼",
+      "address": "경기도 안산시 상록구 본오동 879-8 대한빌딩 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-19"
+    },
+    {
+      "name": "보영슈퍼",
+      "address": "경기도 안산시 단원구 선부동 963-1 보영상가 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-19"
+    },
+    {
+      "name": "동양마트안산고잔점",
+      "address": "경기도 안산시 단원구 고잔동 709-2 21세기빌딩 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-23"
+    },
+    {
+      "name": "훼미리마트안산본오점",
+      "address": "경기도 안산시 상록구 본오동 949-5 로뎀빌딩 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-23"
+    },
+    {
+      "name": "대지마트",
+      "address": "경기도 안산시 상록구 본오동 890",
+      "roadAddress": "경기도 안산시 상록구 석호로 264  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-23"
+    },
+    {
+      "name": "원슈퍼",
+      "address": "경기도 안산시 상록구 본오동 886-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-23"
+    },
+    {
+      "name": "은영마트",
+      "address": "경기도 안산시 단원구 고잔동 667-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-23"
+    },
+    {
+      "name": "영미슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 759-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-23"
+    },
+    {
+      "name": "성창매점",
+      "address": "경기도 안산시 단원구 선부동 1070-2 성창빌딩 115",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-23"
+    },
+    {
+      "name": "우리자리슈퍼마켓",
+      "address": "경기도 안산시 단원구 고잔동 775-4 대우프라자 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-23"
+    },
+    {
+      "name": "고향슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 723-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-23"
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 661-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-23"
+    },
+    {
+      "name": "화니미니슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 945-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-23"
+    },
+    {
+      "name": "영심이마트",
+      "address": "경기도 안산시 단원구 선부동 1059-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-23"
+    },
+    {
+      "name": "뉴그린마트",
+      "address": "경기도 안산시 상록구 본오동 872-20 우성상가 1층 125",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-23"
+    },
+    {
+      "name": "삼일매점",
+      "address": "경기도 안산시 단원구 고잔동 540-12 삼일빌딩 115",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-23"
+    },
+    {
+      "name": "경안슈퍼",
+      "address": "경기도 안산시 단원구 선부동 981",
+      "roadAddress": "경기도 안산시 단원구 부부로8길 34  (선부동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-23"
+    },
+    {
+      "name": "월 마트",
+      "address": "경기도 안산시 상록구 사동 1285-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-25"
+    },
+    {
+      "name": "그린마트",
+      "address": "경기도 안산시 단원구 초지동 주공아파트 14단지상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-25"
+    },
+    {
+      "name": "월드할인마트",
+      "address": "경기도 안산시 상록구 사동 1346 월드프라자 지층 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-25"
+    },
+    {
+      "name": "복권슈퍼마켓",
+      "address": "경기도 안산시 단원구 원곡동 776-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-25"
+    },
+    {
+      "name": "농심가24시공판장",
+      "address": "경기도 안산시 상록구 사동 1253-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "경기도 안산시 상록구 팔곡이동 872-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "펑키",
+      "address": "경기도 안산시 단원구 원곡동 755-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빙그레슈퍼",
+      "address": "경기도 안산시 단원구 선부동 976-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선경슈퍼",
+      "address": "경기도 안산시 상록구 사동 1345-105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성하이퍼마켓",
+      "address": "경기도 안산시 상록구 사동 1320-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영림슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 788-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을슈퍼",
+      "address": "경기도 안산시 단원구 와동 122-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25 상록수점",
+      "address": "경기도 안산시 상록구 본오동 873-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인제마트",
+      "address": "경기도 안산시 단원구 와동 800-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LK슈퍼렛",
+      "address": "경기도 안산시 상록구 부곡동 666",
+      "roadAddress": "경기도 안산시 상록구 정재로2길 5  (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 757-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "21세기유통",
+      "address": "경기도 안산시 단원구 와동 733-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 안산시 상록구 수암동 422",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아울렛슈퍼",
+      "address": "경기도 안산시 상록구 본오동 754-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시동슈퍼마켓",
+      "address": "경기도 안산시 상록구 사동 1296-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가나래점",
+      "address": "경기도 안산시 상록구 일동 605-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경안슈퍼",
+      "address": "경기도 안산시 상록구 사동 1289-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쎄븐슈퍼",
+      "address": "경기도 안산시 상록구 사동 1149-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다정미니슈퍼",
+      "address": "경기도 안산시 상록구 일동 666-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘지스타(24시편의점)",
+      "address": "경기도 안산시 상록구 월피동 482-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "1동소비자공판장",
+      "address": "경기도 안산시 상록구 본오동 840",
+      "roadAddress": "경기도 안산시 상록구 본원로 108  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 793-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신안슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 792-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신안슈퍼",
+      "address": "경기도 안산시 상록구 본오동 871 신안프라자 126",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "온누리마트",
+      "address": "경기도 안산시 상록구 월피동 452-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼풍하이퍼마켓",
+      "address": "경기도 안산시 상록구 건건동 575-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다파네마트",
+      "address": "경기도 안산시 단원구 와동 811-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한가람유통",
+      "address": "경기도 안산시 상록구 본오동 795",
+      "roadAddress": "경기도 안산시 상록구 본이로1길 12  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빛나리하이퍼",
+      "address": "경기도 안산시 단원구 와동 769-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새로나슈퍼",
+      "address": "경기도 안산시 상록구 이동 576-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부부슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1091-11 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-25"
+    },
+    {
+      "name": "동양매점",
+      "address": "경기도 안산시 단원구 선부동 1070-11 동양빌딩동양매점",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-25"
+    },
+    {
+      "name": "유통방앗간",
+      "address": "경기도 안산시 단원구 원곡동 994-5 유통상가지하 라-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-25"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "경기도 안산시 상록구 이동 594-5 1층 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-25"
+    },
+    {
+      "name": "남경슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 539-13 1층 111-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-25"
+    },
+    {
+      "name": "주공하이마트",
+      "address": "경기도 안산시 단원구 선부동 1083 10단지상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-25"
+    },
+    {
+      "name": "주공하이마트",
+      "address": "경기도 안산시 단원구 선부동 1083 10단지상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-25"
+    },
+    {
+      "name": "신원슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 665-1 109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-25"
+    },
+    {
+      "name": "미니스톱 법원점",
+      "address": "경기도 안산시 단원구 고잔동 707 안산법조타운 109",
+      "roadAddress": "경기도 안산시 단원구 광덕서로 86  (고잔동,안산법조타운 109)",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-25"
+    },
+    {
+      "name": "신안슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1076-17 신안골드리치 1층 127",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-02"
+    },
+    {
+      "name": "공원마트",
+      "address": "경기도 안산시 단원구 와동 753-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-02"
+    },
+    {
+      "name": "동명슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1082 동명아파트단지내상가 1-117",
+      "roadAddress": "경기도 안산시 단원구 선부광장북로 36  (선부동,동명아파트단지내상가 1-117)",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-02"
+    },
+    {
+      "name": "주공빌마트",
+      "address": "경기도 안산시 단원구 초지동 738 주공아파트 18단지가상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-02"
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1013-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-02"
+    },
+    {
+      "name": "꼭지네매점",
+      "address": "경기도 안산시 단원구 원곡동 994-5 유통상가 D-120",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-02"
+    },
+    {
+      "name": "석이슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 945 34/2",
+      "roadAddress": "경기도 안산시 단원구 부부로 114  (원곡동,34/2)",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-02"
+    },
+    {
+      "name": "영광슈퍼",
+      "address": "경기도 안산시 단원구 와동 750-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-02"
+    },
+    {
+      "name": "프리마트",
+      "address": "경기도 안산시 단원구 원곡동 742-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-02"
+    },
+    {
+      "name": "유창매점",
+      "address": "경기도 안산시 단원구 고잔동 537-6 유창빌딩 132",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-02"
+    },
+    {
+      "name": "신길하이퍼",
+      "address": "경기도 안산시 단원구 선부동 998-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-02"
+    },
+    {
+      "name": "삼화마트",
+      "address": "경기도 안산시 단원구 원곡동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-02"
+    },
+    {
+      "name": "원곡 DC 백화점",
+      "address": "경기도 안산시 단원구 원곡동 763-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-02"
+    },
+    {
+      "name": "홈더블마트",
+      "address": "경기도 안산시 단원구 선부동 1043-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-02"
+    },
+    {
+      "name": "화신슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 743",
+      "roadAddress": "경기도 안산시 단원구 부부로2길 9-16  (원곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-02"
+    },
+    {
+      "name": "하우스코디",
+      "address": "경기도 안산시 단원구 고잔동 769 109, 110",
+      "roadAddress": "경기도 안산시 단원구 광덕동로 75  (고잔동,109, 110)",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-04"
+    },
+    {
+      "name": "(주)코리아세븐 안산상록수점",
+      "address": "경기도 안산시 상록구 일동 653-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-04"
+    },
+    {
+      "name": "153 농수산물",
+      "address": "경기도 안산시 상록구 사동 1333",
+      "roadAddress": "경기도 안산시 상록구 당골1길 12  (사동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-06"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "경기도 안산시 상록구 건건동 648-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-06"
+    },
+    {
+      "name": "DC마트",
+      "address": "경기도 안산시 상록구 이동 607-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "와동하이퍼마켓",
+      "address": "경기도 안산시 단원구 와동 805-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운암매점",
+      "address": "경기도 안산시 단원구 고잔동 539-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트안산중앙역",
+      "address": "경기도 안산시 단원구 고잔동 540-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나로공판장",
+      "address": "경기도 안산시 상록구 사동 1294-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-08"
+    },
+    {
+      "name": "은성슈퍼",
+      "address": "경기도 안산시 상록구 본오동 787-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-14"
+    },
+    {
+      "name": "본오마트",
+      "address": "경기도 안산시 상록구 본오동 1133-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-14"
+    },
+    {
+      "name": "그랜드마트",
+      "address": "경기도 안산시 단원구 선부동 1078 상가지층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-22"
+    },
+    {
+      "name": "가족마트",
+      "address": "경기도 안산시 상록구 본오동 855-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-25"
+    },
+    {
+      "name": "수연정육점",
+      "address": "경기도 안산시 상록구 본오동 719-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-25"
+    },
+    {
+      "name": "형제S.P",
+      "address": "경기도 안산시 상록구 본오동 670-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-25"
+    },
+    {
+      "name": "광덕마트",
+      "address": "경기도 안산시 상록구 월피동 490-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-25"
+    },
+    {
+      "name": "태화마트",
+      "address": "경기도 안산시 단원구 원곡동 830-4 반원",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-25"
+    },
+    {
+      "name": "화성마트",
+      "address": "경기도 안산시 상록구 일동 663-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-30"
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 776-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-30"
+    },
+    {
+      "name": "LG25안산본점",
+      "address": "경기도 안산시 상록구 본오동 872-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-30"
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "경기도 안산시 상록구 사동 1285-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-03"
+    },
+    {
+      "name": "현대전기철물",
+      "address": "경기도 안산시 단원구 선부동 1116-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-11"
+    },
+    {
+      "name": "일동그린마트",
+      "address": "경기도 안산시 상록구 일동 608-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-11"
+    },
+    {
+      "name": "진우마트",
+      "address": "경기도 안산시 상록구 건건동 487",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-19"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1096-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-24"
+    },
+    {
+      "name": "이레마트",
+      "address": "경기도 안산시 상록구 본오동 871-6-108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-04"
+    },
+    {
+      "name": "다농산업(주)안산지점",
+      "address": "경기도 안산시 상록구 월피동 445-1 라이프상가동 지하1호호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-04"
+    },
+    {
+      "name": "DC백화점",
+      "address": "경기도 안산시 상록구 본오동 882-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-11"
+    },
+    {
+      "name": "시온슈퍼",
+      "address": "경기도 안산시 상록구 본오동 659-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-11"
+    },
+    {
+      "name": "우일공판장",
+      "address": "경기도 안산시 상록구 부곡동 542-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-11"
+    },
+    {
+      "name": "군자슈퍼",
+      "address": "경기도 안산시 단원구 선부동 960 주공상가 102호",
+      "roadAddress": "경기도 안산시 단원구 선부광장남로 67  (선부동,주공상가 102호)",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-13"
+    },
+    {
+      "name": "그린마트",
+      "address": "경기도 안산시 단원구 원곡동 752",
+      "roadAddress": "경기도 안산시 단원구 원곡공원로 20  (원곡동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-13"
+    },
+    {
+      "name": "다나종합상사",
+      "address": "경기도 안산시 단원구 원곡동 유통상가14-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-13"
+    },
+    {
+      "name": "고잔할인마트",
+      "address": "경기도 안산시 단원구 고잔동 507-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-13"
+    },
+    {
+      "name": "제일종합유통",
+      "address": "경기도 안산시 단원구 선부동 1027-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-30"
+    },
+    {
+      "name": "현대상회",
+      "address": "경기도 안산시 단원구 선부동 1013-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-30"
+    },
+    {
+      "name": "안산슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 820-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-30"
+    },
+    {
+      "name": "와동공판장",
+      "address": "경기도 안산시 단원구 와동 788-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-30"
+    },
+    {
+      "name": "오고파슈퍼",
+      "address": "경기도 안산시 상록구 본오동 1144-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-30"
+    },
+    {
+      "name": "삼익공판장슈퍼",
+      "address": "경기도 안산시 단원구 신길동 삼익A상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-02"
+    },
+    {
+      "name": "반도마트",
+      "address": "경기도 안산시 상록구 월피동 508-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-15"
+    },
+    {
+      "name": "와동싱싱마트",
+      "address": "경기도 안산시 단원구 와동 682-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-15"
+    },
+    {
+      "name": "선부할인마트",
+      "address": "경기도 안산시 단원구 선부동 998-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-15"
+    },
+    {
+      "name": "대지마트",
+      "address": "경기도 안산시 단원구 원곡동 805-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-15"
+    },
+    {
+      "name": "광덕하나로마트",
+      "address": "경기도 안산시 상록구 월피동 514-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-15"
+    },
+    {
+      "name": "초원상회",
+      "address": "경기도 안산시 상록구 부곡동 727-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-15"
+    },
+    {
+      "name": "한샘할인점",
+      "address": "경기도 안산시 단원구 선부동 1086 군자1차상가 지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-17"
+    },
+    {
+      "name": "DC백화점",
+      "address": "경기도 안산시 단원구 원곡동 763-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-17"
+    },
+    {
+      "name": "본오1동 공판장",
+      "address": "경기도 안산시 상록구 본오동 909-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-20"
+    },
+    {
+      "name": "승리슈퍼",
+      "address": "경기도 안산시 상록구 본오동 1118-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-20"
+    },
+    {
+      "name": "둘리슈퍼",
+      "address": "경기도 안산시 단원구 와동 757-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-20"
+    },
+    {
+      "name": "원곡마트",
+      "address": "경기도 안산시 단원구 원곡동 830 범신그린빌라 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-22"
+    },
+    {
+      "name": "호남슈퍼",
+      "address": "경기도 안산시 단원구 선부동 983-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-22"
+    },
+    {
+      "name": "하나마트",
+      "address": "경기도 안산시 상록구 본오동 805",
+      "roadAddress": "경기도 안산시 상록구 반석로1길 4  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경기도 안산시 단원구 와동 793-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초이마트",
+      "address": "경기도 안산시 단원구 와동 832-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쌍둥이물산",
+      "address": "경기도 안산시 단원구 선부동 1076-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25",
+      "address": "경기도 안산시 단원구 선부동 1087-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼렛",
+      "address": "경기도 안산시 상록구 부곡동 735",
+      "roadAddress": "경기도 안산시 상록구 시낭북로2길 14  (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선길종합슈퍼",
+      "address": "경기도 안산시 단원구 와동 696-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명성할인마트",
+      "address": "경기도 안산시 단원구 와동 698-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대동슈퍼마켓",
+      "address": "경기도 안산시 단원구 와동 807-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성신슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 678-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우진상회",
+      "address": "경기도 안산시 단원구 고잔동 542-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은혜슈퍼마켓",
+      "address": "경기도 안산시 단원구 원곡동 806-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-06"
+    },
+    {
+      "name": "주공마트",
+      "address": "경기도 안산시 상록구 사동 1537 주공4단지상가 105",
+      "roadAddress": "경기도 안산시 상록구 용하공원로 7  (사동,주공4단지상가 105)",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-06"
+    },
+    {
+      "name": "진부령공판장",
+      "address": "경기도 안산시 단원구 원곡동 812-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-06"
+    },
+    {
+      "name": "이화슈퍼",
+      "address": "경기도 안산시 상록구 일동 542-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-06"
+    },
+    {
+      "name": "신원매점",
+      "address": "경기도 안산시 단원구 고잔동 527-8 신원프라자 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-06"
+    },
+    {
+      "name": "이레마트",
+      "address": "경기도 안산시 상록구 일동 536-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-06"
+    },
+    {
+      "name": "훼미리마트 안산성포점",
+      "address": "경기도 안산시 상록구 성포동 593-10 선경프라자 109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-09"
+    },
+    {
+      "name": "연금복지매장",
+      "address": "경기도 안산시 단원구 고잔동 665-1 신원빌라상가지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-09"
+    },
+    {
+      "name": "신세계하이퍼",
+      "address": "경기도 안산시 단원구 와동 798-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-09"
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "경기도 안산시 단원구 와동 726-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-09"
+    },
+    {
+      "name": "농심가고잔점",
+      "address": "경기도 안산시 단원구 고잔동 657-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-09"
+    },
+    {
+      "name": "코알라슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 584",
+      "roadAddress": "경기도 안산시 단원구 적금로3길 30  (고잔동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-09"
+    },
+    {
+      "name": "명성할인마트",
+      "address": "경기도 안산시 단원구 와동 698-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-09"
+    },
+    {
+      "name": "M.S 슈퍼",
+      "address": "경기도 안산시 단원구 와동 713-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-09"
+    },
+    {
+      "name": "남부슈퍼",
+      "address": "경기도 안산시 단원구 와동 747-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-09"
+    },
+    {
+      "name": "성신슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 678-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-09"
+    },
+    {
+      "name": "LG25 골드점",
+      "address": "경기도 안산시 단원구 고잔동 518 자유센타 102",
+      "roadAddress": "경기도 안산시 단원구 화랑로 358  (고잔동,자유센타 102)",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-09"
+    },
+    {
+      "name": "오성마트",
+      "address": "경기도 안산시 단원구 와동 769-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-09"
+    },
+    {
+      "name": "후레쉬마트",
+      "address": "경기도 안산시 단원구 고잔동 618-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-09"
+    },
+    {
+      "name": "월드실업",
+      "address": "경기도 안산시 단원구 고잔동 736-1 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-16"
+    },
+    {
+      "name": "현대하이퍼",
+      "address": "경기도 안산시 상록구 사사동 413 현대아파트 상가 1층 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-16"
+    },
+    {
+      "name": "(주)코리아세븐",
+      "address": "경기도 안산시 상록구 월피동 492-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-16"
+    },
+    {
+      "name": "원마트",
+      "address": "경기도 안산시 단원구 선부동 1077 서울프라자",
+      "roadAddress": "경기도 안산시 단원구 삼일로 310  (선부동,서울프라자)",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-16"
+    },
+    {
+      "name": "훼미리마트안산공원점",
+      "address": "경기도 안산시 단원구 초지동 726 포커스프라자 1층 107",
+      "roadAddress": "경기도 안산시 단원구 초지로 128  (초지동,포커스프라자 1층 107)",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-16"
+    },
+    {
+      "name": "공원슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 786-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-16"
+    },
+    {
+      "name": "럭키슈퍼렛",
+      "address": "경기도 안산시 상록구 사동 1169-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-16"
+    },
+    {
+      "name": "빅마트",
+      "address": "경기도 안산시 단원구 선부동 1114-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-16"
+    },
+    {
+      "name": "제일하이퍼",
+      "address": "경기도 안산시 단원구 고잔동 644-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-16"
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "경기도 안산시 단원구 와동 96-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가",
+      "address": "경기도 안산시 단원구 와동 757-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아란슈퍼",
+      "address": "경기도 안산시 단원구 와동 708-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대관련슈퍼",
+      "address": "경기도 안산시 단원구 와동 804-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다솜매점",
+      "address": "경기도 안산시 단원구 원시동 774-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼렛안산점",
+      "address": "경기도 안산시 상록구 일동 623",
+      "roadAddress": "경기도 안산시 상록구 안산대학로 189  (일동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경동슈퍼",
+      "address": "경기도 안산시 상록구 일동 615",
+      "roadAddress": "경기도 안산시 상록구 안산대학로 114  (일동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오복슈퍼나라",
+      "address": "경기도 안산시 단원구 와동 712-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광덕하이퍼마켓",
+      "address": "경기도 안산시 상록구 월피동 515-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 793-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영미사",
+      "address": "경기도 안산시 단원구 원곡동 793-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지하할인마트",
+      "address": "경기도 안산시 상록구 월피동 448 현대2차A상가 A-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "단골슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 746-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)내고향(부도-폐업)",
+      "address": "경기도 안산시 상록구 본오동 880",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "와동청과하이퍼",
+      "address": "경기도 안산시 단원구 와동 681-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진부령슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 820-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경기도 안산시 상록구 본오동 872-2 국제빌딩",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씽씽이슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 752-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나로공판장",
+      "address": "경기도 안산시 단원구 와동 849 상가 101호",
+      "roadAddress": "경기도 안산시 단원구 화정로3길 23  (와동,상가 101호)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초원문구",
+      "address": "경기도 안산시 상록구 사동 1392-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가한샘공판장",
+      "address": "경기도 안산시 상록구 사동 1399",
+      "roadAddress": "경기도 안산시 상록구 장화3길 44  (사동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "2000마트",
+      "address": "경기도 안산시 상록구 건건동 931-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안산D.C마트",
+      "address": "경기도 안산시 상록구 본오동 979-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코끼리마트",
+      "address": "경기도 안산시 단원구 선부동 982",
+      "roadAddress": "경기도 안산시 단원구 지곡로 103  (선부동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름알뜰매장",
+      "address": "경기도 안산시 단원구 와동 694-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "본오서점,문구,슈퍼",
+      "address": "경기도 안산시 상록구 본오동 823-12",
+      "roadAddress": "경기도 안산시 상록구 본오로 98  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한울마트",
+      "address": "경기도 안산시 단원구 와동 781-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "경기도 안산시 단원구 와동 772-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "셀리마트",
+      "address": "경기도 안산시 단원구 선부동 1102-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안산할인매장",
+      "address": "경기도 안산시 상록구 본오동 833-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "본오매장",
+      "address": "경기도 안산시 상록구 본오동 787",
+      "roadAddress": "경기도 안산시 상록구 석호로3안길 4-12  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영광슈퍼",
+      "address": "경기도 안산시 상록구 본오동 992-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "파도슈퍼",
+      "address": "경기도 안산시 단원구 대부북동 산 20-1108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 671-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕성슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 676-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강서할인마트",
+      "address": "경기도 안산시 단원구 와동 829-1 제마동 112",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-16"
+    },
+    {
+      "name": "고잔할인마트",
+      "address": "경기도 안산시 단원구 고잔동 507-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-16"
+    },
+    {
+      "name": "대일슈퍼",
+      "address": "경기도 안산시 상록구 사동 1412-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-16"
+    },
+    {
+      "name": "인마트",
+      "address": "경기도 안산시 상록구 이동 717-3 104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-16"
+    },
+    {
+      "name": "예스마트슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 768-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-24"
+    },
+    {
+      "name": "럭키슈퍼마켓",
+      "address": "경기도 안산시 상록구 본오동 722-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-24"
+    },
+    {
+      "name": "효자농심가",
+      "address": "경기도 안산시 단원구 고잔동 579-1 효자상가 107, 108호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-24"
+    },
+    {
+      "name": "럭키더블마트",
+      "address": "경기도 안산시 단원구 고잔동 671-1 1층 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-24"
+    },
+    {
+      "name": "두꺼비슈퍼",
+      "address": "경기도 안산시 단원구 와동 789-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-24"
+    },
+    {
+      "name": "홈마트",
+      "address": "경기도 안산시 상록구 본오동 883-11 1층 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-05"
+    },
+    {
+      "name": "친절매점",
+      "address": "경기도 안산시 단원구 원곡동 994-5 유통상가 9동바 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-05"
+    },
+    {
+      "name": "한강할인마트",
+      "address": "경기도 안산시 상록구 부곡동 539-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-05"
+    },
+    {
+      "name": "알뜰DC마트",
+      "address": "경기도 안산시 상록구 일동 594-5 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-05"
+    },
+    {
+      "name": "콜럼버스마트",
+      "address": "경기도 안산시 상록구 월피동 446-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-05"
+    },
+    {
+      "name": "우리자리슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 709-8 스타프라자 106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-14"
+    },
+    {
+      "name": "엘림산업",
+      "address": "경기도 안산시 상록구 부곡동 600-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-14"
+    },
+    {
+      "name": "YES25(예스이십오마트)",
+      "address": "경기도 안산시 단원구 초지동 13 블럭 21세기타워 1층120",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-14"
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 643",
+      "roadAddress": "경기도 안산시 단원구 예술대학로 158-1  (고잔동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-14"
+    },
+    {
+      "name": "DC 종합할인마트",
+      "address": "경기도 안산시 상록구 본오동 882-5 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-14"
+    },
+    {
+      "name": "한진월피공판장",
+      "address": "경기도 안산시 상록구 월피동 465-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-14"
+    },
+    {
+      "name": "총각상회",
+      "address": "경기도 안산시 단원구 고잔동 540-11 (117)호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-14"
+    },
+    {
+      "name": "(유한)안선공판장",
+      "address": "경기도 안산시 단원구 선부동 1076-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-14"
+    },
+    {
+      "name": "미니스톱 안산고잔점",
+      "address": "경기도 안산시 단원구 고잔동 76-01-08 고잔프라자 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-14"
+    },
+    {
+      "name": "초이마트",
+      "address": "경기도 안산시 단원구 와동 832-1 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-14"
+    },
+    {
+      "name": "진주슈퍼",
+      "address": "경기도 안산시 상록구 이동 611",
+      "roadAddress": "경기도 안산시 상록구 석삼말로 212  (이동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-14"
+    },
+    {
+      "name": "산로슈퍼",
+      "address": "경기도 안산시 상록구 건건동 894-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-14"
+    },
+    {
+      "name": "대성할인마트",
+      "address": "경기도 안산시 상록구 월피동 447 C 상가 102 호내 A",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-14"
+    },
+    {
+      "name": "일등농심가",
+      "address": "경기도 안산시 상록구 일동 620",
+      "roadAddress": "경기도 안산시 상록구 웃말1안길 48  (일동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-14"
+    },
+    {
+      "name": "한양하이퍼",
+      "address": "경기도 안산시 상록구 일동 543-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-14"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 670",
+      "roadAddress": "경기도 안산시 단원구 당곡3로 3  (고잔동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "경기도 안산시 상록구 본오동 872",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성원슈퍼",
+      "address": "경기도 안산시 상록구 건건동 879-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성슈퍼",
+      "address": "경기도 안산시 상록구 본오동 872-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가슈퍼",
+      "address": "경기도 안산시 상록구 사동 1384-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서오공판장",
+      "address": "경기도 안산시 단원구 와동 819-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성포공판장",
+      "address": "경기도 안산시 상록구 성포동 591",
+      "roadAddress": "경기도 안산시 상록구 충장로 533  (성포동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "24시공판장",
+      "address": "경기도 안산시 상록구 사동 1431-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "경기도 안산시 상록구 본오동 111-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해태코스코",
+      "address": "경기도 안산시 상록구 성포동 583",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강원상회",
+      "address": "경기도 안산시 단원구 와동 696-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해태유통",
+      "address": "경기도 안산시 상록구 본오동 871",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주형슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1058-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문정슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1070-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안산쌀상회",
+      "address": "경기도 안산시 상록구 사동 1293-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화인유통",
+      "address": "경기도 안산시 상록구 본오동 756-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대하이퍼",
+      "address": "경기도 안산시 상록구 일동 588-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대하이퍼",
+      "address": "경기도 안산시 단원구 와동 771-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG슈퍼",
+      "address": "경기도 안산시 상록구 본오동 820-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양관리소",
+      "address": "경기도 안산시 상록구 본오동 880",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영진종합",
+      "address": "경기도 안산시 상록구 월피동 460-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다두하이퍼",
+      "address": "경기도 안산시 단원구 와동 850-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘지백화점",
+      "address": "경기도 안산시 단원구 고잔동 536-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "후레쉬마트",
+      "address": "경기도 안산시 단원구 고잔동 618-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "결혼회관슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 526-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 631",
+      "roadAddress": "경기도 안산시 단원구 예술대학로5길 43  (고잔동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다복슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 846-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보희슈퍼",
+      "address": "경기도 안산시 단원구 와동 800-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금성하이퍼",
+      "address": "경기도 안산시 상록구 사동 1244-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "디스스토아",
+      "address": "경기도 안산시 단원구 선부동 1122-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세희슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1135-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진성슈퍼",
+      "address": "경기도 안산시 상록구 사동 1392-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신성슈퍼",
+      "address": "경기도 안산시 상록구 사동 1406-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강서할인마트",
+      "address": "경기도 안산시 단원구 와동 827-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바다슈퍼",
+      "address": "경기도 안산시 상록구 사동 1481-11",
+      "roadAddress": "경기도 안산시 상록구 선진4길 19  (사동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영광슈퍼마켓",
+      "address": "경기도 안산시 단원구 와동 750-1",
+      "roadAddress": "경기도 안산시 단원구 와동공원로4길 15  (와동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쇼핑스토아",
+      "address": "경기도 안산시 단원구 와동 728-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새농심가",
+      "address": "경기도 안산시 상록구 부곡동 727-9",
+      "roadAddress": "경기도 안산시 상록구 시낭북로4길 11  (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "반월매점",
+      "address": "경기도 안산시 단원구 고잔동 520-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을구판장",
+      "address": "경기도 안산시 단원구 원곡동 818-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가락부식백화점",
+      "address": "경기도 안산시 상록구 본오동 812",
+      "roadAddress": "경기도 안산시 상록구 본오공원1길 1  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘지슈퍼렛",
+      "address": "경기도 안산시 상록구 사동 1345-1    지층7호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "실로암농산",
+      "address": "경기도 안산시 상록구 부곡동 695-11",
+      "roadAddress": "경기도 안산시 상록구 부곡로 3  (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상록마트",
+      "address": "경기도 안산시 상록구 본오동 879-18 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한도쇼핑",
+      "address": "경기도 안산시 단원구 고잔동 614-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신선마트",
+      "address": "경기도 안산시 단원구 와동 731-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영동슈퍼",
+      "address": "경기도 안산시 상록구 사동 1425-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "자원이네슈퍼",
+      "address": "경기도 안산시 상록구 본오동 737-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경기도 안산시 상록구 일동 126-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한가람유통",
+      "address": "경기도 안산시 상록구 본오동 795",
+      "roadAddress": "경기도 안산시 상록구 본이로1길 12  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나로마트",
+      "address": "경기도 안산시 상록구 본오동 본오2차아파트상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영문구",
+      "address": "경기도 안산시 상록구 본오동 822-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미리마트안산부곡",
+      "address": "경기도 안산시 상록구 부곡동 665-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "온누리슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 534-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼화하이퍼마켓",
+      "address": "경기도 안산시 상록구 본오동 853-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진수슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1026",
+      "roadAddress": "경기도 안산시 단원구 북촌3안길 13  (선부동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "놀이터하이퍼마켓",
+      "address": "경기도 안산시 상록구 본오동 677",
+      "roadAddress": "경기도 안산시 상록구 세류로4길 8  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "본오한아름슈퍼",
+      "address": "경기도 안산시 상록구 본오동 818-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해남매점",
+      "address": "경기도 안산시 단원구 고잔동 535-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화랑유원지매점",
+      "address": "경기도 안산시 단원구 초지동 607",
+      "roadAddress": "경기도 안산시 단원구 초지시장로 36-12  (초지동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가그린마트",
+      "address": "경기도 안산시 상록구 본오동 838",
+      "roadAddress": "경기도 안산시 상록구 각골서로 26  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘지마텟",
+      "address": "경기도 안산시 상록구 일동 651",
+      "roadAddress": "경기도 안산시 상록구 실록1길 39  (일동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-14"
+    },
+    {
+      "name": "싱싱마트",
+      "address": "경기도 안산시 상록구 부곡동 654-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "88슈퍼마켓",
+      "address": "경기도 안산시 단원구 고잔동 656-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "디스카운트하우스",
+      "address": "경기도 안산시 단원구 고잔동 615-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "본오봉심가슈퍼",
+      "address": "경기도 안산시 상록구 본오동 671-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "월드슈퍼",
+      "address": "경기도 안산시 상록구 본오동 872 월드상가 2-111",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "홈마트",
+      "address": "경기도 안산시 상록구 본오동 820-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "(주)해태유통안산점",
+      "address": "경기도 안산시 상록구 성포동 583",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "아울렛마트",
+      "address": "경기도 안산시 상록구 본오동 754-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "가람슈퍼",
+      "address": "경기도 안산시 단원구 와동 786-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 675-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "해피마트",
+      "address": "경기도 안산시 단원구 와동 727-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "선경농심가슈퍼",
+      "address": "경기도 안산시 상록구 사동 1345 선경중심상가지층 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "코아마트",
+      "address": "경기도 안산시 단원구 원곡동 802",
+      "roadAddress": "경기도 안산시 단원구 원본로 40  (원곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "가락공판장",
+      "address": "경기도 안산시 단원구 선부동 1088",
+      "roadAddress": "경기도 안산시 단원구 화정천서로2안길 23  (선부동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "고잔공판장",
+      "address": "경기도 안산시 단원구 고잔동 505-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "경기도 안산시 단원구 선부동 979-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "만남슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 787-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "오션슈퍼24시",
+      "address": "경기도 안산시 상록구 본오동 725-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 717",
+      "roadAddress": "경기도 안산시 상록구 시낭공원안길 2  (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "안산엘마트",
+      "address": "경기도 안산시 상록구 수암동 (안산동)16블럭 18럿트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "한우리편의점",
+      "address": "경기도 안산시 단원구 선부동 1070-13 한우리클릭닉센타",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "경기도 안산시 단원구 원곡동 837 복원연립상가 가-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "한솔마트",
+      "address": "경기도 안산시 상록구 일동 580-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-02"
+    },
+    {
+      "name": "경민하이퍼마트",
+      "address": "경기도 안산시 상록구 본오동 841",
+      "roadAddress": "경기도 안산시 상록구 본원로 114  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-02"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1027-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-02"
+    },
+    {
+      "name": "와동제일농심가",
+      "address": "경기도 안산시 단원구 와동 107",
+      "roadAddress": "경기도 안산시 단원구 사세충열로3길 7  (와동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-02"
+    },
+    {
+      "name": "에덴슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 776-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-02"
+    },
+    {
+      "name": "24시두리마트",
+      "address": "경기도 안산시 단원구 와동 781-9 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-02"
+    },
+    {
+      "name": "LG슈퍼",
+      "address": "경기도 안산시 상록구 사동 1428-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "경기도 안산시 상록구 본오동 878-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "생수하이퍼",
+      "address": "경기도 안산시 단원구 와동 859",
+      "roadAddress": "경기도 안산시 단원구 와동공원로7안길 19  (와동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정다운슈퍼",
+      "address": "경기도 안산시 상록구 일동 650-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경기공판장",
+      "address": "경기도 안산시 상록구 사동 1306-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가슈퍼",
+      "address": "경기도 안산시 상록구 사동 1285-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "단골슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 820-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "경기도 안산시 단원구 와동 764-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나ㅏ슈퍼",
+      "address": "경기도 안산시 상록구 일동 551-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아슈퍼",
+      "address": "경기도 안산시 단원구 와동 803-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사동1472-11",
+      "address": "경기도 안산시 상록구 사동 1472-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진영쌀상회",
+      "address": "경기도 안산시 상록구 사동 1474-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "나도하이퍼",
+      "address": "경기도 안산시 상록구 건건동 988-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘지하이퍼",
+      "address": "경기도 안산시 단원구 선부동 969-315",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충북상회",
+      "address": "경기도 안산시 단원구 원곡동 846",
+      "roadAddress": "경기도 안산시 단원구 원초로 30  (원곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가락공판장",
+      "address": "경기도 안산시 상록구 사동 1408-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원앙슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 814-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "맘모스슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 841",
+      "roadAddress": "경기도 안산시 단원구 원곡성당길 20  (원곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 818-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "경기도 안산시 단원구 원곡동 831",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름문구",
+      "address": "경기도 안산시 단원구 원곡동 811-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "나라중개사",
+      "address": "경기도 안산시 단원구 와동 721-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "경기도 안산시 상록구 본오동 889-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린하이퍼",
+      "address": "경기도 안산시 상록구 본오동 859",
+      "roadAddress": "경기도 안산시 상록구 본오로8길 37  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평안슈퍼",
+      "address": "경기도 안산시 상록구 본오동 885",
+      "roadAddress": "경기도 안산시 상록구 충장로3길 34  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충주슈퍼",
+      "address": "경기도 안산시 상록구 본오동 960-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보미슈퍼",
+      "address": "경기도 안산시 상록구 본오동 440-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키하이퍼",
+      "address": "경기도 안산시 상록구 본오동 921-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "경기도 안산시 상록구 본오동 973-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한마음슈퍼",
+      "address": "경기도 안산시 상록구 본오동 864-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나공판장",
+      "address": "경기도 안산시 상록구 본오동 671-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "방아동 횟집",
+      "address": "경기도 안산시 단원구 대부북동 1848-65",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "푸른슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 661-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "경기도 안산시 상록구 본오동 907",
+      "roadAddress": "경기도 안산시 상록구 오목로6길 12  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문정슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1070-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오성마트",
+      "address": "경기도 안산시 단원구 와동 769-25",
+      "roadAddress": "경기도 안산시 단원구 와동공원로 122  (와동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼더블마트",
+      "address": "경기도 안산시 단원구 고잔동 672-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화정문구",
+      "address": "경기도 안산시 단원구 선부동 1099-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰D.C마트",
+      "address": "경기도 안산시 상록구 일동 594-5",
+      "roadAddress": "경기도 안산시 상록구 성호로4길 20  (일동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "MS와동슈퍼렛",
+      "address": "경기도 안산시 단원구 와동 713-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동산하이퍼",
+      "address": "경기도 안산시 상록구 월피동 446-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "25시슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 808-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정현슈퍼",
+      "address": "경기도 안산시 상록구 본오동 893-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름공판장",
+      "address": "경기도 안산시 상록구 본오동 716-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "민희네슈퍼",
+      "address": "경기도 안산시 상록구 본오동 863-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소원슈퍼",
+      "address": "경기도 안산시 단원구 선부동 963",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "완도종합마트",
+      "address": "경기도 안산시 상록구 부곡동 622-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성하이퍼",
+      "address": "경기도 안산시 상록구 일동 662-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "와동마트",
+      "address": "경기도 안산시 단원구 와동 835-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이가슈퍼",
+      "address": "경기도 안산시 상록구 본오동 862-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼렛",
+      "address": "경기도 안산시 상록구 부곡동 692-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경기도 안산시 상록구 이동 599-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광덕슈퍼",
+      "address": "경기도 안산시 상록구 월피동 503",
+      "roadAddress": "경기도 안산시 상록구 예술대학로8길 3  (월피동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "로얄슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 743-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼익슈퍼",
+      "address": "경기도 안산시 단원구 신길동 1438 삼익상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무진슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 667-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아름슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1046-102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕성슈퍼",
+      "address": "경기도 안산시 단원구 와동 838-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미스슈퍼",
+      "address": "경기도 안산시 단원구 와동 781-15",
+      "roadAddress": "경기도 안산시 단원구 와동공원로 172  (와동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상록마트",
+      "address": "경기도 안산시 단원구 고잔동 고잔지구 삼보아파트상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "식물원슈퍼",
+      "address": "경기도 안산시 상록구 일동 569-9",
+      "roadAddress": "경기도 안산시 상록구 성호로 114  (일동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼화유통",
+      "address": "경기도 안산시 단원구 원곡동 792-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "왕성슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1015-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-02"
+    },
+    {
+      "name": "쌍둥이식품",
+      "address": "경기도 안산시 상록구 월피동 476-19 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-02"
+    },
+    {
+      "name": "중앙미니슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 671-2 바상가 123",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-02"
+    },
+    {
+      "name": "진마트",
+      "address": "경기도 안산시 상록구 이동 602-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-02"
+    },
+    {
+      "name": "에스마트",
+      "address": "경기도 안산시 상록구 사동 1473-7 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-02"
+    },
+    {
+      "name": "초지마트",
+      "address": "경기도 안산시 단원구 초지동 607 원초상가 101",
+      "roadAddress": "경기도 안산시 단원구 초지시장로 36-12  (초지동,원초상가 101)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-02"
+    },
+    {
+      "name": "24시슈퍼",
+      "address": "경기도 안산시 단원구 와동 842-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-10"
+    },
+    {
+      "name": "주공할인마트",
+      "address": "경기도 안산시 단원구 초지동 736 주공그린빌상가 106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-10"
+    },
+    {
+      "name": "미니스톱안산금강",
+      "address": "경기도 안산시 단원구 고잔동 715 금강프라자 105",
+      "roadAddress": "경기도 안산시 단원구 광덕서로 56  (고잔동,금강프라자 105)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-10"
+    },
+    {
+      "name": "미니스톱 안산본오점",
+      "address": "경기도 안산시 상록구 본오동 872-16 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-10"
+    },
+    {
+      "name": "네오우리자리",
+      "address": "경기도 안산시 단원구 고잔동 769-1 네오빌딩 1111",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-10"
+    },
+    {
+      "name": "미성마트",
+      "address": "경기도 안산시 단원구 와동 129",
+      "roadAddress": "경기도 안산시 단원구 사세충열로 98-1  (와동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-10"
+    },
+    {
+      "name": "예스마트",
+      "address": "경기도 안산시 단원구 고잔동 716-2 현대프라자 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-10"
+    },
+    {
+      "name": "OK 마트",
+      "address": "경기도 안산시 단원구 고잔동 757 네오빌상가 103",
+      "roadAddress": "경기도 안산시 단원구 민속공원로 80  (고잔동,네오빌상가 103)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-10"
+    },
+    {
+      "name": "신성슈퍼",
+      "address": "경기도 안산시 상록구 사동 1406-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-10"
+    },
+    {
+      "name": "금강마트",
+      "address": "경기도 안산시 단원구 고잔동 780 양지마을분산상가 402-107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-10"
+    },
+    {
+      "name": "하나로공판장",
+      "address": "경기도 안산시 단원구 와동 796-7 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-10"
+    },
+    {
+      "name": "굿모닝수퍼마트",
+      "address": "경기도 안산시 상록구 본오동 776-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-10"
+    },
+    {
+      "name": "도덕농수축산물백화점(주)",
+      "address": "경기도 안산시 상록구 본오동 871 신안상가 127지층 8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-10"
+    },
+    {
+      "name": "복음슈퍼",
+      "address": "경기도 안산시 단원구 선부동 963 효자상가 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-10"
+    },
+    {
+      "name": "(주)이천일아울렛안산점",
+      "address": "경기도 안산시 단원구 고잔동 533",
+      "roadAddress": "경기도 안산시 단원구 당곡로 20  (고잔동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-15"
+    },
+    {
+      "name": "훼미리마트안산와동점",
+      "address": "경기도 안산시 단원구 와동 679-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-16"
+    },
+    {
+      "name": "SMART",
+      "address": "경기도 안산시 단원구 고잔동 770-6 광장타운 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-16"
+    },
+    {
+      "name": "일동케이마트",
+      "address": "경기도 안산시 상록구 일동 601-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-16"
+    },
+    {
+      "name": "미래로 슈퍼",
+      "address": "경기도 안산시 상록구 본오동 849-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-16"
+    },
+    {
+      "name": "주)곤지암리조트안산점",
+      "address": "경기도 안산시 단원구 고잔동 536-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-16"
+    },
+    {
+      "name": "농심가유통",
+      "address": "경기도 안산시 상록구 부곡동 727-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-16"
+    },
+    {
+      "name": "월드컵 편의점",
+      "address": "경기도 안산시 단원구 고잔동 770-2 창진빌딩 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "LG슈퍼렛",
+      "address": "경기도 안산시 상록구 사동 1322-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린하이퍼",
+      "address": "경기도 안산시 상록구 본오동 957",
+      "roadAddress": "경기도 안산시 상록구 고목로3길 34  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지현하이퍼",
+      "address": "경기도 안산시 상록구 본오동 927-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘지슈퍼",
+      "address": "경기도 안산시 상록구 본오동 860-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광진하이퍼",
+      "address": "경기도 안산시 상록구 본오동 966-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하비상회",
+      "address": "경기도 안산시 상록구 본오동 938",
+      "roadAddress": "경기도 안산시 상록구 선암로1길 31  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코끼리슈퍼",
+      "address": "경기도 안산시 상록구 본오동 939-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "경기도 안산시 상록구 본오동 984-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가슈퍼",
+      "address": "경기도 안산시 상록구 본오동 884",
+      "roadAddress": "경기도 안산시 상록구 충장로3길 26  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가",
+      "address": "경기도 안산시 단원구 와동 724-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "반달슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 938",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신세계마켓",
+      "address": "경기도 안산시 단원구 와동 798-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제주슈퍼",
+      "address": "경기도 안산시 상록구 사동 1317-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-14"
+    },
+    {
+      "name": "삼미유통 수암점",
+      "address": "경기도 안산시 상록구 수암동 420",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-14"
+    },
+    {
+      "name": "우리문구",
+      "address": "경기도 안산시 상록구 성포동 592",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-21"
+    },
+    {
+      "name": "복지매장",
+      "address": "경기도 안산시 상록구 사동 1407-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-21"
+    },
+    {
+      "name": "화정마트",
+      "address": "경기도 안산시 단원구 선부동 988-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-21"
+    },
+    {
+      "name": "달맞이슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1007",
+      "roadAddress": "경기도 안산시 단원구 선이로1길 21  (선부동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-29"
+    },
+    {
+      "name": "정우슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1058-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-29"
+    },
+    {
+      "name": "보은슈퍼",
+      "address": "경기도 안산시 단원구 선부동 698-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-29"
+    },
+    {
+      "name": "럭키종합슈퍼",
+      "address": "경기도 안산시 단원구 선부동 985-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-29"
+    },
+    {
+      "name": "정해슈퍼",
+      "address": "경기도 안산시 단원구 선부동 993-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-29"
+    },
+    {
+      "name": "로손편의점",
+      "address": "경기도 안산시 단원구 선부동 969-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-29"
+    },
+    {
+      "name": "김순옥",
+      "address": "경기도 안산시 단원구 선부동 988-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-29"
+    },
+    {
+      "name": "동양매점",
+      "address": "경기도 안산시 단원구 선부동 1070-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-28"
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "경기도 안산시 단원구 선부동 984-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-29"
+    },
+    {
+      "name": "열린하이퍼",
+      "address": "경기도 안산시 단원구 선부동 969-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-29"
+    },
+    {
+      "name": "한일전기",
+      "address": "경기도 안산시 상록구 일동 1078-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-29"
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "경기도 안산시 단원구 선부동 988-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-29"
+    },
+    {
+      "name": "해태코스코",
+      "address": "경기도 안산시 상록구 성포동 592",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-29"
+    },
+    {
+      "name": "LG25",
+      "address": "경기도 안산시 상록구 성포동 588-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿마트",
+      "address": "경기도 안산시 단원구 고잔동 고잔지구 요진상가10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선일슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1003-5",
+      "roadAddress": "경기도 안산시 단원구 선부로 53-1  (선부동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-05"
+    },
+    {
+      "name": "신선마트",
+      "address": "경기도 안산시 단원구 와동 731-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농수산물직판장",
+      "address": "경기도 안산시 상록구 일동 653-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-17"
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "경기도 안산시 단원구 와동 772-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-17"
+    },
+    {
+      "name": "회신슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 743",
+      "roadAddress": "경기도 안산시 단원구 부부로2길 9-16  (원곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-17"
+    },
+    {
+      "name": "엘지칼텍스정유 (주)안산 LG",
+      "address": "경기도 안산시 단원구 선부동 1087",
+      "roadAddress": "경기도 안산시 단원구 달미로 72  (선부동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-29"
+    },
+    {
+      "name": "이레마트",
+      "address": "경기도 안산시 상록구 일동 536",
+      "roadAddress": "경기도 안산시 상록구 첨성안길 16  (일동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-29"
+    },
+    {
+      "name": "수암 빅마트",
+      "address": "경기도 안산시 상록구 수암동 21-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-10"
+    },
+    {
+      "name": "대성 쌀슈퍼",
+      "address": "경기도 안산시 상록구 건건동 648-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-10"
+    },
+    {
+      "name": "농심가슈퍼",
+      "address": "경기도 안산시 상록구 사동 1384-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-10"
+    },
+    {
+      "name": "고향슈퍼",
+      "address": "경기도 안산시 상록구 사동 1534 고향마을 APT 상가 101호",
+      "roadAddress": "경기도 안산시 상록구 용하공원로 39  (사동,고향마을 APT 상가 101호)",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-10"
+    },
+    {
+      "name": "LG25 원곡본점",
+      "address": "경기도 안산시 단원구 원곡동 750-8",
+      "roadAddress": "경기도 안산시 단원구 원곡로 51  (원곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "자매슈퍼",
+      "address": "경기도 안산시 단원구 선부동 987-19",
+      "roadAddress": "경기도 안산시 단원구 지곡로 106-1  (선부동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-03"
+    },
+    {
+      "name": "화니미니슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 945-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-02"
+    },
+    {
+      "name": "해피마트",
+      "address": "경기도 안산시 단원구 대부북동 1841-9",
+      "roadAddress": "경기도 안산시 단원구 대부황금로 1486  (대부북동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-02"
+    },
+    {
+      "name": "은혜공판장",
+      "address": "경기도 안산시 단원구 와동 805-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-17"
+    },
+    {
+      "name": "즉석생두부마을",
+      "address": "경기도 안산시 단원구 선부동 1081",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-17"
+    },
+    {
+      "name": "고창슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1088-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-17"
+    },
+    {
+      "name": "만남슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1130-2",
+      "roadAddress": "경기도 안산시 단원구 선삼로 77  (선부동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-11"
+    },
+    {
+      "name": "본오1동 공판장",
+      "address": "경기도 안산시 상록구 본오동 909-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-03"
+    },
+    {
+      "name": "동네 25시 슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 815-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-03"
+    },
+    {
+      "name": "세일마트",
+      "address": "경기도 안산시 단원구 고잔동 585",
+      "roadAddress": "경기도 안산시 단원구 적금로2길 28  (고잔동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-03"
+    },
+    {
+      "name": "화정하이퍼",
+      "address": "경기도 안산시 단원구 와동 806-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 767 네오아파트단지내상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "좋은 친구들",
+      "address": "경기도 안산시 상록구 일동 574-2 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "부식정육점",
+      "address": "경기도 안산시 단원구 와동 112-7 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "관산미니슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 995-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "코사마트",
+      "address": "경기도 안산시 상록구 사동 1425-9 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "자매슈퍼",
+      "address": "경기도 안산시 상록구 일동 594-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "경기도 안산시 상록구 월피동 447 한양상가 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-07"
+    },
+    {
+      "name": "팔곡할인마트",
+      "address": "경기도 안산시 상록구 본오동 364 (팔곡이동)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-07"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "경기도 안산시 단원구 고잔동 707-3 대한법조타운 108, 508",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-07"
+    },
+    {
+      "name": "(주)코리아세븐와동점",
+      "address": "경기도 안산시 단원구 와동 799-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-07"
+    },
+    {
+      "name": "본오할인마트",
+      "address": "경기도 안산시 상록구 본오동 849-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-07"
+    },
+    {
+      "name": "동양마트(주)안산삼일로점",
+      "address": "경기도 안산시 단원구 고잔동 507-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-07"
+    },
+    {
+      "name": "코스코마트",
+      "address": "경기도 안산시 상록구 본오동 872 월드상가지하 1층 41,65호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-17"
+    },
+    {
+      "name": "우정마트농수산물직거래장터",
+      "address": "경기도 안산시 상록구 이동 718-2 썬프라자 1층 3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-17"
+    },
+    {
+      "name": "하이플러스마트",
+      "address": "경기도 안산시 상록구 사동 1317-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-17"
+    },
+    {
+      "name": "스카이24시편의점",
+      "address": "경기도 안산시 상록구 사동 1569-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-17"
+    },
+    {
+      "name": "우리종합상사",
+      "address": "경기도 안산시 단원구 고잔동 708-2 삼영타운 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-17"
+    },
+    {
+      "name": "LG25 안산고잔점",
+      "address": "경기도 안산시 단원구 고잔동 710-3 고잔법조타운 108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-17"
+    },
+    {
+      "name": "훼미리마트 안산일동점",
+      "address": "경기도 안산시 상록구 일동 583-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-17"
+    },
+    {
+      "name": "알뜰상사",
+      "address": "경기도 안산시 단원구 와동 259",
+      "roadAddress": "경기도 안산시 단원구 사세충열로2길 4  (와동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-17"
+    },
+    {
+      "name": "대림할인마트",
+      "address": "경기도 안산시 단원구 고잔동 720 호수공원아파트 상가 1동 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-17"
+    },
+    {
+      "name": "한국까르푸(주)안산사무소",
+      "address": "경기도 안산시 단원구 고잔동 707-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-21"
+    },
+    {
+      "name": "일해할인마트",
+      "address": "경기도 안산시 상록구 본오동 439-9 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-21"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "경기도 안산시 상록구 월피동 470-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-21"
+    },
+    {
+      "name": "새농심가",
+      "address": "경기도 안산시 상록구 사동 1205",
+      "roadAddress": "경기도 안산시 상록구 석호공원로 74  (사동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-03"
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "경기도 안산시 단원구 와동 772-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-03"
+    },
+    {
+      "name": "열린하이퍼",
+      "address": "경기도 안산시 상록구 본오동 818-4 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-03"
+    },
+    {
+      "name": "금강마트",
+      "address": "경기도 안산시 단원구 고잔동 25BL 금강아파트상가 401-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-06"
+    },
+    {
+      "name": "(주)코리아세븐안산이동점",
+      "address": "경기도 안산시 상록구 이동 534-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-06"
+    },
+    {
+      "name": "엘지슈퍼렛",
+      "address": "경기도 안산시 단원구 선부동 1039-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-29"
+    },
+    {
+      "name": "복지매장",
+      "address": "경기도 안산시 상록구 부곡동 538",
+      "roadAddress": "경기도 안산시 상록구 부곡로 124  (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-24"
+    },
+    {
+      "name": "나나슈퍼",
+      "address": "경기도 안산시 단원구 초지동 604",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-19"
+    },
+    {
+      "name": "부자슈퍼",
+      "address": "경기도 안산시 단원구 와동 816-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-24"
+    },
+    {
+      "name": "현대하이퍼",
+      "address": "경기도 안산시 단원구 선부동 973-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-24"
+    },
+    {
+      "name": "대광편의점",
+      "address": "경기도 안산시 상록구 월피동 508-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-24"
+    },
+    {
+      "name": "농심공판장",
+      "address": "경기도 안산시 상록구 월피동 436-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-24"
+    },
+    {
+      "name": "하나로마트",
+      "address": "경기도 안산시 상록구 월피동 461-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-24"
+    },
+    {
+      "name": "월피슈퍼렛",
+      "address": "경기도 안산시 상록구 월피동 493-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-24"
+    },
+    {
+      "name": "농산물직판장",
+      "address": "경기도 안산시 상록구 부곡동 533-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-08"
+    },
+    {
+      "name": "다복하이퍼",
+      "address": "경기도 안산시 단원구 고잔동 633-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-08"
+    },
+    {
+      "name": "한화유통",
+      "address": "경기도 안산시 단원구 선부동 1076-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-08"
+    },
+    {
+      "name": "알뜰공판장",
+      "address": "경기도 안산시 상록구 사동 1378-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-08"
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1013-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-21"
+    },
+    {
+      "name": "한솔공판장",
+      "address": "경기도 안산시 상록구 일동 84-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-21"
+    },
+    {
+      "name": "농심가슈퍼",
+      "address": "경기도 안산시 상록구 사동 1407-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-21"
+    },
+    {
+      "name": "고층슈퍼",
+      "address": "경기도 안산시 상록구 성포동 588 105호",
+      "roadAddress": "경기도 안산시 상록구 화랑로 510  (성포동,105호)",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-21"
+    },
+    {
+      "name": "싱싱슈퍼",
+      "address": "경기도 안산시 상록구 일동 609-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-01"
+    },
+    {
+      "name": "대림하이퍼",
+      "address": "경기도 안산시 상록구 부곡동 674",
+      "roadAddress": "경기도 안산시 상록구 성호로16안길 4-22  (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-01"
+    },
+    {
+      "name": "부곡공판장",
+      "address": "경기도 안산시 상록구 부곡동 605-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-01"
+    },
+    {
+      "name": "선경슈퍼",
+      "address": "경기도 안산시 상록구 사동 1345-102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-01"
+    },
+    {
+      "name": "그린마트",
+      "address": "경기도 안산시 상록구 본오동 765-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-01"
+    },
+    {
+      "name": "덕성하이퍼",
+      "address": "경기도 안산시 상록구 월피동 486-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-01"
+    },
+    {
+      "name": "흥진하이퍼",
+      "address": "경기도 안산시 상록구 월피동 447",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-01"
+    },
+    {
+      "name": "백산슈퍼",
+      "address": "경기도 안산시 상록구 월피동 435-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-01"
+    },
+    {
+      "name": "우경하이퍼",
+      "address": "경기도 안산시 상록구 월피동 3-103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-01"
+    },
+    {
+      "name": "제일공판장",
+      "address": "경기도 안산시 상록구 일동 551",
+      "roadAddress": "경기도 안산시 상록구 호동로 10-1  (일동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-01"
+    },
+    {
+      "name": "한아름공판장",
+      "address": "경기도 안산시 상록구 일동 90-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-01"
+    },
+    {
+      "name": "현영상회",
+      "address": "경기도 안산시 상록구 일동 544",
+      "roadAddress": "경기도 안산시 상록구 성호로8길 42  (일동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-01"
+    },
+    {
+      "name": "화정하이퍼",
+      "address": "경기도 안산시 단원구 선부동 1101-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-15"
+    },
+    {
+      "name": "다모아슈퍼",
+      "address": "경기도 안산시 상록구 본오동 885",
+      "roadAddress": "경기도 안산시 상록구 충장로3길 34  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-03"
+    },
+    {
+      "name": "은성마트",
+      "address": "경기도 안산시 상록구 사동 1537-102 4단지 상가 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-03"
+    },
+    {
+      "name": "굿모닝마트",
+      "address": "경기도 안산시 상록구 사동 1320-2    1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-15"
+    },
+    {
+      "name": "하나로 마트",
+      "address": "경기도 안산시 상록구 사동 1534 주공아파트상가 103호",
+      "roadAddress": "경기도 안산시 상록구 용하공원로 39  (사동,주공아파트상가 103호)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-15"
+    },
+    {
+      "name": "본오할인마트",
+      "address": "경기도 안산시 상록구 본오동 918-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-15"
+    },
+    {
+      "name": "플러스 마트",
+      "address": "경기도 안산시 단원구 선부동 1031",
+      "roadAddress": "경기도 안산시 단원구 석수로5길 17  (선부동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-15"
+    },
+    {
+      "name": "기영마트",
+      "address": "경기도 안산시 단원구 선부동 1046",
+      "roadAddress": "경기도 안산시 단원구 경일2길 19  (선부동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-15"
+    },
+    {
+      "name": "애미리마켓",
+      "address": "경기도 안산시 단원구 선부동 1035-8",
+      "roadAddress": "경기도 안산시 단원구 북촌5길 2  (선부동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-15"
+    },
+    {
+      "name": "세현슈퍼마켓",
+      "address": "경기도 안산시 상록구 본오동 845-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-02"
+    },
+    {
+      "name": "이레마트",
+      "address": "경기도 안산시 상록구 일동 536-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-02"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 안산시 상록구 이동 603-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-02"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 757-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-02"
+    },
+    {
+      "name": "모아마트",
+      "address": "경기도 안산시 상록구 월피동 487",
+      "roadAddress": "경기도 안산시 상록구 안산천서로5길 19  (월피동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-02"
+    },
+    {
+      "name": "주공마트",
+      "address": "경기도 안산시 상록구 사동 1537-4    4단지상가 1층 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-02"
+    },
+    {
+      "name": "송림슈퍼",
+      "address": "경기도 안산시 상록구 사동 1201-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-02"
+    },
+    {
+      "name": "종합시장슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 685-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수경슈퍼",
+      "address": "경기도 안산시 상록구 일동 530-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-02"
+    },
+    {
+      "name": "가락슈퍼",
+      "address": "경기도 안산시 상록구 건건동 666-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-02"
+    },
+    {
+      "name": "LG25 안산원곡점",
+      "address": "경기도 안산시 단원구 원곡동 838",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-02"
+    },
+    {
+      "name": "대일종합문구사",
+      "address": "경기도 안산시 상록구 본오동 872-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-16"
+    },
+    {
+      "name": "한양닭집",
+      "address": "경기도 안산시 단원구 선부동 1081 산호상가 지하05호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-16"
+    },
+    {
+      "name": "선일하이마트",
+      "address": "경기도 안산시 단원구 선부동 1005-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-16"
+    },
+    {
+      "name": "본오1동 공판장",
+      "address": "경기도 안산시 상록구 본오동 909-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-16"
+    },
+    {
+      "name": "OK-마트",
+      "address": "경기도 안산시 단원구 고잔동 767 네오빌 6단지 상가 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-16"
+    },
+    {
+      "name": "성주마트",
+      "address": "경기도 안산시 단원구 와동 732-6    101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-16"
+    },
+    {
+      "name": "주공그린마트",
+      "address": "경기도 안산시 상록구 사동 주공5단지 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-16"
+    },
+    {
+      "name": "그린마트",
+      "address": "경기도 안산시 단원구 고잔동 537-3",
+      "roadAddress": "경기도 안산시 단원구 고잔2길 42  (고잔동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-24"
+    },
+    {
+      "name": "훼미리마트안산그린점",
+      "address": "경기도 안산시 단원구 고잔동 726-9 그린타운 105, 106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-06"
+    },
+    {
+      "name": "코사25시공판장",
+      "address": "경기도 안산시 상록구 부곡동 661-10 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-06"
+    },
+    {
+      "name": "25시공판장",
+      "address": "경기도 안산시 상록구 본오동 814-7 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-06"
+    },
+    {
+      "name": "(주)코리아세븐",
+      "address": "경기도 안산시 단원구 고잔동 773",
+      "roadAddress": "경기도 안산시 단원구 광덕2로 194  (고잔동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-18"
+    },
+    {
+      "name": "우리할인마트",
+      "address": "경기도 안산시 상록구 본오동 952-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-18"
+    },
+    {
+      "name": "하이마트",
+      "address": "경기도 안산시 상록구 본오동 770-18 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-18"
+    },
+    {
+      "name": "코사마트화정점",
+      "address": "경기도 안산시 단원구 와동 789-15 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-18"
+    },
+    {
+      "name": "현대총판장",
+      "address": "경기도 안산시 단원구 고잔동 626-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-18"
+    },
+    {
+      "name": "농심가",
+      "address": "경기도 안산시 상록구 사동 1384-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-18"
+    },
+    {
+      "name": "고향슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 723-9 점포1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "21세기마트",
+      "address": "경기도 안산시 단원구 고잔동 중심상업지구 726-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-26"
+    },
+    {
+      "name": "하나마트",
+      "address": "경기도 안산시 상록구 이동 695 101",
+      "roadAddress": "경기도 안산시 상록구 광덕3로 316  (이동,101)",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-26"
+    },
+    {
+      "name": "훼미리마트사동점",
+      "address": "경기도 안산시 상록구 사동 1250-5 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-04"
+    },
+    {
+      "name": "LG25 안산영화",
+      "address": "경기도 안산시 상록구 사동 1471-9 1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-04"
+    },
+    {
+      "name": "미니스톱안산성포점",
+      "address": "경기도 안산시 상록구 성포동 583-5 예술프라자 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-04"
+    },
+    {
+      "name": "금강마트",
+      "address": "경기도 안산시 상록구 사동 1533 늘푸른금강아파트상가동 109-110",
+      "roadAddress": "경기도 안산시 상록구 중보로 22  (사동,늘푸른금강아파트상가동 109-110)",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-04"
+    },
+    {
+      "name": "풍년마트",
+      "address": "경기도 안산시 단원구 와동 724-8 1층 3칸지층 1칸",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-04"
+    },
+    {
+      "name": "엘마트 슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1008 -10호 25/6",
+      "roadAddress": "경기도 안산시 단원구 선이로1길 7-1  (선부동,-10호 25/6)",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-04"
+    },
+    {
+      "name": "부곡할인마트",
+      "address": "경기도 안산시 상록구 부곡동 533-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-04"
+    },
+    {
+      "name": "학사슈퍼",
+      "address": "경기도 안산시 상록구 일동 610-1 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25안산스타점",
+      "address": "경기도 안산시 상록구 성포동 588-1 예일빌딩 1층 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25안산한남",
+      "address": "경기도 안산시 상록구 이동 715-2 한남 빌딩 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다모아편의점",
+      "address": "경기도 안산시 상록구 이동 591",
+      "roadAddress": "경기도 안산시 상록구 충장로6길 4  (이동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일할인마트",
+      "address": "경기도 안산시 단원구 원곡동 1393-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-19"
+    },
+    {
+      "name": "유성하이퍼마켓",
+      "address": "경기도 안산시 상록구 사사동 243-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-19"
+    },
+    {
+      "name": "월드마트",
+      "address": "경기도 안산시 상록구 사동 1191-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-19"
+    },
+    {
+      "name": "예스슈퍼",
+      "address": "경기도 안산시 단원구 초지동 722-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-19"
+    },
+    {
+      "name": "주공빌마트",
+      "address": "경기도 안산시 단원구 초지동 738 그린빌제상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-19"
+    },
+    {
+      "name": "세븐일레븐 초지1364",
+      "address": "경기도 안산시 단원구 초지동 726-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-24"
+    },
+    {
+      "name": "새선부슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1096-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-15"
+    },
+    {
+      "name": "신성슈퍼",
+      "address": "경기도 안산시 상록구 사동 1406-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-15"
+    },
+    {
+      "name": "9단지슈퍼",
+      "address": "경기도 안산시 단원구 선부동 967",
+      "roadAddress": "경기도 안산시 단원구 선부광장1로 9  (선부동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-15"
+    },
+    {
+      "name": "청솔하이퍼",
+      "address": "경기도 안산시 상록구 일동 651",
+      "roadAddress": "경기도 안산시 상록구 실록1길 39  (일동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-15"
+    },
+    {
+      "name": "옹진마트",
+      "address": "경기도 안산시 상록구 건건동 546-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-15"
+    },
+    {
+      "name": "뉴월드마트",
+      "address": "경기도 안산시 단원구 선부동 1086-120",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-15"
+    },
+    {
+      "name": "시온슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 659-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-15"
+    },
+    {
+      "name": "태양알뜰",
+      "address": "경기도 안산시 단원구 와동 680",
+      "roadAddress": "경기도 안산시 단원구 황금1길 8  (와동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-15"
+    },
+    {
+      "name": "와동공판장",
+      "address": "경기도 안산시 단원구 와동 788-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-15"
+    },
+    {
+      "name": "엘지25시",
+      "address": "경기도 안산시 상록구 성포동 592-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-15"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경기도 안산시 상록구 일동 592-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-25"
+    },
+    {
+      "name": "그린공판장",
+      "address": "경기도 안산시 상록구 부곡동 690-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-25"
+    },
+    {
+      "name": "농수산직판",
+      "address": "경기도 안산시 상록구 일동 626",
+      "roadAddress": "경기도 안산시 상록구 안산대학로 179  (일동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-25"
+    },
+    {
+      "name": "그린유통",
+      "address": "경기도 안산시 상록구 부곡동 641",
+      "roadAddress": "경기도 안산시 상록구 정재로3길 16  (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-09"
+    },
+    {
+      "name": "동해지물",
+      "address": "경기도 안산시 상록구 일동 586-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-09"
+    },
+    {
+      "name": "제주하이퍼",
+      "address": "경기도 안산시 상록구 본오동 927-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-09"
+    },
+    {
+      "name": "한우리마트",
+      "address": "경기도 안산시 상록구 본오동 860-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-09"
+    },
+    {
+      "name": "햇님슈퍼",
+      "address": "경기도 안산시 상록구 월피동 502-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-09"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "경기도 안산시 상록구 사동 1479-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-09"
+    },
+    {
+      "name": "LG슈퍼렛",
+      "address": "경기도 안산시 상록구 일동 573-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-22"
+    },
+    {
+      "name": "농심가마트",
+      "address": "경기도 안산시 단원구 선부동 1043-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-22"
+    },
+    {
+      "name": "한남슈퍼",
+      "address": "경기도 안산시 상록구 본오동 810-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-22"
+    },
+    {
+      "name": "청기와슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1108-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-22"
+    },
+    {
+      "name": "미니코코",
+      "address": "경기도 안산시 상록구 이동 539-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-22"
+    },
+    {
+      "name": "바다슈퍼",
+      "address": "경기도 안산시 상록구 사동 1481-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-25"
+    },
+    {
+      "name": "영광공판장",
+      "address": "경기도 안산시 상록구 월피동 524-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-02"
+    },
+    {
+      "name": "이동슈퍼",
+      "address": "경기도 안산시 상록구 이동 602",
+      "roadAddress": "경기도 안산시 상록구 이동1길 14  (이동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-13"
+    },
+    {
+      "name": "본원공판장",
+      "address": "경기도 안산시 상록구 본오동 906-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-13"
+    },
+    {
+      "name": "주공슈퍼",
+      "address": "경기도 안산시 상록구 월피동 444-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-13"
+    },
+    {
+      "name": "대성마트",
+      "address": "경기도 안산시 상록구 일동 660-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-13"
+    },
+    {
+      "name": "두배로마트",
+      "address": "경기도 안산시 상록구 일동 661",
+      "roadAddress": "경기도 안산시 상록구 매화로3길 32  (일동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-24"
+    },
+    {
+      "name": "산호마트",
+      "address": "경기도 안산시 상록구 본오동 868-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-24"
+    },
+    {
+      "name": "동해슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 646-18",
+      "roadAddress": "경기도 안산시 단원구 예술대학로 144  (고잔동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-24"
+    },
+    {
+      "name": "동서편의점",
+      "address": "경기도 안산시 단원구 고잔동 541-1    동서코아 118호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-24"
+    },
+    {
+      "name": "한남일동공판장",
+      "address": "경기도 안산시 상록구 일동 566",
+      "roadAddress": "경기도 안산시 상록구 식물원로3길 7  (일동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-07"
+    },
+    {
+      "name": "우성슈퍼",
+      "address": "경기도 안산시 상록구 이동 527-2",
+      "roadAddress": "경기도 안산시 상록구 석삼말로2길 2  (이동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-07"
+    },
+    {
+      "name": "LK수퍼렛",
+      "address": "경기도 안산시 상록구 본오동 901-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-07"
+    },
+    {
+      "name": "더블마트",
+      "address": "경기도 안산시 상록구 본오동 879-9    105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-09"
+    },
+    {
+      "name": "창동 BIG마트",
+      "address": "경기도 안산시 단원구 와동 726-4    창동상가1층 106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-09"
+    },
+    {
+      "name": "하니하이퍼마켓",
+      "address": "경기도 안산시 상록구 부곡동 546-4    101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-21"
+    },
+    {
+      "name": "반월마트",
+      "address": "경기도 안산시 상록구 건건동 904",
+      "roadAddress": "경기도 안산시 상록구 건건1길 30  (건건동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-21"
+    },
+    {
+      "name": "24시 마트",
+      "address": "경기도 안산시 상록구 일동 118-10   상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-21"
+    },
+    {
+      "name": "옹기365할인마트",
+      "address": "경기도 안산시 상록구 부곡동 641-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-21"
+    },
+    {
+      "name": "민화슈퍼",
+      "address": "경기도 안산시 상록구 사동 1355-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-21"
+    },
+    {
+      "name": "와동할인마트",
+      "address": "경기도 안산시 단원구 와동 728-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-21"
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "경기도 안산시 상록구 이동 544",
+      "roadAddress": "경기도 안산시 상록구 석삼말로4길 7-14  (이동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-30"
+    },
+    {
+      "name": "호남할인마트",
+      "address": "경기도 안산시 상록구 본오동 856-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-05"
+    },
+    {
+      "name": "으뜸슈퍼",
+      "address": "경기도 안산시 상록구 사동 1412-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-05"
+    },
+    {
+      "name": "기사촌슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1033-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-05"
+    },
+    {
+      "name": "대승슈퍼",
+      "address": "경기도 안산시 단원구 와동 763-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-05"
+    },
+    {
+      "name": "LG25안산현대점",
+      "address": "경기도 안산시 상록구 사동 1345-2    현대중심상가 104, 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-07"
+    },
+    {
+      "name": "프리마트",
+      "address": "경기도 안산시 단원구 원곡동 742-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-19"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 안산시 상록구 월피동 448 현대2차 B상가 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-19"
+    },
+    {
+      "name": "삼보마트",
+      "address": "경기도 안산시 상록구 사동 1514 상록마을상가 103호",
+      "roadAddress": "경기도 안산시 상록구 삼리로 23  (사동,상록마을상가 103호)",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-19"
+    },
+    {
+      "name": "한아름공판장",
+      "address": "경기도 안산시 상록구 일동 570-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-19"
+    },
+    {
+      "name": "캠퍼스슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 고잔지구 상업용지76-1-1 캠퍼스타운 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-19"
+    },
+    {
+      "name": "플러스유통",
+      "address": "경기도 안산시 단원구 신길동 1396-6 1층상가(원곡본동)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-24"
+    },
+    {
+      "name": "진아마트",
+      "address": "경기도 안산시 단원구 와동 95-18 1층상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-24"
+    },
+    {
+      "name": "신원슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 665-1 109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-24"
+    },
+    {
+      "name": "(주)엘지유통",
+      "address": "경기도 안산시 단원구 고잔동 710-3 법조타운 108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-24"
+    },
+    {
+      "name": "미니스톱안산본오점",
+      "address": "경기도 안산시 상록구 본오동 872-16 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-24"
+    },
+    {
+      "name": "미니스톱안산중앙2점",
+      "address": "경기도 안산시 단원구 고잔동 535-2 코스모프라자 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-24"
+    },
+    {
+      "name": "홈 W마트",
+      "address": "경기도 안산시 단원구 고잔동 634",
+      "roadAddress": "경기도 안산시 단원구 예술대학로 147-1  (고잔동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-24"
+    },
+    {
+      "name": "안산농업협동조합[일시]",
+      "address": "경기도 안산시 상록구 성포동 593-1 안산농협협동조합",
+      "roadAddress": "경기도 안산시 상록구 예술광장로 75, 안산농협협동조합 (성포동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-13"
+    },
+    {
+      "name": "경원슈퍼",
+      "address": "경기도 안산시 상록구 일동 587-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-13"
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "경기도 안산시 단원구 와동 681-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-27"
+    },
+    {
+      "name": "효성슈퍼",
+      "address": "경기도 안산시 단원구 선부동 효성A단지 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-09"
+    },
+    {
+      "name": "신원매점",
+      "address": "경기도 안산시 단원구 고잔동 527-8 1층 10호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-01"
+    },
+    {
+      "name": "석탑매점",
+      "address": "경기도 안산시 단원구 고잔동 533-2-106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-01"
+    },
+    {
+      "name": "하나슈퍼마켓",
+      "address": "경기도 안산시 단원구 선부동 1119-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-07"
+    },
+    {
+      "name": "행운슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 651-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-09"
+    },
+    {
+      "name": "농수산물직판장",
+      "address": "경기도 안산시 상록구 사동 1336-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-09"
+    },
+    {
+      "name": "장터하이퍼",
+      "address": "경기도 안산시 상록구 사동 1155",
+      "roadAddress": "경기도 안산시 상록구 학사2길 12  (사동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-09"
+    },
+    {
+      "name": "진리슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1142-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-22"
+    },
+    {
+      "name": "LK슈퍼렛",
+      "address": "경기도 안산시 상록구 본오동 1140-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-22"
+    },
+    {
+      "name": "D/C",
+      "address": "경기도 안산시 상록구 건건동 113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-22"
+    },
+    {
+      "name": "농심가",
+      "address": "경기도 안산시 상록구 일동 557",
+      "roadAddress": "경기도 안산시 상록구 식물원로1길 19  (일동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-22"
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1076-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-08"
+    },
+    {
+      "name": "반월농협",
+      "address": "경기도 안산시 상록구 건건동 636-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-08"
+    },
+    {
+      "name": "경기슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 751-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-08"
+    },
+    {
+      "name": "복권슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 776-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-08"
+    },
+    {
+      "name": "농수산물직판장",
+      "address": "경기도 안산시 상록구 본오동 776-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-25"
+    },
+    {
+      "name": "농협식품점",
+      "address": "경기도 안산시 상록구 본오동 931-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-25"
+    },
+    {
+      "name": "농심가 본오공판장",
+      "address": "경기도 안산시 상록구 본오동 935-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-25"
+    },
+    {
+      "name": "농심가 DC",
+      "address": "경기도 안산시 상록구 일동 533-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-25"
+    },
+    {
+      "name": "선마트",
+      "address": "경기도 안산시 상록구 부곡동 602-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-25"
+    },
+    {
+      "name": "하니하이퍼마켓",
+      "address": "경기도 안산시 상록구 부곡동 546-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-25"
+    },
+    {
+      "name": "나리슈퍼",
+      "address": "경기도 안산시 상록구 일동 83-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-03"
+    },
+    {
+      "name": "LK슈퍼렛",
+      "address": "경기도 안산시 상록구 일동 573-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-03"
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 695",
+      "roadAddress": "경기도 안산시 상록구 성호로 222  (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-03"
+    },
+    {
+      "name": "농심가",
+      "address": "경기도 안산시 단원구 선부동 1133-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-03"
+    },
+    {
+      "name": "그린편의점",
+      "address": "경기도 안산시 상록구 사동 1158-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-03"
+    },
+    {
+      "name": "농심가",
+      "address": "경기도 안산시 단원구 와동 832-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-11"
+    },
+    {
+      "name": "무지개슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 686-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-31"
+    },
+    {
+      "name": "부곡할인마트",
+      "address": "경기도 안산시 상록구 부곡동 533-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-31"
+    },
+    {
+      "name": "농수산물직판장",
+      "address": "경기도 안산시 상록구 일동 626",
+      "roadAddress": "경기도 안산시 상록구 안산대학로 179  (일동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-31"
+    },
+    {
+      "name": "농수산물직판장",
+      "address": "경기도 안산시 상록구 본오동 921-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-31"
+    },
+    {
+      "name": "태양농수산물직판장",
+      "address": "경기도 안산시 상록구 월피동 442-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서경E마트",
+      "address": "경기도 안산시 단원구 선부동 1024-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "갤럭시편의점",
+      "address": "경기도 안산시 상록구 본오동 666-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한빛슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 고잔지구 76-01-03",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옹진슈퍼",
+      "address": "경기도 안산시 상록구 이동 546-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가 DC마케트",
+      "address": "경기도 안산시 상록구 일동 533-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)인앤아웃",
+      "address": "경기도 안산시 단원구 성곡동 647-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인마트",
+      "address": "경기도 안산시 상록구 이동 717-3 에이스프라자 1층101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-15"
+    },
+    {
+      "name": "주공OK마트",
+      "address": "경기도 안산시 단원구 고잔동 738  18단지 6블럭 나상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-15"
+    },
+    {
+      "name": "한아름공판장",
+      "address": "경기도 안산시 상록구 사동 1250",
+      "roadAddress": "경기도 안산시 상록구 이화2길 32  (사동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-15"
+    },
+    {
+      "name": "주공마트",
+      "address": "경기도 안산시 단원구 고잔동 776 주공7단지 107",
+      "roadAddress": "경기도 안산시 단원구 광덕2로 216  (고잔동,주공7단지 107)",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-15"
+    },
+    {
+      "name": "빅할인마트",
+      "address": "경기도 안산시 단원구 고잔동 634-4 104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-15"
+    },
+    {
+      "name": "하나로마트",
+      "address": "경기도 안산시 단원구 고잔동 726-4 21세기타운104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-15"
+    },
+    {
+      "name": "호수할인마트",
+      "address": "경기도 안산시 단원구 초지동 731 호수마을아파트분산상가동 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-15"
+    },
+    {
+      "name": "전원할인마트",
+      "address": "경기도 안산시 상록구 사동 1204-12  1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-20"
+    },
+    {
+      "name": "그린빌 G마트",
+      "address": "경기도 안산시 단원구 고잔동 주공8단지 110, 111호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-20"
+    },
+    {
+      "name": "그린빌마트",
+      "address": "경기도 안산시 단원구 고잔동 765 주공9단지 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-27"
+    },
+    {
+      "name": "훼미리마트 안산초지점",
+      "address": "경기도 안산시 단원구 초지동 735-4 태영프라자 106-107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-27"
+    },
+    {
+      "name": "엄지슈퍼",
+      "address": "경기도 안산시 상록구 사동 1384-9 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-27"
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "경기도 안산시 단원구 초지동 734-5 한양타워 115",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-27"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 642",
+      "roadAddress": "경기도 안산시 상록구 부곡로5안길 10-1  (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-27"
+    },
+    {
+      "name": "홈 W마트",
+      "address": "경기도 안산시 단원구 고잔동 634 101호",
+      "roadAddress": "경기도 안산시 단원구 예술대학로 147-1  (고잔동,101호)",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-27"
+    },
+    {
+      "name": "푸른마트",
+      "address": "경기도 안산시 단원구 고잔동 766 주공8단지상가내 106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-28"
+    },
+    {
+      "name": "엄지하이퍼",
+      "address": "경기도 안산시 상록구 월피동 455-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-11"
+    },
+    {
+      "name": "반월농협본오하나로",
+      "address": "경기도 안산시 상록구 본오동 879-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-11"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 641",
+      "roadAddress": "경기도 안산시 상록구 정재로3길 16  (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-25"
+    },
+    {
+      "name": "편의점",
+      "address": "경기도 안산시 상록구 사동 1344",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-25"
+    },
+    {
+      "name": "동네슈퍼",
+      "address": "경기도 안산시 상록구 일동 570-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-25"
+    },
+    {
+      "name": "이동진마트",
+      "address": "경기도 안산시 상록구 일동 612-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-25"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "경기도 안산시 상록구 월피동 489-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-02"
+    },
+    {
+      "name": "코끼리슈퍼",
+      "address": "경기도 안산시 상록구 월피동 502-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-02"
+    },
+    {
+      "name": "럭키더블마트",
+      "address": "경기도 안산시 상록구 본오동 1118",
+      "roadAddress": "경기도 안산시 상록구 용신로 446  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-02"
+    },
+    {
+      "name": "다모아유통",
+      "address": "경기도 안산시 단원구 선부동 1076-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-02"
+    },
+    {
+      "name": "영남슈퍼",
+      "address": "경기도 안산시 상록구 일동 587-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-13"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "경기도 안산시 상록구 건건동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-03"
+    },
+    {
+      "name": "한솔마트",
+      "address": "경기도 안산시 상록구 사동 1286-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-13"
+    },
+    {
+      "name": "오뚜기슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 534-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-13"
+    },
+    {
+      "name": "설악슈퍼",
+      "address": "경기도 안산시 단원구 원시동 777-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-21"
+    },
+    {
+      "name": "농심가알뜰매장",
+      "address": "경기도 안산시 상록구 월피동 474-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-08"
+    },
+    {
+      "name": "먹거리편의점",
+      "address": "경기도 안산시 상록구 이동 592-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-08"
+    },
+    {
+      "name": "해태슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 734-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-08"
+    },
+    {
+      "name": "대한슈퍼",
+      "address": "경기도 안산시 상록구 월피동 461-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-08"
+    },
+    {
+      "name": "한솔슈퍼",
+      "address": "경기도 안산시 상록구 건건동 1396-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-08"
+    },
+    {
+      "name": "일등농심가",
+      "address": "경기도 안산시 상록구 일동 620",
+      "roadAddress": "경기도 안산시 상록구 웃말1안길 48  (일동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-08"
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1069-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-08"
+    },
+    {
+      "name": "일동슈퍼",
+      "address": "경기도 안산시 상록구 일동 122-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-08"
+    },
+    {
+      "name": "고향슈퍼",
+      "address": "경기도 안산시 상록구 일동 613-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-08"
+    },
+    {
+      "name": "금호미니슈퍼",
+      "address": "경기도 안산시 단원구 초지동 604 9-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-17"
+    },
+    {
+      "name": "한우정육점",
+      "address": "경기도 안산시 상록구 이동 573",
+      "roadAddress": "경기도 안산시 상록구 매화로3길 16  (이동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-17"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 안산시 상록구 수암동 422",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-21"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "경기도 안산시 상록구 장상동 18-5 건양상사 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-21"
+    },
+    {
+      "name": "안산농협수암지소",
+      "address": "경기도 안산시 상록구 수암동 428-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-21"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 723-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-21"
+    },
+    {
+      "name": "우일공판장",
+      "address": "경기도 안산시 상록구 부곡동 542-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-06"
+    },
+    {
+      "name": "그린빌 k마트",
+      "address": "경기도 안산시 단원구 고잔동 주공 17단지내상가 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-06"
+    },
+    {
+      "name": "에누리마트",
+      "address": "경기도 안산시 단원구 초지동 735-4 태영프라자 120, 120,-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-07"
+    },
+    {
+      "name": "LG25 원곡로점",
+      "address": "경기도 안산시 단원구 원곡동 757",
+      "roadAddress": "경기도 안산시 단원구 원본로3길 14  (원곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-07"
+    },
+    {
+      "name": "롯데쇼핑(주)롯데레몬상록수점",
+      "address": "경기도 안산시 상록구 본오동 874 상록수아카데비 1층",
+      "roadAddress": "경기도 안산시 상록구 상록수로 34  (본오동,상록수아카데비 1층)",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-07"
+    },
+    {
+      "name": "온누리마트",
+      "address": "경기도 안산시 상록구 월피동 452-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-07"
+    },
+    {
+      "name": "에프이헌드통신",
+      "address": "경기도 안산시 단원구 초지동 726-5 주공프라자 1F-112",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-07"
+    },
+    {
+      "name": "주공빌마트",
+      "address": "경기도 안산시 단원구 초지동 738 주공아파트 18단지가상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-07"
+    },
+    {
+      "name": "그랜드마트",
+      "address": "경기도 안산시 단원구 고잔동 55BL  대우2차ⓐ단지상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-18"
+    },
+    {
+      "name": "훼미리마트안산고잔역점",
+      "address": "경기도 안산시 단원구 고잔동 684-5 선명빌딩 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-19"
+    },
+    {
+      "name": "상록수할인마트",
+      "address": "경기도 안산시 상록구 본오동 1121-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-19"
+    },
+    {
+      "name": "본오슈퍼",
+      "address": "경기도 안산시 상록구 본오동 824-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-19"
+    },
+    {
+      "name": "영광슈퍼",
+      "address": "경기도 안산시 상록구 본오동 922-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-19"
+    },
+    {
+      "name": "미래슈퍼",
+      "address": "경기도 안산시 단원구 와동 763-11 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-19"
+    },
+    {
+      "name": "미니스톱안산메디칼점",
+      "address": "경기도 안산시 단원구 고잔동 13-9 메디프라자 106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-29"
+    },
+    {
+      "name": "E-편한마트",
+      "address": "경기도 안산시 단원구 고잔동 26BL 대림아파트 2차상가 106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-29"
+    },
+    {
+      "name": "형제마트직판장",
+      "address": "경기도 안산시 단원구 원곡동 794-8 1층상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-02"
+    },
+    {
+      "name": "대림마트",
+      "address": "경기도 안산시 단원구 고잔동 대림1차아파트주상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-02"
+    },
+    {
+      "name": "본오슈퍼정육점",
+      "address": "경기도 안산시 상록구 본오동 919-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-02"
+    },
+    {
+      "name": "와동더불마트",
+      "address": "경기도 안산시 단원구 고잔동 621-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-02"
+    },
+    {
+      "name": "코사마트",
+      "address": "경기도 안산시 상록구 본오동 787 1층상가",
+      "roadAddress": "경기도 안산시 상록구 석호로3안길 4-12  (본오동,1층상가)",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-02"
+    },
+    {
+      "name": "세종문구슈퍼",
+      "address": "경기도 안산시 상록구 사동 1160-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-02"
+    },
+    {
+      "name": "건영종합상사",
+      "address": "경기도 안산시 단원구 원곡동 994-5 유통상가 4-111",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-16"
+    },
+    {
+      "name": "부곡할인마트",
+      "address": "경기도 안산시 상록구 부곡동 727",
+      "roadAddress": "경기도 안산시 상록구 시낭북로 32  (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-16"
+    },
+    {
+      "name": "동양마트(주)안산호수점",
+      "address": "경기도 안산시 단원구 초지동 732-2 현대프라자 106,107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-16"
+    },
+    {
+      "name": "조이할인마트",
+      "address": "경기도 안산시 단원구 신길동 1387-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-16"
+    },
+    {
+      "name": "미니스톱안산화승점",
+      "address": "경기도 안산시 단원구 고잔동 768-2 화승타운105, 106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-16"
+    },
+    {
+      "name": "생활용품점",
+      "address": "경기도 안산시 단원구 고잔동 507-4  103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-16"
+    },
+    {
+      "name": "부여슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1017-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-21"
+    },
+    {
+      "name": "월드슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1027-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-21"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "경기도 안산시 상록구 일동 614-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-21"
+    },
+    {
+      "name": "다모아슈퍼",
+      "address": "경기도 안산시 상록구 건건동 591",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-01"
+    },
+    {
+      "name": "삼성비닐봉투",
+      "address": "경기도 안산시 단원구 초지동 604-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-01"
+    },
+    {
+      "name": "약수터슈퍼",
+      "address": "경기도 안산시 상록구 본오동 746-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-01"
+    },
+    {
+      "name": "안성공판장",
+      "address": "경기도 안산시 상록구 팔곡이동 790",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-01"
+    },
+    {
+      "name": "종점슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 543-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-17"
+    },
+    {
+      "name": "글로리하이퍼",
+      "address": "경기도 안산시 단원구 원곡동 744",
+      "roadAddress": "경기도 안산시 단원구 부부로1길 9-16  (원곡동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-17"
+    },
+    {
+      "name": "승연슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 785-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-17"
+    },
+    {
+      "name": "의정부상회",
+      "address": "경기도 안산시 단원구 원곡동 771-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-17"
+    },
+    {
+      "name": "화니슈퍼마켓",
+      "address": "경기도 안산시 단원구 원곡동 787-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-17"
+    },
+    {
+      "name": "친절슈퍼마켓",
+      "address": "경기도 안산시 단원구 원곡동 8804-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-17"
+    },
+    {
+      "name": "케이마트",
+      "address": "경기도 안산시 상록구 부곡동 728",
+      "roadAddress": "경기도 안산시 상록구 시낭북로4길 2  (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-17"
+    },
+    {
+      "name": "소문난공판장",
+      "address": "경기도 안산시 상록구 부곡동 724-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-17"
+    },
+    {
+      "name": "시민하이퍼",
+      "address": "경기도 안산시 단원구 초지동 604-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-17"
+    },
+    {
+      "name": "한아름알뜰매장",
+      "address": "경기도 안산시 단원구 선부동 1097-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-17"
+    },
+    {
+      "name": "나라슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1012-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-17"
+    },
+    {
+      "name": "협성슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1050-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-17"
+    },
+    {
+      "name": "한마음슈퍼",
+      "address": "경기도 안산시 단원구 선부동 974-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-17"
+    },
+    {
+      "name": "농수산물직판장",
+      "address": "경기도 안산시 상록구 본오동 1128-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-17"
+    },
+    {
+      "name": "김정택",
+      "address": "경기도 안산시 상록구 건건동 614-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-17"
+    },
+    {
+      "name": "농심가유통",
+      "address": "경기도 안산시 상록구 부곡동 727-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)나인물산",
+      "address": "경기도 안산시 단원구 선부동 1081 산호상가 지하1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제주농수산물직판장",
+      "address": "경기도 안산시 단원구 선부동 1088",
+      "roadAddress": "경기도 안산시 단원구 화정천서로2안길 23  (선부동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경기도 안산시 상록구 일동 587",
+      "roadAddress": "경기도 안산시 상록구 도매시장로 120-2  (일동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진주슈퍼",
+      "address": "경기도 안산시 상록구 일동 611",
+      "roadAddress": "경기도 안산시 상록구 웃말3길 16  (일동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초지마트",
+      "address": "경기도 안산시 단원구 초지동 607",
+      "roadAddress": "경기도 안산시 단원구 초지시장로 36-12  (초지동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG보라마트",
+      "address": "경기도 안산시 단원구 선부동 1117-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울유통",
+      "address": "경기도 안산시 단원구 선부동 1049-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부자슈퍼",
+      "address": "경기도 안산시 단원구 와동 816-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-16"
+    },
+    {
+      "name": "경인마트",
+      "address": "경기도 안산시 상록구 건건동 894-10 인정상가 비-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-16"
+    },
+    {
+      "name": "훼미리마트안산대림점",
+      "address": "경기도 안산시 단원구 고잔동 718-5 대림프라자 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-30"
+    },
+    {
+      "name": "그린하이퍼마켓",
+      "address": "경기도 안산시 상록구 본오동 957 상가 101",
+      "roadAddress": "경기도 안산시 상록구 고목로3길 34  (본오동,상가 101)",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-30"
+    },
+    {
+      "name": "미니스톱 안산중앙점",
+      "address": "경기도 안산시 단원구 고잔동 533-1 우리상가 1층 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-30"
+    },
+    {
+      "name": "현대 DC",
+      "address": "경기도 안산시 단원구 원곡동 755-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-30"
+    },
+    {
+      "name": "코사마트 이동점",
+      "address": "경기도 안산시 상록구 이동 705-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-30"
+    },
+    {
+      "name": "아리랑슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 657-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-30"
+    },
+    {
+      "name": "싱싱할인마트",
+      "address": "경기도 안산시 단원구 신길동 1396-2 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-30"
+    },
+    {
+      "name": "계명건어물",
+      "address": "경기도 안산시 상록구 본오동 872 월드쇼핑지하 40호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-30"
+    },
+    {
+      "name": "동양마트안산한대역점",
+      "address": "경기도 안산시 상록구 이동 716-11 덕성프라자 106,107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-20"
+    },
+    {
+      "name": "열린하이퍼",
+      "address": "경기도 안산시 단원구 선부동 1108-20 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-20"
+    },
+    {
+      "name": "동산준마트",
+      "address": "경기도 안산시 단원구 고잔동 672-6 동산빌딩상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-19"
+    },
+    {
+      "name": "신성슈퍼",
+      "address": "경기도 안산시 상록구 사동 1406-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-19"
+    },
+    {
+      "name": "다드림유통",
+      "address": "경기도 안산시 상록구 성포동 592 선경아파트상가 지하-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-08"
+    },
+    {
+      "name": "농협중앙회안산하나로클럽",
+      "address": "경기도 안산시 상록구 이동 528",
+      "roadAddress": "경기도 안산시 상록구 충장로 312  (이동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-19"
+    },
+    {
+      "name": "지리산미곡",
+      "address": "경기도 안산시 상록구 사동 1194-1 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-19"
+    },
+    {
+      "name": "선부슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1114-14 102, 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-19"
+    },
+    {
+      "name": "경기공판장",
+      "address": "경기도 안산시 상록구 사동 1307-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-19"
+    },
+    {
+      "name": "농수산물직판장",
+      "address": "경기도 안산시 상록구 본오동 776-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-19"
+    },
+    {
+      "name": "새벽하이퍼",
+      "address": "경기도 안산시 상록구 사동 1267",
+      "roadAddress": "경기도 안산시 상록구 이화2길 10  (사동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-19"
+    },
+    {
+      "name": "청솔 하이퍼마켓",
+      "address": "경기도 안산시 상록구 부곡동 647-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-20"
+    },
+    {
+      "name": "우리자리슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 760-2 49블럭 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-20"
+    },
+    {
+      "name": "삼보수퍼",
+      "address": "경기도 안산시 상록구 성포동 591 주공종합상가지하",
+      "roadAddress": "경기도 안산시 상록구 충장로 533  (성포동,주공종합상가지하)",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-20"
+    },
+    {
+      "name": "홍길동마트",
+      "address": "경기도 안산시 상록구 본오동 818-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-20"
+    },
+    {
+      "name": "LG25 안산초지",
+      "address": "경기도 안산시 단원구 초지동 734-7 한솔프라자",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-20"
+    },
+    {
+      "name": "시남하이마트",
+      "address": "경기도 안산시 상록구 부곡동 717-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-20"
+    },
+    {
+      "name": "비바스포츠안산점",
+      "address": "경기도 안산시 상록구 부곡동 695-23 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-20"
+    },
+    {
+      "name": "LK슈퍼렛",
+      "address": "경기도 안산시 상록구 부곡동 619-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "본오공판장",
+      "address": "경기도 안산시 상록구 사동 1473-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 747-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가부곡유통",
+      "address": "경기도 안산시 상록구 부곡동 661-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원곡25시슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 797",
+      "roadAddress": "경기도 안산시 단원구 다문화1길 61  (원곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조이마크",
+      "address": "경기도 안산시 상록구 본오동 872-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼25시 편의점",
+      "address": "경기도 안산시 상록구 본오동 872-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼미슈퍼",
+      "address": "경기도 안산시 상록구 수암동 420",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가나슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 938",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "휘레쉬슈퍼",
+      "address": "경기도 안산시 상록구 본오동 874-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "각골공판장",
+      "address": "경기도 안산시 상록구 본오동 849-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가고파유통",
+      "address": "경기도 안산시 상록구 본오동 925",
+      "roadAddress": "경기도 안산시 상록구 오목로4안길 12  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미림슈퍼",
+      "address": "경기도 안산시 상록구 본오동 954",
+      "roadAddress": "경기도 안산시 상록구 샘골로2길 21  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경기슈퍼",
+      "address": "경기도 안산시 상록구 본오동 907",
+      "roadAddress": "경기도 안산시 상록구 오목로6길 12  (본오동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양공판장",
+      "address": "경기도 안산시 상록구 본오동 889-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홍천슈퍼",
+      "address": "경기도 안산시 상록구 월피동 446",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘마트슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1008-302",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한진슈퍼",
+      "address": "경기도 안산시 단원구 신길동 63 55-05",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개미슈퍼",
+      "address": "경기도 안산시 상록구 본오동 773-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "경기도 안산시 단원구 와동 786-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "IMF농수산마트",
+      "address": "경기도 안산시 상록구 사동 1321-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이호공판장",
+      "address": "경기도 안산시 상록구 본오동 960-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(유한)안산공판장",
+      "address": "경기도 안산시 단원구 선부동 1076-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무교슈퍼",
+      "address": "경기도 안산시 상록구 본오동 668-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "왕성슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1015-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원일케미칼상사",
+      "address": "경기도 안산시 단원구 원곡동 유통상가 18-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빙그레마트",
+      "address": "경기도 안산시 단원구 와동 796-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가",
+      "address": "경기도 안산시 상록구 수암동 206-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코스모스슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 799-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "경기도 안산시 상록구 본오동 921-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1071-8 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-20"
+    },
+    {
+      "name": "양궁슈퍼",
+      "address": "경기도 안산시 상록구 월피동 463-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-20"
+    },
+    {
+      "name": "혜미슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 776-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-20"
+    },
+    {
+      "name": "플러스마트",
+      "address": "경기도 안산시 상록구 부곡동 681-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-20"
+    },
+    {
+      "name": "럭키마트",
+      "address": "경기도 안산시 상록구 건건동 904",
+      "roadAddress": "경기도 안산시 상록구 건건1길 30  (건건동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-20"
+    },
+    {
+      "name": "농수산물슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 600-10 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-20"
+    },
+    {
+      "name": "연화유통",
+      "address": "경기도 안산시 상록구 월피동 447-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-20"
+    },
+    {
+      "name": "호남슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 659-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-20"
+    },
+    {
+      "name": "홍천슈퍼",
+      "address": "경기도 안산시 상록구 월피동 446 주공3단지상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-20"
+    },
+    {
+      "name": "만석슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 667-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-20"
+    },
+    {
+      "name": "중앙건재철물",
+      "address": "경기도 안산시 단원구 고잔동 646-18 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-20"
+    },
+    {
+      "name": "땡백화점",
+      "address": "경기도 안산시 단원구 선부동 1070-3 대훈빌딩 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-26"
+    },
+    {
+      "name": "소나무슈퍼",
+      "address": "경기도 안산시 상록구 사동 1158-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-26"
+    },
+    {
+      "name": "일동할인마트",
+      "address": "경기도 안산시 상록구 일동 551",
+      "roadAddress": "경기도 안산시 상록구 호동로 10-1  (일동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-26"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경기도 안산시 상록구 이동 599-15 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-26"
+    },
+    {
+      "name": "성호마트",
+      "address": "경기도 안산시 상록구 일동 566",
+      "roadAddress": "경기도 안산시 상록구 식물원로3길 7  (일동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-26"
+    },
+    {
+      "name": "농심알뜰매장",
+      "address": "경기도 안산시 상록구 월피동 474-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-26"
+    },
+    {
+      "name": "그린마트",
+      "address": "경기도 안산시 상록구 일동 622-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-26"
+    },
+    {
+      "name": "오자조유합마트",
+      "address": "경기도 안산시 상록구 사동 1402",
+      "roadAddress": "경기도 안산시 상록구 평안로3길 8  (사동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-26"
+    },
+    {
+      "name": "뉴현대슈퍼",
+      "address": "경기도 안산시 상록구 성포동 592 현대상가 112",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-26"
+    },
+    {
+      "name": "은성계란",
+      "address": "경기도 안산시 상록구 부곡동 661-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-26"
+    },
+    {
+      "name": "태영마트",
+      "address": "경기도 안산시 단원구 원곡동 810-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-26"
+    },
+    {
+      "name": "희망슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 938-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-26"
+    },
+    {
+      "name": "한마음마트",
+      "address": "경기도 안산시 상록구 부곡동 674-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-26"
+    },
+    {
+      "name": "바우식품",
+      "address": "경기도 안산시 상록구 사동 1898-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-26"
+    },
+    {
+      "name": "소나무슈퍼",
+      "address": "경기도 안산시 상록구 사동 1158-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-26"
+    },
+    {
+      "name": "미니스톱안산일동점",
+      "address": "경기도 안산시 상록구 일동 621-16 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-29"
+    },
+    {
+      "name": "본오공판장",
+      "address": "경기도 안산시 상록구 본오동 909-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-29"
+    },
+    {
+      "name": "안산슈퍼",
+      "address": "경기도 안산시 상록구 월피동 441-12 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-29"
+    },
+    {
+      "name": "장보러식품",
+      "address": "경기도 안산시 상록구 본오동 849-7 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-29"
+    },
+    {
+      "name": "맴돌아슈퍼",
+      "address": "경기도 안산시 상록구 이동 534",
+      "roadAddress": "경기도 안산시 상록구 도매시장로1길 40  (이동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영신슈퍼",
+      "address": "경기도 안산시 상록구 사동 1245-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍년가마트",
+      "address": "경기도 안산시 상록구 본오동 947-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소비자유통",
+      "address": "경기도 안산시 단원구 신길동 46-3 삼익A상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화랑공판장",
+      "address": "경기도 안산시 단원구 고잔동 659-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성쌀상회",
+      "address": "경기도 안산시 상록구 건건동 648-2 대성빌라",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선부슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1114-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김태식",
+      "address": "경기도 안산시 단원구 선부동 1144-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "24시갤럭시편의점",
+      "address": "경기도 안산시 상록구 본오동 666-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25안산원곡점",
+      "address": "경기도 안산시 단원구 원곡동 838-105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일마트",
+      "address": "경기도 안산시 상록구 본오동 988-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보영슈퍼",
+      "address": "경기도 안산시 단원구 선부동 963-1 보영상가 106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황금슈퍼",
+      "address": "경기도 안산시 단원구 선부동 968-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미미식품",
+      "address": "경기도 안산시 상록구 월피동 508-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름마트",
+      "address": "경기도 안산시 단원구 초지동 593-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼양슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 538-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진양슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1078",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한강마트",
+      "address": "경기도 안산시 상록구 부곡동 657",
+      "roadAddress": "경기도 안산시 상록구 성호로23길 10  (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나로슈퍼할인매장",
+      "address": "경기도 안산시 단원구 신길동 710",
+      "roadAddress": "경기도 안산시 단원구 새뿔길 47  (신길동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성포슈퍼",
+      "address": "경기도 안산시 상록구 월피동 458-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그림슈퍼",
+      "address": "경기도 안산시 상록구 월피동 460-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰식품",
+      "address": "경기도 안산시 단원구 원곡동 837",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "로사문구",
+      "address": "경기도 안산시 단원구 원곡동 848 A-104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "까치슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1139-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황소슈퍼",
+      "address": "경기도 안산시 단원구 고잔동 631-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연화마트",
+      "address": "경기도 안산시 단원구 와동 753-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "B할인마트",
+      "address": "경기도 안산시 단원구 원곡동 815",
+      "roadAddress": "경기도 안산시 단원구 원일2길 26  (원곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신환하이퍼마켓",
+      "address": "경기도 안산시 상록구 일동 85-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문정슈퍼",
+      "address": "경기도 안산시 단원구 선부동 1071-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영계슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 813-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물농수산슈퍼",
+      "address": "경기도 안산시 상록구 월피동 448 현대 A상가 101E",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-29"
+    },
+    {
+      "name": "농심가슈퍼체인",
+      "address": "경기도 안산시 상록구 부곡동 639",
+      "roadAddress": "경기도 안산시 상록구 부곡로6길 14  (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-29"
+    },
+    {
+      "name": "모닝마트",
+      "address": "경기도 안산시 상록구 사동 1199-8 1층좌측상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-29"
+    },
+    {
+      "name": "현대마트",
+      "address": "경기도 안산시 상록구 사동 1343 현대2차분산상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-29"
+    },
+    {
+      "name": "새마을구판장",
+      "address": "경기도 안산시 단원구 원곡동 818-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-29"
+    },
+    {
+      "name": "농심가 합동공판장",
+      "address": "경기도 안산시 상록구 부곡동 692-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-29"
+    },
+    {
+      "name": "시민매장",
+      "address": "경기도 안산시 상록구 본오동 715-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-29"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "경기도 안산시 상록구 부곡동 641",
+      "roadAddress": "경기도 안산시 상록구 정재로3길 16  (부곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-29"
+    },
+    {
+      "name": "수연마트",
+      "address": "경기도 안산시 상록구 부곡동 670-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-09"
+    },
+    {
+      "name": "하나마트",
+      "address": "경기도 안산시 상록구 이동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-09"
+    },
+    {
+      "name": "중앙마트",
+      "address": "경기도 안산시 단원구 고잔동 752-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-09"
+    },
+    {
+      "name": "영미식품",
+      "address": "경기도 안산시 상록구 일동 574-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-09"
+    },
+    {
+      "name": "한마음마트",
+      "address": "경기도 안산시 단원구 신길동 1426-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-09"
+    },
+    {
+      "name": "(주)신세계이마트 안산점",
+      "address": "경기도 안산시 단원구 원시동 773-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-09"
+    },
+    {
+      "name": "중앙하이퍼마트",
+      "address": "경기도 안산시 상록구 사동 1286",
+      "roadAddress": "경기도 안산시 상록구 후곡3길 18  (사동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-09"
+    },
+    {
+      "name": "주공슈퍼",
+      "address": "경기도 안산시 상록구 월피동 444-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-09"
+    },
+    {
+      "name": "하나슈퍼",
+      "address": "경기도 안산시 상록구 월피동 519-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-09"
+    },
+    {
+      "name": "도매공판장",
+      "address": "경기도 안산시 상록구 일동 586-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-09"
+    },
+    {
+      "name": "고향슈퍼",
+      "address": "경기도 안산시 단원구 원곡동 937 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-09"
+    },
+    {
+      "name": "영광농심가",
+      "address": "경기도 안산시 상록구 월피동 524-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-10"
+    },
+    {
+      "name": "매화문구/슈퍼",
+      "address": "경기도 안산시 상록구 이동 607-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-10"
+    },
+    {
+      "name": "농심가사동점",
+      "address": "경기도 안산시 상록구 사동 1431-5 1층상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-10"
+    },
+    {
+      "name": "광명슈퍼",
+      "address": "경기도 안산시 상록구 사동 1310-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-10"
+    },
+    {
+      "name": "해태유통 상록수영업소",
+      "address": "경기도 안산시 상록구 본오동 871 126",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-10"
+    },
+    {
+      "name": "원마트할인매장",
+      "address": "경기도 안산시 상록구 일동 619-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-11"
+    },
+    {
+      "name": "새힘슈퍼",
+      "address": "경기도 안산시 단원구 와동 711-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-11"
+    },
+    {
+      "name": "수정할인마트",
+      "address": "경기도 안산시 상록구 본오동 837-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-11"
+    },
+    {
+      "name": "우성슈퍼",
+      "address": "경기도 안산시 상록구 이동 527-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-11"
+    },
+    {
+      "name": "초이마트강서점",
+      "address": "경기도 안산시 단원구 와동 839",
+      "roadAddress": "경기도 안산시 단원구 화정로1길 14  (와동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-11"
+    },
+    {
+      "name": "이마트24화성서신상안점",
+      "address": "경기도 안산시 단원구 원곡동 994-5 원곡유통상가",
+      "roadAddress": "경기도 안산시 단원구 산단로 326, 원곡유통상가 14동 210호 (원곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-01-19"
+    }
+  ]
+}

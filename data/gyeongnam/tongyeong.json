@@ -1,0 +1,17 @@
+{
+  "region": "경상남도",
+  "regionSlug": "gyeongnam",
+  "district": "통영시",
+  "districtSlug": "tongyeong",
+  "updatedAt": "2026-03-26",
+  "totalCount": 1,
+  "stores": [
+    {
+      "name": "도매유통",
+      "address": "전라남도 광양시 광양읍 칠성리 528-1",
+      "roadAddress": "경상남도 통영시 미수로 64-10, 103호(미수동,유성타워맨션상가)",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-25"
+    }
+  ]
+}

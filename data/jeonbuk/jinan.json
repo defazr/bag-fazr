@@ -1,0 +1,920 @@
+{
+  "region": "전북특별자치도",
+  "regionSlug": "jeonbuk",
+  "district": "진안군",
+  "districtSlug": "jinan",
+  "updatedAt": "2026-03-26",
+  "totalCount": 130,
+  "stores": [
+    {
+      "name": "롯데쇼핑(주)롯데슈퍼 진안점",
+      "address": "전북특별자치도 진안군 진안읍 군하리 309-4",
+      "roadAddress": "전북특별자치도 진안군 진안읍 진무로 1004",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-27"
+    },
+    {
+      "name": "냉천매점",
+      "address": "좌포리 양화부락 풍혈냉천",
+      "roadAddress": "전북특별자치도 진안군 성수면 관마로 836-58",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-24"
+    },
+    {
+      "name": "진안농협주천지소 하나로마트",
+      "address": "전북특별자치도 진안군 주천면 주양리 440-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-24"
+    },
+    {
+      "name": "어쭈구리할인마트",
+      "address": "전북특별자치도 진안군 진안읍 군상리 453-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-24"
+    },
+    {
+      "name": "대아수퍼",
+      "address": "전북특별자치도 진안군 진안읍 군하리 387-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-24"
+    },
+    {
+      "name": "성화수퍼",
+      "address": "전북특별자치도 진안군 주천면 대불리 70-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-24"
+    },
+    {
+      "name": "머루랑다래랑",
+      "address": "전북특별자치도 진안군 주천면 대불리 73",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-24"
+    },
+    {
+      "name": "덕태산장",
+      "address": "전북특별자치도 진안군 백운면 백암리 102",
+      "roadAddress": "전북특별자치도 진안군 백운면 백운동로 325-6",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-06"
+    },
+    {
+      "name": "서울수퍼",
+      "address": "전북특별자치도 진안군 마령면 평지리 998-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-10"
+    },
+    {
+      "name": "대성수퍼",
+      "address": "전북특별자치도 진안군 진안읍 군하리 124-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-15"
+    },
+    {
+      "name": "동향슈퍼",
+      "address": "전북특별자치도 진안군 동향면 대량리 717",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-13"
+    },
+    {
+      "name": "새안천휴게소",
+      "address": "전북특별자치도 진안군 안천면 노성리 756-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-26"
+    },
+    {
+      "name": "새안천휴게소",
+      "address": "전북특별자치도 진안군 안천면 노성리 756-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "외궁슈퍼",
+      "address": "진안군 성수면 외궁리 674-26",
+      "roadAddress": "전북특별자치도 진안군 성수면 관진로 802-3",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-25"
+    },
+    {
+      "name": "안천정류소",
+      "address": "전북특별자치도 진안군 안천면 노성리 1241-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-25"
+    },
+    {
+      "name": "얼큰이슈퍼(휴게실)",
+      "address": "전북특별자치도 진안군 진안읍 군하리 275-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-16"
+    },
+    {
+      "name": "지연슈퍼",
+      "address": "전북특별자치도 진안군 부귀면 거석리 733-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-16"
+    },
+    {
+      "name": "주천상회",
+      "address": "전북특별자치도 진안군 주천면 주양리 439-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-02-21"
+    },
+    {
+      "name": "훼미릴마트 진안중앙점",
+      "address": "전북특별자치도 진안군 진안읍 군상리 403-102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-10"
+    },
+    {
+      "name": "사계절마트청과",
+      "address": "전북특별자치도 진안군 진안읍 군상리 406-68",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-29"
+    },
+    {
+      "name": "마이산휴게소",
+      "address": "전북특별자치도 진안군 진안읍 오천리 269-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-06"
+    },
+    {
+      "name": "터미널슈퍼",
+      "address": "전북특별자치도 진안군 진안읍 군상리 403-67",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-10"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "전북특별자치도 진안군 동향면 대량리 781-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-24"
+    },
+    {
+      "name": "노적봉쉼터",
+      "address": "전북특별자치도 진안군 주천면 대불리 85-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-08"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "전북특별자치도 진안군 진안읍 군상리 826-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-10-25"
+    },
+    {
+      "name": "진안농협 안천지점 하나로마트",
+      "address": "전북특별자치도 진안군 안천면 노성리 698-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-22"
+    },
+    {
+      "name": "진안농협 안천지점 하나로마트",
+      "address": "전북특별자치도 진안군 안천면 노성리 698-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-21"
+    },
+    {
+      "name": "영진마트",
+      "address": "전북특별자치도 진안군 진안읍 군상리 406-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-19"
+    },
+    {
+      "name": "부귀농협정천지소하나로",
+      "address": "전북특별자치도 진안군 정천면 봉학리 423-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-15"
+    },
+    {
+      "name": "훼미리마트진안중앙점",
+      "address": "전북특별자치도 진안군 진안읍 군상리 403-102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-06"
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "전북특별자치도 진안군 백운면 동창리 706-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-09-03"
+    },
+    {
+      "name": "진안DC마트",
+      "address": "전북특별자치도 진안군 진안읍 군상리 450-6 6층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-12"
+    },
+    {
+      "name": "무진장축협 하나로마트",
+      "address": "전북특별자치도 진안군 진안읍 군상리 937-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-11"
+    },
+    {
+      "name": "부귀농협슈퍼",
+      "address": "전북특별자치도 진안군 부귀면 거석리 731-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-17"
+    },
+    {
+      "name": "운일암슈퍼",
+      "address": "전북특별자치도 진안군 주천면 대불리 92-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-30"
+    },
+    {
+      "name": "주천현대마트",
+      "address": "전북특별자치도 진안군 주천면 주양리 518",
+      "roadAddress": "전북특별자치도 진안군 주천면 동상주천로 2221-1 (현대마트)",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-30"
+    },
+    {
+      "name": "대광지물포",
+      "address": "전북특별자치도 진안군 진안읍 군상리 513-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-14"
+    },
+    {
+      "name": "두레가든",
+      "address": "전북특별자치도 진안군 부귀면 두남리 26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-30"
+    },
+    {
+      "name": "고향마트",
+      "address": "전북특별자치도 진안군 진안읍 군상리 528",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-10-06"
+    },
+    {
+      "name": "CU진안주공점",
+      "address": "전북특별자치도 진안군 진안읍 군상리 603 군상주공(2)아파트",
+      "roadAddress": "전북특별자치도 진안군 진안읍 진용로 63-11 (군상주공(2)아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2023-03-21"
+    },
+    {
+      "name": "어쭈구리 할인마트",
+      "address": "전북특별자치도 진안군 진안읍 군상리 453-9",
+      "roadAddress": "전북특별자치도 진안군 진안읍 진무로 1135",
+      "status": "영업/정상",
+      "licenseDate": "2010-08-06"
+    },
+    {
+      "name": "성수농협",
+      "address": "전북특별자치도 진안군 성수면 외궁리 712-2",
+      "roadAddress": "전북특별자치도 진안군 성수면 관진로 777",
+      "status": "영업/정상",
+      "licenseDate": "2010-08-16"
+    },
+    {
+      "name": "용담호강변펜션",
+      "address": "전북특별자치도 진안군 용담면 송풍리 110-5",
+      "roadAddress": "전북특별자치도 진안군 용담면 감동길 63",
+      "status": "영업/정상",
+      "licenseDate": "2010-08-19"
+    },
+    {
+      "name": "무진장축협 물류센타",
+      "address": "전북특별자치도 진안군 진안읍 연장리 1616",
+      "roadAddress": "전북특별자치도 진안군 진안읍 전진로 2729",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-02"
+    },
+    {
+      "name": "대호상회",
+      "address": "전북특별자치도 진안군 진안읍 군상리 406-7 진안고원시장",
+      "roadAddress": "전북특별자치도 진안군 진안읍 시장1길 16, 진안고원시장",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-03"
+    },
+    {
+      "name": "오리떼 편의점",
+      "address": "전북특별자치도 진안군 진안읍 연장리 783",
+      "roadAddress": "전북특별자치도 진안군 진안읍 거북바위로 82",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-18"
+    },
+    {
+      "name": "양지가든",
+      "address": "전북특별자치도 진안군 주천면 주양리 443-6",
+      "roadAddress": "전북특별자치도 진안군 주천면 동상주천로 2202-1",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-14"
+    },
+    {
+      "name": "새마을슈퍼",
+      "address": "전북특별자치도 진안군 진안읍 연장리 799",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-10"
+    },
+    {
+      "name": "신암슈퍼",
+      "address": "전북특별자치도 진안군 백운면 신암리 300-8",
+      "roadAddress": "전북특별자치도 진안군 백운면 데미샘2길 42-3",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-08"
+    },
+    {
+      "name": "그때그할인마트",
+      "address": "전북특별자치도 진안군 진안읍 군상리 406-50",
+      "roadAddress": "전북특별자치도 진안군 진안읍 시장1길 9",
+      "status": "영업/정상",
+      "licenseDate": "2013-08-09"
+    },
+    {
+      "name": "진안농협 하나로마트",
+      "address": "전북특별자치도 진안군 진안읍 군상리 243-12",
+      "roadAddress": "전북특별자치도 진안군 진안읍 진무로 1150",
+      "status": "영업/정상",
+      "licenseDate": "2023-03-30"
+    },
+    {
+      "name": "국태슈퍼",
+      "address": "전북특별자치도 진안군 진안읍 단양리 687-26",
+      "roadAddress": "전북특별자치도 진안군 진안읍 마이산로 246",
+      "status": "영업/정상",
+      "licenseDate": "2014-01-24"
+    },
+    {
+      "name": "운일암휴게소",
+      "address": "",
+      "roadAddress": "전북특별자치도 진안군 주천면 삼거길 18-3",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-17"
+    },
+    {
+      "name": "전주식당",
+      "address": "전북특별자치도 진안군 주천면 대불리 1-5",
+      "roadAddress": "전북특별자치도 진안군 주천면 동상주천로 2214",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-22"
+    },
+    {
+      "name": "백운농업협동조합",
+      "address": "",
+      "roadAddress": "전북특별자치도 진안군 백운면 임진로 1309",
+      "status": "영업/정상",
+      "licenseDate": "2015-05-18"
+    },
+    {
+      "name": "진안마을 주식회사",
+      "address": "",
+      "roadAddress": "전북특별자치도 진안군 진안읍 마이산로 154",
+      "status": "영업/정상",
+      "licenseDate": "2015-05-28"
+    },
+    {
+      "name": "흰구름이머무는풍경",
+      "address": "",
+      "roadAddress": "전북특별자치도 진안군 백운면 백운동로 324",
+      "status": "영업/정상",
+      "licenseDate": "2015-06-22"
+    },
+    {
+      "name": "부귀산장민박",
+      "address": "",
+      "roadAddress": "전북특별자치도 진안군 부귀면 귀상로 792-25",
+      "status": "영업/정상",
+      "licenseDate": "2015-07-07"
+    },
+    {
+      "name": "샘 휴게실",
+      "address": "",
+      "roadAddress": "전북특별자치도 진안군 주천면 동상주천로 1996-10",
+      "status": "영업/정상",
+      "licenseDate": "2015-07-27"
+    },
+    {
+      "name": "학동곶감마을",
+      "address": "",
+      "roadAddress": "전북특별자치도 진안군 정천면 학동길 54-14",
+      "status": "영업/정상",
+      "licenseDate": "2015-07-27"
+    },
+    {
+      "name": "평장슈퍼",
+      "address": "",
+      "roadAddress": "전북특별자치도 진안군 백운면 임진로 1563",
+      "status": "영업/정상",
+      "licenseDate": "2015-09-16"
+    },
+    {
+      "name": "진안고원 로컬푸드 플랫폼",
+      "address": "",
+      "roadAddress": "전북특별자치도 진안군 진안읍 마이산로 154",
+      "status": "영업/정상",
+      "licenseDate": "2016-02-26"
+    },
+    {
+      "name": "주천현대마트",
+      "address": "전북특별자치도 진안군 주천면 주양리 518",
+      "roadAddress": "전북특별자치도 진안군 주천면 동상주천로 2221-1 (현대마트)",
+      "status": "영업/정상",
+      "licenseDate": "2016-04-19"
+    },
+    {
+      "name": "하나매점",
+      "address": "",
+      "roadAddress": "전북특별자치도 진안군 용담면 와룡길 165-12 (샤워실)",
+      "status": "영업/정상",
+      "licenseDate": "2016-07-04"
+    },
+    {
+      "name": "GS25  진안중암점",
+      "address": "",
+      "roadAddress": "전북특별자치도 진안군 진안읍 진용로 10-1",
+      "status": "영업/정상",
+      "licenseDate": "2016-07-04"
+    },
+    {
+      "name": "구봉산만남의광장",
+      "address": "",
+      "roadAddress": "전북특별자치도 진안군 주천면 정주천로 590",
+      "status": "영업/정상",
+      "licenseDate": "2016-11-07"
+    },
+    {
+      "name": "마령면큰시내들 캠핑장",
+      "address": "",
+      "roadAddress": "전북특별자치도 진안군 마령면 관마로 1248-1 (마이산큰시내관광농원)",
+      "status": "영업/정상",
+      "licenseDate": "2017-01-18"
+    },
+    {
+      "name": "주천터미널수퍼",
+      "address": "전북특별자치도 진안군 주천면 주양리 465-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2017-06-22"
+    },
+    {
+      "name": "마이산 길목 잡화점",
+      "address": "",
+      "roadAddress": "전북특별자치도 진안군 진안읍 진무로 487",
+      "status": "영업/정상",
+      "licenseDate": "2017-08-28"
+    },
+    {
+      "name": "진남유통",
+      "address": "",
+      "roadAddress": "전북특별자치도 진안군 진안읍 진장로 70",
+      "status": "영업/정상",
+      "licenseDate": "2017-10-17"
+    },
+    {
+      "name": "CU진안점",
+      "address": "전북특별자치도 진안군 진안읍 군상리 429-5 우화정류소",
+      "roadAddress": "전북특별자치도 진안군 진안읍 진무로 1079-1",
+      "status": "영업/정상",
+      "licenseDate": "2017-11-10"
+    },
+    {
+      "name": "농림상사",
+      "address": "전북특별자치도 진안군 진안읍 군상리 450-3",
+      "roadAddress": "전북특별자치도 진안군 진안읍 시장2길 6",
+      "status": "영업/정상",
+      "licenseDate": "2018-03-23"
+    },
+    {
+      "name": "지에스25 진안IC지점",
+      "address": "전북특별자치도 진안군 진안읍 군하리 308-3",
+      "roadAddress": "전북특별자치도 진안군 진안읍 마이산로 10",
+      "status": "영업/정상",
+      "licenseDate": "2023-01-09"
+    },
+    {
+      "name": "로타리철물백화점",
+      "address": "전북특별자치도 진안군 진안읍 군하리 301-7 진안철강",
+      "roadAddress": "전북특별자치도 진안군 진안읍 중앙로 5, 진안철강",
+      "status": "영업/정상",
+      "licenseDate": "2019-01-03"
+    },
+    {
+      "name": "진남식자재마트",
+      "address": "전북특별자치도 진안군 진안읍 군상리 322-3",
+      "roadAddress": "전북특별자치도 진안군 진안읍 진장로 67",
+      "status": "영업/정상",
+      "licenseDate": "2019-09-19"
+    },
+    {
+      "name": "씨유진안안천점",
+      "address": "전북특별자치도 진안군 안천면 노성리 716-3",
+      "roadAddress": "전북특별자치도 진안군 안천면 진무로 2993",
+      "status": "영업/정상",
+      "licenseDate": "2020-03-06"
+    },
+    {
+      "name": "세븐일레븐 진안센터점",
+      "address": "전북특별자치도 진안군 진안읍 군상리 459-1",
+      "roadAddress": "전북특별자치도 진안군 진안읍 중앙로 119-4",
+      "status": "영업/정상",
+      "licenseDate": "2020-05-08"
+    },
+    {
+      "name": "통큰집슈퍼",
+      "address": "전북특별자치도 진안군 용담면 송풍리 1119-3",
+      "roadAddress": "전북특별자치도 진안군 용담면 옥수길 2",
+      "status": "영업/정상",
+      "licenseDate": "2020-08-31"
+    },
+    {
+      "name": "용담슈퍼",
+      "address": "전북특별자치도 진안군 용담면 송풍리 1156-2 용호성",
+      "roadAddress": "전북특별자치도 진안군 용담면 안용로 889, 용호성",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-02"
+    },
+    {
+      "name": "풍성슈퍼",
+      "address": "전북특별자치도 진안군 용담면 송풍리 1875-47",
+      "roadAddress": "전북특별자치도 진안군 용담면 대송로 5",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-02"
+    },
+    {
+      "name": "운일암반일암 국민여가 캠핑장",
+      "address": "전북특별자치도 진안군 주천면 주양리 612-8",
+      "roadAddress": "전북특별자치도 진안군 주천면 동상주천로 1996-13",
+      "status": "영업/정상",
+      "licenseDate": "2020-11-03"
+    },
+    {
+      "name": "OK식자재마트",
+      "address": "전북특별자치도 진안군 진안읍 군하리 309-4",
+      "roadAddress": "전북특별자치도 진안군 진안읍 진무로 1004",
+      "status": "영업/정상",
+      "licenseDate": "2021-01-19"
+    },
+    {
+      "name": "하가막마을새마을회",
+      "address": "전북특별자치도 진안군 진안읍 가막리 364-1 하가막마을회관",
+      "roadAddress": "전북특별자치도 진안군 진안읍 오가로 581-10, 하가막마을회관",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-03"
+    },
+    {
+      "name": "용담 섬바위마트",
+      "address": "전북특별자치도 진안군 용담면 송풍리 1930-2 용담부동산,동도건설",
+      "roadAddress": "전북특별자치도 진안군 용담면 안용로 995, 용담부동산,동도건설",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-29"
+    },
+    {
+      "name": "통큰슈퍼",
+      "address": "전북특별자치도 진안군 용담면 송풍리 1119-3",
+      "roadAddress": "전북특별자치도 진안군 용담면 옥수길 2",
+      "status": "영업/정상",
+      "licenseDate": "2021-09-14"
+    },
+    {
+      "name": "씨유진안로터리점",
+      "address": "전북특별자치도 진안군 진안읍 군상리 431-3",
+      "roadAddress": "전북특별자치도 진안군 진안읍 진무로 1085",
+      "status": "영업/정상",
+      "licenseDate": "2023-02-07"
+    },
+    {
+      "name": "씨유진안마이산점",
+      "address": "전북특별자치도 진안군 마령면 동촌리 70-4",
+      "roadAddress": "전북특별자치도 진안군 마령면 마이산남로 183, 씨유진안마이산점",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-13"
+    },
+    {
+      "name": "씨유진안중앙점",
+      "address": "전북특별자치도 진안군 진안읍 군상리 403-102",
+      "roadAddress": "전북특별자치도 진안군 진안읍 진무로 1110, 씨유진안중앙점",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-14"
+    },
+    {
+      "name": "씨유진안홍삼점",
+      "address": "전북특별자치도 진안군 진안읍 단양리 749",
+      "roadAddress": "전북특별자치도 진안군 진안읍 외사양길 17, 씨유진안홍삼점",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-05"
+    },
+    {
+      "name": "세븐일레븐 진안진용점",
+      "address": "전북특별자치도 진안군 진안읍 군상리 833",
+      "roadAddress": "전북특별자치도 진안군 진안읍 진용로 25, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-07"
+    },
+    {
+      "name": "흰구름할인마트",
+      "address": "전북특별자치도 진안군 백운면 백암리 660-2 흰구름할인마트",
+      "roadAddress": "전북특별자치도 진안군 백운면 임진로 1327, 흰구름할인마트",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-11"
+    },
+    {
+      "name": "GS25 진안본점",
+      "address": "전북특별자치도 진안군 진안읍 군상리 365-14",
+      "roadAddress": "전북특별자치도 진안군 진안읍 진무로 1102, GS25 진안본점",
+      "status": "영업/정상",
+      "licenseDate": "2023-10-16"
+    },
+    {
+      "name": "지에스25 진안터미널점",
+      "address": "전북특별자치도 진안군 진안읍 군상리 403-19 진안시외버스공용정류소",
+      "roadAddress": "전북특별자치도 진안군 진안읍 진무로 1120, 진안시외버스공용정류소",
+      "status": "영업/정상",
+      "licenseDate": "2024-01-09"
+    },
+    {
+      "name": "진안로컬푸드진안점",
+      "address": "전북특별자치도 진안군 진안읍 군상리 234-7",
+      "roadAddress": "전북특별자치도 진안군 진안읍 학천변길 37-9",
+      "status": "영업/정상",
+      "licenseDate": "2024-08-29"
+    },
+    {
+      "name": "씨유진안부귀점",
+      "address": "전북특별자치도 진안군 부귀면 세동리 1339-2",
+      "roadAddress": "전북특별자치도 진안군 부귀면 모래재로 572, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2024-10-24"
+    },
+    {
+      "name": "이레쉼터",
+      "address": "전북특별자치도 진안군 진안읍 군하리 138-6",
+      "roadAddress": "전북특별자치도 진안군 진안읍 대광길 2",
+      "status": "영업/정상",
+      "licenseDate": "2024-12-26"
+    },
+    {
+      "name": "진안군먹거리사업추진단",
+      "address": "전북특별자치도 진안군 진안읍 군상리 234-7",
+      "roadAddress": "전북특별자치도 진안군 진안읍 학천변길 37-9",
+      "status": "영업/정상",
+      "licenseDate": "2026-01-26"
+    },
+    {
+      "name": "봉학상회",
+      "address": "전북특별자치도 진안군 진안읍 군상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-14"
+    },
+    {
+      "name": "농산그린마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 진안군 진안읍 시장2길 10",
+      "status": "영업/정상",
+      "licenseDate": "2017-09-13"
+    },
+    {
+      "name": "신풍지업사",
+      "address": "전북특별자치도 진안군 진안읍 군상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-14"
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "전북특별자치도 진안군 진안읍 군상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-14"
+    },
+    {
+      "name": "전라제과",
+      "address": "전북특별자치도 진안군 진안읍 군상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-14"
+    },
+    {
+      "name": "동아지업사",
+      "address": "전북특별자치도 진안군 진안읍 군상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-14"
+    },
+    {
+      "name": "은상회",
+      "address": "전북특별자치도 진안군 진안읍 군상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-14"
+    },
+    {
+      "name": "남광슈퍼",
+      "address": "전북특별자치도 진안군 진안읍 군상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-14"
+    },
+    {
+      "name": "축협연쇄점",
+      "address": "전북특별자치도 진안군 진안읍 군상리 937-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-14"
+    },
+    {
+      "name": "철이네문구",
+      "address": "전북특별자치도 진안군 진안읍 군상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-14"
+    },
+    {
+      "name": "태양상회",
+      "address": "전북특별자치도 진안군 진안읍 군하리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-14"
+    },
+    {
+      "name": "마이수퍼",
+      "address": "전북특별자치도 진안군 진안읍 군하리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-14"
+    },
+    {
+      "name": "원단양구판장",
+      "address": "전북특별자치도 진안군 진안읍 단양리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-28"
+    },
+    {
+      "name": "형제상회",
+      "address": "전북특별자치도 진안군 안천면 노성리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-14"
+    },
+    {
+      "name": "진안농협동향지점 하나로마트",
+      "address": "상양지",
+      "roadAddress": "전북특별자치도 진안군 동향면 진성로 1622",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-14"
+    },
+    {
+      "name": "뉴상설할인마트",
+      "address": "전북특별자치도 진안군 백운면 백암리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-14"
+    },
+    {
+      "name": "마령단위농협",
+      "address": "전북특별자치도 진안군 마령면 평지리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-14"
+    },
+    {
+      "name": "부귀농협연쇄점",
+      "address": "전북특별자치도 진안군 부귀면 거석리 733-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-17"
+    },
+    {
+      "name": "글로리아마트",
+      "address": "동촌",
+      "roadAddress": "전북특별자치도 진안군 정천면 진용로 1035",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-14"
+    },
+    {
+      "name": "형우식품",
+      "address": "전북특별자치도 진안군 진안읍 단양리 60-1 근로자아파트상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-15"
+    },
+    {
+      "name": "명천여관",
+      "address": "전북특별자치도 진안군 주천면 주양리 632",
+      "roadAddress": "전북특별자치도 진안군 주천면 동상주천로 1924",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-20"
+    },
+    {
+      "name": "알프스산장",
+      "address": "전북특별자치도 진안군 주천면 대불리 산 10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-20"
+    },
+    {
+      "name": "성재상회",
+      "address": "전북특별자치도 진안군 주천면 대불리 산 9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-20"
+    },
+    {
+      "name": "주공슈퍼마켓",
+      "address": "전북특별자치도 진안군 진안읍 군상리 768",
+      "roadAddress": "전북특별자치도 진안군 진안읍 상역로 29-6",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-22"
+    },
+    {
+      "name": "또또슈퍼",
+      "address": "전북특별자치도 진안군 진안읍 군상리 855-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-02"
+    },
+    {
+      "name": "용슈퍼",
+      "address": "전북특별자치도 진안군 용담면 송풍리 921-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-24"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "전북특별자치도 진안군 진안읍 군상리 459-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-18"
+    },
+    {
+      "name": "진안슈퍼",
+      "address": "전북특별자치도 진안군 진안읍 군상리 479",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-24"
+    },
+    {
+      "name": "가나안상회",
+      "address": "전북특별자치도 진안군 마령면 평지리 507",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-24"
+    },
+    {
+      "name": "구주슈퍼",
+      "address": "진안군 동향면 자산리 1007",
+      "roadAddress": "전북특별자치도 진안군 동향면 자신로 6",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-10"
+    },
+    {
+      "name": "지연슈퍼",
+      "address": "전북특별자치도 진안군 진안읍 군상리 603",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-27"
+    },
+    {
+      "name": "전주마트",
+      "address": "전북특별자치도 진안군 진안읍 군상리 287-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-19"
+    },
+    {
+      "name": "(주)마트넷",
+      "address": "전북특별자치도 진안군 진안읍 군하리 309-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-27"
+    }
+  ]
+}

@@ -1,0 +1,843 @@
+{
+  "region": "전라남도",
+  "regionSlug": "jeonnam",
+  "district": "강진군",
+  "districtSlug": "gangjin",
+  "updatedAt": "2026-03-26",
+  "totalCount": 119,
+  "stores": [
+    {
+      "name": "모란마트",
+      "address": "전라남도 강진군 강진읍 남성리 175",
+      "roadAddress": "전라남도 강진군 강진읍 영랑로 62",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-04"
+    },
+    {
+      "name": "CU 강진마량점",
+      "address": "전라남도 강진군 마량면 마량리 987-90",
+      "roadAddress": "전라남도 강진군 마량면 미항로 137",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-23"
+    },
+    {
+      "name": "현대일등마트",
+      "address": "전라남도 강진군 강진읍 동성리 188-51",
+      "roadAddress": "전라남도 강진군 강진읍 시장길 13",
+      "status": "영업/정상",
+      "licenseDate": "2023-02-16"
+    },
+    {
+      "name": "지에스25 강진스타점",
+      "address": "전라남도 강진군 강진읍 평동리 177-7",
+      "roadAddress": "전라남도 강진군 강진읍 영랑로 11",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-16"
+    },
+    {
+      "name": "가우쉼터",
+      "address": "전라남도 강진군 대구면 저두리 59-1",
+      "roadAddress": "전라남도 강진군 대구면 청자로 1339-1",
+      "status": "영업/정상",
+      "licenseDate": "2023-06-27"
+    },
+    {
+      "name": "아이스할인마트",
+      "address": "전라남도 강진군 군동면 호계리 1295",
+      "roadAddress": "전라남도 강진군 군동면 백금포길 8, 상가동(코아루) 1층 101호",
+      "status": "영업/정상",
+      "licenseDate": "2023-08-09"
+    },
+    {
+      "name": "거창상회",
+      "address": "전라남도 강진군 마량면 마량리 792-17",
+      "roadAddress": "전라남도 강진군 마량면 마량3길 13-1",
+      "status": "영업/정상",
+      "licenseDate": "2023-10-11"
+    },
+    {
+      "name": "빅씨아시아마트",
+      "address": "전라남도 강진군 마량면 마량리 987-73",
+      "roadAddress": "전라남도 강진군 마량면 마량7길 12",
+      "status": "영업/정상",
+      "licenseDate": "2023-10-25"
+    },
+    {
+      "name": "삼성종합건재",
+      "address": "전라남도 강진군 강진읍 평동리 14",
+      "roadAddress": "전라남도 강진군 강진읍 보은로 120, 삼성종합건재",
+      "status": "영업/정상",
+      "licenseDate": "2024-03-05"
+    },
+    {
+      "name": "씨유 강진청자로점",
+      "address": "전라남도 강진군 칠량면 송로리 1184",
+      "roadAddress": "전라남도 강진군 칠량면 청자로 656-7",
+      "status": "영업/정상",
+      "licenseDate": "2024-05-16"
+    },
+    {
+      "name": "동일건재사",
+      "address": "전라남도 강진군 강진읍 평동리 273-1",
+      "roadAddress": "전라남도 강진군 강진읍 삼일로 21",
+      "status": "영업/정상",
+      "licenseDate": "2025-03-12"
+    },
+    {
+      "name": "씨유 강진터미널점",
+      "address": "전라남도 강진군 강진읍 평동리 168-3",
+      "roadAddress": "전라남도 강진군 강진읍 중앙로 92, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2025-05-23"
+    },
+    {
+      "name": "보라슈퍼",
+      "address": "전라남도 강진군 병영면 성남리 140-9",
+      "roadAddress": "전라남도 강진군 병영면 하멜로 411",
+      "status": "영업/정상",
+      "licenseDate": "2025-05-30"
+    },
+    {
+      "name": "삼원레져 편의점",
+      "address": "전라남도 강진군 마량면 마량리 980-65",
+      "roadAddress": "전라남도 강진군 마량면 미항로 195",
+      "status": "영업/정상",
+      "licenseDate": "2025-07-29"
+    },
+    {
+      "name": "서울상사",
+      "address": "전라남도 강진군 강진읍 동성리 222",
+      "roadAddress": "전라남도 강진군 강진읍 중앙로 143-1",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-16"
+    },
+    {
+      "name": "동그라미슈퍼",
+      "address": "전라남도 강진군 강진읍 동성리 217",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-16"
+    },
+    {
+      "name": "다산슈퍼",
+      "address": "전라남도 강진군 강진읍 남성리 25-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-16"
+    },
+    {
+      "name": "대동슈퍼",
+      "address": "전라남도 강진군 강진읍 서성리 58-1",
+      "roadAddress": "전라남도 강진군 강진읍 삼일로 58-1",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-16"
+    },
+    {
+      "name": "영선슈퍼",
+      "address": "전라남도 강진군 강진읍 평동리 195",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그래그래상회",
+      "address": "전라남도 강진군 칠량면 영동리 1073",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-16"
+    },
+    {
+      "name": "칠량슈퍼",
+      "address": "전라남도 강진군 칠량면 영동리 1137",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-16"
+    },
+    {
+      "name": "우성상회",
+      "address": "전라남도 강진군 칠량면 영동리 1042",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-16"
+    },
+    {
+      "name": "칠량원예사",
+      "address": "전라남도 강진군 칠량면 영동리 1137",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-16"
+    },
+    {
+      "name": "영동가게",
+      "address": "전라남도 강진군 칠량면 영동리 1137",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-16"
+    },
+    {
+      "name": "대구농업협동조합",
+      "address": "전라남도 강진군 대구면 수동리 539",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-16"
+    },
+    {
+      "name": "호남농약사",
+      "address": "전라남도 강진군 마량면 마량리 987-71",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-16"
+    },
+    {
+      "name": "계라슈퍼",
+      "address": "전라남도 강진군 도암면 계라리 252",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-16"
+    },
+    {
+      "name": "목포슈퍼",
+      "address": "전라남도 강진군 도암면 항촌리 1153",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-16"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "전라남도 강진군 도암면 항촌리 1081",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-16"
+    },
+    {
+      "name": "시나브로 슈퍼",
+      "address": "전라남도 강진군 도암면 항촌리 517",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-16"
+    },
+    {
+      "name": "광남슈퍼",
+      "address": "전라남도 강진군 신전면 수양리 170",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-16"
+    },
+    {
+      "name": "정류소 슈퍼",
+      "address": "전라남도 강진군 신전면 용월리 724-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-16"
+    },
+    {
+      "name": "월남구판장",
+      "address": "전라남도 강진군 성전면 월남리 641",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-16"
+    },
+    {
+      "name": "동신상회",
+      "address": "전라남도 강진군 병영면 성남리 110-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-16"
+    },
+    {
+      "name": "병영제과서",
+      "address": "전라남도 강진군 병영면 삼인리 311-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-16"
+    },
+    {
+      "name": "에덴뷔페",
+      "address": "전라남도 강진군 성전면 월남리 93",
+      "roadAddress": "전라남도 강진군 성전면 예향로 672",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "칠량 우체국",
+      "address": "전라남도 강진군 칠량면 영동리 1138-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-11"
+    },
+    {
+      "name": "마량 우체국",
+      "address": "전라남도 강진군 마량면 마량리 790-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-11"
+    },
+    {
+      "name": "병영 우체국",
+      "address": "전라남도 강진군 병영면 성남리 104-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-11"
+    },
+    {
+      "name": "삼성상회",
+      "address": "전라남도 강진군 병영면 성남리 128",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-15"
+    },
+    {
+      "name": "종합슈퍼",
+      "address": "전라남도 강진군 강진읍 동성리 332",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울상사",
+      "address": "전라남도 강진군 강진읍 동성리 222",
+      "roadAddress": "전라남도 강진군 강진읍 중앙로 143-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LC마트",
+      "address": "전라남도 강진군 강진읍 남성리 52-3",
+      "roadAddress": "전라남도 강진군 강진읍 보은로3길 32",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-20"
+    },
+    {
+      "name": "연세마트",
+      "address": "전라남도 강진군 강진읍 서성리 150-1",
+      "roadAddress": "전라남도 강진군 강진읍 서성안길 15",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-15"
+    },
+    {
+      "name": "중흥마트",
+      "address": "전라남도 강진군 군동면 호계리 888-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-23"
+    },
+    {
+      "name": "올데이마트",
+      "address": "전라남도 강진군 강진읍 남성리 5-2",
+      "roadAddress": "전라남도 강진군 강진읍 영랑로4길 6",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남도마트",
+      "address": "전라남도 강진군 강진읍 남성리 1-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-03"
+    },
+    {
+      "name": "조양상회",
+      "address": "전라남도 강진군 강진읍 동성리 183-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-26"
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "전라남도 강진군 강진읍 서성리 56-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-30"
+    },
+    {
+      "name": "CU 중앙점",
+      "address": "전라남도 강진군 강진읍 남성리 5-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-09"
+    },
+    {
+      "name": "강진파머스마켓",
+      "address": "전라남도 강진군 강진읍 동성리 66",
+      "roadAddress": "전라남도 강진군 강진읍 보은로 152",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-18"
+    },
+    {
+      "name": "뉴강진마트",
+      "address": "전라남도 강진군 강진읍 서성리 50",
+      "roadAddress": "전라남도 강진군 강진읍 중앙로 61",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-19"
+    },
+    {
+      "name": "성전슈퍼",
+      "address": "전라남도 강진군 성전면 월평리 24-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-18"
+    },
+    {
+      "name": "에이스마트",
+      "address": "전라남도 강진군 강진읍 서성리 94-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-12"
+    },
+    {
+      "name": "MBM선물마켓",
+      "address": "전라남도 강진군 강진읍 남성리 54-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-10-19"
+    },
+    {
+      "name": "강진슈퍼",
+      "address": "전라남도 강진군 강진읍 동성리 195-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-02-24"
+    },
+    {
+      "name": "강진남부농업협동조합",
+      "address": "전라남도 강진군 칠량면 영동리 1068-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2025-09-22"
+    },
+    {
+      "name": "오렌지문구",
+      "address": "전라남도 강진군 강진읍 남성리 32-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-02-10"
+    },
+    {
+      "name": "미니수퍼",
+      "address": "전라남도 강진군 강진읍 남성리 77-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-12"
+    },
+    {
+      "name": "신광소슈퍼",
+      "address": "전라남도 강진군 강진읍 서성리 10-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-12"
+    },
+    {
+      "name": "군동농업협동조합",
+      "address": "전라남도 강진군 군동면 라천리 66-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-12"
+    },
+    {
+      "name": "용마루장터",
+      "address": "전라남도 강진군 신전면 용월리 723-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-06"
+    },
+    {
+      "name": "씨유 강진마량점",
+      "address": "전라남도 강진군 마량면 마량리 987-90",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-08-09"
+    },
+    {
+      "name": "강진한들농업 협동조합",
+      "address": "전라남도 강진군 병영면 성남리 143",
+      "roadAddress": "전라남도 강진군 병영면 병영성로 135",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-18"
+    },
+    {
+      "name": "이데아24시마트",
+      "address": "전라남도 강진군 강진읍 남성리 23-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-01-22"
+    },
+    {
+      "name": "도암농업협동조합",
+      "address": "전라남도 강진군 도암면 항촌리 1146-2",
+      "roadAddress": "전라남도 강진군 도암면 도암중앙로 85",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-02"
+    },
+    {
+      "name": "GS25시 강진읍점",
+      "address": "전라남도 강진군 강진읍 남성리 22-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-17"
+    },
+    {
+      "name": "GS25시 서성점",
+      "address": "전라남도 강진군 강진읍 서성리 171",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-09"
+    },
+    {
+      "name": "홍암슈퍼",
+      "address": "전라남도 강진군 강진읍 서성리 67 건우@ 나동 101호, 102호",
+      "roadAddress": "전라남도 강진군 강진읍 고성길 2  (건우@ 나동 101호, 102호)",
+      "status": "영업/정상",
+      "licenseDate": "2009-10-27"
+    },
+    {
+      "name": "마량버스여객터미널",
+      "address": "전라남도 강진군 마량면 마량리 987-43",
+      "roadAddress": "전라남도 강진군 마량면 마량4길 11",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-21"
+    },
+    {
+      "name": "군동슈퍼",
+      "address": "전라남도 강진군 군동면 라천리 273-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-16"
+    },
+    {
+      "name": "백년비닐상사",
+      "address": "전라남도 강진군 강진읍 남성리 1-25",
+      "roadAddress": "전라남도 강진군 강진읍 영랑로3길 34-3",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-16"
+    },
+    {
+      "name": "시장 편의점",
+      "address": "전라남도 강진군 강진읍 동성리 187-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-03-10"
+    },
+    {
+      "name": "CU 강진우량점",
+      "address": "전라남도 강진군 강진읍 동성리 218-15",
+      "roadAddress": "전라남도 강진군 강진읍 동성로 28",
+      "status": "영업/정상",
+      "licenseDate": "2010-09-14"
+    },
+    {
+      "name": "박종옥",
+      "address": "전라남도 강진군 강진읍 동성리 326-31",
+      "roadAddress": "전라남도 강진군 강진읍 시장길 2-1",
+      "status": "영업/정상",
+      "licenseDate": "2010-07-26"
+    },
+    {
+      "name": "세븐일레븐 강진산호점",
+      "address": "전라남도 강진군 강진읍 남성리 61-7",
+      "roadAddress": "전라남도 강진군 강진읍 중앙로 115",
+      "status": "영업/정상",
+      "licenseDate": "2018-12-03"
+    },
+    {
+      "name": "도암농협신전지점하나로마트",
+      "address": "전라남도 강진군 신전면 용월리 731-24",
+      "roadAddress": "전라남도 강진군 신전면 신전중앙길 20",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-28"
+    },
+    {
+      "name": "미니스톱 강진청자점",
+      "address": "전라남도 강진군 강진읍 남성리 22-13",
+      "roadAddress": "전라남도 강진군 강진읍 보은로2길 23",
+      "status": "영업/정상",
+      "licenseDate": "2016-06-10"
+    },
+    {
+      "name": "세븐일레븐 강진서성점",
+      "address": "전라남도 강진군 강진읍 서성리 112-5",
+      "roadAddress": "전라남도 강진군 강진읍 탐진로 66",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-26"
+    },
+    {
+      "name": "세븐일레븐 강진의료원점",
+      "address": "전라남도 강진군 강진읍 서성리 357",
+      "roadAddress": "전라남도 강진군 강진읍 탐진로 8",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-07"
+    },
+    {
+      "name": "강진농협성전지점",
+      "address": "전라남도 강진군 성전면 751-1",
+      "roadAddress": "전라남도 강진군 성전면 송계로 880",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-17"
+    },
+    {
+      "name": "세븐일레븐 강진다산점",
+      "address": "전라남도 강진군 강진읍 남성리 28-6",
+      "roadAddress": "전라남도 강진군 강진읍 보은로안길 22",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-16"
+    },
+    {
+      "name": "강진완도축산업협동조합",
+      "address": "전라남도 강진군 강진읍 남성리 28-7",
+      "roadAddress": "전라남도 강진군 강진읍 보은로 131",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-23"
+    },
+    {
+      "name": "한들농협작천지점",
+      "address": "전라남도 강진군 작천면 평리 329-4",
+      "roadAddress": "전라남도 강진군 작천면 까치내로 859",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-27"
+    },
+    {
+      "name": "마디로 편의점",
+      "address": "전라남도 강진군 강진읍 남성리 26-29",
+      "roadAddress": "전라남도 강진군 강진읍 보은로안길 21",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-16"
+    },
+    {
+      "name": "서희식품",
+      "address": "전라남도 강진군 마량면 마량리 987-60",
+      "roadAddress": "전라남도 강진군 마량면 마량5길 10",
+      "status": "영업/정상",
+      "licenseDate": "2013-08-01"
+    },
+    {
+      "name": "자연이 좋은 사람들",
+      "address": "",
+      "roadAddress": "전라남도 강진군 성전면 백운로 93-9",
+      "status": "영업/정상",
+      "licenseDate": "2014-06-12"
+    },
+    {
+      "name": "용희수퍼",
+      "address": "",
+      "roadAddress": "전라남도 강진군 작천면 까치내로 860",
+      "status": "영업/정상",
+      "licenseDate": "2014-08-22"
+    },
+    {
+      "name": "씨유 강진이안점",
+      "address": "",
+      "roadAddress": "전라남도 강진군 강진읍 고성길 14",
+      "status": "영업/정상",
+      "licenseDate": "2014-11-03"
+    },
+    {
+      "name": "강진농협하나로마트",
+      "address": "전라남도 강진군 강진읍 남성리 19-1",
+      "roadAddress": "전라남도 강진군 강진읍 보은로2길 32",
+      "status": "영업/정상",
+      "licenseDate": "2015-03-25"
+    },
+    {
+      "name": "씨유강진터미널1호점",
+      "address": "",
+      "roadAddress": "전라남도 강진군 강진읍 영랑로4길 4",
+      "status": "영업/정상",
+      "licenseDate": "2015-04-15"
+    },
+    {
+      "name": "강진 청자마트",
+      "address": "",
+      "roadAddress": "전라남도 강진군 강진읍 평동2길 30",
+      "status": "영업/정상",
+      "licenseDate": "2015-04-15"
+    },
+    {
+      "name": "참조은마트",
+      "address": "",
+      "roadAddress": "전라남도 강진군 성전면 별뫼로 379",
+      "status": "영업/정상",
+      "licenseDate": "2015-07-23"
+    },
+    {
+      "name": "지에스25 강진마량",
+      "address": "",
+      "roadAddress": "전라남도 강진군 마량면 미항로 149-2",
+      "status": "영업/정상",
+      "licenseDate": "2015-09-16"
+    },
+    {
+      "name": "석문매점",
+      "address": "전라남도 강진군 도암면 석문리 산 62-3",
+      "roadAddress": "전라남도 강진군 도암면 장촌앞길 40",
+      "status": "영업/정상",
+      "licenseDate": "2016-07-13"
+    },
+    {
+      "name": "우엉차",
+      "address": "전라남도 강진군 도암면 신기리 123-2",
+      "roadAddress": "전라남도 강진군 도암면 월곶로 473",
+      "status": "영업/정상",
+      "licenseDate": "2016-07-22"
+    },
+    {
+      "name": "효요양병원매점",
+      "address": "",
+      "roadAddress": "전라남도 강진군 강진읍 솔치로 291-21 (요양병원)",
+      "status": "영업/정상",
+      "licenseDate": "2016-08-30"
+    },
+    {
+      "name": "세븐일레븐 강진보은점",
+      "address": "전라남도 강진군 강진읍 평동리 177-11",
+      "roadAddress": "전라남도 강진군 강진읍 보은로 99 (신세계프라자)",
+      "status": "영업/정상",
+      "licenseDate": "2017-11-20"
+    },
+    {
+      "name": "아뜨리움마트",
+      "address": "전라남도 강진군 강진읍 평동리 10-35",
+      "roadAddress": "전라남도 강진군 강진읍 구강포로 90",
+      "status": "영업/정상",
+      "licenseDate": "2017-12-19"
+    },
+    {
+      "name": "GS25 강진서성점",
+      "address": "전라남도 강진군 강진읍 서성리 171 패밀리하우스",
+      "roadAddress": "전라남도 강진군 강진읍 탐진로 85, 패밀리하우스",
+      "status": "영업/정상",
+      "licenseDate": "2018-07-27"
+    },
+    {
+      "name": "신흥마트",
+      "address": "전라남도 강진군 강진읍 남성리 50-16",
+      "roadAddress": "전라남도 강진군 강진읍 보은로4길 7",
+      "status": "영업/정상",
+      "licenseDate": "2018-12-03"
+    },
+    {
+      "name": "청담",
+      "address": "전라남도 강진군 강진읍 서성리 85-1",
+      "roadAddress": "전라남도 강진군 강진읍 탐진로 51-11",
+      "status": "영업/정상",
+      "licenseDate": "2019-03-04"
+    },
+    {
+      "name": "세븐일레븐 강진가우도점(바다다)",
+      "address": "전라남도 강진군 대구면 저두리 320-1",
+      "roadAddress": "전라남도 강진군 대구면 중저길 15-27",
+      "status": "영업/정상",
+      "licenseDate": "2019-12-23"
+    },
+    {
+      "name": "씨유 강진로또점",
+      "address": "전라남도 강진군 강진읍 남성리 24-36",
+      "roadAddress": "전라남도 강진군 강진읍 보은로 115",
+      "status": "영업/정상",
+      "licenseDate": "2020-01-03"
+    },
+    {
+      "name": "강진마트2호점",
+      "address": "전라남도 강진군 마량면 마량리 987-167",
+      "roadAddress": "전라남도 강진군 마량면 마량6길 13",
+      "status": "영업/정상",
+      "licenseDate": "2020-04-02"
+    },
+    {
+      "name": "시온할인마트",
+      "address": "전라남도 강진군 마량면 마량리 987-166",
+      "roadAddress": "전라남도 강진군 마량면 마량4길 6",
+      "status": "영업/정상",
+      "licenseDate": "2020-04-02"
+    },
+    {
+      "name": "정민마트",
+      "address": "전라남도 강진군 강진읍 동성리 190-42",
+      "roadAddress": "전라남도 강진군 강진읍 동명3길 18",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-18"
+    },
+    {
+      "name": "이마트24 강진성전면점",
+      "address": "전라남도 강진군 성전면 월평리 38-1 성전상가",
+      "roadAddress": "전라남도 강진군 성전면 별뫼로 373, 성전상가 101호",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-29"
+    },
+    {
+      "name": "현대식품",
+      "address": "전라남도 강진군 강진읍 동성리 188-51",
+      "roadAddress": "전라남도 강진군 강진읍 시장길 13",
+      "status": "영업/정상",
+      "licenseDate": "2021-01-04"
+    },
+    {
+      "name": "참마트",
+      "address": "전라남도 강진군 강진읍 평동리 175-6",
+      "roadAddress": "전라남도 강진군 강진읍 평동2길 30",
+      "status": "영업/정상",
+      "licenseDate": "2021-01-19"
+    },
+    {
+      "name": "에이비엠코리아생활용품",
+      "address": "전라남도 강진군 강진읍 남성리 24-16 에이비엠코리아생활용품",
+      "roadAddress": "전라남도 강진군 강진읍 보은로 111, 에이비엠코리아생활용품",
+      "status": "영업/정상",
+      "licenseDate": "2021-01-21"
+    },
+    {
+      "name": "이마트24 가우도휴게소점",
+      "address": "전라남도 강진군 칠량면 송로리 29-6",
+      "roadAddress": "전라남도 강진군 칠량면 청자로2길 90, 이마트24 가우도휴게소점",
+      "status": "영업/정상",
+      "licenseDate": "2021-02-05"
+    },
+    {
+      "name": "이마트24 대산점",
+      "address": "전라남도 강진군 강진읍 동성리 403",
+      "roadAddress": "전라남도 강진군 강진읍 탐진로 127",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-20"
+    },
+    {
+      "name": "씨유 강진병영점",
+      "address": "전라남도 강진군 병영면 삼인리 334-3",
+      "roadAddress": "전라남도 강진군 병영면 병영성로 95, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2021-11-25"
+    },
+    {
+      "name": "CU 강진 LH점",
+      "address": "전라남도 강진군 강진읍 동성리 264-1",
+      "roadAddress": "전라남도 강진군 강진읍 향교로 51",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-15"
+    },
+    {
+      "name": "CU강진칠량점",
+      "address": "전라남도 강진군 칠량면 영동리 1042-16",
+      "roadAddress": "전라남도 강진군 칠량면 칠량로 83",
+      "status": "영업/정상",
+      "licenseDate": "2022-06-23"
+    },
+    {
+      "name": "GS25강진칠량점",
+      "address": "전라남도 강진군 칠량면 영동리 1068-8",
+      "roadAddress": "전라남도 강진군 칠량면 칠량로 77",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-27"
+    },
+    {
+      "name": "GS25강진칠량점",
+      "address": "전라남도 강진군 칠량면 영동리 1068-8",
+      "roadAddress": "전라남도 강진군 칠량면 칠량로 77",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-27"
+    },
+    {
+      "name": "GS25 강진 후레쉬점",
+      "address": "전라남도 강진군 강진읍 서성리 94-3",
+      "roadAddress": "전라남도 강진군 강진읍 탐진로 56",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-12"
+    }
+  ]
+}

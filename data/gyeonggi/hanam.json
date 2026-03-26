@@ -1,0 +1,185 @@
+{
+  "region": "경기도",
+  "regionSlug": "gyeonggi",
+  "district": "하남시",
+  "districtSlug": "hanam",
+  "updatedAt": "2026-03-26",
+  "totalCount": 25,
+  "stores": [
+    {
+      "name": "지에스(GS)25 남양주본점",
+      "address": "경기도 남양주시 오남읍 오남리 683-7 진주상가",
+      "roadAddress": "경기도 하남시 미사강변대로 135, 1902동 904호 (망월동, 미사강변 하우스디 더 레이크)",
+      "status": "영업/정상",
+      "licenseDate": "2023-06-20"
+    },
+    {
+      "name": "지에스25남양주지웰점",
+      "address": "경기도 하남시 망월동 956 미사강변도시8단지",
+      "roadAddress": "경기도 하남시 미사강변대로 240, 807동 1402호 (망월동, 미사강변도시8단지)",
+      "status": "영업/정상",
+      "licenseDate": "2024-04-23"
+    },
+    {
+      "name": "원마트",
+      "address": "경기도 하남시 신장동 527 한국아파트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-01"
+    },
+    {
+      "name": "라인슈퍼",
+      "address": "경기도 하남시 덕풍동 336-0013 아파트건너편",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-26"
+    },
+    {
+      "name": "호성s마트",
+      "address": "경기도 하남시 신장동 427-0419 남영탕1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-26"
+    },
+    {
+      "name": "오성마트",
+      "address": "경기도 하남시 덕풍동 339-0017",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-26"
+    },
+    {
+      "name": "풍산슈퍼",
+      "address": "경기도 하남시 풍산동 83-0005 주유소건너편",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-26"
+    },
+    {
+      "name": "한아름마트",
+      "address": "경기도 하남시 덕풍동 435-0053 덕풍하이퍼 맞은편",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-26"
+    },
+    {
+      "name": "현대슈퍼4",
+      "address": "경기도 하남시 신장동 427-0204 구엘칸토 건너골목",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-26"
+    },
+    {
+      "name": "동수식품",
+      "address": "경기도 하남시 상산곡동 126 마을회관",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-26"
+    },
+    {
+      "name": "새샘마트",
+      "address": "경기도 하남시 덕풍동 371-0118 국민은행앞 롯데리아뒷골목",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-26"
+    },
+    {
+      "name": "하남시청구내매점",
+      "address": "경기도 하남시 신장동 520",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-26"
+    },
+    {
+      "name": "한아름마트",
+      "address": "경기도 하남시 덕풍동 435-0053 덕풍하이퍼 맞은편",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-26"
+    },
+    {
+      "name": "영슈퍼",
+      "address": "경기도 하남시 풍산동 산 40-0009 육교밑",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-26"
+    },
+    {
+      "name": "훼미리마트하남점",
+      "address": "경기도 하남시 창우동 520 은행상가내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-26"
+    },
+    {
+      "name": "애니타임슈퍼",
+      "address": "경기도 하남시 덕풍동 388-0001 하남우체국맞은편",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-26"
+    },
+    {
+      "name": "하나마트",
+      "address": "경기도 하남시 덕풍동 432-0020 영천탕옆",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-26"
+    },
+    {
+      "name": "훼미리마트하남점",
+      "address": "경기도 하남시 창우동 520 은행상가내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-26"
+    },
+    {
+      "name": "우진슈퍼",
+      "address": "경기도 하남시 덕풍동 465-0001 명문장옆",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-26"
+    },
+    {
+      "name": "배알미슈퍼",
+      "address": "경기도 하남시 배알미동 114-0003 마을회관",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-26"
+    },
+    {
+      "name": "주성슈퍼",
+      "address": "경기도 하남시 초이동 487 송림마을버스 종점앞",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-26"
+    },
+    {
+      "name": "삐삐슈퍼",
+      "address": "경기도 하남시 감북동 405-0015 감북교회옆",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-26"
+    },
+    {
+      "name": "은영슈퍼",
+      "address": "경기도 하남시 덕풍동 515-0052 한성카옆",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-26"
+    },
+    {
+      "name": "부부마트",
+      "address": "경기도 하남시 덕풍동 357-0055 덕풍초교앞",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-02"
+    },
+    {
+      "name": "창우문구",
+      "address": "경기도 하남시 창우동 518 부영아파트 종합상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-04"
+    }
+  ]
+}

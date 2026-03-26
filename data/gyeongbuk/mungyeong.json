@@ -1,0 +1,3069 @@
+{
+  "region": "경상북도",
+  "regionSlug": "gyeongbuk",
+  "district": "문경시",
+  "districtSlug": "mungyeong",
+  "updatedAt": "2026-03-26",
+  "totalCount": 437,
+  "stores": [
+    {
+      "name": "대성슈퍼",
+      "address": "경상북도 문경시 모전동 34-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "노은2리구판장",
+      "address": "경상북도 문경시 동로면 노은리 319-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "적성2리문구점",
+      "address": "경상북도 문경시 동로면 적성리 619-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "생달1리구판장",
+      "address": "경상북도 문경시 동로면 생달리 60",
+      "roadAddress": "경상북도 문경시 동로면 약사정길 3-3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "생달2리구판장",
+      "address": "경상북도 문경시 동로면 생달리 560",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대구슈퍼",
+      "address": "경상북도 문경시 동로면 적성리 566-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경천매점",
+      "address": "경상북도 문경시 동로면 마광리 488-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대자연식당",
+      "address": "경상북도 문경시 동로면 간송리 720-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "흥부상회",
+      "address": "경상북도 문경시 농암면 농암리 195-51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "학생문구사",
+      "address": "경상북도 문경시 산양면 불암리 239-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문화장식",
+      "address": "경상북도 문경시 농암면 농암리 143",
+      "roadAddress": "경상북도 문경시 농암면 청암2길 19-2",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "경상북도 문경시 모전동 75-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "육농사",
+      "address": "경상북도 문경시 농암면 농암리 195-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쌍용계곡매점",
+      "address": "경상북도 문경시 농암면 내서리 687",
+      "roadAddress": "경상북도 문경시 농암면 청화로 223-3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대경상회",
+      "address": "경상북도 문경시 농암면 농암리 195-52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "율수1리",
+      "address": "경상북도 문경시 농암면 율수리 226",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종곡3리",
+      "address": "경상북도 문경시 농암면 종곡리 16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화산1리",
+      "address": "경상북도 문경시 농암면 화산리 349",
+      "roadAddress": "경상북도 문경시 농암면 연계길 16-3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농암1리구판장",
+      "address": "경상북도 문경시 농암면 농암리 143",
+      "roadAddress": "경상북도 문경시 농암면 청암2길 19-2",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "갈동2리",
+      "address": "경상북도 문경시 농암면 갈동리 522",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "내서1리",
+      "address": "경상북도 문경시 농암면 내서리 315",
+      "roadAddress": "경상북도 문경시 농암면 청화로 571-14",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화산1리구판장",
+      "address": "경상북도 문경시 농암면 화산리 280",
+      "roadAddress": "경상북도 문경시 농암면 중리길 59",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화산2리",
+      "address": "경상북도 문경시 농암면 화산리 412",
+      "roadAddress": "경상북도 문경시 농암면 삼화실길 89",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화산2리",
+      "address": "경상북도 문경시 농암면 화산리 412",
+      "roadAddress": "경상북도 문경시 농암면 삼화실길 89",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연천2리",
+      "address": "경상북도 문경시 농암면 연천리 508",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농암2리",
+      "address": "경상북도 문경시 농암면 농암리 195-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농암1리",
+      "address": "경상북도 문경시 농암면 농암리 126-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종곡1리",
+      "address": "경상북도 문경시 농암면 종곡리 417-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "궁기1리",
+      "address": "경상북도 문경시 농암면 궁기리 268",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사현리구판장",
+      "address": "경상북도 문경시 농암면 사현리 484",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선곡1리",
+      "address": "경상북도 문경시 농암면 선곡리 519",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선곡2리",
+      "address": "경상북도 문경시 농암면 선곡리 385",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지동2리",
+      "address": "경상북도 문경시 농암면 지동리 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지동1리",
+      "address": "경상북도 문경시 농암면 지동리 265",
+      "roadAddress": "경상북도 문경시 농암면 못골길 12-3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "율수2리",
+      "address": "경상북도 문경시 농암면 율수리 120",
+      "roadAddress": "경상북도 문경시 농암면 하율길 45",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "내서1리",
+      "address": "경상북도 문경시 농암면 내서리 272",
+      "roadAddress": "경상북도 문경시 농암면 청화로 547",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대덕휴게소식당",
+      "address": "경상북도 문경시 농암면 종곡리 31-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물상회",
+      "address": "경상북도 문경시 점촌동 375-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문창슈퍼",
+      "address": "경상북도 문경시 점촌동 373-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무궁화슈퍼",
+      "address": "경상북도 문경시 점촌동 371-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충현슈퍼",
+      "address": "경상북도 문경시 점촌동 401-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일연탄",
+      "address": "경상북도 문경시 점촌동 219-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충현미니슈퍼",
+      "address": "경상북도 문경시 점촌동 365-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대동슈퍼",
+      "address": "경상북도 문경시 점촌동 253-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정일슈퍼",
+      "address": "경상북도 문경시 점촌동 249",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리담배가게",
+      "address": "경상북도 문경시 점촌동 371-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우신쌀상회",
+      "address": "경상북도 문경시 점촌동 376-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아슈퍼",
+      "address": "경상북도 문경시 점촌동 151-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광덕슈퍼",
+      "address": "경상북도 문경시 점촌동 133-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아성슈퍼",
+      "address": "경상북도 문경시 점촌동 248-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔팔슈퍼",
+      "address": "경상북도 문경시 점촌동 206-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼정슈퍼",
+      "address": "경상북도 문경시 점촌동 231-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금성쌀상회",
+      "address": "경상북도 문경시 점촌동 213-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충일슈퍼",
+      "address": "경상북도 문경시 점촌동 455-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대덕쌀상회",
+      "address": "경상북도 문경시 점촌동 449-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "협동슈퍼",
+      "address": "경상북도 문경시 점촌동 409-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진성슈퍼",
+      "address": "경상북도 문경시 점촌동 447-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동네슈퍼",
+      "address": "경상북도 문경시 점촌동 213-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협하나로마트",
+      "address": "경상북도 문경시 점촌동 261-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "올마트",
+      "address": "경상북도 문경시 점촌동 450-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대영편의점",
+      "address": "경상북도 문경시 점촌동 204-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 문경시 흥덕동 482-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 문경시 흥덕동 482-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상북도 문경시 신기동 925",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상북도 문경시 신기동 925",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그냥슈퍼",
+      "address": "경상북도 문경시 흥덕동 357-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "낙원슈퍼",
+      "address": "경상북도 문경시 흥덕동 235-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농업개발공사",
+      "address": "경상북도 문경시 흥덕동 794-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협신흥연쇄점",
+      "address": "경상북도 문경시 흥덕동 791",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대화슈퍼",
+      "address": "경상북도 문경시 흥덕동 803",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물종합백화점",
+      "address": "경상북도 문경시 흥덕동 795-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부곡슈퍼",
+      "address": "경상북도 문경시 흥덕동 260-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "북부슈퍼",
+      "address": "경상북도 문경시 흥덕동 222-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼보슈퍼",
+      "address": "경상북도 문경시 점촌동 129-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새시대슈퍼",
+      "address": "경상북도 문경시 흥덕동 308-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새싹문구사",
+      "address": "경상북도 문경시 흥덕동 349-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새재마트",
+      "address": "경상북도 문경시 흥덕동 794-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "경상북도 문경시 흥덕동 790-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성진슈퍼",
+      "address": "경상북도 문경시 흥덕동 701-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수협연쇄점",
+      "address": "경상북도 문경시 흥덕동 793-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시영슈퍼",
+      "address": "경상북도 문경시 흥덕동 577",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신생슈퍼",
+      "address": "경상북도 문경시 흥덕동 656-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신용슈퍼",
+      "address": "경상북도 문경시 흥덕동 785-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥상회",
+      "address": "경상북도 문경시 흥덕동 664",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "열녀각미니슈퍼",
+      "address": "경상북도 문경시 흥덕동 245",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오복슈퍼",
+      "address": "경상북도 문경시 흥덕동 241-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우방연쇄슈퍼",
+      "address": "경상북도 문경시 흥덕동 337-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우흥상회",
+      "address": "경상북도 문경시 흥덕동 572-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "점촌슈퍼",
+      "address": "경상북도 문경시 흥덕동 237-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공아파트슈퍼",
+      "address": "경상북도 문경시 흥덕동 330",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙농자재",
+      "address": "경상북도 문경시 흥덕동 252-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "축협연쇄점",
+      "address": "경상북도 문경시 흥덕동 223-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하이마트",
+      "address": "경상북도 문경시 흥덕동 793-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한솔슈퍼",
+      "address": "경상북도 문경시 흥덕동 321-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화신미니슈퍼",
+      "address": "경상북도 문경시 흥덕동 325-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화신슈퍼",
+      "address": "경상북도 문경시 모전동 85-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황실타운슈퍼",
+      "address": "경상북도 문경시 흥덕동 636",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황제문구사",
+      "address": "경상북도 문경시 흥덕동 776",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황제슈퍼",
+      "address": "경상북도 문경시 흥덕동 778-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황제한아름유통",
+      "address": "경상북도 문경시 흥덕동 776",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "흥진쌀상회",
+      "address": "경상북도 문경시 흥덕동 687-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "회관구판장",
+      "address": "경상북도 문경시 공평동 402-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성슈퍼",
+      "address": "경상북도 문경시 공평동 339",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대구상회",
+      "address": "경상북도 문경시 불정동 산 61",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조합집",
+      "address": "경상북도 문경시 불정동 331",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "불정슈퍼",
+      "address": "경상북도 문경시 불정동 101-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "불정기사식당",
+      "address": "경상북도 문경시 불정동 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김해슈퍼",
+      "address": "경상북도 문경시 유곡동 180-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이용소",
+      "address": "경상북도 문경시 유곡동 214-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북식육식당",
+      "address": "경상북도 문경시 유곡동 189-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유곡상회",
+      "address": "경상북도 문경시 유곡동 210",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "경상북도 문경시 모전동 34-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 문경시 유곡동 214-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가게",
+      "address": "경상북도 문경시 유곡동 214-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "북부식당",
+      "address": "경상북도 문경시 유곡동 205",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소비센타",
+      "address": "경상북도 문경시 신기동 88-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진흥슈퍼",
+      "address": "경상북도 문경시 신기동 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쌍용상회",
+      "address": "경상북도 문경시 신기동 85",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대덕상회",
+      "address": "경상북도 문경시 신기동 908",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채신상회",
+      "address": "경상북도 문경시 신기동 902-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주평상회",
+      "address": "경상북도 문경시 신기동 899",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상북도 문경시 신기동 925",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "역전슈퍼",
+      "address": "경상북도 문경시 마성면 외어리 833-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산양집",
+      "address": "경상북도 문경시 신기동 985",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경안상회",
+      "address": "경상북도 문경시 신기동 985",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "참사랑슈퍼",
+      "address": "경상북도 문경시 신기동 88-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금동슈퍼",
+      "address": "경상북도 문경시 신기동 85",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "25시편의점",
+      "address": "경상북도 문경시 모전동 554-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "거봉연쇄점",
+      "address": "경상북도 문경시 모전동 883-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "경상북도 문경시 모전동 75-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금강슈퍼",
+      "address": "경상북도 문경시 모전동 73-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김숙녀",
+      "address": "경상북도 문경시 모전동 554-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남도슈퍼",
+      "address": "경상북도 문경시 모전동 118-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남부시장슈퍼",
+      "address": "경상북도 문경시 모전동 67-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남부식품",
+      "address": "경상북도 문경시 모전동 74-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농업경영인판매장",
+      "address": "경상북도 문경시 모전동 270-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대동마트",
+      "address": "경상북도 문경시 모전동 869",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대동편의점",
+      "address": "경상북도 문경시 모전동 872-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "축협가공원",
+      "address": "경상북도 문경시 모전동 106-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "경상북도 문경시 모전동 34-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "독도슈퍼",
+      "address": "경상북도 문경시 모전동 888-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "돈달식품슈퍼",
+      "address": "경상북도 문경시 모전동 592-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모전아파트슈퍼",
+      "address": "경상북도 문경시 모전동 41-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모전우체국",
+      "address": "경상북도 문경시 모전동 81-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "민생상회",
+      "address": "경상북도 문경시 모전동 568-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산양쌀상회",
+      "address": "경상북도 문경시 모전동 62-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새나라슈퍼",
+      "address": "경상북도 문경시 모전동 550-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새동네슈퍼",
+      "address": "경상북도 문경시 모전동 83-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을슈퍼",
+      "address": "경상북도 문경시 마성면 외어리 855",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산양상회",
+      "address": "경상북도 문경시 신기동 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세운상회",
+      "address": "경상북도 문경시 모전동 64-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송정슈퍼",
+      "address": "경상북도 문경시 모전동 875-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "식품나라",
+      "address": "경상북도 문경시 모전동 884-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신동아슈퍼",
+      "address": "경상북도 문경시 모전동 66-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신평슈퍼",
+      "address": "경상북도 문경시 모전동 298-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥슈퍼",
+      "address": "경상북도 문경시 모전동 23-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜨랑슈퍼",
+      "address": "경상북도 문경시 모전동 558-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양지마을첫가게",
+      "address": "경상북도 문경시 모전동 382-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영순슈퍼",
+      "address": "경상북도 문경시 모전동 81-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운동장마트",
+      "address": "경상북도 문경시 모전동 388-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정덕슈퍼",
+      "address": "경상북도 문경시 모전동 4-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일마트",
+      "address": "경상북도 문경시 모전동 908",
+      "roadAddress": "경상북도 문경시 매봉1길 35  (모전동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경상북도 문경시 모전동 99-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공마트",
+      "address": "경상북도 문경시 모전동 870",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경상북도 문경시 마성면 외어리 853-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경상북도 문경시 마성면 외어리 853-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청우슈퍼",
+      "address": "경상북도 문경시 모전동 591-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초원슈퍼",
+      "address": "경상북도 문경시 모전동 382",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "축협남부지점",
+      "address": "경상북도 문경시 모전동 860-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍년슈퍼",
+      "address": "경상북도 문경시 모전동 75-46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한라유통",
+      "address": "경상북도 문경시 모전동 859-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한씨담배",
+      "address": "경상북도 문경시 모전동 487",
+      "roadAddress": "경상북도 문경시 양지1길 24  (모전동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상북도 문경시 모전동 264-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호호슈퍼",
+      "address": "경상북도 문경시 모전동 550-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화신슈퍼",
+      "address": "경상북도 문경시 모전동 85-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정든슈퍼",
+      "address": "경상북도 문경시 점촌동 245-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한남슈퍼",
+      "address": "경상북도 문경시 점촌동 245-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "점촌농협협동조합",
+      "address": "경상북도 문경시 점촌동 244-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영신상회",
+      "address": "경상북도 문경시 점촌동 278-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주민슈퍼",
+      "address": "경상북도 문경시 점촌동 148-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼보슈퍼",
+      "address": "경상북도 문경시 점촌동 129-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대화슈퍼",
+      "address": "경상북도 문경시 점촌동 177-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북슈퍼",
+      "address": "경상북도 문경시 점촌동 179-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부강슈퍼",
+      "address": "경상북도 문경시 점촌동 459-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "흥일슈퍼",
+      "address": "경상북도 문경시 점촌동 200-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동산슈퍼",
+      "address": "경상북도 문경시 점촌동 471-105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대청슈퍼",
+      "address": "경상북도 문경시 점촌동 197-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보성하이퍼마트",
+      "address": "경상북도 문경시 점촌동 277-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모전상회",
+      "address": "경상북도 문경시 점촌동 473-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유원지슈퍼",
+      "address": "경상북도 문경시 영신동 486-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영신슈퍼",
+      "address": "경상북도 문경시 영신동 497-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "거산슈퍼",
+      "address": "경상북도 문경시 점촌동 121-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "후문슈퍼",
+      "address": "경상북도 문경시 점촌동 272-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영순상회",
+      "address": "경상북도 문경시 점촌동 160-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "천마슈퍼",
+      "address": "경상북도 문경시 점촌동 272-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국슈퍼",
+      "address": "경상북도 문경시 점촌동 271-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉명미니슈퍼",
+      "address": "경상북도 문경시 점촌동 131-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을미니슈퍼",
+      "address": "경상북도 문경시 점촌동 91-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울문구사",
+      "address": "경상북도 문경시 점촌동 201",
+      "roadAddress": "경상북도 문경시 중앙시장길 33  (점촌동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모곡상회",
+      "address": "경상북도 문경시 마성면 모곡리 143",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모곡구판장",
+      "address": "경상북도 문경시 마성면 모곡리 153",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개미상회",
+      "address": "경상북도 문경시 마성면 정리 246",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가은집",
+      "address": "경상북도 문경시 마성면 하내리 310",
+      "roadAddress": "경상북도 문경시 마성면 구랑2길 9",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마성슈퍼",
+      "address": "경상북도 문경시 마성면 신현리 332",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신현슈퍼",
+      "address": "경상북도 문경시 마성면 신현리 319",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진남매운탕",
+      "address": "경상북도 문경시 마성면 신현리 128",
+      "roadAddress": "경상북도 문경시 마성면 진남1길 210",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청운장식당",
+      "address": "경상북도 문경시 마성면 신현리 110-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영남매운탕",
+      "address": "경상북도 문경시 마성면 신현리 55",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진남휴게소",
+      "address": "경상북도 문경시 마성면 신현리 35-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오천1리구판장",
+      "address": "경상북도 문경시 마성면 오천리 15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오천2리구판장",
+      "address": "경상북도 문경시 마성면 오천리 588-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농공단지복지회관",
+      "address": "경상북도 문경시 마성면 오천리 835-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "외어1리구판장",
+      "address": "경상북도 문경시 마성면 외어리 465",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "늘목상회",
+      "address": "경상북도 문경시 마성면 외어리 722-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부흥슈퍼",
+      "address": "경상북도 문경시 마성면 외어리 852-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을슈퍼",
+      "address": "경상북도 문경시 마성면 외어리 855",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "역전슈퍼",
+      "address": "경상북도 문경시 마성면 외어리 833-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경상북도 문경시 마성면 외어리 853-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "외어슈퍼",
+      "address": "경상북도 문경시 마성면 외어리 833-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "까치슈퍼",
+      "address": "경상북도 문경시 마성면 외어리 963-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남호2리구판장",
+      "address": "경상북도 문경시 마성면 남호리 12-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정리1리부녀회",
+      "address": "경상북도 문경시 마성면 정리 364",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상내1리구판장",
+      "address": "경상북도 문경시 마성면 상내리 291",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상내2리구판장",
+      "address": "경상북도 문경시 마성면 상내리 888",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하내1리구판장",
+      "address": "경상북도 문경시 마성면 하내리 781",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하내2리부녀회",
+      "address": "경상북도 문경시 마성면 하내리 316",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문경읍행정복지센터",
+      "address": "경상북도 문경시 문경읍 상리 447-1 문경읍사무소,문경읍보건지소",
+      "roadAddress": "경상북도 문경시 문경읍 청운로 55-6, 문경읍사무소,문경읍보건지소",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가은읍사무소(가은읍장)",
+      "address": "경상북도 문경시 가은읍 왕능리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영순면행정복지센터",
+      "address": "경상북도 문경시 영순면 의곡리 22-3",
+      "roadAddress": "경상북도 문경시 영순면 산남로 23",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산양면사무소",
+      "address": "경상북도 문경시 산양면 반곡리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호계면사무소(호계면장)",
+      "address": "경상북도 문경시 호계면 지천리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)태강건설",
+      "address": "경상북도 문경시 영순면 의곡리 178",
+      "roadAddress": "경상북도 문경시 영순면 영풍로 1196-46",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동로면사무소",
+      "address": "경상북도 문경시 동로면 적성리 553",
+      "roadAddress": "경상북도 문경시 동로면 벌재장터길 8-7",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마성면사무소",
+      "address": "경상북도 문경시 마성면 오천리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농암면사무소",
+      "address": "경상북도 문경시 농암면 궁기리 일원",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "점촌동사무소",
+      "address": "경상북도 문경시 점촌동 산 12-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙동사무소",
+      "address": "경상북도 문경시 점촌동 197",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥동사무소",
+      "address": "경상북도 문경시 흥덕동 805",
+      "roadAddress": "경상북도 문경시 신흥3길 10  (흥덕동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신평동사무소",
+      "address": "경상북도 문경시 신기동 903-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모전동사무소",
+      "address": "경상북도 문경시 모전동 863-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영남슈퍼",
+      "address": "경상북도 문경시 문경읍 상리 371",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "협동슈퍼",
+      "address": "경상북도 문경시 문경읍 상리 378",
+      "roadAddress": "경상북도 문경시 문경읍 주흘2길 11-9",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새재슈퍼",
+      "address": "경상북도 문경시 문경읍 하리 59",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문경유통",
+      "address": "경상북도 문경시 문경읍 하리 76",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경상북도 문경시 마성면 외어리 853-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을슈퍼",
+      "address": "경상북도 문경시 마성면 외어리 855",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청수슈퍼",
+      "address": "경상북도 문경시 문경읍 하리 11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나로유통",
+      "address": "경상북도 문경시 문경읍 하리 207-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부산상회",
+      "address": "경상북도 문경시 문경읍 하리 105-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "함창상회",
+      "address": "경상북도 문경시 문경읍 하리 36-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경성상회",
+      "address": "경상북도 문경시 문경읍 하리 80-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하리2리담배집",
+      "address": "경상북도 문경시 문경읍 하리 220",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문경완구",
+      "address": "경상북도 문경시 문경읍 하리 63-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문경농약",
+      "address": "경상북도 문경시 문경읍 하리 210-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "협동수퍼",
+      "address": "경상북도 문경시 문경읍 교촌리 142",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문희슈퍼",
+      "address": "경상북도 문경시 문경읍 교촌리 134-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "요성구판",
+      "address": "경상북도 문경시 문경읍 요성리 408",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지곡1리구판장",
+      "address": "경상북도 문경시 문경읍 지곡리 212",
+      "roadAddress": "경상북도 문경시 문경읍 모싯골길 64",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지곡2리구판장",
+      "address": "경상북도 문경시 문경읍 지곡리 404",
+      "roadAddress": "경상북도 문경시 문경읍 요성지곡길 199",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마원1리구판장",
+      "address": "경상북도 문경시 문경읍 마원리 830",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마원2리구판장",
+      "address": "경상북도 문경시 문경읍 마원리 470",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진안리구판장",
+      "address": "경상북도 문경시 문경읍 진안리 140",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "각서2리구판장",
+      "address": "경상북도 문경시 문경읍 각서리 213",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주차장슈퍼",
+      "address": "경상북도 문경시 문경읍 상초리 326",
+      "roadAddress": "경상북도 문경시 문경읍 새재로 893",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태화슈퍼",
+      "address": "경상북도 문경시 문경읍 상초리 288-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하초구판장",
+      "address": "경상북도 문경시 문경읍 하초리 27",
+      "roadAddress": "경상북도 문경시 문경읍 하푸실길 77",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고요1리구판장",
+      "address": "경상북도 문경시 문경읍 고요리 321",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고요2리구판장",
+      "address": "경상북도 문경시 문경읍 고요리 520",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "교요2리구판장",
+      "address": "경상북도 문경시 문경읍 고요리 834-1",
+      "roadAddress": "경상북도 문경시 문경읍 주흘로 363",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔영1리구판장",
+      "address": "경상북도 문경시 문경읍 팔영리 200",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "당포1리구판장",
+      "address": "경상북도 문경시 문경읍 팔영리 185",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "당포2리구판장",
+      "address": "경상북도 문경시 문경읍 당포리 632",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "당포문구",
+      "address": "경상북도 문경시 문경읍 당포리 632",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용연구판",
+      "address": "경상북도 문경시 문경읍 용연리 320",
+      "roadAddress": "경상북도 문경시 문경읍 용연안길 32-15",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평천1리구판장",
+      "address": "경상북도 문경시 문경읍 평천리 240",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평천2리구판장",
+      "address": "경상북도 문경시 문경읍 평천리 804",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "갈평수퍼",
+      "address": "경상북도 문경시 문경읍 갈평리 560",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중평구판",
+      "address": "경상북도 문경시 문경읍 중평리 293",
+      "roadAddress": "경상북도 문경시 문경읍 중평박마길 21",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "관음1리구판장",
+      "address": "경상북도 문경시 문경읍 관음리 507",
+      "roadAddress": "경상북도 문경시 문경읍 관음5길 45",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "관음2리구판장",
+      "address": "경상북도 문경시 문경읍 관음리 134",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알짜마트",
+      "address": "경상북도 문경시 문경읍 하리 68",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "흥진상회",
+      "address": "경상북도 문경시 문경읍 하리 86-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한성슈퍼",
+      "address": "경상북도 문경시 문경읍 하리 76",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "학생백화점",
+      "address": "경상북도 문경시 문경읍 하리 76-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태창상회",
+      "address": "경상북도 문경시 문경읍 하리 373-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔도슈퍼",
+      "address": "경상북도 문경시 문경읍 하리 64-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경상북도 문경시 가은읍 왕능리 305",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청기와슈퍼",
+      "address": "경상북도 문경시 문경읍 하리 69-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문일슈퍼",
+      "address": "경상북도 문경시 문경읍 하리 76",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동창상회",
+      "address": "경상북도 문경시 문경읍 하리 1-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "희망슈퍼",
+      "address": "경상북도 문경시 문경읍 교촌리 142-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해태슈퍼",
+      "address": "경상북도 문경시 문경읍 하리 1-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뱃세다수퍼",
+      "address": "경상북도 문경시 문경읍 하리 79-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태웅건설(주)",
+      "address": "경상북도 문경시 호계면 막곡리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경상북도 문경시 영순면 의곡리 95",
+      "roadAddress": "경상북도 문경시 영순면 영순로 282",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한솔슈퍼",
+      "address": "경상북도 문경시 흥덕동 321-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "경상북도 문경시 문경읍 하리 209-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태성식품",
+      "address": "경상북도 문경시 문경읍 하리 88",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문경온천",
+      "address": "경상북도 문경시 문경읍 하리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "까치슈퍼",
+      "address": "경상북도 문경시 문경읍 상초리 288-56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상리슈퍼",
+      "address": "경상북도 문경시 문경읍 상리 385",
+      "roadAddress": "경상북도 문경시 문경읍 주흘2길 16",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조령슈퍼",
+      "address": "경상북도 문경시 문경읍 하초리 345",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "철길슈퍼",
+      "address": "경상북도 문경시 가은읍 왕능리 311-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "권진슈퍼",
+      "address": "경상북도 문경시 가은읍 왕능리 335-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시장상회",
+      "address": "경상북도 문경시 가은읍 왕능리 275-58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화성슈퍼",
+      "address": "경상북도 문경시 가은읍 왕능리 397-47",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대동슈퍼",
+      "address": "경상북도 문경시 점촌동 253-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진영슈퍼",
+      "address": "경상북도 문경시 가은읍 왕능리 362-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성저부녀회관",
+      "address": "경상북도 문경시 가은읍 성저리 85",
+      "roadAddress": "경상북도 문경시 가은읍 성저1길 26-7",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "작천1리",
+      "address": "경상북도 문경시 가은읍 작천리 202",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "갈전1리",
+      "address": "경상북도 문경시 가은읍 갈전리 899",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "희양슈퍼",
+      "address": "경상북도 문경시 가은읍 상괴리 426-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "협동상회",
+      "address": "경상북도 문경시 가은읍 완장리 129",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성유2리",
+      "address": "경상북도 문경시 가은읍 성유리 207",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성심슈퍼",
+      "address": "경상북도 문경시 가은읍 상괴리 450-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우신상회",
+      "address": "경상북도 문경시 가은읍 상괴리 469",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "함창쌀상회",
+      "address": "경상북도 문경시 가은읍 왕능리 394",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "느티나무슈퍼",
+      "address": "경상북도 문경시 가은읍 하괴리 112-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙상회",
+      "address": "경상북도 문경시 가은읍 하괴리 110",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상괴2리",
+      "address": "경상북도 문경시 가은읍 상괴리 69",
+      "roadAddress": "경상북도 문경시 가은읍 함박골길 24",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대구슈퍼",
+      "address": "경상북도 문경시 동로면 적성리 566-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경상북도 문경시 가은읍 왕능리 305",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백화상회",
+      "address": "경상북도 문경시 가은읍 왕능리 304",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "왕릉1리상회",
+      "address": "경상북도 문경시 가은읍 왕능리 253",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세천상회",
+      "address": "경상북도 문경시 가은읍 왕능리 337",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍양상회",
+      "address": "경상북도 문경시 가은읍 왕능리 359",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "학우사",
+      "address": "경상북도 문경시 가은읍 왕능리 306",
+      "roadAddress": "경상북도 문경시 가은읍 양산개3길 7",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영월상회",
+      "address": "경상북도 문경시 가은읍 갈전리 319",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문화당",
+      "address": "경상북도 문경시 가은읍 왕능리 322-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문화상회",
+      "address": "경상북도 문경시 가은읍 왕능리 329-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "완장슈퍼",
+      "address": "경상북도 문경시 가은읍 완장리 156",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "돌마당",
+      "address": "경상북도 문경시 가은읍 완장리 431-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용추골식당",
+      "address": "경상북도 문경시 가은읍 완장리 431-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가은집",
+      "address": "경상북도 문경시 마성면 하내리 310",
+      "roadAddress": "경상북도 문경시 마성면 구랑2길 9",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가은슈퍼",
+      "address": "경상북도 문경시 가은읍 왕능리 397-46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "기사식당",
+      "address": "경상북도 문경시 가은읍 왕능리 335-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경상북도 문경시 마성면 외어리 853-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "율곡구멍가게",
+      "address": "경상북도 문경시 영순면 율곡리 108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "포내2리노인회관상점",
+      "address": "경상북도 문경시 영순면 포내리 151",
+      "roadAddress": "경상북도 문경시 영순면 포내1길 60",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "포내구멍가게",
+      "address": "경상북도 문경시 영순면 포내리 90",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사근구멍가게",
+      "address": "경상북도 문경시 영순면 사근리 331",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영동노인회관상점",
+      "address": "경상북도 문경시 영순면 오룡리 672",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "달지구멍가게",
+      "address": "경상북도 문경시 영순면 달지리 627",
+      "roadAddress": "경상북도 문경시 영순면 삼인길 92",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경상북도 문경시 영순면 의곡리 95",
+      "roadAddress": "경상북도 문경시 영순면 영순로 282",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리상회",
+      "address": "경상북도 문경시 영순면 의곡리 432",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김용마을회관상점",
+      "address": "경상북도 문경시 영순면 김용리 268",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "감골회관상점",
+      "address": "경상북도 문경시 영순면 의곡리 402",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "말응노인회관상점",
+      "address": "경상북도 문경시 영순면 말응리 450",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "왕태1리구판장",
+      "address": "경상북도 문경시 영순면 왕태리 130",
+      "roadAddress": "경상북도 문경시 영순면 왕태1길 102-8",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "왕태3리구판장",
+      "address": "경상북도 문경시 영순면 왕태리 775",
+      "roadAddress": "경상북도 문경시 영순면 왕태3길 15-10",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "율곡1리구판장",
+      "address": "경상북도 문경시 영순면 율곡리 685",
+      "roadAddress": "경상북도 문경시 영순면 동무지길 39",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "녹문구판장",
+      "address": "경상북도 문경시 산양면 녹문리 320",
+      "roadAddress": "경상북도 문경시 산양면 녹문길 105",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현리구판장",
+      "address": "경상북도 문경시 산양면 현리 111",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부암구판장",
+      "address": "경상북도 문경시 산양면 부암리 174",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "과곡1리구판장",
+      "address": "경상북도 문경시 산양면 과곡리 490",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "과곡2리구판장",
+      "address": "경상북도 문경시 산양면 과곡리 545",
+      "roadAddress": "경상북도 문경시 산양면 과하길 41-4",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "과곡3리구판장",
+      "address": "경상북도 문경시 산양면 과곡리 737",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형천1리구판장",
+      "address": "경상북도 문경시 산양면 형천리 265",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형천2리구판장",
+      "address": "경상북도 문경시 산양면 형천리 439",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형천3리구판장",
+      "address": "경상북도 문경시 산양면 형천리 692",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "위만1리구판장",
+      "address": "경상북도 문경시 산양면 위만리 480",
+      "roadAddress": "경상북도 문경시 산양면 위만사당길 22",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "위만2리구판장",
+      "address": "경상북도 문경시 산양면 위만리 276",
+      "roadAddress": "경상북도 문경시 산양면 상위1길 28-17",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우본1리구판장",
+      "address": "경상북도 문경시 산양면 우본리 484",
+      "roadAddress": "경상북도 문경시 산양면 동살미길 11",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우본2리구판장",
+      "address": "경상북도 문경시 산양면 우본리 605",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연소1리구판장",
+      "address": "경상북도 문경시 산양면 연소리 238",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연소2리구판장",
+      "address": "경상북도 문경시 산양면 연소리 286",
+      "roadAddress": "경상북도 문경시 산양면 연소길 105-5",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금양상회",
+      "address": "경상북도 문경시 산양면 불암리 52-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "학생문구사",
+      "address": "경상북도 문경시 산양면 불암리 239-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동명상회",
+      "address": "경상북도 문경시 산양면 불암리 30",
+      "roadAddress": "경상북도 문경시 산양면 불암2길 27",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "학생문구사",
+      "address": "경상북도 문경시 산양면 불암리 239-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "존도1리구판장",
+      "address": "경상북도 문경시 산양면 존도리 29",
+      "roadAddress": "경상북도 문경시 산양면 잔두리2길 8-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "존도2리구판장",
+      "address": "경상북도 문경시 산양면 존도리 70",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉정1리구판장",
+      "address": "경상북도 문경시 산양면 봉정리 579",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉정2리구판장",
+      "address": "경상북도 문경시 산양면 봉정리 428",
+      "roadAddress": "경상북도 문경시 산양면 탑골길 58-4",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진정1리구판장",
+      "address": "경상북도 문경시 산양면 진정리 63",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "반곡1리구판장",
+      "address": "경상북도 문경시 산양면 반곡리 659",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "반곡2리구판장",
+      "address": "경상북도 문경시 산양면 반곡리 659",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평천1리구판장",
+      "address": "경상북도 문경시 문경읍 평천리 240",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송죽1리구판장",
+      "address": "경상북도 문경시 산양면 송죽리 424",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송죽2리구판장",
+      "address": "경상북도 문경시 산양면 송죽리 316",
+      "roadAddress": "경상북도 문경시 산양면 덕암안길 31",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신전1리구판장",
+      "address": "경상북도 문경시 산양면 신전리 234",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "견탄1리구판장",
+      "address": "경상북도 문경시 호계면 견탄리 156",
+      "roadAddress": "경상북도 문경시 호계면 가열2길 29-2",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성상회",
+      "address": "경상북도 문경시 호계면 견탄리 501",
+      "roadAddress": "경상북도 문경시 호계면 태봉1길 17",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "별암슈퍼",
+      "address": "경상북도 문경시 호계면 별암리 224",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지천문방구",
+      "address": "경상북도 문경시 호계면 지천리 294",
+      "roadAddress": "경상북도 문경시 호계면 부천로 630-23",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구산리구판장",
+      "address": "경상북도 문경시 호계면 구산리 293",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뱃나들매운탕",
+      "address": "경상북도 문경시 호계면 우로리 273",
+      "roadAddress": "경상북도 문경시 호계면 뱃나들2길 14",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "막곡1리구판장",
+      "address": "경상북도 문경시 호계면 막곡리 198",
+      "roadAddress": "경상북도 문경시 호계면 구하길 12",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "견탄2리구판장",
+      "address": "경상북도 문경시 호계면 견탄리 406",
+      "roadAddress": "경상북도 문경시 호계면 태봉1길 93",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호계리구판장",
+      "address": "경상북도 문경시 호계면 호계리 482",
+      "roadAddress": "경상북도 문경시 호계면 호계길 111",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호계리판매소",
+      "address": "경상북도 문경시 호계면 호계리 40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부곡리구판장",
+      "address": "경상북도 문경시 호계면 부곡리 363",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가도리구판장",
+      "address": "경상북도 문경시 호계면 가도리 461",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나로마트",
+      "address": "경상북도 문경시 호계면 막곡리 170-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서중리구판장",
+      "address": "경상북도 문경시 산북면 서중리 196",
+      "roadAddress": "경상북도 문경시 산북면 서중안길 22",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산동농협연쇄점",
+      "address": "경상북도 문경시 산북면 대상리 57-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대상2리구판장",
+      "address": "경상북도 문경시 산북면 대상리 224",
+      "roadAddress": "경상북도 문경시 산북면 오미기길 22-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대하1리구판장",
+      "address": "경상북도 문경시 산북면 대하리 460-1",
+      "roadAddress": "경상북도 문경시 산북면 금천로 671",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대하2리구판장",
+      "address": "경상북도 문경시 산북면 대하리 14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "석문송어횟집",
+      "address": "경상북도 문경시 산북면 이곡리 58-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우곡1리구판장",
+      "address": "경상북도 문경시 산북면 이곡리 551",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우곡2리슈퍼",
+      "address": "경상북도 문경시 산북면 우곡리 316",
+      "roadAddress": "경상북도 문경시 산북면 도치동1길 5-6",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "석봉리슈퍼",
+      "address": "경상북도 문경시 산북면 석봉리 369",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김용리구판장",
+      "address": "경상북도 문경시 산북면 김용리 57",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "거산리구판장",
+      "address": "경상북도 문경시 산북면 거산리 254",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전두리구판장",
+      "address": "경상북도 문경시 산북면 전두리 368",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호암리구판장",
+      "address": "경상북도 문경시 산북면 호암리 56",
+      "roadAddress": "경상북도 문경시 산북면 윗호암길 54-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가좌리구판장",
+      "address": "경상북도 문경시 산북면 가좌리 197",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창구리구판장",
+      "address": "경상북도 문경시 산북면 창구리 322-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소야리구판장",
+      "address": "경상북도 문경시 산북면 소야리 233",
+      "roadAddress": "경상북도 문경시 산북면 소야길 179",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종곡리구판장",
+      "address": "경상북도 문경시 산북면 종곡리 309",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "약석리구판장",
+      "address": "경상북도 문경시 산북면 약석리 505",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "약석리구판장",
+      "address": "경상북도 문경시 산북면 약석리 505",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "회룡리구판장",
+      "address": "경상북도 문경시 산북면 회룡리 259",
+      "roadAddress": "경상북도 문경시 산북면 회룡1길 12",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가곡리구판장",
+      "address": "경상북도 문경시 산북면 가곡리 111",
+      "roadAddress": "경상북도 문경시 산북면 가곡길 147-15",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월천리구판장",
+      "address": "경상북도 문경시 산북면 월천리 224",
+      "roadAddress": "경상북도 문경시 산북면 월천2길 31",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지내1리구판장",
+      "address": "경상북도 문경시 산북면 지내리 367",
+      "roadAddress": "경상북도 문경시 산북면 지내길 41",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지내2리구판장",
+      "address": "경상북도 문경시 산북면 지내리 310",
+      "roadAddress": "경상북도 문경시 산북면 지산1길 22-2",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "흑송리구판장",
+      "address": "경상북도 문경시 산북면 흑송리 192",
+      "roadAddress": "경상북도 문경시 산북면 흑송양달길 36-4",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대창슈퍼",
+      "address": "경상북도 문경시 산북면 대상리 64-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한두레슈퍼",
+      "address": "경상북도 문경시 산북면 대상리 67",
+      "roadAddress": "경상북도 문경시 산북면 좁은골윗길 3-2",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마광리",
+      "address": "경상북도 문경시 동로면 마광리 673",
+      "roadAddress": "경상북도 문경시 동로면 마광길 61",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인곡1리구판장",
+      "address": "경상북도 문경시 동로면 인곡리 220",
+      "roadAddress": "경상북도 문경시 동로면 용문경천로 245",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인곡2리구판장",
+      "address": "경상북도 문경시 동로면 인곡리 740",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수선식당",
+      "address": "경상북도 문경시 동로면 수평리 461-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "점촌상회",
+      "address": "경상북도 문경시 동로면 수평리 384-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "간송1리구판장",
+      "address": "경상북도 문경시 동로면 간송리 676",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "천주식당",
+      "address": "경상북도 문경시 동로면 노은리 186-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "석항1리구판장",
+      "address": "경상북도 문경시 동로면 석항리 781-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "석항2리구판장",
+      "address": "경상북도 문경시 동로면 석항리 621",
+      "roadAddress": "경상북도 문경시 동로면 상석길 60",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "석항3리구판장",
+      "address": "경상북도 문경시 동로면 석항리 292",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "노은1리구판장",
+      "address": "경상북도 문경시 동로면 노은리 380-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "노은2리소매점",
+      "address": "경상북도 문경시 동로면 노은리 136-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개인",
+      "address": "경상북도 문경시 동로면 노은리 383-3",
+      "roadAddress": "경상북도 문경시 동로면 노루재길 82-10",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협하나로마트",
+      "address": "경상북도 문경시 점촌동 261-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "노은3리구판장",
+      "address": "경상북도 문경시 동로면 노은리 546-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매일상회",
+      "address": "경상북도 문경시 동로면 적성리 522-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    }
+  ]
+}

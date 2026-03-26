@@ -1,0 +1,98 @@
+{
+  "region": "강원특별자치도",
+  "regionSlug": "gangwon",
+  "updatedAt": "2026-03-26",
+  "totalCount": 3942,
+  "districts": [
+    {
+      "district": "철원군",
+      "districtSlug": "cheorwon",
+      "count": 149
+    },
+    {
+      "district": "춘천시",
+      "districtSlug": "chuncheon",
+      "count": 129
+    },
+    {
+      "district": "동해시",
+      "districtSlug": "donghae",
+      "count": 133
+    },
+    {
+      "district": "강릉시",
+      "districtSlug": "gangneung",
+      "count": 509
+    },
+    {
+      "district": "고성군",
+      "districtSlug": "gwgoseong",
+      "count": 0
+    },
+    {
+      "district": "횡성군",
+      "districtSlug": "hoengseong",
+      "count": 150
+    },
+    {
+      "district": "홍천군",
+      "districtSlug": "hongcheon",
+      "count": 266
+    },
+    {
+      "district": "화천군",
+      "districtSlug": "hwacheon",
+      "count": 36
+    },
+    {
+      "district": "인제군",
+      "districtSlug": "inje",
+      "count": 45
+    },
+    {
+      "district": "정선군",
+      "districtSlug": "jeongseon",
+      "count": 13
+    },
+    {
+      "district": "평창군",
+      "districtSlug": "pyeongchang",
+      "count": 170
+    },
+    {
+      "district": "삼척시",
+      "districtSlug": "samcheok",
+      "count": 81
+    },
+    {
+      "district": "속초시",
+      "districtSlug": "sokcho",
+      "count": 22
+    },
+    {
+      "district": "태백시",
+      "districtSlug": "taebaek",
+      "count": 52
+    },
+    {
+      "district": "원주시",
+      "districtSlug": "wonju",
+      "count": 1585
+    },
+    {
+      "district": "양구군",
+      "districtSlug": "yanggu",
+      "count": 245
+    },
+    {
+      "district": "양양군",
+      "districtSlug": "yangyang",
+      "count": 12
+    },
+    {
+      "district": "영월군",
+      "districtSlug": "yeongwol",
+      "count": 345
+    }
+  ]
+}

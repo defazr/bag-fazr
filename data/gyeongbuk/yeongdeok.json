@@ -1,0 +1,1452 @@
+{
+  "region": "경상북도",
+  "regionSlug": "gyeongbuk",
+  "district": "영덕군",
+  "districtSlug": "yeongdeok",
+  "updatedAt": "2026-03-26",
+  "totalCount": 206,
+  "stores": [
+    {
+      "name": "바다슈퍼",
+      "address": "경상북도 영덕군 강구면 오포리 3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-14"
+    },
+    {
+      "name": "오포상회",
+      "address": "경상북도 영덕군 강구면 오포리 51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-28"
+    },
+    {
+      "name": "오천슈퍼",
+      "address": "경상북도 영덕군 강구면 오포리 504-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-18"
+    },
+    {
+      "name": "다리슈퍼",
+      "address": "경상북도 영덕군 강구면 하저리 89-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-18"
+    },
+    {
+      "name": "OK슈퍼",
+      "address": "경상북도 영덕군 강구면 강구리 501",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-16"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "경상북도 영덕군 강구면 강구리 528",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-16"
+    },
+    {
+      "name": "시장슈퍼",
+      "address": "경상북도 영덕군 강구면 강구리 438",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-16"
+    },
+    {
+      "name": "강구지업사",
+      "address": "경상북도 영덕군 강구면 강구리 514",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-16"
+    },
+    {
+      "name": "신화상회",
+      "address": "경상북도 영덕군 강구면 강구리 435",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-15"
+    },
+    {
+      "name": "풍물슈퍼",
+      "address": "경상북도 영덕군 강구면 강구리 90",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-16"
+    },
+    {
+      "name": "담배집상회",
+      "address": "경상북도 영덕군 강구면 강구리 474",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-20"
+    },
+    {
+      "name": "강구농협",
+      "address": "경상북도 영덕군 강구면 강구리 337",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-16"
+    },
+    {
+      "name": "만물부식",
+      "address": "경상북도 영덕군 강구면 강구리 520",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-21"
+    },
+    {
+      "name": "성화슈퍼",
+      "address": "경상북도 영덕군 강구면 강구리 344-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-21"
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "경상북도 영덕군 강구면 강구리 90",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-15"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상북도 영덕군 강구면 강구리 256-79",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-15"
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "경상북도 영덕군 강구면 강구리 260",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-21"
+    },
+    {
+      "name": "한성슈퍼",
+      "address": "경상북도 영덕군 강구면 오포리 515-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-18"
+    },
+    {
+      "name": "진희슈퍼",
+      "address": "경상북도 영덕군 강구면 오포리 358",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-16"
+    },
+    {
+      "name": "동양슈퍼",
+      "address": "경상북도 영덕군 강구면 오포리 43-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-18"
+    },
+    {
+      "name": "생협슈퍼",
+      "address": "경상북도 영덕군 강구면 오포리 68",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-18"
+    },
+    {
+      "name": "한남체인 강구슈퍼",
+      "address": "경상북도 영덕군 강구면 오포리 612-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-15"
+    },
+    {
+      "name": "미성슈퍼",
+      "address": "경상북도 영덕군 강구면 오포리 72",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-17"
+    },
+    {
+      "name": "인품슈퍼",
+      "address": "경상북도 영덕군 강구면 오포리 67",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-16"
+    },
+    {
+      "name": "삼칠슈퍼",
+      "address": "경상북도 영덕군 강구면 오포리 47-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-17"
+    },
+    {
+      "name": "하저쉼터",
+      "address": "경상북도 영덕군 강구면 하저리 10-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-18"
+    },
+    {
+      "name": "금호슈퍼",
+      "address": "경상북도 영덕군 강구면 금호리 700-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-20"
+    },
+    {
+      "name": "성진슈퍼",
+      "address": "경상북도 영덕군 강구면 금호리 694-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-18"
+    },
+    {
+      "name": "24시편의점",
+      "address": "경상북도 영덕군 강구면 삼사리 320-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-18"
+    },
+    {
+      "name": "해상공원매점",
+      "address": "경상북도 영덕군 강구면 삼사리 9-87",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-16"
+    },
+    {
+      "name": "동해편의점",
+      "address": "경상북도 영덕군 강구면 삼사리 9-86",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-16"
+    },
+    {
+      "name": "해상편의점",
+      "address": "경상북도 영덕군 강구면 삼사리 9-84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-15"
+    },
+    {
+      "name": "삼사슈퍼",
+      "address": "경상북도 영덕군 강구면 삼사리 513",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-16"
+    },
+    {
+      "name": "지품집(담배가게)",
+      "address": "경상북도 영덕군 강구면 오포리 3-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-15"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경상북도 영덕군 강구면 오포리 713",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-17"
+    },
+    {
+      "name": "오삼슈퍼",
+      "address": "경상북도 영덕군 강구면 오포리 3-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-16"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "경상북도 영덕군 강구면 오포리 3-52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-15"
+    },
+    {
+      "name": "해변슈퍼",
+      "address": "경상북도 영덕군 강구면 오포리 8-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-16"
+    },
+    {
+      "name": "빅세일",
+      "address": "경상북도 영덕군 강구면 오포리 63-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-14"
+    },
+    {
+      "name": "오늘슈퍼",
+      "address": "경상북도 영덕군 강구면 오포리 36-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-16"
+    },
+    {
+      "name": "금광천막지업사",
+      "address": "경상북도 영덕군 강구면 오포리 581",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-16"
+    },
+    {
+      "name": "강구농협 오포지소",
+      "address": "경상북도 영덕군 강구면 오포리 81-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-16"
+    },
+    {
+      "name": "장사해수욕장",
+      "address": "경상북도 영덕군 남정면 장사리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "금성식당",
+      "address": "경상북도 영덕군 달산면 대지리 443-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "개인",
+      "address": "경상북도 영덕군 달산면 대지리 881-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "소메기식당",
+      "address": "경상북도 영덕군 달산면 대지리 866-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "개인",
+      "address": "경상북도 영덕군 달산면 매일리 79",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "개인",
+      "address": "경상북도 영덕군 달산면 흥기리 241-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "개인",
+      "address": "경상북도 영덕군 달산면 흥기리 524-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "개인",
+      "address": "경상북도 영덕군 달산면 흥기리 716-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "개인",
+      "address": "경상북도 영덕군 달산면 주응리 143-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "개인",
+      "address": "경상북도 영덕군 달산면 주응리 238",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "옥양슈퍼",
+      "address": "경상북도 영덕군 달산면 옥산리 323-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "강촌슈퍼",
+      "address": "경상북도 영덕군 달산면 옥산리 268",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "개인",
+      "address": "경상북도 영덕군 달산면 옥산리 480-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "개인",
+      "address": "경상북도 영덕군 달산면 옥산리 815-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "개인",
+      "address": "경상북도 영덕군 달산면 옥산리 721-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "개인",
+      "address": "경상북도 영덕군 달산면 인곡리 182-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "개인",
+      "address": "경상북도 영덕군 달산면 용전리 309",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "개인",
+      "address": "경상북도 영덕군 달산면 덕산리 361-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "얼음골슈퍼",
+      "address": "경상북도 영덕군 달산면 덕산리 202-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "개인",
+      "address": "경상북도 영덕군 달산면 봉산리 149",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "옥계식당",
+      "address": "경상북도 영덕군 달산면 옥계리 69-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "개인",
+      "address": "경상북도 영덕군 달산면 옥계리 84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "삼화1리 이장집",
+      "address": "경상북도 영덕군 지품면 삼화리 73",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-28"
+    },
+    {
+      "name": "단목상회",
+      "address": "경상북도 영덕군 지품면 오천리 244-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-28"
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 영덕군 지품면 오천리 765",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "신양상회",
+      "address": "경상북도 영덕군 지품면 신양리 29-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "리장집",
+      "address": "경상북도 영덕군 지품면 낙평리 196-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "수암 구판장",
+      "address": "경상북도 영덕군 지품면 수암리 219-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "지품농협 원전분소",
+      "address": "경상북도 영덕군 지품면 원전리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "리장집",
+      "address": "경상북도 영덕군 지품면 지품리 64",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "환희식당",
+      "address": "경상북도 영덕군 지품면 황장리 439",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "용추식당",
+      "address": "경상북도 영덕군 지품면 신안리 491-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경상북도 영덕군 지품면 신안리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "새마을상회",
+      "address": "경상북도 영덕군 지품면 신안리 116-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "신안슈퍼",
+      "address": "경상북도 영덕군 지품면 신안리 183-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "리장집",
+      "address": "경상북도 영덕군 지품면 율전리 302",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "동양슈퍼",
+      "address": "경상북도 영덕군 축산면 축산리 97-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "영해농협 축산항지소",
+      "address": "경상북도 영덕군 축산면 축산리 138",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "명주상회",
+      "address": "경상북도 영덕군 축산면 축산리 145-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "수원슈퍼",
+      "address": "경상북도 영덕군 축산면 축산리 153-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "현아슈퍼",
+      "address": "경상북도 영덕군 축산면 축산리 221-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "햇님슈퍼마켙",
+      "address": "경상북도 영덕군 축산면 축산리 104-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "경상북도 영덕군 축산면 축산리 184",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "학이네슈퍼",
+      "address": "경상북도 영덕군 축산면 축산리 184-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "경상북도 영덕군 축산면 축산리 184-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "담배가게",
+      "address": "경상북도 영덕군 축산면 축산리 670",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "등대슈퍼",
+      "address": "경상북도 영덕군 축산면 축산리 196-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "대영상회",
+      "address": "경상북도 영덕군 축산면 축산리 10-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "정일슈퍼",
+      "address": "경상북도 영덕군 축산면 축산리 51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "24시편의점",
+      "address": "경상북도 영덕군 축산면 축산리 61-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "경정슈퍼",
+      "address": "경상북도 영덕군 축산면 경정리 354",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "승리슈퍼",
+      "address": "경상북도 영덕군 축산면 경정리 400-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "차유가게",
+      "address": "경상북도 영덕군 축산면 경정리 94-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "담배가게",
+      "address": "경상북도 영덕군 축산면 경정리 22-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "오메가게",
+      "address": "경상북도 영덕군 축산면 경정리 620",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "고곡1리장",
+      "address": "경상북도 영덕군 축산면 고곡리 76-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "고곡2리장",
+      "address": "경상북도 영덕군 축산면 고곡리 365-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "도곡정류소",
+      "address": "경상북도 영덕군 축산면 도곡리 96",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "영해농협 축산지소연쇄점",
+      "address": "경상북도 영덕군 축산면 도곡리 480-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "도곡2리장",
+      "address": "경상북도 영덕군 축산면 도곡리 564-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "상원리장",
+      "address": "경상북도 영덕군 축산면 상원리 174-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "부곡리장",
+      "address": "경상북도 영덕군 축산면 부곡리 242",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "칠성1리장",
+      "address": "경상북도 영덕군 축산면 칠성리 166",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "기암2리장",
+      "address": "경상북도 영덕군 축산면 기암리 395",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "대구슈퍼",
+      "address": "경상북도 영덕군 영해면 성내리 665-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-30"
+    },
+    {
+      "name": "명성슈퍼",
+      "address": "경상북도 영덕군 영해면 성내리 654",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-30"
+    },
+    {
+      "name": "광일상회",
+      "address": "경상북도 영덕군 영해면 성내리 664",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-30"
+    },
+    {
+      "name": "영해농협 연쇄점",
+      "address": "경상북도 영덕군 영해면 성내리 472-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-30"
+    },
+    {
+      "name": "홈마트",
+      "address": "경상북도 영덕군 영해면 성내리 428-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-30"
+    },
+    {
+      "name": "동양마트",
+      "address": "경상북도 영덕군 영해면 성내리 439-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-30"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상북도 영덕군 영해면 성내리 666-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-30"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 영덕군 영해면 성내리 285",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-30"
+    },
+    {
+      "name": "사오칠상회",
+      "address": "경상북도 영덕군 영해면 성내리 731-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-30"
+    },
+    {
+      "name": "남문슈퍼",
+      "address": "경상북도 영덕군 영해면 성내리 732",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-30"
+    },
+    {
+      "name": "목골1번지",
+      "address": "경상북도 영덕군 영해면 성내리 830",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-30"
+    },
+    {
+      "name": "풍년상회",
+      "address": "경상북도 영덕군 영해면 성내리 468-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "현대상회",
+      "address": "경상북도 영덕군 영해면 성내리 468-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "칠성슈퍼",
+      "address": "경상북도 영덕군 영해면 성내리 472",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "대한슈퍼",
+      "address": "경상북도 영덕군 영해면 성내리 470",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-30"
+    },
+    {
+      "name": "수협연쇄점",
+      "address": "경상북도 영덕군 영해면 성내리 470-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "신덕슈퍼",
+      "address": "경상북도 영덕군 영해면 성내리 442-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "신흥슈퍼",
+      "address": "경상북도 영덕군 영해면 성내리 472",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "경일상회",
+      "address": "경상북도 영덕군 영해면 성내리 474-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-30"
+    },
+    {
+      "name": "18시편의점",
+      "address": "경상북도 영덕군 영해면 성내리 472",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-30"
+    },
+    {
+      "name": "서문슈퍼",
+      "address": "경상북도 영덕군 영해면 성내리 426-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-30"
+    },
+    {
+      "name": "중앙여인숙",
+      "address": "경상북도 영덕군 영해면 성내리 456-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-30"
+    },
+    {
+      "name": "월드마트",
+      "address": "경상북도 영덕군 영해면 성내리 467-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-30"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경상북도 영덕군 영해면 괴시리 114-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상북도 영덕군 영해면 괴시리 501",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "영주슈퍼",
+      "address": "경상북도 영덕군 영해면 괴시리 140-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "금성마트",
+      "address": "경상북도 영덕군 영해면 괴시리 140-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "만물상회",
+      "address": "경상북도 영덕군 영해면 대진리 426-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "대일상회",
+      "address": "경상북도 영덕군 영해면 대진리 385",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "삼오상회",
+      "address": "경상북도 영덕군 영해면 대진리 405",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상북도 영덕군 영해면 대진리 315",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "해동상회",
+      "address": "경상북도 영덕군 영해면 대진리 65",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "선창상회",
+      "address": "경상북도 영덕군 영해면 사진리 494",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상북도 영덕군 영해면 사진리 431",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "동해수산",
+      "address": "경상북도 영덕군 영해면 사진리 290",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상북도 영덕군 영해면 사진리 2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "연평1리 구판장",
+      "address": "경상북도 영덕군 영해면 연평리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "연평2리 구판장",
+      "address": "경상북도 영덕군 영해면 연평리 121",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "동화슈퍼",
+      "address": "경상북도 영덕군 영해면 벌영리 3-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상북도 영덕군 영해면 벌영리 922-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "궁전슈퍼",
+      "address": "경상북도 영덕군 영해면 벌영리 968",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상북도 영덕군 영해면 벌영리 457-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "천우슈퍼",
+      "address": "경상북도 영덕군 영해면 벌영리 397-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상북도 영덕군 영해면 벌영리 10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "벌영2리 구판장",
+      "address": "경상북도 영덕군 영해면 벌영리 263-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-30"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상북도 영덕군 영해면 원구리 133-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상북도 영덕군 영해면 원구리 731",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "한일상회",
+      "address": "경상북도 영덕군 병곡면 병곡리 147",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-28"
+    },
+    {
+      "name": "삼거리슈퍼상회",
+      "address": "경상북도 영덕군 병곡면 병곡리 140",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-28"
+    },
+    {
+      "name": "삼성슈퍼",
+      "address": "경상북도 영덕군 병곡면 병곡리 148",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-20"
+    },
+    {
+      "name": "제일상회",
+      "address": "경상북도 영덕군 병곡면 병곡리 65",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-28"
+    },
+    {
+      "name": "태양상회",
+      "address": "경상북도 영덕군 병곡면 병곡리 209",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-22"
+    },
+    {
+      "name": "협동상회",
+      "address": "경상북도 영덕군 병곡면 백석리 15-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-30"
+    },
+    {
+      "name": "영훈상회",
+      "address": "경상북도 영덕군 병곡면 금곡리 371",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "88상회",
+      "address": "경상북도 영덕군 병곡면 금곡리 361",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "칠보산휴식소",
+      "address": "경상북도 영덕군 병곡면 금곡리 229",
+      "roadAddress": "경상북도 영덕군 병곡면 동해대로 7765",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-29"
+    },
+    {
+      "name": "개인",
+      "address": "경상북도 영덕군 병곡면 금곡리 20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-17"
+    },
+    {
+      "name": "종합슈퍼",
+      "address": "경상북도 영덕군 병곡면 백석리 211",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-25"
+    },
+    {
+      "name": "백석상회",
+      "address": "경상북도 영덕군 병곡면 백석리 248",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-28"
+    },
+    {
+      "name": "영2리 구판장",
+      "address": "경상북도 영덕군 병곡면 영리 45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-20"
+    },
+    {
+      "name": "영동상회",
+      "address": "경상북도 영덕군 병곡면 영리 152",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-20"
+    },
+    {
+      "name": "거무역 구판장",
+      "address": "경상북도 영덕군 병곡면 거무역리 58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-17"
+    },
+    {
+      "name": "개인",
+      "address": "경상북도 영덕군 병곡면 원황리 164",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-17"
+    },
+    {
+      "name": "개인",
+      "address": "경상북도 영덕군 병곡면 각리리 4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-25"
+    },
+    {
+      "name": "개인",
+      "address": "경상북도 영덕군 병곡면 각리리 319-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-20"
+    },
+    {
+      "name": "신평상회",
+      "address": "경상북도 영덕군 병곡면 신평리 215-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-23"
+    },
+    {
+      "name": "개인",
+      "address": "경상북도 영덕군 병곡면 사천리 533",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-25"
+    },
+    {
+      "name": "송천슈퍼",
+      "address": "경상북도 영덕군 병곡면 송천리 402",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-18"
+    },
+    {
+      "name": "영덕축협",
+      "address": "경상북도 영덕군 영덕읍 덕곡리 155-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-20"
+    },
+    {
+      "name": "하나로유통",
+      "address": "경상북도 영덕군 영덕읍 남석리 157-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-20"
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "경상북도 영덕군 영덕읍 남석리 25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-18"
+    },
+    {
+      "name": "고향슈퍼",
+      "address": "경상북도 영덕군 영덕읍 남석리 26-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-20"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경상북도 영덕군 영덕읍 대부리 269-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-18"
+    },
+    {
+      "name": "오보슈퍼",
+      "address": "경상북도 영덕군 영덕읍 오보리 112",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-18"
+    },
+    {
+      "name": "낙원종합식품",
+      "address": "경상북도 영덕군 영덕읍 남석리 174-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-17"
+    },
+    {
+      "name": "남산휴식공간",
+      "address": "경상북도 영덕군 영덕읍 남산리 36-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-17"
+    },
+    {
+      "name": "한일종합슈퍼",
+      "address": "경상북도 영덕군 영덕읍 남석리 1-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-16"
+    },
+    {
+      "name": "평화지업사",
+      "address": "경상북도 영덕군 영덕읍 남석리 172-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-16"
+    },
+    {
+      "name": "동해슈퍼",
+      "address": "경상북도 영덕군 영덕읍 창포리 641",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-16"
+    },
+    {
+      "name": "우곡슈퍼",
+      "address": "경상북도 영덕군 영덕읍 우곡리 342-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-15"
+    },
+    {
+      "name": "일광수퍼",
+      "address": "경상북도 영덕군 영덕읍 남석리 24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-14"
+    },
+    {
+      "name": "로타리슈퍼",
+      "address": "경상북도 영덕군 영덕읍 덕곡리 290-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-13"
+    },
+    {
+      "name": "원마트",
+      "address": "경상북도 영덕군 영덕읍 우곡리 290",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-13"
+    },
+    {
+      "name": "오거리슈퍼",
+      "address": "경상북도 영덕군 영덕읍 남석리 47-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-28"
+    },
+    {
+      "name": "제일체육사",
+      "address": "경상북도 영덕군 영덕읍 남석리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-28"
+    },
+    {
+      "name": "매일상회",
+      "address": "경상북도 영덕군 영덕읍 남석리 203-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-28"
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "경상북도 영덕군 영덕읍 남석리 131",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-28"
+    },
+    {
+      "name": "송이슈퍼",
+      "address": "경상북도 영덕군 영덕읍 남석리 25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-28"
+    },
+    {
+      "name": "포항슈퍼",
+      "address": "경상북도 영덕군 영덕읍 남석리 123-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-28"
+    },
+    {
+      "name": "동남슈퍼",
+      "address": "경상북도 영덕군 영덕읍 덕곡리 150-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-27"
+    },
+    {
+      "name": "부일슈퍼",
+      "address": "경상북도 영덕군 영덕읍 남석리 129-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-27"
+    },
+    {
+      "name": "단골상회",
+      "address": "경상북도 영덕군 영덕읍 남석리 196-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-27"
+    },
+    {
+      "name": "그린마트",
+      "address": "경상북도 영덕군 영덕읍 우곡리 292",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-27"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경상북도 영덕군 영덕읍 우곡리 322-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-27"
+    },
+    {
+      "name": "지미슈퍼",
+      "address": "경상북도 영덕군 영덕읍 노물리 69-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-27"
+    },
+    {
+      "name": "오천지업사",
+      "address": "경상북도 영덕군 영덕읍 남석리 66-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-21"
+    },
+    {
+      "name": "신일상회",
+      "address": "경상북도 영덕군 영덕읍 화개리 103-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-21"
+    },
+    {
+      "name": "경주슈퍼",
+      "address": "경상북도 영덕군 영덕읍 덕곡리 202",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-27"
+    },
+    {
+      "name": "벨엘슈퍼",
+      "address": "경상북도 영덕군 강구면 삼사리 594",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-18"
+    },
+    {
+      "name": "강구상회",
+      "address": "경상북도 영덕군 강구면 강구리 188-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-11"
+    }
+  ]
+}

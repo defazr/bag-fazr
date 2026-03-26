@@ -1,0 +1,2488 @@
+{
+  "region": "전라남도",
+  "regionSlug": "jeonnam",
+  "district": "고흥군",
+  "districtSlug": "goheung",
+  "updatedAt": "2026-03-26",
+  "totalCount": 354,
+  "stores": [
+    {
+      "name": "도화마트",
+      "address": "전라남도 고흥군 도화면 당오리 534-4 소매점",
+      "roadAddress": "전라남도 고흥군 도화면 중심길 43, 소매점",
+      "status": "영업/정상",
+      "licenseDate": "2026-02-06"
+    },
+    {
+      "name": "대보슈퍼",
+      "address": "전라남도 고흥군 고흥읍 옥하리 234-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "미래슈퍼",
+      "address": "전라남도 고흥군 고흥읍 서문리 255-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "삼형슈퍼",
+      "address": "전라남도 고흥군 고흥읍 호형리 1279-7",
+      "roadAddress": "전라남도 고흥군 고흥읍 학교길 45-2 (삼형빌라)",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "신나부로슈퍼",
+      "address": "전라남도 고흥군 고흥읍 남계리 406-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "삼성슈퍼",
+      "address": "전라남도 고흥군 고흥읍 호형리 888",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "미원슈퍼",
+      "address": "전라남도 고흥군 고흥읍 서문리 132-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "홍교슈퍼",
+      "address": "전라남도 고흥군 고흥읍 남계리 960",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "종합슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 1615-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "비봉슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 1540-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 1541-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "만물종합슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 1616-17",
+      "roadAddress": "전라남도 고흥군 도양읍 녹동5구길 8",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "통통슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 2685-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "엄지슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 2693-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 1968-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "남강슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 2677-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "정성슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 2695-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "거북이슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 2698-78",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "성일슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "항도슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 2240-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "광문당",
+      "address": "전라남도 고흥군 도양읍 봉암리 2072-73",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "오복슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "코리아슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 1999-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "밀알슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 2218",
+      "roadAddress": "전라남도 고흥군 도양읍 녹동남문길 32-20",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "대영슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 2213",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "지에스25 고흥도덕점",
+      "address": "전라남도 고흥군 도덕면 도덕리 47-13 일반음식점",
+      "roadAddress": "전라남도 고흥군 도덕면 고흥로 477, 일반음식점",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-17"
+    },
+    {
+      "name": "지에스25 고흥도양주공점",
+      "address": "전라남도 고흥군 도양읍 봉암리 1514-4 소매점",
+      "roadAddress": "전라남도 고흥군 도양읍 천마로 148, 소매점 1층",
+      "status": "영업/정상",
+      "licenseDate": "2023-07-18"
+    },
+    {
+      "name": "형제섬캠프타운",
+      "address": "전라남도 고흥군 동일면 백양리 987-1",
+      "roadAddress": "전라남도 고흥군 동일면 우주로 2468-12",
+      "status": "영업/정상",
+      "licenseDate": "2023-08-01"
+    },
+    {
+      "name": "지에스25 고흥포두점",
+      "address": "전라남도 고흥군 포두면 상대리 88-1 소매점",
+      "roadAddress": "전라남도 고흥군 포두면 우주로 611, 소매점",
+      "status": "영업/정상",
+      "licenseDate": "2023-08-17"
+    },
+    {
+      "name": "드림캠핑주식회사",
+      "address": "전라남도 고흥군 점암면 화계리 783-2",
+      "roadAddress": "전라남도 고흥군 점암면 여도진로 670",
+      "status": "영업/정상",
+      "licenseDate": "2023-08-22"
+    },
+    {
+      "name": "데이앤데이 고흥목화점",
+      "address": "전라남도 고흥군 고흥읍 서문리 217-9 예식장",
+      "roadAddress": "전라남도 고흥군 고흥읍 여산당촌길 35-1, 예식장 1층",
+      "status": "영업/정상",
+      "licenseDate": "2023-12-04"
+    },
+    {
+      "name": "누비",
+      "address": "전라남도 고흥군 고흥읍 남계리 623-17 소매점",
+      "roadAddress": "전라남도 고흥군 고흥읍 고흥로 1762-1, 소매점",
+      "status": "영업/정상",
+      "licenseDate": "2024-03-27"
+    },
+    {
+      "name": "국립공원관리공단 다도해해상국립공원사무소",
+      "address": "전라남도 고흥군 봉래면 신금리 706-8 외2개소",
+      "roadAddress": "전라남도 고흥군 봉래면 신금길 20-5",
+      "status": "영업/정상",
+      "licenseDate": "2024-06-12"
+    },
+    {
+      "name": "세븐일레븐 고흥해피점",
+      "address": "전라남도 고흥군 점암면 연봉리 186-6 주유소",
+      "roadAddress": "전라남도 고흥군 점암면 우주항공로 2901, 세븐일레븐",
+      "status": "영업/정상",
+      "licenseDate": "2024-12-11"
+    },
+    {
+      "name": "지에스25 고흥행정점",
+      "address": "전라남도 고흥군 고흥읍 행정리 167-1 소매점",
+      "roadAddress": "전라남도 고흥군 고흥읍 흥양길 92, 소매점",
+      "status": "영업/정상",
+      "licenseDate": "2025-02-14"
+    },
+    {
+      "name": "지에스25고흥금성휴게소점",
+      "address": "전라남도 고흥군 과역면 석봉리 1238-3 주유소",
+      "roadAddress": "전라남도 고흥군 과역면 우주항공로 3256, 주유소",
+      "status": "영업/정상",
+      "licenseDate": "2025-06-24"
+    },
+    {
+      "name": "평화상회",
+      "address": "전라남도 고흥군 도양읍 봉암리 2095",
+      "roadAddress": "전라남도 고흥군 도양읍 동문길 18-2",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "태광할인마트",
+      "address": "전라남도 고흥군 도양읍 봉암리 2782-2",
+      "roadAddress": "전라남도 고흥군 도양읍 목넘가는길 18 (일반음식점)",
+      "status": "영업/정상",
+      "licenseDate": "2016-06-10"
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 1883-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-01"
+    },
+    {
+      "name": "죽시정류소",
+      "address": "전라남도 고흥군 풍양면 야막리 517-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "삼각상회",
+      "address": "전라남도 고흥군 풍양면 보천리 715",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "영남슈퍼",
+      "address": "전라남도 고흥군 풍양면 풍남리 1060-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "삼성슈퍼",
+      "address": "전라남도 고흥군 풍양면 풍남리 1103-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "대형슈퍼",
+      "address": "전라남도 고흥군 고흥읍 남계리 335-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-07-01"
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "전라남도 고흥군 고흥읍 남계리 326",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-07-01"
+    },
+    {
+      "name": "일심슈퍼",
+      "address": "전라남도 고흥군 고흥읍 남계리 651-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-07-01"
+    },
+    {
+      "name": "구매상회",
+      "address": "전라남도 고흥군 고흥읍 남계리 909",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-07-01"
+    },
+    {
+      "name": "우정슈퍼",
+      "address": "전라남도 고흥군 고흥읍 옥하리 172",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-07-01"
+    },
+    {
+      "name": "여산슈퍼",
+      "address": "전라남도 고흥군 고흥읍 서문리 164",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-07-01"
+    },
+    {
+      "name": "한정슈퍼",
+      "address": "전라남도 고흥군 고흥읍 서문리 218-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-07-01"
+    },
+    {
+      "name": "다정슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 2959",
+      "roadAddress": "전라남도 고흥군 도양읍 비봉로 200",
+      "status": "영업/정상",
+      "licenseDate": "1994-07-01"
+    },
+    {
+      "name": "혐상상회",
+      "address": "전라남도 고흥군 도양읍 봉암리 2772",
+      "roadAddress": "전라남도 고흥군 도양읍 북신길 48-20",
+      "status": "영업/정상",
+      "licenseDate": "1994-07-01"
+    },
+    {
+      "name": "사도판매소",
+      "address": "전라남도 고흥군 영남면 금사리 523",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "능정판매소",
+      "address": "전라남도 고흥군 영남면 금사리 925",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "만호판매소",
+      "address": "전라남도 고흥군 영남면 금사리 37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "팔영문구사",
+      "address": "전라남도 고흥군 영남면 양사리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "양화판매소",
+      "address": "전라남도 고흥군 영남면 양사리 340",
+      "roadAddress": "전라남도 고흥군 영남면 양사양화길 8",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "남열판매소",
+      "address": "전라남도 고흥군 영남면 남열리 1091",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "간천판매소",
+      "address": "전라남도 고흥군 영남면 우천리 748",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "우암판매소",
+      "address": "전라남도 고흥군 영남면 우천리 89",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "용암판매소",
+      "address": "전라남도 고흥군 영남면 우천리 42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "신성판매소",
+      "address": "전라남도 고흥군 영남면 우천리 1176-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "우두판매소",
+      "address": "전라남도 고흥군 영남면 우천리 350",
+      "roadAddress": "전라남도 고흥군 영남면 우천우두길 51",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "봉남판매소",
+      "address": "전라남도 고흥군 동일면 봉영리 422",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "대영판매소",
+      "address": "전라남도 고흥군 동일면 봉영리 844",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "혜진상회",
+      "address": "전라남도 고흥군 동일면 봉영리 1416-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "송영상회",
+      "address": "전라남도 고흥군 동일면 봉영리 1462",
+      "roadAddress": "전라남도 고흥군 동일면 소영우마장길 29",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "와교판매소",
+      "address": "전라남도 고흥군 동일면 봉영리 1462",
+      "roadAddress": "전라남도 고흥군 동일면 소영우마장길 29",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "사동판매소",
+      "address": "전라남도 고흥군 동일면 백양리 338",
+      "roadAddress": "전라남도 고흥군 동일면 사동몰랑길 11-6",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "대중상회",
+      "address": "전라남도 고흥군 동일면 백양리 811-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "양화판매소",
+      "address": "전라남도 고흥군 동일면 백양리 687-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "정상회",
+      "address": "전라남도 고흥군 동일면 백양리 1283",
+      "roadAddress": "전라남도 고흥군 동일면 신초길 131-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "수남상회",
+      "address": "전라남도 고흥군 동일면 덕흥리 432",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "덕흥상회",
+      "address": "전라남도 고흥군 동일면 덕흥리 432",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "덕양상회",
+      "address": "전라남도 고흥군 동일면 덕흥리 666",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "구룡판매소",
+      "address": "전라남도 고흥군 동일면 덕흥리 159",
+      "roadAddress": "전라남도 고흥군 동일면 성두구룡길 374",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "정자강상회",
+      "address": "전라남도 고흥군 도화면 당오리 569-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "전라남도 고흥군 도화면 당오리 517-53",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "수영슈퍼",
+      "address": "전라남도 고흥군 도화면 당오리 550-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "봉산마을판매소",
+      "address": "전라남도 고흥군 도화면 봉산리 745",
+      "roadAddress": "전라남도 고흥군 도화면 봉산서촌길 14-5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "서오치판매소",
+      "address": "전라남도 고흥군 도화면 당오리 620",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "봉서판매소",
+      "address": "전라남도 고흥군 도화면 봉룡리 899",
+      "roadAddress": "전라남도 고흥군 도화면 도화로 244-6",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "행운상회",
+      "address": "전라남도 고흥군 포두면 길두리 1093",
+      "roadAddress": "전라남도 고흥군 포두면 정자길 9-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "팔영상회",
+      "address": "전라남도 고흥군 점암면 모룡리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "평촌판매소",
+      "address": "전라남도 고흥군 점암면 성기리 372",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "구천판매소",
+      "address": "전라남도 고흥군 점암면 천학리 509",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "가학판매소",
+      "address": "전라남도 고흥군 점암면 천학리 197",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "장남판매소",
+      "address": "전라남도 고흥군 점암면 장남리 822",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "시목판매소",
+      "address": "전라남도 고흥군 점암면 장남리 213",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "옥천판매소",
+      "address": "전라남도 고흥군 점암면 장남리 604",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "곡강판매소",
+      "address": "전라남도 고흥군 점암면 강산리 543",
+      "roadAddress": "전라남도 고흥군 점암면 곡강2길 22",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "신흥판매소",
+      "address": "전라남도 고흥군 점암면 강산리 357",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "오산판매소",
+      "address": "전라남도 고흥군 점암면 강산리 104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "여호판매소",
+      "address": "전라남도 고흥군 점암면 여호리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "방내판매소",
+      "address": "전라남도 고흥군 점암면 여호리 199",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "화전판매소",
+      "address": "전라남도 고흥군 점암면 화계리 531",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "점암면 화계리 73번지 축사바닥철거",
+      "address": "전라남도 고흥군 점암면 화계리 73",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "신전판매소",
+      "address": "전라남도 고흥군 점암면 화계리 860",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "당치판매소",
+      "address": "전라남도 고흥군 점암면 화계리 984",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "성주판매소",
+      "address": "전라남도 고흥군 점암면 성기리 902",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "두지판매소",
+      "address": "전라남도 고흥군 점암면 성기리 712",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "한산판매소",
+      "address": "전라남도 고흥군 점암면 성기리 177",
+      "roadAddress": "전라남도 고흥군 점암면 한산길 76",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "한동판매소",
+      "address": "전라남도 고흥군 점암면 성기리 61",
+      "roadAddress": "전라남도 고흥군 점암면 한동장터길 37-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "대춘판매소",
+      "address": "전라남도 고흥군 점암면 대룡리 436",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "오리판매소",
+      "address": "전라남도 고흥군 점암면 대룡리 188",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "용두판매소",
+      "address": "전라남도 고흥군 점암면 대룡리 683",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "사리판매소",
+      "address": "전라남도 고흥군 점암면 사정리 377",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "서정판매소",
+      "address": "전라남도 고흥군 점암면 사정리 992",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "월송판매소",
+      "address": "전라남도 고흥군 점암면 사정리 790",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "내동판매소",
+      "address": "전라남도 고흥군 점암면 사정리 883",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "봉남판매소",
+      "address": "전라남도 고흥군 점암면 연봉리 611",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "봉북판매소",
+      "address": "전라남도 고흥군 점암면 연봉리 402",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "연등판매소",
+      "address": "전라남도 고흥군 점암면 연봉리 산 35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "상신판매소",
+      "address": "전라남도 고흥군 점암면 신안리 540",
+      "roadAddress": "전라남도 고흥군 점암면 신안상신길 40",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "용강판매소",
+      "address": "전라남도 고흥군 점암면 신안리 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1944-12-26"
+    },
+    {
+      "name": "용정판매소",
+      "address": "전라남도 고흥군 점암면 신안리 691",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "안치판매소",
+      "address": "전라남도 고흥군 점암면 신안리 969",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "신촌판매소",
+      "address": "전라남도 고흥군 대서면 송강리 1609",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "현대상회",
+      "address": "전라남도 고흥군 금산면 어전리 932-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "평지슈퍼",
+      "address": "전라남도 고흥군 금산면 어전리 975-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "금진명식당",
+      "address": "전라남도 고흥군 금산면 신촌리 254",
+      "roadAddress": "전라남도 고흥군 금산면 금진길 14-8",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "신금슈퍼",
+      "address": "전라남도 고흥군 금산면 신촌리 137",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "학생당",
+      "address": "전라남도 고흥군 과역면 과역리 543-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "새마을슈퍼",
+      "address": "전라남도 고흥군 과역면 과역리 164-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "대광슈퍼",
+      "address": "전라남도 고흥군 과역면 과역리 347",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "과역슈퍼",
+      "address": "전라남도 고흥군 과역면 과역리 164-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "동심슈퍼",
+      "address": "전라남도 고흥군 과역면 과역리 167-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "하송판매소",
+      "address": "전라남도 고흥군 과역면 도천리 588",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "땡칠이상회",
+      "address": "전라남도 고흥군 남양면 남양리 702-2 소매점",
+      "roadAddress": "전라남도 고흥군 남양면 남양희망길 5, 소매점",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "선정판매소",
+      "address": "전라남도 고흥군 남양면 월정리 753",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "동남슈퍼",
+      "address": "전라남도 고흥군 남양면 침교리 1118-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "관덕상회",
+      "address": "전라남도 고흥군 동강면 유둔리 249",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "합동슈퍼",
+      "address": "전라남도 고흥군 동강면 유둔리 12",
+      "roadAddress": "전라남도 고흥군 동강면 원유둔4길 15-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "광주슈퍼",
+      "address": "전라남도 고흥군 대서면 화산리 1348-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "전라남도 고흥군 대서면 화산리 1325-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "중앙상회",
+      "address": "전라남도 고흥군 두원면 학곡리 49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "동촌상회",
+      "address": "전라남도 고흥군 고흥읍 호형리 1277",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-31"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "전라남도 고흥군 고흥읍 남계리 463",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-31"
+    },
+    {
+      "name": "동보상회",
+      "address": "전라남도 고흥군 풍양면 야막리 496-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-31"
+    },
+    {
+      "name": "학생사",
+      "address": "전라남도 고흥군 풍양면 야막리 345-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-31"
+    },
+    {
+      "name": "호덕상회",
+      "address": "전라남도 고흥군 도화면 신호리 264",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-31"
+    },
+    {
+      "name": "일성상회",
+      "address": "전라남도 고흥군 동일면 백양리 848-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-31"
+    },
+    {
+      "name": "오천문구",
+      "address": "전라남도 고흥군 금산면 오천리 477",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-04"
+    },
+    {
+      "name": "성화상회",
+      "address": "전라남도 고흥군 금산면 오천리 439",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-04"
+    },
+    {
+      "name": "청석슈퍼",
+      "address": "전라남도 고흥군 금산면 오천리 13-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-04"
+    },
+    {
+      "name": "명승상회",
+      "address": "전라남도 고흥군 금산면 신평리 49-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-18"
+    },
+    {
+      "name": "명천슈퍼",
+      "address": "전라남도 고흥군 금산면 신평리 7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-18"
+    },
+    {
+      "name": "익금구매점",
+      "address": "전라남도 고흥군 금산면 어전리 431",
+      "roadAddress": "전라남도 고흥군 금산면 익금해변길 69",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-18"
+    },
+    {
+      "name": "화신문구사",
+      "address": "전라남도 고흥군 고흥읍 서문리 219-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-29"
+    },
+    {
+      "name": "용진상회",
+      "address": "전라남도 고흥군 고흥읍 서문리 200",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-29"
+    },
+    {
+      "name": "진성슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 2188-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-02"
+    },
+    {
+      "name": "해태슈퍼",
+      "address": "전라남도 고흥군 과역면 과역리 177",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-02"
+    },
+    {
+      "name": "고흥슈퍼",
+      "address": "전라남도 고흥군 대서면 화산리 1348",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-02"
+    },
+    {
+      "name": "에덴슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 1610-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-02"
+    },
+    {
+      "name": "도연슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 1541",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-02"
+    },
+    {
+      "name": "기동슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 3339",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-24"
+    },
+    {
+      "name": "영운슈퍼",
+      "address": "전라남도 고흥군 고흥읍 서문리 215-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-14"
+    },
+    {
+      "name": "관리구매점",
+      "address": "전라남도 고흥군 도양읍 관리 1235",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-15"
+    },
+    {
+      "name": "잠두구매점",
+      "address": "전라남도 고흥군 도양읍 용정리 2253",
+      "roadAddress": "전라남도 고흥군 도양읍 잠두샘둥길 11-6",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-15"
+    },
+    {
+      "name": "행정슈퍼",
+      "address": "전라남도 고흥군 고흥읍 행정리 183",
+      "roadAddress": "전라남도 고흥군 고흥읍 흥양길 90-15",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-16"
+    },
+    {
+      "name": "중앙상회",
+      "address": "전라남도 고흥군 금산면 오천리 185",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-16"
+    },
+    {
+      "name": "남쪽나라쉼터가든",
+      "address": "전라남도 고흥군 포두면 옥강리 12-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-31"
+    },
+    {
+      "name": "녹동프라자슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 3450",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-12-23"
+    },
+    {
+      "name": "삼천리슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 2060",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-31"
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 698",
+      "roadAddress": "전라남도 고흥군 도양읍 봉암봉산길 33-10",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-24"
+    },
+    {
+      "name": "고흥마트",
+      "address": "전라남도 고흥군 고흥읍 남계리 625-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-05"
+    },
+    {
+      "name": "일구슈퍼",
+      "address": "전라남도 고흥군 고흥읍 남계리 902-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-12"
+    },
+    {
+      "name": "모아슈퍼",
+      "address": "전라남도 고흥군 고흥읍 서문리 132-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-09"
+    },
+    {
+      "name": "동강식육점",
+      "address": "전라남도 고흥군 동강면 유둔리 6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-01"
+    },
+    {
+      "name": "일반상회",
+      "address": "전라남도 고흥군 포두면 상대리 6-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-06"
+    },
+    {
+      "name": "고흥축협종합판매장",
+      "address": "전라남도 고흥군 고흥읍 남계리 633-29",
+      "roadAddress": "전라남도 고흥군 고흥읍 고흥로 1756",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-27"
+    },
+    {
+      "name": "주공슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 1967-69",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-30"
+    },
+    {
+      "name": "도양우체국",
+      "address": "전라남도 고흥군 도양읍 봉암리 3178",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-13"
+    },
+    {
+      "name": "과역우체국",
+      "address": "전라남도 고흥군 과역면 과역리 62",
+      "roadAddress": "전라남도 고흥군 과역면 고흥로 2959",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-18"
+    },
+    {
+      "name": "평화식품",
+      "address": "전라남도 고흥군 도양읍 봉암리 2698-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-30"
+    },
+    {
+      "name": "오구슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 1967-69",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-30"
+    },
+    {
+      "name": "대림슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 2695-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-07"
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 1967-89",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-30"
+    },
+    {
+      "name": "고흥우체국",
+      "address": "전라남도 고흥군 고흥읍 옥하리 205-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-20"
+    },
+    {
+      "name": "영남우체국",
+      "address": "전라남도 고흥군 영남면 양사리 536-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-29"
+    },
+    {
+      "name": "풍양우체국",
+      "address": "전라남도 고흥군 풍양면 야막리 505-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-29"
+    },
+    {
+      "name": "고흥농협주유소",
+      "address": "전라남도 고흥군 고흥읍 호형리 690-1 주유소",
+      "roadAddress": "전라남도 고흥군 고흥읍 우주로 112, 주유소",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-04"
+    },
+    {
+      "name": "주공마트",
+      "address": "전라남도 고흥군 고흥읍 남계리 647-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-16"
+    },
+    {
+      "name": "발포슈퍼",
+      "address": "전라남도 고흥군 도화면 발포리 667",
+      "roadAddress": "전라남도 고흥군 도화면 충무사길 120",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-21"
+    },
+    {
+      "name": "오천슈퍼",
+      "address": "전라남도 고흥군 금산면 오천리 190-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-09"
+    },
+    {
+      "name": "신세대편의점",
+      "address": "전라남도 고흥군 도화면 당오리 1075-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-12"
+    },
+    {
+      "name": "대종슈퍼",
+      "address": "전라남도 고흥군 도화면 당오리 558-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-12"
+    },
+    {
+      "name": "샘마트",
+      "address": "전라남도 고흥군 고흥읍 남계리 584 대한빌딩1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-19"
+    },
+    {
+      "name": "영창문구사",
+      "address": "전라남도 고흥군 고흥읍 서문리 218-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-14"
+    },
+    {
+      "name": "광주슈퍼",
+      "address": "전라남도 고흥군 고흥읍 행정리 226-3",
+      "roadAddress": "전라남도 고흥군 고흥읍 흥양길 80",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-21"
+    },
+    {
+      "name": "제일건강원식품",
+      "address": "전라남도 고흥군 과역면 과역리 167-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-19"
+    },
+    {
+      "name": "만성지업사",
+      "address": "전라남도 고흥군 과역면 과역리 167-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-21"
+    },
+    {
+      "name": "기호상회",
+      "address": "전라남도 고흥군 도양읍 봉암리 2072",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-20"
+    },
+    {
+      "name": "제일24시편의점",
+      "address": "전라남도 고흥군 도양읍 봉암리 2233-6",
+      "roadAddress": "전라남도 고흥군 도양읍 비봉로 147",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-05"
+    },
+    {
+      "name": "동남슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 2786-112",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-17"
+    },
+    {
+      "name": "제이-스테이션녹동점",
+      "address": "전라남도 고흥군 도양읍 봉암리 2072-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-27"
+    },
+    {
+      "name": "싱싱슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 2793",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-18"
+    },
+    {
+      "name": "샘마트녹동점",
+      "address": "전라남도 고흥군 도양읍 봉암리 2231-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-28"
+    },
+    {
+      "name": "흥양농협중앙주유소",
+      "address": "전라남도 고흥군 포두면 길두리 1345-12",
+      "roadAddress": "전라남도 고흥군 포두면 우주로 588",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-28"
+    },
+    {
+      "name": "새식품",
+      "address": "전라남도 고흥군 도양읍 봉암리 2699-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-09"
+    },
+    {
+      "name": "봉서매점",
+      "address": "전라남도 고흥군 도양읍 봉암리 1486",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-09"
+    },
+    {
+      "name": "대덕상점",
+      "address": "전라남도 고흥군 금산면 대흥리 744-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-22"
+    },
+    {
+      "name": "흥양수퍼",
+      "address": "전라남도 고흥군 고흥읍 서문리 219-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-30"
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "전라남도 고흥군 고흥읍 등암리 171-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-20"
+    },
+    {
+      "name": "초이마트",
+      "address": "전라남도 고흥군 도양읍 봉암리 1514-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-31"
+    },
+    {
+      "name": "녹동농협 도덕지점 유류판매소",
+      "address": "전라남도 고흥군 도덕면 신양리 957-5",
+      "roadAddress": "전라남도 고흥군 도덕면 고흥만로 34",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-17"
+    },
+    {
+      "name": "(주)벌교이마트고흥지점",
+      "address": "전라남도 고흥군 고흥읍 남계리 716",
+      "roadAddress": "전라남도 고흥군 고흥읍 봉동주공길 18",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-08"
+    },
+    {
+      "name": "거금농업협동조합",
+      "address": "전라남도 고흥군 금산면 오천리 거금도농협 관사",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-15"
+    },
+    {
+      "name": "용동수퍼",
+      "address": "전라남도 고흥군 금산면 대흥리 693-10 외1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-15"
+    },
+    {
+      "name": "흥양농협중앙주유소",
+      "address": "전라남도 고흥군 포두면 길두리 1345-12",
+      "roadAddress": "전라남도 고흥군 포두면 우주로 588",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-05"
+    },
+    {
+      "name": "녹동농협하나로클럽",
+      "address": "전라남도 고흥군 도양읍 봉암리 3190",
+      "roadAddress": "전라남도 고흥군 도양읍 우주항공로 21",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-19"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "전라남도 고흥군 포두면 상대리 87-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-04"
+    },
+    {
+      "name": "만물할인마트",
+      "address": "전라남도 고흥군 과역면 과역리 162 4동39-47호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-02-18"
+    },
+    {
+      "name": "엄마방",
+      "address": "전라남도 고흥군 도덕면 도덕리 53-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-14"
+    },
+    {
+      "name": "고흥군수협녹동지소",
+      "address": "전라남도 고흥군 도양읍 봉암리 2792-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-08"
+    },
+    {
+      "name": "영월슈퍼",
+      "address": "전라남도 고흥군 풍양면 풍남리 969-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-08"
+    },
+    {
+      "name": "주부슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 2070",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-10-14"
+    },
+    {
+      "name": "진보슈퍼",
+      "address": "전라남도 고흥군 점암면 사정리 1391-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-12"
+    },
+    {
+      "name": "시장마트",
+      "address": "전라남도 고흥군 도양읍 봉암리 2237-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-16"
+    },
+    {
+      "name": "가옥철거공사",
+      "address": "전라남도 고흥군 도양읍 봉암리 2240-138",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-27"
+    },
+    {
+      "name": "점암편의점",
+      "address": "전라남도 고흥군 점암면 모룡리 841-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-12"
+    },
+    {
+      "name": "시장알짜마트",
+      "address": "전라남도 고흥군 과역면 과역리 162 시장3동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-03"
+    },
+    {
+      "name": "의료법인 영성의료재단 고흥종합병원",
+      "address": "전라남도 고흥군 고흥읍 남계리 186",
+      "roadAddress": "전라남도 고흥군 고흥읍 고흥로 1935",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-09"
+    },
+    {
+      "name": "프라자슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 3450 프라자아파트상가101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-23"
+    },
+    {
+      "name": "희수구매",
+      "address": "전라남도 고흥군 도화면 당오리 309",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-21"
+    },
+    {
+      "name": "두원농협",
+      "address": "전라남도 고흥군 두원면 학곡리 2-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-04"
+    },
+    {
+      "name": "해변상회",
+      "address": "전라남도 고흥군 두원면 대전리 37-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-14"
+    },
+    {
+      "name": "용동부녀회 매점",
+      "address": "전라남도 고흥군 도덕면 용동리 560-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-23"
+    },
+    {
+      "name": "훼미리마트고흥녹동점",
+      "address": "전라남도 고흥군 도양읍 봉암리 2070-22",
+      "roadAddress": "전라남도 고흥군 도양읍 남촌길 31",
+      "status": "영업/정상",
+      "licenseDate": "2007-08-23"
+    },
+    {
+      "name": "팔영농협남양지소",
+      "address": "전라남도 고흥군 남양면 남양리 516-7",
+      "roadAddress": "전라남도 고흥군 남양면 남양희망길 25",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-10"
+    },
+    {
+      "name": "현지슈퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 2699-171",
+      "roadAddress": "전라남도 고흥군 도양읍 녹동남촌1길 19",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-10"
+    },
+    {
+      "name": "삼성상회",
+      "address": "전라남도 고흥군 도양읍 봉암리 2699-127",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-16"
+    },
+    {
+      "name": "도양할인마트",
+      "address": "전라남도 고흥군 도양읍 봉암리 3154",
+      "roadAddress": "전라남도 고흥군 도양읍 우주항공로 33",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-29"
+    },
+    {
+      "name": "GS편의점",
+      "address": "전라남도 고흥군 고흥읍 남계리 613",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-25"
+    },
+    {
+      "name": "열린마트",
+      "address": "전라남도 고흥군 고흥읍 남계리 685-11",
+      "roadAddress": "전라남도 고흥군 고흥읍 고흥로 1794",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-13"
+    },
+    {
+      "name": "미니스톱고흥녹동점",
+      "address": "전라남도 고흥군 도양읍 봉암리 2072-96",
+      "roadAddress": "전라남도 고흥군 도양읍 녹동남문길 37",
+      "status": "영업/정상",
+      "licenseDate": "2009-02-03"
+    },
+    {
+      "name": "부영상사",
+      "address": "전라남도 고흥군 도양읍 봉암리 2676-1",
+      "roadAddress": "전라남도 고흥군 도양읍 녹동5구길 9-41",
+      "status": "영업/정상",
+      "licenseDate": "2009-02-23"
+    },
+    {
+      "name": "모아마트",
+      "address": "전라남도 고흥군 동일면 백양리 814-3",
+      "roadAddress": "전라남도 고흥군 동일면 우주로 2622",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-11"
+    },
+    {
+      "name": "흥양농협",
+      "address": "전라남도 고흥군 동일면 백양리 767-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-11"
+    },
+    {
+      "name": "우리수퍼",
+      "address": "전라남도 고흥군 도양읍 봉암리 1616-17",
+      "roadAddress": "전라남도 고흥군 도양읍 녹동5구길 8",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-25"
+    },
+    {
+      "name": "우주장례식장(주)행복드림",
+      "address": "전라남도 고흥군 고흥읍 호형리 1218",
+      "roadAddress": "전라남도 고흥군 고흥읍 봉동주공길 56-16",
+      "status": "영업/정상",
+      "licenseDate": "2009-10-13"
+    },
+    {
+      "name": "미니스톱고흥읍내점",
+      "address": "전라남도 고흥군 고흥읍 남계리 673-3",
+      "roadAddress": "전라남도 고흥군 고흥읍 고흥로 1791",
+      "status": "영업/정상",
+      "licenseDate": "2009-11-30"
+    },
+    {
+      "name": "남해고속7호선상매점식당",
+      "address": "전라남도 고흥군 도양읍 봉암리 3907",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-03-11"
+    },
+    {
+      "name": "영광상회",
+      "address": "전라남도 고흥군 도양읍 봉암리 3777",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-04-23"
+    },
+    {
+      "name": "사무엘문구사",
+      "address": "전라남도 고흥군 봉래면 신금리 1081-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-07-06"
+    },
+    {
+      "name": "종합마트",
+      "address": "전라남도 고흥군 대서면 화산리 1130-1",
+      "roadAddress": "전라남도 고흥군 대서면 봉두로 571",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-04"
+    },
+    {
+      "name": "금창상회",
+      "address": "전라남도 고흥군 봉래면 신금리 998-10",
+      "roadAddress": "전라남도 고흥군 봉래면 축정2길 72-1",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-22"
+    },
+    {
+      "name": "전주슈퍼",
+      "address": "전라남도 고흥군 봉래면 신금리 1026-13",
+      "roadAddress": "전라남도 고흥군 봉래면 나로도항길 87",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-22"
+    },
+    {
+      "name": "세양물류",
+      "address": "전라남도 고흥군 도양읍 봉암리 3907",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-16"
+    },
+    {
+      "name": "고흥농협하나로마트",
+      "address": "전라남도 고흥군 고흥읍 서문리 216-5",
+      "roadAddress": "전라남도 고흥군 고흥읍 여산당촌길 43",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-31"
+    },
+    {
+      "name": "(주)코리아세븐 고흥녹동중앙점",
+      "address": "전라남도 고흥군 도양읍 봉암리 3120번지",
+      "roadAddress": "전라남도 고흥군 도양읍 우주항공로 43",
+      "status": "영업/정상",
+      "licenseDate": "2016-01-20"
+    },
+    {
+      "name": "홈마트",
+      "address": "전라남도 고흥군 고흥읍 서문리 219-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-12"
+    },
+    {
+      "name": "진선미",
+      "address": "전라남도 고흥군 고흥읍 남계리 652-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-20"
+    },
+    {
+      "name": "세븐일레븐 고흥봉동주공점",
+      "address": "전라남도 고흥군 고흥읍 남계리 704-1 상가",
+      "roadAddress": "전라남도 고흥군 고흥읍 봉동주공길 37-4, 상가 1층",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-26"
+    },
+    {
+      "name": "알뜰상회",
+      "address": "전라남도 고흥군 동강면 노동리 336",
+      "roadAddress": "전라남도 고흥군 동강면 죽산길 44-20",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-29"
+    },
+    {
+      "name": "녹동농협가룡지소",
+      "address": "전라남도 고흥군 도덕면 가야리 849-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-18"
+    },
+    {
+      "name": "이마트에브리데이 고흥점",
+      "address": "전라남도 고흥군 고흥읍 남계리 234",
+      "roadAddress": "전라남도 고흥군 고흥읍 고흥로 1871 (이마트에브리데이)",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-12"
+    },
+    {
+      "name": "세븐일레븐 고흥봉황점",
+      "address": "전라남도 고흥군 고흥읍 남계리 631-7",
+      "roadAddress": "전라남도 고흥군 고흥읍 고흥로 1732-1",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-07"
+    },
+    {
+      "name": "세븐일레븐 녹동신항점",
+      "address": "전라남도 고흥군 도양읍 봉암리 3872-101 0통0반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-27"
+    },
+    {
+      "name": "명신상회",
+      "address": "전라남도 고흥군 봉래면 신금리 520",
+      "roadAddress": "전라남도 고흥군 봉래면 신금길 32-3",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-23"
+    },
+    {
+      "name": "명성수퍼",
+      "address": "전라남도 고흥군 동강면 유둔리 189-24",
+      "roadAddress": "전라남도 고흥군 동강면 고흥로 4253",
+      "status": "영업/정상",
+      "licenseDate": "2013-08-23"
+    },
+    {
+      "name": "(주)코리아세븐 고흥녹동항점",
+      "address": "전라남도 고흥군 도양읍 봉암리 2783-3",
+      "roadAddress": "전라남도 고흥군 도양읍 비봉로 154",
+      "status": "영업/정상",
+      "licenseDate": "2022-05-12"
+    },
+    {
+      "name": "씨유 고흥 하나점",
+      "address": "전라남도 고흥군 고흥읍 서문리 217-27 일반음식점",
+      "roadAddress": "전라남도 고흥군 고흥읍 여산당촌길 31-1, 일반음식점 1층 104~105호",
+      "status": "영업/정상",
+      "licenseDate": "2015-07-21"
+    },
+    {
+      "name": "중앙수퍼",
+      "address": "전라남도 고흥군 고흥읍 남계리 463",
+      "roadAddress": "전라남도 고흥군 고흥읍 흥양길 29",
+      "status": "영업/정상",
+      "licenseDate": "2013-10-29"
+    },
+    {
+      "name": "짐다리 슈퍼",
+      "address": "전라남도 고흥군 과역면 1410-4",
+      "roadAddress": "전라남도 고흥군 과역면 고흥로 2919",
+      "status": "영업/정상",
+      "licenseDate": "2013-11-26"
+    },
+    {
+      "name": "여객선터미널슈퍼",
+      "address": "전라남도 고흥군 봉래면 신금리 1000-67",
+      "roadAddress": "전라남도 고흥군 봉래면 나로도항길 145",
+      "status": "영업/정상",
+      "licenseDate": "2014-02-27"
+    },
+    {
+      "name": "남성리부녀회구매점",
+      "address": "전라남도 고흥군 포두면 남성리 366-1",
+      "roadAddress": "전라남도 고흥군 포두면 남성2길 4 (구판장)",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-06"
+    },
+    {
+      "name": "풍양농협하나로마트",
+      "address": "전라남도 고흥군 풍양면 야막리 494번지 1호",
+      "roadAddress": "전라남도 고흥군 풍양면 고흥로 1179",
+      "status": "영업/정상",
+      "licenseDate": "2014-09-16"
+    },
+    {
+      "name": "세븐일레븐 고흥중앙로점",
+      "address": "전라남도 고흥군 고흥읍 남계리 673-3",
+      "roadAddress": "전라남도 고흥군 고흥읍 고흥로 1791 (소매점)",
+      "status": "영업/정상",
+      "licenseDate": "2014-12-19"
+    },
+    {
+      "name": "팔영농협영남지점",
+      "address": "전라남도 고흥군 영남면 양사리 509-1",
+      "roadAddress": "전라남도 고흥군 영남면 팔영로 1059 (금융업소)",
+      "status": "영업/정상",
+      "licenseDate": "2015-01-12"
+    },
+    {
+      "name": "청정유통",
+      "address": "전라남도 고흥군 도양읍 봉암리 2695-38",
+      "roadAddress": "전라남도 고흥군 도양읍 남촌길 23",
+      "status": "영업/정상",
+      "licenseDate": "2015-01-19"
+    },
+    {
+      "name": "대중상회",
+      "address": "전라남도 고흥군 도화면 발포리 770",
+      "roadAddress": "전라남도 고흥군 도화면 발포중앙길 32-2",
+      "status": "영업/정상",
+      "licenseDate": "2015-02-04"
+    },
+    {
+      "name": "미니스톱 녹동천마점",
+      "address": "전라남도 고흥군 도양읍 봉암리 3245",
+      "roadAddress": "전라남도 고흥군 도양읍 천마로 158",
+      "status": "영업/정상",
+      "licenseDate": "2015-04-30"
+    },
+    {
+      "name": "우주해변마트",
+      "address": "전라남도 고흥군 봉래면 신금리 520",
+      "roadAddress": "전라남도 고흥군 봉래면 신금길 32-3",
+      "status": "영업/정상",
+      "licenseDate": "2015-05-26"
+    },
+    {
+      "name": "고흥우주휴게소",
+      "address": "전라남도 고흥군 남양면 침교리 910-4",
+      "roadAddress": "전라남도 고흥군 남양면 우주항공로 4177",
+      "status": "영업/정상",
+      "licenseDate": "2015-06-01"
+    },
+    {
+      "name": "시산슈퍼",
+      "address": "전라남도 고흥군 도양읍 239",
+      "roadAddress": "전라남도 고흥군 도양읍 시산봉화길 12-2",
+      "status": "영업/정상",
+      "licenseDate": "2015-08-10"
+    },
+    {
+      "name": "세븐일레븐 고흥도양점",
+      "address": "전라남도 고흥군 도양읍 봉암리 3397",
+      "roadAddress": "전라남도 고흥군 도양읍 녹동신항5길 1",
+      "status": "영업/정상",
+      "licenseDate": "2016-03-16"
+    },
+    {
+      "name": "지에스25 고흥도화점",
+      "address": "전라남도 고흥군 도화면 당오리 1076-8",
+      "roadAddress": "전라남도 고흥군 도화면 천마로 2285",
+      "status": "영업/정상",
+      "licenseDate": "2016-05-02"
+    },
+    {
+      "name": "씨유 도화소설점",
+      "address": "전라남도 고흥군 도화면 당오리 646-13",
+      "roadAddress": "전라남도 고흥군 도화면 중심길 9 (도화공영터미널)",
+      "status": "영업/정상",
+      "licenseDate": "2016-07-06"
+    },
+    {
+      "name": "씨유나로산들점",
+      "address": "전라남도 고흥군 동일면 백양리 813-2",
+      "roadAddress": "전라남도 고흥군 동일면 우주로 2616 (소매점)",
+      "status": "영업/정상",
+      "licenseDate": "2016-09-12"
+    },
+    {
+      "name": "터미널마트",
+      "address": "전라남도 고흥군 과역면 과역리 70-4",
+      "roadAddress": "전라남도 고흥군 과역면 무궁화길 5 (터미널)",
+      "status": "영업/정상",
+      "licenseDate": "2016-09-19"
+    },
+    {
+      "name": "만물생활마트",
+      "address": "전라남도 고흥군 도양읍 봉암리 3161",
+      "roadAddress": "전라남도 고흥군 도양읍 우주항공로 31",
+      "status": "영업/정상",
+      "licenseDate": "2016-11-29"
+    },
+    {
+      "name": "씨유녹동썬비치점",
+      "address": "전라남도 고흥군 도양읍 봉암리 2787",
+      "roadAddress": "전라남도 고흥군 도양읍 비봉로 185 (호텔)",
+      "status": "영업/정상",
+      "licenseDate": "2017-01-16"
+    },
+    {
+      "name": "미니스톱녹동연안점",
+      "address": "전라남도 고흥군 도양읍 봉암리 3872",
+      "roadAddress": "전라남도 고흥군 도양읍 비봉로 257 (상가)",
+      "status": "영업/정상",
+      "licenseDate": "2017-01-17"
+    },
+    {
+      "name": "씨유 녹동중앙점",
+      "address": "",
+      "roadAddress": "전라남도 고흥군 도양읍 우주항공로 54",
+      "status": "영업/정상",
+      "licenseDate": "2017-02-02"
+    },
+    {
+      "name": "팔영산슈퍼",
+      "address": "전라남도 고흥군 점암면 모룡리 421",
+      "roadAddress": "전라남도 고흥군 점암면 회계길 17",
+      "status": "영업/정상",
+      "licenseDate": "2017-02-10"
+    },
+    {
+      "name": "세븐일레븐 고흥남계점",
+      "address": "고흥군 고흥읍 남계리 840-6",
+      "roadAddress": "전라남도 고흥군 고흥읍 고흥로 1655",
+      "status": "영업/정상",
+      "licenseDate": "2017-08-21"
+    },
+    {
+      "name": "씨유 고흥녹동터미널점",
+      "address": "전라남도 고흥군 도양읍 봉암리 1615-10",
+      "roadAddress": "전라남도 고흥군 도양읍 천마로 65 (소매점)",
+      "status": "영업/정상",
+      "licenseDate": "2017-08-28"
+    },
+    {
+      "name": "세븐일레븐 고흥주공점",
+      "address": "전라남도 고흥군 고흥읍 남계리 647-17 소매점",
+      "roadAddress": "전라남도 고흥군 고흥읍 봉동주공길 21",
+      "status": "영업/정상",
+      "licenseDate": "2017-11-07"
+    },
+    {
+      "name": "여호구매점",
+      "address": "전라남도 고흥군 점암면 여호리 229-4",
+      "roadAddress": "전라남도 고흥군 점암면 여호해안길 47",
+      "status": "영업/정상",
+      "licenseDate": "2017-11-28"
+    },
+    {
+      "name": "행복청정마트",
+      "address": "전라남도 고흥군 도양읍 봉암리 2699-190",
+      "roadAddress": "전라남도 고흥군 도양읍 녹동남촌1길 25",
+      "status": "영업/정상",
+      "licenseDate": "2018-01-09"
+    },
+    {
+      "name": "팔영농협동강지점 하나로마트",
+      "address": "전라남도 고흥군 동강면 유둔리 7-7",
+      "roadAddress": "전라남도 고흥군 동강면 고흥로 4269",
+      "status": "영업/정상",
+      "licenseDate": "2018-01-17"
+    },
+    {
+      "name": "만물할인마트",
+      "address": "전라남도 고흥군 과역면 과역리 164-1",
+      "roadAddress": "전라남도 고흥군 과역면 시장안길 13-22",
+      "status": "영업/정상",
+      "licenseDate": "2018-02-13"
+    },
+    {
+      "name": "팔영농업협동조합대서지점",
+      "address": "전라남도 고흥군 대서면 화산리 1335-2",
+      "roadAddress": "전라남도 고흥군 대서면 석장2길 17",
+      "status": "영업/정상",
+      "licenseDate": "2018-05-14"
+    },
+    {
+      "name": "지에스(GS)25 전남고흥점",
+      "address": "전라남도 고흥군 고흥읍 등암리 168-5",
+      "roadAddress": "전라남도 고흥군 고흥읍 고흥로 1625-2, 102호",
+      "status": "영업/정상",
+      "licenseDate": "2018-07-17"
+    },
+    {
+      "name": "거금장례식장 슈퍼",
+      "address": "전라남도 고흥군 금산면 석정리 610-3",
+      "roadAddress": "전라남도 고흥군 금산면 거금일주로 2901",
+      "status": "영업/정상",
+      "licenseDate": "2018-10-01"
+    },
+    {
+      "name": "행복식품마트",
+      "address": "전라남도 고흥군 도화면 당오리 641-4 소매점",
+      "roadAddress": "전라남도 고흥군 도화면 중심길 5, 소매점",
+      "status": "영업/정상",
+      "licenseDate": "2018-12-06"
+    },
+    {
+      "name": "과역할인마트",
+      "address": "전라남도 고흥군 과역면 과역리 145-2 소매점",
+      "roadAddress": "전라남도 고흥군 과역면 과역로 870, 소매점",
+      "status": "영업/정상",
+      "licenseDate": "2019-01-10"
+    },
+    {
+      "name": "사도구매점",
+      "address": "전라남도 고흥군 영남면 금사리 732-19 소매점",
+      "roadAddress": "전라남도 고흥군 영남면 사도진해안길 133, 소매점",
+      "status": "영업/정상",
+      "licenseDate": "2019-02-08"
+    },
+    {
+      "name": "솔섬길 편의점",
+      "address": "전라남도 고흥군 도양읍 시산리 124",
+      "roadAddress": "전라남도 고흥군 도양읍 시산살푸섬길 1",
+      "status": "영업/정상",
+      "licenseDate": "2019-03-08"
+    },
+    {
+      "name": "고흥축협 남계지점",
+      "address": "전라남도 고흥군 고흥읍 남계리 623-10 금융업소",
+      "roadAddress": "전라남도 고흥군 고흥읍 고흥로 1757, 금융업소",
+      "status": "영업/정상",
+      "licenseDate": "2019-08-28"
+    },
+    {
+      "name": "고흥마트",
+      "address": "전라남도 고흥군 도양읍 봉암리 1514-2",
+      "roadAddress": "전라남도 고흥군 도양읍 천마로 154",
+      "status": "영업/정상",
+      "licenseDate": "2019-09-23"
+    },
+    {
+      "name": "봉황장례식장(천은)",
+      "address": "전라남도 고흥군 고흥읍 호형리 1013",
+      "roadAddress": "전라남도 고흥군 고흥읍 신호산장길 3",
+      "status": "영업/정상",
+      "licenseDate": "2019-10-04"
+    },
+    {
+      "name": "만물마트",
+      "address": "전라남도 고흥군 고흥읍 남계리 625-8 소매점",
+      "roadAddress": "전라남도 고흥군 고흥읍 시장천변길 29-12, 소매점",
+      "status": "영업/정상",
+      "licenseDate": "2019-12-06"
+    },
+    {
+      "name": "고흥축협 하나로마트",
+      "address": "전라남도 고흥군 고흥읍 서문리 219-53 고흥축산농협",
+      "roadAddress": "전라남도 고흥군 고흥읍 서문여산길 54, 고흥축산농협",
+      "status": "영업/정상",
+      "licenseDate": "2019-12-24"
+    },
+    {
+      "name": "GS25 고흥도양점",
+      "address": "전라남도 고흥군 도양읍 봉암리 2785-6 1층 105호",
+      "roadAddress": "전라남도 고흥군 도양읍 비봉로 169, 1층 105호",
+      "status": "영업/정상",
+      "licenseDate": "2020-03-16"
+    },
+    {
+      "name": "나로도마트",
+      "address": "전라남도 고흥군 봉래면 신금리 1252-11 소매점",
+      "roadAddress": "전라남도 고흥군 봉래면 나로도항길 94, 소매점",
+      "status": "영업/정상",
+      "licenseDate": "2020-04-01"
+    },
+    {
+      "name": "CU 고흥과역점",
+      "address": "전라남도 고흥군 과역면 과역리 169-10",
+      "roadAddress": "전라남도 고흥군 과역면 송학큰길 43-7",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-29"
+    },
+    {
+      "name": "구매점",
+      "address": "전라남도 고흥군 포두면 남성리 366-4 부녀회관",
+      "roadAddress": "전라남도 고흥군 포두면 남성3길 10, 부녀회관",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-30"
+    },
+    {
+      "name": "세븐일레븐 고흥남계메디컬점",
+      "address": "전라남도 고흥군 고흥읍 남계리 1035",
+      "roadAddress": "전라남도 고흥군 고흥읍 고흥군청로 33, 106호",
+      "status": "영업/정상",
+      "licenseDate": "2020-07-22"
+    },
+    {
+      "name": "팔영산 편백치유의숲 매점",
+      "address": "전라남도 고흥군 영남면 금사리 산 37-60",
+      "roadAddress": "전라남도 고흥군 영남면 천사로 529-191",
+      "status": "영업/정상",
+      "licenseDate": "2020-08-03"
+    },
+    {
+      "name": "씨유(CU)고흥라온하우스점",
+      "address": "전라남도 고흥군 고흥읍 남계리 939-1 라온하우스",
+      "roadAddress": "전라남도 고흥군 고흥읍 홍교길 19, 1층 101호 (라온하우스)",
+      "status": "영업/정상",
+      "licenseDate": "2020-08-11"
+    },
+    {
+      "name": "신선마트 도화점",
+      "address": "전라남도 고흥군 도화면 당오리 1075-31 소매점",
+      "roadAddress": "전라남도 고흥군 도화면 천마로 2282, 소매점",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-07"
+    },
+    {
+      "name": "세븐일레븐(고흥등암점)",
+      "address": "전라남도 고흥군 고흥읍 등암리 167-2 세븐일레븐(고흥등암점)",
+      "roadAddress": "전라남도 고흥군 고흥읍 고흥로 1647-3, 고흥씽크",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-16"
+    },
+    {
+      "name": "미니스톱 고흥하나로점",
+      "address": "전라남도 고흥군 고흥읍 남계리 623-10 금융업소",
+      "roadAddress": "전라남도 고흥군 고흥읍 고흥로 1757, 금융업소",
+      "status": "영업/정상",
+      "licenseDate": "2020-11-06"
+    },
+    {
+      "name": "씨유 R고흥썬밸리리조트점",
+      "address": "전라남도 고흥군 도덕면 용동리 산 4",
+      "roadAddress": "전라남도 고흥군 도덕면 고흥만로 1134, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-24"
+    },
+    {
+      "name": "세븐일레븐 고흥도화점",
+      "address": "전라남도 고흥군 도화면 당오리 1074-34 일반음식점",
+      "roadAddress": "전라남도 고흥군 도화면 천마로 2263, 일반음식점",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-12"
+    },
+    {
+      "name": "씨유 고흥과역점",
+      "address": "전라남도 고흥군 과역면 과역리 169-10",
+      "roadAddress": "전라남도 고흥군 과역면 송학큰길 43-15, 씨유 고흥과역점",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-24"
+    },
+    {
+      "name": "이마트24 고흥녹동점",
+      "address": "전라남도 고흥군 도양읍 봉암리 2699-255 고흥축산농협",
+      "roadAddress": "전라남도 고흥군 도양읍 녹동남촌1길 13, 고흥축산농협",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-26"
+    },
+    {
+      "name": "씨유 녹동행복점",
+      "address": "전라남도 고흥군 도양읍 봉암리 2699-194 행복한마을",
+      "roadAddress": "전라남도 고흥군 도양읍 녹동남촌1길 25-1, 101호 (행복한마을)",
+      "status": "영업/정상",
+      "licenseDate": "2021-06-08"
+    },
+    {
+      "name": "24시편의점",
+      "address": "전라남도 고흥군 봉래면 신금리 1085-4 소매점",
+      "roadAddress": "전라남도 고흥군 봉래면 축정1길 20, 소매점",
+      "status": "영업/정상",
+      "licenseDate": "2021-06-10"
+    },
+    {
+      "name": "흥양농협도화지점하나로마트",
+      "address": "전라남도 고흥군 도화면 당오리 1065-5",
+      "roadAddress": "전라남도 고흥군 도화면 천마로 2255",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-05"
+    },
+    {
+      "name": "현대할인마트",
+      "address": "전라남도 고흥군 도화면 당오리 517-53",
+      "roadAddress": "전라남도 고흥군 도화면 중심길 13-1",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-26"
+    },
+    {
+      "name": "(주)코리아세븐 고흥금산점",
+      "address": "전라남도 고흥군 금산면 대흥리 361-4 상가",
+      "roadAddress": "전라남도 고흥군 금산면 거금중앙길 122, 상가",
+      "status": "영업/정상",
+      "licenseDate": "2021-08-18"
+    },
+    {
+      "name": "지에스25 고흥군청점",
+      "address": "전라남도 고흥군 고흥읍 등암리 1682 105호",
+      "roadAddress": "전라남도 고흥군 고흥읍 고흥군청로 4, 105호",
+      "status": "영업/정상",
+      "licenseDate": "2021-08-19"
+    },
+    {
+      "name": "지에스25 고흥금산점",
+      "address": "전라남도 고흥군 금산면 대흥리 736-16 여관",
+      "roadAddress": "전라남도 고흥군 금산면 거금중앙길 98, 여관",
+      "status": "영업/정상",
+      "licenseDate": "2021-09-13"
+    },
+    {
+      "name": "세븐일레븐 고흥포두점",
+      "address": "전라남도 고흥군 포두면 길두리 1345-15",
+      "roadAddress": "전라남도 고흥군 포두면 금탑로 6",
+      "status": "영업/정상",
+      "licenseDate": "2021-09-30"
+    },
+    {
+      "name": "진미상회",
+      "address": "전라남도 고흥군 동강면 유둔리 7-29",
+      "roadAddress": "전라남도 고흥군 동강면 고흥로 4275",
+      "status": "영업/정상",
+      "licenseDate": "2021-10-07"
+    },
+    {
+      "name": "유한회사 고흥식자재이마트",
+      "address": "전라남도 고흥군 고흥읍 남계리 716",
+      "roadAddress": "전라남도 고흥군 고흥읍 봉동주공길 18",
+      "status": "영업/정상",
+      "licenseDate": "2021-10-28"
+    },
+    {
+      "name": "남열새마을회",
+      "address": "전라남도 고흥군 영남면 남열리 173",
+      "roadAddress": "전라남도 고흥군 영남면 해맞이로 680",
+      "status": "영업/정상",
+      "licenseDate": "2021-11-23"
+    },
+    {
+      "name": "고흥만 힐링 편의점",
+      "address": "전라남도 고흥군 도덕면 용동리 산 6",
+      "roadAddress": "전라남도 고흥군 도덕면 고흥만로 1137",
+      "status": "영업/정상",
+      "licenseDate": "2021-12-13"
+    },
+    {
+      "name": "이마트24 파랑새점",
+      "address": "전라남도 고흥군 점암면 연봉리 477-1 주유소",
+      "roadAddress": "전라남도 고흥군 점암면 우주항공로 2878, 주유소",
+      "status": "영업/정상",
+      "licenseDate": "2021-12-23"
+    },
+    {
+      "name": "거금도편의점",
+      "address": "전라남도 고흥군 금산면 신평리 132",
+      "roadAddress": "전라남도 고흥군 금산면 거금일주로 2084, 거금도 편의점",
+      "status": "영업/정상",
+      "licenseDate": "2022-01-03"
+    },
+    {
+      "name": "씨유 나로우주점",
+      "address": "전라남도 고흥군 봉래면 신금리 1252-3 소매점",
+      "roadAddress": "전라남도 고흥군 봉래면 나로도항길 108, 소매점 1층층",
+      "status": "영업/정상",
+      "licenseDate": "2022-03-18"
+    },
+    {
+      "name": "유한회사 신선유통",
+      "address": "전라남도 고흥군 도화면 당오리 468-5",
+      "roadAddress": "전라남도 고흥군 도화면 중심길 73, 유한회사 신성유통 1층",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-12"
+    },
+    {
+      "name": "씨유 고흥동강점",
+      "address": "전라남도 고흥군 동강면 유둔리 194-4 일반음식점",
+      "roadAddress": "전라남도 고흥군 동강면 고흥로 4256, 씨유 고흥동강점",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-14"
+    },
+    {
+      "name": "모닝글로리",
+      "address": "전라남도 고흥군 도양읍 봉암리 2685-11 소매점",
+      "roadAddress": "전라남도 고흥군 도양읍 천마로 84, 소매점",
+      "status": "영업/정상",
+      "licenseDate": "2022-05-19"
+    },
+    {
+      "name": "씨유고흥대성점",
+      "address": "전라남도 고흥군 고흥읍 남계리 548-2 상가",
+      "roadAddress": "전라남도 고흥군 고흥읍 신계학림길 1, 상가 1층 101호호",
+      "status": "영업/정상",
+      "licenseDate": "2022-06-29"
+    },
+    {
+      "name": "씨유 고흥남계정",
+      "address": "전라남도 고흥군 고흥읍 남계리 651-21 소매점",
+      "roadAddress": "전라남도 고흥군 고흥읍 봉동주공길 5, 소매점 1층",
+      "status": "영업/정상",
+      "licenseDate": "2022-06-29"
+    },
+    {
+      "name": "씨유 고흥삼거리점",
+      "address": "전라남도 고흥군 고흥읍 남계리 335-4",
+      "roadAddress": "전라남도 고흥군 고흥읍 고흥로 1842-1, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-28"
+    },
+    {
+      "name": "녹동식자재마트",
+      "address": "전라남도 고흥군 도양읍 봉암리 1615-3",
+      "roadAddress": "전라남도 고흥군 도양읍 천마로 63-6",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-01"
+    },
+    {
+      "name": "큐식자재마트",
+      "address": "전라남도 고흥군 봉래면 신금리 878-161",
+      "roadAddress": "전라남도 고흥군 봉래면 축정1길 6-3",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-29"
+    },
+    {
+      "name": "미니스톱 고흥남계점",
+      "address": "전라남도 고흥군 고흥읍 남계리 704-1 상가",
+      "roadAddress": "전라남도 고흥군 고흥읍 봉동주공길 37-4, 상가",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-27"
+    },
+    {
+      "name": "세븐일레븐 고흥읍내점",
+      "address": "전라남도 고흥군 고흥읍 서문리 219-73",
+      "roadAddress": "전라남도 고흥군 고흥읍 여산당촌길 11-1, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-27"
+    },
+    {
+      "name": "지에스25 고흥녹동중앙점",
+      "address": "전라남도 고흥군 도양읍 봉암리 2699-210",
+      "roadAddress": "전라남도 고흥군 도양읍 우주항공로 54, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-01"
+    },
+    {
+      "name": "(주)코리아세븐 고흥녹동중앙점",
+      "address": "전라남도 고흥군 도양읍 봉암리 3120",
+      "roadAddress": "전라남도 고흥군 도양읍 우주항공로 43, 1층층",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-03"
+    },
+    {
+      "name": "세븐일레븐 고흥주공점",
+      "address": "전라남도 고흥군 고흥읍 남계리 647-18",
+      "roadAddress": "전라남도 고흥군 고흥읍 봉동주공길 21-1",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-03"
+    },
+    {
+      "name": "세븐일레븐 고흥등암점",
+      "address": "전라남도 고흥군 고흥읍 등암리 167-2",
+      "roadAddress": "전라남도 고흥군 고흥읍 고흥로 1647-3",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-03"
+    },
+    {
+      "name": "고흥남계메디컬점",
+      "address": "전라남도 고흥군 고흥읍 남계리 1035 남계메디컬빌딩",
+      "roadAddress": "전라남도 고흥군 고흥읍 고흥군청로 33, 남계메디컬빌딩 1층 106호",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-24"
+    },
+    {
+      "name": "지에스25 고흥빅리치점",
+      "address": "전라남도 고흥군 고흥읍 남계리 1047 빅 리치타워 104호",
+      "roadAddress": "전라남도 고흥군 고흥읍 터미널길 13, 빅 리치타워",
+      "status": "영업/정상",
+      "licenseDate": "2023-01-10"
+    },
+    {
+      "name": "365마트 얌키트",
+      "address": "전라남도 고흥군 과역면 과역리 408-3",
+      "roadAddress": "전라남도 고흥군 과역면 고흥로 3007-2, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2023-02-07"
+    },
+    {
+      "name": "팔영농협협동조합",
+      "address": "전라남도 고흥군 과역면 과역리 73",
+      "roadAddress": "전라남도 고흥군 과역면 고흥로 2978",
+      "status": "영업/정상",
+      "licenseDate": "2023-04-06"
+    },
+    {
+      "name": "팔영농협하나로마트",
+      "address": "전라남도 고흥군 과역면 과역리 73",
+      "roadAddress": "전라남도 고흥군 과역면 고흥로 2978",
+      "status": "영업/정상",
+      "licenseDate": "2023-04-06"
+    },
+    {
+      "name": "팔영농업협동조합점암지점",
+      "address": "전라남도 고흥군 점암면 모룡리 746-1 농협",
+      "roadAddress": "전라남도 고흥군 점암면 모룡길 66, 농협",
+      "status": "영업/정상",
+      "licenseDate": "2023-04-06"
+    }
+  ]
+}

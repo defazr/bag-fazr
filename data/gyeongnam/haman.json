@@ -1,0 +1,948 @@
+{
+  "region": "경상남도",
+  "regionSlug": "gyeongnam",
+  "district": "함안군",
+  "districtSlug": "haman",
+  "updatedAt": "2026-03-26",
+  "totalCount": 134,
+  "stores": [
+    {
+      "name": "마을구판장",
+      "address": "경상남도 함안군 가야읍 검암리 614-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "재령상회",
+      "address": "경상남도 함안군 함안면 북촌리 967",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙상회",
+      "address": "경상남도 함안군 함안면 봉성리 972",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신태양상회",
+      "address": "경상남도 함안군 함안면 강명리 766",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "역전상회",
+      "address": "경상남도 함안군 군북면 덕대리 14-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "아람슈퍼",
+      "address": "경상남도 함안군 군북면 덕대리 131-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-09"
+    },
+    {
+      "name": "신창슈퍼",
+      "address": "경상남도 함안군 군북면 동촌리 1288-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월성슈퍼",
+      "address": "경상남도 함안군 군북면 소포리 506",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대진상회",
+      "address": "경상남도 함안군 군북면 중암리 81-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "군북상회",
+      "address": "경상남도 함안군 군북면 중암리 86-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "석보슈퍼",
+      "address": "경상남도 함안군 군북면 중암리 85-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시장슈퍼",
+      "address": "경상남도 함안군 군북면 중암리 67",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동광당",
+      "address": "경상남도 함안군 군북면 중암리 94-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백이슈퍼",
+      "address": "경상남도 함안군 군북면 중암리 47-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지혜슈퍼",
+      "address": "경상남도 함안군 군북면 중암리 54-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안도상회",
+      "address": "경상남도 함안군 군북면 중암리 201",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경상남도 함안군 군북면 중암리 126-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나슈퍼",
+      "address": "경상남도 함안군 군북면 중암리 123",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "읍내슈퍼",
+      "address": "경상남도 함안군 군북면 월촌리 1691",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월촌농협",
+      "address": "경상남도 함안군 군북면 월촌리 1757-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "군북농협",
+      "address": "경상남도 함안군 군북면 중암리 97-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "WDC마트",
+      "address": "경상남도 함안군 군북면 덕대리 395",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대덕슈퍼",
+      "address": "경상남도 함안군 군북면 덕대리 113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정류소슈퍼",
+      "address": "경상남도 함안군 법수면 윤외리 185",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-01"
+    },
+    {
+      "name": "정류소가게",
+      "address": "경상남도 함안군 법수면 우거리 782",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-01"
+    },
+    {
+      "name": "부동정류소",
+      "address": "경상남도 함안군 법수면 윤내리 161",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-01"
+    },
+    {
+      "name": "사거리슈퍼",
+      "address": "경상남도 함안군 법수면 윤외리 177",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-01"
+    },
+    {
+      "name": "백산식육점",
+      "address": "경상남도 함안군 법수면 백산리 856",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-01"
+    },
+    {
+      "name": "윤외상회",
+      "address": "경상남도 함안군 법수면 윤외리 664-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-01"
+    },
+    {
+      "name": "학성당",
+      "address": "경상남도 함안군 대산면 구혜리 266",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "칠복상회",
+      "address": "경상남도 함안군 대산면 구혜리 243-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "경상남도 함안군 대산면 구혜리 311-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-16"
+    },
+    {
+      "name": "동네가게",
+      "address": "경상남도 함안군 대산면 평림리 389-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-23"
+    },
+    {
+      "name": "중앙상회",
+      "address": "경상남도 함안군 대산면 평림리 954",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-23"
+    },
+    {
+      "name": "학원상회",
+      "address": "경상남도 함안군 대산면 평림리 954",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "생활편의점",
+      "address": "경상남도 함안군 대산면 구혜리 335-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-26"
+    },
+    {
+      "name": "LG할인마트",
+      "address": "경상남도 함안군 대산면 평림리 1035-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "할인마트",
+      "address": "경상남도 함안군 대산면 구혜리 312-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-08"
+    },
+    {
+      "name": "칠서25시편의점",
+      "address": "경상남도 함안군 칠서면 청계리 736",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-01"
+    },
+    {
+      "name": "천일25시편의점",
+      "address": "경상남도 함안군 칠서면 청계리 678",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-01"
+    },
+    {
+      "name": "중앙상회",
+      "address": "경상남도 함안군 칠서면 이룡리 781",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-01"
+    },
+    {
+      "name": "구포리구판장",
+      "address": "경상남도 함안군 칠서면 구포리 197",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-01"
+    },
+    {
+      "name": "내내매점",
+      "address": "경상남도 함안군 칠서면 계내리 1141-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-01"
+    },
+    {
+      "name": "기공스토아",
+      "address": "경상남도 함안군 칠서면 무릉리 1058",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-01"
+    },
+    {
+      "name": "길손식당",
+      "address": "경상남도 함안군 칠서면 대치리 311",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-01"
+    },
+    {
+      "name": "신계매점",
+      "address": "경상남도 함안군 칠서면 계내리 100-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-01"
+    },
+    {
+      "name": "칠서문구",
+      "address": "경상남도 함안군 칠서면 무릉리 925-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-01"
+    },
+    {
+      "name": "신산구판장",
+      "address": "경상남도 함안군 칠서면 회산리 606",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-21"
+    },
+    {
+      "name": "남강약국칠북지정소",
+      "address": "경상남도 함안군 칠북면 검단리 1291-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-31"
+    },
+    {
+      "name": "구성슈퍼",
+      "address": "경상남도 함안군 칠원읍 구성리 853",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-01"
+    },
+    {
+      "name": "합동슈퍼",
+      "address": "경상남도 함안군 칠원읍 구성리 728",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-04"
+    },
+    {
+      "name": "유성스토아",
+      "address": "경상남도 함안군 칠원읍 구성리 897",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-04"
+    },
+    {
+      "name": "대풍농약사",
+      "address": "경상남도 함안군 가야읍 가야리 320-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-16"
+    },
+    {
+      "name": "홀세일마트",
+      "address": "경상남도 함안군 칠원읍 용산리 31-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-04"
+    },
+    {
+      "name": "트라이",
+      "address": "경상남도 함안군 칠원읍 용산리 71",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-04"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상남도 함안군 칠원읍 용산리 321-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-04"
+    },
+    {
+      "name": "마을슈퍼",
+      "address": "경상남도 함안군 칠원읍 예곡리 624",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-04"
+    },
+    {
+      "name": "일월상회",
+      "address": "경상남도 함안군 칠원읍 예곡리 707-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-04"
+    },
+    {
+      "name": "선두쇼핑",
+      "address": "경상남도 함안군 칠원읍 무기리 1131-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-04"
+    },
+    {
+      "name": "대동마트",
+      "address": "경상남도 함안군 칠원읍 무기리 878-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-04"
+    },
+    {
+      "name": "친절마트 25시",
+      "address": "경상남도 함안군 칠원읍 용산리 36-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-04"
+    },
+    {
+      "name": "석전슈퍼",
+      "address": "경상남도 함안군 칠원읍 용정리 167",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-04"
+    },
+    {
+      "name": "25시 슈퍼",
+      "address": "경상남도 함안군 칠원읍 예곡리 437-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-04"
+    },
+    {
+      "name": "은광상회",
+      "address": "경상남도 함안군 칠원읍 유원리 425",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-04"
+    },
+    {
+      "name": "대풍슈퍼",
+      "address": "경상남도 함안군 칠원읍 구성리 561 대륭빌라상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-04"
+    },
+    {
+      "name": "수정그린슈퍼",
+      "address": "경상남도 함안군 칠원읍 예곡리 409",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-28"
+    },
+    {
+      "name": "럭키마트",
+      "address": "경상남도 함안군 칠원읍 구성리 665-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-09"
+    },
+    {
+      "name": "송정동 구판장",
+      "address": "경상남도 함안군 산인면 송정리 491",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-04"
+    },
+    {
+      "name": "근하슈퍼",
+      "address": "경상남도 함안군 산인면 송정리 471-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼광상회",
+      "address": "경상남도 함안군 산인면 송정리 1061-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경상남도 함안군 산인면 송정리 446",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "학산마트방",
+      "address": "경상남도 함안군 산인면 송정리 1001-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청암구멍가게",
+      "address": "경상남도 함안군 여항면 외암리 705 1통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "별천구멍가게",
+      "address": "경상남도 함안군 여항면 주동리 353 7통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대산구멍가게",
+      "address": "경상남도 함안군 여항면 주서리 237 10통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-07"
+    },
+    {
+      "name": "영일슈퍼",
+      "address": "경상남도 함안군 가야읍 말산리 408-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "대진슈퍼",
+      "address": "경상남도 함안군 가야읍 검암리 960",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "우주상회",
+      "address": "경상남도 함안군 가야읍 말산리 238-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "민아슈퍼",
+      "address": "경상남도 함안군 가야읍 말산리 457-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "조양슈퍼",
+      "address": "경상남도 함안군 가야읍 도항리 96",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "아람슈퍼",
+      "address": "경상남도 함안군 가야읍 말산리 460-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "공동수도점방",
+      "address": "경상남도 함안군 가야읍 말산리 500-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "쌀집슈퍼",
+      "address": "경상남도 함안군 가야읍 말산리 462-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "원동상회",
+      "address": "경상남도 함안군 가야읍 도항리 454-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상남도 함안군 가야읍 말산리 422-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "아라슈퍼",
+      "address": "경상남도 함안군 가야읍 말산리 484-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "동신슈퍼",
+      "address": "경상남도 함안군 가야읍 도항리 224-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "또또슈퍼",
+      "address": "경상남도 함안군 가야읍 도항리 198",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "함안집수리설비",
+      "address": "경상남도 함안군 가야읍 말산리 452-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "풍미당",
+      "address": "경상남도 함안군 가야읍 말산리 463-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "한마음슈퍼",
+      "address": "경상남도 함안군 가야읍 말산리 461-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-21"
+    },
+    {
+      "name": "시장슈퍼",
+      "address": "경상남도 함안군 가야읍 말산리 470-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가야농협연쇄점",
+      "address": "경상남도 함안군 가야읍 말산리 414-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "성진슈퍼",
+      "address": "경상남도 함안군 가야읍 검암리 535-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "우시장정류소",
+      "address": "경상남도 함안군 가야읍 도항리 101-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "함주슈퍼",
+      "address": "경상남도 함안군 가야읍 말산리 237",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "은하슈퍼",
+      "address": "경상남도 함안군 가야읍 검암리 587",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "양포리장댁",
+      "address": "경상남도 함안군 가야읍 산서리 575-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "마을가게",
+      "address": "경상남도 함안군 가야읍 산서리 575-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "중검동담배판매소",
+      "address": "경상남도 함안군 가야읍 검암리 529-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "남선슈퍼",
+      "address": "경상남도 함안군 가야읍 도항리 남선하이트아파트 B동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "재호집",
+      "address": "경상남도 함안군 가야읍 말산리 54-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "한진슈퍼렛",
+      "address": "경상남도 함안군 칠서면 용성리 30-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가야24시편의점",
+      "address": "경상남도 함안군 가야읍 말산리 138-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "남경슈퍼",
+      "address": "경상남도 함안군 가야읍 말산리 53-4 한진빌라101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가야할인마트",
+      "address": "경상남도 함안군 가야읍 도항리 121-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "훼미리마트함안가야점",
+      "address": "경상남도 함안군 가야읍 말산리 454-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "고려슈퍼",
+      "address": "경상남도 함안군 가야읍 도항리 287-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "킹스할인클럽",
+      "address": "경상남도 함안군 가야읍 말산리 58-58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "신원슈퍼마켓",
+      "address": "경상남도 함안군 가야읍 말산리 517",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-12"
+    },
+    {
+      "name": "천일슈퍼",
+      "address": "경상남도 함안군 가야읍 말산리 58-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-24"
+    },
+    {
+      "name": "검암슈퍼",
+      "address": "경상남도 함안군 가야읍 검암리 526-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-13"
+    },
+    {
+      "name": "코사마트가야점",
+      "address": "경상남도 함안군 가야읍 말산리 138-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-24"
+    },
+    {
+      "name": "아라문구",
+      "address": "경상남도 함안군 가야읍 말산리 239",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-17"
+    },
+    {
+      "name": "우시장슈퍼",
+      "address": "경상남도 함안군 가야읍 도항리 97-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-21"
+    },
+    {
+      "name": "도화동구판장",
+      "address": "경상남도 함안군 가야읍 산서리 684-929",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-30"
+    },
+    {
+      "name": "명진슈퍼",
+      "address": "경상남도 함안군 가야읍 도항리 149-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "오뚜기슈퍼",
+      "address": "경상남도 함안군 가야읍 검암리 953-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "대송가게",
+      "address": "경상남도 함안군 가야읍 말산리 151-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "만복상회",
+      "address": "경상남도 함안군 가야읍 말산리 470-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "전원슈퍼",
+      "address": "경상남도 함안군 가야읍 말산리 58-113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "축협판매장",
+      "address": "경상남도 함안군 가야읍 말산리 170",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "해동슈퍼",
+      "address": "경상남도 함안군 가야읍 말산리 447-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경상남도 함안군 가야읍 말산리 457-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "가야슈퍼",
+      "address": "경상남도 함안군 가야읍 말산리 142-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "강남상회",
+      "address": "경상남도 함안군 가야읍 말산리 464",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "당산연쇄점",
+      "address": "경상남도 함안군 가야읍 도항리 148",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "명진슈퍼",
+      "address": "경상남도 함안군 가야읍 도항리 149-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "옥창슈퍼",
+      "address": "경상남도 함안군 가야읍 말산리 464-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "경주상회",
+      "address": "경상남도 함안군 가야읍 도항리 78-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "금성슈퍼",
+      "address": "경상남도 함안군 가야읍 말산리 412-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "코사마트",
+      "address": "경상남도 함안군 가야읍 말산리 177",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-02"
+    },
+    {
+      "name": "신영슈퍼",
+      "address": "경상남도 함안군 가야읍 말산리 203-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    },
+    {
+      "name": "마을상점",
+      "address": "경상남도 함안군 가야읍 도항리 69-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-03"
+    }
+  ]
+}

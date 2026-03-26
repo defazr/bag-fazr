@@ -1,0 +1,752 @@
+{
+  "region": "전라남도",
+  "regionSlug": "jeonnam",
+  "district": "무안군",
+  "districtSlug": "muan",
+  "updatedAt": "2026-03-26",
+  "totalCount": 106,
+  "stores": [
+    {
+      "name": "무안읍사무소",
+      "address": "전라남도 무안군 무안읍 성내리 191",
+      "roadAddress": "전라남도 무안군 무안읍 성내1길 2",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "일로읍사무소",
+      "address": "전라남도 무안군 일로읍 월암리 214-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "삼향면사무소",
+      "address": "전라남도 무안군 삼향읍 임성리 1132-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "몽탄면사무소",
+      "address": "전라남도 무안군 몽탄면 사천리 1017",
+      "roadAddress": "전라남도 무안군 몽탄면 몽탄로 862",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "청계면사무소",
+      "address": "전라남도 무안군 청계면 도림리 489-5 청계면사무소",
+      "roadAddress": "전라남도 무안군 청계면 영산로 1701-8, 청계면사무소",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "현경면사무소",
+      "address": "전라남도 무안군 현경면 외반리 567",
+      "roadAddress": "전라남도 무안군 현경면 현해로 84",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "망운면사무소",
+      "address": "전라남도 무안군 망운면 목동리 504-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "해제면사무소",
+      "address": "전라남도 무안군 해제면 신정리 18-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "운남면사무소",
+      "address": "전라남도 무안군 운남면 연리 406-64",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "오번수퍼",
+      "address": "전라남도 무안군 일로읍 월암리 90",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일로수퍼",
+      "address": "전라남도 무안군 일로읍 월암리 186-220",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "목포천막사",
+      "address": "전라남도 무안군 일로읍 월암리 121-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진흥수퍼",
+      "address": "전라남도 무안군 일로읍 월암리 111",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다정수퍼",
+      "address": "전라남도 무안군 일로읍 월암리 362",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "역전상회",
+      "address": "전라남도 무안군 일로읍 월암리 186",
+      "roadAddress": "전라남도 무안군 일로읍 일로중앙로 3-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일로가축병원",
+      "address": "전라남도 무안군 일로읍 월암리 186-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가야수퍼",
+      "address": "전라남도 무안군 일로읍 월암리 207-51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일로부동산",
+      "address": "전라남도 무안군 일로읍 월암리 193-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금성수퍼",
+      "address": "전라남도 무안군 일로읍 월암리 207-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현경철물점",
+      "address": "전라남도 무안군 현경면 외반리 549-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바다회집",
+      "address": "전라남도 무안군 현경면 오류리 809",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소비자쇼핑",
+      "address": "전라남도 무안군 현경면 외반리 571-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙수퍼",
+      "address": "전라남도 무안군 현경면 외반리 539",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운남문구사",
+      "address": "전라남도 무안군 운남면 연리 406-58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문화수퍼",
+      "address": "전라남도 무안군 운남면 연리 408-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일수퍼",
+      "address": "전라남도 무안군 운남면 연리 410-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운남수퍼",
+      "address": "전라남도 무안군 운남면 연리 410-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영수퍼",
+      "address": "전라남도 무안군 운남면 연리 406-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다래기식품",
+      "address": "전라남도 무안군 운남면 연리 774-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성신수퍼",
+      "address": "전라남도 무안군 몽탄면 사천리 34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물상회",
+      "address": "전라남도 무안군 몽탄면 사천리 1026",
+      "roadAddress": "전라남도 무안군 몽탄면 몽탄로 864",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "몽탄식육점",
+      "address": "전라남도 무안군 몽탄면 사천리 34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리수퍼",
+      "address": "전라남도 무안군 몽탄면 사천리 135",
+      "roadAddress": "전라남도 무안군 몽탄면 몽탄로 897",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청신상회",
+      "address": "전라남도 무안군 몽탄면 구산리 562",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "몽탄우체국",
+      "address": "전라남도 무안군 몽탄면 구산리 735",
+      "roadAddress": "전라남도 무안군 몽탄면 몽탄로 848",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청계상회",
+      "address": "전라남도 무안군 청계면 청계리 252",
+      "roadAddress": "전라남도 무안군 청계면 원청계길 43-8",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소비자협동조합",
+      "address": "전라남도 무안군 해제면 양매리 922-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대흥상회",
+      "address": "전라남도 무안군 해제면 양매리 864-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신마트",
+      "address": "전라남도 무안군 해제면 신정리 137-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해제수퍼",
+      "address": "전라남도 무안군 해제면 신정리 176-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신정수퍼",
+      "address": "전라남도 무안군 해제면 신정리 175",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥수퍼",
+      "address": "전라남도 무안군 해제면 신정리 125-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "터미널수퍼",
+      "address": "전라남도 무안군 해제면 신정리 125-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "귀빈수퍼",
+      "address": "전라남도 무안군 해제면 신정리 130-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리상회",
+      "address": "전라남도 무안군 해제면 신정리 489",
+      "roadAddress": "전라남도 무안군 해제면 응양길 22",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송계상회",
+      "address": "전라남도 무안군 해제면 송석리 144",
+      "roadAddress": "전라남도 무안군 해제면 만송로 975-3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해제농협연쇄점",
+      "address": "전라남도 무안군 해제면 신정리 19-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정은수퍼",
+      "address": "전라남도 무안군 해제면 양매리 862-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동부부식",
+      "address": "전라남도 무안군 해제면 양매리 866-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "털보부식",
+      "address": "전라남도 무안군 해제면 양매리 921-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대장식",
+      "address": "전라남도 무안군 해제면 신정리 7-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정원문구",
+      "address": "전라남도 무안군 해제면 양매리 895-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해제우체국",
+      "address": "전라남도 무안군 해제면 양매리 914-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시온상회",
+      "address": "전라남도 무안군 해제면 신정리 88",
+      "roadAddress": "전라남도 무안군 해제면 현해로 1738-15",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종월촌상회",
+      "address": "전라남도 무안군 삼향읍 임성리 859",
+      "roadAddress": "전라남도 무안군 삼향읍 종월길 42-2",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "임성수퍼",
+      "address": "전라남도 무안군 삼향읍 임성리 843",
+      "roadAddress": "전라남도 무안군 삼향읍 종월길 39-18",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상용수퍼",
+      "address": "전라남도 무안군 삼향읍 임성리 220",
+      "roadAddress": "전라남도 무안군 삼향읍 상용길 43-5",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남악상회",
+      "address": "전라남도 무안군 삼향읍 남악리 734-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙상회",
+      "address": "전라남도 무안군 삼향읍 유교리 472",
+      "roadAddress": "전라남도 무안군 삼향읍 삼향중앙로 129-24",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평상상회",
+      "address": "전라남도 무안군 삼향읍 왕산리 201",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지산집",
+      "address": "전라남도 무안군 삼향읍 지산리 147-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청계상회",
+      "address": "전라남도 무안군 청계면 청계리 252",
+      "roadAddress": "전라남도 무안군 청계면 원청계길 43-8",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구암상회",
+      "address": "전라남도 무안군 청계면 청계리 643-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장부상회",
+      "address": "전라남도 무안군 청계면 청계리 122-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청계마트",
+      "address": "전라남도 무안군 청계면 도림리 429",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사랑채가든",
+      "address": "전라남도 무안군 청계면 도림리 489-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장터상회",
+      "address": "전라남도 무안군 청계면 도림리 789-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나로마트",
+      "address": "전라남도 무안군 청계면 도림리 466-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아름수퍼",
+      "address": "전라남도 무안군 청계면 도림리 405-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "복길상회",
+      "address": "전라남도 무안군 청계면 복길리 408-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일수퍼",
+      "address": "전라남도 무안군 청계면 도림리 471-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양촌수퍼",
+      "address": "전라남도 무안군 청계면 도림리 217",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은성마트",
+      "address": "전라남도 무안군 청계면 도림리 466",
+      "roadAddress": "전라남도 무안군 청계면 청계중앙길 3-4",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을연쇄점",
+      "address": "전라남도 무안군 청계면 도림리 489-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종합편의점",
+      "address": "전라남도 무안군 청계면 도림리 533",
+      "roadAddress": "전라남도 무안군 청계면 도림길 21-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "기능대학교",
+      "address": "전라남도 무안군 청계면 상마리 14-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대창상회",
+      "address": "전라남도 무안군 망운면 목동리 619",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정착상회",
+      "address": "전라남도 무안군 망운면 목서리 259",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "피서횟집",
+      "address": "전라남도 무안군 망운면 피서리 812",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두모수퍼",
+      "address": "전라남도 무안군 망운면 송현리 23",
+      "roadAddress": "전라남도 무안군 망운면 운해로 1201",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "망운농협연쇄점",
+      "address": "전라남도 무안군 망운면 목동리 600",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송현상회",
+      "address": "전라남도 무안군 망운면 송현리 1042",
+      "roadAddress": "전라남도 무안군 망운면 송현안길 39-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조금나루횟집",
+      "address": "전라남도 무안군 망운면 송현리 1070",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물식품점",
+      "address": "전라남도 무안군 망운면 목동리 616-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성원수퍼",
+      "address": "전라남도 무안군 무안읍 성내리 131",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해태마트",
+      "address": "전라남도 무안군 무안읍 성내리 153",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유창수퍼",
+      "address": "전라남도 무안군 무안읍 성남리 184-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리수퍼",
+      "address": "전라남도 무안군 무안읍 성동리 661-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이천수퍼",
+      "address": "전라남도 무안군 무안읍 성동리 846-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "승달수퍼",
+      "address": "전라남도 무안군 무안읍 성남리 144",
+      "roadAddress": "전라남도 무안군 무안읍 성남2길 20",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰수퍼",
+      "address": "전라남도 무안군 무안읍 성남리 133-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "전라남도 무안군 무안읍 성남리 49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시온마트",
+      "address": "전라남도 무안군 무안읍 성남리 28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수퍼마켓",
+      "address": "전라남도 무안군 무안읍 교촌리 79-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대창수퍼",
+      "address": "전라남도 무안군 무안읍 성동리 872",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장안수퍼",
+      "address": "전라남도 무안군 무안읍 성남리 813-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금광부식",
+      "address": "전라남도 무안군 무안읍 교촌리 66-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴스마트",
+      "address": "전라남도 무안군 무안읍 성남리 813-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나로마트",
+      "address": "전라남도 무안군 무안읍 성남리 17-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무안농협",
+      "address": "전라남도 무안군 무안읍 성내리 173-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초당마트",
+      "address": "전라남도 무안군 무안읍 성남리 383-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서라마트",
+      "address": "전라남도 무안군 무안읍 성남리 811-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼향면사무소",
+      "address": "전라남도 무안군 삼향읍 임성리 1132-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-01"
+    },
+    {
+      "name": "무안군상하수도사업소",
+      "address": "전라남도 무안군 무안읍 성동리 1056-1",
+      "roadAddress": "전라남도 무안군 무안읍 영산로 3061-60",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-06"
+    },
+    {
+      "name": "무안군청(산림환경과)",
+      "address": "전라남도 무안군 무안읍 성동리 712",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-01"
+    },
+    {
+      "name": "무안군(보건소)",
+      "address": "전라남도 무안군 무안읍 성동리 712",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-29"
+    }
+  ]
+}

@@ -1,0 +1,4336 @@
+{
+  "region": "경기도",
+  "regionSlug": "gyeonggi",
+  "district": "안성시",
+  "districtSlug": "anseong",
+  "updatedAt": "2026-03-26",
+  "totalCount": 618,
+  "stores": [
+    {
+      "name": "금화마트",
+      "address": "경기도 안성시 미양면 갈전리 240-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-04"
+    },
+    {
+      "name": "안동슈퍼",
+      "address": "경기도 안성시 봉산동 12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "개산슈퍼",
+      "address": "경기도 안성시 봉산동 395-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "봉산슈퍼",
+      "address": "경기도 안성시 봉산동 69",
+      "roadAddress": "경기도 안성시 낙원길 182  (봉산동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "이천슈퍼",
+      "address": "경기도 안성시 봉산동 33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "현철슈퍼",
+      "address": "경기도 안성시 봉산동 40",
+      "roadAddress": "경기도 안성시 월덕천길 1-8  (봉산동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "한주슈퍼",
+      "address": "경기도 안성시 봉산동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "희망슈퍼",
+      "address": "경기도 안성시 봉산동 334",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "봉남미니슈퍼",
+      "address": "경기도 안성시 봉산동 8-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "심흥섭노점",
+      "address": "경기도 안성시 봉산동 353",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "스타세탁소",
+      "address": "경기도 안성시 영동 39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "하아퍼마켓",
+      "address": "경기도 안성시 숭인동 88",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "숭인상회",
+      "address": "경기도 안성시 숭인동 41",
+      "roadAddress": "경기도 안성시 중앙6길 56  (숭인동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "보나슈퍼",
+      "address": "경기도 안성시 동본동 577",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "구포슈퍼",
+      "address": "경기도 안성시 구포동 48",
+      "roadAddress": "경기도 안성시 중앙6길 31  (구포동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "진학슈퍼",
+      "address": "경기도 안성시 명륜동 172-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "상가 101호",
+      "address": "경기도 안성시 낙원동 68-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "삼보슈퍼",
+      "address": "경기도 안성시 낙원동 403-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "유웅슈퍼",
+      "address": "경기도 안성시 낙원동 400-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "낙원슈퍼",
+      "address": "경기도 안성시 낙원동 68-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "옥천슈퍼",
+      "address": "경기도 안성시 옥천동 12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동성슈퍼",
+      "address": "경기도 안성시 옥천동 241",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "마을슈퍼",
+      "address": "경기도 안성시 성남동 159",
+      "roadAddress": "경기도 안성시 장기2길 73  (성남동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "야고버슈퍼",
+      "address": "경기도 안성시 성남동 238-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "성남상회",
+      "address": "경기도 안성시 성남동 144",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "경기도 안성시 성남동 176",
+      "roadAddress": "경기도 안성시 장기로92번길 18  (성남동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "롯데슈퍼",
+      "address": "경기도 안성시 낙원동 609-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "명륜슈퍼",
+      "address": "경기도 안성시 명륜동 172-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "안전상회",
+      "address": "경기도 안성시 영동 414-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "지은슈퍼마켓",
+      "address": "경기도 안성시 봉남동 321-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 공도읍 중복리 499",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 공도읍 승두리 649",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "경기도 안성시 공도읍 승두리 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "진등상회",
+      "address": "경기도 안성시 공도읍 신두리 598-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 공도읍 중복리 199",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 공도읍 마정리 444",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 공도읍 신두리 709-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "진사가게",
+      "address": "경기도 안성시 공도읍 진사리 156",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "진사가게",
+      "address": "경기도 안성시 공도읍 양기리 263",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 공도읍 웅교리 산 109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 공도읍 웅교리 산 35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 공도읍 만정리 353-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 공도읍 만정리 581",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 공도읍 진사리 산 4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 공도읍 신두리 418-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "신동상회",
+      "address": "경기도 안성시 공도읍 만정리 424",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "광재당약방",
+      "address": "경기도 안성시 공도읍 만정리 424",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "신성쌀상회",
+      "address": "경기도 안성시 공도읍 만정리 425",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "사철휴게소",
+      "address": "경기도 안성시 공도읍 마정리 318",
+      "roadAddress": "경기도 안성시 공도읍 하마정길 84-5",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "대림상회",
+      "address": "경기도 안성시 공도읍 마정리 356",
+      "roadAddress": "경기도 안성시 공도읍 상마정길 31-14",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "도영상회",
+      "address": "경기도 안성시 공도읍 만정리 83",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 공도읍 만정리 427",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "공도농협",
+      "address": "경기도 안성시 공도읍 승두리 60",
+      "roadAddress": "경기도 안성시 공도읍 고무다리길 13-15",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경기도 안성시 공도읍 마정리 100-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경기도 안성시 공도읍 승두리 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 공도읍 양기리 산 44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 공도읍 건천리 420",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 공도읍 마정리 94",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "명성슈퍼",
+      "address": "경기도 안성시 공도읍 만정리 427-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "홍성슈퍼",
+      "address": "경기도 안성시 공도읍 웅교리 321",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "소망전기만물",
+      "address": "경기도 안성시 공도읍 만정리 387",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 공도읍 승두리 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "한국24시슈퍼",
+      "address": "경기도 안성시 봉남동 365",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안성종합장식",
+      "address": "경기도 안성시 석정동 5-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "연금매점",
+      "address": "경기도 안성시 영동 410",
+      "roadAddress": "경기도 안성시 중앙로 430  (영동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "중앙슈퍼문구",
+      "address": "경기도 안성시 석정동 333",
+      "roadAddress": "경기도 안성시 비룡5길 14  (석정동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "용일슈퍼",
+      "address": "경기도 안성시 옥천동 4-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "동방건재",
+      "address": "경기도 안성시 영동 4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "안성프라임마트",
+      "address": "경기도 안성시 석정동 254-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "금송슈퍼",
+      "address": "경기도 안성시 인지동 111",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "금광슈퍼",
+      "address": "경기도 안성시 인지동 352-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "경기도 안성시 인지동 5",
+      "roadAddress": "경기도 안성시 안성맞춤대로 1033  (인지동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "한강슈퍼",
+      "address": "경기도 안성시 신흥동 207-89",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "대우슈퍼",
+      "address": "경기도 안성시 신흥동 22-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "남매슈퍼",
+      "address": "경기도 안성시 신흥동 112-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "석정슈퍼",
+      "address": "경기도 안성시 석정동 278-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "연옥슈퍼",
+      "address": "경기도 안성시 석정동 9-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "관리사무소",
+      "address": "경기도 안성시 석정동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "조규인상회",
+      "address": "경기도 안성시 석정동 326",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "농협석정지소",
+      "address": "경기도 안성시 석정동 339",
+      "roadAddress": "경기도 안성시 중앙로 335  (석정동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "안성농협",
+      "address": "경기도 안성시 석정동 286-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "옥산부녀회",
+      "address": "경기도 안성시 옥산동 138-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "복지공단분점",
+      "address": "경기도 안성시 아양동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "주공슈퍼",
+      "address": "경기도 안성시 아양동 300",
+      "roadAddress": "경기도 안성시 아양로 23  (아양동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "한일유통",
+      "address": "경기도 안성시 아양동 300",
+      "roadAddress": "경기도 안성시 아양로 23  (아양동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "도기슈퍼",
+      "address": "경기도 안성시 도기동 363",
+      "roadAddress": "경기도 안성시 도구머리길 50  (도기동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경기도 안성시 도기동 544-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "경기슈퍼",
+      "address": "경기도 안성시 아양동 286-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "안성공판장",
+      "address": "경기도 안성시 서인동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "행복슈퍼",
+      "address": "경기도 안성시 서인동 69",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "안성종합슈퍼",
+      "address": "경기도 안성시 인지동 449-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "안성여자기능대학매점",
+      "address": "경기도 안성시 공도읍 만정리 349-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "형제유통",
+      "address": "경기도 안성시 공도읍 승두리 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "대림슈퍼",
+      "address": "경기도 안성시 공도읍 마정리 45-113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "두리식품",
+      "address": "경기도 안성시 공도읍 진사리 53-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경기도 안성시 공도읍 진사리 산 53-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "태산공판장",
+      "address": "경기도 안성시 공도읍 용두리 682-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "현대할인마트",
+      "address": "경기도 안성시 공도읍 진사리 산 52 주은청설(아) B동 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "21세기할인마트",
+      "address": "경기도 안성시 공도읍 진사리 우림(아) 지하상가 6-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "알뜰프라자",
+      "address": "경기도 안성시 공도읍 진사리 주은청설(아) 상가 B동 108호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "대명미니슈퍼",
+      "address": "경기도 안성시 공도읍 마정리 45-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "쏘리마트공도점",
+      "address": "경기도 안성시 공도읍 진사리 주은청설(아) 상가 B동 110호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "공도할인마트",
+      "address": "경기도 안성시 공도읍 용두리 158-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "부영마트",
+      "address": "경기도 안성시 공도읍 만정리 328-12 부영아파트 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "베르빌이마트",
+      "address": "경기도 안성시 공도읍 마정리 561 베르빌아파트상가 202",
+      "roadAddress": "경기도 안성시 공도읍 장미길 32  (베르빌아파트상가 202)",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "쏘리마트송정점",
+      "address": "경기도 안성시 공도읍 양기리 567-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "한세유통",
+      "address": "경기도 안성시 공도읍 만정리 422",
+      "roadAddress": "경기도 안성시 공도읍 승두길 43-7",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "(주)성경마트",
+      "address": "경기도 안성시 공도읍 진사리 37-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "주은풍림임대아파트 관리사무소",
+      "address": "경기도 안성시 공도읍 용두리 752",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "소비자유통",
+      "address": "경기도 안성시 공도읍 용두리 주은풍림 A상가 752",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "풍림공판장",
+      "address": "경기도 안성시 공도읍 용두리 주은풍림 A상가 111",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경기도 안성시 원곡면 외가천리 상가전",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "일죽농협",
+      "address": "경기도 안성시 일죽면 송천리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "신로슈퍼",
+      "address": "경기도 안성시 일죽면 송천리 245-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "나인슈퍼",
+      "address": "경기도 안성시 일죽면 송천리 15-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "일죽공판장",
+      "address": "경기도 안성시 일죽면 송천리 13-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "중앙할일마트",
+      "address": "경기도 안성시 일죽면 송천리 4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "죽산농협",
+      "address": "경기도 안성시 죽산면 죽산리 473-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "신흥상회",
+      "address": "경기도 안성시 죽산면 죽산리 중부",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "천계상회",
+      "address": "경기도 안성시 죽산면 장계리 237-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "경기도 안성시 인지동 111",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "경화슈퍼",
+      "address": "경기도 안성시 신흥동 220-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "안성종합장식",
+      "address": "경기도 안성시 석정동 5-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "ok 아동복",
+      "address": "경기도 안성시 서인동 13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "대동슈퍼",
+      "address": "경기도 안성시 서인동 103",
+      "roadAddress": "경기도 안성시 시장길 6  (서인동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "중앙슈퍼문구",
+      "address": "경기도 안성시 석정동 333",
+      "roadAddress": "경기도 안성시 비룡5길 14  (석정동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "비옥상회",
+      "address": "경기도 안성시 도기동 358-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "아야복지공판점",
+      "address": "경기도 안성시 아양동 300",
+      "roadAddress": "경기도 안성시 아양로 23  (아양동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "오거리상공회사",
+      "address": "경기도 안성시 연지동 22",
+      "roadAddress": "경기도 안성시 중앙7길 1  (연지동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "홍진철물",
+      "address": "경기도 안성시 연지동 120",
+      "roadAddress": "경기도 안성시 안성맞춤대로 1078  (연지동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "자택",
+      "address": "경기도 안성시 금산동 25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "수정슈퍼",
+      "address": "경기도 안성시 금산동 60-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "광성상회",
+      "address": "경기도 안성시 금산동 43",
+      "roadAddress": "경기도 안성시 금산1길 3  (금산동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "봉봉슈퍼",
+      "address": "경기도 안성시 금산동 100",
+      "roadAddress": "경기도 안성시 안성맞춤대로 1127  (금산동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "당왕슈퍼",
+      "address": "경기도 안성시 당왕동 115-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "금산연립슈퍼",
+      "address": "경기도 안성시 당왕동 168-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "주공슈퍼마켓",
+      "address": "경기도 안성시 금산동 100",
+      "roadAddress": "경기도 안성시 안성맞춤대로 1127  (금산동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "금산연쇄점",
+      "address": "경기도 안성시 금산동 7",
+      "roadAddress": "경기도 안성시 금산1길 11  (금산동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "동남슈퍼마켓",
+      "address": "경기도 안성시 금산동 471",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "미혜식품",
+      "address": "경기도 안성시 연지동 87",
+      "roadAddress": "경기도 안성시 중앙로389번길 46  (연지동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "대천공판장",
+      "address": "경기도 안성시 연지동 146",
+      "roadAddress": "경기도 안성시 중앙로379번길 56  (연지동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "경기도 안성시 당왕동 549-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "대경마켙",
+      "address": "경기도 안성시 당왕동 535",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "소비장유통",
+      "address": "경기도 안성시 당왕동 550-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "대우슈퍼스토어",
+      "address": "경기도 안성시 당왕동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "안성축협판매장",
+      "address": "경기도 안성시 당왕동 544",
+      "roadAddress": "경기도 안성시 대학로 71  (당왕동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "주은슈퍼",
+      "address": "경기도 안성시 금산동 81-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "보개농협",
+      "address": "경기도 안성시 가사동 79",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "하삼마을연쇄점",
+      "address": "경기도 안성시 죽산면 두현리 하삼",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "신호상회",
+      "address": "경기도 안성시 죽산면 죽산리 547-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "우리사",
+      "address": "경기도 안성시 죽산면 죽산리 433-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "마을화관연쇄점",
+      "address": "경기도 안성시 죽산면 장계리 초당",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "신광지업사",
+      "address": "경기도 안성시 죽산면 죽산리 439",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "형제상회",
+      "address": "경기도 안성시 죽산면 죽산리 434",
+      "roadAddress": "경기도 안성시 죽산면 죽주로 248",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "혜경상회",
+      "address": "경기도 안성시 죽산면 죽산리 415-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "코사마트(매곡점)",
+      "address": "경기도 안성시 죽산면 죽산리 341-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-09"
+    },
+    {
+      "name": "차부슈퍼",
+      "address": "경기도 안성시 죽산면 죽산리 123-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "경기도 안성시 죽산면 두현리 88-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "대광천막지물",
+      "address": "경기도 안성시 죽산면 죽산리 438-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "언니네가게",
+      "address": "경기도 안성시 죽산면 죽산리 410-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "중부슈퍼",
+      "address": "경기도 안성시 죽산면 장원리 427-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "협성상회",
+      "address": "경기도 안성시 죽산면 죽산리 474-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "경기도 안성시 죽산면 죽산리 433-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "(주)한일",
+      "address": "경기도 안성시 죽산면 장계리 733-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "장광낚시터",
+      "address": "경기도 안성시 죽산면 매산리 695",
+      "roadAddress": "경기도 안성시 죽산면 관앞길 103-6",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "한일공판장",
+      "address": "경기도 안성시 죽산면 죽산리 475-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "용설낚시터",
+      "address": "경기도 안성시 죽산면 용설리 26-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "칠장사매점",
+      "address": "경기도 안성시 죽산면 칠장리 736-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "오케이편의점",
+      "address": "경기도 안성시 죽산면 장원리 787-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "LG슈퍼공판장",
+      "address": "경기도 안성시 죽산면 죽산리 435-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "코사마트",
+      "address": "경기도 안성시 죽산면 장원리 산 52 GF다빈치A 상가 104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "바로코사",
+      "address": "경기도 안성시 죽산면 죽산리 104-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "하나마트",
+      "address": "경기도 안성시 죽산면 죽산리 131-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "지에프유통",
+      "address": "경기도 안성시 죽산면 장원리 산 52 지에프아파트 상가내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "두리슈퍼",
+      "address": "경기도 안성시 죽산면 죽산리 427-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "삼죽농협주유소",
+      "address": "경기도 안성시 삼죽면 덕산리 810 외3필지",
+      "roadAddress": "경기도 안성시 삼죽면 삼백로 9  (외3필지)",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "마을가게",
+      "address": "경기도 안성시 삼죽면 용월리 214",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "서울상회",
+      "address": "경기도 안성시 삼죽면 진촌리 326-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "보개슈퍼",
+      "address": "경기도 안성시 가사동 125-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "가현가게",
+      "address": "경기도 안성시 가현동 40",
+      "roadAddress": "경기도 안성시 벌가터길 61  (가현동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "준희슈퍼",
+      "address": "경기도 안성시 가현동 150",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "담배가게",
+      "address": "경기도 안성시 보개면 동신리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "광혜슈퍼",
+      "address": "경기도 안성시 보개면 동신리 95",
+      "roadAddress": "경기도 안성시 보개면 구송동길 1",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "양협슈퍼",
+      "address": "경기도 안성시 보개면 양복리 907",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "담배가게",
+      "address": "경기도 안성시 보개면 기좌리 180-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "삼거리휴게소",
+      "address": "경기도 안성시 보개면 가율리 129",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "마을구판장",
+      "address": "경기도 안성시 보개면 적가리 332",
+      "roadAddress": "경기도 안성시 보개면 절가리길 45",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "담배가게",
+      "address": "경기도 안성시 보개면 신장리 198",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "마을구판장",
+      "address": "경기도 안성시 보개면 동평리 264",
+      "roadAddress": "경기도 안성시 보개면 동양길 64",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "담배가게",
+      "address": "경기도 안성시 보개면 북가현리 142",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "이전리마을회관",
+      "address": "경기도 안성시 보개면 적가리 345",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "송동슈퍼",
+      "address": "경기도 안성시 보개면 동신리 91",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "금광농협",
+      "address": "경기도 안성시 금광면 금광리 94",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "개산지소농협",
+      "address": "경기도 안성시 금광면 개산리 184-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "중리상회",
+      "address": "경기도 안성시 중리동 195",
+      "roadAddress": "경기도 안성시 중리1길 90  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "서운농협",
+      "address": "경기도 안성시 서운면 신촌리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "슈퍼상회",
+      "address": "경기도 안성시 미양면 양지리 186-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "현대화연쇄점",
+      "address": "경기도 안성시 미양면 양지리 212-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "연흥슈퍼",
+      "address": "경기도 안성시 미양면 계륵리 272-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "공단편의점",
+      "address": "경기도 안성시 미양면 계륵리 271-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "미양농업협동조합",
+      "address": "경기도 안성시 미양면 양지리 90-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "미양농협개정지소",
+      "address": "경기도 안성시 미양면 개정리 303-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "서고미니슈퍼",
+      "address": "경기도 안성시 대덕면 죽리 133",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "서광상회",
+      "address": "경기도 안성시 대덕면 건지리 429-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "담배가게",
+      "address": "경기도 안성시 대덕면 소현리 412-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "신일슈퍼",
+      "address": "경기도 안성시 대덕면 소현리 408",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "풍곡담배판매소",
+      "address": "경기도 안성시 삼죽면 율곡리 810",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "평화상회",
+      "address": "경기도 안성시 삼죽면 용월리 466",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 삼죽면 용월리 22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 삼죽면 덕산리 436",
+      "roadAddress": "경기도 안성시 삼죽면 꺽지길 10-5",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 삼죽면 내강리 364-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 삼죽면 덕산리 1416",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 삼죽면 내강리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 삼죽면 내장리 262",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "덕산낚시터관리소",
+      "address": "경기도 안성시 삼죽면 배태리 76-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "장항마을슈퍼",
+      "address": "경기도 안성시 삼죽면 미장리 344-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "화랑새마을금고",
+      "address": "경기도 안성시 삼죽면 마전리 39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 삼죽면 내장리 178",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "마전슈퍼",
+      "address": "경기도 안성시 삼죽면 마전리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 삼죽면 율곡리 62",
+      "roadAddress": "경기도 안성시 삼죽면 밤고개안길 155-6",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "신미상회",
+      "address": "경기도 안성시 삼죽면 미장리 113",
+      "roadAddress": "경기도 안성시 삼죽면 신미1길 108",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "부림관광농원",
+      "address": "경기도 안성시 삼죽면 마전리 76",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "남산휴게소",
+      "address": "경기도 안성시 삼죽면 진촌리 423-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "동아24편의점",
+      "address": "경기도 안성시 삼죽면 진촌리 559-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "가나할인마트",
+      "address": "경기도 안성시 삼죽면 진촌리 559-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "장항매점",
+      "address": "경기도 안성시 삼죽면 미장리 4511-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "느티나무집",
+      "address": "경기도 안성시 고삼면 월향리 531",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "최고상회",
+      "address": "경기도 안성시 고삼면 월향리 277",
+      "roadAddress": "경기도 안성시 고삼면 향림길 6-6",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 고삼면 쌍지리 932-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 고삼면 삼은리 243",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "평촌구판장",
+      "address": "경기도 안성시 고삼면 대갈리 236",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "하갈판매소",
+      "address": "경기도 안성시 고삼면 대갈리 581",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "신창리부녀회",
+      "address": "경기도 안성시 고삼면 신창리 222",
+      "roadAddress": "경기도 안성시 고삼면 창말길 41-4",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 고삼면 신창리 378",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "상가부녀회",
+      "address": "경기도 안성시 고삼면 가유리 652",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 고삼면 가유리 21-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 고삼면 가유리 323-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-05"
+    },
+    {
+      "name": "농산물유통",
+      "address": "경기도 안성시 대덕면 건지리 540-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 안성시 대덕면 소현리 412-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "새마을지도자",
+      "address": "경기도 안성시 대덕면 건지리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "대림석정상회",
+      "address": "경기도 안성시 대덕면 건지리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "중앙대학교",
+      "address": "경기도 안성시 대덕면 내리 40-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "강남슈퍼",
+      "address": "경기도 안성시 대덕면 모산리 534-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "대덕농협조합",
+      "address": "경기도 안성시 대덕면 건지리 3-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "동일사원슈퍼",
+      "address": "경기도 안성시 대덕면 소현리 406-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "대덕공판장",
+      "address": "경기도 안성시 대덕면 죽리 149",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "초롱슈퍼",
+      "address": "경기도 안성시 대덕면 모산리 474",
+      "roadAddress": "경기도 안성시 대덕면 모산로 84-2",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "신라마트",
+      "address": "경기도 안성시 대덕면 내리 675",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "경기도 안성시 대덕면 내리 163-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "제일상회",
+      "address": "경기도 안성시 양성면 동항리 393-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "불당구판장",
+      "address": "경기도 안성시 공도읍 불당리 99",
+      "roadAddress": "경기도 안성시 공도읍 불당길 57-8",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "동웅교구판장",
+      "address": "경기도 안성시 공도읍 웅교리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "서웅교구판장",
+      "address": "경기도 안성시 공도읍 웅교리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "부녀회장",
+      "address": "경기도 안성시 공도읍 신두리 180",
+      "roadAddress": "경기도 안성시 공도읍 대신두안길 7-3",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "소신두구판장",
+      "address": "경기도 안성시 공도읍 신두리 301",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "부녀회장",
+      "address": "경기도 안성시 공도읍 용두리 322",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 공도읍 용두리 279",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "진흥슈퍼",
+      "address": "경기도 안성시 공도읍 용두리 321",
+      "roadAddress": "경기도 안성시 공도읍 용머리길 97-2",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "만정슈퍼",
+      "address": "경기도 안성시 공도읍 승두리 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "삼광당",
+      "address": "경기도 안성시 공도읍 승두리 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "공도가스",
+      "address": "경기도 안성시 공도읍 승두리 78",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "공도슈퍼",
+      "address": "경기도 안성시 공도읍 승두리 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "농협구판장",
+      "address": "경기도 안성시 공도읍 건천리 696",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "상마정구판장",
+      "address": "경기도 안성시 공도읍 마정리 355",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 공도읍 마정리 318",
+      "roadAddress": "경기도 안성시 공도읍 하마정길 84-5",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 공도읍 마정리 71",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "주은슈퍼",
+      "address": "경기도 안성시 공도읍 용두리 752",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-07"
+    },
+    {
+      "name": "인지슈퍼",
+      "address": "경기도 안성시 도기동 544-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-30"
+    },
+    {
+      "name": "대림한숲원아파트관리사무소",
+      "address": "경기도 안성시 공도읍 마정리 45-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-19"
+    },
+    {
+      "name": "장원마트",
+      "address": "경기도 안성시 죽산면 장원리 787-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-31"
+    },
+    {
+      "name": "삼부마트",
+      "address": "경기도 안성시 금산동 7-203",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-09"
+    },
+    {
+      "name": "반석IC공판장",
+      "address": "경기도 안성시 일죽면 송천리 산 31-1-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-14"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 공도읍 진사리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 공도읍 중복리 499",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 공도읍 승두리 649",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "경기도 안성시 공도읍 승두리 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "진등상회",
+      "address": "경기도 안성시 공도읍 승두리 598-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 공도읍 중복리 199",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 공도읍 마정리 444",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 공도읍 승두리 709-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "진사가게",
+      "address": "경기도 안성시 공도읍 진사리 156",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "진사가게",
+      "address": "경기도 안성시 공도읍 양기리 263",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 공도읍 웅교리 산 109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 공도읍 웅교리 산 35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 공도읍 만정리 353-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 공도읍 만정리 581",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 공도읍 진사리 산 4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 공도읍 승두리 418-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "신동상회",
+      "address": "경기도 안성시 공도읍 만정리 424",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "광재당약방",
+      "address": "경기도 안성시 공도읍 만정리 424",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "신성쌀상회",
+      "address": "경기도 안성시 공도읍 만정리 425",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "사철휴게소",
+      "address": "경기도 안성시 공도읍 마정리 318",
+      "roadAddress": "경기도 안성시 공도읍 하마정길 84-5",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "대림상회",
+      "address": "경기도 안성시 공도읍 마정리 356",
+      "roadAddress": "경기도 안성시 공도읍 상마정길 31-14",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "도영상회",
+      "address": "경기도 안성시 공도읍 만정리 83",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 공도읍 만정리 427",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "공도농협",
+      "address": "경기도 안성시 공도읍 승두리 60",
+      "roadAddress": "경기도 안성시 공도읍 고무다리길 13-15",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경기도 안성시 공도읍 마정리 100-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경기도 안성시 공도읍 용두리 135-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 공도읍 양기리 산 44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 공도읍 건천리 420",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 공도읍 마정리 94",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "명성슈퍼",
+      "address": "경기도 안성시 공도읍 만정리 427-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "홍성슈퍼",
+      "address": "경기도 안성시 공도읍 웅교리 321",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "소망전기만물",
+      "address": "경기도 안성시 공도읍 만정리 387",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 공도읍 승두리 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "안성여자기능대학매점",
+      "address": "경기도 안성시 공도읍 만정리 349-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "형제유통",
+      "address": "경기도 안성시 공도읍 승두리 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "대림슈퍼",
+      "address": "경기도 안성시 공도읍 마정리 45-113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "우림공판장",
+      "address": "경기도 안성시 공도읍 진사리 산 53-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "우림슈퍼",
+      "address": "경기도 안성시 공도읍 진사리 산 53-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경기도 안성시 공도읍 진사리 산 53-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "현대할인마트",
+      "address": "경기도 안성시 공도읍 진사리 산 52 주은청설@ B동 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "21세기할인마트",
+      "address": "경기도 안성시 공도읍 진사리 우림@ 지하상가 6-8호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "알뜰프라자",
+      "address": "경기도 안성시 공도읍 진사리 주은청설@상가 B동 108호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "대명미니슈퍼",
+      "address": "경기도 안성시 공도읍 마정리 45-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "쏘리마트",
+      "address": "경기도 안성시 공도읍 진사리 주은청설@상가 B동 110호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "공도할인마트",
+      "address": "경기도 안성시 공도읍 용두리 158-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경기도 안성시 원곡면 외가천리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경기도 안성시 일죽면 송천리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "일죽농협",
+      "address": "경기도 안성시 일죽면 송천리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "죽산농협",
+      "address": "경기도 안성시 죽산면 죽산리 473-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "신흥상회",
+      "address": "경기도 안성시 죽산면 죽산리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "천계상회",
+      "address": "경기도 안성시 죽산면 장계리 237-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "하삼마을연쇄점",
+      "address": "경기도 안성시 죽산면 두현리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "신호상회",
+      "address": "경기도 안성시 죽산면 죽산리 547-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "우리사",
+      "address": "경기도 안성시 죽산면 죽산리 433-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "마을회관연쇄점",
+      "address": "경기도 안성시 죽산면 장계리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "신광지업사",
+      "address": "경기도 안성시 죽산면 죽산리 439",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "형제상회",
+      "address": "경기도 안성시 죽산면 죽산리 434",
+      "roadAddress": "경기도 안성시 죽산면 죽주로 248",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "혜경상회",
+      "address": "경기도 안성시 죽산면 죽산리 415-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "코사마트(매곡점)",
+      "address": "경기도 안성시 죽산면 죽산리 341-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-09"
+    },
+    {
+      "name": "차부슈퍼",
+      "address": "경기도 안성시 죽산면 죽산리 123-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "경기도 안성시 죽산면 두현리 88-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "대광천막지물",
+      "address": "경기도 안성시 죽산면 죽산리 438-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "언니네가게",
+      "address": "경기도 안성시 죽산면 죽산리 410-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "중부슈퍼",
+      "address": "경기도 안성시 죽산면 장원리 427-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "협성상회",
+      "address": "경기도 안성시 죽산면 죽산리 474-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "경기도 안성시 죽산면 죽산리 433-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "(주)한일",
+      "address": "경기도 안성시 죽산면 장계리 733-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "장광낚시터",
+      "address": "경기도 안성시 죽산면 매산리 659",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "삼죽농협",
+      "address": "경기도 안성시 삼죽면 용월리 463-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "마을가게",
+      "address": "경기도 안성시 삼죽면 용월리 214",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "서울상회",
+      "address": "경기도 안성시 삼죽면 진촌리 326-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "풍곡담배판매소",
+      "address": "경기도 안성시 삼죽면 율곡리 810",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "평화상회",
+      "address": "경기도 안성시 삼죽면 용월리 466",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 삼죽면 용월리 22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 삼죽면 덕산리 436",
+      "roadAddress": "경기도 안성시 삼죽면 꺽지길 10-5",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 삼죽면 내강리 364-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 삼죽면 덕산리 1416",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 삼죽면 내강리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 삼죽면 내장리 262",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "덕산낚시터관리소",
+      "address": "경기도 안성시 삼죽면 배태리 76-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "장항마을슈퍼",
+      "address": "경기도 안성시 삼죽면 미장리 344-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "화랑새마을금고",
+      "address": "경기도 안성시 삼죽면 마전리 39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 삼죽면 내장리 178",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "마전슈퍼",
+      "address": "경기도 안성시 삼죽면 마전리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 삼죽면 율곡리 62",
+      "roadAddress": "경기도 안성시 삼죽면 밤고개안길 155-6",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "신미상회",
+      "address": "경기도 안성시 삼죽면 미장리 113",
+      "roadAddress": "경기도 안성시 삼죽면 신미1길 108",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "부림관광농원",
+      "address": "경기도 안성시 삼죽면 마전리 76",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "느티나무집",
+      "address": "경기도 안성시 고삼면 월향리 531",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "최고상회",
+      "address": "경기도 안성시 고삼면 월향리 277",
+      "roadAddress": "경기도 안성시 고삼면 향림길 6-6",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 고삼면 쌍지리 932-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 고삼면 삼은리 243",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "평촌구판장",
+      "address": "경기도 안성시 고삼면 대갈리 236",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "하갈판매소",
+      "address": "경기도 안성시 고삼면 대갈리 581",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "신창리부녀회",
+      "address": "경기도 안성시 고삼면 신창리 222",
+      "roadAddress": "경기도 안성시 고삼면 창말길 41-4",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 고삼면 신창리 378",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "상가부녀회",
+      "address": "경기도 안성시 고삼면 가유리 652",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "리장댁",
+      "address": "경기도 안성시 고삼면 가유리 21-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "고삼농협",
+      "address": "경기도 안성시 고삼면 가유리 323-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-01"
+    },
+    {
+      "name": "동아24시 편의점",
+      "address": "경기도 안성시 삼죽면 진촌리 559-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-16"
+    },
+    {
+      "name": "안동슈퍼",
+      "address": "경기도 안성시 봉산동 12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-30"
+    },
+    {
+      "name": "개산슈퍼",
+      "address": "경기도 안성시 봉산동 395-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "봉산슈퍼",
+      "address": "경기도 안성시 봉산동 69",
+      "roadAddress": "경기도 안성시 낙원길 182  (봉산동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "경기도 안성시 봉산동 45-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "이천슈퍼",
+      "address": "경기도 안성시 봉산동 33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "현철슈퍼",
+      "address": "경기도 안성시 봉산동 40",
+      "roadAddress": "경기도 안성시 월덕천길 1-8  (봉산동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "한주슈퍼",
+      "address": "경기도 안성시 봉산동 한주A상가 B-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "희망슈퍼",
+      "address": "경기도 안성시 봉산동 334",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "봉남미니슈퍼",
+      "address": "경기도 안성시 봉산동 8-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "심흥섭노점",
+      "address": "경기도 안성시 봉산동 353",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "스타세탁소",
+      "address": "경기도 안성시 영동 39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "하이퍼마켓",
+      "address": "경기도 안성시 숭인동 88",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "가나슈퍼",
+      "address": "경기도 안성시 숭인동 36-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "숭인상회",
+      "address": "경기도 안성시 숭인동 41",
+      "roadAddress": "경기도 안성시 중앙6길 56  (숭인동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "보나슈퍼",
+      "address": "경기도 안성시 동본동 577",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "구포슈퍼",
+      "address": "경기도 안성시 구포동 48",
+      "roadAddress": "경기도 안성시 중앙6길 31  (구포동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "진학슈퍼",
+      "address": "경기도 안성시 명륜동 172-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "상가 101호",
+      "address": "경기도 안성시 낙원동 68-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "삼보슈퍼",
+      "address": "경기도 안성시 낙원동 403-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "유웅슈퍼",
+      "address": "경기도 안성시 낙원동 400-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "낙원슈퍼",
+      "address": "경기도 안성시 낙원동 68-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "옥천슈퍼",
+      "address": "경기도 안성시 옥천동 12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "동성슈퍼",
+      "address": "경기도 안성시 옥천동 241",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "옥천다리슈퍼",
+      "address": "경기도 안성시 옥천동 1-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "관리사무소",
+      "address": "경기도 안성시 창전동 코스모스A",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "마을슈퍼",
+      "address": "경기도 안성시 성남동 159",
+      "roadAddress": "경기도 안성시 장기2길 73  (성남동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "야고버슈퍼",
+      "address": "경기도 안성시 성남동 238-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "성남상회",
+      "address": "경기도 안성시 성남동 144",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "경기도 안성시 성남동 176",
+      "roadAddress": "경기도 안성시 장기로92번길 18  (성남동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "롯데슈퍼",
+      "address": "경기도 안성시 낙원동 609-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "명륜슈퍼",
+      "address": "경기도 안성시 명륜동 172-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "안전상회",
+      "address": "경기도 안성시 영동 414-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "지은슈퍼마켓",
+      "address": "경기도 안성시 봉남동 321-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "한국24시슈퍼",
+      "address": "경기도 안성시 봉남동 365",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "안성종합장식",
+      "address": "경기도 안성시 석정동 5-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "로손편의점",
+      "address": "경기도 안성시 영동 31",
+      "roadAddress": "경기도 안성시 중앙로 412  (영동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "연금매점",
+      "address": "경기도 안성시 영동 410",
+      "roadAddress": "경기도 안성시 중앙로 430  (영동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "중앙슈퍼문구",
+      "address": "경기도 안성시 석정동 333",
+      "roadAddress": "경기도 안성시 비룡5길 14  (석정동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "용일슈퍼",
+      "address": "경기도 안성시 옥천동 4-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "동방건재",
+      "address": "경기도 안성시 영동 4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "미호공판장",
+      "address": "경기도 안성시 구포동 174-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "삼성슈퍼",
+      "address": "경기도 안성시 봉산동 17",
+      "roadAddress": "경기도 안성시 시청길 2  (봉산동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "현수구판장",
+      "address": "경기도 안성시 현수동 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "삼보미니슈퍼",
+      "address": "경기도 안성시 봉남동 9-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2202-07-31"
+    },
+    {
+      "name": "해정슈퍼",
+      "address": "경기도 안성시 동본동 22",
+      "roadAddress": "경기도 안성시 중앙2길 34  (동본동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "시민슈퍼",
+      "address": "경기도 안성시 낙원동 69-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "안성낚시백화점",
+      "address": "경기도 안성시 낙원동 52",
+      "roadAddress": "경기도 안성시 장기로 124  (낙원동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "안성종합상사",
+      "address": "경기도 안성시 가사동 79-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "하늘문구",
+      "address": "경기도 안성시 봉남동 18-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "브니델문구사",
+      "address": "경기도 안성시 봉남동 15-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "(주)엘지유통안성점",
+      "address": "경기도 안성시 영동 410",
+      "roadAddress": "경기도 안성시 중앙로 430  (영동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "지화슈퍼",
+      "address": "경기도 안성시 낙원동 407-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "안성종고매점",
+      "address": "경기도 안성시 발화동 215-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "용일슈퍼",
+      "address": "경기도 안성시 옥천동 4-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "금송슈퍼",
+      "address": "경기도 안성시 인지동 111",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "금광슈퍼",
+      "address": "경기도 안성시 인지동 352-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "경기도 안성시 인지동 5",
+      "roadAddress": "경기도 안성시 안성맞춤대로 1033  (인지동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "한강슈퍼",
+      "address": "경기도 안성시 신흥동 207-89",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "대우슈퍼",
+      "address": "경기도 안성시 신흥동 22-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "남메슈퍼",
+      "address": "경기도 안성시 신흥동 112-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "석정슈퍼",
+      "address": "경기도 안성시 석정동 278-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "연옥슈퍼",
+      "address": "경기도 안성시 석정동 9-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "관리사무소",
+      "address": "경기도 안성시 석정동 화성하이츠빌라",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "조규인상회",
+      "address": "경기도 안성시 석정동 326",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "농협석정지소",
+      "address": "경기도 안성시 석정동 339",
+      "roadAddress": "경기도 안성시 중앙로 335  (석정동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "안성농협",
+      "address": "경기도 안성시 석정동 286-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "옥산부녀회",
+      "address": "경기도 안성시 옥산동 138-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "공단슈퍼",
+      "address": "경기도 안성시 옥산동 16-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "복지공단분점",
+      "address": "경기도 안성시 아양동 아양상가 108호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "주공슈퍼",
+      "address": "경기도 안성시 아양동 300",
+      "roadAddress": "경기도 안성시 아양로 23  (아양동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "한일유통",
+      "address": "경기도 안성시 아양동 300",
+      "roadAddress": "경기도 안성시 아양로 23  (아양동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "도기슈퍼",
+      "address": "경기도 안성시 도기동 363",
+      "roadAddress": "경기도 안성시 도구머리길 50  (도기동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경기도 안성시 도기동 544-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "경기슈퍼",
+      "address": "경기도 안성시 아양동 286-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "(주)안성뉴마트",
+      "address": "경기도 안성시 서인동 13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "행복슈퍼",
+      "address": "경기도 안성시 서인동 69",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "안성종합슈퍼",
+      "address": "경기도 안성시 인지동 449-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "경기도 안성시 인지동 111",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "경화슈퍼",
+      "address": "경기도 안성시 신흥동 220-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "안성종합장식",
+      "address": "경기도 안성시 석정동 5-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "OK아동복",
+      "address": "경기도 안성시 서인동 13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "대동슈퍼",
+      "address": "경기도 안성시 서인동 103",
+      "roadAddress": "경기도 안성시 시장길 6  (서인동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "중앙슈퍼문구",
+      "address": "경기도 안성시 석정동 333",
+      "roadAddress": "경기도 안성시 비룡5길 14  (석정동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "비옥상회",
+      "address": "경기도 안성시 가사동 358-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "아양복지공판점",
+      "address": "경기도 안성시 아양동 300",
+      "roadAddress": "경기도 안성시 아양로 23  (아양동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "안성프라임마트",
+      "address": "경기도 안성시 석정동 254-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "경아당",
+      "address": "경기도 안성시 신흥동 429",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "LG25성모점",
+      "address": "경기도 안성시 서인동 1",
+      "roadAddress": "경기도 안성시 중앙로 400-1  (서인동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "경기도 안성시 옥산동 옥산주공상가 10-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "제일마트",
+      "address": "경기도 안성시 인지동 384-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "리치마트",
+      "address": "경기도 안성시 석정동 278-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "안성장례예식장",
+      "address": "경기도 안성시 도기동 473",
+      "roadAddress": "경기도 안성시 능길 35-1  (도기동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "농산물유통",
+      "address": "경기도 안성시 옥산동 10 주공A상가 109",
+      "roadAddress": "경기도 안성시 중앙로 212  (옥산동,주공A상가 109)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "성신사",
+      "address": "경기도 안성시 서인동 80",
+      "roadAddress": "경기도 안성시 장기로45번길 30  (서인동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "경연청과",
+      "address": "경기도 안성시 신흥동 228",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "오거리상공회사",
+      "address": "경기도 안성시 연지동 22",
+      "roadAddress": "경기도 안성시 중앙7길 1  (연지동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "홍진철물",
+      "address": "경기도 안성시 연지동 120",
+      "roadAddress": "경기도 안성시 안성맞춤대로 1078  (연지동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "자택",
+      "address": "경기도 안성시 금산동 25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "진성슈퍼",
+      "address": "경기도 안성시 금산동 165-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "수정슈퍼",
+      "address": "경기도 안성시 금산동 60-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "광성상회",
+      "address": "경기도 안성시 금산동 43",
+      "roadAddress": "경기도 안성시 금산1길 3  (금산동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "봉봉슈퍼",
+      "address": "경기도 안성시 금산동 100",
+      "roadAddress": "경기도 안성시 안성맞춤대로 1127  (금산동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "당왕슈퍼",
+      "address": "경기도 안성시 당왕동 115-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "금산연립슈퍼",
+      "address": "경기도 안성시 당왕동 168-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "주공슈퍼마켓",
+      "address": "경기도 안성시 금산동 100",
+      "roadAddress": "경기도 안성시 안성맞춤대로 1127  (금산동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "금산연쇄점",
+      "address": "경기도 안성시 금산동 7",
+      "roadAddress": "경기도 안성시 금산1길 11  (금산동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "프렌드",
+      "address": "경기도 안성시 금산동 46-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "동남슈퍼마켓",
+      "address": "경기도 안성시 금산동 471",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "미혜식품",
+      "address": "경기도 안성시 연지동 87",
+      "roadAddress": "경기도 안성시 중앙로389번길 46  (연지동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "대천공판장",
+      "address": "경기도 안성시 연지동 146",
+      "roadAddress": "경기도 안성시 중앙로379번길 56  (연지동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "경기도 안성시 당왕동 549-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "중앙마켙",
+      "address": "경기도 안성시 당왕동 535",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "소비자유통",
+      "address": "경기도 안성시 당왕동 550-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "대우슈퍼스토어",
+      "address": "경기도 안성시 당왕동 대우A상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "안성축협판매장",
+      "address": "경기도 안성시 당왕동 544",
+      "roadAddress": "경기도 안성시 대학로 71  (당왕동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "쌍용공판장",
+      "address": "경기도 안성시 당왕동 536",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경기도 안성시 대천동 54",
+      "roadAddress": "경기도 안성시 중앙1길 14  (대천동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "드림아트마켓",
+      "address": "경기도 안성시 금산동 193-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "미니스톱편의점",
+      "address": "경기도 안성시 대천동 27-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "주은슈퍼",
+      "address": "경기도 안성시 금산동 81-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "삼부아파트 부녀회",
+      "address": "경기도 안성시 금산동 50-1 삼부A 관리사무소",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "과자나라연필공주",
+      "address": "경기도 안성시 금산동 152-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "공단슈퍼",
+      "address": "경기도 안성시 신건지동 123",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "훼미리마트 안성대천점",
+      "address": "경기도 안성시 대천동 82",
+      "roadAddress": "경기도 안성시 중앙로 385  (대천동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "서울식품",
+      "address": "경기도 안성시 대천동 84",
+      "roadAddress": "경기도 안성시 중앙로389번길 7  (대천동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "동남유통공판장",
+      "address": "경기도 안성시 금석동 81 동남아파트공판장",
+      "roadAddress": "경기도 안성시 안성맞춤대로 1320-21  (금석동,동남아파트공판장)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "훼미리마트 안성당왕점",
+      "address": "경기도 안성시 당왕동 547",
+      "roadAddress": "경기도 안성시 비룡로 21  (당왕동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "보개농협",
+      "address": "경기도 안성시 가사동 79",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-01"
+    },
+    {
+      "name": "보개슈퍼",
+      "address": "경기도 안성시 가사동 125-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-01"
+    },
+    {
+      "name": "가현가게",
+      "address": "경기도 안성시 가현동 40",
+      "roadAddress": "경기도 안성시 벌가터길 61  (가현동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-01"
+    },
+    {
+      "name": "준희슈퍼",
+      "address": "경기도 안성시 가현동 수용촌 150",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-01"
+    },
+    {
+      "name": "담배가게",
+      "address": "경기도 안성시 보개면 동신리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-01"
+    },
+    {
+      "name": "광혜슈퍼",
+      "address": "경기도 안성시 보개면 동신리 95",
+      "roadAddress": "경기도 안성시 보개면 구송동길 1",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-01"
+    },
+    {
+      "name": "양협슈퍼",
+      "address": "경기도 안성시 보개면 양복리 907",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-01"
+    },
+    {
+      "name": "담배가게",
+      "address": "경기도 안성시 보개면 기좌리 180-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-01"
+    },
+    {
+      "name": "삼거리휴게소",
+      "address": "경기도 안성시 보개면 가율리 129",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-01"
+    },
+    {
+      "name": "마을구판장",
+      "address": "경기도 안성시 보개면 적가리 332",
+      "roadAddress": "경기도 안성시 보개면 절가리길 45",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-01"
+    },
+    {
+      "name": "담배가게",
+      "address": "경기도 안성시 보개면 신장리 198",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-01"
+    },
+    {
+      "name": "마을구판장",
+      "address": "경기도 안성시 보개면 동평리 264",
+      "roadAddress": "경기도 안성시 보개면 동양길 64",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-01"
+    },
+    {
+      "name": "담배가게",
+      "address": "경기도 안성시 보개면 북가현리 142",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-01"
+    },
+    {
+      "name": "이전리마을회관",
+      "address": "경기도 안성시 보개면 적가리 345",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "송동슈퍼",
+      "address": "경기도 안성시 보개면 동신리 91",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "금광농협",
+      "address": "경기도 안성시 금광면 금광리 94",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "개산지소(농협)",
+      "address": "경기도 안성시 금광면 개산리 184-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "상촌이장",
+      "address": "경기도 안성시 금광면 상중리 508",
+      "roadAddress": "경기도 안성시 금광면 상촌새말길 3-120",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "홍익할인마트",
+      "address": "경기도 안성시 금광면 신양복리 산 13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "홍익공판장",
+      "address": "경기도 안성시 금광면 신양복리 산 139-2 홍익상가 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "금광면",
+      "address": "경기도 안성시 금광면 상중리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "금광면",
+      "address": "경기도 안성시 금광면 옥정리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "중리상회",
+      "address": "경기도 안성시 중리동 195",
+      "roadAddress": "경기도 안성시 중리1길 90  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "서운농협",
+      "address": "경기도 안성시 서운면 신촌리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "서운면",
+      "address": "경기도 안성시 서운면 청용리 청룡사계곡",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "슈퍼상회",
+      "address": "경기도 안성시 미양면 양지리 186-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "현대화연쇄점",
+      "address": "경기도 안성시 미양면 양지리 212-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "연흥슈퍼",
+      "address": "경기도 안성시 미양면 계륵리 272-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "미양농협구수지소",
+      "address": "경기도 안성시 미양면 구수리 198-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "공단 편의점",
+      "address": "경기도 안성시 미양면 계륵리 271-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "미양농업협동조합",
+      "address": "경기도 안성시 미양면 양지리 90-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "미양농협개정지소",
+      "address": "경기도 안성시 미양면 개정리 303-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "금화마트",
+      "address": "경기도 안성시 미양면 양변리 240-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "서고미니슈퍼",
+      "address": "경기도 안성시 대덕면 죽리 133",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "서광상회",
+      "address": "경기도 안성시 대덕면 건지리 429-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "담배가게",
+      "address": "경기도 안성시 대덕면 소현리 412-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "신일지하슈퍼",
+      "address": "경기도 안성시 대덕면 소현리 408",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "농산물유통",
+      "address": "경기도 안성시 대덕면 건지리 540-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 안성시 대덕면 소현리 412-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "새마을지도자",
+      "address": "경기도 안성시 대덕면 모산리 강남연립 9-102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "옥천다리슈퍼",
+      "address": "경기도 안성시 계동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-02-13"
+    },
+    {
+      "name": "코스모스아파트 관리사무소",
+      "address": "경기도 안성시 창전동 68-3    코스모스아파트 관리사무소",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-03"
+    },
+    {
+      "name": "미호공판장",
+      "address": "경기도 안성시 구포동 174-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-16"
+    },
+    {
+      "name": "삼성슈퍼",
+      "address": "경기도 안성시 봉산동 17",
+      "roadAddress": "경기도 안성시 시청길 2  (봉산동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-29"
+    },
+    {
+      "name": "현수구판장",
+      "address": "경기도 안성시 현수동 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-22"
+    },
+    {
+      "name": "공단슈퍼",
+      "address": "경기도 안성시 옥산동 16-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-31"
+    },
+    {
+      "name": "안성프라임마트",
+      "address": "경기도 안성시 석정동 254-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-02-03"
+    },
+    {
+      "name": "경아당",
+      "address": "경기도 안성시 신흥동 429",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-01"
+    },
+    {
+      "name": "쌍용공판장",
+      "address": "경기도 안성시 당왕동 536",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-10"
+    },
+    {
+      "name": "충북상회",
+      "address": "경기도 안성시 대덕면 신령리 133",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-21"
+    },
+    {
+      "name": "애경슈퍼",
+      "address": "경기도 안성시 대덕면 죽리 355-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-01"
+    },
+    {
+      "name": "신로슈퍼",
+      "address": "경기도 안성시 일죽면 송천리 15-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-13"
+    },
+    {
+      "name": "나인슈퍼",
+      "address": "경기도 안성시 일죽면 송천리 15-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-13"
+    },
+    {
+      "name": "일죽공판장",
+      "address": "경기도 안성시 일죽면 송천리 13-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-13"
+    },
+    {
+      "name": "한일공판장",
+      "address": "경기도 안성시 죽산면 죽산리 475-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-21"
+    },
+    {
+      "name": "안동슈퍼",
+      "address": "경기도 안성시 봉산동 12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-01"
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "경기도 안성시 봉산동 45-1",
+      "roadAddress": "경기도 안성시 중앙로461번길 7  (봉산동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-08"
+    },
+    {
+      "name": "가나슈퍼",
+      "address": "경기도 안성시 숭인동 36-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-09"
+    },
+    {
+      "name": "로숀편의점",
+      "address": "경기도 안성시 영동 31",
+      "roadAddress": "경기도 안성시 중앙로 412  (영동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-15"
+    },
+    {
+      "name": "삼보미니슈퍼",
+      "address": "경기도 안성시 봉남동 9-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-26"
+    },
+    {
+      "name": "해정슈퍼",
+      "address": "경기도 안성시 동본동 22",
+      "roadAddress": "경기도 안성시 중앙2길 34  (동본동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-26"
+    },
+    {
+      "name": "LG25성모점",
+      "address": "경기도 안성시 서인동 1",
+      "roadAddress": "경기도 안성시 중앙로 400-1  (서인동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-08"
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "경기도 안성시 옥산동 10 옥산주공아파트 상가",
+      "roadAddress": "경기도 안성시 중앙로 212  (옥산동,옥산주공아파트 상가 )",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-27"
+    },
+    {
+      "name": "제일마트",
+      "address": "경기도 안성시 인지동 384-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-27"
+    },
+    {
+      "name": "대림석정상회",
+      "address": "경기도 안성시 대덕면 건지리 창명연립 가-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "중앙대학교",
+      "address": "경기도 안성시 대덕면 내리 산 40-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "강남슈퍼",
+      "address": "경기도 안성시 대덕면 모산리 534-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "대덕농협조합",
+      "address": "경기도 안성시 대덕면 건지리 3-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "동일사원슈퍼",
+      "address": "경기도 안성시 대덕면 소현리 406-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "대덕공판장",
+      "address": "경기도 안성시 대덕면 죽리 149",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "초롱슈퍼",
+      "address": "경기도 안성시 대덕면 모산리 474",
+      "roadAddress": "경기도 안성시 대덕면 모산로 84-2",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "충북상회",
+      "address": "경기도 안성시 대덕면 신령리 133",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "애경슈퍼",
+      "address": "경기도 안성시 대덕면 죽리 355-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "신라마트",
+      "address": "경기도 안성시 대덕면 내리 675",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "경기도 안성시 대덕면 내리 163-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "가나안마트",
+      "address": "경기도 안성시 대덕면 건지리 741-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "경기도 안성시 대덕면 내리 112-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "제일상회",
+      "address": "경기도 안성시 양성면 동항리 393-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "양성농협",
+      "address": "경기도 안성시 양성면 동항리 292",
+      "roadAddress": "경기도 안성시 양성면 읍내길 16",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "동웅교구판장",
+      "address": "경기도 안성시 공도읍 웅교리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "서웅교구판장",
+      "address": "경기도 안성시 공도읍 웅교리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "부녀회장",
+      "address": "경기도 안성시 공도읍 신두리 180",
+      "roadAddress": "경기도 안성시 공도읍 대신두안길 7-3",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "소신두구판장",
+      "address": "경기도 안성시 공도읍 신두리 310",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "부녀회장",
+      "address": "경기도 안성시 공도읍 용두리 322",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 공도읍 용두리 279",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "진흥슈퍼",
+      "address": "경기도 안성시 공도읍 용두리 321",
+      "roadAddress": "경기도 안성시 공도읍 용머리길 97-2",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "만정슈퍼",
+      "address": "경기도 안성시 공도읍 승두리 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "삼광당",
+      "address": "경기도 안성시 공도읍 승두리 78",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "공도가스",
+      "address": "경기도 안성시 공도읍 승두리 78",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "공도슈퍼",
+      "address": "경기도 안성시 공도읍 신두리 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "농협구판장",
+      "address": "경기도 안성시 공도읍 건천리 696",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "상마정구판장",
+      "address": "경기도 안성시 공도읍 마정리 355",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 공도읍 마정리 318",
+      "roadAddress": "경기도 안성시 공도읍 하마정길 84-5",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "이장댁",
+      "address": "경기도 안성시 공도읍 마정리 71",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "무",
+      "address": "경기도 안성시 공도읍 진사리 양촌",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "미니스톱",
+      "address": "경기도 안성시 금산동 46-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-24"
+    },
+    {
+      "name": "드림아트마켓",
+      "address": "경기도 안성시 동본동 30",
+      "roadAddress": "경기도 안성시 중앙로399번길 10  (동본동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-09"
+    },
+    {
+      "name": "드림아트마켓",
+      "address": "경기도 안성시 금산동 193-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-01"
+    },
+    {
+      "name": "미니스톱편의점",
+      "address": "경기도 안성시 대천동 27-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-14"
+    },
+    {
+      "name": "상촌마을",
+      "address": "경기도 안성시 금광면 상중리 508",
+      "roadAddress": "경기도 안성시 금광면 상촌새말길 3-120",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-18"
+    },
+    {
+      "name": "양성농협",
+      "address": "경기도 안성시 양성면 동항리 292",
+      "roadAddress": "경기도 안성시 양성면 읍내길 16",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-16"
+    },
+    {
+      "name": "태산공판장",
+      "address": "경기도 안성시 공도읍 용두리 682-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-28"
+    },
+    {
+      "name": "용설낚시터",
+      "address": "경기도 안성시 죽산면 용설리 26-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-13"
+    },
+    {
+      "name": "칠장사매점",
+      "address": "경기도 안성시 죽산면 칠장리 736-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-13"
+    },
+    {
+      "name": "남산휴게소",
+      "address": "경기도 안성시 삼죽면 진촌리 423-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-14"
+    },
+    {
+      "name": "현대할인마트",
+      "address": "경기도 안성시 공도읍 진사리 산 52 주은청설아파트 B동 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-04"
+    },
+    {
+      "name": "주은슈퍼",
+      "address": "경기도 안성시 금산동 81-1 주은청설상가 B동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-04"
+    },
+    {
+      "name": "21세기 할인마트",
+      "address": "경기도 안성시 공도읍 진사리 20-14 우림아파트 상가 지하 6동 8호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-10"
+    },
+    {
+      "name": "알뜰프라자",
+      "address": "경기도 안성시 공도읍 진사리 36-1 주은청설아파트 상가 B동 108호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-10"
+    },
+    {
+      "name": "미양농업협동조합",
+      "address": "경기도 안성시 미양면 양지리 90-1",
+      "roadAddress": "경기도 안성시 미양면 역전1길 18",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-15"
+    },
+    {
+      "name": "미양농협개정지소",
+      "address": "경기도 안성시 미양면 개정리 303-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-15"
+    },
+    {
+      "name": "신라마트",
+      "address": "경기도 안성시 대덕면 내리 675",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-15"
+    },
+    {
+      "name": "대명미니슈퍼",
+      "address": "경기도 안성시 공도읍 마정리 45-11",
+      "roadAddress": "경기도 안성시 공도읍 가족공원길 70-11",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-15"
+    },
+    {
+      "name": "쏘리마트",
+      "address": "경기도 안성시 공도읍 진사리 산 52 주은청설아파트 상가 B동 110호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-27"
+    },
+    {
+      "name": "공도할인마트",
+      "address": "경기도 안성시 공도읍 용두리 158-8",
+      "roadAddress": "경기도 안성시 공도읍 공도1로 25",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-17"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "경기도 안성시 대덕면 내리 163-3",
+      "roadAddress": "경기도 안성시 대덕면 차골길 21",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-07"
+    },
+    {
+      "name": "안성낚시백화점",
+      "address": "경기도 안성시 낙원동 52",
+      "roadAddress": "경기도 안성시 장기로 124  (낙원동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-30"
+    },
+    {
+      "name": "지화슈퍼",
+      "address": "경기도 안성시 낙원동 407-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-05"
+    },
+    {
+      "name": "한세유통",
+      "address": "경기도 안성시 공도읍 만정리 422",
+      "roadAddress": "경기도 안성시 공도읍 승두길 43-7",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-14"
+    },
+    {
+      "name": "봉할인마트",
+      "address": "경기도 안성시 석정동 278-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-29"
+    }
+  ]
+}

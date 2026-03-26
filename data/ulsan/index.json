@@ -1,0 +1,13 @@
+{
+  "region": "울산광역시",
+  "regionSlug": "ulsan",
+  "updatedAt": "2026-03-26",
+  "totalCount": 0,
+  "districts": [
+    { "district": "남구", "districtSlug": "usnamgu", "count": 0 },
+    { "district": "동구", "districtSlug": "usdonggu", "count": 0 },
+    { "district": "북구", "districtSlug": "usbukgu", "count": 0 },
+    { "district": "울주군", "districtSlug": "ulju", "count": 0 },
+    { "district": "중구", "districtSlug": "usjunggu", "count": 0 }
+  ]
+}

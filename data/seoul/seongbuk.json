@@ -1,0 +1,2908 @@
+{
+  "region": "서울특별시",
+  "regionSlug": "seoul",
+  "district": "성북구",
+  "districtSlug": "seongbuk",
+  "updatedAt": "2026-03-26",
+  "totalCount": 414,
+  "stores": [
+    {
+      "name": "365플러스 동탄센트럴타운점",
+      "address": "서울특별시 성북구 석관동 340-94 1층",
+      "roadAddress": "서울특별시 성북구 화랑로32다길 15, 1층 (석관동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-10-26"
+    },
+    {
+      "name": "유성슈퍼",
+      "address": "서울특별시 성북구 성북동 184-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신성슈퍼",
+      "address": "서울특별시 성북구 길음동 133-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일광슈퍼",
+      "address": "서울특별시 성북구 성북동 175-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "당진슈퍼",
+      "address": "서울특별시 성북구 성북동 173-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하이퍼",
+      "address": "서울특별시 성북구 성북동 184-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명백슈퍼",
+      "address": "서울특별시 성북구 성북동 184-88",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "곰실슈퍼",
+      "address": "서울특별시 성북구 성북동 183-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정아슈퍼",
+      "address": "서울특별시 성북구 성북동 2-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "서울특별시 성북구 성북동 170-46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경진상회",
+      "address": "서울특별시 성북구 성북동 104-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼양슈퍼",
+      "address": "서울특별시 성북구 성북동 104-46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평안식품",
+      "address": "서울특별시 성북구 동소문동4가 272",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "서울특별시 성북구 동소문동4가 3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이",
+      "address": "서울특별시 성북구 동소문동1가 22-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새한슈퍼",
+      "address": "서울특별시 성북구 동소문동2가 49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키마트",
+      "address": "서울특별시 성북구 동소문동3가 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시장농심슈퍼",
+      "address": "서울특별시 성북구 동소문동2가 29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "서울특별시 성북구 동소문동1가 10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심슈퍼",
+      "address": "서울특별시 성북구 동소문동4가 165",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경기상회",
+      "address": "서울특별시 성북구 동소문동4가 132",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "혜성슈퍼",
+      "address": "서울특별시 성북구 성북동 113-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕수슈퍼",
+      "address": "서울특별시 성북구 성북동 86-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "북악슈퍼",
+      "address": "서울특별시 성북구 성북동 325-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "심원쌀상회",
+      "address": "서울특별시 성북구 성북동 60-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성북슈퍼",
+      "address": "서울특별시 성북구 성북동 60-55",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신명희슈퍼",
+      "address": "서울특별시 성북구 성북동 212-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해태슈퍼",
+      "address": "서울특별시 성북구 성북동 94-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부전문구",
+      "address": "서울특별시 성북구 성북동 60-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데리아편의점",
+      "address": "서울특별시 성북구 성북동 43-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평안식품",
+      "address": "서울특별시 성북구 동소문동4가 272",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "서울특별시 성북구 동소문동4가 3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이",
+      "address": "서울특별시 성북구 동소문동1가 22-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새한슈퍼",
+      "address": "서울특별시 성북구 동소문동2가 49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키마트",
+      "address": "서울특별시 성북구 동소문동3가 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시장농심슈퍼",
+      "address": "서울특별시 성북구 동소문동2가 29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "서울특별시 성북구 동소문동1가 10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심슈퍼",
+      "address": "서울특별시 성북구 동소문동4가 165",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경기상회",
+      "address": "서울특별시 성북구 동소문동4가 132",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "버드나무",
+      "address": "서울특별시 성북구 삼선동1가 11-154",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홍일상회",
+      "address": "서울특별시 성북구 삼선동1가 259",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행복슈퍼",
+      "address": "서울특별시 성북구 삼선동1가 25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훈이슈퍼",
+      "address": "서울특별시 성북구 삼선동2가 182",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호남슈퍼",
+      "address": "서울특별시 성북구 삼선동1가 277-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "서울특별시 성북구 삼선동2가 77",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선하슈퍼",
+      "address": "서울특별시 성북구 삼선동1가 11-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영지슈퍼",
+      "address": "서울특별시 성북구 삼선동1가 216-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동해슈퍼",
+      "address": "서울특별시 성북구 삼선동2가 258",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘지25시",
+      "address": "서울특별시 성북구 삼선동1가 266",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성실슈퍼",
+      "address": "서울특별시 성북구 삼선동1가 293-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화신슈퍼",
+      "address": "서울특별시 성북구 삼선동2가 154",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은주슈퍼",
+      "address": "서울특별시 성북구 삼선동1가 297",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코리아세븐",
+      "address": "서울특별시 성북구 삼선동2가 370",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을슈퍼",
+      "address": "서울특별시 성북구 삼선동1가 237-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "서울특별시 성북구 삼선동1가 11-185",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "서울특별시 성북구 삼선동4가 346",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼정하이퍼",
+      "address": "서울특별시 성북구 삼선동4가 322",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빙그레슈퍼",
+      "address": "서울특별시 성북구 삼선동2가 412-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국슈퍼",
+      "address": "서울특별시 성북구 삼선동2가 418",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "버드나무",
+      "address": "서울특별시 성북구 삼선동5가 73-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남상회",
+      "address": "서울특별시 성북구 삼선동4가 85",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대명슈퍼1",
+      "address": "서울특별시 성북구 삼선동3가 29-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "서울특별시 성북구 삼선동5가 5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대명슈퍼2",
+      "address": "서울특별시 성북구 삼선동5가 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경동슈퍼",
+      "address": "서울특별시 성북구 삼선동5가 150-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유마트",
+      "address": "서울특별시 성북구 삼선동5가 276",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동신슈퍼",
+      "address": "서울특별시 성북구 삼선동5가 93-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명슈퍼",
+      "address": "서울특별시 성북구 삼선동3가 54-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "서울특별시 성북구 삼선동5가 299-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부강슈퍼",
+      "address": "서울특별시 성북구 삼선동5가 53",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스페이스마트",
+      "address": "서울특별시 성북구 삼선동5가 342",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영광상회",
+      "address": "서울특별시 성북구 삼선동2가 420-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정은슈퍼",
+      "address": "서울특별시 성북구 삼선동2가 421",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대영상회",
+      "address": "서울특별시 성북구 삼선동2가 113-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홈마트",
+      "address": "서울특별시 성북구 동소문동5가 59-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용암상회",
+      "address": "서울특별시 성북구 삼선동3가 27-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전일슈퍼",
+      "address": "서울특별시 성북구 삼선동5가 149",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코오롱슈퍼",
+      "address": "서울특별시 성북구 삼선동4가 104-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고명상회",
+      "address": "서울특별시 성북구 돈암동 42-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코리아마트",
+      "address": "서울특별시 성북구 돈암동 2-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경우회연금매장",
+      "address": "서울특별시 성북구 돈암동 8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "샘터슈퍼",
+      "address": "서울특별시 성북구 돈암동 13-154",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은성그린마트",
+      "address": "서울특별시 성북구 돈암동 19-152",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협슈퍼(돈암7농협직매소)",
+      "address": "서울특별시 성북구 돈암동 42-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원경식품",
+      "address": "서울특별시 성북구 돈암동 413-58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세정슈퍼",
+      "address": "서울특별시 성북구 돈암동 582-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선화슈퍼",
+      "address": "서울특별시 성북구 동선동2가 25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명화슈퍼",
+      "address": "서울특별시 성북구 동선동2가 254",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미성슈퍼",
+      "address": "서울특별시 성북구 동선동3가 232",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명랑슈퍼",
+      "address": "서울특별시 성북구 동선동3가 186",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG성신점",
+      "address": "서울특별시 성북구 동선동1가 18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "서울특별시 성북구 동선동1가 2-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동선슈퍼",
+      "address": "서울특별시 성북구 동선동1가 92-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "로손성신점",
+      "address": "서울특별시 성북구 동선동1가 92-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "AMPM",
+      "address": "서울특별시 성북구 동선동3가 218",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰마트",
+      "address": "서울특별시 성북구 동선동3가 259-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영광유통",
+      "address": "서울특별시 성북구 동선동3가 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "서울특별시 성북구 동선동3가 76",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉다리슈퍼",
+      "address": "서울특별시 성북구 동선동3가 197",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "베스토아",
+      "address": "서울특별시 성북구 동선동5가 146",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양지물포",
+      "address": "서울특별시 성북구 정릉동 583-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오공팔슈퍼",
+      "address": "서울특별시 성북구 정릉동 508-74",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "서울특별시 성북구 정릉동 192-178",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동명슈퍼",
+      "address": "서울특별시 성북구 정릉동 522",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아리랑슈퍼",
+      "address": "서울특별시 성북구 정릉동 140-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "순흥정육점",
+      "address": "서울특별시 성북구 정릉동 165-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성상회",
+      "address": "서울특별시 성북구 정릉동 165-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남일슈퍼",
+      "address": "서울특별시 성북구 정릉동 416",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "협신슈퍼",
+      "address": "서울특별시 성북구 정릉동 192-256",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산장슈퍼",
+      "address": "서울특별시 성북구 정릉동 506-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스카이하이퍼마켓",
+      "address": "서울특별시 성북구 정릉동 508 로얄2층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남상회",
+      "address": "서울특별시 성북구 정릉동 577-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남상회",
+      "address": "서울특별시 성북구 정릉동 105-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매일식품",
+      "address": "서울특별시 성북구 정릉동 420-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키공판장",
+      "address": "서울특별시 성북구 정릉동 465-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조점례",
+      "address": "서울특별시 성북구 정릉동 227-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서경할인마트",
+      "address": "서울특별시 성북구 정릉동 192-271",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원일상회",
+      "address": "서울특별시 성북구 정릉동 559-209",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "숭덕정육점",
+      "address": "서울특별시 성북구 정릉동 166-98",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정능슈퍼",
+      "address": "서울특별시 성북구 정릉동 760-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을식품",
+      "address": "서울특별시 성북구 정릉동 755-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안성슈퍼",
+      "address": "서울특별시 성북구 정릉동 717-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홍보슈퍼",
+      "address": "서울특별시 성북구 정릉동 718-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "서울특별시 성북구 정릉동 712",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성음전기",
+      "address": "서울특별시 성북구 정릉동 363",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "천지하이퍼",
+      "address": "서울특별시 성북구 정릉동 685-119",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장원철물",
+      "address": "서울특별시 성북구 정릉동 395-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정릉철물",
+      "address": "서울특별시 성북구 정릉동 393-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정릉슈퍼",
+      "address": "서울특별시 성북구 정릉동 684-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고려지물포",
+      "address": "서울특별시 성북구 정릉동 685-63",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부흥슈퍼",
+      "address": "서울특별시 성북구 정릉동 689-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강남상회",
+      "address": "서울특별시 성북구 정릉동 644-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "배밭골슈퍼",
+      "address": "서울특별시 성북구 정릉동 654-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "서울특별시 성북구 정릉동 894-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "서울특별시 성북구 정릉동 894-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빌라슈퍼",
+      "address": "서울특별시 성북구 정릉동 924-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유명슈퍼",
+      "address": "서울특별시 성북구 정릉동 904",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씨스페이스",
+      "address": "서울특별시 성북구 정릉동 372-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부흥슈퍼",
+      "address": "서울특별시 성북구 정릉동 819-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼정식품",
+      "address": "서울특별시 성북구 정릉동 778-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이",
+      "address": "서울특별시 성북구 정릉동 266-428",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개미슈퍼",
+      "address": "서울특별시 성북구 정릉동 286-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용광슈퍼",
+      "address": "서울특별시 성북구 정릉동 258-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신바람마트",
+      "address": "서울특별시 성북구 정릉동 286-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정릉식품",
+      "address": "서울특별시 성북구 정릉동 266-512",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해태의집",
+      "address": "서울특별시 성북구 정릉동 822-53",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은영상회",
+      "address": "서울특별시 성북구 정릉동 295-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대식품",
+      "address": "서울특별시 성북구 정릉동 402-128",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "서울특별시 성북구 정릉동 270-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평택상회",
+      "address": "서울특별시 성북구 정릉동 266-418",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청수슈퍼",
+      "address": "서울특별시 성북구 정릉동 771-46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼양슈퍼",
+      "address": "서울특별시 성북구 정릉동 778-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화신슈퍼",
+      "address": "서울특별시 성북구 정릉동 780-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쌍용슈퍼",
+      "address": "서울특별시 성북구 정릉동 266-390",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새미도슈퍼",
+      "address": "서울특별시 성북구 길음동 543-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "썬마트",
+      "address": "서울특별시 성북구 길음동 559-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "서울특별시 성북구 길음동 854-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나로마트",
+      "address": "서울특별시 성북구 길음동 541-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영광슈퍼",
+      "address": "서울특별시 성북구 길음동 610-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두레장터",
+      "address": "서울특별시 성북구 길음동 535-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북상회",
+      "address": "서울특별시 성북구 길음동 616-65",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창신지물포",
+      "address": "서울특별시 성북구 길음동 607-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "길음지물포",
+      "address": "서울특별시 성북구 길음동 575-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양슈퍼",
+      "address": "서울특별시 성북구 길음동 559-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동네슈퍼",
+      "address": "서울특별시 성북구 길음동 528-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "서울특별시 성북구 길음동 1212",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금성길음전시장",
+      "address": "서울특별시 성북구 길음동 604-80",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미현슈퍼",
+      "address": "서울특별시 성북구 길음동 620-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영일상회",
+      "address": "서울특별시 성북구 길음동 623-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화신슈퍼",
+      "address": "서울특별시 성북구 길음동 624-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대박슈퍼",
+      "address": "서울특별시 성북구 길음동 619-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경안문구",
+      "address": "서울특별시 성북구 길음동 631-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼(2)",
+      "address": "서울특별시 성북구 길음동 632-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "돌산슈퍼",
+      "address": "서울특별시 성북구 길음동 635-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부강슈퍼",
+      "address": "서울특별시 성북구 길음동 635-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "서울특별시 성북구 길음동 853-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼(1)",
+      "address": "서울특별시 성북구 길음동 1171",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "싸다슈퍼",
+      "address": "서울특별시 성북구 길음동 1184-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "육삼슈퍼",
+      "address": "서울특별시 성북구 길음동 1268-362",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오거리슈퍼",
+      "address": "서울특별시 성북구 길음동 1270-303",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인영슈퍼",
+      "address": "서울특별시 성북구 길음동 1270-332",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오복식품",
+      "address": "서울특별시 성북구 길음동 1270-469",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리문구",
+      "address": "서울특별시 성북구 길음동 1271-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오동슈퍼",
+      "address": "서울특별시 성북구 길음동 1274-129",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새생활슈퍼",
+      "address": "서울특별시 성북구 길음동 602-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가을슈퍼",
+      "address": "서울특별시 성북구 길음동 489-92",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경원슈퍼",
+      "address": "서울특별시 성북구 길음동 21-230",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광성슈퍼",
+      "address": "서울특별시 성북구 길음동 1011",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "서울특별시 성북구 길음동 510-78",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "기린슈퍼",
+      "address": "서울특별시 성북구 길음동 1070-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "서울특별시 성북구 길음동 919-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "서울특별시 성북구 길음동 481-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "방앗간슈퍼",
+      "address": "서울특별시 성북구 길음동 481-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보람슈퍼",
+      "address": "서울특별시 성북구 길음동 525-132",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "서울특별시 성북구 길음동 1262-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼정슈퍼",
+      "address": "서울특별시 성북구 길음동 499-78",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상아슈퍼",
+      "address": "서울특별시 성북구 길음동 982-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수성슈퍼",
+      "address": "서울특별시 성북구 길음동 941",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "승천지물포",
+      "address": "서울특별시 성북구 길음동 481-152",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신세계슈퍼",
+      "address": "서울특별시 성북구 길음동 1099",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "열린마트",
+      "address": "서울특별시 성북구 길음동 21-95",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영식슈퍼",
+      "address": "서울특별시 성북구 길음동 1022",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오거리슈퍼",
+      "address": "서울특별시 성북구 길음동 1009",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유진슈퍼",
+      "address": "서울특별시 성북구 길음동 503-210",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "서울특별시 성북구 길음동 1038-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "서울특별시 성북구 길음동 993-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가고파슈퍼",
+      "address": "서울특별시 성북구 하월곡동 90-1615",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "계림유통",
+      "address": "서울특별시 성북구 하월곡동 90-455",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남양슈퍼",
+      "address": "서울특별시 성북구 하월곡동 75-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대광슈퍼",
+      "address": "서울특별시 성북구 하월곡동 88-345",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대창슈퍼",
+      "address": "서울특별시 성북구 하월곡동 88-129",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명보슈퍼",
+      "address": "서울특별시 성북구 하월곡동 88-349",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보고슈퍼",
+      "address": "서울특별시 성북구 하월곡동 81-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼락쇼핑",
+      "address": "서울특별시 성북구 하월곡동 81-59",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성심슈퍼",
+      "address": "서울특별시 성북구 하월곡동 90-286",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "서울특별시 성북구 하월곡동 88-215",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시스페이스",
+      "address": "서울특별시 성북구 하월곡동 90-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성일상회",
+      "address": "서울특별시 성북구 하월곡동 82-181",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "서울특별시 성북구 하월곡동 90-1662",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월곡슈퍼",
+      "address": "서울특별시 성북구 하월곡동 90-753",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은영슈퍼",
+      "address": "서울특별시 성북구 하월곡동 148",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정식품",
+      "address": "서울특별시 성북구 하월곡동 67-56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "서울특별시 성북구 하월곡동 88-345",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한성슈퍼",
+      "address": "서울특별시 성북구 하월곡동 84-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해태슈퍼",
+      "address": "서울특별시 성북구 하월곡동 84-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대문구",
+      "address": "서울특별시 성북구 하월곡동 81-222",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월광슈퍼",
+      "address": "서울특별시 성북구 하월곡동 198-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼미슈퍼",
+      "address": "서울특별시 성북구 하월곡동 70-150",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고려슈퍼",
+      "address": "서울특별시 성북구 하월곡동 71-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에스마트",
+      "address": "서울특별시 성북구 하월곡동 37-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰매장",
+      "address": "서울특별시 성북구 하월곡동 34-58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종점슈퍼",
+      "address": "서울특별시 성북구 하월곡동 96-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "서울특별시 성북구 하월곡동 40-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신신슈퍼",
+      "address": "서울특별시 성북구 하월곡동 33-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "서울특별시 성북구 하월곡동 96-90",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "칠절슈퍼",
+      "address": "서울특별시 성북구 하월곡동 41-46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔팔상회",
+      "address": "서울특별시 성북구 하월곡동 41-100",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선경문화사",
+      "address": "서울특별시 성북구 하월곡동 35-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼양슈퍼",
+      "address": "서울특별시 성북구 하월곡동 24-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "돌다리슈퍼",
+      "address": "서울특별시 성북구 하월곡동 45-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "목포슈퍼",
+      "address": "서울특별시 성북구 하월곡동 77-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월곡슈퍼",
+      "address": "서울특별시 성북구 하월곡동 77-334",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "서울특별시 성북구 하월곡동 77-254",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초원슈퍼",
+      "address": "서울특별시 성북구 하월곡동 77-266",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사마트양곡",
+      "address": "서울특별시 성북구 하월곡동 79-107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성미슈퍼",
+      "address": "서울특별시 성북구 하월곡동 77-187",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금강상회",
+      "address": "서울특별시 성북구 하월곡동 산 2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대정슈퍼",
+      "address": "서울특별시 성북구 하월곡동 77-794",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사랑슈퍼",
+      "address": "서울특별시 성북구 하월곡동 57-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동신슈퍼",
+      "address": "서울특별시 성북구 하월곡동 77-621",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "근린슈퍼",
+      "address": "서울특별시 성북구 하월곡동 73-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영일슈퍼",
+      "address": "서울특별시 성북구 하월곡동 산 2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월곡하이퍼마켓",
+      "address": "서울특별시 성북구 하월곡동 55-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수정상회",
+      "address": "서울특별시 성북구 상월곡동 7-110",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "서울특별시 성북구 상월곡동 40-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인성식품",
+      "address": "서울특별시 성북구 상월곡동 50-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가나안슈퍼",
+      "address": "서울특별시 성북구 상월곡동 28-93",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대방슈퍼",
+      "address": "서울특별시 성북구 상월곡동 26-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원하이퍼",
+      "address": "서울특별시 성북구 상월곡동 72",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대지슈퍼",
+      "address": "서울특별시 성북구 상월곡동 7-303",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "복음슈퍼",
+      "address": "서울특별시 성북구 상월곡동 24-176",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "나드리슈퍼",
+      "address": "서울특별시 성북구 상월곡동 27-61",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이천식품",
+      "address": "서울특별시 성북구 장위동 219-243",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신진슈퍼",
+      "address": "서울특별시 성북구 장위동 223-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에스마트",
+      "address": "서울특별시 성북구 장위동 231-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남쌀슈퍼",
+      "address": "서울특별시 성북구 장위동 231-586",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "싱싱마트",
+      "address": "서울특별시 성북구 장위동 231-67",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장곡슈퍼",
+      "address": "서울특별시 성북구 장위동 234-110",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보람유통",
+      "address": "서울특별시 성북구 장위동 231-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에스마트2",
+      "address": "서울특별시 성북구 장위동 214-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신장위슈퍼2",
+      "address": "서울특별시 성북구 장위동 230-188",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대진쌀상회",
+      "address": "서울특별시 성북구 장위동 181-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하트마트",
+      "address": "서울특별시 성북구 장위동 231-447",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "맛나슈퍼",
+      "address": "서울특별시 성북구 장위동 186-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신일상회",
+      "address": "서울특별시 성북구 장위동 218-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남상회",
+      "address": "서울특별시 성북구 장위동 230-86",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "축협",
+      "address": "서울특별시 성북구 장위동 215-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동방유통",
+      "address": "서울특별시 성북구 장위동 230-83",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신장위슈퍼",
+      "address": "서울특별시 성북구 장위동 207-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "서울특별시 성북구 장위동 233-589",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "서울특별시 성북구 장위동 238-127",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우석슈퍼",
+      "address": "서울특별시 성북구 장위동 233-79",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동일슈퍼",
+      "address": "서울특별시 성북구 장위동 238-158",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평택쌀상회",
+      "address": "서울특별시 성북구 장위동 232-65",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경기상회",
+      "address": "서울특별시 성북구 장위동 233-130",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중부쌀상회",
+      "address": "서울특별시 성북구 장위동 233-331",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아식품",
+      "address": "서울특별시 성북구 장위동 197-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "둘리슈퍼",
+      "address": "서울특별시 성북구 장위동 219-363",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금강슈퍼",
+      "address": "서울특별시 성북구 장위동 233-386",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청운마트",
+      "address": "서울특별시 성북구 장위동 182-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스탑",
+      "address": "서울특별시 성북구 장위동 238-122",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "여주슈퍼",
+      "address": "서울특별시 성북구 장위동 231-209",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용인상회",
+      "address": "서울특별시 성북구 장위동 215-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동방슈퍼",
+      "address": "서울특별시 성북구 장위동 231-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "승진슈퍼",
+      "address": "서울특별시 성북구 장위동 68-409",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행복슈퍼",
+      "address": "서울특별시 성북구 장위동 74-206",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물상회",
+      "address": "서울특별시 성북구 장위동 76-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수진약국",
+      "address": "서울특별시 성북구 장위동 74-140",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원주상회",
+      "address": "서울특별시 성북구 장위동 75-537",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영일철물",
+      "address": "서울특별시 성북구 장위동 68-652",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "서울특별시 성북구 장위동 62-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대지슈퍼",
+      "address": "서울특별시 성북구 장위동 70-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "준이네슈퍼",
+      "address": "서울특별시 성북구 장위동 64-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충북상회",
+      "address": "서울특별시 성북구 장위동 66-296",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "재현슈퍼",
+      "address": "서울특별시 성북구 장위동 74-160",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "까사또래화장품",
+      "address": "서울특별시 성북구 장위동 68-77",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "승리상회",
+      "address": "서울특별시 성북구 장위동 238-46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 장위그린점",
+      "address": "서울특별시 성북구 장위동 66-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대지정육점",
+      "address": "서울특별시 성북구 장위동 262-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무궁화슈퍼",
+      "address": "서울특별시 성북구 장위동 76-200",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대현슈퍼",
+      "address": "서울특별시 성북구 장위동 91-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신아실업",
+      "address": "서울특별시 성북구 장위동 238-496",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보람슈퍼",
+      "address": "서울특별시 성북구 장위동 268-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국슈퍼",
+      "address": "서울특별시 성북구 장위동 68-1064",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빙그레슈퍼",
+      "address": "서울특별시 성북구 장위동 246-171",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장위쌀직판장",
+      "address": "서울특별시 성북구 장위동 237-138",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "혜승슈퍼",
+      "address": "서울특별시 성북구 장위동 66-47",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "케이에스마트",
+      "address": "서울특별시 성북구 장위동 68-1014",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은행슈퍼",
+      "address": "서울특별시 성북구 장위동 75-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을식품",
+      "address": "서울특별시 성북구 장위동 68-366",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "불티나마트",
+      "address": "서울특별시 성북구 장위동 307-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙지물포",
+      "address": "서울특별시 성북구 장위동 38-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장수미니슈퍼",
+      "address": "서울특별시 성북구 장위동 270-251",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "할렐루야문구",
+      "address": "서울특별시 성북구 장위동 155-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평화마트",
+      "address": "서울특별시 성북구 장위동 118-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코리아마트",
+      "address": "서울특별시 성북구 장위동 85-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일상회",
+      "address": "서울특별시 성북구 장위동 173-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광운슈퍼",
+      "address": "서울특별시 성북구 장위동 149-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미성미니슈퍼",
+      "address": "서울특별시 성북구 장위동 25-55",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서호쌀상회",
+      "address": "서울특별시 성북구 장위동 25-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화랑슈퍼",
+      "address": "서울특별시 성북구 장위동 270-313",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "승진상회",
+      "address": "서울특별시 성북구 장위동 161-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미주마트",
+      "address": "서울특별시 성북구 장위동 159-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상아식품",
+      "address": "서울특별시 성북구 장위동 293-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동방채소",
+      "address": "서울특별시 성북구 장위동 172-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일동식품",
+      "address": "서울특별시 성북구 장위동 176-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홍성쌀집",
+      "address": "서울특별시 성북구 장위동 137-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영광슈퍼",
+      "address": "서울특별시 성북구 장위동 303-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "서울특별시 성북구 장위동 77-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼일식품",
+      "address": "서울특별시 성북구 장위동 140-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼영철물",
+      "address": "서울특별시 성북구 장위동 270-294",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수도슈퍼",
+      "address": "서울특별시 성북구 장위동 52-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "서울특별시 성북구 장위동 6-62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오성슈퍼",
+      "address": "서울특별시 성북구 장위동 303-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "민우슈퍼",
+      "address": "서울특별시 성북구 장위동 118-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동네슈퍼",
+      "address": "서울특별시 성북구 장위동 16-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "거북사",
+      "address": "서울특별시 성북구 장위동 270-388",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그랜드마트",
+      "address": "서울특별시 성북구 장위동 183-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강원상회",
+      "address": "서울특별시 성북구 석관동 281-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "곡성슈퍼",
+      "address": "서울특별시 성북구 석관동 73-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그랜드마트",
+      "address": "서울특별시 성북구 석관동 320-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배집",
+      "address": "서울특별시 성북구 석관동 77-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성상회",
+      "address": "서울특별시 성북구 석관동 58-161",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대천상회",
+      "address": "서울특별시 성북구 석관동 122-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "드림마트",
+      "address": "서울특별시 성북구 석관동 273-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부산슈퍼",
+      "address": "서울특별시 성북구 석관동 278-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "비비마트",
+      "address": "서울특별시 성북구 석관동 119-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성림슈퍼",
+      "address": "서울특별시 성북구 석관동 126-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성일마트",
+      "address": "서울특별시 성북구 석관동 48-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성진슈퍼",
+      "address": "서울특별시 성북구 석관동 77-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신선명약국",
+      "address": "서울특별시 성북구 석관동 47-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신세계슈퍼",
+      "address": "서울특별시 성북구 석관동 182-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신일슈퍼",
+      "address": "서울특별시 성북구 석관동 133-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성식품",
+      "address": "서울특별시 성북구 석관동 179-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우정슈퍼",
+      "address": "서울특별시 성북구 석관동 51-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우정슈퍼",
+      "address": "서울특별시 성북구 석관동 118-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용산상회",
+      "address": "서울특별시 성북구 석관동 131-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정금사",
+      "address": "서울특별시 성북구 석관동 274-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일상회",
+      "address": "서울특별시 성북구 석관동 120-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일쌀상회",
+      "address": "서울특별시 성북구 석관동 287-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일식품",
+      "address": "서울특별시 성북구 석관동 306-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "서울특별시 성북구 석관동 320-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양식품",
+      "address": "서울특별시 성북구 석관동 208-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "88과일슈퍼",
+      "address": "서울특별시 성북구 석관동 330-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평화상회",
+      "address": "서울특별시 성북구 석관동 50-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나슈퍼",
+      "address": "서울특별시 성북구 석관동 132-47",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한성식품",
+      "address": "서울특별시 성북구 석관동 123-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "서울특별시 성북구 석관동 131-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현정슈퍼",
+      "address": "서울특별시 성북구 석관동 313-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양주상회",
+      "address": "서울특별시 성북구 석관동 340-399",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백성사",
+      "address": "서울특별시 성북구 석관동 338-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대구슈퍼",
+      "address": "서울특별시 성북구 석관동 340-551",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부흥상회",
+      "address": "서울특별시 성북구 석관동 262-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아람슈퍼",
+      "address": "서울특별시 성북구 석관동 338-111",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을수퍼",
+      "address": "서울특별시 성북구 석관동 332-391",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙상회",
+      "address": "서울특별시 성북구 석관동 332-314",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한진식품",
+      "address": "서울특별시 성북구 석관동 332-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가든슈퍼",
+      "address": "서울특별시 성북구 석관동 323-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나로슈퍼",
+      "address": "서울특별시 성북구 석관동 255-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한나슈퍼",
+      "address": "서울특별시 성북구 석관동 261-289",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평택상회",
+      "address": "서울특별시 성북구 석관동 340-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "온양상회",
+      "address": "서울특별시 성북구 석관동 338-487",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황해사",
+      "address": "서울특별시 성북구 석관동 332-325",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호돌이식품",
+      "address": "서울특별시 성북구 석관동 258-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "서울특별시 성북구 석관동 332-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼정슈퍼",
+      "address": "서울특별시 성북구 석관동 338-375",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형라슈퍼",
+      "address": "서울특별시 성북구 석관동 332-565",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "순흥정육점",
+      "address": "서울특별시 성북구 정릉동 165-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성상회",
+      "address": "서울특별시 성북구 정릉동 165-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남일슈퍼",
+      "address": "서울특별시 성북구 정릉동 416",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "협신슈퍼",
+      "address": "서울특별시 성북구 정릉동 192-256",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산장슈퍼",
+      "address": "서울특별시 성북구 정릉동 506-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스카이하이퍼마켓",
+      "address": "서울특별시 성북구 정릉동 508  로얄2층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남상회",
+      "address": "서울특별시 성북구 정릉동 577-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남상회",
+      "address": "서울특별시 성북구 정릉동 105-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매일식품",
+      "address": "서울특별시 성북구 정릉동 420-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키공판장",
+      "address": "서울특별시 성북구 정릉동 465-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화남슈퍼",
+      "address": "서울특별시 성북구 정릉동 227-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서경할인마트",
+      "address": "서울특별시 성북구 정릉동 192-271",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원일상회",
+      "address": "서울특별시 성북구 정릉동 559-209",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "숭덕정육점",
+      "address": "서울특별시 성북구 정릉동 559-209",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정릉슈퍼",
+      "address": "서울특별시 성북구 정릉동 760-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이마트24 별내한화점",
+      "address": "서울특별시 성북구 동소문동5가 120 돈암동일하이빌",
+      "roadAddress": "서울특별시 성북구 보문로38길 11, 102동 604호 (동소문동5가, 돈암동일하이빌)",
+      "status": "영업/정상",
+      "licenseDate": "2019-12-10"
+    },
+    {
+      "name": "씨유(CU) 화성행운점",
+      "address": "서울특별시 성북구 삼선동5가 170-3 양지빌라트",
+      "roadAddress": "서울특별시 성북구 보문로29가길 23, 102동 202호 (삼선동5가, 양지빌라트)",
+      "status": "영업/정상",
+      "licenseDate": "2019-04-22"
+    }
+  ]
+}

@@ -1,0 +1,885 @@
+{
+  "region": "충청북도",
+  "regionSlug": "chungbuk",
+  "district": "진천군",
+  "districtSlug": "jincheon",
+  "updatedAt": "2026-03-26",
+  "totalCount": 125,
+  "stores": [
+    {
+      "name": "농협하나로마트",
+      "address": "충청북도 진천군 이월면 송림리 454-1",
+      "roadAddress": "충청북도 진천군 이월면 진광로 755 (이월농협)",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-27"
+    },
+    {
+      "name": "(주)생거마트",
+      "address": "충청북도 진천군 진천읍 벽암리 126-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-24"
+    },
+    {
+      "name": "목화영슈퍼마켓",
+      "address": "충청북도 진천군 광혜원면 광혜원리 529-1",
+      "roadAddress": "충청북도 진천군 광혜원면 화랑1길 7 (목화2차아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-16"
+    },
+    {
+      "name": "훼미리마트 진천점",
+      "address": "충청북도 진천군 진천읍 읍내리 47-3",
+      "roadAddress": "충청북도 진천군 진천읍 중앙동로 64",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼밀리 슈퍼",
+      "address": "충청북도 진천군 진천읍 읍내리 133-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진천농협(하나로마트)",
+      "address": "충청북도 진천군 진천읍 읍내리 105-1",
+      "roadAddress": "충청북도 진천군 진천읍 중앙동5길 12",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-16"
+    },
+    {
+      "name": "진천마트",
+      "address": "충청북도 진천군 진천읍 읍내리 136",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진천축산농협 하나로마트",
+      "address": "충청북도 진천군 진천읍 벽암리 188-1",
+      "roadAddress": "충청북도 진천군 진천읍 문화로 200-31 (축협하나로마트)",
+      "status": "영업/정상",
+      "licenseDate": "2010-02-03"
+    },
+    {
+      "name": "바이더웨이",
+      "address": "충청북도 진천군 진천읍 읍내리 395-20",
+      "roadAddress": "충청북도 진천군 진천읍 상산로 90",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "희망슈퍼",
+      "address": "충청북도 진천군 진천읍 읍내리 273-2",
+      "roadAddress": "충청북도 진천군 진천읍 중앙북로 45",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대화슈퍼",
+      "address": "충청북도 진천군 진천읍 교성리 234-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "삼성오토바이",
+      "address": "충청북도 진천군 진천읍 읍내리 238-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "삼공상회",
+      "address": "충청북도 진천군 진천읍 벽암리 141-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "석박상회",
+      "address": "충청북도 진천군 진천읍 사석리 379-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "여사상회",
+      "address": "충청북도 진천군 진천읍 사석리 730",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "삼덕상회",
+      "address": "충청북도 진천군 진천읍 삼덕리 334",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "충청북도 진천군 진천읍 읍내리 91-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-02"
+    },
+    {
+      "name": "단지슈퍼",
+      "address": "충청북도 진천군 진천읍 읍내리 122-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-02"
+    },
+    {
+      "name": "엘림슈퍼",
+      "address": "충청북도 진천군 진천읍 읍내리 471-65",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-02"
+    },
+    {
+      "name": "동백슈퍼",
+      "address": "충청북도 진천군 진천읍 성석리 산 12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-02"
+    },
+    {
+      "name": "축협연쇄점",
+      "address": "충청북도 진천군 진천읍 읍내리 305-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-02"
+    },
+    {
+      "name": "공원판매소",
+      "address": "충청북도 진천군 진천읍 읍내리 370-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-02"
+    },
+    {
+      "name": "단골상회",
+      "address": "충청북도 진천군 진천읍 읍내리 333",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-02"
+    },
+    {
+      "name": "신양슈퍼",
+      "address": "충청북도 진천군 진천읍 읍내리 448",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-02"
+    },
+    {
+      "name": "양지슈퍼",
+      "address": "충청북도 진천군 진천읍 교성리 7-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-02"
+    },
+    {
+      "name": "천호슈퍼",
+      "address": "충청북도 진천군 진천읍 신정리 675-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-02"
+    },
+    {
+      "name": "장산슈퍼",
+      "address": "충청북도 진천군 진천읍 신정리 651 장산아파트상가 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현주상회",
+      "address": "충청북도 진천군 진천읍 교성리 158",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-02"
+    },
+    {
+      "name": "이례지업사",
+      "address": "충청북도 진천군 진천읍 읍내리 390-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-01"
+    },
+    {
+      "name": "대왕슈퍼",
+      "address": "충청북도 진천군 진천읍 교성리 162-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-01"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "충청북도 진천군 진천읍 교성리 213-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-22"
+    },
+    {
+      "name": "정슈퍼",
+      "address": "충청북도 진천군 진천읍 교성리 247-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-22"
+    },
+    {
+      "name": "한마음슈퍼",
+      "address": "충청북도 진천군 진천읍 읍내리 41-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-26"
+    },
+    {
+      "name": "진천식품총판",
+      "address": "충청북도 진천군 진천읍 읍내리 111-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-30"
+    },
+    {
+      "name": "민영종합포장",
+      "address": "충청북도 진천군 진천읍 읍내리 262",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-12"
+    },
+    {
+      "name": "제일통닭집",
+      "address": "충청북도 진천군 진천읍 읍내리 142-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-02"
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "충청북도 진천군 진천읍 교성리 17-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-08"
+    },
+    {
+      "name": "금성슈퍼",
+      "address": "충청북도 진천군 진천읍 장관리 768-57",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-08"
+    },
+    {
+      "name": "농어민후계자",
+      "address": "충청북도 진천군 진천읍 읍내리 119-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아담슈퍼",
+      "address": "충청북도 진천군 진천읍 읍내리 471-68",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "타운슈퍼",
+      "address": "충청북도 진천군 진천읍 교성리 359-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-24"
+    },
+    {
+      "name": "진천공판장",
+      "address": "충청북도 진천군 진천읍 읍내리 136",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-29"
+    },
+    {
+      "name": "동백하이퍼마켓",
+      "address": "충청북도 진천군 진천읍 장관리 3-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-20"
+    },
+    {
+      "name": "오복슈퍼",
+      "address": "충청북도 진천군 진천읍 교성리 33-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-22"
+    },
+    {
+      "name": "까치슈퍼",
+      "address": "충청북도 진천군 진천읍 읍내리 77",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "충청북도 진천군 진천읍 읍내리 150-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-30"
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "충청북도 진천군 진천읍 읍내리 91-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-14"
+    },
+    {
+      "name": "만리산휴게소식당",
+      "address": "충청북도 진천군 진천읍 연곡리 248",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-28"
+    },
+    {
+      "name": "해태마켓",
+      "address": "충청북도 진천군 진천읍 읍내리 652",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-21"
+    },
+    {
+      "name": "유진슈퍼",
+      "address": "충청북도 진천군 진천읍 읍내리 371",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-11"
+    },
+    {
+      "name": "주공뉴마트",
+      "address": "충청북도 진천군 진천읍 교성리 89 주공@ 101동 401호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신양슈퍼",
+      "address": "충청북도 진천군 진천읍 읍내리 448",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-24"
+    },
+    {
+      "name": "주공뉴마트",
+      "address": "충청북도 진천군 진천읍 교성리 89 주공@ 101동 401호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)화랑마트",
+      "address": "충청북도 진천군 진천읍 교성리 203",
+      "roadAddress": "충청북도 진천군 진천읍 남산길 64",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-08"
+    },
+    {
+      "name": "갑을하이마트",
+      "address": "충청북도 진천군 광혜원면 죽현리 212-7    상가1층 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-26"
+    },
+    {
+      "name": "한국유통란제리",
+      "address": "충청북도 진천군 진천읍 읍내리 22-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "충청북도 진천군 진천읍 신정리 390 삼진상가106,107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-10"
+    },
+    {
+      "name": "산호훼미리마트",
+      "address": "충청북도 진천군 진천읍 성석리 450 산호아파트상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-21"
+    },
+    {
+      "name": "흥진슈퍼",
+      "address": "충청북도 진천군 진천읍 읍내리 173",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-29"
+    },
+    {
+      "name": "장산슈퍼",
+      "address": "충청북도 진천군 진천읍 신정리 651 장산아파트상가 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-13"
+    },
+    {
+      "name": "까치슈퍼",
+      "address": "충청북도 진천군 진천읍 읍내리 77",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동백마트",
+      "address": "충청북도 진천군 진천읍 성석리 327-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김순란",
+      "address": "충청북도 진천군 진천읍 신정리 469 우미아파트 104동 301호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)엘지유통 진천점",
+      "address": "충청북도 진천군 진천읍 교성리 206-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "공원매표소",
+      "address": "충청북도 진천군 진천읍 읍내리 370-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙왕족발",
+      "address": "충청북도 진천군 진천읍 읍내리 260-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양마트",
+      "address": "충청북도 진천군 진천읍 벽암리 569",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25 진천 성모점",
+      "address": "충청북도 진천군 진천읍 읍내리 238-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장수슈퍼",
+      "address": "충청북도 진천군 진천읍 읍내리 347-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "천안문구사",
+      "address": "충청북도 진천군 덕산읍 용몽리 560-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "남천지업사",
+      "address": "충청북도 진천군 덕산읍 용몽리 594-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "큰송방슈퍼",
+      "address": "충청북도 진천군 덕산읍 용몽리 579",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대덕상회",
+      "address": "충청북도 진천군 덕산읍 용몽리 575-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-02"
+    },
+    {
+      "name": "광일상회",
+      "address": "충청북도 진천군 덕산읍 용몽리 577-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-31"
+    },
+    {
+      "name": "덕산C마트",
+      "address": "충청북도 진천군 덕산읍 용몽리 264-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-23"
+    },
+    {
+      "name": "나우마트",
+      "address": "충청북도 진천군 덕산읍 합목리 302-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕산농협하나로마트",
+      "address": "충청북도 진천군 덕산읍 용몽리 574-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 진천 덕산점",
+      "address": "충청북도 진천군 덕산읍 용몽리 594-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "석정슈퍼사",
+      "address": "충청북도 진천군 초평면 용정리 생곡",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-02-01"
+    },
+    {
+      "name": "오복슈퍼",
+      "address": "충청북도 진천군 초평면 용정리 지전",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-02-01"
+    },
+    {
+      "name": "사산매점",
+      "address": "충청북도 진천군 초평면 화산리 사산",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-02-01"
+    },
+    {
+      "name": "금오매점",
+      "address": "충청북도 진천군 초평면 화산리 금오",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-02-01"
+    },
+    {
+      "name": "진암휴게소",
+      "address": "충청북도 진천군 초평면 진암리 진동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-02-01"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "충청북도 진천군 문백면 봉죽리 330-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "어은송광사",
+      "address": "충청북도 진천군 문백면 봉죽리 어은",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "충청북도 진천군 문백면 봉죽리 330-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "충청북도학생종합야영장",
+      "address": "충청북도 진천군 문백면 은탄리 산 3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-08"
+    },
+    {
+      "name": "문백25시",
+      "address": "충청북도 진천군 문백면 봉죽리 315-5 정암상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-14"
+    },
+    {
+      "name": "문백25시",
+      "address": "충청북도 진천군 문백면 봉죽리 315-5 정암상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세진할인마트",
+      "address": "충청북도 진천군 문백면 봉죽리 257-4    경양레스빌 상가104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-24"
+    },
+    {
+      "name": "오은상회",
+      "address": "충청북도 진천군 백곡면 성대리 966",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "농산물판매장",
+      "address": "충청북도 진천군 백곡면 갈월리 335-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "차부슈퍼",
+      "address": "충청북도 진천군 백곡면 석현리 325-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "유오상회",
+      "address": "충청북도 진천군 백곡면 구수리 구수",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "미기재",
+      "address": "충청북도 진천군 백곡면 대문리 165",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "미기재",
+      "address": "충청북도 진천군 백곡면 대문리 165",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "진천농협백곡지소 하나로마트",
+      "address": "충청북도 진천군 백곡면 석현리 323-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-21"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "충청북도 진천군 이월면 송림리 시장",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "만평종합건재",
+      "address": "충청북도 진천군 이월면 송림리 시장",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "덕산슈퍼",
+      "address": "충청북도 진천군 이월면 송림리 시장",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "미기재",
+      "address": "충청북도 진천군 이월면 송림리 시장",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "미기재",
+      "address": "충청북도 진천군 이월면 송림리 시장",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린하이퍼",
+      "address": "충청북도 진천군 이월면 장양리 419-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-30"
+    },
+    {
+      "name": "문화슈퍼",
+      "address": "충청북도 진천군 이월면 내촌리 863",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-19"
+    },
+    {
+      "name": "대형슈퍼",
+      "address": "충청북도 진천군 이월면 송림리 512",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-27"
+    },
+    {
+      "name": "이월농협하나로마트",
+      "address": "충청북도 진천군 이월면 송림리 503-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-27"
+    },
+    {
+      "name": "마트앤마트",
+      "address": "충청북도 진천군 이월면 송림리 425-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-28"
+    },
+    {
+      "name": "이월마트",
+      "address": "충청북도 진천군 이월면 송림리 425-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "충청북도 진천군 광혜원면 광혜원리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "만승슈퍼",
+      "address": "충청북도 진천군 광혜원면 광혜원리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대영슈퍼",
+      "address": "충청북도 진천군 광혜원면 광혜원리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "축협판매장",
+      "address": "충청북도 진천군 광혜원면 광혜원리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-13"
+    },
+    {
+      "name": "LG수퍼렛",
+      "address": "충청북도 진천군 광혜원면 광혜원리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-06"
+    },
+    {
+      "name": "동아하이퍼",
+      "address": "충청북도 진천군 광혜원면 광혜원리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-26"
+    },
+    {
+      "name": "동양마트",
+      "address": "충청북도 진천군 광혜원면 광혜원리 529-130",
+      "roadAddress": "충청북도 진천군 광혜원면 화랑5길 3",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-15"
+    },
+    {
+      "name": "만승25시",
+      "address": "충청북도 진천군 광혜원면 광혜원리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-20"
+    },
+    {
+      "name": "훼미리마트광혜원점",
+      "address": "충청북도 진천군 광혜원면 광혜원리 284-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-25"
+    },
+    {
+      "name": "우리마트",
+      "address": "충청북도 진천군 광혜원면 광혜원리 408-3    주연상가 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-11"
+    },
+    {
+      "name": "플러스원",
+      "address": "충청북도 진천군 광혜원면 광혜원리 529-97",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김남효",
+      "address": "충청북도 진천군 광혜원면 광혜원리 1078 주공상가 103동 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 광혜원 만승점",
+      "address": "충청북도 진천군 광혜원면 광혜원리 443-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 광혜원 공원점",
+      "address": "충청북도 진천군 광혜원면 광혜원리 529-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그랜드마트",
+      "address": "충청북도 진천군 광혜원면 광혜원리 423-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 광혜원점",
+      "address": "충청북도 진천군 광혜원면 광혜원리 276-3    다오자빌딩 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진명서림",
+      "address": "충청북도 진천군 광혜원면 광혜원리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    }
+  ]
+}

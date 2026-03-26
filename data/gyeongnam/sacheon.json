@@ -1,0 +1,787 @@
+{
+  "region": "경상남도",
+  "regionSlug": "gyeongnam",
+  "district": "사천시",
+  "districtSlug": "sacheon",
+  "updatedAt": "2026-03-26",
+  "totalCount": 111,
+  "stores": [
+    {
+      "name": "서부상회",
+      "address": "경상남도 사천시 서동 190-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해금슈퍼",
+      "address": "경상남도 사천시 서금동 101-49",
+      "roadAddress": "경상남도 사천시 등대길 7  (서금동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼천포농협하나로마트남양지소",
+      "address": "경상남도 사천시 송포동 354-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "로타리슈퍼마켓",
+      "address": "경상남도 사천시 사천읍 선인리 169-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼천포할인마트",
+      "address": "경상남도 사천시 벌리동 257-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍년슈퍼",
+      "address": "경상남도 사천시 선구동 284-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "국민슈퍼",
+      "address": "경상남도 사천시 벌리동 424-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "41번가미니마트",
+      "address": "경상남도 사천시 선구동 41-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수남상회",
+      "address": "경상남도 사천시 선구동 48-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굴항편의점",
+      "address": "경상남도 사천시 대방동 236",
+      "roadAddress": "경상남도 사천시 대방길 125  (대방동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키부두할인마트",
+      "address": "경상남도 사천시 서동 178-63",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트사천터미널점",
+      "address": "경상남도 사천시 사천읍 수석리 270-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대방슈퍼",
+      "address": "경상남도 사천시 사천읍 사주리 460-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팬시월드",
+      "address": "경상남도 사천시 벌리동 192-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "경상남도 사천시 벌리동 258-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대망식품",
+      "address": "경상남도 사천시 벌리동 267-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼천포여중매점",
+      "address": "경상남도 사천시 용강동 760",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘지슈퍼렛각산점",
+      "address": "경상남도 사천시 동동 378-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대명슈퍼",
+      "address": "경상남도 사천시 사천읍 정의리 192-2    대명아파트 나동 301호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만나슈퍼",
+      "address": "경상남도 사천시 선구동 84-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트선구점",
+      "address": "경상남도 사천시 선구동 41-67",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "와룡상회",
+      "address": "경상남도 사천시 선구동 48-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경덕24시편의점",
+      "address": "경상남도 사천시 벌리동 21-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초양낚시편의점",
+      "address": "경상남도 사천시 늑도동 529",
+      "roadAddress": "경상남도 사천시 초양길 58  (늑도동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한려마트",
+      "address": "경상남도 사천시 대방동 719-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트사천동림점",
+      "address": "경상남도 사천시 동림동 124-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문화상회",
+      "address": "경상남도 사천시 서동 311-62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경태상회",
+      "address": "경상남도 사천시 서동 317",
+      "roadAddress": "경상남도 사천시 서부시장길 92  (서동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다루타할인마트",
+      "address": "경상남도 사천시 서동 322-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새미스토아",
+      "address": "경상남도 사천시 동금동 58-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25시사천점",
+      "address": "경상남도 사천시 사천읍 수석리 281",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25사천중앙점",
+      "address": "경상남도 사천시 사천읍 평화리 152-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "몬순이",
+      "address": "경상남도 사천시 사천읍 수석리 190-6",
+      "roadAddress": "경상남도 사천시 사천읍 읍내1길 112",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스마일25시",
+      "address": "경상남도 사천시 사천읍 수석리 254-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴신진마트",
+      "address": "경상남도 사천시 사천읍 평화리 2-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리마트",
+      "address": "경상남도 사천시 향촌동 992-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대교매점",
+      "address": "경상남도 사천시 대방동 681",
+      "roadAddress": "경상남도 사천시 사천대로 17  (대방동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼천포새마을금고",
+      "address": "경상남도 사천시 동동 184-50 1층",
+      "roadAddress": "경상남도 사천시 서부시장길 61, 1층 (동동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "각산고추방앗간",
+      "address": "경상남도 사천시 동동 304-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오복슈퍼",
+      "address": "경상남도 사천시 동동 239-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성마트",
+      "address": "경상남도 사천시 서동 178-47",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신세계마트",
+      "address": "경상남도 사천시 서동 257-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수협매점",
+      "address": "경상남도 사천시 서동 322-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "실안편의점",
+      "address": "경상남도 사천시 실안동 490",
+      "roadAddress": "경상남도 사천시 실안길 3  (실안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지에스(GS)편의점",
+      "address": "경상남도 사천시 서금동 145",
+      "roadAddress": "경상남도 사천시 목섬길 17  (서금동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "애플마트",
+      "address": "경상남도 사천시 사천읍 정의리 42-4",
+      "roadAddress": "경상남도 사천시 사천읍 구암두문로 64",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성운집",
+      "address": "경상남도 사천시 향촌동 710",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "낙원집",
+      "address": "경상남도 사천시 향촌동 709-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "낙원집",
+      "address": "경상남도 사천시 향촌동 709-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산장카페",
+      "address": "경상남도 사천시 향촌동 산 28-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신선집휴게소",
+      "address": "경상남도 사천시 향촌동 708-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-02-23"
+    },
+    {
+      "name": "한려장",
+      "address": "경상남도 사천시 향촌동 709-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하늘장",
+      "address": "경상남도 사천시 향촌동 709-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "천전휴게실",
+      "address": "경상남도 사천시 향촌동 709-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시골횟집슈퍼",
+      "address": "경상남도 사천시 향촌동 709-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-02-10"
+    },
+    {
+      "name": "시골횟집슈퍼",
+      "address": "경상남도 사천시 향촌동 709-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한마음병원매점",
+      "address": "경상남도 사천시 향촌동 446-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-01"
+    },
+    {
+      "name": "훼미리마트한마음병원점",
+      "address": "경상남도 사천시 향촌동 441-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "ok할인마트",
+      "address": "경상남도 사천시 벌리동 59-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협연합슈퍼",
+      "address": "경상남도 사천시 벌리동 261-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉광슈퍼",
+      "address": "경상남도 사천시 동동 184-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉광슈퍼",
+      "address": "경상남도 사천시 동동 184-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "크로바마트",
+      "address": "경상남도 사천시 향촌동 115-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-11"
+    },
+    {
+      "name": "고성슈퍼",
+      "address": "경상남도 사천시 벌리동 431-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사남농업협동조합판매장",
+      "address": "경상남도 사천시 사남면 죽천리 15-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-07"
+    },
+    {
+      "name": "청구마트",
+      "address": "경상남도 사천시 정동면 고읍리 546-1    106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트사천정동점",
+      "address": "경상남도 사천시 정동면 고읍리 470-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-07"
+    },
+    {
+      "name": "우리장례식장매점",
+      "address": "경상남도 사천시 송포동 717-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-14"
+    },
+    {
+      "name": "우리마트월성점",
+      "address": "경상남도 사천시 사남면 월성리 546-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-28"
+    },
+    {
+      "name": "푸르지오마트",
+      "address": "경상남도 사천시 사남면 월성리 451 푸르지오상가 116동 112호",
+      "roadAddress": "경상남도 사천시 사남면 조동길 61, 116동 112호 (푸르지오상가)",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-14"
+    },
+    {
+      "name": "GS25사천월성점",
+      "address": "경상남도 사천시 사남면 월성리 450 진사주공아파트상가 102동",
+      "roadAddress": "경상남도 사천시 사남면 조동길 60, 102동 (진사주공아파트상가)",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-20"
+    },
+    {
+      "name": "한마음병원매점",
+      "address": "경상남도 사천시 향촌동 446-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-24"
+    },
+    {
+      "name": "한보3차슈퍼",
+      "address": "경상남도 사천시 정동면 고읍리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-03"
+    },
+    {
+      "name": "중앙시장번영회",
+      "address": "경상남도 사천시 선구동 18-317",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-03"
+    },
+    {
+      "name": "정동농업협동조합",
+      "address": "경상남도 사천시 정동면 대곡리 301-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-18"
+    },
+    {
+      "name": "훼미리마트사천평화점",
+      "address": "경상남도 사천시 사천읍 평화리 134",
+      "roadAddress": "경상남도 사천시 사천읍 수양로 26",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트사천평화점",
+      "address": "경상남도 사천시 사천읍 평화리 134",
+      "roadAddress": "경상남도 사천시 사천읍 수양로 26",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "24시편의점",
+      "address": "경상남도 사천시 사천읍 수석리 303-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바다슈퍼",
+      "address": "경상남도 사천시 서동 334-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-30"
+    },
+    {
+      "name": "이안애마트",
+      "address": "경상남도 사천시 사천읍 구암리 519 원광이안애아파트상가 101동 102호",
+      "roadAddress": "경상남도 사천시 사천읍 구암두문로 254-5, 101동 102호 (원광이안애아파트상가)",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-08"
+    },
+    {
+      "name": "대박마트",
+      "address": "경상남도 사천시 사남면 월성리 451 푸르지오상가 116동 111호",
+      "roadAddress": "경상남도 사천시 사남면 조동길 61, 116동 111호 (푸르지오상가)",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-08"
+    },
+    {
+      "name": "삼천포우리장례식장매점",
+      "address": "경상남도 사천시 송포동 717-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-08"
+    },
+    {
+      "name": "뉴신진마트",
+      "address": "경상남도 사천시 사천읍 평화리 2-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대방참빛할인마트",
+      "address": "경상남도 사천시 대방동 205-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대망식품",
+      "address": "경상남도 사천시 벌리동 267-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남동웰빙마트",
+      "address": "경상남도 사천시 선구동 300",
+      "roadAddress": "경상남도 사천시 새동네1길 68  (선구동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-11-29"
+    },
+    {
+      "name": "중앙문구",
+      "address": "경상남도 사천시 벌리동 260-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청구마트",
+      "address": "경상남도 사천시 정동면 고읍리 546-1    106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리마트",
+      "address": "경상남도 사천시 향촌동 992-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-06"
+    },
+    {
+      "name": "다사랑문구",
+      "address": "경상남도 사천시 벌리동 192-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-08"
+    },
+    {
+      "name": "산성할인마트",
+      "address": "경상남도 사천시 사천읍 정의리 192-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-09"
+    },
+    {
+      "name": "투인파이브",
+      "address": "경상남도 사천시 사천읍 수석리 254-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-16"
+    },
+    {
+      "name": "대창상회",
+      "address": "경상남도 사천시 동동 184-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-27"
+    },
+    {
+      "name": "이숙희집",
+      "address": "경상남도 사천시 축동면 배춘리 730-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-28"
+    },
+    {
+      "name": "서포마트",
+      "address": "경상남도 사천시 서포면 구평리 657-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-13"
+    },
+    {
+      "name": "신세계할인마트",
+      "address": "경상남도 사천시 서동 257-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-13"
+    },
+    {
+      "name": "우리마트향촌점",
+      "address": "경상남도 사천시 향촌동 992-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-12"
+    },
+    {
+      "name": "수협매점",
+      "address": "경상남도 사천시 서동 322-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-12"
+    },
+    {
+      "name": "동강마트",
+      "address": "경상남도 사천시 용현면 신복리 7-1    동강아뜨리에상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-17"
+    },
+    {
+      "name": "엘지슈퍼렛각산점",
+      "address": "경상남도 사천시 동동 378-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-18"
+    },
+    {
+      "name": "진아슈퍼",
+      "address": "경상남도 사천시 향촌동 246-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-25"
+    },
+    {
+      "name": "모례구매부",
+      "address": "경상남도 사천시 향촌동 602",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-02"
+    },
+    {
+      "name": "손숙녀가계",
+      "address": "경상남도 사천시 향촌동 219-10",
+      "roadAddress": "경상남도 사천시 삼상로 226  (향촌동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신진철물",
+      "address": "경상남도 사천시 벌리동 53-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강태석",
+      "address": "경상남도 사천시 사천읍 두량리 1297-35",
+      "roadAddress": "경상남도 사천시 사천읍 두량로 377",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해우레포츠",
+      "address": "경상남도 사천시 서금동 101-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-18"
+    },
+    {
+      "name": "대창상회",
+      "address": "경상남도 사천시 동동 184-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-21"
+    },
+    {
+      "name": "포켓슈퍼",
+      "address": "경상남도 사천시 사천읍 수석리 199",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-02"
+    },
+    {
+      "name": "운화철물공구백화점",
+      "address": "경상남도 사천시 사천읍 수석리 184-2",
+      "roadAddress": "경상남도 사천시 사천읍 동성길 7",
+      "status": "영업/정상",
+      "licenseDate": "2019-11-25"
+    },
+    {
+      "name": "씨유 사천향촌사랑점",
+      "address": "경상남도 사천시 향촌동 993-6",
+      "roadAddress": "경상남도 사천시 남일로 129 (향촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-12-13"
+    },
+    {
+      "name": "가람슈퍼",
+      "address": "경상남도 사천시 서포면 자혜리 862",
+      "roadAddress": "경상남도 사천시 서포면 중촌로 169-17",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-26"
+    }
+  ]
+}

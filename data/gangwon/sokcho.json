@@ -1,0 +1,164 @@
+{
+  "region": "강원특별자치도",
+  "regionSlug": "gangwon",
+  "district": "속초시",
+  "districtSlug": "sokcho",
+  "updatedAt": "2026-03-26",
+  "totalCount": 22,
+  "stores": [
+    {
+      "name": "대우체인",
+      "address": "강원특별자치도 속초시 동명동 66-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "칠성미곡",
+      "address": "강원특별자치도 속초시 동명동 450-353",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "강원특별자치도 속초시 동명동 10통6반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "달동네슈퍼",
+      "address": "강원특별자치도 속초시 동명동 508",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "강원특별자치도 속초시 동명동 450-63",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원네슈퍼",
+      "address": "강원특별자치도 속초시 동명동 39",
+      "roadAddress": "강원특별자치도 속초시 영금정로 23  (동명동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명미니슈퍼",
+      "address": "강원특별자치도 속초시 동명동 450-269",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥미니슈퍼",
+      "address": "강원특별자치도 속초시 동명동 450-264",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "D마트",
+      "address": "강원특별자치도 속초시 조양동 1498-2",
+      "roadAddress": "강원특별자치도 속초시 조양상가길 25  (조양동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-30"
+    },
+    {
+      "name": "새한유통",
+      "address": "강원특별자치도 속초시 교동 800-8",
+      "roadAddress": "강원특별자치도 속초시 만리공원길 4  (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-07"
+    },
+    {
+      "name": "무지개슈퍼",
+      "address": "강원특별자치도 속초시 설악동 245-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-07"
+    },
+    {
+      "name": "(주)한진교동점",
+      "address": "강원특별자치도 속초시 교동 766",
+      "roadAddress": "강원특별자치도 속초시 만천3길 8  (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-07"
+    },
+    {
+      "name": "캠퍼스편의점",
+      "address": "강원특별자치도 속초시 노학동 629-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-29"
+    },
+    {
+      "name": "성은미니슈퍼",
+      "address": "강원특별자치도 속초시 조양동 1294-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-29"
+    },
+    {
+      "name": "성호마트",
+      "address": "강원특별자치도 속초시 조양동 1294-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-29"
+    },
+    {
+      "name": "하나로슈퍼",
+      "address": "강원특별자치도 속초시 청학동 487-52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아슈퍼",
+      "address": "강원특별자치도 속초시 동명동 85",
+      "roadAddress": "강원특별자치도 속초시 중앙로 249  (동명동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-18"
+    },
+    {
+      "name": "청호마트",
+      "address": "강원특별자치도 속초시 청호동 1196",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-19"
+    },
+    {
+      "name": "동화슈퍼",
+      "address": "강원특별자치도 속초시 중앙동 473-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-24"
+    },
+    {
+      "name": "행운슈퍼",
+      "address": "강원특별자치도 속초시 동명동 72",
+      "roadAddress": "강원특별자치도 속초시 중앙로 262  (동명동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-14"
+    },
+    {
+      "name": "청학슈퍼",
+      "address": "강원도 속초시 장사동 551-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-25"
+    },
+    {
+      "name": "늘푸른마트",
+      "address": "강원특별자치도 속초시 교동 783",
+      "roadAddress": "강원특별자치도 속초시 미시령로3337번길 7  (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-29"
+    }
+  ]
+}

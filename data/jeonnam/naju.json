@@ -1,0 +1,3251 @@
+{
+  "region": "전라남도",
+  "regionSlug": "jeonnam",
+  "district": "나주시",
+  "districtSlug": "naju",
+  "updatedAt": "2026-03-26",
+  "totalCount": 463,
+  "stores": [
+    {
+      "name": "씨유(CU) 나주중흥점",
+      "address": "전라남도 나주시 대호동 1020 대방노블랜드1차아파트",
+      "roadAddress": "전라남도 나주시 대호길 76-8 (대호동, 대방노블랜드1차아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2026-03-10"
+    },
+    {
+      "name": "세븐일레븐 나주혁신5단지점",
+      "address": "전라남도 나주시 빛가람동 303 빛가람 사랑으로 부영3단지 아파트",
+      "roadAddress": "전라남도 나주시 빛가람로 800 (빛가람동, 빛가람 사랑으로 부영3단지 아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2026-03-17"
+    },
+    {
+      "name": "남평농업협동조합 파머스마켓",
+      "address": "전라남도 나주시 남평읍 남평리 197-5 남평농협",
+      "roadAddress": "전라남도 나주시 남평읍 남평1로 29, 남평농협",
+      "status": "영업/정상",
+      "licenseDate": "2021-01-13"
+    },
+    {
+      "name": "현대하이퍼마켓",
+      "address": "전라남도 나주시 대호동 70 황토회관",
+      "roadAddress": "전라남도 나주시 북망문길 34, 황토회관 (대호동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "금강상회",
+      "address": "전라남도 나주시 영산동 269-12",
+      "roadAddress": "전라남도 나주시 영산포로 203  (영산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "장수복집",
+      "address": "전라남도 나주시 영산동 141-2 장수복집",
+      "roadAddress": "전라남도 나주시 영산3길 32-22, 장수복집 (영산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "금성소비자슈퍼",
+      "address": "전라남도 나주시 이창동 515",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "나들가게 대구마트",
+      "address": "전라남도 나주시 이창동 517-10 대구마트",
+      "roadAddress": "전라남도 나주시 영산포로 169-1, 대구마트 (이창동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "향촌식당",
+      "address": "전라남도 나주시 이창동 507-13",
+      "roadAddress": "전라남도 나주시 이창1길 41-1  (이창동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "나들가게 태양슈퍼",
+      "address": "전라남도 나주시 이창동 158-9",
+      "roadAddress": "전라남도 나주시 이창1길 16 (이창동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "우정슈퍼",
+      "address": "전라남도 나주시 이창동 78-7",
+      "roadAddress": "전라남도 나주시 가마태길 2-1  (이창동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-31"
+    },
+    {
+      "name": "그린365일할인마트",
+      "address": "전라남도 나주시 금천면 오강리 250-4 마트",
+      "roadAddress": "전라남도 나주시 금천면 금영로 940, 마트",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-30"
+    },
+    {
+      "name": "남평상회",
+      "address": "전라남도 나주시 남평읍 남평리 128",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-30"
+    },
+    {
+      "name": "남평통닭",
+      "address": "전라남도 나주시 남평읍 남평리 82",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-30"
+    },
+    {
+      "name": "임채경",
+      "address": "전라남도 나주시 봉황면 죽석리 83",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-30"
+    },
+    {
+      "name": "김채석",
+      "address": "전라남도 나주시 남평읍 교촌리 165",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-23"
+    },
+    {
+      "name": "거북이수퍼",
+      "address": "전라남도 나주시 영산동 66-12 거북이수퍼",
+      "roadAddress": "전라남도 나주시 예향로 3875-2, 거북이수퍼 (영산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "삼영슈퍼",
+      "address": "전라남도 나주시 삼영동 513-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "대덕슈퍼",
+      "address": "전라남도 나주시 삼영동 63",
+      "roadAddress": "전라남도 나주시 남부원길 3 (삼영동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "성일서점",
+      "address": "전라남도 나주시 삼영동 95-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "전라남도 나주시 서내동 78",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "수강슈퍼",
+      "address": "전라남도 나주시 금계동 102-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "중학교정문슈퍼",
+      "address": "전라남도 나주시 세지면 오봉리 276-3 정문앞슈퍼문방구",
+      "roadAddress": "전라남도 나주시 세지면 동창로 110, 정문앞슈퍼문방구",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-30"
+    },
+    {
+      "name": "미광슈퍼",
+      "address": "전라남도 나주시 금계동 46-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "현성슈퍼",
+      "address": "전라남도 나주시 남내동 71-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "유선슈퍼",
+      "address": "전라남도 나주시 성북동 176",
+      "roadAddress": "전라남도 나주시 중앙로 54  (성북동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "남정순",
+      "address": "전라남도 나주시 공산면 금곡리 856-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-30"
+    },
+    {
+      "name": "다시농협하나로마트",
+      "address": "전라남도 나주시 다시면 월태리 557-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-30"
+    },
+    {
+      "name": "정길연",
+      "address": "전라남도 나주시 문평면 산호리 991-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-30"
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "전라남도 나주시 남외동 156",
+      "roadAddress": "전라남도 나주시 남외2길 12 (남외동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "복전슈퍼",
+      "address": "전라남도 나주시 영산동 254",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "영광상회",
+      "address": "전라남도 나주시 영산동 66",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "용산슈퍼",
+      "address": "전라남도 나주시 용산동 64-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "주공슈퍼",
+      "address": "전라남도 나주시 용산동 64-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "전라남도 나주시 이창동 524",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "전라남도 나주시 이창동 160-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "이창슈퍼",
+      "address": "전라남도 나주시 이창동 73-1 백조 APT 다동 403호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "대신슈퍼",
+      "address": "전라남도 나주시 이창동 73-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "영암미곡상회",
+      "address": "전라남도 나주시 이창동 171-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "성동슈퍼",
+      "address": "전라남도 나주시 이창동 112-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "문평슈퍼",
+      "address": "전라남도 나주시 문평면 안곡리 75-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "다시농협 문평지점 하나로마트",
+      "address": "전라남도 나주시 문평면 안곡리 122-1 문평농협",
+      "roadAddress": "전라남도 나주시 문평면 체암로 303, 문평농협",
+      "status": "영업/정상",
+      "licenseDate": "2026-03-06"
+    },
+    {
+      "name": "믿음상회",
+      "address": "전라남도 나주시 문평면 옥당리 1118-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "금옥통닭",
+      "address": "전라남도 나주시 문평면 옥당리 298-2",
+      "roadAddress": "전라남도 나주시 문평면 금신길 17",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "새마을슈퍼",
+      "address": "전라남도 나주시 봉황면 죽석리 545-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "당산나무집",
+      "address": "전라남도 나주시 봉황면 죽석리 555",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "삼봉식당",
+      "address": "전라남도 나주시 봉황면 죽석리 581",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "장터식품",
+      "address": "전라남도 나주시 봉황면 죽석리 892",
+      "roadAddress": "전라남도 나주시 봉황면 세남로 635-24",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "남평농협연쇄점",
+      "address": "전라남도 나주시 남평읍 남평리 41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "나주축협 남평지소",
+      "address": "전라남도 나주시 남평읍 대교리 11",
+      "roadAddress": "전라남도 나주시 남평읍 남평2로 34",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "제일시계점",
+      "address": "전라남도 나주시 남평읍 남평리 4-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "전라남도 나주시 남평읍 남평리 82-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "광주소리사",
+      "address": "전라남도 나주시 남평읍 남평리 47",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "김소동",
+      "address": "전라남도 나주시 남평읍 남평리 172",
+      "roadAddress": "전라남도 나주시 남평읍 남평1로 12",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "수원상회",
+      "address": "전라남도 나주시 남평읍 동사리 217",
+      "roadAddress": "전라남도 나주시 남평읍 남평2로 8-2",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "중앙상회",
+      "address": "전라남도 나주시 산포면 매성리 602-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "이마트24 나주대호점",
+      "address": "전라남도 나주시 대호동 1034-6",
+      "roadAddress": "전라남도 나주시 대호길 85-31 (대호동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-06-29"
+    },
+    {
+      "name": "씨유 남평중앙점",
+      "address": "전라남도 나주시 남평읍 남평리 89",
+      "roadAddress": "전라남도 나주시 남평읍 남평1로 24-1",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-10"
+    },
+    {
+      "name": "지에스이십오 에너지공대점",
+      "address": "전라남도 나주시 빛가람동 863",
+      "roadAddress": "전라남도 나주시 혁신로 127, 주1동 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-11"
+    },
+    {
+      "name": "세븐일레븐 나주토담센터점",
+      "address": "전라남도 나주시 빛가람동 949-1",
+      "roadAddress": "전라남도 나주시 문화로 81, 1층 56호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-19"
+    },
+    {
+      "name": "란타이태국마트",
+      "address": "전라남도 나주시 금천면 고동리 384-1",
+      "roadAddress": "전라남도 나주시 금천면 금영로 808",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-23"
+    },
+    {
+      "name": "세븐일레븐 나주동신대점",
+      "address": "전라남도 나주시 대호동 1029-1",
+      "roadAddress": "전라남도 나주시 대호길 91, 1층 (대호동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-30"
+    },
+    {
+      "name": "지에스25 나주예향점",
+      "address": "전라남도 나주시 세지면 죽동리 213-25",
+      "roadAddress": "전라남도 나주시 세지면 예향로 3163",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-01"
+    },
+    {
+      "name": "이마트24 나주성북주공점",
+      "address": "전라남도 나주시 성북동 11-4",
+      "roadAddress": "전라남도 나주시 대호길 8, 105~107호 (성북동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-21"
+    },
+    {
+      "name": "세븐일레븐 나주병원점",
+      "address": "전라남도 나주시 성북동 100-7 나주종합병원",
+      "roadAddress": "전라남도 나주시 영산로 5419, 나주종합병원 1층 (성북동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-23"
+    },
+    {
+      "name": "이마트24 전남나주고점((주)카럽)",
+      "address": "전라남도 나주시 경현동 270-4",
+      "roadAddress": "전라남도 나주시 예향로 4206 (경현동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-30"
+    },
+    {
+      "name": "이마트24 나주스카이점",
+      "address": "전라남도 나주시 빛가람동 334 스카이센트럴461오피스텔",
+      "roadAddress": "전라남도 나주시 문화로 184, 스카이센트럴461오피스텔 1층 106호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-28"
+    },
+    {
+      "name": "씨유 세지터미널점",
+      "address": "전라남도 나주시 세지면 오봉리 727-173 세지터미널",
+      "roadAddress": "전라남도 나주시 세지면 동창로 142, 세지터미널 1층",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-11"
+    },
+    {
+      "name": "지에스(GS)25 동신대정문점",
+      "address": "전라남도 나주시 대호동 236",
+      "roadAddress": "전라남도 나주시 건재로 170, 1층 1호 (대호동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-18"
+    },
+    {
+      "name": "란타이 마트",
+      "address": "전라남도 나주시 남평읍 남평리 9-1",
+      "roadAddress": "전라남도 나주시 남평읍 남평1로 42-1",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-29"
+    },
+    {
+      "name": "지에스25 나주코오롱점",
+      "address": "전라남도 나주시 금천면 석전리 619 빛가람코오롱하늘채아파트",
+      "roadAddress": "전라남도 나주시 금천면 천석길 35, 상가128동 101,102호 (빛가람코오롱하늘채아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2023-02-21"
+    },
+    {
+      "name": "(유) 쿡마켓 우미린점",
+      "address": "전라남도 나주시 빛가람동 144-3",
+      "roadAddress": "전라남도 나주시 석전1길 11, 1층 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-03-13"
+    },
+    {
+      "name": "남평농협다도지점",
+      "address": "전라남도 나주시 다도면 신동리 129-6 남평농협다도지점",
+      "roadAddress": "전라남도 나주시 다도면 다도로 791, 남평농협다도지점",
+      "status": "영업/정상",
+      "licenseDate": "2023-03-30"
+    },
+    {
+      "name": "타이탑스 푸드마켓",
+      "address": "전라남도 나주시 금천면 오강리 118-27",
+      "roadAddress": "전라남도 나주시 금천면 연동길 25-11",
+      "status": "영업/정상",
+      "licenseDate": "2023-04-05"
+    },
+    {
+      "name": "유영슈퍼",
+      "address": "전라남도 나주시 산포면 내기리 891",
+      "roadAddress": "전라남도 나주시 산포면 영산로 5985",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "덕림상회",
+      "address": "전라남도 나주시 산포면 덕례리 721-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "역전슈퍼",
+      "address": "전라남도 나주시 노안면 학산리 780-23 노안역전슈퍼",
+      "roadAddress": "전라남도 나주시 노안면 학산길 28, 노안역전슈퍼",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "노안슈퍼",
+      "address": "전라남도 나주시 노안면 학산리 782-152",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "한정수",
+      "address": "전라남도 나주시 봉황면 와우리 산 39-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-13"
+    },
+    {
+      "name": "김순제",
+      "address": "전라남도 나주시 봉황면 덕곡리 31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-13"
+    },
+    {
+      "name": "남동하우스",
+      "address": "전라남도 나주시 산정동 8-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-13"
+    },
+    {
+      "name": "일억조",
+      "address": "전라남도 나주시 다도면 판촌리 136-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-13"
+    },
+    {
+      "name": "최양식",
+      "address": "전라남도 나주시 다도면 송학리 2구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-13"
+    },
+    {
+      "name": "양상훈",
+      "address": "전라남도 나주시 다도면 덕동리 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-13"
+    },
+    {
+      "name": "다도농협구판장",
+      "address": "전라남도 나주시 다도면 신동리 128",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-13"
+    },
+    {
+      "name": "사거리슈퍼",
+      "address": "전라남도 나주시 다도면 마산리 2구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-13"
+    },
+    {
+      "name": "-",
+      "address": "전라남도 나주시 다도면 암정리 2구",
+      "roadAddress": "전라남도 나주시 다도면 강정길 35-1",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-13"
+    },
+    {
+      "name": "박영희",
+      "address": "전라남도 나주시 다도면 덕림리 2구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-13"
+    },
+    {
+      "name": "김영근",
+      "address": "전라남도 나주시 다도면 덕림리 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-13"
+    },
+    {
+      "name": "김소자",
+      "address": "전라남도 나주시 다도면 도동리 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-13"
+    },
+    {
+      "name": "양희연",
+      "address": "전라남도 나주시 다도면 도동리 2구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-13"
+    },
+    {
+      "name": "5통 마을회관",
+      "address": "전라남도 나주시 석현동 48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-18"
+    },
+    {
+      "name": "지에스25 나주루멘하임점",
+      "address": "전라남도 나주시 빛가람동 330-7",
+      "roadAddress": "전라남도 나주시 그린로 329, 102,103호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-04-07"
+    },
+    {
+      "name": "씨유 나주세지로드점",
+      "address": "전라남도 나주시 세지면 송제리 665 CU 나주세지로드점",
+      "roadAddress": "전라남도 나주시 세지면 예향로 3096, CU 나주세지로드점",
+      "status": "영업/정상",
+      "licenseDate": "2023-04-17"
+    },
+    {
+      "name": "지에스25 나주노안점",
+      "address": "전라남도 나주시 노안면 도산리 64-7",
+      "roadAddress": "전라남도 나주시 노안면 건재로 689",
+      "status": "영업/정상",
+      "licenseDate": "2023-04-21"
+    },
+    {
+      "name": "타이탑스 푸드마켓",
+      "address": "전라남도 나주시 이창동 553 고구려",
+      "roadAddress": "전라남도 나주시 주면1길 7, 고구려 (이창동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-07-04"
+    },
+    {
+      "name": "장봐주는언니(남평점)",
+      "address": "전라남도 나주시 남평읍 동사리 352-4",
+      "roadAddress": "전라남도 나주시 남평읍 강변1길 21-12",
+      "status": "영업/정상",
+      "licenseDate": "2023-07-07"
+    },
+    {
+      "name": "세븐일레븐 나주역점",
+      "address": "전라남도 나주시 송월동 1252",
+      "roadAddress": "전라남도 나주시 빛가람로 17, 102호 (송월동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-07-19"
+    },
+    {
+      "name": "지에스25 나주하늘채점",
+      "address": "전라남도 나주시 금천면 석전리 619 상가 127동 201호",
+      "roadAddress": "전라남도 나주시 금천면 천석길 35 (빛가람코오롱하늘채아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2023-07-21"
+    },
+    {
+      "name": "오케이 편의점",
+      "address": "전라남도 나주시 남평읍 수원리 628-6",
+      "roadAddress": "전라남도 나주시 남평읍 동촌로 45",
+      "status": "영업/정상",
+      "licenseDate": "2023-09-15"
+    },
+    {
+      "name": "고기상점",
+      "address": "전라남도 나주시 빛가람동 693-4 성산빌딩 101호",
+      "roadAddress": "전라남도 나주시 그린로 209, 101, 102호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-10-27"
+    },
+    {
+      "name": "주식회사 미라클리너",
+      "address": "전라남도 나주시 남내동 82-1 미라클리너",
+      "roadAddress": "전라남도 나주시 금성길 14, 미라클리너 (남내동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-11-06"
+    },
+    {
+      "name": "씨유 나주금천로드점",
+      "address": "전라남도 나주시 금천면 석전리 96-3",
+      "roadAddress": "전라남도 나주시 금천면 영산로 5970",
+      "status": "영업/정상",
+      "licenseDate": "2023-11-15"
+    },
+    {
+      "name": "씨유 나주영산교점",
+      "address": "전라남도 나주시 영산동 96-3 이대박퓨전포차",
+      "roadAddress": "전라남도 나주시 영산포로 198-1, 이대박퓨전포차 1층 (영산동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-11-15"
+    },
+    {
+      "name": "다은이네 마켓",
+      "address": "전라남도 나주시 빛가람동 330-5 수플러스 1동 104호",
+      "roadAddress": "전라남도 나주시 그린로 335, 수플러스 1동 104호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-12-04"
+    },
+    {
+      "name": "씨유 남평로드점",
+      "address": "전라남도 나주시 남평읍 광이리 18-1",
+      "roadAddress": "전라남도 나주시 남평읍 회재로 5",
+      "status": "영업/정상",
+      "licenseDate": "2024-01-09"
+    },
+    {
+      "name": "농장의 하루",
+      "address": "전라남도 나주시 빛가람동 196-5 킹덤프라자 C동 118호",
+      "roadAddress": "전라남도 나주시 상야1길 21, 킹덤프라자 C동 118호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-01-19"
+    },
+    {
+      "name": "선경하이퍼",
+      "address": "전라남도 나주시 과원동 75-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-14"
+    },
+    {
+      "name": "삼익슈퍼",
+      "address": "전라남도 나주시 송월동 1110-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-17"
+    },
+    {
+      "name": "만복슈퍼",
+      "address": "전라남도 나주시 금천면 원곡리 25-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-01"
+    },
+    {
+      "name": "지석정",
+      "address": "전라남도 나주시 남평읍 남석리 779",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-01"
+    },
+    {
+      "name": "광주가든",
+      "address": "전라남도 나주시 남평읍 남석리 706",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-01"
+    },
+    {
+      "name": "산호장",
+      "address": "전라남도 나주시 남평읍 서산리 211",
+      "roadAddress": "전라남도 나주시 남평읍 지석로 376",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-01"
+    },
+    {
+      "name": "한양상회",
+      "address": "전라남도 나주시 남평읍 대교리 185",
+      "roadAddress": "전라남도 나주시 남평읍 남평2로 1",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-01"
+    },
+    {
+      "name": "금당새마을가게",
+      "address": "전라남도 나주시 남평읍 수원리 185",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-01"
+    },
+    {
+      "name": "광남상회",
+      "address": "전라남도 나주시 남평읍 교원리 60",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-01"
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "전라남도 나주시 남평읍 남평리 175-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-01"
+    },
+    {
+      "name": "김광희",
+      "address": "전라남도 나주시 남평읍 오계리 568",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-01"
+    },
+    {
+      "name": "송금만",
+      "address": "전라남도 나주시 남평읍 우산리 1299",
+      "roadAddress": "전라남도 나주시 남평읍 우진길 42-3",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-01"
+    },
+    {
+      "name": "김복순",
+      "address": "전라남도 나주시 남평읍 동사리 136-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-01"
+    },
+    {
+      "name": "심상영",
+      "address": "전라남도 나주시 노안면 금동리 427",
+      "roadAddress": "전라남도 나주시 노안면 신암길 39",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-30"
+    },
+    {
+      "name": "임동성",
+      "address": "전라남도 나주시 노안면 금동리 541",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-30"
+    },
+    {
+      "name": "유상기",
+      "address": "전라남도 나주시 노안면 장동리 261",
+      "roadAddress": "전라남도 나주시 노안면 차내길 7-2",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-30"
+    },
+    {
+      "name": "김호근",
+      "address": "전라남도 나주시 노안면 도산리 268",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-30"
+    },
+    {
+      "name": "전귀남",
+      "address": "전라남도 나주시 노안면 유곡리 63",
+      "roadAddress": "전라남도 나주시 노안면 감정길 57-3",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-30"
+    },
+    {
+      "name": "조창옥",
+      "address": "전라남도 나주시 노안면 유곡리 996",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-30"
+    },
+    {
+      "name": "조성구",
+      "address": "전라남도 나주시 노안면 유곡리 213",
+      "roadAddress": "전라남도 나주시 노안면 유림길 33",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-30"
+    },
+    {
+      "name": "안재문",
+      "address": "전라남도 나주시 노안면 안산리 1246",
+      "roadAddress": "전라남도 나주시 노안면 오정길 65-21",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-30"
+    },
+    {
+      "name": "이병기",
+      "address": "전라남도 나주시 노안면 용산리 1015",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-30"
+    },
+    {
+      "name": "김희구",
+      "address": "전라남도 나주시 노안면 영평리 732",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-30"
+    },
+    {
+      "name": "이윤경",
+      "address": "전라남도 나주시 노안면 영평리 193",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-30"
+    },
+    {
+      "name": "정갑채",
+      "address": "전라남도 나주시 노안면 금안리 428",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-30"
+    },
+    {
+      "name": "우정상회",
+      "address": "전라남도 나주시 봉황면 죽석리 598-13",
+      "roadAddress": "전라남도 나주시 봉황면 봉황로 736",
+      "status": "영업/정상",
+      "licenseDate": "2024-02-01"
+    },
+    {
+      "name": "봉황편의점마트",
+      "address": "전라남도 나주시 봉황면 죽석리 628-16 봉황편의점마트",
+      "roadAddress": "전라남도 나주시 봉황면 봉황로 719, 봉황편의점마트",
+      "status": "영업/정상",
+      "licenseDate": "2024-02-16"
+    },
+    {
+      "name": "씨유 나주한전점",
+      "address": "전라남도 나주시 빛가람동 160-6",
+      "roadAddress": "전라남도 나주시 한빛로 17 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-02-16"
+    },
+    {
+      "name": "씨유 나주동신호반점",
+      "address": "전라남도 나주시 대호동 307-5 호반아파트 상가동 107호",
+      "roadAddress": "전라남도 나주시 건재로 209, 상가동 1층 107호 (대호동, 호반아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2024-02-23"
+    },
+    {
+      "name": "지에스25 나주펠리시티점",
+      "address": "전라남도 나주시 빛가람동 189-1 펠리시티s 115, 116호",
+      "roadAddress": "전라남도 나주시 전력로 6, 펠리시티s 115, 116호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-03-22"
+    },
+    {
+      "name": "지에스25 나주용산주공점",
+      "address": "전라남도 나주시 용산동 344 용산2단지 주공아파트 상가동 101, 102호",
+      "roadAddress": "전라남도 나주시 영나로 2421, 상가동 101, 102호 (용산동, 용산2단지 주공아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2024-03-22"
+    },
+    {
+      "name": "덕수상사",
+      "address": "전라남도 나주시 이창동 759-6 덕수상사",
+      "roadAddress": "전라남도 나주시 풍물시장1길 7, 덕수상사 (이창동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-04-11"
+    },
+    {
+      "name": "전남뷰티월드",
+      "address": "전라남도 나주시 노안면 용산리 805-3",
+      "roadAddress": "전라남도 나주시 노안면 노안삼도로 358",
+      "status": "영업/정상",
+      "licenseDate": "2024-04-29"
+    },
+    {
+      "name": "지에스25 나주혁신영무점",
+      "address": "전라남도 나주시 빛가람동 558 영무예다음 아파트 상가동 101, 102호",
+      "roadAddress": "전라남도 나주시 월정1길 10, 영무예다음 아파트 상가동 101, 102호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-05-03"
+    },
+    {
+      "name": "세븐일레븐 나주혁신애시앙점",
+      "address": "전라남도 나주시 빛가람동 1 이노시티애시앙1단지 상가1동 101호",
+      "roadAddress": "전라남도 나주시 한빛로 91, 상가1동 101호 (빛가람동, 이노시티애시앙1단지)",
+      "status": "영업/정상",
+      "licenseDate": "2024-05-29"
+    },
+    {
+      "name": "금천농협 하나로마트",
+      "address": "전라남도 나주시 금천면 오강리 222-15 금천농협하나로마트",
+      "roadAddress": "전라남도 나주시 금천면 금영로 975, 금천농협하나로마트",
+      "status": "영업/정상",
+      "licenseDate": "2024-05-29"
+    },
+    {
+      "name": "에스푸드",
+      "address": "전라남도 나주시 빛가람동 246-3",
+      "roadAddress": "전라남도 나주시 빛가람로 807 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-06-17"
+    },
+    {
+      "name": "행복한농부",
+      "address": "전라남도 나주시 대호동 1026-3",
+      "roadAddress": "전라남도 나주시 대호길 76-1 (대호동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-07-02"
+    },
+    {
+      "name": "지에스25 나주cgv점",
+      "address": "전라남도 나주시 빛가람동 203-3 T.C.C복합타워",
+      "roadAddress": "전라남도 나주시 상야4길 16-16, T.C.C복합타워 1층 101, 119호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-07-18"
+    },
+    {
+      "name": "이마트24 나주금천점",
+      "address": "전라남도 나주시 금천면 오강리 245-1",
+      "roadAddress": "전라남도 나주시 금천면 금영로 959",
+      "status": "영업/정상",
+      "licenseDate": "2024-07-25"
+    },
+    {
+      "name": "코랏타이 마트",
+      "address": "전라남도 나주시 이창동 728-4",
+      "roadAddress": "전라남도 나주시 영산포로 131, 1층 (이창동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-08-28"
+    },
+    {
+      "name": "씨유 남평강변점",
+      "address": "전라남도 나주시 남평읍 동사리 329-6",
+      "roadAddress": "전라남도 나주시 남평읍 강변1길 62, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2024-08-28"
+    },
+    {
+      "name": "홍지희",
+      "address": "전라남도 나주시 노안면 금안리 263",
+      "roadAddress": "전라남도 나주시 노안면 금안2길 78-7",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-30"
+    },
+    {
+      "name": "김권옥",
+      "address": "전라남도 나주시 노안면 안산리 9821",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-30"
+    },
+    {
+      "name": "김종민",
+      "address": "전라남도 나주시 노안면 금동리 229-1",
+      "roadAddress": "전라남도 나주시 노안면 금산로 32-11",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-30"
+    },
+    {
+      "name": "이계중",
+      "address": "전라남도 나주시 노안면 오정리 577",
+      "roadAddress": "전라남도 나주시 노안면 오정석정길 47-12",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-30"
+    },
+    {
+      "name": "이계익",
+      "address": "전라남도 나주시 노안면 양천리 734",
+      "roadAddress": "전라남도 나주시 노안면 이슬촌길 108",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-30"
+    },
+    {
+      "name": "김종철",
+      "address": "전라남도 나주시 노안면 양천리 891",
+      "roadAddress": "전라남도 나주시 노안면 이슬촌길 162-2",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-30"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "전라남도 나주시 이창동 112-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-09-03"
+    },
+    {
+      "name": "안창상회",
+      "address": "전라남도 나주시 안창동 405",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-09-03"
+    },
+    {
+      "name": "황금 슈퍼마켓",
+      "address": "전라남도 나주시 중앙동 72-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-09-03"
+    },
+    {
+      "name": "나주종합매장",
+      "address": "전라남도 나주시 성북동 138-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-09-03"
+    },
+    {
+      "name": "노안식육",
+      "address": "전라남도 나주시 노안면 도산리 218-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-09"
+    },
+    {
+      "name": "나나슈퍼",
+      "address": "전라남도 나주시 성북동 200-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-09"
+    },
+    {
+      "name": "내동슈퍼",
+      "address": "전라남도 나주시 노안면 장동리 369",
+      "roadAddress": "전라남도 나주시 노안면 장동내동길 3-6",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-29"
+    },
+    {
+      "name": "가든슈퍼",
+      "address": "전라남도 나주시 성북동 171-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-06"
+    },
+    {
+      "name": "대왕슈퍼",
+      "address": "전라남도 나주시 금계동 86",
+      "roadAddress": "전라남도 나주시 징고샅길 9  (금계동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-06"
+    },
+    {
+      "name": "김덕수",
+      "address": "전라남도 나주시 송월동 660 주공아파트1011-403",
+      "roadAddress": "전라남도 나주시 남고문로 36-14  (송월동,주공아파트1011-403)",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-08"
+    },
+    {
+      "name": "잡화슈퍼",
+      "address": "전라남도 나주시 남평읍 대교리 133",
+      "roadAddress": "전라남도 나주시 남평읍 남평2로 14",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-10"
+    },
+    {
+      "name": "에스마트",
+      "address": "전라남도 나주시 남평읍 남평리 32",
+      "roadAddress": "전라남도 나주시 남평읍 남평2로 50-1",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-10"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "전라남도 나주시 금천면 원곡리 251-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-21"
+    },
+    {
+      "name": "중부농협송현지소",
+      "address": "전라남도 나주시 대호동 316",
+      "roadAddress": "전라남도 나주시 건재로 205  (대호동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-28"
+    },
+    {
+      "name": "김상수",
+      "address": "전라남도 나주시 성북동 8-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-14"
+    },
+    {
+      "name": "김인진",
+      "address": "전라남도 나주시 영산동 178-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-14"
+    },
+    {
+      "name": "교촌가게",
+      "address": "전라남도 나주시 남평읍 교촌리 192-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-11"
+    },
+    {
+      "name": "지에스25 나주부영스타점",
+      "address": "전라남도 나주시 삼영동 331-3",
+      "roadAddress": "전라남도 나주시 삼영1길 35-8 (삼영동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-10-07"
+    },
+    {
+      "name": "노안상회",
+      "address": "전라남도 나주시 노안면 양천리 689-3 슈퍼",
+      "roadAddress": "전라남도 나주시 노안면 이슬촌길 104, 슈퍼",
+      "status": "영업/정상",
+      "licenseDate": "2024-12-24"
+    },
+    {
+      "name": "이마트24 나주역자이점",
+      "address": "전라남도 나주시 송월동 135-3 근린생활시설 4동 101호",
+      "roadAddress": "전라남도 나주시 신월길 54, 근린생활시설4동 101, 102호 (송월동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-02-06"
+    },
+    {
+      "name": "씨유 나주역자이점",
+      "address": "전라남도 나주시 송월동 135-3 3동 105호",
+      "roadAddress": "전라남도 나주시 신월길 54, 3동 105호 (송월동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-02-06"
+    },
+    {
+      "name": "자주온마켓 주식회사",
+      "address": "전라남도 나주시 빛가람동 145-2 101~7호",
+      "roadAddress": "전라남도 나주시 한빛로 39, 101~7호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-03-10"
+    },
+    {
+      "name": "(주)와이마트나주역자이",
+      "address": "전라남도 나주시 송월동 135-3 나주역자이리버파크",
+      "roadAddress": "전라남도 나주시 신월길 54 (송월동, 나주역자이리버파크)",
+      "status": "영업/정상",
+      "licenseDate": "2025-04-01"
+    },
+    {
+      "name": "지에스25 송월부영점",
+      "address": "전라남도 나주시 송월동 744-5",
+      "roadAddress": "전라남도 나주시 나주로 41-20 (송월동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-04-01"
+    },
+    {
+      "name": "아시아푸드원(산포점)",
+      "address": "전라남도 나주시 산포면 매성리 1265-14 (주)세품디에스통상",
+      "roadAddress": "전라남도 나주시 산포면 산포로 468-4 (주)세품디에스통상",
+      "status": "영업/정상",
+      "licenseDate": "2025-07-21"
+    },
+    {
+      "name": "바다아시아마트",
+      "address": "전라남도 나주시 산포면 매성리 1265-14 (주)세품디에스통상",
+      "roadAddress": "전라남도 나주시 산포면 산포로 468-4 (주)세품디에스통상",
+      "status": "영업/정상",
+      "licenseDate": "2025-07-24"
+    },
+    {
+      "name": "나주시청(종량제물품 공급센터)",
+      "address": "전라남도 나주시 삼영동 320-1 재활용선별창고",
+      "roadAddress": "전라남도 나주시 삼영1길 52, 재활용선별창고 (삼영동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-07-24"
+    },
+    {
+      "name": "이마트24 나주중흥메가티움점",
+      "address": "전라남도 나주시 빛가람동 200 중흥s클래스 메가티움 2차",
+      "roadAddress": "전라남도 나주시 상야3길 8, 중흥s클래스 메가티움 2차 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-07-29"
+    },
+    {
+      "name": "전남종합상사",
+      "address": "전라남도 나주시 이창동 162-8 성동슈퍼",
+      "roadAddress": "전라남도 나주시 남교1길 2, 성동슈퍼 (이창동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-09-16"
+    },
+    {
+      "name": "바다아시아마트",
+      "address": "전라남도 나주시 대호동 313-2",
+      "roadAddress": "전라남도 나주시 건재로 190 (대호동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-09-29"
+    },
+    {
+      "name": "바다아시아마트",
+      "address": "전라남도 나주시 대호동 313-2",
+      "roadAddress": "전라남도 나주시 건재로 190 (대호동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-09-29"
+    },
+    {
+      "name": "세지농업협동조합 하나로마트",
+      "address": "전라남도 나주시 세지면 오봉리 286-2 세지농협",
+      "roadAddress": "전라남도 나주시 세지면 동창로 130-2, 세지농협",
+      "status": "영업/정상",
+      "licenseDate": "2025-11-27"
+    },
+    {
+      "name": "지에스25 나주대호중앙점",
+      "address": "전라남도 나주시 대호동 1037-5",
+      "roadAddress": "전라남도 나주시 대호길 59-30, 1층 (대호동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-11-27"
+    },
+    {
+      "name": "송월주공슈퍼",
+      "address": "전라남도 나주시 송월동 660",
+      "roadAddress": "전라남도 나주시 남고문로 36-14  (송월동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-26"
+    },
+    {
+      "name": "송월주공쇼핑",
+      "address": "전라남도 나주시 송월동 659",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-26"
+    },
+    {
+      "name": "원두막슈퍼",
+      "address": "전라남도 나주시 삼영동 173-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-30"
+    },
+    {
+      "name": "새봄마트",
+      "address": "전라남도 나주시 남평읍 대교리 48-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-06"
+    },
+    {
+      "name": "금성슈퍼",
+      "address": "전라남도 나주시 송월동 823-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-30"
+    },
+    {
+      "name": "고동슈퍼",
+      "address": "전라남도 나주시 금천면 고동리 390-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-16"
+    },
+    {
+      "name": "남문슈퍼",
+      "address": "전라남도 나주시 남내동 57-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-18"
+    },
+    {
+      "name": "로얄비디오랜드",
+      "address": "전라남도 나주시 남평읍 남평리 57-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-21"
+    },
+    {
+      "name": "호반야채청과",
+      "address": "전라남도 나주시 대호동 307-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-28"
+    },
+    {
+      "name": "호반유통",
+      "address": "전라남도 나주시 이창동 506",
+      "roadAddress": "전라남도 나주시 이창1길 33  (이창동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-04"
+    },
+    {
+      "name": "케이원마트",
+      "address": "전라남도 나주시 이창동 74-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-02"
+    },
+    {
+      "name": "동아상회",
+      "address": "전라남도 나주시 과원동 40-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-11"
+    },
+    {
+      "name": "남평지석영농조합법인",
+      "address": "전라남도 나주시 산포면 등정리 175-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-16"
+    },
+    {
+      "name": "동창슈퍼",
+      "address": "전라남도 나주시 세지면 오봉리 269-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-15"
+    },
+    {
+      "name": "세지종합슈퍼",
+      "address": "전라남도 나주시 세지면 오봉리 254-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-15"
+    },
+    {
+      "name": "우정상회",
+      "address": "전라남도 나주시 대호동 384",
+      "roadAddress": "전라남도 나주시 노안삼도로 40  (대호동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-14"
+    },
+    {
+      "name": "진영식품",
+      "address": "전라남도 나주시 영산동 252-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-02-04"
+    },
+    {
+      "name": "제일마트",
+      "address": "전라남도 나주시 중앙동 86-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-10"
+    },
+    {
+      "name": "나주축협영산포지소",
+      "address": "전라남도 나주시 이창동 188-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-27"
+    },
+    {
+      "name": "한영사",
+      "address": "전라남도 나주시 중앙동 56-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-02"
+    },
+    {
+      "name": "산포우체국",
+      "address": "전라남도 나주시 산포면 매성리 187-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-07"
+    },
+    {
+      "name": "나주우체국",
+      "address": "전라남도 나주시 송월동 1093-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-07"
+    },
+    {
+      "name": "영산포우체국",
+      "address": "전라남도 나주시 영산동 260",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-07"
+    },
+    {
+      "name": "성북동우체국",
+      "address": "전라남도 나주시 성북동 218-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-07"
+    },
+    {
+      "name": "남평우체국",
+      "address": "전라남도 나주시 남평읍 남평리 173-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-07"
+    },
+    {
+      "name": "반남우체국",
+      "address": "전라남도 나주시 반남면 흥덕리 24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-24"
+    },
+    {
+      "name": "동강우체국",
+      "address": "전라남도 나주시 동강면 월양리 193-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-25"
+    },
+    {
+      "name": "다도우체국",
+      "address": "전라남도 나주시 다도면 신동리 358",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-25"
+    },
+    {
+      "name": "금천우체국",
+      "address": "전라남도 나주시 금천면 오강리 275-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-25"
+    },
+    {
+      "name": "공산우체국",
+      "address": "전라남도 나주시 공산면 금곡리 852-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-27"
+    },
+    {
+      "name": "봉황우체국",
+      "address": "전라남도 나주시 봉황면 죽석리 702-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-27"
+    },
+    {
+      "name": "노안우체국",
+      "address": "전라남도 나주시 노안면 금동리 238-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-28"
+    },
+    {
+      "name": "다시우체국",
+      "address": "전라남도 나주시 다시면 월태리 587-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-28"
+    },
+    {
+      "name": "세지우체국",
+      "address": "전라남도 나주시 세지면 오봉리 251-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-01"
+    },
+    {
+      "name": "부영청과",
+      "address": "전라남도 나주시 삼영동 335",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-01"
+    },
+    {
+      "name": "왕곡우체국",
+      "address": "전라남도 나주시 왕곡면 덕산리 590-56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-01"
+    },
+    {
+      "name": "문평우체국",
+      "address": "전라남도 나주시 문평면 안곡리 121-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-02"
+    },
+    {
+      "name": "김정희",
+      "address": "전라남도 나주시 삼영동 355",
+      "roadAddress": "전라남도 나주시 삼영1길 61  (삼영동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-24"
+    },
+    {
+      "name": "남부농협하나로마트",
+      "address": "전라남도 나주시 이창동 189-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-24"
+    },
+    {
+      "name": "코아마트",
+      "address": "전라남도 나주시 대호동 307-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-29"
+    },
+    {
+      "name": "광암슈퍼",
+      "address": "전라남도 나주시 금천면 광암리 390-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-24"
+    },
+    {
+      "name": "죽동정류소매점",
+      "address": "전라남도 나주시 왕곡면 신원리 650-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-30"
+    },
+    {
+      "name": "주공슈퍼",
+      "address": "전라남도 나주시 용산동 345",
+      "roadAddress": "전라남도 나주시 영나로 2421  (용산동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-29"
+    },
+    {
+      "name": "오성마트",
+      "address": "전라남도 나주시 남평읍 남평리 63",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-11"
+    },
+    {
+      "name": "싱싱마트",
+      "address": "전라남도 나주시 삼영동 355",
+      "roadAddress": "전라남도 나주시 삼영1길 61  (삼영동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-08"
+    },
+    {
+      "name": "우정마트",
+      "address": "전라남도 나주시 금계동 74-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-23"
+    },
+    {
+      "name": "홈마트",
+      "address": "전라남도 나주시 이창동 193-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-20"
+    },
+    {
+      "name": "새천년마트",
+      "address": "전라남도 나주시 금성동 39-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-27"
+    },
+    {
+      "name": "노안철물마트",
+      "address": "전라남도 나주시 노안면 금동리 247-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-23"
+    },
+    {
+      "name": "마운틴마트",
+      "address": "전라남도 나주시 성북동 150-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-26"
+    },
+    {
+      "name": "A-마트",
+      "address": "전라남도 나주시 송월동 1122",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-27"
+    },
+    {
+      "name": "동강슈퍼",
+      "address": "전라남도 나주시 동강면 인동리 368-5",
+      "roadAddress": "전라남도 나주시 동강면 인동길 31",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-17"
+    },
+    {
+      "name": "씨유 남평한국점",
+      "address": "전라남도 나주시 남평읍 교원리 828 1층 CU",
+      "roadAddress": "전라남도 나주시 남평읍 세남로 1544, 1층 CU",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-25"
+    },
+    {
+      "name": "공단마트",
+      "address": "전라남도 나주시 동수동 386-1",
+      "roadAddress": "전라남도 나주시 동수농공단지길 86 (동수동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-09"
+    },
+    {
+      "name": "산포마트(대화소비자조합24시)",
+      "address": "전라남도 나주시 산포면 매성리 577-7 대화소비자조합24시",
+      "roadAddress": "전라남도 나주시 산포면 산포로 423-1, 대화소비자조합24시",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-20"
+    },
+    {
+      "name": "상가슈퍼",
+      "address": "전라남도 나주시 송월동 660-1 주공아파트상가 105호",
+      "roadAddress": "전라남도 나주시 남고문로 36-16, 주공아파트상가 105동 (송월동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-28"
+    },
+    {
+      "name": "(주)지마트",
+      "address": "전라남도 나주시 성북동 138-12 G마트",
+      "roadAddress": "전라남도 나주시 성북2길 20, G마트 (성북동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-10-09"
+    },
+    {
+      "name": "마한농협왕곡지점",
+      "address": "전라남도 나주시 왕곡면 덕산리 590-76 마한농협왕곡지점",
+      "roadAddress": "전라남도 나주시 왕곡면 나주서부로 372, 마한농협왕곡지점",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-08"
+    },
+    {
+      "name": "마한농협",
+      "address": "전라남도 나주시 반남면 흥덕리 22-27",
+      "roadAddress": "전라남도 나주시 반남면 고분로 604",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-08"
+    },
+    {
+      "name": "새봄슈퍼",
+      "address": "전라남도 나주시 남평읍 대교리 32-1",
+      "roadAddress": "전라남도 나주시 남평읍 남평3로 35 (상가-102)",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-07"
+    },
+    {
+      "name": "빛가람매점",
+      "address": "",
+      "roadAddress": "전라남도 나주시 산포면 매성길 61",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-22"
+    },
+    {
+      "name": "세븐일레븐 나주남평점",
+      "address": "전라남도 나주시 남평읍 남평리 176-28",
+      "roadAddress": "전라남도 나주시 남평읍 지석로 6, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-27"
+    },
+    {
+      "name": "리빙스토리",
+      "address": "",
+      "roadAddress": "전라남도 나주시 나주로 178 (금성동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-01"
+    },
+    {
+      "name": "GS25",
+      "address": "전라남도 나주시 이창동 718-6",
+      "roadAddress": "전라남도 나주시 이창택지길 6-17  (이창동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-15"
+    },
+    {
+      "name": "장터상회",
+      "address": "전라남도 나주시 영산동 144-3 슈퍼",
+      "roadAddress": "전라남도 나주시 남교본영길 49-14, 슈퍼 (영산동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-11-11"
+    },
+    {
+      "name": "빛가람마트(우미점)",
+      "address": "",
+      "roadAddress": "전라남도 나주시 금천면 석전1길 9",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-05"
+    },
+    {
+      "name": "원(one)마켓",
+      "address": "전라남도 나주시 빛가람동 850",
+      "roadAddress": "전라남도 나주시 그린로 274 (빛가람동, 빛가람LH4단지아파트 상가동 103호,104호)",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-27"
+    },
+    {
+      "name": "풍산마트",
+      "address": "전라남도 나주시 노안면 금동리 243",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-23"
+    },
+    {
+      "name": "장성슈퍼",
+      "address": "전라남도 나주시 봉황면 장성리 302",
+      "roadAddress": "전라남도 나주시 봉황면 장성길 27",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-04"
+    },
+    {
+      "name": "빛가람25마트",
+      "address": "",
+      "roadAddress": "전라남도 나주시 산포면 정보화길 34",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-04"
+    },
+    {
+      "name": "그린식품",
+      "address": "",
+      "roadAddress": "전라남도 나주시 영강길 23 (삼영동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-08"
+    },
+    {
+      "name": "씨유 나주한전점",
+      "address": "전라남도 나주시 금천면 석전리 광주전남공동혁신도시 근린생활용지 4-1-5블럭",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-17"
+    },
+    {
+      "name": "현대수퍼",
+      "address": "",
+      "roadAddress": "전라남도 나주시 다시면 백호로 121",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-21"
+    },
+    {
+      "name": "리치유통",
+      "address": "",
+      "roadAddress": "전라남도 나주시 산포면 산포로 342",
+      "status": "영업/정상",
+      "licenseDate": "2014-06-16"
+    },
+    {
+      "name": "해피스토어",
+      "address": "",
+      "roadAddress": "전라남도 나주시 빛가람로 745 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-06-19"
+    },
+    {
+      "name": "롯데마트 나주점",
+      "address": "",
+      "roadAddress": "전라남도 나주시 내동길 15 (송월동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-06-20"
+    },
+    {
+      "name": "빛가람편의점",
+      "address": "전라남도 나주시 빛가람동 288-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-04"
+    },
+    {
+      "name": "CU 나주산포중앙점",
+      "address": "",
+      "roadAddress": "전라남도 나주시 산포면 산포로 456",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-10"
+    },
+    {
+      "name": "씨유나주호수공원점",
+      "address": "",
+      "roadAddress": "전라남도 나주시 배멧1길 50 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-11"
+    },
+    {
+      "name": "한국미니스톱주식회사(나주역점)",
+      "address": "전라남도 나주시 송월동 1252-102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-23"
+    },
+    {
+      "name": "미니스톱나주남내점",
+      "address": "",
+      "roadAddress": "전라남도 나주시 중앙로 26 (남내동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-09-19"
+    },
+    {
+      "name": "씨유 나주휴로스2차점",
+      "address": "",
+      "roadAddress": "전라남도 나주시 상야1길 8 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-09-30"
+    },
+    {
+      "name": "세븐일레븐 나주혁신LH점",
+      "address": "",
+      "roadAddress": "전라남도 나주시 그린로 154 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-10-14"
+    },
+    {
+      "name": "씨유나주휴로스1차점",
+      "address": "",
+      "roadAddress": "전라남도 나주시 상야2길 16 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-10-22"
+    },
+    {
+      "name": "나주할인마트",
+      "address": "",
+      "roadAddress": "전라남도 나주시 남고문로 36-15 (송월동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-10-28"
+    },
+    {
+      "name": "S타워 수퍼센타",
+      "address": "",
+      "roadAddress": "전라남도 나주시 빛가람로 746 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-11-19"
+    },
+    {
+      "name": "세븐일레븐 나주혁신중흥점",
+      "address": "전라남도 나주시 빛가람동 197 중흥s클래스 메가티움 1차 103호",
+      "roadAddress": "전라남도 나주시 상야2길 7, 중흥s클래스 메가티움 1차 103호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-11-24"
+    },
+    {
+      "name": "장성리구판장",
+      "address": "",
+      "roadAddress": "전라남도 나주시 봉황면 장성길 54",
+      "status": "영업/정상",
+      "licenseDate": "2014-12-01"
+    },
+    {
+      "name": "(주)코코마트 빛가람지점",
+      "address": "",
+      "roadAddress": "전라남도 나주시 전력로 55 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-12-02"
+    },
+    {
+      "name": "와이마트 나주혁신중흥점",
+      "address": "",
+      "roadAddress": "전라남도 나주시 상야2길 7 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-12-17"
+    },
+    {
+      "name": "세븐일레븐 나주혁신주공점",
+      "address": "전라남도 나주시 빛가람동 381 빛가람엘에이치2단지아파트",
+      "roadAddress": "전라남도 나주시 중야1길 42, 상가동 104호, 105호 (빛가람동, 빛가람엘에이치2단지아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2014-12-30"
+    },
+    {
+      "name": "쎄븐일레븐(나주혁신사학연금점)",
+      "address": "",
+      "roadAddress": "전라남도 나주시 문화로 245 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-12-30"
+    },
+    {
+      "name": "호수편의점",
+      "address": "",
+      "roadAddress": "전라남도 나주시 호수로 54 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-01-05"
+    },
+    {
+      "name": "세븐일레븐 나주혁신KD타워점",
+      "address": "전라남도 나주시 빛가람동 288-3",
+      "roadAddress": "전라남도 나주시 그린로 363-103 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-01-30"
+    },
+    {
+      "name": "SM오피스 나주빛가람점",
+      "address": "전라남도 나주시 빛가람동 189-1",
+      "roadAddress": "전라남도 나주시 전력로 6, 2층 201호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-02-12"
+    },
+    {
+      "name": "남평5일시장 42,43",
+      "address": "전라남도 나주시 남평읍 남평리 남평5일시장 42,43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2015-02-12"
+    },
+    {
+      "name": "빛가람슈마트",
+      "address": "",
+      "roadAddress": "전라남도 나주시 상야1길 20 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-03-09"
+    },
+    {
+      "name": "세븐일레븐 나주송월점",
+      "address": "",
+      "roadAddress": "전라남도 나주시 나주로 83-16 (송월동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-03-19"
+    },
+    {
+      "name": "나주축협 하나로마트",
+      "address": "",
+      "roadAddress": "전라남도 나주시 대호길 19 (성북동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-03-31"
+    },
+    {
+      "name": "(주)첨단산업개발 나주혁신토담점",
+      "address": "전라남도 나주시 빛가람동 330-2",
+      "roadAddress": "전라남도 나주시 그린로 341, 106호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-04-06"
+    },
+    {
+      "name": "GS25 나주이화점",
+      "address": "전라남도 나주시 빛가람동 189-2",
+      "roadAddress": "전라남도 나주시 전력로 2, 104호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-04-15"
+    },
+    {
+      "name": "세븐일레븐나주대호지구점",
+      "address": "전라남도 나주시 대호동 1033",
+      "roadAddress": "전라남도 나주시 대호길 85-17, 105호 (대호동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-04-17"
+    },
+    {
+      "name": "미니스톱나주혁신점",
+      "address": "전라남도 나주시 빛가람동 394",
+      "roadAddress": "전라남도 나주시 중야1길 16, 103,104호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-04-17"
+    },
+    {
+      "name": "알리바이 빛가람점",
+      "address": "전라남도 나주시 빛가람동 338-2",
+      "roadAddress": "전라남도 나주시 문화로 204, 1층 103호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-05-27"
+    },
+    {
+      "name": "지에스25빛가람루체점",
+      "address": "전라남도 나주시 빛가람동 279-4",
+      "roadAddress": "전라남도 나주시 그린로 379, 107호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-06-22"
+    },
+    {
+      "name": "세븐일레븐 나주혁신비젼점",
+      "address": "전라남도 나주시 빛가람동 192-3",
+      "roadAddress": "전라남도 나주시 빛가람로 685, 1층 115호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-06-29"
+    },
+    {
+      "name": "씨유 나주송월점",
+      "address": "전라남도 나주시 송월동 647-3",
+      "roadAddress": "전라남도 나주시 나주로 83-4 (송월동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-07-01"
+    },
+    {
+      "name": "산들마트",
+      "address": "",
+      "roadAddress": "전라남도 나주시 금천면 신가로 3",
+      "status": "영업/정상",
+      "licenseDate": "2015-07-22"
+    },
+    {
+      "name": "세븐일레븐 나주남고문점",
+      "address": "",
+      "roadAddress": "전라남도 나주시 중앙로 4 (남내동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-07-27"
+    },
+    {
+      "name": "포시즌마트",
+      "address": "전라남도 나주시 빛가람동 288-7",
+      "roadAddress": "전라남도 나주시 그린로 351, 110호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-07-27"
+    },
+    {
+      "name": "씨유 나주혁신명작점",
+      "address": "전라남도 나주시 빛가람동 330-7",
+      "roadAddress": "전라남도 나주시 그린로 329-329, 103호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-07-28"
+    },
+    {
+      "name": "씨유 나주동신중앙점",
+      "address": "전라남도 나주시 대호동 1022-12",
+      "roadAddress": "전라남도 나주시 대호길 92, 1층 (대호동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-08-03"
+    },
+    {
+      "name": "혁신365할인마트",
+      "address": "전라남도 나주시 빛가람동 500-1",
+      "roadAddress": "전라남도 나주시 황동3길 66, 1층 108호 (빛가람동, 비학주차빌딩)",
+      "status": "영업/정상",
+      "licenseDate": "2015-08-17"
+    },
+    {
+      "name": "씨유 나주스마트점",
+      "address": "전라남도 나주시 빛가람동 210-1",
+      "roadAddress": "전라남도 나주시 한빛로 262, 106호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-02-09"
+    },
+    {
+      "name": "(주)이마트에브리데이 나주혁신점",
+      "address": "전라남도 나주시 빛가람동 642-1",
+      "roadAddress": "전라남도 나주시 그린로 200 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-11"
+    },
+    {
+      "name": "(주)코리아세븐 나주이창점",
+      "address": "전라남도 나주시 이창동 160-3",
+      "roadAddress": "전라남도 나주시 이창1길 8, 1층 (이창동, 상점)",
+      "status": "영업/정상",
+      "licenseDate": "2015-09-15"
+    },
+    {
+      "name": "미니스톱나주빛가람점",
+      "address": "전라남도 나주시 빛가람동 850",
+      "roadAddress": "전라남도 나주시 그린로 274, 103,104호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-09-15"
+    },
+    {
+      "name": "나주시로컬푸드통합지원센터",
+      "address": "전라남도 나주시 빛가람동 383 빛가람 꿈자람센터",
+      "roadAddress": "전라남도 나주시 문화로 153, 빛가람 꿈자람센터 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-10-22"
+    },
+    {
+      "name": "씨유 나주갑산광장점",
+      "address": "전라남도 나주시 왕곡면 양산리 21-7",
+      "roadAddress": "전라남도 나주시 왕곡면 예향로 3527",
+      "status": "영업/정상",
+      "licenseDate": "2015-11-04"
+    },
+    {
+      "name": "세븐일레븐 혁신빛가람점",
+      "address": "전라남도 나주시 빛가람동 210-2",
+      "roadAddress": "전라남도 나주시 빛가람로 747, 1층 104호 (빛가람동, 빛가람메디칼빌딩)",
+      "status": "영업/정상",
+      "licenseDate": "2015-12-21"
+    },
+    {
+      "name": "CU나주영산포점",
+      "address": "전라남도 나주시 이창동 157-11",
+      "roadAddress": "전라남도 나주시 이창1길 1, 1층 (이창동, 패밀리마트)",
+      "status": "영업/정상",
+      "licenseDate": "2016-01-07"
+    },
+    {
+      "name": "승현슈퍼",
+      "address": "전라남도 나주시 삼영동 63",
+      "roadAddress": "전라남도 나주시 남부원길 3, 1층 1호 (삼영동, 대덕맨션)",
+      "status": "영업/정상",
+      "licenseDate": "2016-01-08"
+    },
+    {
+      "name": "브이스틸",
+      "address": "전라남도 나주시 삼영동 174-21",
+      "roadAddress": "전라남도 나주시 영산포로 293-1 (삼영동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-02-03"
+    },
+    {
+      "name": "도서관마트",
+      "address": "전라남도 나주시 남평읍 동사리 241-3",
+      "roadAddress": "전라남도 나주시 남평읍 남평3로 14-11",
+      "status": "영업/정상",
+      "licenseDate": "2016-02-15"
+    },
+    {
+      "name": "로또커피",
+      "address": "전라남도 나주시 이창동 112-36",
+      "roadAddress": "전라남도 나주시 예향로 3830-5 (이창동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-02-16"
+    },
+    {
+      "name": "자연햇살",
+      "address": "",
+      "roadAddress": "전라남도 나주시 토계길 75 (송월동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-02-23"
+    },
+    {
+      "name": "알리바이 메가티움점",
+      "address": "전라남도 나주시 빛가람동 200 중흥s클래스 메가티움 2차",
+      "roadAddress": "전라남도 나주시 상야3길 8, 중흥s클래스 메가티움 2차 105호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-02-25"
+    },
+    {
+      "name": "미니스톱나주대호점",
+      "address": "전라남도 나주시 대호동 1031-5",
+      "roadAddress": "전라남도 나주시 대호길 75 (대호동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-02-28"
+    },
+    {
+      "name": "해피1000",
+      "address": "전라남도 나주시 이창동 191",
+      "roadAddress": "전라남도 나주시 예향로 3803 (이창동, 영산포공용터미널)",
+      "status": "영업/정상",
+      "licenseDate": "2016-03-08"
+    },
+    {
+      "name": "혁신365할인마트",
+      "address": "전라남도 나주시 빛가람동 259-4",
+      "roadAddress": "전라남도 나주시 도민길 5, 1층 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-03-16"
+    },
+    {
+      "name": "GS25 나주우정국점",
+      "address": "전라남도 나주시 빛가람동 266-1",
+      "roadAddress": "전라남도 나주시 정보화길 34 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-04-01"
+    },
+    {
+      "name": "오피스디포 혁신점",
+      "address": "전라남도 나주시 빛가람동 744-2 정한빌딩",
+      "roadAddress": "전라남도 나주시 호수로 46, 정한빌딩 1층 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-04-07"
+    },
+    {
+      "name": "우리홈마트",
+      "address": "전라남도 나주시 빛가람동 624",
+      "roadAddress": "전라남도 나주시 그린로 154 (빛가람동, 빛가람LH3단지아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2016-04-11"
+    },
+    {
+      "name": "로그인나주중앙점",
+      "address": "",
+      "roadAddress": "전라남도 나주시 나주로 159 (성북동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-04-29"
+    },
+    {
+      "name": "세븐일레븐 나주다솔점",
+      "address": "전라남도 나주시 중앙동 3-1 다솔빌딩 1층 107호",
+      "roadAddress": "전라남도 나주시 나주로 200, 다솔빌딩 1층 107호 (중앙동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-06-20"
+    },
+    {
+      "name": "월드마트",
+      "address": "전라남도 나주시 빛가람동 824 빛가람엘에이치6단지아파트 상가동",
+      "roadAddress": "전라남도 나주시 월정3길 23, 빛가람엘에이치6단지아파트 상가동 103, 104호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-11-04"
+    },
+    {
+      "name": "지에스(GS)25남평강변점",
+      "address": "전라남도 나주시 남평읍 동사리 414 에스티엑스칸 중우하나린",
+      "roadAddress": "전라남도 나주시 남평읍 강변2길 20 (에스티엑스칸 중우하나린)",
+      "status": "영업/정상",
+      "licenseDate": "2017-05-17"
+    },
+    {
+      "name": "노브랜드 나주빛가람점",
+      "address": "전라남도 나주시 빛가람동 203-2",
+      "roadAddress": "전라남도 나주시 상야4길 22 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-10-16"
+    },
+    {
+      "name": "아시안마트",
+      "address": "전라남도 나주시 이창동 706-5 성주빌",
+      "roadAddress": "전라남도 나주시 이창택지길 66-11 (이창동, 성주빌)",
+      "status": "영업/정상",
+      "licenseDate": "2018-03-08"
+    },
+    {
+      "name": "아시아마트",
+      "address": "전라남도 나주시 이창동 726-7",
+      "roadAddress": "전라남도 나주시 이창택지길 7-1 (이창동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-03-08"
+    },
+    {
+      "name": "지에스25 나주중앙로점",
+      "address": "전라남도 나주시 중앙동 76 미르샘빌딩",
+      "roadAddress": "전라남도 나주시 중앙로 34, 미르샘빌딩 103호 (중앙동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-03-13"
+    },
+    {
+      "name": "JV마트",
+      "address": "전라남도 나주시 대호동 431",
+      "roadAddress": "전라남도 나주시 칠전길 3 (대호동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-03-20"
+    },
+    {
+      "name": "알리바이 웨스턴호텔점",
+      "address": "전라남도 나주시 빛가람동 348-19",
+      "roadAddress": "전라남도 나주시 배멧3길 5-18 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-04-04"
+    },
+    {
+      "name": "빅아시아마트",
+      "address": "전라남도 나주시 산포면 매성리 599-2",
+      "roadAddress": "전라남도 나주시 산포면 산포로 448",
+      "status": "영업/정상",
+      "licenseDate": "2018-04-09"
+    },
+    {
+      "name": "승현슈퍼",
+      "address": "전라남도 나주시 삼영동 95-7 1통",
+      "roadAddress": "전라남도 나주시 영강길 12, 1층 (삼영동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-05-16"
+    },
+    {
+      "name": "와이마트 남평점",
+      "address": "전라남도 나주시 남평읍 동사리 363-1",
+      "roadAddress": "전라남도 나주시 남평읍 강변2길 5-11",
+      "status": "영업/정상",
+      "licenseDate": "2018-06-08"
+    },
+    {
+      "name": "씨유나주혁신중앙점",
+      "address": "전라남도 나주시 빛가람동 348-20 LS타워 1동 103호",
+      "roadAddress": "전라남도 나주시 배멧3길 19-7, LS타워 1동 103호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-06-11"
+    },
+    {
+      "name": "GS25 남평원룸점",
+      "address": "전라남도 나주시 남평읍 동사리 346-1",
+      "roadAddress": "전라남도 나주시 남평읍 강변1길 60",
+      "status": "영업/정상",
+      "licenseDate": "2018-06-14"
+    },
+    {
+      "name": "GS25 나주메가티움",
+      "address": "전라남도 나주시 빛가람동 200 중흥s클래스 메가티움 2차 130호",
+      "roadAddress": "전라남도 나주시 상야3길 8, 중흥s클래스 메가티움 2차 1층 130호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-06-18"
+    },
+    {
+      "name": "지에스25남평리버시티점",
+      "address": "전라남도 나주시 남평읍 동사리 409 양우내안애 리버시티 1차 상가동",
+      "roadAddress": "전라남도 나주시 남평읍 강변1길 21-29, 양우내안애 리버시티 1차 상가동 상가동 102, 103호",
+      "status": "영업/정상",
+      "licenseDate": "2021-06-23"
+    },
+    {
+      "name": "씨유 나주혁신부영",
+      "address": "전라남도 나주시 빛가람동 551 빛가람 사랑으로 부영2단지 상가동 101호",
+      "roadAddress": "전라남도 나주시 그린로 127, 빛가람 사랑으로 부영2단지 상가동 101호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-06-22"
+    },
+    {
+      "name": "세븐일레븐 나주혁신산단점",
+      "address": "전라남도 나주시 왕곡면 덕산리 809-6",
+      "roadAddress": "전라남도 나주시 왕곡면 혁신산단중앙길 24",
+      "status": "영업/정상",
+      "licenseDate": "2018-06-26"
+    },
+    {
+      "name": "새마을슈퍼",
+      "address": "전라남도 나주시 금천면 광암리 366-14",
+      "roadAddress": "전라남도 나주시 금천면 금영로 689",
+      "status": "영업/정상",
+      "licenseDate": "2018-06-28"
+    },
+    {
+      "name": "한우마루",
+      "address": "전라남도 나주시 빛가람동 135 빛가람우미린아파트 상가동 104호",
+      "roadAddress": "전라남도 나주시 석전1길 10, 빛가람우미린아파트 상가동 104,105호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-07-12"
+    },
+    {
+      "name": "남평농협 파머스마켓강변점",
+      "address": "전라남도 나주시 남평읍 동사리 363-4",
+      "roadAddress": "전라남도 나주시 남평읍 강변2길 5-3",
+      "status": "영업/정상",
+      "licenseDate": "2018-07-26"
+    },
+    {
+      "name": "씨유 나주휴로스 2차점",
+      "address": "전라남도 나주시 빛가람동 190-1 토담휴로스2차 106호",
+      "roadAddress": "전라남도 나주시 상야1길 8, 토담휴로스2차 106호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-31"
+    },
+    {
+      "name": "마한농업협동조합 양산지점 하나로마트",
+      "address": "전라남도 나주시 왕곡면 양산리 23-1 마한농협 양산지점",
+      "roadAddress": "전라남도 나주시 왕곡면 장산양산길 37, 마한농협 양산지점",
+      "status": "영업/정상",
+      "licenseDate": "2018-08-08"
+    },
+    {
+      "name": "바이25 빛가람점",
+      "address": "전라남도 나주시 빛가람동 850 빛가람엘에이치4단지아파트 상가동 104호",
+      "roadAddress": "전라남도 나주시 그린로 274, 빛가람엘에이치4단지아파트 상가동 1층 104호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-08-22"
+    },
+    {
+      "name": "지에스25 영산포터미널점",
+      "address": "전라남도 나주시 이창동 191 영산포공용터미널",
+      "roadAddress": "전라남도 나주시 예향로 3803, 1층 (이창동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-08-31"
+    },
+    {
+      "name": "노안농협하나로마트",
+      "address": "전라남도 나주시 노안면 금동리 219-3 노안농협",
+      "roadAddress": "전라남도 나주시 노안면 금산로 23, 노안농협",
+      "status": "영업/정상",
+      "licenseDate": "2018-10-12"
+    },
+    {
+      "name": "GS25 나주달빛마을점",
+      "address": "전라남도 나주시 송월동 1143 달빛마을세움트리 상가동",
+      "roadAddress": "전라남도 나주시 송월9길 17, 달빛마을세움트리 상가동 109동 1층 110호 (송월동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-10-29"
+    },
+    {
+      "name": "씨유 나주드들강점",
+      "address": "전라남도 나주시 남평읍 동사리 421 나주 남평강변도시 양우내안애 리버시티2차 107호",
+      "roadAddress": "전라남도 나주시 남평읍 지석로 167, 107, 108호 (나주 남평강변도시 양우내안애 리버시티2차)",
+      "status": "영업/정상",
+      "licenseDate": "2018-12-06"
+    },
+    {
+      "name": "내안애마트",
+      "address": "전라남도 나주시 송월동 1142 양우내안애 상가동 및 부대복리시설 101호",
+      "roadAddress": "전라남도 나주시 송월18길 12, 양우내안애 상가동 및 부대복리시설 101호 (송월동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-12-12"
+    },
+    {
+      "name": "바이25",
+      "address": "전라남도 나주시 빛가람동 192-3 비전타워 116호",
+      "roadAddress": "전라남도 나주시 빛가람로 685, 비전타워 116호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-01-11"
+    },
+    {
+      "name": "이마트24 빛가람황동점",
+      "address": "전라남도 나주시 빛가람동 419-1 엔즈빌딩 106호",
+      "roadAddress": "전라남도 나주시 황동3길 83, 엔즈빌딩 106호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-01-23"
+    },
+    {
+      "name": "GS25 나주대방점",
+      "address": "전라남도 나주시 대호동 1026-1 GS25 나주대방점",
+      "roadAddress": "전라남도 나주시 대호길 76-5, GS25 나주대방점 (대호동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-01-30"
+    },
+    {
+      "name": "세지농협송죽지점",
+      "address": "전라남도 나주시 세지면 죽동리 227-10",
+      "roadAddress": "전라남도 나주시 세지면 죽동길 5-29",
+      "status": "영업/정상",
+      "licenseDate": "2019-02-15"
+    },
+    {
+      "name": "란타이 나주 태국마트",
+      "address": "전라남도 나주시 송월동 1415",
+      "roadAddress": "전라남도 나주시 송월4길 15 (송월동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-02-19"
+    },
+    {
+      "name": "금천 농협 하나로마트 빛가람점",
+      "address": "전라남도 나주시 빛가람동 337-1",
+      "roadAddress": "전라남도 나주시 중야2길 24 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-04-17"
+    },
+    {
+      "name": "산포농협 덕례지점",
+      "address": "전라남도 나주시 산포면 덕례리 772-3 산포농협덕례지소",
+      "roadAddress": "전라남도 나주시 산포면 등정덕례길 282, 산포농협덕례지소",
+      "status": "영업/정상",
+      "licenseDate": "2019-04-18"
+    },
+    {
+      "name": "주식회사 쿱스토어광주",
+      "address": "전라남도 나주시 빛가람동 642-3",
+      "roadAddress": "전라남도 나주시 그린로 208, 고산빌딩 101호, 102호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-04-19"
+    },
+    {
+      "name": "미니스톱 나주센트럴점",
+      "address": "전라남도 나주시 빛가람동 203-1",
+      "roadAddress": "전라남도 나주시 우정로 106 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-05-24"
+    },
+    {
+      "name": "아시아마트",
+      "address": "전라남도 나주시 중앙동 14-2 백조미용실",
+      "roadAddress": "전라남도 나주시 성북1길 6, 백조미용실 (중앙동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-06-03"
+    },
+    {
+      "name": "산포농협 하나로마트 로컬푸드직매장 빛누리점",
+      "address": "전라남도 나주시 빛가람동 37-1 산포농협 하나로마트 빛누리점",
+      "roadAddress": "전라남도 나주시 한빛로 171, 산포농협 하나로마트 빛누리점 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-06-19"
+    },
+    {
+      "name": "이마트24 나주산포점",
+      "address": "전라남도 나주시 산포면 매성리 1178-1",
+      "roadAddress": "전라남도 나주시 산포면 산포로 415",
+      "status": "영업/정상",
+      "licenseDate": "2019-06-27"
+    },
+    {
+      "name": "두리마트",
+      "address": "전라남도 나주시 이창동 734-2 스타웨딩홀",
+      "roadAddress": "전라남도 나주시 풍물시장2길 21 (이창동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-07-30"
+    },
+    {
+      "name": "GS25 나주남평점",
+      "address": "전라남도 나주시 남평읍 남평리 32",
+      "roadAddress": "전라남도 나주시 남평읍 남평2로 50-1",
+      "status": "영업/정상",
+      "licenseDate": "2019-08-05"
+    },
+    {
+      "name": "온유통",
+      "address": "전라남도 나주시 빛가람동 114 빛가람 중흥S-CLASS센트럴 2차 상가101호",
+      "roadAddress": "전라남도 나주시 우정로 101, 상가101호 (빛가람동, 빛가람 중흥S-CLASS센트럴 2차)",
+      "status": "영업/정상",
+      "licenseDate": "2019-08-12"
+    },
+    {
+      "name": "(유)24시 드림식자재마트",
+      "address": "전라남도 나주시 대호동 84",
+      "roadAddress": "전라남도 나주시 석당간길 4 (대호동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-08-19"
+    },
+    {
+      "name": "지에스25 혁신루체점",
+      "address": "전라남도 나주시 빛가람동 279-4",
+      "roadAddress": "전라남도 나주시 그린로 379, 117, 119호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-09-09"
+    },
+    {
+      "name": "이마트24 나주시청점",
+      "address": "전라남도 나주시 송월동 1098-11",
+      "roadAddress": "전라남도 나주시 내동길 10-8 (송월동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-15"
+    },
+    {
+      "name": "친절슈퍼",
+      "address": "전라남도 나주시 노안면 장동리 222-3 친절슈퍼",
+      "roadAddress": "전라남도 나주시 노안면 노안로 438, 친절슈퍼",
+      "status": "영업/정상",
+      "licenseDate": "2019-09-24"
+    },
+    {
+      "name": "씨유 나주그린로점",
+      "address": "전라남도 나주시 빛가람동 643-1 유엔빌리지 105호",
+      "roadAddress": "전라남도 나주시 월정5길 1, 유엔빌리지 1층 105호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-11-04"
+    },
+    {
+      "name": "오피스알파 빛가람",
+      "address": "전라남도 나주시 빛가람동 418-2",
+      "roadAddress": "전라남도 나주시 황동1길 90 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-11-21"
+    },
+    {
+      "name": "그린365할인마트",
+      "address": "전라남도 나주시 대호동 307-5 호반아파트, 그린365할인마트",
+      "roadAddress": "전라남도 나주시 건재로 209 (대호동, 호반아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2019-12-19"
+    },
+    {
+      "name": "전남상회",
+      "address": "전라남도 나주시 반남면 흥덕리 29-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "수정슈퍼",
+      "address": "전라남도 나주시 중앙동 95-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "동문상회",
+      "address": "전라남도 나주시 성북동 138-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "왕곡농협연쇄점",
+      "address": "전라남도 나주시 왕곡면 덕산리 590-76",
+      "roadAddress": "전라남도 나주시 왕곡면 나주서부로 372",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "왕곡양산연쇄점",
+      "address": "전라남도 나주시 왕곡면 양산리 103-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "주영슈퍼",
+      "address": "전라남도 나주시 왕곡면 덕산리 590-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "옥곡슈퍼",
+      "address": "전라남도 나주시 왕곡면 옥곡리 64-87",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "월천구판장",
+      "address": "전라남도 나주시 왕곡면 월천리 224",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "월천문구사",
+      "address": "전라남도 나주시 왕곡면 월천리 104-82",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "장산가게",
+      "address": "전라남도 나주시 왕곡면 장산리 40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "봉선슈퍼",
+      "address": "전라남도 나주시 왕곡면 장산리 379",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "중앙철물점",
+      "address": "전라남도 나주시 공산면 금곡리 866-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "공산청과",
+      "address": "전라남도 나주시 공산면 금곡리 725-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "공산철물점",
+      "address": "전라남도 나주시 공산면 금곡리 853-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "세븐일레븐 나주한전사거리점",
+      "address": "전라남도 나주시 빛가람동 196-1",
+      "roadAddress": "전라남도 나주시 우정로 56 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-12-24"
+    },
+    {
+      "name": "금나와락",
+      "address": "전라남도 나주시 금계동 11-2",
+      "roadAddress": "전라남도 나주시 금성관길 17 (금계동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-12-26"
+    },
+    {
+      "name": "이마트24 나주빛가람병원점",
+      "address": "전라남도 나주시 빛가람동 266-4 101-3호",
+      "roadAddress": "전라남도 나주시 정보화길 40, 101-3호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-01-03"
+    },
+    {
+      "name": "이마트24 나주CGV점",
+      "address": "전라남도 나주시 빛가람동 203-3 T.C.C복합타워 119호",
+      "roadAddress": "전라남도 나주시 상야4길 16-16, T.C.C복합타워 1층 119호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-01-16"
+    },
+    {
+      "name": "초록마을 나주혁신도시점",
+      "address": "전라남도 나주시 빛가람동 692-2 세명빌딩 101호",
+      "roadAddress": "전라남도 나주시 그린로 193, 세명빌딩 101호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-02-18"
+    },
+    {
+      "name": "세우 티",
+      "address": "전라남도 나주시 중앙동 9-13",
+      "roadAddress": "전라남도 나주시 성북1길 18 (중앙동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-02-18"
+    },
+    {
+      "name": "에브리마켓 남평점",
+      "address": "전라남도 나주시 남평읍 교원리 828-2 다도보신탕",
+      "roadAddress": "전라남도 나주시 남평읍 세남로 1546, 에브리마켓 남평점",
+      "status": "영업/정상",
+      "licenseDate": "2020-03-03"
+    },
+    {
+      "name": "우리동네(생활용품)",
+      "address": "전라남도 나주시 성북동 142-3 나주자동차매매상가",
+      "roadAddress": "전라남도 나주시 영산로 5412, 나주자동차매매상가 (성북동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-04-03"
+    },
+    {
+      "name": "도우며사는 가게",
+      "address": "전라남도 나주시 금천면 광암리 390-4 도우며사는 가게",
+      "roadAddress": "전라남도 나주시 금천면 금영로 698, 도우며사는 가게",
+      "status": "영업/정상",
+      "licenseDate": "2020-04-28"
+    },
+    {
+      "name": "GS25 나주중흥점",
+      "address": "전라남도 나주시 빛가람동 118 빛가람 중흥S-CLASS센트럴1차 상가동",
+      "roadAddress": "전라남도 나주시 우정로 75, 빛가람 중흥S-CLASS센트럴1차 상가동 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-04-28"
+    },
+    {
+      "name": "미니스톱 뉴나주이창점",
+      "address": "전라남도 나주시 이창동 719-7",
+      "roadAddress": "전라남도 나주시 영산포로 141 (이창동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-05-26"
+    },
+    {
+      "name": "씨유 나주미성점",
+      "address": "전라남도 나주시 송월동 747-7 2층",
+      "roadAddress": "전라남도 나주시 나주로 47, 2층 (송월동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-23"
+    },
+    {
+      "name": "지에스25 나주달무리점",
+      "address": "전라남도 나주시 대호동 1036 상가 104호",
+      "roadAddress": "전라남도 나주시 대호길 45-17 (대호동, 호반리젠시빌)",
+      "status": "영업/정상",
+      "licenseDate": "2020-08-24"
+    },
+    {
+      "name": "농민약국",
+      "address": "전라남도 나주시 이창동 189-18 농민약국",
+      "roadAddress": "전라남도 나주시 예향로 3813, 농민약국 (이창동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-02"
+    },
+    {
+      "name": "슈퍼마켓 자연숲 남평점",
+      "address": "전라남도 나주시 남평읍 동사리 345-3",
+      "roadAddress": "전라남도 나주시 남평읍 강변1길 33-19",
+      "status": "영업/정상",
+      "licenseDate": "2021-08-18"
+    },
+    {
+      "name": "이마트24 나주휴로스점",
+      "address": "전라남도 나주시 빛가람동 204-1",
+      "roadAddress": "전라남도 나주시 상야3길 17 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-11-12"
+    },
+    {
+      "name": "철물및 잡화장",
+      "address": "전라남도 나주시 동강면 인동리 351-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "월송식당",
+      "address": "전라남도 나주시 동강면 인동리 659",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "이천상회",
+      "address": "전라남도 나주시 다시면 영동리 888-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "신흥대중음식점",
+      "address": "전라남도 나주시 다시면 가운리 36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "버스터미널매점",
+      "address": "전라남도 나주시 다시면 월태리 494-47",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "다시식료점",
+      "address": "전라남도 나주시 다시면 영동리 878-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "다시 만물상회",
+      "address": "전라남도 나주시 다시면 영동리 878-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "금성슈퍼",
+      "address": "전라남도 나주시 다시면 동곡리 38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "한국농약사",
+      "address": "전라남도 나주시 다시면 동곡리 39-1",
+      "roadAddress": "전라남도 나주시 다시면 다시로 168-33",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "대광종합철물상사",
+      "address": "전라남도 나주시 다시면 동곡리 38-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "빛가람매점",
+      "address": "전라남도 나주시 산포면 매성리 1188-1 빛가람병원",
+      "roadAddress": "전라남도 나주시 산포면 매성길 61, 빛가람병원",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-03"
+    },
+    {
+      "name": "흙향돈한우",
+      "address": "전라남도 나주시 빛가람동 246-3 흙향돈한우",
+      "roadAddress": "전라남도 나주시 빛가람로 807, 흙향돈한우 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-16"
+    },
+    {
+      "name": "이마트24 나주듀플렉스점",
+      "address": "전라남도 나주시 빛가람동 287-2 듀플렉스호텔",
+      "roadAddress": "전라남도 나주시 배멧2길 13, 듀플렉스호텔 111호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-11"
+    },
+    {
+      "name": "지에스25 나주송월스타점",
+      "address": "전라남도 나주시 송월동 1095-9",
+      "roadAddress": "전라남도 나주시 예향로 4079 (송월동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-01-11"
+    },
+    {
+      "name": "미니스톱 나주달빛점",
+      "address": "전라남도 나주시 송월동 1269",
+      "roadAddress": "전라남도 나주시 송월6길 2, 103호, 104호 (송월동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-01-22"
+    },
+    {
+      "name": "한살림광주소비자생활협동조합 나주빛가람매장",
+      "address": "전라남도 나주시 빛가람동 118 빛가람 중흥S-CLASS센트럴1차 상가동",
+      "roadAddress": "전라남도 나주시 우정로 75, 빛가람 중흥S-CLASS센트럴1차 상가동 143동 1층 126호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-02-24"
+    },
+    {
+      "name": "이마트24 나주호수공원점",
+      "address": "전라남도 나주시 빛가람동 336-1",
+      "roadAddress": "전라남도 나주시 중야2길 20, 101동 102호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-04"
+    },
+    {
+      "name": "탑스푸드마켓",
+      "address": "전라남도 나주시 산포면 매성리 580-5",
+      "roadAddress": "전라남도 나주시 산포면 산포로 434",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-04"
+    },
+    {
+      "name": "빛가람편의점",
+      "address": "전라남도 나주시 빛가람동 892-13",
+      "roadAddress": "전라남도 나주시 정보화길 49, 빛가람종합병원 1층 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-23"
+    },
+    {
+      "name": "(주)코리아세븐 나주혁신우미점",
+      "address": "전라남도 나주시 빛가람동 135",
+      "roadAddress": "전라남도 나주시 석전1길 10, 빛가람우미린아파트 상가 104호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-05"
+    },
+    {
+      "name": "주식회사 부지런한물류",
+      "address": "전라남도 나주시 빛가람동 807-1",
+      "roadAddress": "전라남도 나주시 그린로 215, 1동 102호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-27"
+    },
+    {
+      "name": "픽미픽미 아이스 나주강변도시점",
+      "address": "전라남도 나주시 남평읍 동사리 344-1",
+      "roadAddress": "전라남도 나주시 남평읍 강변1길 73-21, 1층 101호",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-04"
+    },
+    {
+      "name": "세븐일레븐 나주혁신애시앙점",
+      "address": "전라남도 나주시 빛가람동 1 이노시티애시앙1단지",
+      "roadAddress": "전라남도 나주시 한빛로 91, 상가1동 101호 (빛가람동, 이노시티애시앙1단지)",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-10"
+    },
+    {
+      "name": "아이스비어",
+      "address": "전라남도 나주시 남평읍 동사리 414 에스티엑스칸 중우하나린",
+      "roadAddress": "전라남도 나주시 남평읍 강변2길 20, 상가3동 1층 309호, 310호 (에스티엑스칸 중우하나린)",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-17"
+    },
+    {
+      "name": "이마트24R 나주혁신중앙점",
+      "address": "전라남도 나주시 빛가람동 348-20",
+      "roadAddress": "전라남도 나주시 배멧3길 19-7, 1동 103, 104호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-07"
+    },
+    {
+      "name": "씨유 나주이노시티애시앙점",
+      "address": "전라남도 나주시 빛가람동 1 이노시티애시앙1단지",
+      "roadAddress": "전라남도 나주시 한빛로 91, 상가2동 101호 (빛가람동, 이노시티애시앙1단지)",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-15"
+    },
+    {
+      "name": "세븐일레븐 나주공산점",
+      "address": "전라남도 나주시 공산면 금곡리 868-3",
+      "roadAddress": "전라남도 나주시 공산면 공산로 127-1",
+      "status": "영업/정상",
+      "licenseDate": "2021-08-25"
+    },
+    {
+      "name": "산물상회",
+      "address": "전라남도 나주시 노안면 금동리 228-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "담배집",
+      "address": "전라남도 나주시 노안면 금동리 46-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "어우동",
+      "address": "전라남도 나주시 노안면 학산리 517-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "강효섭",
+      "address": "전라남도 나주시 노안면 구정리 446-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "식료품가게",
+      "address": "전라남도 나주시 노안면 학산리 782-36",
+      "roadAddress": "전라남도 나주시 노안면 노안로 524-23",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-06"
+    },
+    {
+      "name": "금동슈퍼",
+      "address": "전라남도 나주시 노안면 금동리 245-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "경희슈퍼",
+      "address": "전라남도 나주시 금천면 오강리 158-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "안향옥",
+      "address": "전라남도 나주시 금천면 촌곡리 371",
+      "roadAddress": "전라남도 나주시 금천면 촌곡본촌길 37",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "문연자",
+      "address": "전라남도 나주시 송월동 833-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "염현섭",
+      "address": "전라남도 나주시 송월동 158-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "구백상사",
+      "address": "전라남도 나주시 중앙동 98-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "까치슈퍼",
+      "address": "전라남도 나주시 영산동 68",
+      "roadAddress": "전라남도 나주시 예향로 3869  (영산동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "제일식품",
+      "address": "전라남도 나주시 이창동 156-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "삼양마트",
+      "address": "전라남도 나주시 이창동 73-17 삼양마트",
+      "roadAddress": "전라남도 나주시 남교1길 6-15, 삼양마트 (이창동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "산호상회",
+      "address": "전라남도 나주시 문평면 산호리 991-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "안곡식품점",
+      "address": "전라남도 나주시 문평면 안곡리 62-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "씨유 나주빛가람점",
+      "address": "전라남도 나주시 빛가람동 3 빛가람 중흥S-CLASS리버티 상가동",
+      "roadAddress": "전라남도 나주시 한빛로 127, 빛가람 중흥S-CLASS리버티 상가동 1층 104호, 105호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-08-26"
+    },
+    {
+      "name": "씨유 나주중흥센트럴2차점",
+      "address": "전라남도 나주시 빛가람동 114 빛가람 중흥S-CLASS센트럴2차 상가동",
+      "roadAddress": "전라남도 나주시 대호길 45-17 (대호동, 호반리젠시빌)",
+      "status": "영업/정상",
+      "licenseDate": "2021-10-01"
+    },
+    {
+      "name": "씨유(CU)나주동신점",
+      "address": "전라남도 나주시 대호동 1031-1",
+      "roadAddress": "전라남도 나주시 대호길 85-1 (대호동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-10-08"
+    },
+    {
+      "name": "이마트24 (R)나주스마트파크점",
+      "address": "전라남도 나주시 빛가람동 353-1 스마트파크 지식산업센터",
+      "roadAddress": "전라남도 나주시 교육길 13, 스마트파크 지식산업센터 G동 101호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-11-16"
+    },
+    {
+      "name": "지에스25 나주금천점",
+      "address": "전라남도 나주시 금천면 오강리 158-14",
+      "roadAddress": "전라남도 나주시 금천면 금영로 946-1, 2층",
+      "status": "영업/정상",
+      "licenseDate": "2021-11-22"
+    },
+    {
+      "name": "남평그릇종합유통",
+      "address": "전라남도 나주시 남평읍 남평리 129 남평그릇생활용품",
+      "roadAddress": "전라남도 나주시 남평읍 남평2로 45-18, 남평그릇생활용품",
+      "status": "영업/정상",
+      "licenseDate": "2021-12-30"
+    },
+    {
+      "name": "세븐일레븐 나주부영3단지점",
+      "address": "전라남도 나주시 빛가람동 303 빛가람 사랑으로 부영3단지 아파트",
+      "roadAddress": "전라남도 나주시 빛가람로 800, 상가동 101, 102호 (빛가람동, 빛가람 사랑으로 부영3단지 아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2022-01-20"
+    },
+    {
+      "name": "세븐일레븐 나주혁신부영점",
+      "address": "전라남도 나주시 빛가람동 381 센트럴레이크",
+      "roadAddress": "전라남도 나주시 중야1길 42, 105동 7층 1호 (빛가람동, 센트럴레이크)",
+      "status": "영업/정상",
+      "licenseDate": "2022-01-21"
+    },
+    {
+      "name": "참좋은세상 나주점",
+      "address": "전라남도 나주시 다시면 월태리 1238",
+      "roadAddress": "전라남도 나주시 다시면 월태월천길 26",
+      "status": "영업/정상",
+      "licenseDate": "2022-02-10"
+    },
+    {
+      "name": "세븐일레븐 나주남평로드점",
+      "address": "전라남도 나주시 남평읍 남평리 65-1",
+      "roadAddress": "전라남도 나주시 남평읍 지석로 27",
+      "status": "영업/정상",
+      "licenseDate": "2022-02-15"
+    },
+    {
+      "name": "에브리마트(Every Mart)",
+      "address": "전라남도 나주시 송월동 1142 양우내안애 상가동 및 부대복리시설",
+      "roadAddress": "전라남도 나주시 송월18길 12, 양우내안애 상가동 101호~104호 (송월동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-02-17"
+    },
+    {
+      "name": "알리바이한전공대점",
+      "address": "전라남도 나주시 빛가람동 256-4",
+      "roadAddress": "전라남도 나주시 빛가람로 793 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-03-04"
+    },
+    {
+      "name": "주식회사 엄지마트",
+      "address": "전라남도 나주시 이창동 710-7",
+      "roadAddress": "전라남도 나주시 이창택지길 54-7, 101호 (이창동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-03-08"
+    },
+    {
+      "name": "장보고싶은마트송월점",
+      "address": "전라남도 나주시 송월동 1415",
+      "roadAddress": "전라남도 나주시 송월4길 15 (송월동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-03-15"
+    },
+    {
+      "name": "지에스25 빛가람 엘에이치점",
+      "address": "전라남도 나주시 빛가람동 394 빛가람엘에이치1단지아파트 상가동",
+      "roadAddress": "전라남도 나주시 중야1길 16, 빛가람엘에이치1단지아파트 상가동 상가동 1층 103호, 104호 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-03-24"
+    },
+    {
+      "name": "그린 에브리데이",
+      "address": "전라남도 나주시 빛가람동 330-9",
+      "roadAddress": "전라남도 나주시 그린로 321 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-25"
+    },
+    {
+      "name": "(주)법진 와이식자재마트 나주점",
+      "address": "전라남도 나주시 빛가람동 904",
+      "roadAddress": "전라남도 나주시 빛가람로 838 (빛가람동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-26"
+    }
+  ]
+}

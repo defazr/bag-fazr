@@ -1,0 +1,1963 @@
+{
+  "region": "전북특별자치도",
+  "regionSlug": "jeonbuk",
+  "district": "부안군",
+  "districtSlug": "buan",
+  "updatedAt": "2026-03-26",
+  "totalCount": 279,
+  "stores": [
+    {
+      "name": "수락상회",
+      "address": "전북특별자치도 부안군 변산면 도청리 168-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-22"
+    },
+    {
+      "name": "부안로컬푸드 직매장 격포점",
+      "address": "전북특별자치도 부안군 변산면 격포리 788-13 수협격포지점",
+      "roadAddress": "전북특별자치도 부안군 변산면 격포중앙길 28-10, 수협격포지점",
+      "status": "영업/정상",
+      "licenseDate": "2025-11-28"
+    },
+    {
+      "name": "동남슈퍼",
+      "address": "전북특별자치도 부안군 부안읍 동중리 130-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "전북칠성슈퍼",
+      "address": "전북특별자치도 부안군 부안읍 동중리 87-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "아씨화장품",
+      "address": "전북특별자치도 부안군 부안읍 서외리 100-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "향교슈퍼",
+      "address": "전북특별자치도 부안군 부안읍 서외리 313-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "막래슈퍼",
+      "address": "전북특별자치도 부안군 부안읍 서외리 137",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "부림상회",
+      "address": "전북특별자치도 부안군 부안읍 서외리 12-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "서부슈퍼",
+      "address": "전북특별자치도 부안군 부안읍 서외리 433-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "희망세탁소",
+      "address": "전북특별자치도 부안군 부안읍 서외리 336-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "전원수퍼",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 621-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "현대지업사",
+      "address": "전북특별자치도 부안군 부안읍 서외리 24-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "평일수퍼",
+      "address": "전북특별자치도 부안군 부안읍 동중리 131-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "중공가게",
+      "address": "전북특별자치도 부안군 주산면 덕림리 737-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대초상회",
+      "address": "전북특별자치도 부안군 행안면 대초리 58-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남산슈퍼",
+      "address": "전북특별자치도 부안군 행안면 대초리 95-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "궁안 새마을회",
+      "address": "전북특별자치도 부안군 행안면 삼간리 1671",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행안농협조합",
+      "address": "전북특별자치도 부안군 행안면 삼간리 346-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송정상회",
+      "address": "전북특별자치도 부안군 행안면 역리 305-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼산상회",
+      "address": "전북특별자치도 부안군 행안면 신기리 6-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신월",
+      "address": "전북특별자치도 부안군 행안면 신기리 27-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이윤순",
+      "address": "전북특별자치도 부안군 계화면 궁안리 250-174",
+      "roadAddress": "전북특별자치도 부안군 계화면 대벌길 38-4",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "돈지 3마을",
+      "address": "전북특별자치도 부안군 계화면 의복리 1641-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "돈지 2마을",
+      "address": "전북특별자치도 부안군 계화면 의복리 125-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부안슈퍼",
+      "address": "전북특별자치도 부안군 계화면 의복리 206-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "보안 농협연쇄점",
+      "address": "전북특별자치도 부안군 보안면 영전리 377",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "성천상회",
+      "address": "전북특별자치도 부안군 변산면 운산리 359-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "상복슈퍼",
+      "address": "전북특별자치도 부안군 변산면 도청리 441",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "해변상회",
+      "address": "전북특별자치도 부안군 변산면 도청리 48-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "충청상회",
+      "address": "전북특별자치도 부안군 변산면 격포리 302",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "양지상회",
+      "address": "전북특별자치도 부안군 하서면 장신리 1516",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "전북특별자치도 부안군 하서면 언독리 113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "전북특별자치도 부안군 하서면 언독리 426",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "전북특별자치도 부안군 하서면 언독리 515",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "십자당",
+      "address": "전북특별자치도 부안군 줄포면 줄포리 603-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "한성슈퍼",
+      "address": "전북특별자치도 부안군 줄포면 줄포리 610-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "영생지업사",
+      "address": "전북특별자치도 부안군 줄포면 줄포리 411-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "현대철물점",
+      "address": "전북특별자치도 부안군 줄포면 줄포리 726-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "전북특별자치도 부안군 줄포면 우포리 127-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "군산상회",
+      "address": "전북특별자치도 부안군 줄포면 파산리 1-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "변산농업협동조합",
+      "address": "전북특별자치도 부안군 변산면 지서리 380-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "변산농업협동조합 격포지소",
+      "address": "전북특별자치도 부안군 변산면 격포리 356-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-10"
+    },
+    {
+      "name": "서해횟집",
+      "address": "전북특별자치도 부안군 변산면 대항리 529",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-22"
+    },
+    {
+      "name": "해변상회",
+      "address": "전북특별자치도 부안군 변산면 도청리 203-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-22"
+    },
+    {
+      "name": "대광상회",
+      "address": "전북특별자치도 부안군 하서면 백련리 780-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-16"
+    },
+    {
+      "name": "대초상회",
+      "address": "전북특별자치도 부안군 행안면 대초리 58-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "남산슈퍼",
+      "address": "전북특별자치도 부안군 행안면 대초리 95-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "행안농협",
+      "address": "전북특별자치도 부안군 행안면 삼간리 1541",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "삼산상회",
+      "address": "전북특별자치도 부안군 행안면 신기리 6-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "우리상회",
+      "address": "전북특별자치도 부안군 행안면 신기리 27-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "전북특별자치도 부안군 진서면 진서리 110-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "정읍상회",
+      "address": "전북특별자치도 부안군 진서면 진서리 1186-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "모양상회",
+      "address": "전북특별자치도 부안군 진서면 진서리 1214-64",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "동광지업사",
+      "address": "전북특별자치도 부안군 진서면 진서리 1214-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "전북특별자치도 부안군 진서면 진서리 22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "내변산장",
+      "address": "전북특별자치도 부안군 진서면 석포리 395",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "우수농산물직판장",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 768-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-21"
+    },
+    {
+      "name": "골목상회",
+      "address": "전북특별자치도 부안군 부안읍 동중리 140-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-08"
+    },
+    {
+      "name": "아림유통",
+      "address": "전북특별자치도 부안군 부안읍 선은리 258-1 대림@상가 1층 105호 - 106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-12"
+    },
+    {
+      "name": "주공할인마트",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-11"
+    },
+    {
+      "name": "부안우체국",
+      "address": "전북특별자치도 부안군 부안읍 동중리 131-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-13"
+    },
+    {
+      "name": "관사매점",
+      "address": "전북특별자치도 부안군 하서면 백련리 786",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-08"
+    },
+    {
+      "name": "부안유통6번상회",
+      "address": "전북특별자치도 부안군 부안읍 서외리 11-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-04"
+    },
+    {
+      "name": "농산물슈퍼",
+      "address": "전북특별자치도 부안군 부안읍 서외리 11-2 외4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백산슈퍼",
+      "address": "전북특별자치도 부안군 백산면 용계리 96-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-15"
+    },
+    {
+      "name": "(유)세이브마트",
+      "address": "전북특별자치도 부안군 부안읍 동중리 132-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-01"
+    },
+    {
+      "name": "중앙상회",
+      "address": "전북특별자치도 부안군 위도면 치도리 129",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-26"
+    },
+    {
+      "name": "태정상회",
+      "address": "전북특별자치도 부안군 위도면 대리 321-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-26"
+    },
+    {
+      "name": "중앙상회",
+      "address": "전북특별자치도 부안군 위도면 진리 370-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-26"
+    },
+    {
+      "name": "경남상회",
+      "address": "전북특별자치도 부안군 위도면 진리 산 2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-26"
+    },
+    {
+      "name": "성미슈퍼",
+      "address": "전북특별자치도 부안군 위도면 대리 186",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-26"
+    },
+    {
+      "name": "보안농협진서지소",
+      "address": "전북특별자치도 부안군 진서면 곰소리 483",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-19"
+    },
+    {
+      "name": "서림슈퍼",
+      "address": "전북특별자치도 부안군 부안읍 동중리 301",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-11"
+    },
+    {
+      "name": "쌍둥이네집",
+      "address": "전북특별자치도 부안군 진서면 진서리 1214",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-15"
+    },
+    {
+      "name": "산촌상회",
+      "address": "전북특별자치도 부안군 진서면 석포리 231-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-01"
+    },
+    {
+      "name": "점남슈퍼",
+      "address": "전북특별자치도 부안군 하서면 청호리 293-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-01"
+    },
+    {
+      "name": "0시슈퍼편의점",
+      "address": "전북특별자치도 부안군 변산면 격포리 788-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-16"
+    },
+    {
+      "name": "한아름수퍼",
+      "address": "전북특별자치도 부안군 변산면 격포리 508",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-02"
+    },
+    {
+      "name": "선아상회",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 574-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-09"
+    },
+    {
+      "name": "현대마트정육점",
+      "address": "전북특별자치도 부안군 변산면 격포리 302-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-17"
+    },
+    {
+      "name": "부민수퍼",
+      "address": "전북특별자치도 부안군 부안읍 서외리 11-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-28"
+    },
+    {
+      "name": "채석강수퍼",
+      "address": "전북특별자치도 부안군 변산면 격포리 438",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-19"
+    },
+    {
+      "name": "주공나래마트",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 816-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-24"
+    },
+    {
+      "name": "신성판매소",
+      "address": "전북특별자치도 부안군 주산면 갈촌리 636",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신금판매소",
+      "address": "전북특별자치도 부안군 백산면 금판리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호남슈퍼",
+      "address": "전북특별자치도 부안군 상서면 통정리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-15"
+    },
+    {
+      "name": "양산상회",
+      "address": "전북특별자치도 부안군 상서면 가오리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-15"
+    },
+    {
+      "name": "광일슈퍼",
+      "address": "전북특별자치도 부안군 부안읍 서외리 77-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-10"
+    },
+    {
+      "name": "모든이의쉼터",
+      "address": "전북특별자치도 부안군 위도면 진리 374",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-17"
+    },
+    {
+      "name": "학생문구백화점",
+      "address": "전북특별자치도 부안군 부안읍 서외리 28-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-05"
+    },
+    {
+      "name": "서외슈퍼",
+      "address": "전북특별자치도 부안군 부안읍 서외리 318-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-19"
+    },
+    {
+      "name": "해운상회",
+      "address": "전북특별자치도 부안군 위도면 식도리 626",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-23"
+    },
+    {
+      "name": "풍년상회",
+      "address": "전북특별자치도 부안군 위도면 식도리 226",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-23"
+    },
+    {
+      "name": "만남의광장",
+      "address": "전북특별자치도 부안군 위도면 식도리 산 170-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-23"
+    },
+    {
+      "name": "2000슈퍼마을",
+      "address": "전북특별자치도 부안군 부안읍 서외리 332-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-23"
+    },
+    {
+      "name": "삼천상회",
+      "address": "전북특별자치도 부안군 부안읍 신흥리 산 100 삼기",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-20"
+    },
+    {
+      "name": "엘마트",
+      "address": "전북특별자치도 부안군 진서면 진서리 1214-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-30"
+    },
+    {
+      "name": "제일상회",
+      "address": "전북특별자치도 부안군 위도면 식도리 산 236",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-04"
+    },
+    {
+      "name": "미니스톱부안지점",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 786-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-27"
+    },
+    {
+      "name": "장성상회",
+      "address": "전북특별자치도 부안군 계화면 계화리 248",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-01"
+    },
+    {
+      "name": "대우상회",
+      "address": "전북특별자치도 부안군 변산면 격포리 401",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-01"
+    },
+    {
+      "name": "세븐일레븐 부안터미널점",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 578-10 보금당",
+      "roadAddress": "전북특별자치도 부안군 부안읍 시장길 41, 보금당",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-01"
+    },
+    {
+      "name": "뉴월드마트",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 626-4 현대A상가 1304호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-10"
+    },
+    {
+      "name": "삼성마트",
+      "address": "전북특별자치도 부안군 줄포면 줄포리 725",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-25"
+    },
+    {
+      "name": "동진농협",
+      "address": "전북특별자치도 부안군 동진면 봉황리 303-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-28"
+    },
+    {
+      "name": "새부안새마을금고",
+      "address": "전북특별자치도 부안군 부안읍 선은리 252-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-15"
+    },
+    {
+      "name": "부령새마을금고",
+      "address": "전북특별자치도 부안군 부안읍 서외리 25-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-15"
+    },
+    {
+      "name": "부안농협백산지점",
+      "address": "전북특별자치도 부안군 백산면 덕신리 155-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-26"
+    },
+    {
+      "name": "상서농협",
+      "address": "전북특별자치도 부안군 상서면 가오리 521-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-29"
+    },
+    {
+      "name": "아름문구",
+      "address": "전북특별자치도 부안군 부안읍 동중리 123",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-26"
+    },
+    {
+      "name": "미니스톱 부안봉덕점",
+      "address": "전북특별자치도 부안군 부안읍 서외리 92-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-09-18"
+    },
+    {
+      "name": "계화면마트",
+      "address": "전북특별자치도 부안군 계화면 창북리 486-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-26"
+    },
+    {
+      "name": "부안건어물",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 579-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "계화면세마트",
+      "address": "전북특별자치도 부안군 계화면 창북리 458-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼보슈퍼",
+      "address": "전북특별자치도 부안군 부안읍 동중리 1-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "변산농협 격포하나로마트",
+      "address": "전북특별자치도 부안군 변산면 격포리 356-1 변산농협",
+      "roadAddress": "전북특별자치도 부안군 변산면 격포로 198, 변산농협",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인국이네",
+      "address": "전북특별자치도 부안군 부안읍 서외리 11-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-23"
+    },
+    {
+      "name": "부안마트",
+      "address": "전북특별자치도 부안군 부안읍 동중리 163-2 부안마트",
+      "roadAddress": "전북특별자치도 부안군 부안읍 동중3길 4, 부안마트",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-23"
+    },
+    {
+      "name": "씨유부안점",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 789-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-22"
+    },
+    {
+      "name": "바다사랑슈퍼",
+      "address": "전북특별자치도 부안군 변산면 도청리 587-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-10"
+    },
+    {
+      "name": "강남활인마트",
+      "address": "전북특별자치도 부안군 줄포면 줄포리 728-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코끼리마트",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 816-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광주슈퍼",
+      "address": "전북특별자치도 부안군 변산면 대항리 산 108-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-10"
+    },
+    {
+      "name": "복권앤편의점",
+      "address": "전북특별자치도 부안군 부안읍 동중리 131-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 부안 격포점",
+      "address": "전북특별자치도 부안군 변산면 격포리 282-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대양식품",
+      "address": "전북특별자치도 부안군 진서면 곰소리 354",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-23"
+    },
+    {
+      "name": "금성슈퍼",
+      "address": "전북특별자치도 부안군 위도면 진리 154-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "변산농업협동조합위도지소",
+      "address": "전북특별자치도 부안군 위도면 진리 235",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "믿음슈퍼",
+      "address": "전북특별자치도 부안군 백산면 오곡리 695-7 믿음슈퍼",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "전북특별자치도 부안군 백산면 오곡리 527 형제슈퍼",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "복권앤편의점",
+      "address": "전북특별자치도 부안군 부안읍 동중리 131-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-04"
+    },
+    {
+      "name": "훼미리마트(싱싱24시마트)",
+      "address": "전북특별자치도 부안군 변산면 격포리 282-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-08"
+    },
+    {
+      "name": "믿음슈퍼",
+      "address": "전북특별자치도 부안군 백산면 오곡리 695-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-10-13"
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "전북특별자치도 부안군 백산면 오곡리 695-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-10-17"
+    },
+    {
+      "name": "복지슈퍼",
+      "address": "전북특별자치도 부안군 주산면 갈촌리 357-5 복지슈퍼",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주산농협",
+      "address": "전북특별자치도 부안군 주산면 갈촌리 357-4 주산농협",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-02-27"
+    },
+    {
+      "name": "종합슈퍼",
+      "address": "전북특별자치도 부안군 부안읍 서외리 217-1",
+      "roadAddress": "전북특별자치도 부안군 부안읍 부풍로 8-1",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-08"
+    },
+    {
+      "name": "문화슈퍼",
+      "address": "전북특별자치도 부안군 줄포면 줄포리 701 문화슈퍼",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문화마트",
+      "address": "전북특별자치도 부안군 줄포면 줄포리 701 문화슈퍼",
+      "roadAddress": "전북특별자치도 부안군 줄포면 줄포중앙로 33",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-10"
+    },
+    {
+      "name": "부안장식",
+      "address": "전북특별자치도 부안군 부안읍 서외리 55-6    부안장식",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-15"
+    },
+    {
+      "name": "고사포 레저 슈퍼",
+      "address": "전북특별자치도 부안군 변산면 운산리 443-17   고사포레저 슈퍼",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-03"
+    },
+    {
+      "name": "격포마트",
+      "address": "전북특별자치도 부안군 변산면 격포리 271-35   격포마트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-27"
+    },
+    {
+      "name": "미니스톱 부안중앙점",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 786-11   미니스톱 부안중앙점",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿모닝 마켓",
+      "address": "전북특별자치도 부안군 부안읍 서외리 20-7 굿모닝 마켓",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-27"
+    },
+    {
+      "name": "행안슈퍼",
+      "address": "전북특별자치도 부안군 부안읍 서외리 432-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-11-01"
+    },
+    {
+      "name": "복지슈퍼",
+      "address": "전북특별자치도 부안군 주산면 갈촌리 357-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-26"
+    },
+    {
+      "name": "미스스톱부안중앙점",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 786-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-14"
+    },
+    {
+      "name": "부안농협 하나로 마트",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 764,765 부안농협 하나로마트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-15"
+    },
+    {
+      "name": "보광훼미리마트",
+      "address": "전북특별자치도 부안군 하서면 백련리 679-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-15"
+    },
+    {
+      "name": "남부안농협줄포지점하나로마트",
+      "address": "전북특별자치도 부안군 줄포면 줄포리 382-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-13"
+    },
+    {
+      "name": "J마트",
+      "address": "전북특별자치도 부안군 부안읍 서외리 주공아파트 3차 상가103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-25"
+    },
+    {
+      "name": "해넘이축제슈퍼",
+      "address": "전북특별자치도 부안군 변산면 격포리 664",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-26"
+    },
+    {
+      "name": "동양할인마트",
+      "address": "전북특별자치도 부안군 계화면 창북리 430-13 상운빌라",
+      "roadAddress": "전북특별자치도 부안군 계화면 금산길 6, B동 202호 (상운빌라)",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-30"
+    },
+    {
+      "name": "계화농협",
+      "address": "전북특별자치도 부안군 계화면 창북리 431",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-08"
+    },
+    {
+      "name": "코끼리마트",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 816-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-08"
+    },
+    {
+      "name": "진양슈퍼",
+      "address": "전북특별자치도 부안군 계화면 계화리 278",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-12"
+    },
+    {
+      "name": "남궁상회",
+      "address": "전북특별자치도 부안군 보안면 영전리 527-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-11-30"
+    },
+    {
+      "name": "흥부슈퍼",
+      "address": "전북특별자치도 부안군 계화면 계화리 238",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-11-28"
+    },
+    {
+      "name": "무성슈퍼",
+      "address": "전북특별자치도 부안군 상서면 가오리 502-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-19"
+    },
+    {
+      "name": "천변슈퍼",
+      "address": "전북특별자치도 부안군 줄포면 줄포리 700-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-01-02"
+    },
+    {
+      "name": "하이안마트",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 910",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-01-10"
+    },
+    {
+      "name": "씨유 아담사거리점",
+      "address": "전북특별자치도 부안군 부안읍 서외리 102-410",
+      "roadAddress": "전북특별자치도 부안군 부안읍 번영로 106",
+      "status": "영업/정상",
+      "licenseDate": "2008-04-25"
+    },
+    {
+      "name": "백산중고등학교매점",
+      "address": "전북특별자치도 부안군 백산면 오곡리 547",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-27"
+    },
+    {
+      "name": "훼미리마트부안우리점",
+      "address": "전북특별자치도 부안군 부안읍 동중리 132-84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-26"
+    },
+    {
+      "name": "훼미리마트부안웨딩점",
+      "address": "전북특별자치도 부안군 부안읍 서외리 10-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-15"
+    },
+    {
+      "name": "원마트",
+      "address": "전북특별자치도 부안군 부안읍 동중리 124-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-17"
+    },
+    {
+      "name": "홈마트",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 791",
+      "roadAddress": "전북특별자치도 부안군 부안읍 석정로 231",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-16"
+    },
+    {
+      "name": "오성상회",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 592-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-30"
+    },
+    {
+      "name": "선은슈퍼",
+      "address": "전북특별자치도 부안군 부안읍 선은리 300-1",
+      "roadAddress": "전북특별자치도 부안군 부안읍 용계길 13",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-09"
+    },
+    {
+      "name": "부안건어물",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 579-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-28"
+    },
+    {
+      "name": "변산농업협동조합위도지소",
+      "address": "전북특별자치도 부안군 위도면 진리 235",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-10-20"
+    },
+    {
+      "name": "터미널매점",
+      "address": "전북특별자치도 부안군 변산면 격포리 788-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-10-15"
+    },
+    {
+      "name": "GS25부안파크점",
+      "address": "전북특별자치도 부안군 부안읍 동중리 119-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-10-15"
+    },
+    {
+      "name": "곰소할인마트",
+      "address": "전북특별자치도 부안군 진서면 곰소리 562",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-11-03"
+    },
+    {
+      "name": "하서농협조합장",
+      "address": "전북특별자치도 부안군 하서면 언독리 540-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-04-23"
+    },
+    {
+      "name": "(주)주연농산",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 574-94 1층 133호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-04-16"
+    },
+    {
+      "name": "천원세상DC마트",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 807",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-09-13"
+    },
+    {
+      "name": "보배슈퍼",
+      "address": "전북특별자치도 부안군 변산면 도청리 168-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-14"
+    },
+    {
+      "name": "좋은상품 좋은마트",
+      "address": "전북특별자치도 부안군 변산면 격포리 769-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-19"
+    },
+    {
+      "name": "미니스톱 부안주공점",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 811",
+      "roadAddress": "전북특별자치도 부안군 부안읍 진성길 20",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-30"
+    },
+    {
+      "name": "GS25부안군청점",
+      "address": "전북특별자치도 부안군 부안읍 서외리 227-2",
+      "roadAddress": "전북특별자치도 부안군 부안읍 당산로 82-4",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-03"
+    },
+    {
+      "name": "GS25부안채석강점",
+      "address": "전북특별자치도 부안군 변산면 격포리 302-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-13"
+    },
+    {
+      "name": "신토불이 상회",
+      "address": "전북특별자치도 부안군 진서면 곰소리 724",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-14"
+    },
+    {
+      "name": "그린마트",
+      "address": "전북특별자치도 부안군 변산면 격포리 302-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-05"
+    },
+    {
+      "name": "이영식",
+      "address": "전북특별자치도 부안군 부안읍 선은리 260-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-05"
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "전북특별자치도 부안군 부안읍 서외리 12-4",
+      "roadAddress": "전북특별자치도 부안군 부안읍 시장1길 12-2",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-10"
+    },
+    {
+      "name": "세븐일레븐 부안읍내점",
+      "address": "전북특별자치도 부안군 부안읍 서외리 7-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-15"
+    },
+    {
+      "name": "하모니마트",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 574-94",
+      "roadAddress": "전북특별자치도 부안군 부안읍 석정로 209",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-28"
+    },
+    {
+      "name": "부안수협 격포지점 바다마트",
+      "address": "전북특별자치도 부안군 변산면 격포리 788-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-18"
+    },
+    {
+      "name": "별바라기슈퍼",
+      "address": "전북특별자치도 부안군 변산면 도청리 590",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-11"
+    },
+    {
+      "name": "씨유 모항 소나무에 노을점",
+      "address": "전북특별자치도 부안군 변산면 도청리 176",
+      "roadAddress": "전북특별자치도 부안군 변산면 모항길 39-6",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-20"
+    },
+    {
+      "name": "원광슈퍼",
+      "address": "전북특별자치도 부안군 변산면 운산리 443",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-21"
+    },
+    {
+      "name": "세븐일레븐부안본점",
+      "address": "전북특별자치도 부안군 부안읍 동중리 118-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-28"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "전북특별자치도 부안군 부안읍 서외리 151-1",
+      "roadAddress": "전북특별자치도 부안군 부안읍 당산로 53",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-19"
+    },
+    {
+      "name": "씨유 부안내소사점",
+      "address": "전북특별자치도 부안군 진서면 석포리 253-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-27"
+    },
+    {
+      "name": "씨유 모항해나루가족호텔점",
+      "address": "전북특별자치도 부안군 변산면 도청리 203-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-27"
+    },
+    {
+      "name": "씨유 하서점",
+      "address": "전북특별자치도 부안군 하서면 백련리 716-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-27"
+    },
+    {
+      "name": "광일철물",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 644-12",
+      "roadAddress": "전북특별자치도 부안군 부안읍 문정로 1",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-12"
+    },
+    {
+      "name": "진서할인마트",
+      "address": "전북특별자치도 부안군 진서면 곰소리 139",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-12"
+    },
+    {
+      "name": "씨유 뉴부안곰소점",
+      "address": "전북특별자치도 부안군 진서면 곰소리 272",
+      "roadAddress": "전북특별자치도 부안군 진서면 청자로 958-1",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-29"
+    },
+    {
+      "name": "씨유 부안역리점",
+      "address": "전북특별자치도 부안군 부안읍 서외리 630 부안서외주공아파트",
+      "roadAddress": "전북특별자치도 부안군 부안읍 부풍로 122, 306동 503호 (부안서외주공아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2013-04-05"
+    },
+    {
+      "name": "씨유 부안상록점",
+      "address": "",
+      "roadAddress": "전북특별자치도 부안군 변산면 변산로 3199",
+      "status": "영업/정상",
+      "licenseDate": "2013-04-26"
+    },
+    {
+      "name": "세븐일레븐 부안석정점",
+      "address": "전북특별자치도 부안군 부안읍 선은리 260-13 부안강산뽕주",
+      "roadAddress": "전북특별자치도 부안군 부안읍 석정로 175, 부안강산뽕주",
+      "status": "영업/정상",
+      "licenseDate": "2017-01-03"
+    },
+    {
+      "name": "올마켓",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 562",
+      "roadAddress": "전북특별자치도 부안군 부안읍 석정로 261",
+      "status": "영업/정상",
+      "licenseDate": "2014-12-16"
+    },
+    {
+      "name": "동부주유소",
+      "address": "전북특별자치도 부안군 부안읍 선은리 656-5",
+      "roadAddress": "전북특별자치도 부안군 부안읍 석정로 87",
+      "status": "영업/정상",
+      "licenseDate": "2017-03-21"
+    },
+    {
+      "name": "GS25부안주공점",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 874 봉덕주공아파트 상가 103호",
+      "roadAddress": "전북특별자치도 부안군 부안읍 오리정로 163, 봉덕주공아파트 상가 103,104,105호",
+      "status": "영업/정상",
+      "licenseDate": "2017-05-17"
+    },
+    {
+      "name": "GS25 변산해수욕장점",
+      "address": "전북특별자치도 부안군 변산면 대항리 523-15 109호",
+      "roadAddress": "전북특별자치도 부안군 변산면 변산로 2136-16, 부안 해양수산복합단지 109호",
+      "status": "영업/정상",
+      "licenseDate": "2017-06-26"
+    },
+    {
+      "name": "대한물류",
+      "address": "전북특별자치도 부안군 보안면 남포리 120 주식회사신선",
+      "roadAddress": "전북특별자치도 부안군 보안면 만회길 10, 주식회사신선",
+      "status": "영업/정상",
+      "licenseDate": "2018-06-26"
+    },
+    {
+      "name": "조은식자재마트(민유통)",
+      "address": "전북특별자치도 부안군 보안면 남포리 120 주식회사신선",
+      "roadAddress": "전북특별자치도 부안군 보안면 만회길 10, 주식회사신선",
+      "status": "영업/정상",
+      "licenseDate": "2018-09-04"
+    },
+    {
+      "name": "미니스톱 부안진성점",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 803 미니스톱 부안진성점",
+      "roadAddress": "전북특별자치도 부안군 부안읍 번영로 170, 미니스톱 부안진성점",
+      "status": "영업/정상",
+      "licenseDate": "2018-10-05"
+    },
+    {
+      "name": "줄포효마트(주)가남",
+      "address": "전북특별자치도 부안군 줄포면 줄포리 726-6",
+      "roadAddress": "전북특별자치도 부안군 줄포면 부안로 880-1",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-16"
+    },
+    {
+      "name": "씨유 부안변산점",
+      "address": "전북특별자치도 부안군 변산면 지서리 407-3 서해할인마트",
+      "roadAddress": "전북특별자치도 부안군 변산면 지서로 71, 서해할인마트",
+      "status": "영업/정상",
+      "licenseDate": "2019-05-08"
+    },
+    {
+      "name": "해피트리가족호텔 유한회사",
+      "address": "전북특별자치도 부안군 변산면 격포리 81",
+      "roadAddress": "전북특별자치도 부안군 변산면 변산해변로 292, 해피트리가족호텔 1층",
+      "status": "영업/정상",
+      "licenseDate": "2019-07-18"
+    },
+    {
+      "name": "현대마트",
+      "address": "전북특별자치도 부안군 행안면 신기리 183-10",
+      "roadAddress": "전북특별자치도 부안군 행안면 변산로 39-4",
+      "status": "영업/정상",
+      "licenseDate": "2019-08-21"
+    },
+    {
+      "name": "굿마트",
+      "address": "전북특별자치도 부안군 부안읍 선은리 40-1",
+      "roadAddress": "전북특별자치도 부안군 부안읍 부령로 55",
+      "status": "영업/정상",
+      "licenseDate": "2019-08-28"
+    },
+    {
+      "name": "씨유 부안줄포점",
+      "address": "전북특별자치도 부안군 줄포면 줄포리 603-4",
+      "roadAddress": "전북특별자치도 부안군 줄포면 줄포중앙로 49",
+      "status": "영업/정상",
+      "licenseDate": "2019-09-02"
+    },
+    {
+      "name": "세븐일레븐 부안주공점",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 816-6",
+      "roadAddress": "전북특별자치도 부안군 부안읍 학동길 11-1, 101호",
+      "status": "영업/정상",
+      "licenseDate": "2019-09-23"
+    },
+    {
+      "name": "넘버원피싱",
+      "address": "전북특별자치도 부안군 변산면 마포리 555-5",
+      "roadAddress": "전북특별자치도 부안군 변산면 격포로 22",
+      "status": "영업/정상",
+      "licenseDate": "2019-10-23"
+    },
+    {
+      "name": "(유)사랑식자재마트",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 782-1",
+      "roadAddress": "전북특별자치도 부안군 부안읍 석정로 256",
+      "status": "영업/정상",
+      "licenseDate": "2020-01-06"
+    },
+    {
+      "name": "한국공구철문점",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 574-139 한국공구철물상사",
+      "roadAddress": "전북특별자치도 부안군 부안읍 번영로 169, 한국공구철물상사",
+      "status": "영업/정상",
+      "licenseDate": "2020-05-28"
+    },
+    {
+      "name": "지에스(GS)25 부안라온점",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 920",
+      "roadAddress": "전북특별자치도 부안군 부안읍 쟁갈길 19, 부안라온아파트 상가 상가동 1층 107,108호",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-01"
+    },
+    {
+      "name": "유한회사 목원식자재마트",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 818-1 목원웨딩홀",
+      "roadAddress": "전북특별자치도 부안군 부안읍 학동길 1, 목원웨딩홀",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-22"
+    },
+    {
+      "name": "씨유 부안변산해수욕장점",
+      "address": "전북특별자치도 부안군 변산면 대항리 621-7",
+      "roadAddress": "전북특별자치도 부안군 변산면 변산로 2114",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-26"
+    },
+    {
+      "name": "세븐일레븐부안온리뷰점",
+      "address": "전북특별자치도 부안군 부안읍 서외리 34-1",
+      "roadAddress": "전북특별자치도 부안군 부안읍 부풍로 69",
+      "status": "영업/정상",
+      "licenseDate": "2020-07-16"
+    },
+    {
+      "name": "부자마트",
+      "address": "전북특별자치도 부안군 계화면 의복리 134-2 농협하나로마트",
+      "roadAddress": "전북특별자치도 부안군 계화면 돈지로 169, 농협하나로마트",
+      "status": "영업/정상",
+      "licenseDate": "2020-08-27"
+    },
+    {
+      "name": "줄포효마트(주)가남",
+      "address": "전북특별자치도 부안군 줄포면 줄포리 726-6",
+      "roadAddress": "전북특별자치도 부안군 줄포면 부안로 880-1",
+      "status": "영업/정상",
+      "licenseDate": "2020-11-19"
+    },
+    {
+      "name": "유한회사 탑마트",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 779",
+      "roadAddress": "전북특별자치도 부안군 부안읍 석정로 252, H.K빌딩",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-31"
+    },
+    {
+      "name": "비치마켓",
+      "address": "전북특별자치도 부안군 변산면 대항리 621-1",
+      "roadAddress": "전북특별자치도 부안군 변산면 변산로 2104, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-11"
+    },
+    {
+      "name": "지에스(GS)25 부안미소점",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 549-8",
+      "roadAddress": "전북특별자치도 부안군 부안읍 봉동길 27",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-05"
+    },
+    {
+      "name": "부안군 로컬푸드 직매장",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 266 부안군 로컬푸드 직매장",
+      "roadAddress": "전북특별자치도 부안군 부안읍 매창로 221, 부안군 로컬푸드 직매장",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-30"
+    },
+    {
+      "name": "25시 해넘이마트",
+      "address": "전북특별자치도 부안군 변산면 대항리 623-3",
+      "roadAddress": "전북특별자치도 부안군 변산면 변산로 2120-26",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-14"
+    },
+    {
+      "name": "호남건재철물",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 574-109 호남건재철물",
+      "roadAddress": "전북특별자치도 부안군 부안읍 석정로 205-7, 호남건재철물",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-01"
+    },
+    {
+      "name": "씨스페이스 고사포점",
+      "address": "전북특별자치도 부안군 변산면 운산리 443-14",
+      "roadAddress": "전북특별자치도 부안군 변산면 노루목길 8-8",
+      "status": "영업/정상",
+      "licenseDate": "2021-08-04"
+    },
+    {
+      "name": "세븐일레븐 변산격포점",
+      "address": "전북특별자치도 부안군 변산면 격포리 271-9",
+      "roadAddress": "전북특별자치도 부안군 변산면 격포로 127",
+      "status": "영업/정상",
+      "licenseDate": "2021-08-09"
+    },
+    {
+      "name": "24시 스페셜 편의점",
+      "address": "전북특별자치도 부안군 진서면 곰소리 773",
+      "roadAddress": "전북특별자치도 부안군 진서면 곰소항길 22-21",
+      "status": "영업/정상",
+      "licenseDate": "2021-09-08"
+    },
+    {
+      "name": "줄포 식자재 마트",
+      "address": "전북특별자치도 부안군 줄포면 줄포리 336-2",
+      "roadAddress": "전북특별자치도 부안군 줄포면 줄포중앙로 88",
+      "status": "영업/정상",
+      "licenseDate": "2021-10-08"
+    },
+    {
+      "name": "동부주유소",
+      "address": "전북특별자치도 부안군 부안읍 선은리 656-5",
+      "roadAddress": "전북특별자치도 부안군 부안읍 석정로 87",
+      "status": "영업/정상",
+      "licenseDate": "2021-10-29"
+    },
+    {
+      "name": "유성지업사",
+      "address": "전북특별자치도 부안군 부안읍 서외리 21 상설시장",
+      "roadAddress": "전북특별자치도 부안군 부안읍 부풍로 47, 상설시장",
+      "status": "영업/정상",
+      "licenseDate": "2021-11-15"
+    },
+    {
+      "name": "씨유(cu)부안줄포로드점",
+      "address": "전북특별자치도 부안군 줄포면 줄포리 916-43",
+      "roadAddress": "전북특별자치도 부안군 줄포면 후촌길 19-6",
+      "status": "영업/정상",
+      "licenseDate": "2021-12-02"
+    },
+    {
+      "name": "씨유 부안채석강2호점",
+      "address": "전북특별자치도 부안군 변산면 격포리 274-4",
+      "roadAddress": "전북특별자치도 부안군 변산면 채석강길 3",
+      "status": "영업/정상",
+      "licenseDate": "2021-12-22"
+    },
+    {
+      "name": "씨유 부안행복점",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 797-2 청운학원",
+      "roadAddress": "전북특별자치도 부안군 부안읍 석정로 241, 1층 101호",
+      "status": "영업/정상",
+      "licenseDate": "2022-01-19"
+    },
+    {
+      "name": "세븐일레븐 부안솔섬점",
+      "address": "전북특별자치도 부안군 변산면 도청리 305-2 수락상회",
+      "roadAddress": "전북특별자치도 부안군 변산면 수락길 1, 수락상회 1층",
+      "status": "영업/정상",
+      "licenseDate": "2022-03-11"
+    },
+    {
+      "name": "이마트24R부안채석강점",
+      "address": "전북특별자치도 부안군 변산면 격포리 274-34 채석강마트",
+      "roadAddress": "전북특별자치도 부안군 변산면 채석강길 9, 채석강마트",
+      "status": "영업/정상",
+      "licenseDate": "2022-03-21"
+    },
+    {
+      "name": "세븐일레븐 부안미소점",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 782-1",
+      "roadAddress": "전북특별자치도 부안군 부안읍 석정로 256, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-15"
+    },
+    {
+      "name": "부성지업사",
+      "address": "전북특별자치도 부안군 부안읍 서외리 21 상설시장",
+      "roadAddress": "전북특별자치도 부안군 부안읍 부풍로 47, 상설시장",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-21"
+    },
+    {
+      "name": "씨유 부안서외점",
+      "address": "전북특별자치도 부안군 부안읍 서외리 444-5",
+      "roadAddress": "전북특별자치도 부안군 부안읍 번영로 63",
+      "status": "영업/정상",
+      "licenseDate": "2022-06-20"
+    },
+    {
+      "name": "세븐일레븐 부안하이스트점",
+      "address": "전북특별자치도 부안군 부안읍 서외리 632",
+      "roadAddress": "전북특별자치도 부안군 부안읍 번영로 63-10, 114,115호",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-13"
+    },
+    {
+      "name": "오리정 마트",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 160-7",
+      "roadAddress": "전북특별자치도 부안군 부안읍 오리정로 162-35",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-20"
+    },
+    {
+      "name": "씨유 블루씨격포항구점",
+      "address": "전북특별자치도 부안군 변산면 격포리 468-1 명동수퍼마트",
+      "roadAddress": "전북특별자치도 부안군 변산면 격포중앙길 5, 명동수퍼마트",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-25"
+    },
+    {
+      "name": "유한회사 하이푸드",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 562",
+      "roadAddress": "전북특별자치도 부안군 부안읍 석정로 261",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-31"
+    },
+    {
+      "name": "씨유 부안격포점",
+      "address": "전북특별자치도 부안군 변산면 격포리 508-33 동남장모텔",
+      "roadAddress": "전북특별자치도 부안군 변산면 격포항길 31, 동남장모텔",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-27"
+    },
+    {
+      "name": "(유)상록 씨유뉴변산농협연수원점",
+      "address": "전북특별자치도 부안군 변산면 도청리 1119 NH보험 변산연수원",
+      "roadAddress": "전북특별자치도 부안군 변산면 궁항로 72, NH보험 변산연수원",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-14"
+    },
+    {
+      "name": "유한회사 경현리조트",
+      "address": "전북특별자치도 부안군 변산면 운산리 455-103",
+      "roadAddress": "전북특별자치도 부안군 변산면 변산해변로 799-9",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-14"
+    },
+    {
+      "name": "지에스25부안성모점",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 759",
+      "roadAddress": "전북특별자치도 부안군 부안읍 오정2길 19",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-25"
+    },
+    {
+      "name": "세븐일레븐 부안선은삼거리점",
+      "address": "전북특별자치도 부안군 부안읍 선은리 654-8",
+      "roadAddress": "전북특별자치도 부안군 부안읍 석정로 83",
+      "status": "영업/정상",
+      "licenseDate": "2022-12-08"
+    },
+    {
+      "name": "주식회사 고창부안한우작목회",
+      "address": "전북특별자치도 부안군 부안읍 서외리 433-2 고창부안축협",
+      "roadAddress": "전북특별자치도 부안군 부안읍 번영로 85-1, 고창부안축협",
+      "status": "영업/정상",
+      "licenseDate": "2022-12-15"
+    },
+    {
+      "name": "씨유 부안군청점",
+      "address": "전북특별자치도 부안군 부안읍 동중리 301 서림슈퍼",
+      "roadAddress": "전북특별자치도 부안군 부안읍 서림공원길 2, 서림슈퍼",
+      "status": "영업/정상",
+      "licenseDate": "2022-12-19"
+    },
+    {
+      "name": "씨유 부안계화점",
+      "address": "전북특별자치도 부안군 계화면 창북리 441-28",
+      "roadAddress": "전북특별자치도 부안군 계화면 간재로 411",
+      "status": "영업/정상",
+      "licenseDate": "2022-12-22"
+    },
+    {
+      "name": "씨유 부안고운점",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 93-18",
+      "roadAddress": "전북특별자치도 부안군 부안읍 용암로 41-1",
+      "status": "영업/정상",
+      "licenseDate": "2023-01-26"
+    },
+    {
+      "name": "이마트 24부안사랑점",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 566-177",
+      "roadAddress": "전북특별자치도 부안군 부안읍 석정로 279",
+      "status": "영업/정상",
+      "licenseDate": "2023-02-06"
+    },
+    {
+      "name": "씨유(부안행운점)",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 474",
+      "roadAddress": "전북특별자치도 부안군 부안읍 매창로 202, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2023-03-10"
+    },
+    {
+      "name": "씨유 부안터미널",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 579-6",
+      "roadAddress": "전북특별자치도 부안군 부안읍 석정로 210, 부안터미널 105동 1층 106호",
+      "status": "영업/정상",
+      "licenseDate": "2023-03-17"
+    },
+    {
+      "name": "변산반도국립공원사무소",
+      "address": "전북특별자치도 부안군 변산면 격포리 282-8 변산반도국립공원사무소",
+      "roadAddress": "전북특별자치도 부안군 변산면 방파제길 11, 변산반도국립공원사무소",
+      "status": "영업/정상",
+      "licenseDate": "2023-03-21"
+    },
+    {
+      "name": "변산오토캠핑장",
+      "address": "전북특별자치도 부안군 변산면 대항리 607",
+      "roadAddress": "전북특별자치도 부안군 변산면 변산로 2054",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-19"
+    },
+    {
+      "name": "이마트24 R부안곰소점",
+      "address": "전북특별자치도 부안군 진서면 곰소리 394",
+      "roadAddress": "전북특별자치도 부안군 진서면 청자로 893",
+      "status": "영업/정상",
+      "licenseDate": "2024-10-10"
+    },
+    {
+      "name": "씨유 부안헬로우점",
+      "address": "전북특별자치도 부안군 부안읍 동중리 176-5",
+      "roadAddress": "전북특별자치도 부안군 부안읍 부풍로 15",
+      "status": "영업/정상",
+      "licenseDate": "2023-12-29"
+    },
+    {
+      "name": "세븐일레븐 변산반도점",
+      "address": "전북특별자치도 부안군 변산면 격포리 282-24",
+      "roadAddress": "전북특별자치도 부안군 변산면 변산해변로 19-3",
+      "status": "영업/정상",
+      "licenseDate": "2024-01-05"
+    },
+    {
+      "name": "세븐일레븐 부안모항점",
+      "address": "전북특별자치도 부안군 변산면 도청리 203-2",
+      "roadAddress": "전북특별자치도 부안군 변산면 모항해변길 90",
+      "status": "영업/정상",
+      "licenseDate": "2024-03-18"
+    },
+    {
+      "name": "씨유 부안성모점",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 759-4",
+      "roadAddress": "전북특별자치도 부안군 부안읍 수정길 21",
+      "status": "영업/정상",
+      "licenseDate": "2024-05-17"
+    },
+    {
+      "name": "GS25 부안새만금로점",
+      "address": "전북특별자치도 부안군 변산면 대항리 578",
+      "roadAddress": "전북특별자치도 부안군 변산면 새만금로 462",
+      "status": "영업/정상",
+      "licenseDate": "2024-06-20"
+    },
+    {
+      "name": "유한회사 수교",
+      "address": "전북특별자치도 부안군 변산면 격포리 114",
+      "roadAddress": "전북특별자치도 부안군 변산면 적벽강길 4",
+      "status": "영업/정상",
+      "licenseDate": "2024-10-21"
+    },
+    {
+      "name": "지에스25 부안1호점",
+      "address": "전북특별자치도 부안군 부안읍 동중리 119",
+      "roadAddress": "전북특별자치도 부안군 부안읍 동중1길 15",
+      "status": "영업/정상",
+      "licenseDate": "2024-11-26"
+    },
+    {
+      "name": "지에스(GS)25 부안서옥점",
+      "address": "전북특별자치도 부안군 행안면 역리 365-1",
+      "roadAddress": "전북특별자치도 부안군 행안면 염소로 43, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2025-01-22"
+    },
+    {
+      "name": "지에스25 뉴부안군청점",
+      "address": "전북특별자치도 부안군 부안읍 서외리 227-2",
+      "roadAddress": "전북특별자치도 부안군 부안읍 당산로 82-2",
+      "status": "영업/정상",
+      "licenseDate": "2025-02-26"
+    },
+    {
+      "name": "내소힐링캠프",
+      "address": "전북특별자치도 부안군 진서면 석포리 314-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2025-04-25"
+    },
+    {
+      "name": "씨유 부안현대점",
+      "address": "전북특별자치도 부안군 행안면 신기리 183-10",
+      "roadAddress": "전북특별자치도 부안군 행안면 변산로 39-4",
+      "status": "영업/정상",
+      "licenseDate": "2025-05-29"
+    },
+    {
+      "name": "주식회사 관일",
+      "address": "전북특별자치도 부안군 부안읍 선은리 222-2",
+      "roadAddress": "전북특별자치도 부안군 부안읍 낭주길 25",
+      "status": "영업/정상",
+      "licenseDate": "2025-08-18"
+    },
+    {
+      "name": "씨유 부안봉덕주공점",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 909 봉덕주공2단지",
+      "roadAddress": "전북특별자치도 부안군 부안읍 석정로 286, 102호,103호 (봉덕주공2단지)",
+      "status": "영업/정상",
+      "licenseDate": "2025-08-25"
+    },
+    {
+      "name": "씨유 부안동영점",
+      "address": "전북특별자치도 부안군 부안읍 봉덕리 632-2",
+      "roadAddress": "전북특별자치도 부안군 부안읍 봉신길 9, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2025-09-29"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "region": "경상남도",
+  "regionSlug": "gyeongnam",
+  "district": "함양군",
+  "districtSlug": "hamyang",
+  "updatedAt": "2026-03-26",
+  "totalCount": 5,
+  "stores": [
+    {
+      "name": "백일슈퍼",
+      "address": "경상남도 함양군 함양읍 교산리 169-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송림식당",
+      "address": "경상남도 함양군 안의면 상원리 536-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-21"
+    },
+    {
+      "name": "일주문",
+      "address": "경상남도 함양군 안의면 상원리 산 16-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-21"
+    },
+    {
+      "name": "정자나무슈퍼",
+      "address": "경상남도 함양군 함양읍 운림리 276",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-11"
+    },
+    {
+      "name": "거창식당",
+      "address": "경상남도 함양군 안의면 월림리 735",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-07"
+    }
+  ]
+}

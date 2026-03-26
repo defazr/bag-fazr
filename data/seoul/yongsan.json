@@ -1,0 +1,24 @@
+{
+  "region": "서울특별시",
+  "regionSlug": "seoul",
+  "district": "용산구",
+  "districtSlug": "yongsan",
+  "updatedAt": "2026-03-26",
+  "totalCount": 2,
+  "stores": [
+    {
+      "name": "에스케이네트웍스주식회사",
+      "address": "서울특별시 용산구 청파동1가 180-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)해강유통",
+      "address": "경기도 오산시 세교동 19번지",
+      "roadAddress": "서울특별시 용산구 한강대로10길 15, 1층 (한강로3가)",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-17"
+    }
+  ]
+}

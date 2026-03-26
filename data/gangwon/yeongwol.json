@@ -1,0 +1,2425 @@
+{
+  "region": "강원특별자치도",
+  "regionSlug": "gangwon",
+  "district": "영월군",
+  "districtSlug": "yeongwol",
+  "updatedAt": "2026-03-26",
+  "totalCount": 345,
+  "stores": [
+    {
+      "name": "봉투판매소",
+      "address": "강원특별자치도 영월군 영월읍 문산리 2 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동글민박매점",
+      "address": "강원특별자치도 영월군 영월읍 삼옥리 2통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을구판장",
+      "address": "강원특별자치도 영월군 영월읍 삼옥리 1 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉투판매소",
+      "address": "강원특별자치도 영월군 영월읍 삼옥리 3통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉투판매소",
+      "address": "강원특별자치도 영월군 영월읍 연하리 2  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연하농산물판매",
+      "address": "강원특별자치도 영월군 영월읍 연하리 3 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉투판매업소",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 13 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "왕검성슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 정양리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉투판매소",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 8통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영광지업사",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 5통8반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉투판매소",
+      "address": "강원특별자치도 영월군 김삿갓면 각동리 청소년수련원",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "내리소나무집",
+      "address": "강원특별자치도 영월군 김삿갓면 내리 746",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을회관",
+      "address": "강원특별자치도 영월군 남면 조전리 2통마을회관",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부흥상회",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 10 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월드할인마트",
+      "address": "강원특별자치도 영월군 영월읍 하송리 171-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "법흥2리노인회",
+      "address": "강원특별자치도 영월군 무릉도원면 법흥리 89-5    2  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수원슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 4  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 5  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청령원",
+      "address": "강원특별자치도 영월군 영월읍 방절리 1  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "폭포휴게소식당",
+      "address": "강원특별자치도 영월군 영월읍 연하리 3  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을구판장",
+      "address": "강원특별자치도 영월군 영월읍 하송리 6  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "3469슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 하송리 4  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "내성상회",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 811 11통",
+      "roadAddress": "강원특별자치도 영월군 영월읍 봉래산로 47-4",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "각동구판장",
+      "address": "강원특별자치도 영월군 김삿갓면 각동리 151 3  통",
+      "roadAddress": "강원특별자치도 영월군 김삿갓면 강변로 1379-12",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉투판매업소",
+      "address": "강원특별자치도 영월군 김삿갓면 각동리 40 1  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉투판매업소",
+      "address": "강원특별자치도 영월군 김삿갓면 대야리 1  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉투판매업소",
+      "address": "강원특별자치도 영월군 김삿갓면 대야리 4  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "맛밭상회",
+      "address": "강원특별자치도 영월군 김삿갓면 대야리 4  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉투판매소",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 9 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "동남슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 671-5 10통2반",
+      "roadAddress": "강원특별자치도 영월군 영월읍 덕포하리6길 5",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "3.6상회",
+      "address": "강원특별자치도 영월군 상동읍 구래리 8 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "수입코너",
+      "address": "강원특별자치도 영월군 상동읍 구래리 8통2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "복신상회",
+      "address": "강원특별자치도 영월군 산솔면 녹전리 774-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "소원상회",
+      "address": "강원특별자치도 영월군 산솔면 녹전리 774-1",
+      "roadAddress": "강원특별자치도 영월군 산솔면 태백산로 1184",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "석항터미널",
+      "address": "강원특별자치도 영월군 산솔면 연상리 65-5 2통",
+      "roadAddress": "강원특별자치도 영월군 산솔면 영월로 3823",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "석항상회",
+      "address": "강원특별자치도 영월군 산솔면 석항리 470-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "우정상회",
+      "address": "강원특별자치도 영월군 김삿갓면 옥동리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "하동상회",
+      "address": "강원특별자치도 영월군 김삿갓면 옥동리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "산장식당",
+      "address": "강원특별자치도 영월군 김삿갓면 진별리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "경북상회",
+      "address": "강원특별자치도 영월군 김삿갓면 진별리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "백번슈퍼",
+      "address": "강원특별자치도 영월군 북면 문곡리 1통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "의성상회",
+      "address": "강원특별자치도 영월군 북면 마차리 1 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "토교 휴게소",
+      "address": "강원특별자치도 영월군 남면 토교리 108-12",
+      "roadAddress": "강원특별자치도 영월군 남면 토교로 56",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경은식품",
+      "address": "강원특별자치도 영월군 한반도면 쌍용리 2 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지에스(GS)25 영월한반도점",
+      "address": "강원특별자치도 영월군 한반도면 신천리 457-5",
+      "roadAddress": "강원특별자치도 영월군 한반도면 서강로 736",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성실슈퍼",
+      "address": "강원특별자치도 영월군 한반도면 쌍용리 1 통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황금슈퍼",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 한반도면 쌍용로 202-1",
+      "status": "영업/정상",
+      "licenseDate": "2019-05-01"
+    },
+    {
+      "name": "금복상회",
+      "address": "강원특별자치도 영월군 한반도면 쌍용리 5통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주천농협연쇄점",
+      "address": "강원특별자치도 영월군 주천면 주천리 1241 2  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "혁신슈퍼",
+      "address": "강원특별자치도 영월군 주천면 주천리 1260-1",
+      "roadAddress": "강원특별자치도 영월군 주천면 주천로84번길 17",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동부슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 5 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영진상회",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 7통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "민정슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 9 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동산슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 2통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "농협하나로마트",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 945-7    3통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "서강슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 964-11 4통2반",
+      "roadAddress": "강원특별자치도 영월군 영월읍 단종로16번길 3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 4통4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "보람슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 4  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "담배소매점",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 4 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 1  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원주슈퍼마켓",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 5 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광동슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 5통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영성미니슈퍼",
+      "address": "강원특별자치도 영월군 남면 연당리 3통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월동상회",
+      "address": "강원특별자치도 영월군 한반도면 쌍용리 2통7  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명보슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 10통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사거리슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 하송리 4 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 6 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세화비디오",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 5 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남양슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 4통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새시대슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 하송리 245-4    5  통8  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문산상회",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 10통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영신슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 574-57 6통1반",
+      "roadAddress": "강원특별자치도 영월군 영월읍 영월로 2072",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그랜드하이퍼",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 5 통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신성슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 836 8통",
+      "roadAddress": "강원특별자치도 영월군 영월읍 봉래산로 15",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영동슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 6통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하동슈퍼",
+      "address": "강원특별자치도 영월군 산솔면 녹전리 797-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙상회",
+      "address": "강원특별자치도 영월군 북면 마차리 1 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리상회",
+      "address": "강원특별자치도 영월군 한반도면 쌍용리 6통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼광청과상회",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 933 6  통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광일상회",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 574-206 5통7반",
+      "roadAddress": "강원특별자치도 영월군 영월읍 중앙로 134",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉래연쇄점",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 2  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "여주상회",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 830 8통1반",
+      "roadAddress": "강원특별자치도 영월군 영월읍 단종로 61-12",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부근상회",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 5 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉래슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 2  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리식품",
+      "address": "강원특별자치도 영월군 영월읍 하송리 5  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을구판장",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 11통6반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "부녀회구판장",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 12 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "영동상회",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 14통1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "영월봉투",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 14통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "부산상회",
+      "address": "강원특별자치도 영월군 영월읍 하송리 2  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "지에스25 영월샛말점",
+      "address": "강원특별자치도 영월군 영월읍 하송리 43-7",
+      "roadAddress": "강원특별자치도 영월군 영월읍 은행나무길 13",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "연희식품",
+      "address": "강원특별자치도 영월군 영월읍 하송리 3 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "하송슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 하송리 3  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "사거리슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 하송리 4통5반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 하송리 4통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "학당골송방",
+      "address": "강원특별자치도 영월군 영월읍 하송리 5통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "봉투판매소",
+      "address": "강원특별자치도 영월군 영월읍 하송리 6통4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "담배소매점",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 2 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "교림사",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 2 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "담배소매점",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 3 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "덕포식품",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 4통9  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "GS25 영월역",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 영월읍 영월로 2103-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "씨유(CU)영월동명점",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 501-4",
+      "roadAddress": "강원특별자치도 영월군 영월읍 영월로 2099",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "수현상회",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 5통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "금성철물",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 574-193  6통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "고개연쇄점",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 7통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "한일연쇄점",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 7통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "양지슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 642-12",
+      "roadAddress": "강원특별자치도 영월군 영월읍 덕포하리3길 41",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "광일슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 8통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "준영상회",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 8 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "명동마트",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 485-33",
+      "roadAddress": "강원특별자치도 영월군 영월읍 중앙로 203",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-05"
+    },
+    {
+      "name": "흥농종묘사",
+      "address": "강원특별자치도 영월군 영월읍 하송리 5통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진미식품",
+      "address": "강원특별자치도 영월군 한반도면 쌍용리 5  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "번창슈퍼",
+      "address": "강원특별자치도 영월군 주천면 주천리 3  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대동슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 6  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명성슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 11 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "꿀벌상회",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 11 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금곡슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 하송리 4  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "터미널매점",
+      "address": "강원특별자치도 영월군 영월읍 하송리 5  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금용학생사",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 3  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수원슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 4  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "섬안가든",
+      "address": "강원특별자치도 영월군 무릉도원면 도원리 879 1통3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "내리상회",
+      "address": "강원특별자치도 영월군 김삿갓면 내리 592",
+      "roadAddress": "강원특별자치도 영월군 김삿갓면 내리계곡로 1162-26",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옥동송어장식당",
+      "address": "강원특별자치도 영월군 김삿갓면 옥동리 121",
+      "roadAddress": "강원특별자치도 영월군 김삿갓면 영월동로 1547",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉투판매업소",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 14 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광덕슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 하송리 1-5    1  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-01"
+    },
+    {
+      "name": "삼익프라자",
+      "address": "강원특별자치도 영월군 영월읍 하송리 947통10 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동네슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 8  통7  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장수상회",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 4  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서원24시편의점",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 1061-11",
+      "roadAddress": "강원특별자치도 영월군 영월읍 단종로 67",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉투판매",
+      "address": "강원특별자치도 영월군 영월읍 거운리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉투판매",
+      "address": "강원특별자치도 영월군 영월읍 연하리 1  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "순영상회",
+      "address": "강원특별자치도 영월군 영월읍 방절리 2  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영월우체국",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 950",
+      "roadAddress": "강원특별자치도 영월군 영월읍 단종로33번길 20",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성수퍼",
+      "address": "강원특별자치도 영월군 영월읍 하송리 3  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백년산장가든",
+      "address": "강원특별자치도 영월군 주천면 판운리 909 4  통",
+      "roadAddress": "강원특별자치도 영월군 주천면 중선로 609-4",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉투판매소",
+      "address": "강원특별자치도 영월군 상동읍 덕구리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문산강변상회",
+      "address": "강원특별자치도 영월군 영월읍 문산리 1 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매봉산매점",
+      "address": "강원특별자치도 영월군 상동읍 내덕리 43-1",
+      "roadAddress": "강원특별자치도 영월군 상동읍 태백산로 3175-8",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-14"
+    },
+    {
+      "name": "으뜸할인마트",
+      "address": "강원특별자치도 영월군 영월읍 하송리 171-3",
+      "roadAddress": "강원특별자치도 영월군 영월읍 하송로 93",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-14"
+    },
+    {
+      "name": "앤마트",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 778-1",
+      "roadAddress": "강원특별자치도 영월군 영월읍 봉래산로 70-2",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-16"
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "강원특별자치도 영월군 주천면 주천리 1241-11",
+      "roadAddress": "강원특별자치도 영월군 주천면 주천로 89",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-31"
+    },
+    {
+      "name": "지에스25 영월남면점",
+      "address": "강원특별자치도 영월군 남면 연당리 932-5",
+      "roadAddress": "강원특별자치도 영월군 남면 조양마을길 6-7",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-29"
+    },
+    {
+      "name": "조은F&C",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 971-23",
+      "roadAddress": "강원특별자치도 영월군 영월읍 관풍헌길 63",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-21"
+    },
+    {
+      "name": "나들목 미니 슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 하송리 8-1",
+      "roadAddress": "강원특별자치도 영월군 영월읍 하송안길 70-4",
+      "status": "영업/정상",
+      "licenseDate": "2009-10-23"
+    },
+    {
+      "name": "부자슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 1033-9",
+      "roadAddress": "강원특별자치도 영월군 영월읍 영모전길 76-3",
+      "status": "영업/정상",
+      "licenseDate": "2010-04-05"
+    },
+    {
+      "name": "롯데쇼핑(주) 롯데슈퍼영월점",
+      "address": "강원특별자치도 영월군 영월읍 하송리 251-2",
+      "roadAddress": "강원특별자치도 영월군 영월읍 중앙로 5-10",
+      "status": "영업/정상",
+      "licenseDate": "2010-05-10"
+    },
+    {
+      "name": "구봉산장",
+      "address": "강원특별자치도 영월군 무릉도원면 법흥리 523",
+      "roadAddress": "강원특별자치도 영월군 무릉도원면 무릉법흥로 1230",
+      "status": "영업/정상",
+      "licenseDate": "2010-06-14"
+    },
+    {
+      "name": "씨유 영월박물관점",
+      "address": "강원특별자치도 영월군 영월읍 하송리 197",
+      "roadAddress": "강원특별자치도 영월군 영월읍 중앙로 4, 상가동 1호 (하송아파트 상가)",
+      "status": "영업/정상",
+      "licenseDate": "2010-07-08"
+    },
+    {
+      "name": "느티나무쉼터",
+      "address": "강원특별자치도 영월군 김삿갓면 내리 495",
+      "roadAddress": "강원특별자치도 영월군 김삿갓면 내리계곡로 1106",
+      "status": "영업/정상",
+      "licenseDate": "2010-07-13"
+    },
+    {
+      "name": "골목식품",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 927-17",
+      "roadAddress": "강원특별자치도 영월군 영월읍 요리골목길 22",
+      "status": "영업/정상",
+      "licenseDate": "2010-07-16"
+    },
+    {
+      "name": "와석상회",
+      "address": "강원특별자치도 영월군 김삿갓면 와석리 598",
+      "roadAddress": "강원특별자치도 영월군 김삿갓면 영월동로 2102",
+      "status": "영업/정상",
+      "licenseDate": "2010-07-26"
+    },
+    {
+      "name": "서남농협 쌍용지점",
+      "address": "강원특별자치도 영월군 한반도면 쌍용리 606-1",
+      "roadAddress": "강원특별자치도 영월군 한반도면 무동길 3",
+      "status": "영업/정상",
+      "licenseDate": "2010-09-01"
+    },
+    {
+      "name": "한반도농업협동조합 하나로마트 사업소 남면점",
+      "address": "강원특별자치도 영월군 남면 연당리 880-3",
+      "roadAddress": "강원특별자치도 영월군 남면 연당로 127",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-07"
+    },
+    {
+      "name": "서남농협신천지점",
+      "address": "강원특별자치도 영월군 남면 연당리 880-3",
+      "roadAddress": "강원특별자치도 영월군 한반도면 서강로 736-3",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-07"
+    },
+    {
+      "name": "광신상회",
+      "address": "강원특별자치도 영월군 상동읍 내덕리 36-20 5통2반",
+      "roadAddress": "강원특별자치도 영월군 상동읍 태백산로 3227-1",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-06"
+    },
+    {
+      "name": "그린편의점",
+      "address": "강원특별자치도 영월군 상동읍 내덕리 656-57",
+      "roadAddress": "강원특별자치도 영월군 상동읍 태백산로 3156",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-06"
+    },
+    {
+      "name": "식품가게",
+      "address": "강원특별자치도 영월군 북면 문곡리 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-06"
+    },
+    {
+      "name": "GS25 (영월영흥점)",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 979-9 1층",
+      "roadAddress": "강원특별자치도 영월군 영월읍 중앙로 53  (1층)",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-07"
+    },
+    {
+      "name": "동굴칡국수",
+      "address": "강원특별자치도 영월군 김삿갓면 진별리 506-15",
+      "roadAddress": "강원특별자치도 영월군 김삿갓면 영월동로 1121-10",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-22"
+    },
+    {
+      "name": "삼호마트",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 1049-16 아파트상가 1층1호",
+      "roadAddress": "강원특별자치도 영월군 영월읍 단종로 88  (아파트상가 1층1호)",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-16"
+    },
+    {
+      "name": "씨유 영월단종로점",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 957-1",
+      "roadAddress": "강원특별자치도 영월군 영월읍 단종로 46",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-16"
+    },
+    {
+      "name": "미소",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 1033-29",
+      "roadAddress": "강원특별자치도 영월군 영월읍 영모전길 121",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-30"
+    },
+    {
+      "name": "신아슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 방절리 482-1",
+      "roadAddress": "강원특별자치도 영월군 영월읍 청령포로 213",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-06"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "강원특별자치도 영월군 산솔면 직동리 607",
+      "roadAddress": "강원특별자치도 영월군 산솔면 직동로 317",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-20"
+    },
+    {
+      "name": "GS25영월장릉점",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 동산@ B동 302호",
+      "roadAddress": "강원특별자치도 영월군 영월읍 단종로 182",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-28"
+    },
+    {
+      "name": "드림마트",
+      "address": "강원특별자치도 영월군 영월읍 하송리 405-2",
+      "roadAddress": "강원특별자치도 영월군 영월읍 하송로 144",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-27"
+    },
+    {
+      "name": "훼미리마트영월대학로점",
+      "address": "강원특별자치도 영월군 영월읍 하송리 408-101",
+      "roadAddress": "강원특별자치도 영월군 영월읍 하송로 151",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-31"
+    },
+    {
+      "name": "금강철물",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 959-27",
+      "roadAddress": "강원특별자치도 영월군 영월읍 단종로 21",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-07"
+    },
+    {
+      "name": "동강상회",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 947-47",
+      "roadAddress": "강원특별자치도 영월군 영월읍 서부시장길 21-15",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-07"
+    },
+    {
+      "name": "김삿갓휴게소",
+      "address": "강원특별자치도 영월군 김삿갓면 와석리 322",
+      "roadAddress": "강원특별자치도 영월군 김삿갓면 영월동로 2150",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-30"
+    },
+    {
+      "name": "GS25 영월동강점",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 199-5",
+      "roadAddress": "강원특별자치도 영월군 영월읍 영월로 2279",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-11"
+    },
+    {
+      "name": "연당2리구판장",
+      "address": "강원특별자치도 영월군 남면 연당리 1048-4",
+      "roadAddress": "강원특별자치도 영월군 남면 연당로 65-5",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-11"
+    },
+    {
+      "name": "산촌슈퍼",
+      "address": "강원특별자치도 영월군 김삿갓면 내리 551",
+      "roadAddress": "강원특별자치도 영월군 김삿갓면 내리계곡로 1162-1",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-12"
+    },
+    {
+      "name": "한반도펜션편의점",
+      "address": "강원특별자치도 영월군 한반도면 후탄리 562-3",
+      "roadAddress": "강원특별자치도 영월군 한반도면 후탄로 759",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-13"
+    },
+    {
+      "name": "씨유(CU) 영월하송점",
+      "address": "강원특별자치도 영월군 영월읍 하송리 254-6",
+      "roadAddress": "강원특별자치도 영월군 영월읍 중앙1로 31, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-31"
+    },
+    {
+      "name": "내덕콩마을식당",
+      "address": "강원특별자치도 영월군 상동읍 내덕리 246-1",
+      "roadAddress": "강원특별자치도 영월군 상동읍 태백산로 2599",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-06"
+    },
+    {
+      "name": "강마루마트",
+      "address": "강원특별자치도 영월군 영월읍 방절리 238-43",
+      "roadAddress": "강원특별자치도 영월군 영월읍 청령포로 109",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-10"
+    },
+    {
+      "name": "샛별상회",
+      "address": "강원특별자치도 영월군 영월읍 하송리 187-1",
+      "roadAddress": "강원특별자치도 영월군 영월읍 중앙1로 23",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-15"
+    },
+    {
+      "name": "운학식당슈퍼",
+      "address": "강원특별자치도 영월군 무릉도원면 운학리 854",
+      "roadAddress": "강원특별자치도 영월군 무릉도원면 도원운학로 1426",
+      "status": "영업/정상",
+      "licenseDate": "2013-04-25"
+    },
+    {
+      "name": "씨유 영월레스트힐점",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 영월읍 제방안길 64, 105호 (레스트힐상가)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-01"
+    },
+    {
+      "name": "사랑나무 캠핑장",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 김삿갓면 내리계곡로 131-12",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-21"
+    },
+    {
+      "name": "영월캠프",
+      "address": "강원특별자치도 영월군 무릉도원면 법흥리 143-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-28"
+    },
+    {
+      "name": "새막골",
+      "address": "강원특별자치도 영월군 무릉도원면 두산리 304-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-27"
+    },
+    {
+      "name": "새터",
+      "address": "강원특별자치도 영월군 무릉도원면 법흥리 590",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2013-06-26"
+    },
+    {
+      "name": "녹전4리 부녀회",
+      "address": "강원특별자치도 영월군 산솔면 녹전리 362",
+      "roadAddress": "강원특별자치도 영월군 산솔면 응고개길 191",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-01"
+    },
+    {
+      "name": "금마4리 마을회",
+      "address": "강원특별자치도 영월군 주천면 금마리 104-3",
+      "roadAddress": "강원특별자치도 영월군 주천면 바둑골길 19",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-02"
+    },
+    {
+      "name": "종점마트",
+      "address": "강원특별자치도 영월군 무릉도원면 법흥리 522-1",
+      "roadAddress": "강원특별자치도 영월군 무릉도원면 백년계곡길 15-3",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-29"
+    },
+    {
+      "name": "하이랜드 편의점",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 상동읍 태백산로 3246",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-25"
+    },
+    {
+      "name": "방절슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 1009-1",
+      "roadAddress": "강원특별자치도 영월군 영월읍 단종로34번길 54",
+      "status": "영업/정상",
+      "licenseDate": "2014-05-09"
+    },
+    {
+      "name": "씨유영월영흥대로점",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 영월읍 봉래산로 49",
+      "status": "영업/정상",
+      "licenseDate": "2014-12-22"
+    },
+    {
+      "name": "씨유영월쌍용점",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 한반도면 쌍용로 86",
+      "status": "영업/정상",
+      "licenseDate": "2014-12-22"
+    },
+    {
+      "name": "광전슈퍼",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 한반도면 서강로 1064-28",
+      "status": "영업/정상",
+      "licenseDate": "2015-01-28"
+    },
+    {
+      "name": "조은상사",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 영월읍 중앙1로 46",
+      "status": "영업/정상",
+      "licenseDate": "2015-03-17"
+    },
+    {
+      "name": "씨유(CU) 영월상동점",
+      "address": "강원특별자치도 영월군 상동읍 내덕리 656-48",
+      "roadAddress": "강원특별자치도 영월군 상동읍 태백산로 3164-1, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2015-06-01"
+    },
+    {
+      "name": "씨유영월박물관점",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 영월읍 중앙로 4",
+      "status": "영업/정상",
+      "licenseDate": "2015-06-16"
+    },
+    {
+      "name": "GS25영월삼거리",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 북면 원동재로 6-1",
+      "status": "영업/정상",
+      "licenseDate": "2015-08-28"
+    },
+    {
+      "name": "GS25영월스타점",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 영월읍 하송로 120",
+      "status": "영업/정상",
+      "licenseDate": "2015-09-23"
+    },
+    {
+      "name": "스마트홈 Hephai stor",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 영월읍 하송로 68",
+      "status": "영업/정상",
+      "licenseDate": "2015-11-04"
+    },
+    {
+      "name": "생활용품D/C마트",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 영월읍 단종로 43",
+      "status": "영업/정상",
+      "licenseDate": "2016-01-20"
+    },
+    {
+      "name": "GS25 영월발전소",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 영월읍 중앙로 236",
+      "status": "영업/정상",
+      "licenseDate": "2016-04-06"
+    },
+    {
+      "name": "한국자재산업주식회사",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 영월읍 하송로 163",
+      "status": "영업/정상",
+      "licenseDate": "2016-04-12"
+    },
+    {
+      "name": "세븐일레븐영월점",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 영월읍 중앙1로 56",
+      "status": "영업/정상",
+      "licenseDate": "2016-05-16"
+    },
+    {
+      "name": "한반도편의점",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 한반도면 후탄로 759",
+      "status": "영업/정상",
+      "licenseDate": "2016-07-21"
+    },
+    {
+      "name": "유앤아이",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 주천면 금용강변로 474",
+      "status": "영업/정상",
+      "licenseDate": "2016-08-17"
+    },
+    {
+      "name": "김삿갓휴게소슈퍼",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 김삿갓면 영월동로 2150",
+      "status": "영업/정상",
+      "licenseDate": "2017-01-10"
+    },
+    {
+      "name": "일진상사",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 영월읍 서부시장길 25-11",
+      "status": "영업/정상",
+      "licenseDate": "2017-02-16"
+    },
+    {
+      "name": "동강쉽터",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 영월읍 섭새길 71-9",
+      "status": "영업/정상",
+      "licenseDate": "2017-05-10"
+    },
+    {
+      "name": "서부할인마트",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 영월읍 서부시장길 15",
+      "status": "영업/정상",
+      "licenseDate": "2017-05-26"
+    },
+    {
+      "name": "캠프 에이프릴",
+      "address": "강원특별자치도 영월군 남면 북쌍리 688-3",
+      "roadAddress": "강원특별자치도 영월군 남면 서강로 1664-134",
+      "status": "영업/정상",
+      "licenseDate": "2017-06-05"
+    },
+    {
+      "name": "세븐일레븐 영월중앙시장점",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 영월읍 제방안길 16-1, 102호",
+      "status": "영업/정상",
+      "licenseDate": "2017-07-21"
+    },
+    {
+      "name": "월드니스 오토캠핑장",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 무릉도원면 도원운학로 475-10",
+      "status": "영업/정상",
+      "licenseDate": "2017-07-27"
+    },
+    {
+      "name": "하나로화장품",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 영월읍 제방안길 26",
+      "status": "영업/정상",
+      "licenseDate": "2017-09-05"
+    },
+    {
+      "name": "GS25 영월별마로",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 영월읍 봉래산로 27-17",
+      "status": "영업/정상",
+      "licenseDate": "2017-09-06"
+    },
+    {
+      "name": "GS25 영월주천",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 주천면 송학주천로 1436-1",
+      "status": "영업/정상",
+      "licenseDate": "2017-10-13"
+    },
+    {
+      "name": "요기는캠핑장",
+      "address": "강원특별자치도 영월군 무릉도원면 운학리 707-18",
+      "roadAddress": "강원특별자치도 영월군 무릉도원면 도원운학로 1524-45",
+      "status": "영업/정상",
+      "licenseDate": "2018-04-12"
+    },
+    {
+      "name": "백년관광농원",
+      "address": "강원특별자치도 영월군 주천면 판운리 909",
+      "roadAddress": "강원특별자치도 영월군 주천면 중선로 609-4",
+      "status": "영업/정상",
+      "licenseDate": "2018-05-01"
+    },
+    {
+      "name": "세븐일레븐영월덕포점",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 574-371",
+      "roadAddress": "강원특별자치도 영월군 영월읍 중앙로 122",
+      "status": "영업/정상",
+      "licenseDate": "2018-05-28"
+    },
+    {
+      "name": "영월랜드휴게소",
+      "address": "강원특별자치도 영월군 한반도면 쌍용리 568-3",
+      "roadAddress": "강원특별자치도 영월군 한반도면 강원남로 273",
+      "status": "영업/정상",
+      "licenseDate": "2018-06-21"
+    },
+    {
+      "name": "CU 영월둥글바위점",
+      "address": "강원특별자치도 영월군 영월읍 삼옥리 1605",
+      "roadAddress": "강원특별자치도 영월군 영월읍 동강로 226",
+      "status": "영업/정상",
+      "licenseDate": "2018-07-24"
+    },
+    {
+      "name": "대광유통",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 947-49",
+      "roadAddress": "강원특별자치도 영월군 영월읍 서부시장길 23",
+      "status": "영업/정상",
+      "licenseDate": "2018-08-08"
+    },
+    {
+      "name": "세븐일레븐 영월중동점",
+      "address": "강원특별자치도 영월군 산솔면 연상리 50-3",
+      "roadAddress": "강원특별자치도 영월군 산솔면 영월로 3804-1",
+      "status": "영업/정상",
+      "licenseDate": "2018-08-08"
+    },
+    {
+      "name": "나그네쉼터",
+      "address": "강원특별자치도 영월군 김삿갓면 대야리 823-3",
+      "roadAddress": "강원특별자치도 영월군 김삿갓면 영월동로 1278",
+      "status": "영업/정상",
+      "licenseDate": "2018-08-08"
+    },
+    {
+      "name": "유앤아이",
+      "address": "강원특별자치도 영월군 주천면 용석리 307-3",
+      "roadAddress": "강원특별자치도 영월군 주천면 금용강변로 474",
+      "status": "영업/정상",
+      "licenseDate": "2018-10-11"
+    },
+    {
+      "name": "세븐일레븐 영월코아루점",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 797",
+      "roadAddress": "강원특별자치도 영월군 영월읍 덕포하리2길 70",
+      "status": "영업/정상",
+      "licenseDate": "2018-10-30"
+    },
+    {
+      "name": "씨유 뉴영월주천점",
+      "address": "강원특별자치도 영월군 주천면 주천리 1232-4",
+      "roadAddress": "강원특별자치도 영월군 주천면 주천시장길 22, 자동 3,4,5호",
+      "status": "영업/정상",
+      "licenseDate": "2018-11-29"
+    },
+    {
+      "name": "한반도농업협동조합 쌍용지점",
+      "address": "강원특별자치도 영월군 한반도면 쌍용리 606-2",
+      "roadAddress": "강원특별자치도 영월군 한반도면 무동길 3",
+      "status": "영업/정상",
+      "licenseDate": "2019-04-03"
+    },
+    {
+      "name": "방절1리 구판장",
+      "address": "강원특별자치도 영월군 영월읍 방절리 490-2 방절1리마을회관",
+      "roadAddress": "강원특별자치도 영월군 영월읍 청령포로 203, 방절1리마을회관",
+      "status": "영업/정상",
+      "licenseDate": "2019-06-12"
+    },
+    {
+      "name": "커피채널",
+      "address": "강원특별자치도 영월군 영월읍 하송리 11-1 영월맨션아파트",
+      "roadAddress": "강원특별자치도 영월군 영월읍 하송안길 89, 커피채널",
+      "status": "영업/정상",
+      "licenseDate": "2019-06-12"
+    },
+    {
+      "name": "동강소리 농어촌민박(동강소리슈퍼)",
+      "address": "강원특별자치도 영월군 영월읍 삼옥리 228-5",
+      "roadAddress": "강원특별자치도 영월군 영월읍 섭새길 71-3",
+      "status": "영업/정상",
+      "licenseDate": "2019-07-05"
+    },
+    {
+      "name": "지에스25영월청령포점",
+      "address": "강원특별자치도 영월군 영월읍 하송리 294-7 지에스25영월청령포점",
+      "roadAddress": "강원특별자치도 영월군 영월읍 청령포로 12, 지에스25영월청령포점 1층",
+      "status": "영업/정상",
+      "licenseDate": "2019-08-14"
+    },
+    {
+      "name": "평창영월정선축협 하나로마트 영월점",
+      "address": "강원특별자치도 영월군 영월읍 하송리 145 평창영월정선축협 하나로마트(영월점)",
+      "roadAddress": "강원특별자치도 영월군 영월읍 은행나무길 112, 평창영월정선축협 하나로마트(영월점)",
+      "status": "영업/정상",
+      "licenseDate": "2020-01-15"
+    },
+    {
+      "name": "미래슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 삼옥리 1612-12",
+      "roadAddress": "강원특별자치도 영월군 영월읍 동강로 241, 미래슈퍼",
+      "status": "영업/정상",
+      "licenseDate": "2020-03-20"
+    },
+    {
+      "name": "이마트24영월주공점",
+      "address": "강원특별자치도 영월군 영월읍 하송리 394 하송(4)주공아파트",
+      "roadAddress": "강원특별자치도 영월군 영월읍 하송로 123-7, 상가동 101호 (하송(4)주공아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2020-04-03"
+    },
+    {
+      "name": "용석식품",
+      "address": "강원특별자치도 영월군 주천면 용석리 711-5",
+      "roadAddress": "강원특별자치도 영월군 주천면 금용길 476",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-05"
+    },
+    {
+      "name": "자연펜션캠핑장",
+      "address": "강원특별자치도 영월군 김삿갓면 내리 616",
+      "roadAddress": "강원특별자치도 영월군 김삿갓면 내리계곡로 1199",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-05"
+    },
+    {
+      "name": "휴펜션",
+      "address": "강원특별자치도 영월군 무릉도원면 법흥리 625-1",
+      "roadAddress": "강원특별자치도 영월군 무릉도원면 무릉법흥로 782-26",
+      "status": "영업/정상",
+      "licenseDate": "2020-07-02"
+    },
+    {
+      "name": "포안마트",
+      "address": "강원특별자치도 영월군 무릉도원면 두산리 224-6 근린생활시설",
+      "roadAddress": "강원특별자치도 영월군 무릉도원면 두산길 143, 근린생활시설",
+      "status": "영업/정상",
+      "licenseDate": "2020-07-01"
+    },
+    {
+      "name": "미니스톱 영월센트럴점",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 502-74",
+      "roadAddress": "강원특별자치도 영월군 영월읍 영월로 2123",
+      "status": "영업/정상",
+      "licenseDate": "2020-07-14"
+    },
+    {
+      "name": "씨유 영월금용점",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 505-11 금용아파트",
+      "roadAddress": "강원특별자치도 영월군 영월읍 중리1길 108, A동 103호 (금용아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2020-08-28"
+    },
+    {
+      "name": "영월한반도캠핑장",
+      "address": "강원특별자치도 영월군 한반도면 후탄리 555-10",
+      "roadAddress": "강원특별자치도 영월군 한반도면 후탄로 826-1",
+      "status": "영업/정상",
+      "licenseDate": "2020-10-22"
+    },
+    {
+      "name": "가족마트",
+      "address": "강원특별자치도 영월군 북면 마차리 812-3",
+      "roadAddress": "강원특별자치도 영월군 북면 마차중앙1길 35",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-08"
+    },
+    {
+      "name": "씨유 영월 별빛점",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 668-5",
+      "roadAddress": "강원특별자치도 영월군 영월읍 중앙로 225, 1층 101호",
+      "status": "영업/정상",
+      "licenseDate": "2021-02-02"
+    },
+    {
+      "name": "포안캠핑",
+      "address": "강원특별자치도 영월군 무릉도원면 두산리 산 69",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-06"
+    },
+    {
+      "name": "충남상회",
+      "address": "강원특별자치도 영월군 영월읍 하송리 5-13",
+      "roadAddress": "강원특별자치도 영월군 영월읍 서부시장길 8-14",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-06"
+    },
+    {
+      "name": "CU 한반도점",
+      "address": "강원특별자치도 영월군 한반도면 신천리 456-4",
+      "roadAddress": "강원특별자치도 영월군 한반도면 서강로 750",
+      "status": "영업/정상",
+      "licenseDate": "2021-06-07"
+    },
+    {
+      "name": "다그린",
+      "address": "강원특별자치도 영월군 주천면 판운리 474-1",
+      "roadAddress": "강원특별자치도 영월군 주천면 미다리길 58",
+      "status": "영업/정상",
+      "licenseDate": "2021-06-14"
+    },
+    {
+      "name": "와룡천캠핑장",
+      "address": "강원특별자치도 영월군 남면 연당리 863-20",
+      "roadAddress": "강원특별자치도 영월군 남면 송정길 53",
+      "status": "영업/정상",
+      "licenseDate": "2021-06-21"
+    },
+    {
+      "name": "엄둔밸리",
+      "address": "강원특별자치도 영월군 무릉도원면 도원리 704",
+      "roadAddress": "강원특별자치도 영월군 무릉도원면 엄둔길 145",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-06"
+    },
+    {
+      "name": "와석유앤아이",
+      "address": "강원특별자치도 영월군 김삿갓면 와석리 553-1",
+      "roadAddress": "강원특별자치도 영월군 김삿갓면 두릉골길 35",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-19"
+    },
+    {
+      "name": "지에스25 영월극동",
+      "address": "강원특별자치도 영월군 영월읍 하송리 410-1",
+      "roadAddress": "강원특별자치도 영월군 영월읍 하송로 146-7",
+      "status": "영업/정상",
+      "licenseDate": "2021-08-03"
+    },
+    {
+      "name": "지에스25 영월에듀타운",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 1137 영월 코아루 에듀타운 1층 상가",
+      "roadAddress": "강원특별자치도 영월군 영월읍 봉래산로 114 (영월 코아루 에듀타운)",
+      "status": "영업/정상",
+      "licenseDate": "2021-08-05"
+    },
+    {
+      "name": "한반도농업협동조합 하나로마트 사업소",
+      "address": "강원특별자치도 영월군 주천면 주천리 888-7",
+      "roadAddress": "강원특별자치도 영월군 주천면 서강로 11",
+      "status": "영업/정상",
+      "licenseDate": "2021-11-09"
+    },
+    {
+      "name": "히어리 마켓",
+      "address": "강원특별자치도 영월군 김삿갓면 와석리 744",
+      "roadAddress": "강원특별자치도 영월군 김삿갓면 김삿갓로 587-6",
+      "status": "영업/정상",
+      "licenseDate": "2021-11-23"
+    },
+    {
+      "name": "씨유 영월주천사거리점",
+      "address": "강원특별자치도 영월군 주천면 주천리 888-3",
+      "roadAddress": "강원특별자치도 영월군 주천면 송학주천로 1420",
+      "status": "영업/정상",
+      "licenseDate": "2022-02-04"
+    },
+    {
+      "name": "월드니스",
+      "address": "강원특별자치도 영월군 무릉도원면 도원리 795-1",
+      "roadAddress": "강원특별자치도 영월군 무릉도원면 도원운학로 475-10",
+      "status": "영업/정상",
+      "licenseDate": "2022-03-22"
+    },
+    {
+      "name": "푸른농원",
+      "address": "강원특별자치도 영월군 무릉도원면 두산리 169-4",
+      "roadAddress": "강원특별자치도 영월군 무릉도원면 도원운학로 1043",
+      "status": "영업/정상",
+      "licenseDate": "2022-05-16"
+    },
+    {
+      "name": "세븐일레븐 영월장릉점",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 1096-15",
+      "roadAddress": "강원특별자치도 영월군 영월읍 단종로 179",
+      "status": "영업/정상",
+      "licenseDate": "2022-06-23"
+    },
+    {
+      "name": "금복상회",
+      "address": "강원특별자치도 영월군 한반도면 쌍용리 610-4",
+      "roadAddress": "강원특별자치도 영월군 한반도면 쌍용로 82-1",
+      "status": "영업/정상",
+      "licenseDate": "2022-06-23"
+    },
+    {
+      "name": "우든브릿지",
+      "address": "강원특별자치도 영월군 무릉도원면 두산리 578",
+      "roadAddress": "강원특별자치도 영월군 무릉도원면 두산길 299-8",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-14"
+    },
+    {
+      "name": "숲속의 아침",
+      "address": "강원특별자치도 영월군 무릉도원면 법흥리 538",
+      "roadAddress": "강원특별자치도 영월군 무릉도원면 무릉법흥로 1115",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-16"
+    },
+    {
+      "name": "씨유(CU)영월군청사거리점",
+      "address": "강원특별자치도 영월군 영월읍 하송리 206-1",
+      "roadAddress": "강원특별자치도 영월군 영월읍 하송로 68, 1층 102,103호",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-30"
+    },
+    {
+      "name": "지에스25 영월세경대",
+      "address": "강원특별자치도 영월군 영월읍 하송리 산 55 세경대학",
+      "roadAddress": "강원특별자치도 영월군 영월읍 하송로 197, 세경대학, 기숙사 매점",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-01"
+    },
+    {
+      "name": "꿈엔들 오토캠프",
+      "address": "강원특별자치도 영월군 무릉도원면 법흥리 51",
+      "roadAddress": "강원특별자치도 영월군 무릉도원면 무릉법흥로 968-12",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-21"
+    },
+    {
+      "name": "산울림산장펜션",
+      "address": "강원특별자치도 영월군 무릉도원면 무릉리 116",
+      "roadAddress": "강원특별자치도 영월군 무릉도원면 아래골길 257",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-26"
+    },
+    {
+      "name": "청송캠핑장",
+      "address": "강원특별자치도 영월군 무릉도원면 법흥리 364",
+      "roadAddress": "강원특별자치도 영월군 무릉도원면 무릉법흥로 1278-8",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-18"
+    },
+    {
+      "name": "지에스25 영월김삿갓점",
+      "address": "강원특별자치도 영월군 김삿갓면 대야리 823-3",
+      "roadAddress": "강원특별자치도 영월군 김삿갓면 영월동로 1278",
+      "status": "영업/정상",
+      "licenseDate": "2023-02-09"
+    },
+    {
+      "name": "영월키즈캠핑장",
+      "address": "강원특별자치도 영월군 무릉도원면 법흥리 181",
+      "roadAddress": "강원특별자치도 영월군 무릉도원면 무릉법흥로 1208-7",
+      "status": "영업/정상",
+      "licenseDate": "2023-03-29"
+    },
+    {
+      "name": "이마트24 영월고씨굴점",
+      "address": "강원특별자치도 영월군 김삿갓면 진별리 506-13",
+      "roadAddress": "강원특별자치도 영월군 김삿갓면 영월동로 1131-15",
+      "status": "영업/정상",
+      "licenseDate": "2023-06-21"
+    },
+    {
+      "name": "케로아인 캠프(KeroAin Camp)",
+      "address": "강원특별자치도 영월군 무릉도원면 운학리 930-3",
+      "roadAddress": "강원특별자치도 영월군 무릉도원면 학산길 26-9",
+      "status": "영업/정상",
+      "licenseDate": "2023-06-26"
+    },
+    {
+      "name": "상류펜션",
+      "address": "강원특별자치도 영월군 무릉도원면 법흥리 286-20",
+      "roadAddress": "강원특별자치도 영월군 무릉도원면 백년계곡길 194-5",
+      "status": "영업/정상",
+      "licenseDate": "2023-07-27"
+    },
+    {
+      "name": "이마트24 영월역점",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 497-9",
+      "roadAddress": "강원특별자치도 영월군 영월읍 영월로 2103-1, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2023-09-15"
+    },
+    {
+      "name": "금용강식당",
+      "address": "강원특별자치도 영월군 주천면 용석리 711-4",
+      "roadAddress": "강원특별자치도 영월군 주천면 금용강변로 296",
+      "status": "영업/정상",
+      "licenseDate": "2023-12-01"
+    },
+    {
+      "name": "무릉도원 캠핑장",
+      "address": "강원특별자치도 영월군 무릉도원면 운학리 627-3",
+      "roadAddress": "강원특별자치도 영월군 무릉도원면 고일길 15-5",
+      "status": "영업/정상",
+      "licenseDate": "2024-04-24"
+    },
+    {
+      "name": "지에스(GS)25 무릉도원점",
+      "address": "강원특별자치도 영월군 무릉도원면 무릉리 1090",
+      "roadAddress": "강원특별자치도 영월군 무릉도원면 무릉법흥로 307",
+      "status": "영업/정상",
+      "licenseDate": "2024-05-01"
+    },
+    {
+      "name": "이마트24 R영월주천로점",
+      "address": "강원특별자치도 영월군 주천면 주천리 1256-1",
+      "roadAddress": "강원특별자치도 영월군 주천면 주천로 88-1",
+      "status": "영업/정상",
+      "licenseDate": "2024-05-14"
+    },
+    {
+      "name": "씨유 영월하송대로점",
+      "address": "",
+      "roadAddress": "강원특별자치도 영월군 영월읍 중앙로 5, 1층 104호",
+      "status": "영업/정상",
+      "licenseDate": "2024-06-03"
+    },
+    {
+      "name": "이마트 24R 영월주천점",
+      "address": "강원특별자치도 영월군 주천면 주천리 888-2",
+      "roadAddress": "강원특별자치도 영월군 주천면 송학주천로 1423, 1층 1호",
+      "status": "영업/정상",
+      "licenseDate": "2024-07-01"
+    },
+    {
+      "name": "씨유영월별마로점",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 778-8",
+      "roadAddress": "강원특별자치도 영월군 영월읍 봉래산로 60, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2025-02-07"
+    },
+    {
+      "name": "블루밍캠프",
+      "address": "강원특별자치도 영월군 무릉도원면 법흥리 302-2",
+      "roadAddress": "강원특별자치도 영월군 무릉도원면 백년계곡길 124",
+      "status": "영업/정상",
+      "licenseDate": "2025-05-28"
+    },
+    {
+      "name": "산골매점",
+      "address": "강원특별자치도 영월군 김삿갓면 옥동리 342",
+      "roadAddress": "강원특별자치도 영월군 김삿갓면 영월동로 1667, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2025-06-23"
+    },
+    {
+      "name": "지에스(GS)25 영월행복주택점",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 815 행복가 아파트",
+      "roadAddress": "강원특별자치도 영월군 영월읍 덕포하리2길 9, 상가동 101,102호 (행복가 아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2025-09-16"
+    },
+    {
+      "name": "미니 편의점",
+      "address": "강원특별자치도 영월군 무릉도원면 운학리 831-7",
+      "roadAddress": "강원특별자치도 영월군 무릉도원면 도원운학로 1455",
+      "status": "영업/정상",
+      "licenseDate": "2025-12-29"
+    },
+    {
+      "name": "지에스25영월삼호점",
+      "address": "강원특별자치도 영월군 영월읍 하송리 257-8",
+      "roadAddress": "강원특별자치도 영월군 영월읍 하송로 23",
+      "status": "영업/정상",
+      "licenseDate": "2025-12-30"
+    },
+    {
+      "name": "봉투판매업소",
+      "address": "강원특별자치도 영월군 김삿갓면 외룡리 2  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리가게",
+      "address": "강원특별자치도 영월군 김삿갓면 외룡리 2  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김삿갓상회",
+      "address": "강원특별자치도 영월군 김삿갓면 와석리 1  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉투판매업소",
+      "address": "강원특별자치도 영월군 김삿갓면 와석리 246 2  통",
+      "roadAddress": "강원특별자치도 영월군 김삿갓면 영월동로 2280-16",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "내리회관",
+      "address": "강원특별자치도 영월군 김삿갓면 내리 502",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하동농협연쇄점",
+      "address": "강원특별자치도 영월군 김삿갓면 옥동리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "왕검성슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 정양리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을구판장",
+      "address": "강원특별자치도 영월군 영월읍 팔괴리 1 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은행상회",
+      "address": "강원특별자치도 영월군 영월읍 하송리 1통3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉투판매업소",
+      "address": "강원특별자치도 영월군 영월읍 흥월리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉투판매업소",
+      "address": "강원특별자치도 영월군 영월읍 흥월리 2통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "권철제",
+      "address": "강원특별자치도 영월군 무릉도원면 도원리 706 2통1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-25"
+    },
+    {
+      "name": "김삿갓 해선식당",
+      "address": "강원특별자치도 영월군 김삿갓면 와석리 921 1  통5  반",
+      "roadAddress": "강원특별자치도 영월군 김삿갓면 김삿갓로 216-11",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-28"
+    },
+    {
+      "name": "동강한마음매점",
+      "address": "강원특별자치도 영월군 영월읍 거운리 514",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-06"
+    },
+    {
+      "name": "수정슈퍼",
+      "address": "강원특별자치도 영월군 북면 마차리 1178-6    2통2 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-09"
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 948-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-16"
+    },
+    {
+      "name": "청강슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 하송리 256-7    5 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-10"
+    },
+    {
+      "name": "씨유 영월동강점",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 849-1",
+      "roadAddress": "강원특별자치도 영월군 영월읍 중앙로 85",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-12"
+    },
+    {
+      "name": "터미널상회",
+      "address": "강원특별자치도 영월군 상동읍 구래리 89 3통2반",
+      "roadAddress": "강원특별자치도 영월군 상동읍 구래로 246-36",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-12"
+    },
+    {
+      "name": "내덕슈퍼",
+      "address": "강원특별자치도 영월군 상동읍 내덕리 243-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-12"
+    },
+    {
+      "name": "경북상회",
+      "address": "강원특별자치도 영월군 상동읍 구래리 98-94 3통2반",
+      "roadAddress": "강원특별자치도 영월군 상동읍 상동시장길 18-1",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-12"
+    },
+    {
+      "name": "종합슈퍼",
+      "address": "강원특별자치도 영월군 상동읍 구래리 190 4통2반",
+      "roadAddress": "강원특별자치도 영월군 상동읍 상동시장길 27",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-12"
+    },
+    {
+      "name": "외룡슈퍼",
+      "address": "강원특별자치도 영월군 김삿갓면 외룡리 644-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-10"
+    },
+    {
+      "name": "훼밀리마트",
+      "address": "강원특별자치도 영월군 영월읍 하송리 훼밀마트(하송점)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-09-20"
+    },
+    {
+      "name": "기도원매점",
+      "address": "강원특별자치도 영월군 영월읍 연하리 948 1  통6  반",
+      "roadAddress": "강원특별자치도 영월군 영월읍 남중골길 25",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-03"
+    },
+    {
+      "name": "홈마트",
+      "address": "강원특별자치도 영월군 주천면 주천리 1242-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-05"
+    },
+    {
+      "name": "주천할인마트",
+      "address": "강원특별자치도 영월군 주천면 주천리 882-2",
+      "roadAddress": "강원특별자치도 영월군 주천면 송학주천로 1419",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-14"
+    },
+    {
+      "name": "상우민박",
+      "address": "강원특별자치도 영월군 무릉도원면 법흥리 73",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-16"
+    },
+    {
+      "name": "씨유 영월영흥점",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 940-18",
+      "roadAddress": "강원특별자치도 영월군 영월읍 하송안길 117",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-25"
+    },
+    {
+      "name": "홈마트",
+      "address": "강원특별자치도 영월군 영월읍 하송리 251-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-17"
+    },
+    {
+      "name": "삼거리쉼터",
+      "address": "강원특별자치도 영월군 주천면 용석리 711-3",
+      "roadAddress": "강원특별자치도 영월군 주천면 금용강변로 298",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "먹골매점",
+      "address": "강원특별자치도 영월군 영월읍 삼옥리 300-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-18"
+    },
+    {
+      "name": "썬마트",
+      "address": "강원특별자치도 영월군 영월읍 하송리 171-3",
+      "roadAddress": "강원특별자치도 영월군 영월읍 하송로 93",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-20"
+    },
+    {
+      "name": "솔밭캠프장",
+      "address": "강원특별자치도 영월군 무릉도원면 법흥리 655 1통2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-04"
+    },
+    {
+      "name": "마을슈퍼",
+      "address": "강원특별자치도 영월군 주천면 판운리 521-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-25"
+    },
+    {
+      "name": "판운쉼터",
+      "address": "강원특별자치도 영월군 주천면 판운리 492-3",
+      "roadAddress": "강원특별자치도 영월군 주천면 송학주천로 2141",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-25"
+    },
+    {
+      "name": "동네슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 1049-22",
+      "roadAddress": "강원특별자치도 영월군 영월읍 단종로 80",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-30"
+    },
+    {
+      "name": "보광훼미리마트 영월터미널점",
+      "address": "강원특별자치도 영월군 영월읍 하송리 187-10",
+      "roadAddress": "강원특별자치도 영월군 영월읍 중앙1로 17-3",
+      "status": "영업/정상",
+      "licenseDate": "2005-12-28"
+    },
+    {
+      "name": "학생사",
+      "address": "강원특별자치도 영월군 한반도면 쌍용리 895-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-31"
+    },
+    {
+      "name": "GS25 영월 고씨굴",
+      "address": "강원특별자치도 영월군 김삿갓면 진별리 506-14",
+      "roadAddress": "강원특별자치도 영월군 김삿갓면 영월동로 1121-8",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-09"
+    },
+    {
+      "name": "씨유 영월그랜드점",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 971-2",
+      "roadAddress": "강원특별자치도 영월군 영월읍 단종로16번길 32",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-11"
+    },
+    {
+      "name": "연화휴게소",
+      "address": "강원특별자치도 영월군 영월읍 연하리 78-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-08-14"
+    },
+    {
+      "name": "영동슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 957-1",
+      "roadAddress": "강원특별자치도 영월군 영월읍 단종로 46",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-04"
+    },
+    {
+      "name": "옥동상회",
+      "address": "강원특별자치도 영월군 김삿갓면 옥동리 211",
+      "roadAddress": "강원특별자치도 영월군 김삿갓면 옥동장터길 16",
+      "status": "영업/정상",
+      "licenseDate": "2008-03-12"
+    },
+    {
+      "name": "펭귄24시편의점",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 963-12",
+      "roadAddress": "강원특별자치도 영월군 영월읍 단종로34번길 30-7",
+      "status": "영업/정상",
+      "licenseDate": "2008-04-18"
+    },
+    {
+      "name": "사계절슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 840-3",
+      "roadAddress": "강원특별자치도 영월군 영월읍 영모전길 16",
+      "status": "영업/정상",
+      "licenseDate": "2008-05-13"
+    },
+    {
+      "name": "영월의료원 매점",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 950-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-07-23"
+    },
+    {
+      "name": "신아슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 방절리 482-1 신아아파트 101동 606호",
+      "roadAddress": "강원특별자치도 영월군 영월읍 청령포로 213  (신아아파트 101동 606호)",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-01"
+    },
+    {
+      "name": "금용슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 505-11 금용아파트 101동 403호",
+      "roadAddress": "강원특별자치도 영월군 영월읍 중리1길 108  (금용아파트 101동 403호)",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-01"
+    },
+    {
+      "name": "금용단골슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 505-11 상가B-103",
+      "roadAddress": "강원특별자치도 영월군 영월읍 중리1길 108  (상가B-103)",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-01"
+    },
+    {
+      "name": "아파트슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 하송리 주공1차아파트 상가1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-01"
+    },
+    {
+      "name": "주공마트",
+      "address": "강원특별자치도 영월군 영월읍 하송리 주공4차아파트 상가101호",
+      "roadAddress": "강원특별자치도 영월군 영월읍 하송로 123-7 (주공4차상가101호)",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-01"
+    },
+    {
+      "name": "영월쇼핑",
+      "address": "강원특별자치도 영월군 영월읍 하송리 4-1 서부공설시장내",
+      "roadAddress": "강원특별자치도 영월군 영월읍 서부시장길 15-18  (서부공설시장내)",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-01"
+    },
+    {
+      "name": "신창슈퍼",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 644-1",
+      "roadAddress": "강원특별자치도 영월군 영월읍 덕포하리1길 63",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-01"
+    },
+    {
+      "name": "삼호마트",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 1049-16 삼호아파트 상가 1층 1호",
+      "roadAddress": "강원특별자치도 영월군 영월읍 단종로 88  (삼호아파트 상가 1층 1호)",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-01"
+    },
+    {
+      "name": "지에스25 영월주공점",
+      "address": "강원특별자치도 영월군 영월읍 하송리 386-3",
+      "roadAddress": "강원특별자치도 영월군 영월읍 하송로 113",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-08"
+    },
+    {
+      "name": "동강할인마트",
+      "address": "강원특별자치도 영월군 영월읍 영흥리 969-1",
+      "roadAddress": "강원특별자치도 영월군 영월읍 관풍헌길 85-7",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-08"
+    },
+    {
+      "name": "제일연쇄점",
+      "address": "강원특별자치도 영월군 영월읍 덕포리 593-27",
+      "roadAddress": "강원특별자치도 영월군 영월읍 중앙로 183",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-11"
+    },
+    {
+      "name": "동강휴게소",
+      "address": "강원특별자치도 영월군 남면 창원리 729-1",
+      "roadAddress": "강원특별자치도 영월군 남면 강원남로 641",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-08"
+    },
+    {
+      "name": "대성마트",
+      "address": "강원특별자치도 영월군 산솔면 석항리 133",
+      "roadAddress": "강원특별자치도 영월군 산솔면 영월로 3850",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-08"
+    },
+    {
+      "name": "노루목상회",
+      "address": "강원특별자치도 영월군 김삿갓면 와석리 925",
+      "roadAddress": "강원특별자치도 영월군 김삿갓면 김삿갓로 216-3",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-08"
+    }
+  ]
+}

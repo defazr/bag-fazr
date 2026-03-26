@@ -1,0 +1,2376 @@
+{
+  "region": "부산광역시",
+  "regionSlug": "busan",
+  "district": "해운대구",
+  "districtSlug": "haeundae",
+  "updatedAt": "2026-03-26",
+  "totalCount": 338,
+  "stores": [
+    {
+      "name": "GS25 해운대해변점",
+      "address": "부산광역시 해운대구 우동 123-4",
+      "roadAddress": "부산광역시 해운대구 해운대해변로 123",
+      "status": "영업/정상",
+      "licenseDate": "2020-03-15"
+    },
+    {
+      "name": "CU 마린시티점",
+      "address": "부산광역시 해운대구 우동 456-7",
+      "roadAddress": "부산광역시 해운대구 마린시티2로 45",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-20"
+    },
+    {
+      "name": "세븐일레븐 센텀점",
+      "address": "부산광역시 해운대구 재송동 789-1",
+      "roadAddress": "부산광역시 해운대구 센텀남대로 78",
+      "status": "영업/정상",
+      "licenseDate": "2019-11-10"
+    },
+    {
+      "name": "이마트24 좌동점",
+      "address": "부산광역시 해운대구 좌동 234-5",
+      "roadAddress": "부산광역시 해운대구 좌동순환로 234",
+      "status": "영업/정상",
+      "licenseDate": "2022-01-05"
+    },
+    {
+      "name": "GS25 반여점",
+      "address": "부산광역시 해운대구 반여동 567-8",
+      "roadAddress": "부산광역시 해운대구 반여로 56",
+      "status": "영업/정상",
+      "licenseDate": "2018-08-25"
+    },
+    {
+      "name": "CU 중동점",
+      "address": "부산광역시 해운대구 중동 890-1",
+      "roadAddress": "부산광역시 해운대구 중동2로 89",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-15"
+    },
+    {
+      "name": "무지개스토아",
+      "address": "부산광역시 해운대구 반여동 1291-257",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-03"
+    },
+    {
+      "name": "현대럭키슈퍼",
+      "address": "부산광역시 해운대구 반여동 1291-1460",
+      "roadAddress": "부산광역시 해운대구 재반로212번길 67  (반여동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-23"
+    },
+    {
+      "name": "무지개상회",
+      "address": "부산광역시 해운대구 반여동 1592-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-08"
+    },
+    {
+      "name": "무지개상회",
+      "address": "부산광역시 해운대구 반여동 1571-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가할인슈퍼",
+      "address": "부산광역시 해운대구 반여동 1608-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-24"
+    },
+    {
+      "name": "남창상회",
+      "address": "부산광역시 해운대구 반송동 250-562",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "남창상회",
+      "address": "부산광역시 해운대구 반송동 250-472",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "새마을금고",
+      "address": "부산광역시 해운대구 반송동 717-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "미미슈퍼",
+      "address": "부산광역시 해운대구 반송동 275-134",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "진주상회",
+      "address": "부산광역시 해운대구 반송동 709-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "영신미니슈퍼",
+      "address": "부산광역시 해운대구 반송동 723-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "한아름스토아",
+      "address": "부산광역시 해운대구 반송동 250-1819",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "농축산물판매장",
+      "address": "부산광역시 해운대구 반송동 744-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "혜성병원매점",
+      "address": "부산광역시 해운대구 반송동 679-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "신흥상회",
+      "address": "부산광역시 해운대구 반송동 40-709",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "합동상회",
+      "address": "부산광역시 해운대구 반송동 40-451",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "창영슈퍼",
+      "address": "부산광역시 해운대구 반송동 62-259",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "25시슈퍼",
+      "address": "부산광역시 해운대구 반송동 40-545",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "영광슈퍼",
+      "address": "부산광역시 해운대구 반송동 62-336",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "미화당슈퍼",
+      "address": "부산광역시 해운대구 반송동 62-91",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "또와요슈퍼",
+      "address": "부산광역시 해운대구 반송동 40-288",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "동일상회",
+      "address": "부산광역시 해운대구 반송동 6-216",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "백광슈퍼",
+      "address": "부산광역시 해운대구 반송동 67-196",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "거창슈퍼",
+      "address": "부산광역시 해운대구 반송동 7-177",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "우리통축산물직판장",
+      "address": "부산광역시 해운대구 반송동 250-452",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "영광스린파크사무실",
+      "address": "부산광역시 해운대구 재송동 1121-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "이진슈퍼",
+      "address": "부산광역시 해운대구 재송동 111-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "욱천상회",
+      "address": "부산광역시 해운대구 재송동 107-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "현관세차장",
+      "address": "부산광역시 해운대구 재송동 263-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "농심가슈퍼",
+      "address": "부산광역시 해운대구 재송동 1093-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "밀양슈퍼",
+      "address": "부산광역시 해운대구 재송동 1092-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "평화상회",
+      "address": "부산광역시 해운대구 재송동 1092-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "미성사진관",
+      "address": "부산광역시 해운대구 재송동 1091-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "새마을금고",
+      "address": "부산광역시 해운대구 재송동 1090-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "재송슈퍼",
+      "address": "부산광역시 해운대구 재송동 1125-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "지현상회",
+      "address": "부산광역시 해운대구 재송동 119",
+      "roadAddress": "부산광역시 해운대구 재반로50번길 31  (재송동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-15"
+    },
+    {
+      "name": "글로리스토아",
+      "address": "부산광역시 해운대구 재송동 1100-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-25"
+    },
+    {
+      "name": "매일마트",
+      "address": "부산광역시 해운대구 재송동 1120-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-11"
+    },
+    {
+      "name": "(주)한화유통재송점",
+      "address": "부산광역시 해운대구 재송동 1080-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-29"
+    },
+    {
+      "name": "우진상회(송보자유상가)",
+      "address": "부산광역시 해운대구 반여동 1063-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-16"
+    },
+    {
+      "name": "(주)서원유통반여점",
+      "address": "부산광역시 해운대구 반여동 1217-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-23"
+    },
+    {
+      "name": "영선슈퍼",
+      "address": "부산광역시 해운대구 반여동 980",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-23"
+    },
+    {
+      "name": "유승마트",
+      "address": "부산광역시 해운대구 반여동 876-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-16"
+    },
+    {
+      "name": "진양슈퍼",
+      "address": "부산광역시 해운대구 재송동 1302-72",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-15"
+    },
+    {
+      "name": "우리문구사",
+      "address": "부산광역시 해운대구 반여동 1291-130",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-03"
+    },
+    {
+      "name": "둘리문구사",
+      "address": "부산광역시 해운대구 반여동 1291-137",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-13"
+    },
+    {
+      "name": "K7마트",
+      "address": "부산광역시 해운대구 반여동 1291-1201",
+      "roadAddress": "부산광역시 해운대구 해운대로61번길 69  (반여동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-03"
+    },
+    {
+      "name": "우정슈퍼",
+      "address": "부산광역시 해운대구 반여동 1291-126",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-02"
+    },
+    {
+      "name": "근대화슈퍼",
+      "address": "부산광역시 해운대구 반여동 1609-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-28"
+    },
+    {
+      "name": "삼성정미소",
+      "address": "부산광역시 해운대구 반여동 1597-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-09"
+    },
+    {
+      "name": "진주미니슈퍼",
+      "address": "부산광역시 해운대구 반여동 1607-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-18"
+    },
+    {
+      "name": "서원유통",
+      "address": "부산광역시 해운대구 반여동 1592-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-23"
+    },
+    {
+      "name": "아람마트",
+      "address": "부산광역시 해운대구 반송동 709-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-13"
+    },
+    {
+      "name": "성우상회",
+      "address": "부산광역시 해운대구 반송동 250-1906",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-11"
+    },
+    {
+      "name": "영남상회",
+      "address": "부산광역시 해운대구 반송동 7-170",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-01"
+    },
+    {
+      "name": "경북상회",
+      "address": "부산광역시 해운대구 반송동 7-110",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-01"
+    },
+    {
+      "name": "부산슈퍼",
+      "address": "부산광역시 해운대구 반송동 6-165",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-01"
+    },
+    {
+      "name": "선산쌀상회",
+      "address": "부산광역시 해운대구 반송동 7-60",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-01"
+    },
+    {
+      "name": "미경슈퍼",
+      "address": "부산광역시 해운대구 반송동 77",
+      "roadAddress": "부산광역시 해운대구 신반송로 200  (반송동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-01"
+    },
+    {
+      "name": "주공나상가",
+      "address": "부산광역시 해운대구 반송동 77",
+      "roadAddress": "부산광역시 해운대구 신반송로 200  (반송동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-01"
+    },
+    {
+      "name": "삼정슈퍼",
+      "address": "부산광역시 해운대구 반송동 78",
+      "roadAddress": "부산광역시 해운대구 신반송로 196  (반송동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-01"
+    },
+    {
+      "name": "서원탑",
+      "address": "부산광역시 해운대구 반송동 93-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-01"
+    },
+    {
+      "name": "동남슈퍼",
+      "address": "부산광역시 해운대구 반송동 93-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-01"
+    },
+    {
+      "name": "K-마트",
+      "address": "부산광역시 해운대구 반송동 879-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-01"
+    },
+    {
+      "name": "농심가할인마트",
+      "address": "부산광역시 해운대구 반송동 260-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-13"
+    },
+    {
+      "name": "우리마트",
+      "address": "부산광역시 해운대구 반송동 275-636",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-01"
+    },
+    {
+      "name": "예천마트",
+      "address": "부산광역시 해운대구 반송동 250-1561",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-16"
+    },
+    {
+      "name": "아람패션",
+      "address": "부산광역시 해운대구 반송동 257-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-21"
+    },
+    {
+      "name": "명유그린관리소",
+      "address": "부산광역시 해운대구 재송동 152",
+      "roadAddress": "부산광역시 해운대구 재반로64번길 42  (재송동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-01"
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "부산광역시 해운대구 재송동 1089-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-01"
+    },
+    {
+      "name": "근대화슈퍼",
+      "address": "부산광역시 해운대구 재송동 151-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-01"
+    },
+    {
+      "name": "농심가",
+      "address": "부산광역시 해운대구 재송동 131",
+      "roadAddress": "부산광역시 해운대구 재반로60번길 46-6  (재송동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-01"
+    },
+    {
+      "name": "장계슈퍼",
+      "address": "부산광역시 해운대구 재송동 109-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-01"
+    },
+    {
+      "name": "대영슈퍼",
+      "address": "부산광역시 해운대구 재송동 1128-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-01"
+    },
+    {
+      "name": "농산물특판장",
+      "address": "부산광역시 해운대구 재송동 1090-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-01"
+    },
+    {
+      "name": "진우유통",
+      "address": "부산광역시 해운대구 재송동 1124-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-01"
+    },
+    {
+      "name": "욱성슈퍼",
+      "address": "부산광역시 해운대구 재송동 115-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-01"
+    },
+    {
+      "name": "삼화상회",
+      "address": "부산광역시 해운대구 재송동 100-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-13"
+    },
+    {
+      "name": "축협알뜰판매장",
+      "address": "부산광역시 해운대구 재송동 1118-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-20"
+    },
+    {
+      "name": "빅마트(재송점)",
+      "address": "부산광역시 해운대구 재송동 1161",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-19"
+    },
+    {
+      "name": "한아름마트",
+      "address": "부산광역시 해운대구 재송동 1090-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-01"
+    },
+    {
+      "name": "잔치마트",
+      "address": "부산광역시 해운대구 재송동 99-56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-08"
+    },
+    {
+      "name": "빅마트",
+      "address": "부산광역시 해운대구 재송동 1092-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-11"
+    },
+    {
+      "name": "풍산슈퍼",
+      "address": "부산광역시 해운대구 반여동 745-89",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-21"
+    },
+    {
+      "name": "코리아세븐반여점",
+      "address": "부산광역시 해운대구 반여동 1411-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-24"
+    },
+    {
+      "name": "진주상회",
+      "address": "부산광역시 해운대구 반여동 1291-839",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-27"
+    },
+    {
+      "name": "빅마트세일",
+      "address": "부산광역시 해운대구 반여동 1609-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-16"
+    },
+    {
+      "name": "사랑상회",
+      "address": "부산광역시 해운대구 반여동 1575-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-19"
+    },
+    {
+      "name": "부식슈퍼",
+      "address": "부산광역시 해운대구 반송동 2501115",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "경산상회",
+      "address": "부산광역시 해운대구 반송동 250-1091",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "석대슈퍼",
+      "address": "부산광역시 해운대구 석대동 234",
+      "roadAddress": "부산광역시 해운대구 반송로607번길 17  (석대동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "석대새마을금고",
+      "address": "부산광역시 해운대구 석대동 231-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "미화당대경슈퍼",
+      "address": "부산광역시 해운대구 반여동 1582-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국까르푸(주)",
+      "address": "부산광역시 해운대구 우동 1406-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-04"
+    },
+    {
+      "name": "모닝문구사",
+      "address": "부산광역시 해운대구 반송동 872",
+      "roadAddress": "부산광역시 해운대구 신반송로 102  (반송동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "경동슈퍼",
+      "address": "부산광역시 해운대구 반송동 885",
+      "roadAddress": "부산광역시 해운대구 신반송로 76  (반송동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "원마트",
+      "address": "부산광역시 해운대구 반송동 884",
+      "roadAddress": "부산광역시 해운대구 신반송로 80  (반송동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "도개공슈퍼",
+      "address": "부산광역시 해운대구 반송동 880",
+      "roadAddress": "부산광역시 해운대구 신반송로 159  (반송동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "이천상회",
+      "address": "부산광역시 해운대구 반송동 880",
+      "roadAddress": "부산광역시 해운대구 신반송로 159  (반송동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "남흥스토아",
+      "address": "부산광역시 해운대구 반송동 887",
+      "roadAddress": "부산광역시 해운대구 신반송로 163  (반송동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "축협",
+      "address": "부산광역시 해운대구 반송동 888",
+      "roadAddress": "부산광역시 해운대구 신반송로 171  (반송동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "한솔슈퍼",
+      "address": "부산광역시 해운대구 반송동 892",
+      "roadAddress": "부산광역시 해운대구 신반송로 29  (반송동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "그린할인마트",
+      "address": "부산광역시 해운대구 재송동 115-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-27"
+    },
+    {
+      "name": "훼미리마트두산동국점",
+      "address": "부산광역시 해운대구 좌동 1394 두산동국아파트상가 4",
+      "roadAddress": "부산광역시 해운대구 양운로 182  (좌동,두산동국아파트상가 4)",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-17"
+    },
+    {
+      "name": "달맞이편의점",
+      "address": "부산광역시 해운대구 송정동 711-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-16"
+    },
+    {
+      "name": "수파슈퍼",
+      "address": "부산광역시 해운대구 반여동 903-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "찬주슈퍼(연쇄점)",
+      "address": "부산광역시 해운대구 반여동 980-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "영진상회",
+      "address": "부산광역시 해운대구 반여동 987-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "문화슈퍼(대우지하상가)",
+      "address": "부산광역시 해운대구 반여동 357-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "벽산슈퍼(연쇄점)",
+      "address": "부산광역시 해운대구 반여동 1063-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-10"
+    },
+    {
+      "name": "신동아슈퍼",
+      "address": "부산광역시 해운대구 반여동 982-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "럭키마트",
+      "address": "부산광역시 해운대구 반여동 1199-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "평훈슈퍼",
+      "address": "부산광역시 해운대구 반여동 244-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "대림24시",
+      "address": "부산광역시 해운대구 반여동 1199-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "거창한슈퍼",
+      "address": "부산광역시 해운대구 반여동 1403-58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "서원탑훼미리마트",
+      "address": "부산광역시 해운대구 반여동 1174-1 SK아파트  B동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-14"
+    },
+    {
+      "name": "그린파크관리소",
+      "address": "부산광역시 해운대구 반여동 1600-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "세명슈퍼",
+      "address": "부산광역시 해운대구 반여동 1586-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "농심가태양슈퍼",
+      "address": "부산광역시 해운대구 반여동 1608-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "백광전기",
+      "address": "부산광역시 해운대구 반여동 1607-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "보람아파트관리소",
+      "address": "부산광역시 해운대구 반여동 1585-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "초량슈퍼",
+      "address": "부산광역시 해운대구 반여동 1584-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "국일상회",
+      "address": "부산광역시 해운대구 반여동 1604-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "아톰문방구",
+      "address": "부산광역시 해운대구 반여동 1582-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "글로리스토아(2통)",
+      "address": "부산광역시 해운대구 반여동 1611-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "후레쉬마트",
+      "address": "부산광역시 해운대구 우동 994-1",
+      "roadAddress": "부산광역시 해운대구 해운대해변로 115  (우동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-01"
+    },
+    {
+      "name": "해천 슈퍼",
+      "address": "부산광역시 해운대구 반송동 250-2291",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "진영상회",
+      "address": "부산광역시 해운대구 반송동 250-2325",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "영진상회",
+      "address": "부산광역시 해운대구 반송동 250-2082",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "대구상회",
+      "address": "부산광역시 해운대구 반송동 250-2033",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "샛별 비디오",
+      "address": "부산광역시 해운대구 반송동 250-2086",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "유리상회",
+      "address": "부산광역시 해운대구 반송동 250-793",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "럭키부광슈퍼",
+      "address": "부산광역시 해운대구 반송동 250-1881",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "협동연탄",
+      "address": "부산광역시 해운대구 반송동 250-1952",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "성화가스",
+      "address": "부산광역시 해운대구 반송동 250-1199",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "영주슈퍼",
+      "address": "부산광역시 해운대구 반송동 250-1306",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "한보 슈퍼",
+      "address": "부산광역시 해운대구 반송동 250-1384",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "부산광역시 해운대구 반송동 250-901",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "남일상회",
+      "address": "부산광역시 해운대구 반송동 250-918",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "해바라기슈퍼",
+      "address": "부산광역시 해운대구 반송동 250-995",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "강산상회",
+      "address": "부산광역시 해운대구 반송동 250-992",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "성심상회",
+      "address": "부산광역시 해운대구 반송동 250-1044",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "우리상회",
+      "address": "부산광역시 해운대구 반송동 744-132",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "신광상회",
+      "address": "부산광역시 해운대구 반송동 744-246",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "반송식육점",
+      "address": "부산광역시 해운대구 반송동 744-338",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "자유상회",
+      "address": "부산광역시 해운대구 반송동 250-564",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "오복철물점",
+      "address": "부산광역시 해운대구 반송동 877",
+      "roadAddress": "부산광역시 해운대구 신반송로 178  (반송동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "설봉편의점",
+      "address": "부산광역시 해운대구 반송동 640-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "일성슈퍼",
+      "address": "부산광역시 해운대구 반송동 281-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "성진상회",
+      "address": "부산광역시 해운대구 반송동 646-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "부산광역시 해운대구 반송동 407-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "경북상회",
+      "address": "부산광역시 해운대구 반송동 376-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "거창쌀상회",
+      "address": "부산광역시 해운대구 반송동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "영광세탁소",
+      "address": "부산광역시 해운대구 반송동 389-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "미화당슈퍼",
+      "address": "부산광역시 해운대구 반송동 401-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "영지슈퍼",
+      "address": "부산광역시 해운대구 반송동 301-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "정은부동산",
+      "address": "부산광역시 해운대구 반송동 250-1755",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "대명상회",
+      "address": "부산광역시 해운대구 반송동 250-1459",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "돼지만물수퍼",
+      "address": "부산광역시 해운대구 반송동 250-797",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "청도상회",
+      "address": "부산광역시 해운대구 반송동 250-724",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "반송엘마트",
+      "address": "부산광역시 해운대구 반송동 250-828",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "농심가미드리수퍼",
+      "address": "부산광역시 해운대구 반송동 250-229",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "대진상회",
+      "address": "부산광역시 해운대구 반송동 756-138",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "운봉수퍼",
+      "address": "부산광역시 해운대구 반송동 275-175",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "부산광역시 해운대구 반송동 250-267",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "반송수퍼",
+      "address": "부산광역시 해운대구 반송동 257-304",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "새마을쌀상회",
+      "address": "부산광역시 해운대구 재송동 97-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "삼흥상회",
+      "address": "부산광역시 해운대구 재송동 97-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "한국까르푸(주)해운대사무소",
+      "address": "부산광역시 해운대구 우동 1406-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유창상회",
+      "address": "부산광역시 해운대구 재송동 661-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "삼양상회",
+      "address": "부산광역시 해운대구 재송동 370-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "평화상회",
+      "address": "부산광역시 해운대구 재송동 571-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "신광슈퍼",
+      "address": "부산광역시 해운대구 재송동 455-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "영덕상회",
+      "address": "부산광역시 해운대구 재송동 444-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "밀양슈퍼",
+      "address": "부산광역시 해운대구 재송동 1117-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "함양쌀상회",
+      "address": "부산광역시 해운대구 재송동 1117-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "이화슈퍼",
+      "address": "부산광역시 해운대구 재송동 1112-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "남강상회(식잡)",
+      "address": "부산광역시 해운대구 재송동 1302-193",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "궁멍가게(담배)",
+      "address": "부산광역시 해운대구 반여동 1322-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1955-05-01"
+    },
+    {
+      "name": "알렉산드스토아(연쇄점)",
+      "address": "부산광역시 해운대구 반여동 1355-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "미화당반여슈퍼",
+      "address": "부산광역시 해운대구 반여동 1364-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "빅세일",
+      "address": "부산광역시 해운대구 반송동 1405-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1955-05-01"
+    },
+    {
+      "name": "외진상회(일잡)",
+      "address": "부산광역시 해운대구 반송동 1443-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "홍아자전차점(수리)",
+      "address": "부산광역시 해운대구 반송동 1215-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "농심가현대슈퍼",
+      "address": "부산광역시 해운대구 반여동 1088",
+      "roadAddress": "부산광역시 해운대구 삼어로 131  (반여동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "(주)해운스토아(슈퍼)",
+      "address": "부산광역시 해운대구 반여동 886-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "창녕미니슈퍼",
+      "address": "부산광역시 해운대구 반여동 971-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "부일슈퍼",
+      "address": "부산광역시 해운대구 반여동 745",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "중앙상회(일잡)",
+      "address": "부산광역시 해운대구 반여동 219-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "만물상회(철물)",
+      "address": "부산광역시 해운대구 반여동 229-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "풍산새마을금고구판장",
+      "address": "부산광역시 해운대구 반여동 52",
+      "roadAddress": "부산광역시 해운대구 선수촌로 230  (반여동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "대산상회(일잡)",
+      "address": "부산광역시 해운대구 반여동 753-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "경북상회(미곡)",
+      "address": "부산광역시 해운대구 반여동 795-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "영양상회(제분)",
+      "address": "부산광역시 해운대구 반여동 1010-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "한마은상회(담배)",
+      "address": "부산광역시 해운대구 반여동 735-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "신촌상회(연쇄점)",
+      "address": "부산광역시 해운대구 반여동 1023-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "동양슈퍼",
+      "address": "부산광역시 해운대구 반여동 11291-1181",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "정원슈퍼",
+      "address": "부산광역시 해운대구 반여동 1291-1126",
+      "roadAddress": "부산광역시 해운대구 해운대로61번길 90  (반여동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "반산프라자",
+      "address": "부산광역시 해운대구 반여동 1291-135",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "반여장식",
+      "address": "부산광역시 해운대구 반여동 1291-801",
+      "roadAddress": "부산광역시 해운대구 재반로 202  (반여동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "럭키경북점",
+      "address": "부산광역시 해운대구 반여동 1291-747",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "하나슈퍼",
+      "address": "부산광역시 해운대구 반여동 1291-741",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "합천상회",
+      "address": "부산광역시 해운대구 반여동 1291-708",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "부산할인마트",
+      "address": "부산광역시 해운대구 반여동 1291-600",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "진양쌀상회",
+      "address": "부산광역시 해운대구 반여동 1291-599",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "대림슈퍼",
+      "address": "부산광역시 해운대구 반여동 1291-564",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "해바라기",
+      "address": "부산광역시 해운대구 반여동 1291-507",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "대오럭키슈퍼",
+      "address": "부산광역시 해운대구 반여동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "부산광역시 해운대구 반여동 1291-434",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "진영슈퍼",
+      "address": "부산광역시 해운대구 반여동 1291-367",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "장산슈퍼",
+      "address": "부산광역시 해운대구 반여동 1291-295",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "진주슈퍼",
+      "address": "부산광역시 해운대구 반여동 1291-173",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "대신상회",
+      "address": "부산광역시 해운대구 반여동 1291-449",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "무지개상회",
+      "address": "부산광역시 해운대구 반여동 1293-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "경북그릇",
+      "address": "부산광역시 해운대구 반여동 1291-918",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "반여문구사",
+      "address": "부산광역시 해운대구 반여동 1291-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "에덴슈퍼",
+      "address": "부산광역시 해운대구 반여동 1291-1414",
+      "roadAddress": "부산광역시 해운대구 재반로212번길 45  (반여동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "현대스토아",
+      "address": "부산광역시 해운대구 반여동 1291-1446",
+      "roadAddress": "부산광역시 해운대구 재반로226번길 72  (반여동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "협성슈퍼",
+      "address": "부산광역시 해운대구 반여동 1291-1212",
+      "roadAddress": "부산광역시 해운대구 해운대로61번길 72  (반여동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "새마을금고",
+      "address": "부산광역시 해운대구 반여동 1291-531",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "새슈퍼마켓",
+      "address": "부산광역시 해운대구 반여동 1291-533",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "영남석유",
+      "address": "부산광역시 해운대구 반여동 1291-372",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "경동슈퍼",
+      "address": "부산광역시 해운대구 반여동 1291-981",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "부산광역시 해운대구 반여동 1291-1460",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "탑마트",
+      "address": "부산광역시 해운대구 반여동 1291-562",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "부산광역시 해운대구 반여동 1612-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "밀양상회",
+      "address": "부산광역시 해운대구 반여동 1610-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "부산광역시 해운대구 반여동 1607-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "반여스토아",
+      "address": "부산광역시 해운대구 반여동 1595-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "만호쌀상회",
+      "address": "부산광역시 해운대구 반여동 1591-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "대우아파트관리소",
+      "address": "부산광역시 해운대구 반여동 1581-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "풍년쌀상회",
+      "address": "부산광역시 해운대구 반여동 1590-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "보훈아파트관리소",
+      "address": "부산광역시 해운대구 반여동 1594-71",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "장산공작소",
+      "address": "부산광역시 해운대구 반여동 1613-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "함안상회",
+      "address": "부산광역시 해운대구 반여동 1605-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "대성상회",
+      "address": "부산광역시 해운대구 반송동 250-521",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "반송슈퍼",
+      "address": "부산광역시 해운대구 반송동 250-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "부산쌀상회",
+      "address": "부산광역시 해운대구 반송동 250-118",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "혜림비디오",
+      "address": "부산광역시 해운대구 반송동 744-74",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "진진슈퍼",
+      "address": "부산광역시 해운대구 반송동 709-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "동양창호",
+      "address": "부산광역시 해운대구 반송동 275-353",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "한일장식",
+      "address": "부산광역시 해운대구 반송동 275-405",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "바른손문구",
+      "address": "부산광역시 해운대구 반송동 275-172",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "부산슈퍼",
+      "address": "부산광역시 해운대구 반송동 250-2436",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "시장슈퍼",
+      "address": "부산광역시 해운대구 반송동 709-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "경주상회",
+      "address": "부산광역시 해운대구 반송동 311-297",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "동우슈퍼",
+      "address": "부산광역시 해운대구 반송동 311-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "밀양쌀상회",
+      "address": "부산광역시 해운대구 반송동 327-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "담배 판매소",
+      "address": "부산광역시 해운대구 반송동 327-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "부산광역시 해운대구 반송동 22-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "덕일상회",
+      "address": "부산광역시 해운대구 반송동 216-74",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "덕일상회",
+      "address": "부산광역시 해운대구 반송동 216-74",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "양덕슈퍼",
+      "address": "부산광역시 해운대구 반송동 214-60",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "하나 슈퍼",
+      "address": "부산광역시 해운대구 반송동 241-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "부산광역시 해운대구 반송동 40-808",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "제일수퍼",
+      "address": "부산광역시 해운대구 반송동 250-2188",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "미진스토아",
+      "address": "부산광역시 해운대구 반송동 250-1433",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "대구상회",
+      "address": "부산광역시 해운대구 반송동 250-1488",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "성심상회",
+      "address": "부산광역시 해운대구 반송동 250-2484",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "대성수퍼",
+      "address": "부산광역시 해운대구 반송동 250-852",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "삼양유통",
+      "address": "부산광역시 해운대구 반송동 250-371",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "미도파수퍼",
+      "address": "부산광역시 해운대구 반송동 250-411",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "제일수퍼",
+      "address": "부산광역시 해운대구 반송동 250-2602",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "모아쇼핑",
+      "address": "부산광역시 해운대구 반송동 257-421",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "오복수퍼",
+      "address": "부산광역시 해운대구 반송동 257-220",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "부산광역시 해운대구 재송동 1114-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-01"
+    },
+    {
+      "name": "김일영사무소",
+      "address": "부산광역시 해운대구 재송동 1094-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "등대슈퍼",
+      "address": "부산광역시 해운대구 재송동 1097-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-01"
+    },
+    {
+      "name": "대진슈퍼",
+      "address": "부산광역시 해운대구 재송동 1090-51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "동진슈퍼",
+      "address": "부산광역시 해운대구 재송동 1087-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "효성반점",
+      "address": "부산광역시 해운대구 재송동 1087-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "낙원식물원",
+      "address": "부산광역시 해운대구 재송동 1079-1",
+      "roadAddress": "부산광역시 해운대구 재송1로 40  (재송동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "서해아파트관리실",
+      "address": "부산광역시 해운대구 재송동 1080-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "영아슈퍼",
+      "address": "부산광역시 해운대구 재송동 1074-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "한양식육점",
+      "address": "부산광역시 해운대구 재송동 933-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "창신아파트관리사무소",
+      "address": "부산광역시 해운대구 반여동 668-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "돼지슈퍼(일잡)",
+      "address": "부산광역시 해운대구 반여동 994-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "대원슈퍼",
+      "address": "부산광역시 해운대구 반여동 903-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "반여근대화슈퍼",
+      "address": "부산광역시 해운대구 반여동 139-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "신동슈퍼",
+      "address": "부산광역시 해운대구 반여동 692-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "대우슈퍼(일잡)",
+      "address": "부산광역시 해운대구 반여동 1405-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "새마을금고",
+      "address": "부산광역시 해운대구 반여동 1206-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "맛나슈퍼(연쇄점)",
+      "address": "부산광역시 해운대구 반여동 946-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "미화당슈퍼(연쇄점)`",
+      "address": "부산광역시 해운대구 반여동 1117-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "새마을상회(미곡)",
+      "address": "부산광역시 해운대구 반여동 931-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "글로리스토아(8통)",
+      "address": "부산광역시 해운대구 반여동 1593-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-29"
+    },
+    {
+      "name": "영화아파트",
+      "address": "부산광역시 해운대구 반송동 683-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "구미상회",
+      "address": "부산광역시 해운대구 반송동 250-1819",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "미화당세일슈퍼",
+      "address": "부산광역시 해운대구 반송동 250-1838",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "거창상회",
+      "address": "부산광역시 해운대구 반송동 250-1996",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "경북상회",
+      "address": "부산광역시 해운대구 반송동 250-1331",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "부산광역시 해운대구 반송동 250-392",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "경남상회",
+      "address": "부산광역시 해운대구 반송동 250-969",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "농협직매점",
+      "address": "부산광역시 해운대구 반송동 250-994",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "정은상회",
+      "address": "부산광역시 해운대구 반송동 250-1114",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "미나상회",
+      "address": "부산광역시 해운대구 반송동 250-1045",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "영천상회",
+      "address": "부산광역시 해운대구 반송동 40-808",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "새마을금고",
+      "address": "부산광역시 해운대구 반송동 40-517",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "농심가",
+      "address": "부산광역시 해운대구 반송동 40-808",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "운봉상회",
+      "address": "부산광역시 해운대구 반송동 40-986",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "농심가체인",
+      "address": "부산광역시 해운대구 반송동 40-796",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "밀양상회",
+      "address": "부산광역시 해운대구 반송동 40-769",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "밀코마트",
+      "address": "부산광역시 해운대구 반송동 62-498",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "남산식육점",
+      "address": "부산광역시 해운대구 반송동 62-416",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "하나슈퍼",
+      "address": "부산광역시 해운대구 반송동 40-749",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "영창상회",
+      "address": "부산광역시 해운대구 반송동 40-714",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "삼보수퍼",
+      "address": "부산광역시 해운대구 반송동 259-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "통일수퍼",
+      "address": "부산광역시 해운대구 반송동 261-98",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "경희네금방",
+      "address": "부산광역시 해운대구 반송동 257-391",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "기린수퍼",
+      "address": "부산광역시 해운대구 반송동 275-636",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "고향수퍼",
+      "address": "부산광역시 해운대구 반송동 257-185",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "충무상회",
+      "address": "부산광역시 해운대구 반송동 266-47",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "쌍용쌀상회",
+      "address": "부산광역시 해운대구 반송동 250-1511",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "성민약국",
+      "address": "부산광역시 해운대구 반송동 250-212",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "거창수퍼",
+      "address": "부산광역시 해운대구 반송동 261-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "원마트",
+      "address": "부산광역시 해운대구 반송동 250-409",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "금강슈퍼",
+      "address": "부산광역시 해운대구 재송동 1118-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "부산광역시 해운대구 재송동 1118-46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "엔젤녹즙기대리점",
+      "address": "부산광역시 해운대구 재송동 1125-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "큰별비디오",
+      "address": "부산광역시 해운대구 재송동 1125-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "팬시문구",
+      "address": "부산광역시 해운대구 재송동 1119-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "거창상회",
+      "address": "부산광역시 해운대구 재송동 151-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "도리슈퍼",
+      "address": "부산광역시 해운대구 재송동 119",
+      "roadAddress": "부산광역시 해운대구 재반로50번길 31  (재송동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "영광그린파크관리소",
+      "address": "부산광역시 해운대구 재송동 1128-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "금성슈퍼",
+      "address": "부산광역시 해운대구 재송동 1127-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "한영비치타운관리소",
+      "address": "부산광역시 해운대구 재송동 1121-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "부산광역시 해운대구 반여동 1403-58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-20"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "부산광역시 해운대구 반여동 5277198",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-08"
+    },
+    {
+      "name": "장산슈퍼",
+      "address": "부산광역시 해운대구 반여동 996-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-08"
+    },
+    {
+      "name": "롯데슈퍼",
+      "address": "부산광역시 해운대구 반여동 1291-941",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-25"
+    },
+    {
+      "name": "동남유통",
+      "address": "전라남도 광양시 광영동 789-3",
+      "roadAddress": "부산광역시 해운대구 해운대로469번가길 43, A동  201호(우동,청광하이츠빌라)",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-11"
+    },
+    {
+      "name": "심지구판장",
+      "address": "경상남도 의령군 대의면 심지리 384",
+      "roadAddress": "부산광역시 해운대구 재반로165번길 82, 18동  305호(재송동,시영아파트)",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    }
+  ]
+}

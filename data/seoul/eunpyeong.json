@@ -1,0 +1,507 @@
+{
+  "region": "서울특별시",
+  "regionSlug": "seoul",
+  "district": "은평구",
+  "districtSlug": "eunpyeong",
+  "updatedAt": "2026-03-26",
+  "totalCount": 71,
+  "stores": [
+    {
+      "name": "문석상회",
+      "address": "서울특별시 은평구 진관동 299-61",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은성슈퍼",
+      "address": "서울특별시 은평구 응암동 254-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대일슈퍼",
+      "address": "서울특별시 은평구 응암동 283-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연화슈퍼",
+      "address": "서울특별시 은평구 응암동 297-82",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥슈퍼",
+      "address": "서울특별시 은평구 응암동 296-46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대우상회",
+      "address": "서울특별시 은평구 응암동 603-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "서울특별시 은평구 응암동 263-103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진영상회",
+      "address": "서울특별시 은평구 응암동 299-73",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은평식품",
+      "address": "서울특별시 은평구 응암동 291-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물할인마트",
+      "address": "서울특별시 은평구 응암동 297-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한중건강원",
+      "address": "서울특별시 은평구 응암동 609-89",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한솔마트",
+      "address": "서울특별시 은평구 신사동 237-312",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "드림마트",
+      "address": "서울특별시 은평구 신사동 237-338",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새하얀슈퍼",
+      "address": "서울특별시 은평구 신사동 200-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅마트",
+      "address": "서울특별시 은평구 신사동 344-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금강산마트",
+      "address": "서울특별시 은평구 신사동 41-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오케이마트",
+      "address": "서울특별시 은평구 신사동 151-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무지개마트",
+      "address": "서울특별시 은평구 신사동 40-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부흥마트",
+      "address": "서울특별시 은평구 신사동 222-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경마트",
+      "address": "서울특별시 은평구 신사동 341-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고운손마트",
+      "address": "서울특별시 은평구 신사동 338-60",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "푸른하늘구판장",
+      "address": "서울특별시 은평구 신사동 228-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진만상회",
+      "address": "서울특별시 은평구 신사동 160",
+      "roadAddress": "서울특별시 은평구 은평터널로 125  (신사동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린하이퍼",
+      "address": "서울특별시 은평구 신사동 182-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구례슈퍼",
+      "address": "서울특별시 은평구 신사동 237-381",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진고개마트",
+      "address": "서울특별시 은평구 신사동 348-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "서울특별시 은평구 신사동 191-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "약수상회",
+      "address": "서울특별시 은평구 신사동 300-119",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세종문구",
+      "address": "서울특별시 은평구 신사동 335-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보람미니슈퍼",
+      "address": "서울특별시 은평구 신사동 237-111",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "서울특별시 은평구 신사동 200-341",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엄마손마트",
+      "address": "서울특별시 은평구 증산동 210-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에덴슈퍼",
+      "address": "서울특별시 은평구 증산동 161-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대우슈퍼",
+      "address": "서울특별시 은평구 증산동 203-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉미식품",
+      "address": "서울특별시 은평구 증산동 207-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대사",
+      "address": "서울특별시 은평구 증산동 158-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "서울특별시 은평구 증산동 182-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "데일리마트",
+      "address": "서울특별시 은평구 증산동 184-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키하이퍼마켓",
+      "address": "서울특별시 은평구 증산동 162-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘마트",
+      "address": "서울특별시 은평구 증산동 208-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "골목시장",
+      "address": "서울특별시 은평구 증산동 1-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "싱싱마트",
+      "address": "서울특별시 은평구 증산동 189-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "서울특별시 은평구 증산동 184-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "서울특별시 은평구 증산동 218-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진주슈퍼",
+      "address": "서울특별시 은평구 증산동 219-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동서남북농산물",
+      "address": "서울특별시 은평구 증산동 205-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엄마손마트",
+      "address": "서울특별시 은평구 증산동 210-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "윤창슈퍼",
+      "address": "서울특별시 은평구 수색동 150-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은성슈퍼",
+      "address": "서울특별시 은평구 수색동 326-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대희슈퍼",
+      "address": "서울특별시 은평구 녹번동 153-47",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부자슈퍼",
+      "address": "서울특별시 은평구 녹번동 101-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "자연맛쌀직판장",
+      "address": "서울특별시 은평구 갈현동 423-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보선슈퍼",
+      "address": "서울특별시 은평구 갈현동 435-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백연세탁",
+      "address": "서울특별시 은평구 갈현동 409-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대농하이퍼마켓",
+      "address": "서울특별시 은평구 갈현동 433-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에스마트갈현삼성점",
+      "address": "서울특별시 은평구 갈현동 425-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "AM.PM갈현점",
+      "address": "서울특별시 은평구 갈현동 411-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "로뎀슈퍼",
+      "address": "서울특별시 은평구 갈현동 12-106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)갈현구판장",
+      "address": "서울특별시 은평구 갈현동 393-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원희식품",
+      "address": "서울특별시 은평구 갈현동 285-97",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙상회",
+      "address": "서울특별시 은평구 갈현동 281-138",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "서울특별시 은평구 갈현동 12-335",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대원상회",
+      "address": "서울특별시 은평구 갈현동 276-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명랑쌀상회",
+      "address": "서울특별시 은평구 갈현동 15-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대흥상회",
+      "address": "서울특별시 은평구 갈현동 12-439",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한다사유통",
+      "address": "서울특별시 은평구 갈현동 433-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "샛별문방구",
+      "address": "서울특별시 은평구 갈현동 409-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성상회",
+      "address": "서울특별시 은평구 증산동 205-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오복슈퍼",
+      "address": "서울특별시 은평구 증산동 194-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데쇼핑(주)롯데마트 은평점",
+      "address": "서울특별시 은평구 진관동 79-15",
+      "roadAddress": "서울특별시 은평구 통일로 1050 (진관동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-11-22"
+    },
+    {
+      "name": "신바람마트",
+      "address": "서울특별시 은평구 진관동 5 은평뉴타운상림마을",
+      "roadAddress": "서울특별시 은평구 진관4로 87, 629동 상가106,107호 (진관동, 은평뉴타운상림마을)",
+      "status": "영업/정상",
+      "licenseDate": "2023-09-13"
+    }
+  ]
+}

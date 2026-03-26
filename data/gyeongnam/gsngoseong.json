@@ -1,0 +1,59 @@
+{
+  "region": "경상남도",
+  "regionSlug": "gyeongnam",
+  "district": "고성군",
+  "districtSlug": "gsngoseong",
+  "updatedAt": "2026-03-26",
+  "totalCount": 7,
+  "stores": [
+    {
+      "name": "하나로마트",
+      "address": "경상남도 고성군 하이면 봉원리 349-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대하마트",
+      "address": "경상남도 고성군 하일면 학림리 335-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "라인마트",
+      "address": "경상남도 고성군 거류면 당동리 219-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원앙상회",
+      "address": "경상남도 고성군 거류면 당동리 173-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "휴게소스토아",
+      "address": "경상남도 고성군 영오면 오서리 1611-201",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트고성금강점",
+      "address": "경상남도 고성군 고성읍 서외리 216-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-23"
+    },
+    {
+      "name": "훼미리마트고성배둔점",
+      "address": "경상남도 고성군 회화면 배둔리 829-30",
+      "roadAddress": "경상남도 고성군 회화면 배둔로 23-3",
+      "status": "영업/정상",
+      "licenseDate": "2008-09-30"
+    }
+  ]
+}

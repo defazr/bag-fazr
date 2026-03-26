@@ -1,0 +1,38 @@
+{
+  "region": "경기도",
+  "regionSlug": "gyeonggi",
+  "district": "양주시",
+  "districtSlug": "yangju",
+  "updatedAt": "2026-03-26",
+  "totalCount": 4,
+  "stores": [
+    {
+      "name": "이마트양주점",
+      "address": "경기도 양주시 회정동 98",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이마트 양주점",
+      "address": "경기도 양주시 회정동 98 이마트",
+      "roadAddress": "경기도 양주시 평화로 1713, 이마트 (회정동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-03"
+    },
+    {
+      "name": "롯데마트",
+      "address": "경기도 양주시 회정동 351-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지평휴게실상회",
+      "address": "경기도 양주시 율정동 121-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-21"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "region": "충청남도",
+  "regionSlug": "chungnam",
+  "district": "공주시",
+  "districtSlug": "gongju",
+  "updatedAt": "2026-03-26",
+  "totalCount": 23,
+  "stores": [
+    {
+      "name": "금강마트",
+      "address": "충청남도 공주시 금학동 270-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-23"
+    },
+    {
+      "name": "K 마트",
+      "address": "충청남도 공주시 옥룡동 311-4",
+      "roadAddress": "충청남도 공주시 중골2길 8  (옥룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-24"
+    },
+    {
+      "name": "공단슈퍼",
+      "address": "충청남도 공주시 검상동 702-5",
+      "roadAddress": "충청남도 공주시 공단길 6  (검상동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-24"
+    },
+    {
+      "name": "온양상회",
+      "address": "충청남도 공주시 유구읍 석남리 242-1",
+      "roadAddress": "충청남도 공주시 유구읍 시장길 56-1",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-24"
+    },
+    {
+      "name": "그릇백화점",
+      "address": "충청남도 공주시 산성동 174-21",
+      "roadAddress": "충청남도 공주시 산성시장5길 37 (산성동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-24"
+    },
+    {
+      "name": "우리마트",
+      "address": "충청남도 공주시 유구읍 석남리 244-3",
+      "roadAddress": "충청남도 공주시 유구읍 중앙1길 120",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-24"
+    },
+    {
+      "name": "미니스톱 공주점",
+      "address": "충청남도 공주시 신관동 604-10",
+      "roadAddress": "충청남도 공주시 신관로 55  (신관동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-24"
+    },
+    {
+      "name": "미니스톱 공주신관점",
+      "address": "충청남도 공주시 신관동 596-6",
+      "roadAddress": "충청남도 공주시 번영1로 17  (신관동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-24"
+    },
+    {
+      "name": "성심가축병원",
+      "address": "충청남도 공주시 금성동 21-3",
+      "roadAddress": "충청남도 공주시 금성길 20  (금성동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성심가축병원",
+      "address": "충청남도 공주시 금성동 21-3",
+      "roadAddress": "충청남도 공주시 금성길 20  (금성동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신월종합문구",
+      "address": "충청남도 공주시 신관동 22-50",
+      "roadAddress": "충청남도 공주시 번영1로 194  (신관동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이인농협하나로마트",
+      "address": "충청남도 공주시 이인면 이인리 157-6",
+      "roadAddress": "충청남도 공주시 이인면 검바위로 215",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태형상회",
+      "address": "충청남도 공주시 반죽동 314-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월드마트",
+      "address": "충청남도 공주시 신관동 594-4",
+      "roadAddress": "충청남도 공주시 전막2길 16-6  (신관동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이 공주점",
+      "address": "충청남도 공주시 산성동 120-1",
+      "roadAddress": "충청남도 공주시 웅진로 186  (산성동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원광24마트",
+      "address": "충청남도 공주시 신관동 597-11",
+      "roadAddress": "충청남도 공주시 번영1로 5  (신관동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시골농장슈퍼",
+      "address": "충청남도 공주시 신관동 302-1",
+      "roadAddress": "충청남도 공주시 신금1길 3  (신관동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘지유통",
+      "address": "충청남도 공주시 옥룡동 338-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "예원슈퍼",
+      "address": "충청남도 공주시 신관동 287-19 주공상가 106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "후레쉬마트",
+      "address": "충청남도 공주시 신관동 638-3",
+      "roadAddress": "충청남도 공주시 번영1로 64-1  (신관동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "충청남도 공주시 금성동 89-30",
+      "roadAddress": "충청남도 공주시 정자방1길 23-4  (금성동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "공주대학교",
+      "address": "충청남도 공주시 신관동 182",
+      "roadAddress": "충청남도 공주시 공주대학로 56 (신관동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성도슈퍼",
+      "address": "충청남도 공주시 옥룡동 326",
+      "roadAddress": "충청남도 공주시 우금티로 753  (옥룡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    }
+  ]
+}

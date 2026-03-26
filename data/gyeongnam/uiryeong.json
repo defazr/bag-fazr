@@ -1,0 +1,1382 @@
+{
+  "region": "경상남도",
+  "regionSlug": "gyeongnam",
+  "district": "의령군",
+  "districtSlug": "uiryeong",
+  "updatedAt": "2026-03-26",
+  "totalCount": 196,
+  "stores": [
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 부림면 감암리 981",
+      "roadAddress": "경상남도 의령군 부림면 미타로 24-6",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "영남전기",
+      "address": "경상남도 의령군 의령읍 서동리 467-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "대신상회",
+      "address": "경상남도 의령군 의령읍 서동리 329-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "동남슈퍼",
+      "address": "경상남도 의령군 의령읍 서동리 478-14",
+      "roadAddress": "경상남도 의령군 의령읍 의병로 201",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "P.C백화점",
+      "address": "경상남도 의령군 의령읍 서동리 485-10",
+      "roadAddress": "경상남도 의령군 의령읍 의병로15길 15-6",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "선진상회",
+      "address": "경상남도 의령군 의령읍 중동리 265-2 선진상회",
+      "roadAddress": "경상남도 의령군 의령읍 의병로19길 18, 선진상회 1층",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다정상회",
+      "address": "경상남도 의령군 의령읍 중동리 343-3",
+      "roadAddress": "경상남도 의령군 의령읍 충익로 49-5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "의령축산업협동조합",
+      "address": "경상남도 의령군 의령읍 중동리 414-4",
+      "roadAddress": "경상남도 의령군 의령읍 의병로20길 32",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "태평슈퍼",
+      "address": "경상남도 의령군 의령읍 중동리 393-7",
+      "roadAddress": "경상남도 의령군 의령읍 의병로 238-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "수성슈퍼",
+      "address": "경상남도 의령군 의령읍 중동리 259-1",
+      "roadAddress": "경상남도 의령군 의령읍 의병로19길 23-4",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "상동부녀회슈퍼",
+      "address": "경상남도 의령군 의령읍 중동리 상동회관",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "동광상회",
+      "address": "경상남도 의령군 의령읍 동동리 1427",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "동창상회",
+      "address": "경상남도 의령군 의령읍 동동리 1030",
+      "roadAddress": "경상남도 의령군 의령읍 백산로1길 3-2",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "가야슈퍼",
+      "address": "경상남도 의령군 의령읍 동동리 1399-4",
+      "roadAddress": "경상남도 의령군 의령읍 충익로 77",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "영슈퍼",
+      "address": "경상남도 의령군 의령읍 동동리 1063",
+      "roadAddress": "경상남도 의령군 의령읍 충익로 85-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "동일상회",
+      "address": "경상남도 의령군 의령읍 동동리 1142-2",
+      "roadAddress": "경상남도 의령군 의령읍 백산로 63-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "동진상회",
+      "address": "경상남도 의령군 의령읍 동동리 1050-2",
+      "roadAddress": "경상남도 의령군 의령읍 백산로3길 7",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "남산상회",
+      "address": "경상남도 의령군 의령읍 동동리 937-56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "남산슈퍼",
+      "address": "경상남도 의령군 의령읍 동동리 1488-3",
+      "roadAddress": "경상남도 의령군 의령읍 의병로24길 23",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "정암회관",
+      "address": "경상남도 의령군 의령읍 정암리 275-5",
+      "roadAddress": "경상남도 의령군 의령읍 남강로8길 19-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "오복상회",
+      "address": "경상남도 의령군 의령읍 정암리 220-21",
+      "roadAddress": "경상남도 의령군 의령읍 남강로7길 41-8",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "가례상회",
+      "address": "경상남도 의령군 가례면 가례리 307-2",
+      "roadAddress": "경상남도 의령군 가례면 새가례로 5-6",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "우리상회",
+      "address": "경상남도 의령군 가례면 가례리 308-19",
+      "roadAddress": "경상남도 의령군 가례면 의병로 45",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "재수상회",
+      "address": "경상남도 의령군 부림면 신반리 441 (서동1구)",
+      "roadAddress": "경상남도 의령군 부림면 한지21길 1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "전진상회",
+      "address": "경상남도 의령군 부림면 신반리 291-3",
+      "roadAddress": "경상남도 의령군 부림면 한지30길 27",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "동신슈퍼",
+      "address": "경상남도 의령군 부림면 신반리 174 (중동)",
+      "roadAddress": "경상남도 의령군 부림면 한지33길 3",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "대원슈퍼",
+      "address": "경상남도 의령군 부림면 신반리 167 (중동)",
+      "roadAddress": "경상남도 의령군 부림면 신번로 136-6",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상남도 의령군 부림면 신반리 545-12",
+      "roadAddress": "경상남도 의령군 부림면 신번로 148",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "현동상회",
+      "address": "경상남도 의령군 부림면 신반리 561 (현동)",
+      "roadAddress": "경상남도 의령군 부림면 대한로 1780, 1001호(상진들국화맨션)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "들국화 슈퍼",
+      "address": "경상남도 의령군 부림면 신반리 382",
+      "roadAddress": "경상남도 의령군 부림면 대한로 1774",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "경전슈퍼",
+      "address": "경상남도 의령군 부림면 신반리 439-3",
+      "roadAddress": "경상남도 의령군 부림면 신번로 132",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "대신상회",
+      "address": "경상남도 의령군 부림면 신반리 565-6",
+      "roadAddress": "경상남도 의령군 부림면 신번로 180-2",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-27"
+    },
+    {
+      "name": "자굴산슈퍼",
+      "address": "경상남도 의령군 의령읍 서동리 254-4",
+      "roadAddress": "경상남도 의령군 의령읍 의병로16길 12",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-03"
+    },
+    {
+      "name": "일육상회",
+      "address": "경상남도 의령군 의령읍 서동리 439-2 (일육온천옆)",
+      "roadAddress": "경상남도 의령군 의령읍 의병로24길 16",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-03"
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "경상남도 의령군 의령읍 서동리 491-19",
+      "roadAddress": "경상남도 의령군 의령읍 의병로18길 7",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-03"
+    },
+    {
+      "name": "보건상회",
+      "address": "경상남도 의령군 의령읍 중동리 311-1",
+      "roadAddress": "경상남도 의령군 의령읍 의병로19길 14-1",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-03"
+    },
+    {
+      "name": "우리전기",
+      "address": "경상남도 의령군 의령읍 중동리 386",
+      "roadAddress": "경상남도 의령군 의령읍 의병로14길 23, 605호(서광아파트)",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-03"
+    },
+    {
+      "name": "가야상회",
+      "address": "경상남도 의령군 의령읍 동동리 1461-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-03"
+    },
+    {
+      "name": "동원상회",
+      "address": "경상남도 의령군 의령읍 동동리 1451",
+      "roadAddress": "경상남도 의령군 의령읍 백산로1길 21-3",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-03"
+    },
+    {
+      "name": "소입슈퍼",
+      "address": "경상남도 의령군 의령읍 동동리 1073-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-03"
+    },
+    {
+      "name": "소입상회",
+      "address": "경상남도 의령군 의령읍 동동리 1126-3",
+      "roadAddress": "경상남도 의령군 의령읍 충익로 109",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-03"
+    },
+    {
+      "name": "남산새상회",
+      "address": "경상남도 의령군 의령읍 동동리 870",
+      "roadAddress": "경상남도 의령군 의령읍 의병로24동길 10-1",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-03"
+    },
+    {
+      "name": "파란집",
+      "address": "경상남도 의령군 가례면 가례리 250-21",
+      "roadAddress": "경상남도 의령군 가례면 의병로 57",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-03"
+    },
+    {
+      "name": "우리문구사",
+      "address": "경상남도 의령군 부림면 신반리 162-1 (중동)",
+      "roadAddress": "경상남도 의령군 부림면 대한로 1722",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-03"
+    },
+    {
+      "name": "부평슈퍼",
+      "address": "경상남도 의령군 부림면 신반리 307",
+      "roadAddress": "경상남도 의령군 부림면 한지36길 10-1",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-03"
+    },
+    {
+      "name": "한아름 상회",
+      "address": "경상남도 의령군 부림면 신반리 현동478",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-03"
+    },
+    {
+      "name": "무하구구판장",
+      "address": "경상남도 의령군 의령읍 무전리 768-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-24"
+    },
+    {
+      "name": "무중상회",
+      "address": "경상남도 의령군 의령읍 무전리 581-2",
+      "roadAddress": "경상남도 의령군 의령읍 무전로 29-3",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-24"
+    },
+    {
+      "name": "성남상회",
+      "address": "경상남도 의령군 의령읍 하리 616-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-24"
+    },
+    {
+      "name": "서남슈퍼",
+      "address": "경상남도 의령군 의령읍 하리 441-6",
+      "roadAddress": "경상남도 의령군 의령읍 벽화로 554",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-24"
+    },
+    {
+      "name": "대의상회",
+      "address": "경상남도 의령군 대의면 마쌍리 구성 622",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-14"
+    },
+    {
+      "name": "상정상회",
+      "address": "경상남도 의령군 화정면 상정리 512-1",
+      "roadAddress": "경상남도 의령군 화정면 화정로 291",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-24"
+    },
+    {
+      "name": "나리식당",
+      "address": "경상남도 의령군 용덕면 운곡리 106-6",
+      "roadAddress": "경상남도 의령군 용덕면 용암로 5",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-24"
+    },
+    {
+      "name": "남양유업",
+      "address": "경상남도 의령군 정곡면 중교리 368-3",
+      "roadAddress": "경상남도 의령군 정곡면 법정로 935-1",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-24"
+    },
+    {
+      "name": "담안가게",
+      "address": "경상남도 의령군 정곡면 중교리 718",
+      "roadAddress": "경상남도 의령군 정곡면 호암길 21-0",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-24"
+    },
+    {
+      "name": "낙동상회",
+      "address": "경상남도 의령군 낙서면 전화리 229-1",
+      "roadAddress": "경상남도 의령군 낙서면 낙서로 507-1",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-24"
+    },
+    {
+      "name": "봉수식당상회",
+      "address": "경상남도 의령군 봉수면 죽전리 356-4",
+      "roadAddress": "경상남도 의령군 봉수면 대한로 1214",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-24"
+    },
+    {
+      "name": "우성,서흥 정류소",
+      "address": "경상남도 의령군 봉수면 죽전리 736",
+      "roadAddress": "경상남도 의령군 봉수면 한지14길 157-7",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-24"
+    },
+    {
+      "name": "7번슈퍼",
+      "address": "경상남도 의령군 궁류면 토곡리 491-1",
+      "roadAddress": "경상남도 의령군 궁류면 궁류로 132",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-24"
+    },
+    {
+      "name": "독수리슈퍼",
+      "address": "경상남도 의령군 궁류면 토곡리 495",
+      "roadAddress": "경상남도 의령군 궁류면 궁류로 128",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-24"
+    },
+    {
+      "name": "매일상회",
+      "address": "경상남도 의령군 궁류면 토곡리 158-1",
+      "roadAddress": "경상남도 의령군 궁류면 궁류로2길 23",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-24"
+    },
+    {
+      "name": "의령슈퍼",
+      "address": "경상남도 의령군 궁류면 운계리 938",
+      "roadAddress": "경상남도 의령군 궁류면 궁류로1길 51",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-24"
+    },
+    {
+      "name": "운계슈퍼",
+      "address": "경상남도 의령군 궁류면 운계리 938-13",
+      "roadAddress": "경상남도 의령군 궁류면 궁류로1길 14-6",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-24"
+    },
+    {
+      "name": "유곡음식점",
+      "address": "경상남도 의령군 유곡면 칠곡리 336-7",
+      "roadAddress": "경상남도 의령군 유곡면 마장로 8",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-24"
+    },
+    {
+      "name": "보건당약방",
+      "address": "경상남도 의령군 지정면 봉곡리 116",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-20"
+    },
+    {
+      "name": "신흥농자재",
+      "address": "경상남도 의령군 지정면 마산리 730-7",
+      "roadAddress": "경상남도 의령군 지정면 마산로 100-0",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-20"
+    },
+    {
+      "name": "평촌소매점",
+      "address": "경상남도 의령군 궁류면 평촌리 175-1",
+      "roadAddress": "경상남도 의령군 궁류면 청정로 1202-15",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-20"
+    },
+    {
+      "name": "벽계소매점",
+      "address": "경상남도 의령군 궁류면 벽계리 708",
+      "roadAddress": "경상남도 의령군 궁류면 벽계로2길 14-2",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-20"
+    },
+    {
+      "name": "대의상회",
+      "address": "경상남도 의령군 대의면 마쌍리 구성 622",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이팔상회",
+      "address": "경상남도 의령군 칠곡면 신포리 424",
+      "roadAddress": "경상남도 의령군 칠곡면 칠곡로 56",
+      "status": "영업/정상",
+      "licenseDate": "1996-02-01"
+    },
+    {
+      "name": "만하상회",
+      "address": "경상남도 의령군 의령읍 만천리 363",
+      "roadAddress": "경상남도 의령군 의령읍 남강로6길 36-4",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "압곡상회",
+      "address": "경상남도 의령군 의령읍 대산리 1087",
+      "roadAddress": "경상남도 의령군 의령읍 남강로5길 44",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "대산횟집슈퍼",
+      "address": "경상남도 의령군 의령읍 대산리 493-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "상신상회",
+      "address": "경상남도 의령군 의령읍 상리 572",
+      "roadAddress": "경상남도 의령군 의령읍 벽화로4길 8-8",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "운곡가게",
+      "address": "경상남도 의령군 의령읍 중리 131",
+      "roadAddress": "경상남도 의령군 의령읍 벽화로 415",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "갑을상회",
+      "address": "경상남도 의령군 가례면 갑을리 652",
+      "roadAddress": "경상남도 의령군 가례면 가례로11길 4-4",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "갑을상회",
+      "address": "경상남도 의령군 가례면 양성리 487-2",
+      "roadAddress": "경상남도 의령군 가례면 가례로9길 1",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "개승상회",
+      "address": "경상남도 의령군 가례면 개승리 255",
+      "roadAddress": "경상남도 의령군 가례면 가례로 700",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "수성상회",
+      "address": "경상남도 의령군 가례면 수성리 195",
+      "roadAddress": "경상남도 의령군 가례면 가례로 135",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "운암상회",
+      "address": "경상남도 의령군 가례면 운암리 164",
+      "roadAddress": "경상남도 의령군 가례면 홍의로 225",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "평촌상회",
+      "address": "경상남도 의령군 가례면 운암리 200",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "봉두휴게소매점",
+      "address": "경상남도 의령군 가례면 봉두리 252",
+      "roadAddress": "경상남도 의령군 가례면 홍의로4길 13",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "중촌구판장",
+      "address": "경상남도 의령군 칠곡면 외조리 107",
+      "roadAddress": "경상남도 의령군 칠곡면 칠곡로 29",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "화촌구판장",
+      "address": "경상남도 의령군 칠곡면 외조리 251",
+      "roadAddress": "경상남도 의령군 칠곡면 자굴산로3길 5-3",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "내조구판장",
+      "address": "경상남도 의령군 칠곡면 내조리 16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "이팔상회",
+      "address": "경상남도 의령군 칠곡면 신포리 424",
+      "roadAddress": "경상남도 의령군 칠곡면 칠곡로 56",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "신포구판장",
+      "address": "경상남도 의령군 칠곡면 신포리 538",
+      "roadAddress": "경상남도 의령군 칠곡면 칠곡로5길 40",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "입암구판장",
+      "address": "경상남도 의령군 칠곡면 신포리 90",
+      "roadAddress": "경상남도 의령군 칠곡면 진의로 2259",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "도산구판장",
+      "address": "경상남도 의령군 칠곡면 도산리 613",
+      "roadAddress": "경상남도 의령군 칠곡면 칠곡로1남길 26",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "양촌구판장",
+      "address": "경상남도 의령군 칠곡면 산북리 514",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "행정구판장",
+      "address": "경상남도 의령군 대의면 행정리 150",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "임하구판장",
+      "address": "경상남도 의령군 대의면 행정리 257",
+      "roadAddress": "경상남도 의령군 대의면 모의로4길 5-1",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "중촌구판장",
+      "address": "경상남도 의령군 대의면 중촌리 129",
+      "roadAddress": "경상남도 의령군 대의면 모의로3길 251",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "하촌구판장",
+      "address": "경상남도 의령군 대의면 하촌리 231",
+      "roadAddress": "경상남도 의령군 대의면 모의로2길 3",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "죽전구판장",
+      "address": "경상남도 의령군 대의면 다사리 475",
+      "roadAddress": "경상남도 의령군 대의면 한티로1길 14-27",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "성곡가게",
+      "address": "경상남도 의령군 화정면 가수리 382",
+      "roadAddress": "경상남도 의령군 화정면 진의로3길 1",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "덕교가게",
+      "address": "경상남도 의령군 화정면 덕교리 874",
+      "roadAddress": "경상남도 의령군 화정면 진의로 1709",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 화정면 석천리 612",
+      "roadAddress": "경상남도 의령군 화정면 석천로1길 30-3",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "지곡가게",
+      "address": "경상남도 의령군 화정면 상이리 709",
+      "roadAddress": "경상남도 의령군 화정면 화정로11길 17",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "담배가게",
+      "address": "경상남도 의령군 용덕면 이목리 95",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "담배가게",
+      "address": "경상남도 의령군 용덕면 가미리 230",
+      "roadAddress": "경상남도 의령군 용덕면 덕암로9길 18",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "담배가게",
+      "address": "경상남도 의령군 용덕면 와요리 327",
+      "roadAddress": "경상남도 의령군 용덕면 덕암로8길 23",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 용덕면 와요리 199",
+      "roadAddress": "경상남도 의령군 용덕면 덕암로7길 14",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "담배가게",
+      "address": "경상남도 의령군 용덕면 가락리 147",
+      "roadAddress": "경상남도 의령군 용덕면 덕암로6길 24-19",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "담배가게",
+      "address": "경상남도 의령군 용덕면 죽전리 455",
+      "roadAddress": "경상남도 의령군 용덕면 덕암로4길 33-25",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "담배가게",
+      "address": "경상남도 의령군 용덕면 신촌리 524-1",
+      "roadAddress": "경상남도 의령군 용덕면 덕암로 102",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 용덕면 신촌리  성비 230",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "담배가게",
+      "address": "경상남도 의령군 용덕면 소상리  신소마을 720",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "담배가게",
+      "address": "경상남도 의령군 용덕면 정동리 734",
+      "roadAddress": "경상남도 의령군 용덕면 정동3길 5-14",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용덕가든",
+      "address": "경상남도 의령군 용덕면 연리 361",
+      "roadAddress": "경상남도 의령군 용덕면 용암로4길 10-9",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "대신가게",
+      "address": "경상남도 의령군 정곡면 죽전리 404",
+      "roadAddress": "경상남도 의령군 정곡면 의합대로 817",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 정곡면 오방리 329",
+      "roadAddress": "경상남도 의령군 정곡면 정곡7길 23",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 정곡면 예둔리 296",
+      "roadAddress": "경상남도 의령군 정곡면 법정로6길 101-3",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(지도자)",
+      "address": "경상남도 의령군 정곡면 예둔리  예동 141",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 정곡면 가현리 25",
+      "roadAddress": "경상남도 의령군 정곡면 법정로1동길 34",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배가게",
+      "address": "경상남도 의령군 정곡면 백곡리 871",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "두호상회",
+      "address": "경상남도 의령군 정곡면 적곡리 656",
+      "roadAddress": "경상남도 의령군 정곡면 강변로3길 62",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "적곡가게",
+      "address": "경상남도 의령군 정곡면 적곡리 833",
+      "roadAddress": "경상남도 의령군 정곡면 강변로4길 36-9",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "신기마을",
+      "address": "경상남도 의령군 지정면 봉곡리 1072",
+      "roadAddress": "경상남도 의령군 지정면 함의로7길 33-3",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "웅곡가게",
+      "address": "경상남도 의령군 지정면 오천리 603-3",
+      "roadAddress": "경상남도 의령군 지정면 기강로 135",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "두곡가게",
+      "address": "경상남도 의령군 지정면 두곡리 681",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "정류소가게",
+      "address": "경상남도 의령군 지정면 성산리 575",
+      "roadAddress": "경상남도 의령군 지정면 기강로 512",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "안담가게",
+      "address": "경상남도 의령군 지정면 성산리 434",
+      "roadAddress": "경상남도 의령군 지정면 기강로6길 27-5",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "기름집가게",
+      "address": "경상남도 의령군 지정면 성산리 312-10",
+      "roadAddress": "경상남도 의령군 지정면 함의로 1519-1",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(지도자)",
+      "address": "경상남도 의령군 지정면 태부리 71",
+      "roadAddress": "경상남도 의령군 지정면 함의로9길 68",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "백야가게",
+      "address": "경상남도 의령군 지정면 백야리 436-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "간이상점",
+      "address": "경상남도 의령군 지정면 성당리 495",
+      "roadAddress": "경상남도 의령군 지정면 기강로5길 51-5",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "간이상점(정류소 가게)",
+      "address": "경상남도 의령군 지정면 성당리 591-4",
+      "roadAddress": "경상남도 의령군 지정면 강변로 502",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마산가게",
+      "address": "경상남도 의령군 지정면 마산리 842",
+      "roadAddress": "경상남도 의령군 지정면 마산로 74-2",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "포외가게",
+      "address": "경상남도 의령군 지정면 마산리 596",
+      "roadAddress": "경상남도 의령군 지정면 보덕로1길 28",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 지정면 마산리 332",
+      "roadAddress": "경상남도 의령군 지정면 함의로2길 207-6",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "담배가게",
+      "address": "경상남도 의령군 낙서면 율산리 313",
+      "roadAddress": "경상남도 의령군 낙서면 낙동강로2길 129-4",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "정곡가게",
+      "address": "경상남도 의령군 낙서면 정곡리 1240",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 낙서면 아근리 198",
+      "roadAddress": "경상남도 의령군 낙서면 내제로3길 5-1",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "담배가게",
+      "address": "경상남도 의령군 부림면 막곡리 42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배가게",
+      "address": "경상남도 의령군 부림면 입산리 173",
+      "roadAddress": "경상남도 의령군 부림면 입산로 191",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 부림면 경산리 362",
+      "roadAddress": "경상남도 의령군 부림면 경산길 60-13",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 부림면 경산리 12",
+      "roadAddress": "경상남도 의령군 부림면 박진북길 32-26",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 부림면 손오리 866",
+      "roadAddress": "경상남도 의령군 부림면 손오로2길 36",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 부림면 손오리 22",
+      "roadAddress": "경상남도 의령군 부림면 손오로4길 53",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 부림면 감암리  옥동마을 642",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 부림면 권혜리 261",
+      "roadAddress": "경상남도 의령군 부림면 천혜로 497-4",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "담배가게",
+      "address": "경상남도 의령군 봉수면 청계리 766",
+      "roadAddress": "경상남도 의령군 봉수면 청계로 216",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "담배가게",
+      "address": "경상남도 의령군 봉수면 청계리 177",
+      "roadAddress": "경상남도 의령군 봉수면 청계로 43-20",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "오산상회",
+      "address": "경상남도 의령군 봉수면 서암리 933",
+      "roadAddress": "경상남도 의령군 봉수면 대한로 790",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "오산잡화점",
+      "address": "경상남도 의령군 봉수면 서암리 1398",
+      "roadAddress": "경상남도 의령군 봉수면 한지3길 44",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "서암제일슈퍼",
+      "address": "경상남도 의령군 봉수면 서암리 377-1",
+      "roadAddress": "경상남도 의령군 봉수면 청계로 3",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "국사봉슈퍼",
+      "address": "경상남도 의령군 봉수면 서암리 475",
+      "roadAddress": "경상남도 의령군 봉수면 한지6길 3",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "서암슈퍼",
+      "address": "경상남도 의령군 봉수면 서암리 472",
+      "roadAddress": "경상남도 의령군 봉수면 대한로 900",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "소매가게",
+      "address": "경상남도 의령군 봉수면 신현리 376",
+      "roadAddress": "경상남도 의령군 봉수면 대한로 1109-6",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 봉수면 삼가리 325",
+      "roadAddress": "경상남도 의령군 봉수면 한지16길 18-8",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "새마을지도자",
+      "address": "경상남도 의령군 봉수면 천락리 327",
+      "roadAddress": "경상남도 의령군 봉수면 천혜로2길 73-1",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "달성상회",
+      "address": "경상남도 의령군 궁류면 평촌리 461",
+      "roadAddress": "경상남도 의령군 궁류면 청정로3길 40-25",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "민속촌마트",
+      "address": "경상남도 의령군 궁류면 평촌리 122-4",
+      "roadAddress": "경상남도 의령군 궁류면 청정로 1190",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "평촌상회",
+      "address": "경상남도 의령군 궁류면 평촌리 567",
+      "roadAddress": "경상남도 의령군 궁류면 청정로4길 20",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 궁류면 운계리 408",
+      "roadAddress": "경상남도 의령군 궁류면 운계로1길 70",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "당동상회",
+      "address": "경상남도 의령군 궁류면 토곡리 458",
+      "roadAddress": "경상남도 의령군 궁류면 궁류로2길 23",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 궁류면 계현리 84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 궁류면 계현리 523",
+      "roadAddress": "경상남도 의령군 궁류면 궁류로8길 43",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 궁류면 다현리 868",
+      "roadAddress": "경상남도 의령군 궁류면 궁류로11길 5",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 궁류면 다현리 679",
+      "roadAddress": "경상남도 의령군 궁류면 궁류로10길 37-11",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "신기상회",
+      "address": "경상남도 의령군 궁류면 다현리 637",
+      "roadAddress": "경상남도 의령군 궁류면 궁류로 247",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "소화상회",
+      "address": "경상남도 의령군 궁류면 다현리 184",
+      "roadAddress": "경상남도 의령군 궁류면 궁류로9북길 61",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 유곡면 상촌리 521",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 유곡면 상곡리 913",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 유곡면 상곡리 341",
+      "roadAddress": "경상남도 의령군 유곡면 능인로4길 6-5",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 유곡면 오목리 628",
+      "roadAddress": "경상남도 의령군 유곡면 능인로3길 21-5",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 유곡면 오목리 177",
+      "roadAddress": "경상남도 의령군 유곡면 용암로8길 27",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "신촌상회",
+      "address": "경상남도 의령군 유곡면 신촌리 226",
+      "roadAddress": "경상남도 의령군 유곡면 청정로 1794",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "혜성슈퍼",
+      "address": "경상남도 의령군 유곡면 송산리 657",
+      "roadAddress": "경상남도 의령군 유곡면 청정로9길 44-11",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "송산슈퍼",
+      "address": "경상남도 의령군 유곡면 송산리 486",
+      "roadAddress": "경상남도 의령군 유곡면 청정로 1675",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 유곡면 송산리 128-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 유곡면 송산리 715",
+      "roadAddress": "경상남도 의령군 유곡면 청정로9길 51",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 유곡면 송산리 766",
+      "roadAddress": "경상남도 의령군 유곡면 청정로9서길 84",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 유곡면 마두리 229",
+      "roadAddress": "경상남도 의령군 유곡면 청정로12남길 11-3",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 유곡면 칠곡리 330",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마을(이장)",
+      "address": "경상남도 의령군 유곡면 칠곡리 117",
+      "roadAddress": "경상남도 의령군 유곡면 청정로16길 85-8",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "마장소매점",
+      "address": "경상남도 의령군 유곡면 마장리 208",
+      "roadAddress": "경상남도 의령군 유곡면 마장로5길 4-8",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "부녀지도자",
+      "address": "경상남도 의령군 유곡면 당동리 110-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "덕천가게",
+      "address": "경상남도 의령군 유곡면 덕천리 243-2",
+      "roadAddress": "경상남도 의령군 유곡면 청정로17길 48",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "세간가게",
+      "address": "경상남도 의령군 유곡면 세간리 769",
+      "roadAddress": "경상남도 의령군 유곡면 세간2동길 1",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "삼거리상회",
+      "address": "경상남도 의령군 유곡면 세간리 266",
+      "roadAddress": "경상남도 의령군 유곡면 함의로12길 26-1",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-18"
+    },
+    {
+      "name": "킹스할인클럽",
+      "address": "경상남도 의령군 의령읍 서동리 294-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오거리편의점",
+      "address": "경상남도 의령군 의령읍 동동리 1025-6",
+      "roadAddress": "경상남도 의령군 의령읍 백산로1길 7-8",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-11"
+    },
+    {
+      "name": "훼미리마트 의령점",
+      "address": "경상남도 의령군 의령읍 중동리 384-2",
+      "roadAddress": "경상남도 의령군 의령읍 의병로 223",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-04"
+    },
+    {
+      "name": "서동할인마트",
+      "address": "경상남도 의령군 의령읍 서동리 484-5",
+      "roadAddress": "경상남도 의령군 의령읍 의병로15길 8-5",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-22"
+    },
+    {
+      "name": "의령농협하나로마트",
+      "address": "의령읍 서동리 509-2",
+      "roadAddress": "경상남도 의령군 의령읍 의병로14길 29",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-30"
+    },
+    {
+      "name": "코스타마트",
+      "address": "경상남도 의령군 의령읍 중동리 423-7",
+      "roadAddress": "경상남도 의령군 의령읍 의병로20길 46",
+      "status": "영업/정상",
+      "licenseDate": "2005-02-11"
+    },
+    {
+      "name": "GS25 의령점",
+      "address": "경상남도 의령군 의령읍 서동리 490-36",
+      "roadAddress": "경상남도 의령군 의령읍 의병로 212",
+      "status": "영업/정상",
+      "licenseDate": "2006-11-02"
+    },
+    {
+      "name": "의령축산업협동조합의령지점",
+      "address": "경상남도 의령군 부림면 신반리 545-27",
+      "roadAddress": "경상남도 의령군 의령읍 의병로20길 32",
+      "status": "영업/정상",
+      "licenseDate": "2008-02-22"
+    },
+    {
+      "name": "훼미리마트 의령서동점",
+      "address": "경상남도 의령군 의령읍 서동리 289-3",
+      "roadAddress": "경상남도 의령군 의령읍 의병로7길 9-1",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-03"
+    },
+    {
+      "name": "훼미리마트 의령중동점",
+      "address": "경상남도 의령군 의령읍 중동리 412-5",
+      "roadAddress": "경상남도 의령군 의령읍 충익로 23-2",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-16"
+    },
+    {
+      "name": "자굴산휴게소식당",
+      "address": "전라북도 임실군 운암면 운암리 79",
+      "roadAddress": "경상남도 의령군 가례면 가례로 885-28",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-02"
+    },
+    {
+      "name": "동부농업협동조합",
+      "address": "경상남도 의령군 부림면 신반리 345",
+      "roadAddress": "경상남도 의령군 부림면 신번로 138",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-07"
+    },
+    {
+      "name": "세븐일레븐 의령점",
+      "address": "경상남도 의령군 의령읍 서동리 478-11",
+      "roadAddress": "경상남도 의령군 의령읍 의병로 201",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-27"
+    },
+    {
+      "name": "민희슈퍼",
+      "address": "경상남도 의령군 의령읍 서동리 238",
+      "roadAddress": "경상남도 의령군 의령읍 의병로9길 25-6",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-17"
+    }
+  ]
+}

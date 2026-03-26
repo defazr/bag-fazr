@@ -1,0 +1,4938 @@
+{
+  "region": "충청북도",
+  "regionSlug": "chungbuk",
+  "district": "제천시",
+  "districtSlug": "jecheon",
+  "updatedAt": "2026-03-26",
+  "totalCount": 704,
+  "stores": [
+    {
+      "name": "지실회관구판장",
+      "address": "충청북도 제천시 송학면 도화리 176",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "도화동회관구판장",
+      "address": "충청북도 제천시 송학면 도화리 560-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "낙산가든",
+      "address": "충청북도 제천시 송학면 도화리 910",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "포전구판장",
+      "address": "충청북도 제천시 금성면 포전리 261",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "세명24시편의점",
+      "address": "충청북도 제천시 장락동 642-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "영창지업사",
+      "address": "충청북도 제천시 남천동 1232",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "진성식품",
+      "address": "충청북도 제천시 청전동 413-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "솔미한우직판장",
+      "address": "충청북도 제천시 신백동 208-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-30"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-07"
+    },
+    {
+      "name": "덕화상회",
+      "address": "충청북도 제천시 봉양읍 봉양리 502-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-07"
+    },
+    {
+      "name": "팔송구판장",
+      "address": "충청북도 제천시 봉양읍 팔송리 220",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-07"
+    },
+    {
+      "name": "새마을슈퍼",
+      "address": "충청북도 제천시 봉양읍 연박리 904",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-07"
+    },
+    {
+      "name": "대흥상회",
+      "address": "충청북도 제천시 송학면 시곡리 544-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-24"
+    },
+    {
+      "name": "태양지업사",
+      "address": "충청북도 제천시 중앙로2가 82-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-24"
+    },
+    {
+      "name": "두진하이퍼마켓",
+      "address": "충청북도 제천시 청전동 208",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-12"
+    },
+    {
+      "name": "백로하이퍼마켓",
+      "address": "충청북도 제천시 청전동 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-12"
+    },
+    {
+      "name": "부흥상회",
+      "address": "충청북도 제천시 신월동 512-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-30"
+    },
+    {
+      "name": "나래슈퍼",
+      "address": "충청북도 제천시 화산동 632-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-30"
+    },
+    {
+      "name": "제천생약",
+      "address": "충청북도 제천시 화산동 41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-30"
+    },
+    {
+      "name": "2차덕일히이퍼마켓",
+      "address": "충청북도 제천시 청전동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-30"
+    },
+    {
+      "name": "한솔하이퍼마켓",
+      "address": "충청북도 제천시 장락동 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-05"
+    },
+    {
+      "name": "애플청과",
+      "address": "충청북도 제천시 청전동 10-107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-17"
+    },
+    {
+      "name": "공원휴게소",
+      "address": "충청북도 제천시 모산동 65-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-27"
+    },
+    {
+      "name": "신애슈퍼",
+      "address": "충청북도 제천시 청전동 1029",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-27"
+    },
+    {
+      "name": "공원슈퍼",
+      "address": "충청북도 제천시 한수면 송계리 282-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-27"
+    },
+    {
+      "name": "공설슈퍼",
+      "address": "충청북도 제천시 화산동 657",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-27"
+    },
+    {
+      "name": "예진상회",
+      "address": "충청북도 제천시 백운면 도곡리 132",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-02"
+    },
+    {
+      "name": "덕동슈퍼",
+      "address": "충청북도 제천시 백운면 덕동리 25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-02"
+    },
+    {
+      "name": "해동상회",
+      "address": "충청북도 제천시 명동 7-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-02"
+    },
+    {
+      "name": "별장매점",
+      "address": "충청북도 제천시 봉양읍 구학리 360",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-02"
+    },
+    {
+      "name": "감로휴게소",
+      "address": "충청북도 제천시 봉양읍 구학리 233-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-02"
+    },
+    {
+      "name": "길상휴게소",
+      "address": "충청북도 제천시 봉양읍 구학리 18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-02"
+    },
+    {
+      "name": "봉양신용슈퍼",
+      "address": "충청북도 제천시 봉양읍 주포리 158-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-08"
+    },
+    {
+      "name": "하나로쇼핑",
+      "address": "충청북도 제천시 고암동 1101 두진백로아파트 106동 705호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-22"
+    },
+    {
+      "name": "민정정육슈퍼",
+      "address": "충청북도 제천시 청전동 482-51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-22"
+    },
+    {
+      "name": "대원슈퍼",
+      "address": "충청북도 제천시 신월동 715-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-30"
+    },
+    {
+      "name": "징검다리식당",
+      "address": "충청북도 제천시 한수면 송계리 787",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-30"
+    },
+    {
+      "name": "주공문구완구백화점",
+      "address": "충청북도 제천시 하소동 362",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-09-18"
+    },
+    {
+      "name": "한정혜반찬전문점",
+      "address": "충청북도 제천시 화산동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-04"
+    },
+    {
+      "name": "현대하이퍼마켓",
+      "address": "충청북도 제천시 동현동 28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-04"
+    },
+    {
+      "name": "햇님슈퍼",
+      "address": "충청북도 제천시 동현동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-04"
+    },
+    {
+      "name": "용두하이퍼",
+      "address": "충청북도 제천시 하소동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-21"
+    },
+    {
+      "name": "대영식품",
+      "address": "충청북도 제천시 명동 3-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-12-02"
+    },
+    {
+      "name": "청솔하이퍼",
+      "address": "충청북도 제천시 장락동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-12-02"
+    },
+    {
+      "name": "중부유통",
+      "address": "충청북도 제천시 청전동 588-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-12-02"
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "충청북도 제천시 서부동 59-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-12-12"
+    },
+    {
+      "name": "하은슈퍼",
+      "address": "충청북도 제천시 하소동 317-69",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-12-12"
+    },
+    {
+      "name": "꿀꿀이상회",
+      "address": "충청북도 제천시 중앙로2가 82-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-26"
+    },
+    {
+      "name": "민진슈퍼",
+      "address": "충청북도 제천시 화산동 603",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-31"
+    },
+    {
+      "name": "승화슈퍼",
+      "address": "충청북도 제천시 청전동 107-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-31"
+    },
+    {
+      "name": "S마트",
+      "address": "충청북도 제천시 청전동 836",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-31"
+    },
+    {
+      "name": "밀코마트",
+      "address": "충청북도 제천시 장락동 848",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-03-12"
+    },
+    {
+      "name": "수정하이퍼",
+      "address": "충청북도 제천시 자작동 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-03-12"
+    },
+    {
+      "name": "프리타임",
+      "address": "충청북도 제천시 신월동 688-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-03-25"
+    },
+    {
+      "name": "이크지업사",
+      "address": "충청북도 제천시 명동 219-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-19"
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "충청북도 제천시 서부동 59-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-30"
+    },
+    {
+      "name": "공원하이퍼마켓",
+      "address": "충청북도 제천시 청전동 776",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-11"
+    },
+    {
+      "name": "의림지주유소",
+      "address": "충청북도 제천시 청전동 5-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-11"
+    },
+    {
+      "name": "청주슈퍼",
+      "address": "충청북도 제천시 명동 193-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-11"
+    },
+    {
+      "name": "고속슈퍼",
+      "address": "충청북도 제천시 의림동 26-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-08"
+    },
+    {
+      "name": "능강계속매표소",
+      "address": "충청북도 제천시 수산면 능강리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-09"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "충청북도 제천시 영천동 22-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-16"
+    },
+    {
+      "name": "제천농협연쇄점",
+      "address": "충청북도 제천시 남천동 1248",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-22"
+    },
+    {
+      "name": "365일편의점",
+      "address": "충청북도 제천시 의림동 31-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-22"
+    },
+    {
+      "name": "공원슈퍼",
+      "address": "충청북도 제천시 한수면 송계리 282-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-29"
+    },
+    {
+      "name": "한마음쇼핑센타",
+      "address": "충청북도 제천시 동현동 102-108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-12"
+    },
+    {
+      "name": "자은슈퍼마켓",
+      "address": "충청북도 제천시 청전동 936",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-21"
+    },
+    {
+      "name": "행복슈퍼24시",
+      "address": "충청북도 제천시 남천동 1186",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-06"
+    },
+    {
+      "name": "모란슈퍼",
+      "address": "충청북도 제천시 청전동 123-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-12"
+    },
+    {
+      "name": "제천농약종묘사",
+      "address": "충청북도 제천시 중앙로1가 130",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-16"
+    },
+    {
+      "name": "화성쇼핑타운",
+      "address": "충청북도 제천시 청전동 159-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-05"
+    },
+    {
+      "name": "샛별슈퍼",
+      "address": "충청북도 제천시 청전동 142-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-12-02"
+    },
+    {
+      "name": "3통구판장",
+      "address": "충청북도 제천시 하소동 114-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-12-30"
+    },
+    {
+      "name": "현대쇼핑",
+      "address": "충청북도 제천시 하소동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-12-30"
+    },
+    {
+      "name": "신월슈퍼",
+      "address": "충청북도 제천시 신월동 793-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-12-30"
+    },
+    {
+      "name": "서울병원구내매점",
+      "address": "충청북도 제천시 서부동 1-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-17"
+    },
+    {
+      "name": "부자유통",
+      "address": "충청북도 제천시 청전동 1017",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-27"
+    },
+    {
+      "name": "덕흥상회",
+      "address": "충청북도 제천시 덕산면 도전리 799-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-13"
+    },
+    {
+      "name": "마을슈퍼",
+      "address": "충청북도 제천시 자작동 377-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-01"
+    },
+    {
+      "name": "대지식품",
+      "address": "충청북도 제천시 의림동 216-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-19"
+    },
+    {
+      "name": "세기지업사",
+      "address": "충청북도 제천시 중앙로1가 40-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-16"
+    },
+    {
+      "name": "월드25시편의점",
+      "address": "충청북도 제천시 중앙로2가 69-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-30"
+    },
+    {
+      "name": "우암슈퍼",
+      "address": "충청북도 제천시 청전동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-16"
+    },
+    {
+      "name": "견영편의점",
+      "address": "충청북도 제천시 영천동 4-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-02"
+    },
+    {
+      "name": "오거리슈퍼",
+      "address": "충청북도 제천시 의림동 136",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-18"
+    },
+    {
+      "name": "일동하이퍼",
+      "address": "충청북도 제천시 동현동 98",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-29"
+    },
+    {
+      "name": "탁사정 꽃 피는 산골",
+      "address": "충청북도 제천시 봉양읍 구학리 233-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-12"
+    },
+    {
+      "name": "썬플러스 제천본점",
+      "address": "충청북도 제천시 중앙로1가 116-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-26"
+    },
+    {
+      "name": "명성마트",
+      "address": "충청북도 제천시 하소동 345 주공아파트4단지상가 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-21"
+    },
+    {
+      "name": "서진슈퍼",
+      "address": "충청북도 제천시 교동 43-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "남매슈퍼",
+      "address": "충청북도 제천시 교동 79",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "향미식품",
+      "address": "충청북도 제천시 교동 87",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "미니슈퍼마켓",
+      "address": "충청북도 제천시 교동 145-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "명호슈퍼",
+      "address": "충청북도 제천시 교동 96-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "삼미슈퍼",
+      "address": "충청북도 제천시 교동 98-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "마을회관",
+      "address": "충청북도 제천시 장락동 9통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "상희슈퍼",
+      "address": "충청북도 제천시 장락동 8 통3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "마을회관",
+      "address": "충청북도 제천시 장락동 9통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "죽하마을구판장",
+      "address": "충청북도 제천시 장락동 552",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "강원슈퍼",
+      "address": "충청북도 제천시 장락동 506-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "새한슈퍼",
+      "address": "충청북도 제천시 교동 702-113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "충청북도 제천시 고암동 504-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "당모루부녀회",
+      "address": "충청북도 제천시 고암동 580-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "아리랑슈퍼",
+      "address": "충청북도 제천시 교동 60-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "광복슈퍼",
+      "address": "충청북도 제천시 장락동 829",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "류성슈퍼",
+      "address": "충청북도 제천시 장락동 868",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "엔돌핀편의점",
+      "address": "충청북도 제천시 장락동 776",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "한아름",
+      "address": "충청북도 제천시 장락동 964",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "삼성슈퍼",
+      "address": "충청북도 제천시 봉양읍 주포리 198-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "운진슈퍼",
+      "address": "충청북도 제천시 중앙로1가 1091",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "유명편의점",
+      "address": "충청북도 제천시 영천동 252-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-29"
+    },
+    {
+      "name": "두진스코아",
+      "address": "충청북도 제천시 교동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-12"
+    },
+    {
+      "name": "싱싱청과",
+      "address": "충청북도 제천시 하소동 120-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-30"
+    },
+    {
+      "name": "우리청과",
+      "address": "충청북도 제천시 청전동 588-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-16"
+    },
+    {
+      "name": "대동쇼핑",
+      "address": "충청북도 제천시 중앙로2가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-06"
+    },
+    {
+      "name": "훼미리하이퍼마켓",
+      "address": "충청북도 제천시 남천동 1276",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-24"
+    },
+    {
+      "name": "킴스마트",
+      "address": "충청북도 제천시 중앙로2가 21-21   1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-29"
+    },
+    {
+      "name": "알마트",
+      "address": "충청북도 제천시 의림동 35-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-29"
+    },
+    {
+      "name": "미미슈퍼",
+      "address": "충청북도 제천시 의림동 171",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-30"
+    },
+    {
+      "name": "축협축산물종합판매",
+      "address": "충청북도 제천시 청전동 118",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-13"
+    },
+    {
+      "name": "개미슈퍼",
+      "address": "충청북도 제천시 신백동 167-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-02-10"
+    },
+    {
+      "name": "등용문슈퍼",
+      "address": "충청북도 제천시 중앙로2가 70-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-02-18"
+    },
+    {
+      "name": "해진슈퍼",
+      "address": "충청북도 제천시 청전동 905",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-05"
+    },
+    {
+      "name": "광장편의점",
+      "address": "충청북도 제천시 모산동 64-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-05"
+    },
+    {
+      "name": "세명24시편의점",
+      "address": "충청북도 제천시 장락동 642-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-14"
+    },
+    {
+      "name": "크로바마트",
+      "address": "충청북도 제천시 청전동 636",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-10"
+    },
+    {
+      "name": "프라임마트",
+      "address": "충청북도 제천시 강제동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-13"
+    },
+    {
+      "name": "식품가게",
+      "address": "충청북도 제천시 화산동 98-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-24"
+    },
+    {
+      "name": "진영슈퍼",
+      "address": "충청북도 제천시 청전동 802",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-24"
+    },
+    {
+      "name": "청전슈퍼",
+      "address": "충청북도 제천시 청전동 152-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "백로하이마트",
+      "address": "충청북도 제천시 고암동 1100-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-14"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "충청북도 제천시 금성면 구룡리 302",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-15"
+    },
+    {
+      "name": "금성상회",
+      "address": "충청북도 제천시 금성면 적덕리 20-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-15"
+    },
+    {
+      "name": "월림2리마을구판장",
+      "address": "충청북도 제천시 금성면 월림리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-15"
+    },
+    {
+      "name": "코코25시",
+      "address": "충청북도 제천시 중앙로2가 27-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-15"
+    },
+    {
+      "name": "대한통운(주)마트",
+      "address": "충청북도 제천시 청전동 16-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-02"
+    },
+    {
+      "name": "역전철물전기",
+      "address": "충청북도 제천시 화산동 240-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-11"
+    },
+    {
+      "name": "백로24시마트",
+      "address": "충청북도 제천시 청전동 716",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-12"
+    },
+    {
+      "name": "화성하이퍼마켓",
+      "address": "충청북도 제천시 신백동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-13"
+    },
+    {
+      "name": "하나로쇼핑고암점",
+      "address": "충청북도 제천시 고암동 1169-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-08"
+    },
+    {
+      "name": "성수건강원",
+      "address": "충청북도 제천시 중앙로2가 80-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "충청북도 제천시 중앙로2가 78-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "금강슈퍼",
+      "address": "충청북도 제천시 중앙로2가 73-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "충청북도 제천시 중앙로2가 2-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "의림식품",
+      "address": "충청북도 제천시 의림동 45-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "경기상회",
+      "address": "충청북도 제천시 남천동 3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "희망슈퍼",
+      "address": "충청북도 제천시 명동 234",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-16"
+    },
+    {
+      "name": "명천상회",
+      "address": "충청북도 제천시 남천동 357",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "왔다슈퍼",
+      "address": "충청북도 제천시 남천동 726",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "구명가게",
+      "address": "충청북도 제천시 남천동 242",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "충청북도 제천시 영천동 702 16 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "알뜰상회",
+      "address": "충청북도 제천시 남천동 1299",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "골목슈퍼",
+      "address": "충청북도 제천시 남천동 1261",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "해동슈퍼",
+      "address": "충청북도 제천시 남천동 173-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "삼광슈퍼",
+      "address": "충청북도 제천시 명동 234",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "켓",
+      "address": "충청북도 제천시 명동 147",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "영광슈퍼",
+      "address": "충청북도 제천시 명동 138",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "오란다슈퍼",
+      "address": "충청북도 제천시 명동 10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "명동슈퍼",
+      "address": "충청북도 제천시 명동 4-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "성원슈퍼",
+      "address": "충청북도 제천시 명동 163-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "현대사  제천슈퍼",
+      "address": "충청북도 제천시 고명동 188",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "서부슈퍼",
+      "address": "충청북도 제천시 명동 190-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "신흥슈퍼",
+      "address": "충청북도 제천시 동현동 30통4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "4통5반슈퍼",
+      "address": "충청북도 제천시 명동 252-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "부산슈퍼",
+      "address": "충청북도 제천시 명동 247-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "동신슈퍼",
+      "address": "충청북도 제천시 서부동 13-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "일신하이퍼마켓",
+      "address": "충청북도 제천시 서부동 72",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "지하네슈퍼",
+      "address": "충청북도 제천시 서부동 98-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "에덴문구사",
+      "address": "충청북도 제천시 서부동 125-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "백운슈퍼",
+      "address": "충청북도 제천시 백운면 평동리 225-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "주부식품",
+      "address": "충청북도 제천시 서부동 160-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "민영슈퍼",
+      "address": "충청북도 제천시 중앙로2가 75-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-08"
+    },
+    {
+      "name": "신담미니슈퍼",
+      "address": "충청북도 제천시 송학면 도화리 936",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-21"
+    },
+    {
+      "name": "경희슈퍼",
+      "address": "충청북도 제천시 봉양읍 미당리 819-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-25"
+    },
+    {
+      "name": "월악나루휴게소",
+      "address": "충청북도 제천시 한수면 탄지리 73-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-08"
+    },
+    {
+      "name": "청풍문화재단지매점",
+      "address": "충청북도 제천시 청풍면 물태리 104-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-13"
+    },
+    {
+      "name": "밀코마트25시편의점",
+      "address": "충청북도 제천시 신백동 172-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-13"
+    },
+    {
+      "name": "꼬꼬24시편의점",
+      "address": "충청북도 제천시 청전동 1035",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-19"
+    },
+    {
+      "name": "에이스마트",
+      "address": "충청북도 제천시 봉양읍 장평리 814-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-11"
+    },
+    {
+      "name": "솔담장매점",
+      "address": "충청북도 제천시 봉양읍 옥전리 59-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-30"
+    },
+    {
+      "name": "정든슈퍼",
+      "address": "충청북도 제천시 봉양읍 옥전리 199",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-30"
+    },
+    {
+      "name": "송정매점",
+      "address": "충청북도 제천시 봉양읍 옥전리 269",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-30"
+    },
+    {
+      "name": "다래향가든",
+      "address": "충청북도 제천시 봉양읍 옥전리 359",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-30"
+    },
+    {
+      "name": "농원가든",
+      "address": "충청북도 제천시 봉양읍 구학리 184-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-30"
+    },
+    {
+      "name": "농장매점",
+      "address": "충청북도 제천시 봉양읍 구학리 255-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-30"
+    },
+    {
+      "name": "미학유원지가든",
+      "address": "충청북도 제천시 봉양읍 구학리 298-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-30"
+    },
+    {
+      "name": "배론가든",
+      "address": "충청북도 제천시 봉양읍 구학리 460",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-30"
+    },
+    {
+      "name": "맑은샘가든",
+      "address": "충청북도 제천시 봉양읍 옥전리 5-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-16"
+    },
+    {
+      "name": "노목문씨가든",
+      "address": "충청북도 제천시 봉양읍 옥전리 283",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-16"
+    },
+    {
+      "name": "팔각정",
+      "address": "충청북도 제천시 봉양읍 구학리 233-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-16"
+    },
+    {
+      "name": "등마루산장",
+      "address": "충청북도 제천시 봉양읍 구학리 233-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-16"
+    },
+    {
+      "name": "피재골가든",
+      "address": "충청북도 제천시 송학면 도화리 567-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-30"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-30"
+    },
+    {
+      "name": "성심슈퍼",
+      "address": "충청북도 제천시 청전동 105-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-20"
+    },
+    {
+      "name": "은혜네",
+      "address": "충청북도 제천시 중앙로1가 171",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-11"
+    },
+    {
+      "name": "(주)홈마트신백점",
+      "address": "충청북도 제천시 신백동 184-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-11"
+    },
+    {
+      "name": "준이마트",
+      "address": "충청북도 제천시 강제동 38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-11"
+    },
+    {
+      "name": "대진24시편의점",
+      "address": "충청북도 제천시 의림동 227-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-17"
+    },
+    {
+      "name": "덕포상회",
+      "address": "충청북도 제천시 봉양읍 장평리 248-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "왕미매점",
+      "address": "충청북도 제천시 봉양읍 미당리 766-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "거북슈퍼",
+      "address": "충청북도 제천시 서부동 104-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "충청북도 제천시 서부동 111-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "벌꿀슈퍼",
+      "address": "충청북도 제천시 서부동 58-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충북하이퍼",
+      "address": "충청북도 제천시 의림동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "유복슈퍼",
+      "address": "충청북도 제천시 의림동 38-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "의림식품",
+      "address": "충청북도 제천시 의림동 45-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "제일식품",
+      "address": "충청북도 제천시 의림동 47-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "충청북도 제천시 의림동 8-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "현진슈퍼",
+      "address": "충청북도 제천시 의림동 224-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "충청북도 제천시 의림동 216-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "파라슈퍼",
+      "address": "충청북도 제천시 의림동 26-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "덕일식품",
+      "address": "충청북도 제천시 의림동 8-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "무궁화슈퍼",
+      "address": "충청북도 제천시 화산동 906",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "푸른슈퍼",
+      "address": "충청북도 제천시 하소동 25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "희영상회",
+      "address": "충청북도 제천시 하소동 2통2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "담배가게",
+      "address": "충청북도 제천시 두학동 7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "하진연탄",
+      "address": "충청북도 제천시 신월동 6통4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "정훈슈퍼",
+      "address": "충청북도 제천시 화산동 763",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "제원쌀상회",
+      "address": "충청북도 제천시 동현동 59-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "신동현슈퍼",
+      "address": "충청북도 제천시 동현동 2통2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "동현쌀상회",
+      "address": "충청북도 제천시 동현동 3통1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "신흥슈퍼",
+      "address": "충청북도 제천시 동현동 30통4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "충청북도 제천시 동현동 327",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "크로바슈퍼",
+      "address": "충청북도 제천시 신백동 178-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "세원슈퍼",
+      "address": "충청북도 제천시 신백동 9통2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "충청북도 제천시 동현동 327",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "상미슈퍼",
+      "address": "충청북도 제천시 신백동 10통3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "대신슈퍼",
+      "address": "충청북도 제천시 신백동 10통4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "숲안슈퍼",
+      "address": "충청북도 제천시 고명동 657",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "수도슈퍼",
+      "address": "충청북도 제천시 동현동 272",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "명동1리구판장",
+      "address": "충청북도 제천시 명동 298",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "송미식품",
+      "address": "충청북도 제천시 명동 178-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "매골상점",
+      "address": "충청북도 제천시 명동 99",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "국화상회",
+      "address": "충청북도 제천시 봉양읍 봉양리 396-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "명암상회",
+      "address": "충청북도 제천시 봉양읍 명암리 594",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "학산식당매점",
+      "address": "충청북도 제천시 봉양읍 학산리 311-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "연교담배소매점",
+      "address": "충청북도 제천시 봉양읍 학산리 382-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "학산기사식당매점",
+      "address": "충청북도 제천시 강제동 566-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "전원가든",
+      "address": "충청북도 제천시 봉양읍 옥전리 567-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "봉황휴게소식당",
+      "address": "충청북도 제천시 봉양읍 연박리 997-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "용바위슈퍼",
+      "address": "충청북도 제천시 봉양읍 연박리 353-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "원박상회",
+      "address": "충청북도 제천시 봉양읍 원박리 81-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "공전1리구판장",
+      "address": "충청북도 제천시 봉양읍 공전리 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "공전2리구판장",
+      "address": "충청북도 제천시 봉양읍 공전리 414",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "공전3리구판장",
+      "address": "충청북도 제천시 봉양읍 공전리 416",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "구곡1리봉투판매소",
+      "address": "충청북도 제천시 봉양읍 구곡리 657",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "구곡2리봉투판매소",
+      "address": "충청북도 제천시 봉양읍 구곡리 493",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "강변슈퍼",
+      "address": "충청북도 제천시 봉양읍 구곡리 1329",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마곡리구판장",
+      "address": "충청북도 제천시 봉양읍 마곡리 569",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "삼거상회",
+      "address": "충청북도 제천시 봉양읍 삼거리 604-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "포전구판장",
+      "address": "충청북도 제천시 금성면 포전리 261",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "중전구판장",
+      "address": "충청북도 제천시 금성면 중전리 268",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "팔경휴게소",
+      "address": "충청북도 제천시 수산면 수산리 241-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "수산슈퍼",
+      "address": "충청북도 제천시 동현동 277",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "충청북도 제천시 영천동 22-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "정선상회",
+      "address": "충청북도 제천시 두학동 984-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "담배가게",
+      "address": "충청북도 제천시 두학동 7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "담배가게",
+      "address": "충청북도 제천시 두학동 7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "학들회관",
+      "address": "충청북도 제천시 두학동 850",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "열매슈퍼",
+      "address": "충청북도 제천시 청전동 633",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "충청북도 제천시 서부동 52-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "상가슈퍼",
+      "address": "충청북도 제천시 청전동 135-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "정영슈퍼",
+      "address": "충청북도 제천시 청전동 149-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "인희슈퍼",
+      "address": "충청북도 제천시 청전동 108-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "화목슈퍼",
+      "address": "충청북도 제천시 청전동 507-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "대인슈퍼",
+      "address": "충청북도 제천시 청전동 497-46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "미미연쇄점",
+      "address": "충청북도 제천시 청전동 496",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "부녀슈퍼",
+      "address": "충청북도 제천시 모산동 262-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "심터휴게소",
+      "address": "충청북도 제천시 모산동 254",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "충청북도 제천시 청전동 588-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "청전종합슈퍼",
+      "address": "충청북도 제천시 청전동 448-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "에덴슈퍼",
+      "address": "충청북도 제천시 청전동 594-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "명일슈퍼",
+      "address": "충청북도 제천시 청전동 583-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "소세슈퍼",
+      "address": "충청북도 제천시 청전동 485-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "화순슈퍼",
+      "address": "충청북도 제천시 화산동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "원영슈퍼",
+      "address": "충청북도 제천시 화산동 3통2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "진영슈퍼",
+      "address": "충청북도 제천시 청전동 802",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "부녀회구판장",
+      "address": "충청북도 제천시 청풍면 북진리 286",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "부녀회구판장",
+      "address": "충청북도 제천시 청풍면 북진리 286",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "부녀회구판장",
+      "address": "충청북도 제천시 청풍면 북진리 286",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "부녀회구판장",
+      "address": "충청북도 제천시 청풍면 북진리 286",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "산곡동노인회",
+      "address": "충청북도 제천시 산곡동 12통3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "부녀회구판장",
+      "address": "충청북도 제천시 청풍면 북진리 286",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "수곡1리구판장",
+      "address": "충청북도 제천시 수산면 수곡리 193",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "수곡구판장",
+      "address": "충청북도 제천시 수산면 수곡리 354-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "문화생활관",
+      "address": "충청북도 제천시 수산면 대전리 174-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "대전2리구판장",
+      "address": "충청북도 제천시 수산면 대전리 80",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "상천리휴게소",
+      "address": "충청북도 제천시 수산면 상천리 720-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "용태상회",
+      "address": "충청북도 제천시 덕산면 신현리 1601",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "수산1리구판장",
+      "address": "충청북도 제천시 덕산면 수산리 644",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "수산2리구판장",
+      "address": "충청북도 제천시 덕산면 수산리 295-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "삼거리상회",
+      "address": "충청북도 제천시 덕산면 월악리 450",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "월악휴게소",
+      "address": "충청북도 제천시 덕산면 월악리 563-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "월악산채단지식당",
+      "address": "충청북도 제천시 덕산면 월악리 597",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "삼전리구판장",
+      "address": "충청북도 제천시 덕산면 도전리 1197",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "우리상회",
+      "address": "충청북도 제천시 덕산면 선고리 94-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "본동상회",
+      "address": "충청북도 제천시 덕산면 도기리 408",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "재태식품",
+      "address": "충청북도 제천시 덕산면 성암리 479-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "신현1구판장",
+      "address": "충청북도 제천시 덕산면 신현리 145",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "억수구판장",
+      "address": "충청북도 제천시 덕산면 월악리 216",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "월롱마을회",
+      "address": "충청북도 제천시 덕산면 도전리 715-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "선고마을회",
+      "address": "충청북도 제천시 덕산면 선고리 1323",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "부녀회구판장",
+      "address": "충청북도 제천시 청풍면 북진리 286",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "충청북도 제천시 강제동 15통3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "명인슈퍼",
+      "address": "충청북도 제천시 화산동 3통1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "동원상회",
+      "address": "충청북도 제천시 화산동 18통3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-07"
+    },
+    {
+      "name": "서민슈퍼",
+      "address": "충청북도 제천시 화산동 1통3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "부녀회구판장",
+      "address": "충청북도 제천시 청풍면 북진리 286",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "현진식품",
+      "address": "충청북도 제천시 화산동 208-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "낙원슈퍼",
+      "address": "충청북도 제천시 화산동 208-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "일광슈퍼",
+      "address": "충청북도 제천시 화산동 453",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "한강슈퍼",
+      "address": "충청북도 제천시 화산동 204-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정훈슈퍼",
+      "address": "충청북도 제천시 화산동 763",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "강남슈퍼",
+      "address": "충청북도 제천시 화산동 201-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "대림문구사",
+      "address": "충청북도 제천시 화산동 186-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "동선슈퍼",
+      "address": "충청북도 제천시 화산동 184-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "남일슈퍼",
+      "address": "충청북도 제천시 화산동 217-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "대창슈퍼",
+      "address": "충청북도 제천시 화산동 186-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "새보람슈퍼",
+      "address": "충청북도 제천시 화산동 202-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1991-03-07"
+    },
+    {
+      "name": "화산2동슈퍼",
+      "address": "충청북도 제천시 화산동 308",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "예천슈퍼",
+      "address": "충청북도 제천시 화산동 237-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "대농슈퍼",
+      "address": "충청북도 제천시 화산동 255-116",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동부컴퓨터세탁소",
+      "address": "충청북도 제천시 영천동 255-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "4989상회",
+      "address": "충청북도 제천시 영천동 255-82",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "진성슈퍼",
+      "address": "충청북도 제천시 영천동 2558",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "관사슈퍼",
+      "address": "충청북도 제천시 영천동 255-67",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "부녀회매점",
+      "address": "충청북도 제천시 천남동 70",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "경북슈퍼",
+      "address": "충청북도 제천시 백운면 평동리 225",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "신흥미니슈퍼",
+      "address": "충청북도 제천시 영천동 257-183",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "영동슈퍼",
+      "address": "충청북도 제천시 영천동 60",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "단양쌀상회",
+      "address": "충청북도 제천시 영천동 39-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "구멍가게",
+      "address": "충청북도 제천시 영천동 23-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "선고2구판장",
+      "address": "충청북도 제천시 덕산면 선고리 1467",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "구판장",
+      "address": "충청북도 제천시 백운면 화당리 338",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "느티나무가든",
+      "address": "충청북도 제천시 백운면 원월리 17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "약수터기사식당",
+      "address": "충청북도 제천시 백운면 원월리 756",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "개인",
+      "address": "충청북도 제천시 송학면 장곡리 34-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "번하상회",
+      "address": "충청북도 제천시 송학면 장곡리 268-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "무도2리슈퍼",
+      "address": "충청북도 제천시 송학면 무도리 681-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-29"
+    },
+    {
+      "name": "학현1리구판장",
+      "address": "충청북도 제천시 청풍면 학현리 347",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-02"
+    },
+    {
+      "name": "교리가든",
+      "address": "충청북도 제천시 청풍면 교리 30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-02"
+    },
+    {
+      "name": "학현슈퍼",
+      "address": "충청북도 제천시 청풍면 학현리 115-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-02"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-02"
+    },
+    {
+      "name": "학현2반구판장",
+      "address": "충청북도 제천시 청풍면 학현리 114",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-02"
+    },
+    {
+      "name": "부녀회구판장",
+      "address": "충청북도 제천시 청풍면 북진리 286",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-02"
+    },
+    {
+      "name": "대류리마을회구판장",
+      "address": "충청북도 제천시 청풍면 대류리 363",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-08"
+    },
+    {
+      "name": "비봉낚시",
+      "address": "충청북도 제천시 청풍면 광의리 258-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-08"
+    },
+    {
+      "name": "금곡마을회",
+      "address": "충청북도 제천시 덕산면 도전리 1713",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-17"
+    },
+    {
+      "name": "냇가민박",
+      "address": "충청북도 제천시 덕산면 도전리 1467",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-17"
+    },
+    {
+      "name": "광천민박",
+      "address": "충청북도 제천시 덕산면 월악리 445",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-17"
+    },
+    {
+      "name": "다락골담배집",
+      "address": "충청북도 제천시 덕산면 도기리 238",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-17"
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "충청북도 제천시 청전동 142-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "삼성상회",
+      "address": "충청북도 제천시 영천동 5-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "충청북도 제천시 영천동 702 16 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-07"
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "충청북도 제천시 고암동 504-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "용희슈퍼",
+      "address": "충청북도 제천시 장락동 336-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "민호슈퍼",
+      "address": "충청북도 제천시 장락동 819",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "금천슈퍼",
+      "address": "충청북도 제천시 교동 52-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "금성슈퍼",
+      "address": "충청북도 제천시 교동 79",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "번영슈퍼",
+      "address": "충청북도 제천시 백운면 평동리 229",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "대현하이마트",
+      "address": "충청북도 제천시 교동 90-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "진주네슈퍼",
+      "address": "충청북도 제천시 장락동 934",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "진성상회",
+      "address": "충청북도 제천시 중앙로1가 115-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "삼순농약사",
+      "address": "충청북도 제천시 중앙로1가 180",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "제천지업사",
+      "address": "충청북도 제천시 중앙로1가 40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "영창슈퍼",
+      "address": "충청북도 제천시 중앙로1가 159",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "대림지업사",
+      "address": "충청북도 제천시 중앙로2가 74-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "남천슈퍼",
+      "address": "충청북도 제천시 남천동 918",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-13"
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "충청북도 제천시 서부동 52-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "목동편의점",
+      "address": "충청북도 제천시 서부동 93-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "연희슈퍼",
+      "address": "충청북도 제천시 명동 250",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "풍원슈퍼",
+      "address": "충청북도 제천시 서부동 1081",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "경북슈퍼",
+      "address": "충청북도 제천시 백운면 평동리 225",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "충청북도 제천시 의림동 8-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "나눔의 집",
+      "address": "충청북도 제천시 의림동 126-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "호식슈퍼",
+      "address": "충청북도 제천시 의림동 51-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "까치문구사",
+      "address": "충청북도 제천시 신백동 180-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "충청북도 제천시 청전동 142-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "영일슈퍼",
+      "address": "충청북도 제천시 청전동 149-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "경북청과",
+      "address": "충청북도 제천시 청전동 137-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "예진슈퍼",
+      "address": "충청북도 제천시 청전동 152-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "백운상회",
+      "address": "충청북도 제천시 덕산면 도기리 368",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-17"
+    },
+    {
+      "name": "양주담배집",
+      "address": "충청북도 제천시 덕산면 도기리 796",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-17"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-26"
+    },
+    {
+      "name": "백운농업협동조합",
+      "address": "충청북도 제천시 백운면 평동리 223",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-26"
+    },
+    {
+      "name": "농민세상",
+      "address": "충청북도 제천시 청전동 940",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-12"
+    },
+    {
+      "name": "월드마트",
+      "address": "충청북도 제천시 장락동 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-24"
+    },
+    {
+      "name": "제천시화장장매점",
+      "address": "충청북도 제천시 송학면 포전리 594",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-05"
+    },
+    {
+      "name": "청풍나루휴게소",
+      "address": "충청북도 제천시 청풍면 읍리 51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-06"
+    },
+    {
+      "name": "새로미동부대리점",
+      "address": "충청북도 제천시 청전동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-08"
+    },
+    {
+      "name": "주공희영마트",
+      "address": "충청북도 제천시 장락동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-13"
+    },
+    {
+      "name": "월악산덕주휴게소",
+      "address": "충청북도 제천시 한수면 송계리 129",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-15"
+    },
+    {
+      "name": "물레방아휴게소",
+      "address": "충청북도 제천시 한수면 송계리 1012",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-15"
+    },
+    {
+      "name": "닷돈재휴게소",
+      "address": "충청북도 제천시 한수면 송계리 71",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-15"
+    },
+    {
+      "name": "명암낚시터",
+      "address": "충청북도 제천시 봉양읍 명도리 86",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-24"
+    },
+    {
+      "name": "중앙쇼핑",
+      "address": "충청북도 제천시 중앙로1가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-24"
+    },
+    {
+      "name": "하나식품",
+      "address": "충청북도 제천시 중앙로2가 77-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-24"
+    },
+    {
+      "name": "부강타운슈퍼",
+      "address": "충청북도 제천시 청전동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-27"
+    },
+    {
+      "name": "골뫼산장",
+      "address": "충청북도 제천시 한수면 송계리 1022",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-02"
+    },
+    {
+      "name": "월악산유스호스텔",
+      "address": "충청북도 제천시 한수면 탄지리 401",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-16"
+    },
+    {
+      "name": "제천농협공판장9",
+      "address": "충청북도 제천시 화산동 984",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-20"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "충청북도 제천시 동현동 327",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-20"
+    },
+    {
+      "name": "대림상회",
+      "address": "충청북도 제천시 덕산면 도전리 398",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-23"
+    },
+    {
+      "name": "알마트제천점",
+      "address": "충청북도 제천시 청전동 5-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-30"
+    },
+    {
+      "name": "현대야채",
+      "address": "충청북도 제천시 중앙로1가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-14"
+    },
+    {
+      "name": "협신상회",
+      "address": "충청북도 제천시 중앙로1가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-14"
+    },
+    {
+      "name": "성화슈퍼",
+      "address": "충청북도 제천시 중앙로2가 25-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-21"
+    },
+    {
+      "name": "신백마트",
+      "address": "충청북도 제천시 신백동 150-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-02"
+    },
+    {
+      "name": "한진슈퍼",
+      "address": "충청북도 제천시 화산동 346",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-04"
+    },
+    {
+      "name": "기능대매점",
+      "address": "충청북도 제천시 강제동 16-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-04"
+    },
+    {
+      "name": "형석슈퍼",
+      "address": "충청북도 제천시 청전동 485-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "덕일식품",
+      "address": "충청북도 제천시 의림동 8-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "무궁화슈퍼",
+      "address": "충청북도 제천시 화산동 906",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "영주슈퍼",
+      "address": "충청북도 제천시 화산동 208-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "삼성슈퍼",
+      "address": "충청북도 제천시 봉양읍 주포리 198-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "번영슈퍼",
+      "address": "충청북도 제천시 백운면 평동리 229",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "원주슈퍼",
+      "address": "충청북도 제천시 영천동 22-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-13"
+    },
+    {
+      "name": "부강APT관리소",
+      "address": "충청북도 제천시 고암동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "잉꼬슈퍼",
+      "address": "충청북도 제천시 교동 30-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "금융APT관리사무소",
+      "address": "충청북도 제천시 고암동 1129-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "부강타운관리사무소",
+      "address": "충청북도 제천시 장락동 851",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "부강맘모스베이커리",
+      "address": "충청북도 제천시 고암동 209",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "고암APT관리사무소",
+      "address": "충청북도 제천시 고암동 1250",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "명신쌀상회",
+      "address": "충청북도 제천시 고암동 1250",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "시대슈퍼",
+      "address": "충청북도 제천시 서부동 21-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼광슈퍼",
+      "address": "충청북도 제천시 명동 234",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "충북지업사",
+      "address": "충청북도 제천시 명동 5-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "은영편의점",
+      "address": "충청북도 제천시 서부동 93-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "북성문구",
+      "address": "충청북도 제천시 서부동 159-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "두진하이퍼",
+      "address": "충청북도 제천시 교동 1-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "하소주공슈퍼",
+      "address": "충청북도 제천시 하소동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "하소주공하이퍼",
+      "address": "충청북도 제천시 하소동 345",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "아파트슈퍼",
+      "address": "충청북도 제천시 동현동 239",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "세경슈퍼",
+      "address": "충청북도 제천시 동현동 63-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍성종합슈퍼",
+      "address": "충청북도 제천시 신백동 203-115",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "하나로쇼핑타운",
+      "address": "충청북도 제천시 청전동 33-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "현대마켓",
+      "address": "충청북도 제천시 청전동 326-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "주공슈퍼",
+      "address": "충청북도 제천시 청전동 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "중앙주공슈퍼",
+      "address": "충청북도 제천시 청전동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "은정슈퍼",
+      "address": "충청북도 제천시 청전동 142-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "복흥슈퍼",
+      "address": "충청북도 제천시 화산동 201-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-04"
+    },
+    {
+      "name": "(주)케이피마트",
+      "address": "충청북도 제천시 동현동 108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-06"
+    },
+    {
+      "name": "백운지업사",
+      "address": "충청북도 제천시 백운면 평동리 223-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-14"
+    },
+    {
+      "name": "정인슈퍼마켓",
+      "address": "충청북도 제천시 명동 245-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-17"
+    },
+    {
+      "name": "배론성지성물판매",
+      "address": "충청북도 제천시 봉양읍 구학리 640",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-18"
+    },
+    {
+      "name": "화당1리구판장",
+      "address": "충청북도 제천시 백운면 화당리 85-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "성일식품",
+      "address": "충청북도 제천시 명동 10-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-24"
+    },
+    {
+      "name": "Q마트",
+      "address": "충청북도 제천시 장락동 624-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-14"
+    },
+    {
+      "name": "선경마트",
+      "address": "충청북도 제천시 하소동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-19"
+    },
+    {
+      "name": "사철상회",
+      "address": "충청북도 제천시 화산동 208-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-06"
+    },
+    {
+      "name": "동방상회",
+      "address": "충청북도 제천시 중앙로1가 39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-07"
+    },
+    {
+      "name": "긍강배달슈퍼",
+      "address": "충청북도 제천시 화산동 208-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-25"
+    },
+    {
+      "name": "남제천농협청풍",
+      "address": "충청북도 제천시 청풍면 물태리 133-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-08"
+    },
+    {
+      "name": "솔밭상회",
+      "address": "충청북도 제천시 한수면 송계리 92-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-01"
+    },
+    {
+      "name": "애니타임",
+      "address": "충청북도 제천시 화산동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-01"
+    },
+    {
+      "name": "소망상회",
+      "address": "충청북도 제천시 청풍면 물태리 133-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-22"
+    },
+    {
+      "name": "로즈웰마트",
+      "address": "충청북도 제천시 신백동 209-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-29"
+    },
+    {
+      "name": "(주)홈마트신백점",
+      "address": "충청북도 제천시 신백동 184-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-04"
+    },
+    {
+      "name": "성내식당휴게소",
+      "address": "충청북도 제천시 금성면 성내리 329",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-27"
+    },
+    {
+      "name": "의림마트",
+      "address": "충청북도 제천시 모산동 52-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "당모루회관",
+      "address": "충청북도 제천시 고암동 280-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "크로바마트",
+      "address": "충청북도 제천시 청전동 636",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일신상회",
+      "address": "충청북도 제천시 청풍면 물태리 65",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제천상회",
+      "address": "충청북도 제천시 고암동 611-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유정마트",
+      "address": "충청북도 제천시 화산동 208-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오피스텔편의점",
+      "address": "충청북도 제천시 화산동 953",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나로 쇼핑타운",
+      "address": "충청북도 제천시 하소동 61-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선영 24시 편의점",
+      "address": "충청북도 제천시 청전동 85-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행복한코렉스마트",
+      "address": "충청북도 제천시 청전동 16-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성우슈퍼",
+      "address": "충청북도 제천시 하소동 203-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오성슈퍼",
+      "address": "충청북도 제천시 청전동 121-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "동양하이퍼",
+      "address": "충청북도 제천시 청전동 121-42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "충주곡물상회",
+      "address": "충청북도 제천시 청전동 138-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "청전슈퍼",
+      "address": "충청북도 제천시 청전동 152-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "아파트상가",
+      "address": "충청북도 제천시 청전동 4-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "혁이문구슈퍼",
+      "address": "충청북도 제천시 청전동 449-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "동일슈퍼",
+      "address": "충청북도 제천시 청전동 105-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "만민슈퍼",
+      "address": "충청북도 제천시 청전동 49-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "현대하이퍼마켓",
+      "address": "충청북도 제천시 동현동 28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "하나슈퍼",
+      "address": "충청북도 제천시 청전동 597-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "일산슈퍼",
+      "address": "충청북도 제천시 화산동 860",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "호림슈퍼",
+      "address": "충청북도 제천시 화산동 505",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대영슈퍼",
+      "address": "충청북도 제천시 화산동 596",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "무궁화APT관리사무소",
+      "address": "충청북도 제천시 화산동 945",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "운동장슈퍼",
+      "address": "충청북도 제천시 화산동 609",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "영천슈퍼",
+      "address": "충청북도 제천시 영천동 53-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "사거리상회",
+      "address": "충청북도 제천시 모산동 25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "금성농협연쇄점",
+      "address": "충청북도 제천시 금성면 구룡리 70",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "충청북도 제천시 송학면 시곡리 1168-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "대동상회",
+      "address": "충청북도 제천시 덕산면 도전리 396",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "대성상회",
+      "address": "충청북도 제천시 청풍면 물태리 133-76",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "여명상회",
+      "address": "충청북도 제천시 청풍면 물태리 133-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "일신상회",
+      "address": "충청북도 제천시 청풍면 물태리 65",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "호수식품",
+      "address": "충청북도 제천시 청풍면 물태리 133-47",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "북진슈퍼",
+      "address": "충청북도 제천시 청풍면 물태리 226-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "충청북도 제천시 수산면 수산리 599-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "꼭지상회",
+      "address": "충청북도 제천시 수산면 수산리 598",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "수산정류소",
+      "address": "충청북도 제천시 수산면 수산리 594-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "홍일상회",
+      "address": "충청북도 제천시 덕산면 도전리 431",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "하나로쇼핑고암점",
+      "address": "충청북도 제천시 고암동 1169-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세종마트",
+      "address": "충청북도 제천시 고암동 1168-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박달재광장휴게소",
+      "address": "충청북도 제천시 백운면 평동리 125",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "충청북도 제천시 의림동 216-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "크로바24시편의점",
+      "address": "충청북도 제천시 청전동 636",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "번영수퍼마켓",
+      "address": "충청북도 제천시 영천동 1102 7  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트제천세명점",
+      "address": "충청북도 제천시 모산동 105-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "축협중부지점판매장",
+      "address": "충청북도 제천시 남천동 1182",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일상회",
+      "address": "충청북도 제천시 서부동 399",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양지슈퍼",
+      "address": "충청북도 제천시 명동 184",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사거리상회",
+      "address": "충청북도 제천시 모산동 25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "충청북도 제천시 화산동 370",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "킴스마트",
+      "address": "충청북도 제천시 중앙로2가 21-21   1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청전하나로쇼핑타운",
+      "address": "충청북도 제천시 청전동 33-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "충청북도 제천시 영천동 702 16 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대동지업사",
+      "address": "충청북도 제천시 교동 98-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "충청북도 제천시 청전동 687-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "패밀리마트 청전두진점",
+      "address": "충청북도 제천시 청전동 174-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "벧엘마트",
+      "address": "충청북도 제천시 송학면 시곡리 1226-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "충청북도 제천시 의림동 8-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평화식품",
+      "address": "충청북도 제천시 장락동 943",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성잡화",
+      "address": "충청북도 제천시 영천동 5-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알파오메가제천점",
+      "address": "충청북도 제천시 중앙로1가 112-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동산판매소",
+      "address": "충청북도 제천시 중앙로2가 26-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부흥수퍼",
+      "address": "충청북도 제천시 신월동 512-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나로쇼핑타운명동점",
+      "address": "충청북도 제천시 의림동 50-1    머니풀빙딩 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농원식품",
+      "address": "충청북도 제천시 하소동 56-1    하소재래시장 A-101.102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "복권나라",
+      "address": "충청북도 제천시 중앙로1가 63",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데쇼핑(주) 롯데슈퍼청전점",
+      "address": "충청북도 제천시 청전동 165-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데쇼핑(주)롯데슈퍼장락점",
+      "address": "충청북도 제천시 장락동 632 롯데슈퍼센터장락점",
+      "roadAddress": "충청북도 제천시 청전대로 231, 롯데슈퍼센터장락점 (장락동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사라가편의점",
+      "address": "충청북도 제천시 송학면 도화리 932-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홈마트신백점",
+      "address": "충청북도 제천시 신백동 184-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔도슈퍼",
+      "address": "충청북도 제천시 덕산면 도전리 444",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "미도식품",
+      "address": "충청북도 제천시 덕산면 도전리 396",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "대흥상회",
+      "address": "충청북도 제천시 송학면 시곡리 544-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "중앙상회",
+      "address": "충청북도 제천시 봉양읍 주포리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "성환상회",
+      "address": "충청북도 제천시 덕산면 도전리 420",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "대동상회",
+      "address": "충청북도 제천시 덕산면 도전리 396",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "송계쌀상회",
+      "address": "충청북도 제천시 한수면 송계리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "충청북도 제천시 한수면 송계리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "월악슈퍼",
+      "address": "충청북도 제천시 한수면 송계리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "영봉주막",
+      "address": "충청북도 제천시 한수면 송계리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "초원슈퍼",
+      "address": "충청북도 제천시 백운면 평동리 232",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "백운슈퍼",
+      "address": "충청북도 제천시 백운면 평동리 225-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "영진사",
+      "address": "충청북도 제천시 백운면 평동리 592-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "화성상회",
+      "address": "충청북도 제천시 송학면 입석리 328",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "경로당",
+      "address": "충청북도 제천시 송학면 입석리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "미정식품",
+      "address": "충청북도 제천시 송학면 입석리 344-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "아세아식품",
+      "address": "충청북도 제천시 송학면 입석리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "은정식품",
+      "address": "충청북도 제천시 송학면 입석리 326-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "입석상회",
+      "address": "충청북도 제천시 송학면 입석리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "주천상회",
+      "address": "충청북도 제천시 송학면 입석리 326-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "사거리담배집",
+      "address": "충청북도 제천시 송학면 입석리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "9회말",
+      "address": "충청북도 제천시 송학면 입석리 552",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "청풍상회",
+      "address": "충청북도 제천시 송학면 입석리 639",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "대선슈퍼",
+      "address": "충청북도 제천시 송학면 입석리 643",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "다리슈퍼",
+      "address": "충청북도 제천시 송학면 입석리 571",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "코끼리슈퍼",
+      "address": "충청북도 제천시 송학면 입석리 340",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "부녀회슈퍼",
+      "address": "충청북도 제천시 청풍면 교리 239-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "덕산슈퍼",
+      "address": "충청북도 제천시 덕산면 도전리 443",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "백남빌라관리소",
+      "address": "충청북도 제천시 덕산면 도전리 803-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "충청북도 제천시 의림동 216-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나로쇼핑타운 고암점",
+      "address": "충청북도 제천시 고암동 1169-9    1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "희망슈퍼",
+      "address": "충청북도 제천시 명동 234",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세명24시편의점",
+      "address": "충청북도 제천시 장락동 642-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성산기업",
+      "address": "충청북도 제천시 명동 237-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉양농업협동조합",
+      "address": "충청북도 제천시 봉양읍 주포리 201",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쎄븐스토아편의점",
+      "address": "충청북도 제천시 의림동 20-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송촌식당",
+      "address": "충청북도 제천시 송학면 도화리 950",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금성식품",
+      "address": "충청북도 제천시 명동 160-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "나이스마트",
+      "address": "충청북도 제천시 장락동 1040",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선희슈퍼",
+      "address": "충청북도 제천시 영천동 440",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "푸름슈퍼",
+      "address": "충청북도 제천시 하소동 208-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "학현슈퍼",
+      "address": "충청북도 제천시 청풍면 학현리 115-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 제천 장락점",
+      "address": "충청북도 제천시 장락동 431-12   4층 건물중 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이 제천 장락점",
+      "address": "충청북도 제천시 장락동 433-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트(하소점)",
+      "address": "충청북도 제천시 하소동 361",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운진종합슈퍼",
+      "address": "충청북도 제천시 중앙로2가 109-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "24시 세명광장",
+      "address": "충청북도 제천시 모산동 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-28"
+    },
+    {
+      "name": "상천휴게소",
+      "address": "충청북도 제천시 수산면 상천리 722",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-02-09"
+    },
+    {
+      "name": "나래슈퍼",
+      "address": "충청북도 제천시 화산동 733",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-02-23"
+    },
+    {
+      "name": "쎄븐스토아편의점",
+      "address": "충청북도 제천시 의림동 20-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-02"
+    },
+    {
+      "name": "로드매니저 24시 편의점",
+      "address": "충청북도 제천시 청전동 821",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-24"
+    },
+    {
+      "name": "명동슈퍼",
+      "address": "충청북도 제천시 명동 6-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-04"
+    },
+    {
+      "name": "한국관슈퍼",
+      "address": "충청북도 제천시 한수면 송계리 766",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-11"
+    },
+    {
+      "name": "동원냉동",
+      "address": "충청북도 제천시 신백동 325-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-10"
+    },
+    {
+      "name": "남제천농협 덕산지소",
+      "address": "충청북도 제천시 덕산면 도전리 446",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-01"
+    },
+    {
+      "name": "수산2리 마을구판장",
+      "address": "충청북도 제천시 덕산면 수산리 295-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-30"
+    },
+    {
+      "name": "새의림슈퍼",
+      "address": "충청북도 제천시 서부동 181",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-06"
+    },
+    {
+      "name": "덕성상회",
+      "address": "충청북도 제천시 덕산면 성암리 501-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "송계주유소",
+      "address": "충청북도 제천시 한수면 송계리 731",
+      "roadAddress": "충청북도 제천시 한수면 미륵송계로 1609",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "신용슈퍼",
+      "address": "충청북도 제천시 백운면 평동리 200-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "번영슈퍼",
+      "address": "충청북도 제천시 백운면 평동리 229",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "경북슈퍼",
+      "address": "충청북도 제천시 백운면 평동리 225",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "신신슈퍼",
+      "address": "충청북도 제천시 백운면 평동리 215-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "충청북도 제천시 영천동 702 16 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "영창쌀상회",
+      "address": "충청북도 제천시 자작동 861",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "하나로쇼핑중앙점",
+      "address": "충청북도 제천시 남천동 361",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "서울고개슈퍼",
+      "address": "충청북도 제천시 남천동 858",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "경남슈퍼",
+      "address": "충청북도 제천시 남천동 627",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "남부슈퍼",
+      "address": "충청북도 제천시 서부동 136-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "모든슈퍼",
+      "address": "충청북도 제천시 서부동 138-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "명문편의점",
+      "address": "충청북도 제천시 명동 6-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "킴스마켓",
+      "address": "충청북도 제천시 명동 10-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "블랙슈퍼",
+      "address": "충청북도 제천시 서부동 111-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "충청북도 제천시 영천동 22-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "승유슈퍼",
+      "address": "충청북도 제천시 하소동 170-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "서울미니슈퍼",
+      "address": "충청북도 제천시 동현동 58-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "대호슈퍼",
+      "address": "충청북도 제천시 청전동 74-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "충청북도 제천시 송학면 시곡리 1168-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "비둘기슈퍼",
+      "address": "충청북도 제천시 청전동 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "보람슈퍼",
+      "address": "충청북도 제천시 청전동 325-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "천냥백화점",
+      "address": "충청북도 제천시 청전동 585-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "주공슈퍼",
+      "address": "충청북도 제천시 청전동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "성한슈퍼",
+      "address": "충청북도 제천시 청전동 481-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "사거리상회",
+      "address": "충청북도 제천시 모산동 25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "한잎식품",
+      "address": "충청북도 제천시 화산동 198-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "충청북도 제천시 금성면 구룡리 302",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "칠성슈퍼",
+      "address": "충청북도 제천시 화산동 100-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "만나유통",
+      "address": "충청북도 제천시 화산동 237-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "윤희슈퍼",
+      "address": "충청북도 제천시 영천동 254-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "동양슈퍼",
+      "address": "충청북도 제천시 영천동 174-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "은하슈퍼",
+      "address": "충청북도 제천시 영천동 255-138",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "대화슈퍼",
+      "address": "충청북도 제천시 영천동 255-260",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "대흥상회",
+      "address": "충청북도 제천시 송학면 시곡리 544-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-10"
+    },
+    {
+      "name": "삼성슈퍼",
+      "address": "충청북도 제천시 봉양읍 주포리 198-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-10"
+    },
+    {
+      "name": "중앙식품",
+      "address": "충청북도 제천시 두학동 987-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-10"
+    },
+    {
+      "name": "중앙상회",
+      "address": "충청북도 제천시 봉양읍 주포리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-10"
+    },
+    {
+      "name": "역전상회",
+      "address": "충청북도 제천시 봉양읍 장평리 776-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-10"
+    },
+    {
+      "name": "고개상회",
+      "address": "충청북도 제천시 봉양읍 장평리 868-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-10"
+    },
+    {
+      "name": "새마을부녀회",
+      "address": "충청북도 제천시 남천동 9-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-10"
+    },
+    {
+      "name": "부녀회구판장",
+      "address": "충청북도 제천시 청풍면 북진리 286",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-23"
+    },
+    {
+      "name": "부녀회구판장",
+      "address": "충청북도 제천시 청풍면 북진리 286",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-23"
+    },
+    {
+      "name": "도화고래상회",
+      "address": "충청북도 제천시 청풍면 도화리 134",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-23"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "충청북도 제천시 영천동 22-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-23"
+    },
+    {
+      "name": "사고마을구판장",
+      "address": "충청북도 제천시 금성면 사곡리 255",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "성내마을구판장",
+      "address": "충청북도 제천시 금성면 성내리 372",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "농협양화연쇄점",
+      "address": "충청북도 제천시 금성면 양화리 227-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "수산식품",
+      "address": "충청북도 제천시 수산면 수산리 598-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "용암상회",
+      "address": "충청북도 제천시 덕산면 신현리 594",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "산곡구판장",
+      "address": "충청북도 제천시 덕산면 신현리 636",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "성문슈퍼",
+      "address": "충청북도 제천시 한수면 송계리 596",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "평동2구 마을구판장",
+      "address": "충청북도 제천시 백운면 평동리 316",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "운학1리 마을구판장",
+      "address": "충청북도 제천시 백운면 운학리 76",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "방학2리 마을구판장",
+      "address": "충청북도 제천시 백운면 방학리 451-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "도곡2리 구판장",
+      "address": "충청북도 제천시 백운면 도곡리 628",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "방학1구 구판장",
+      "address": "충청북도 제천시 백운면 방학리 573",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "순흥상회",
+      "address": "충청북도 제천시 송학면 입석리 340-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "평복상회",
+      "address": "충청북도 제천시 송학면 입석리 640",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "새마을구판장",
+      "address": "충청북도 제천시 송학면 시곡리 606",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "대산쌀상회",
+      "address": "충청북도 제천시 송학면 입석리 645",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "새마을구판장",
+      "address": "충청북도 제천시 송학면 시곡리 606",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "원마루슈퍼",
+      "address": "충청북도 제천시 송학면 시곡리 936-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "충청북도 제천시 송학면 시곡리 1168-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "가나안상회",
+      "address": "충청북도 제천시 송학면 시곡리 1046-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "송학매점",
+      "address": "충청북도 제천시 송학면 시곡리 1037",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "마을부녀회구판장",
+      "address": "충청북도 제천시 송학면 시곡리 1072",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "마을구판장",
+      "address": "충청북도 제천시 백운면 애련리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "송학상회",
+      "address": "충청북도 제천시 송학면 무도리 280",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "경북상회",
+      "address": "충청북도 제천시 송학면 무도리 141-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "양만전부녀회구판장",
+      "address": "충청북도 제천시 송학면 무도리 421",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "태양드림마트",
+      "address": "충청북도 제천시 영천동 1116",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-29"
+    }
+  ]
+}

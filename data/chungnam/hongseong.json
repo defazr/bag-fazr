@@ -1,0 +1,1473 @@
+{
+  "region": "충청남도",
+  "regionSlug": "chungnam",
+  "district": "홍성군",
+  "districtSlug": "hongseong",
+  "updatedAt": "2026-03-26",
+  "totalCount": 209,
+  "stores": [
+    {
+      "name": "이마트24 내포에드가프라자점",
+      "address": "충청남도 홍성군 홍북읍 신경리 1369 내포신도시 경남아너스빌",
+      "roadAddress": "충청남도 홍성군 홍북읍 청사로 15, 108동 101호 (내포신도시 경남아너스빌)",
+      "status": "영업/정상",
+      "licenseDate": "2021-10-15"
+    },
+    {
+      "name": "아토푸줏간",
+      "address": "충청남도 홍성군 홍북읍 신경리 568 아토빌딩",
+      "roadAddress": "충청남도 홍성군 홍북읍 청사로150번길 19-13, 아토빌딩 1층",
+      "status": "영업/정상",
+      "licenseDate": "2022-05-04"
+    },
+    {
+      "name": "야옹아 멍멍해봐",
+      "address": "충청남도 홍성군 홍성읍 오관리 322-1",
+      "roadAddress": "충청남도 홍성군 홍성읍 조양로 174-2",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-02"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 126-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-16"
+    },
+    {
+      "name": "세거지 상점",
+      "address": "충청남도 홍성군 홍성읍 오관리 113-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-16"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 137",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-18"
+    },
+    {
+      "name": "호돌이 슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 687-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "홍성농업협동조합",
+      "address": "충청남도 홍성군 홍성읍 오관리 298-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-20"
+    },
+    {
+      "name": "홍주특산품판매장",
+      "address": "충청남도 홍성군 홍성읍 오관리 192",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-22"
+    },
+    {
+      "name": "아남슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 271-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-22"
+    },
+    {
+      "name": "복성상회",
+      "address": "충청남도 홍성군 홍성읍 오관리 6-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-22"
+    },
+    {
+      "name": "조양슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 113-102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "차부상회",
+      "address": "충청남도 홍성군 홍성읍 오관리 298-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오관슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 182-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-26"
+    },
+    {
+      "name": "동산슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 291-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-27"
+    },
+    {
+      "name": "작은시장슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 277-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-30"
+    },
+    {
+      "name": "엄마슈퍼마켓",
+      "address": "충청남도 홍성군 홍성읍 오관리 291-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-05"
+    },
+    {
+      "name": "충남슈퍼마켓",
+      "address": "충청남도 홍성군 홍성읍 오관리 399-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-05"
+    },
+    {
+      "name": "별이슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 203",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-07"
+    },
+    {
+      "name": "삼성슈퍼마켓",
+      "address": "충청남도 홍성군 홍성읍 오관리 875-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-09"
+    },
+    {
+      "name": "황금슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 435-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-11"
+    },
+    {
+      "name": "태화슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 403",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-16"
+    },
+    {
+      "name": "고려슈퍼마켓",
+      "address": "충청남도 홍성군 홍성읍 오관리 482-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "인송슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 499-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-17"
+    },
+    {
+      "name": "성심슈퍼마켓",
+      "address": "충청남도 홍성군 홍성읍 오관리 499-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-20"
+    },
+    {
+      "name": "공간슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 441-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-23"
+    },
+    {
+      "name": "덕성슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 495",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-24"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 610-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-27"
+    },
+    {
+      "name": "태성슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 585-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-03"
+    },
+    {
+      "name": "한미슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 613-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-06"
+    },
+    {
+      "name": "은성슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 622-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-10"
+    },
+    {
+      "name": "부흥슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 677-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-13"
+    },
+    {
+      "name": "홍주슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 788",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-13"
+    },
+    {
+      "name": "서문슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 737",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-19"
+    },
+    {
+      "name": "홍명슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 373-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "창훈슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 343-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-24"
+    },
+    {
+      "name": "은하아파트슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 333",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-24"
+    },
+    {
+      "name": "은하슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 352-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-24"
+    },
+    {
+      "name": "종합할일코너",
+      "address": "충청남도 홍성군 홍성읍 오관리 309-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-26"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 338-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-28"
+    },
+    {
+      "name": "진달래슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 464-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-26"
+    },
+    {
+      "name": "주부슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 477-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-29"
+    },
+    {
+      "name": "그린 훼미리D.C점",
+      "address": "충청남도 홍성군 홍성읍 오관리 464-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-30"
+    },
+    {
+      "name": "일신미니슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 457-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-30"
+    },
+    {
+      "name": "옛날 슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 481-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-31"
+    },
+    {
+      "name": "소라슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-31"
+    },
+    {
+      "name": "태영슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 559",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-04"
+    },
+    {
+      "name": "엄마슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 543-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-11"
+    },
+    {
+      "name": "대보슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 511-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-11"
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 537",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-12"
+    },
+    {
+      "name": "홍성슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 552-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-12"
+    },
+    {
+      "name": "선학슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 556",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-12"
+    },
+    {
+      "name": "무지개슈퍼",
+      "address": "충청남도 홍성군 홍성읍 대교리 454-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-16"
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "충청남도 홍성군 홍성읍 대교리 452",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-18"
+    },
+    {
+      "name": "대교슈퍼",
+      "address": "충청남도 홍성군 홍성읍 대교리 219-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-19"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "충청남도 홍성군 홍성읍 대교리 359",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-19"
+    },
+    {
+      "name": "의사동새마을구판장",
+      "address": "충청남도 홍성군 홍성읍 대교리 314",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-20"
+    },
+    {
+      "name": "대교슈퍼",
+      "address": "충청남도 홍성군 홍성읍 대교리 337-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-20"
+    },
+    {
+      "name": "큰시장슈퍼마켓",
+      "address": "충청남도 홍성군 홍성읍 대교리 402",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-20"
+    },
+    {
+      "name": "오복상회",
+      "address": "충청남도 홍성군 홍성읍 대교리 404-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-23"
+    },
+    {
+      "name": "롯데슈퍼",
+      "address": "충청남도 홍성군 홍성읍 대교리 393-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-23"
+    },
+    {
+      "name": "홍주공판장",
+      "address": "충청남도 홍성군 홍성읍 대교리 86",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-24"
+    },
+    {
+      "name": "삼양상회",
+      "address": "충청남도 홍성군 홍성읍 대교리 390-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "충청남도 홍성군 홍성읍 대교리 386-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-26"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "충청남도 홍성군 홍성읍 대교리 403-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-29"
+    },
+    {
+      "name": "옥암구판장",
+      "address": "충청남도 홍성군 홍성읍 옥암리 21-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-29"
+    },
+    {
+      "name": "에덴슈퍼",
+      "address": "충청남도 홍성군 홍성읍 옥암리 50-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-30"
+    },
+    {
+      "name": "우성슈퍼",
+      "address": "충청남도 홍성군 홍성읍 옥암리 1-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-30"
+    },
+    {
+      "name": "유미슈퍼",
+      "address": "충청남도 홍성군 홍성읍 옥암리 33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-30"
+    },
+    {
+      "name": "홍성슈퍼휴게소",
+      "address": "충청남도 홍성군 홍성읍 옥암리 371-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-24"
+    },
+    {
+      "name": "홍주상회",
+      "address": "충청남도 홍성군 홍성읍 옥암리 235-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-26"
+    },
+    {
+      "name": "주택연쇄점",
+      "address": "충청남도 홍성군 홍성읍 옥암리 270-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-26"
+    },
+    {
+      "name": "양지슈퍼",
+      "address": "충청남도 홍성군 홍성읍 옥암리 288-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-27"
+    },
+    {
+      "name": "태평상회",
+      "address": "충청남도 홍성군 홍성읍 소향리 320",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-29"
+    },
+    {
+      "name": "월계구판장",
+      "address": "충청남도 홍성군 홍성읍 월산리 1-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-30"
+    },
+    {
+      "name": "한나슈퍼",
+      "address": "충청남도 홍성군 홍성읍 남장리 385-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-30"
+    },
+    {
+      "name": "대광슈퍼",
+      "address": "충청남도 홍성군 홍성읍 남장리 355",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-02"
+    },
+    {
+      "name": "뉴마트",
+      "address": "충청남도 홍성군 홍성읍 남장리 362-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-06"
+    },
+    {
+      "name": "혜전슈퍼",
+      "address": "충청남도 홍성군 홍성읍 남장리 386-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-08"
+    },
+    {
+      "name": "남산연쇄점",
+      "address": "충청남도 홍성군 홍성읍 남장리 344-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-13"
+    },
+    {
+      "name": "동양슈퍼",
+      "address": "충청남도 홍성군 홍성읍 남장리 95-63",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-14"
+    },
+    {
+      "name": "조은슈퍼",
+      "address": "충청남도 홍성군 홍성읍 남장리 114",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-14"
+    },
+    {
+      "name": "성광슈퍼",
+      "address": "충청남도 홍성군 홍성읍 남장리 95-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-17"
+    },
+    {
+      "name": "하늘슈퍼, 청과",
+      "address": "충청남도 홍성군 홍성읍 남장리 106-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-19"
+    },
+    {
+      "name": "미성슈퍼마켓",
+      "address": "충청남도 홍성군 홍성읍 남장리 95-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-27"
+    },
+    {
+      "name": "역재상회",
+      "address": "충청남도 홍성군 홍성읍 고암리 760",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-28"
+    },
+    {
+      "name": "행운슈퍼",
+      "address": "충청남도 홍성군 홍성읍 고암리 640-62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-29"
+    },
+    {
+      "name": "마구형슈퍼",
+      "address": "충청남도 홍성군 홍성읍 고암리 652-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-31"
+    },
+    {
+      "name": "문화상회",
+      "address": "충청남도 홍성군 홍성읍 고암리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-08"
+    },
+    {
+      "name": "송강슈퍼",
+      "address": "충청남도 홍성군 홍성읍 고암리 632-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-12"
+    },
+    {
+      "name": "현대화연쇄점",
+      "address": "충청남도 홍성군 홍성읍 고암리 598-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-14"
+    },
+    {
+      "name": "한냉슈퍼",
+      "address": "충청남도 홍성군 홍성읍 고암리 633",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-19"
+    },
+    {
+      "name": "유림슈퍼",
+      "address": "충청남도 홍성군 홍성읍 고암리 556-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-21"
+    },
+    {
+      "name": "광우슈퍼",
+      "address": "충청남도 홍성군 홍성읍 고암리 420-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-26"
+    },
+    {
+      "name": "역전구판장",
+      "address": "충청남도 홍성군 홍성읍 고암리 607-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-29"
+    },
+    {
+      "name": "삼거리 슈퍼",
+      "address": "충청남도 홍성군 홍성읍 고암리 530",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-30"
+    },
+    {
+      "name": "갑진상회",
+      "address": "충청남도 홍성군 홍성읍 고암리 552-64",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-30"
+    },
+    {
+      "name": "대우슈퍼",
+      "address": "충청남도 홍성군 홍성읍 고암리 527",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-06"
+    },
+    {
+      "name": "그리고슈퍼",
+      "address": "충청남도 홍성군 홍성읍 고암리 524-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-07"
+    },
+    {
+      "name": "새마을구판장",
+      "address": "충청남도 홍성군 홍성읍 내법리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-10"
+    },
+    {
+      "name": "오일시장번영회",
+      "address": "충청남도 홍성군 홍성읍 대교리 393-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-16"
+    },
+    {
+      "name": "일성슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 397",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-19"
+    },
+    {
+      "name": "주부슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 264",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-22"
+    },
+    {
+      "name": "신중앙슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 783-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-23"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 378-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-24"
+    },
+    {
+      "name": "월산슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 745-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-26"
+    },
+    {
+      "name": "신천슈퍼",
+      "address": "충청남도 홍성군 홍성읍 대교리 466",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-29"
+    },
+    {
+      "name": "일흥슈퍼",
+      "address": "충청남도 홍성군 홍성읍 대교리 398",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-31"
+    },
+    {
+      "name": "남장슈퍼",
+      "address": "충청남도 홍성군 홍성읍 남장리 119-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-31"
+    },
+    {
+      "name": "예산상회",
+      "address": "충청남도 홍성군 홍성읍 고암리 419-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-02"
+    },
+    {
+      "name": "신진상회",
+      "address": "충청남도 홍성군 홍성읍 고암리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-02"
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 336-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-04"
+    },
+    {
+      "name": "삼거리부동산",
+      "address": "충청남도 홍성군 홍성읍 대교리 393-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-06"
+    },
+    {
+      "name": "광경슈퍼",
+      "address": "충청남도 홍성군 홍성읍 대교리 367-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-11"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "충청남도 홍성군 홍성읍 옥암리 57-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-11"
+    },
+    {
+      "name": "샛별문구",
+      "address": "충청남도 홍성군 홍성읍 고암리 645-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-16"
+    },
+    {
+      "name": "서산상회",
+      "address": "충청남도 홍성군 홍성읍 오관리 399",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-17"
+    },
+    {
+      "name": "솔내슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 537-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-18"
+    },
+    {
+      "name": "위마트",
+      "address": "충청남도 홍성군 홍성읍 오관리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-18"
+    },
+    {
+      "name": "고려병원매점",
+      "address": "충청남도 홍성군 홍성읍 오관리 487-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-21"
+    },
+    {
+      "name": "한선슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 443-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-22"
+    },
+    {
+      "name": "삼형제상회",
+      "address": "충청남도 홍성군 홍성읍 오관리 399",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수정목욕탕",
+      "address": "충청남도 홍성군 홍성읍 오관리 167-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-27"
+    },
+    {
+      "name": "학생문구",
+      "address": "충청남도 홍성군 홍성읍 오관리 551-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-09-07"
+    },
+    {
+      "name": "홍성지물포",
+      "address": "충청남도 홍성군 홍성읍 오관리 399",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-16"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-09-18"
+    },
+    {
+      "name": "대동상회",
+      "address": "충청남도 홍성군 홍성읍 오관리 390",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-09-22"
+    },
+    {
+      "name": "동화지물포",
+      "address": "충청남도 홍성군 홍성읍 오관리 309-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-09-27"
+    },
+    {
+      "name": "매일지물포",
+      "address": "충청남도 홍성군 홍성읍 오관리 221-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-09-30"
+    },
+    {
+      "name": "주일슈퍼",
+      "address": "충청남도 홍성군 홍성읍 대교리 396-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-09"
+    },
+    {
+      "name": "교동슈퍼",
+      "address": "충청남도 홍성군 홍성읍 대교리 424-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-09"
+    },
+    {
+      "name": "간동슈퍼",
+      "address": "충청남도 홍성군 홍성읍 대교리 337-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-11"
+    },
+    {
+      "name": "쉼터슈퍼",
+      "address": "충청남도 홍성군 홍성읍 옥암리 6-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-16"
+    },
+    {
+      "name": "혜전촌구판장",
+      "address": "충청남도 홍성군 홍성읍 남장리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-16"
+    },
+    {
+      "name": "양지상회",
+      "address": "충청남도 홍성군 홍성읍 고암리 420-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-19"
+    },
+    {
+      "name": "미주슈퍼",
+      "address": "충청남도 홍성군 홍성읍 고암리 570-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-21"
+    },
+    {
+      "name": "명장슈퍼",
+      "address": "충청남도 홍성군 홍성읍 고암리 607-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-21"
+    },
+    {
+      "name": "윤희지물포",
+      "address": "충청남도 홍성군 홍성읍 고암리 517-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-26"
+    },
+    {
+      "name": "(주)범양체인마구형연쇄점",
+      "address": "충청남도 홍성군 홍성읍 고암리 539-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-29"
+    },
+    {
+      "name": "연합식품",
+      "address": "충청남도 홍성군 홍성읍 오관리 399",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-29"
+    },
+    {
+      "name": "교문앞슈퍼",
+      "address": "충청남도 홍성군 홍성읍 소향리 55-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-06"
+    },
+    {
+      "name": "오관7구부녀회",
+      "address": "충청남도 홍성군 홍성읍 오관리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-09"
+    },
+    {
+      "name": "형제슈퍼문구",
+      "address": "충청남도 홍성군 홍성읍 고암리 537-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-11"
+    },
+    {
+      "name": "혜전대구내매점",
+      "address": "충청남도 홍성군 홍성읍 남장리 산 16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-17"
+    },
+    {
+      "name": "홍일상회",
+      "address": "충청남도 홍성군 홍성읍 오관리 399",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-26"
+    },
+    {
+      "name": "홍일사",
+      "address": "충청남도 홍성군 홍성읍 오관리 311-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-12-09"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "충청남도 홍성군 홍성읍 대교리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-12-16"
+    },
+    {
+      "name": "홍주슈퍼",
+      "address": "충청남도 홍성군 홍성읍 옥암리 8-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-12-18"
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "충청남도 홍성군 홍성읍 옥암리 221-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-12-19"
+    },
+    {
+      "name": "홍성의료원복지근로회",
+      "address": "충청남도 홍성군 홍성읍 고암리 572-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-12-21"
+    },
+    {
+      "name": "파사슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 42-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-12-22"
+    },
+    {
+      "name": "시민슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 325-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-12-27"
+    },
+    {
+      "name": "가람슈퍼",
+      "address": "충청남도 홍성군 홍성읍 남장리 112-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-12-29"
+    },
+    {
+      "name": "보령슈퍼",
+      "address": "충청남도 홍성군 홍성읍 대교리 403",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-17"
+    },
+    {
+      "name": "팡팡슈퍼",
+      "address": "충청남도 홍성군 홍성읍 옥암리 105-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-19"
+    },
+    {
+      "name": "명인슈퍼",
+      "address": "충청남도 홍성군 홍성읍 대교리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-02-10"
+    },
+    {
+      "name": "성우슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 551-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-02-20"
+    },
+    {
+      "name": "두리슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-17"
+    },
+    {
+      "name": "주경슈퍼",
+      "address": "충청남도 홍성군 홍성읍 남장리 113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-12"
+    },
+    {
+      "name": "홍익슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 용림주택 5동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-14"
+    },
+    {
+      "name": "그린마켓",
+      "address": "충청남도 홍성군 홍성읍 남장리 422-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-17"
+    },
+    {
+      "name": "신촌슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 762-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-27"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "충청남도 홍성군 홍성읍 고암리 532-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-26"
+    },
+    {
+      "name": "홍성축협",
+      "address": "충청남도 홍성군 홍성읍 오관리 218-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-11"
+    },
+    {
+      "name": "신촌청과",
+      "address": "충청남도 홍성군 홍성읍 오관리 687-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-22"
+    },
+    {
+      "name": "두희네슈퍼",
+      "address": "충청남도 홍성군 홍성읍 소향리 64-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-10"
+    },
+    {
+      "name": "하나로마트",
+      "address": "충청남도 홍성군 홍성읍 대교리 362-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-24"
+    },
+    {
+      "name": "동축포크직판장회관",
+      "address": "충청남도 홍성군 홍성읍 옥암리 1038",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-02"
+    },
+    {
+      "name": "진로베스토아3호점",
+      "address": "충청남도 홍성군 홍성읍 학계리 503",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-03"
+    },
+    {
+      "name": "현광뉴마트",
+      "address": "충청남도 홍성군 홍성읍 내법리 285-78",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-03"
+    },
+    {
+      "name": "청솔편의점",
+      "address": "충청남도 홍성군 홍성읍 남장리 452-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-03"
+    },
+    {
+      "name": "노마진마트",
+      "address": "충청남도 홍성군 홍성읍 옥암리 971",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-03"
+    },
+    {
+      "name": "경성슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 518",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-01"
+    },
+    {
+      "name": "햇님슈퍼",
+      "address": "충청남도 홍성군 홍성읍 학계리 268-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-31"
+    },
+    {
+      "name": "만복상회",
+      "address": "충청남도 홍성군 홍성읍 대교리 391-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-06"
+    },
+    {
+      "name": "뉴-빅마트",
+      "address": "충청남도 홍성군 홍성읍 오관리 856",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-09"
+    },
+    {
+      "name": "과일천국",
+      "address": "충청남도 홍성군 홍성읍 오관리 687-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-10"
+    },
+    {
+      "name": "재활용매장",
+      "address": "충청남도 홍성군 홍성읍 오관리 242",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-16"
+    },
+    {
+      "name": "69라지편의점",
+      "address": "충청남도 홍성군 홍성읍 학계리 508-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-12"
+    },
+    {
+      "name": "태평양마트",
+      "address": "충청남도 홍성군 홍성읍 오관리 128",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-06"
+    },
+    {
+      "name": "미니스톱홍성점",
+      "address": "충청남도 홍성군 홍성읍 오관리 285",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-21"
+    },
+    {
+      "name": "매일식품",
+      "address": "충청남도 홍성군 홍성읍 오관리 217-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-26"
+    },
+    {
+      "name": "짱구네 슈퍼",
+      "address": "충청남도 홍성군 홍성읍 남장리 106-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-27"
+    },
+    {
+      "name": "미니마트",
+      "address": "충청남도 홍성군 홍성읍 남장리 214-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-29"
+    },
+    {
+      "name": "송학마트",
+      "address": "충청남도 홍성군 홍성읍 학계리 320-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-14"
+    },
+    {
+      "name": "한솔유통마트",
+      "address": "충청남도 홍성군 홍성읍 대교리 659",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-19"
+    },
+    {
+      "name": "홍성한우축산물판매장",
+      "address": "충청남도 홍성군 홍성읍 오관리 113-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-27"
+    },
+    {
+      "name": "성창상회",
+      "address": "충청남도 홍성군 홍성읍 오관리 221-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-29"
+    },
+    {
+      "name": "성화슈퍼",
+      "address": "충청남도 홍성군 홍성읍 대교리 367-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-06"
+    },
+    {
+      "name": "동원청과식품",
+      "address": "충청남도 홍성군 홍성읍 오관리 705-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-20"
+    },
+    {
+      "name": "서울상회",
+      "address": "충청남도 홍성군 홍성읍 오관리 615",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-22"
+    },
+    {
+      "name": "삼형제슈퍼",
+      "address": "충청남도 홍성군 홍성읍 오관리 343-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-26"
+    },
+    {
+      "name": "정글슈퍼",
+      "address": "충청남도 홍성군 홍성읍 옥암리 270",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-29"
+    },
+    {
+      "name": "덕천슈퍼",
+      "address": "충청남도 홍성군 홍성읍 고암리 632-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-30"
+    },
+    {
+      "name": "(주)퀸마트",
+      "address": "충청남도 홍성군 홍성읍 남장리 108-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-22"
+    },
+    {
+      "name": "남장슈퍼",
+      "address": "충청남도 홍성군 홍성읍 남장리 119-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-06"
+    },
+    {
+      "name": "거기마트",
+      "address": "충청남도 홍성군 홍성읍 남장리 267",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-09"
+    },
+    {
+      "name": "경동상사",
+      "address": "충청남도 홍성군 홍성읍 오관리 705-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-17"
+    },
+    {
+      "name": "호장슈퍼",
+      "address": "충청남도 홍성군 홍성읍 남장리 279",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-17"
+    },
+    {
+      "name": "A마트",
+      "address": "충청남도 홍성군 홍성읍 고암리 652-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-11"
+    },
+    {
+      "name": "씨유 홍성갈산점",
+      "address": "충청남도 홍성군 갈산면 상촌리 241-2",
+      "roadAddress": "충청남도 홍성군 갈산면 갈산로 108",
+      "status": "영업/정상",
+      "licenseDate": "2015-01-02"
+    },
+    {
+      "name": "쿱스토어 홍성점",
+      "address": "충청남도 홍성군 홍성읍 오관리 577-1",
+      "roadAddress": "충청남도 홍성군 홍성읍 내포로 104",
+      "status": "영업/정상",
+      "licenseDate": "2015-01-05"
+    },
+    {
+      "name": "씨유 홍성하늘채점",
+      "address": "충청남도 홍성군 홍성읍 옥암리 245-3",
+      "roadAddress": "충청남도 홍성군 홍성읍 문화로 19",
+      "status": "영업/정상",
+      "licenseDate": "2015-01-13"
+    },
+    {
+      "name": "위드미 내포제나우스점",
+      "address": "충청남도 홍성군 홍북읍 신경리 893",
+      "roadAddress": "충청남도 홍성군 홍북면 충남대로 24",
+      "status": "영업/정상",
+      "licenseDate": "2015-01-28"
+    },
+    {
+      "name": "최윤영",
+      "address": "충청남도 홍성군 홍북읍 신경리 551",
+      "roadAddress": "충청남도 홍성군 홍북면 청사로174번길 17",
+      "status": "영업/정상",
+      "licenseDate": "2015-02-13"
+    },
+    {
+      "name": "GS25 혜점대점",
+      "address": "충청남도 홍성군 홍성읍 학계리 511-1",
+      "roadAddress": "충청남도 홍성군 홍성읍 대학길 63-35",
+      "status": "영업/정상",
+      "licenseDate": "2015-02-16"
+    },
+    {
+      "name": "굿마트 내포점",
+      "address": "충청남도 홍성군 홍북읍 신경리 928",
+      "roadAddress": "충청남도 홍성군 홍북면 신대로 33",
+      "status": "영업/정상",
+      "licenseDate": "2015-02-24"
+    },
+    {
+      "name": "세븐일레븐 혜전대정문점",
+      "address": "충청남도 홍성군 홍성읍 남장리 394-11",
+      "roadAddress": "충청남도 홍성군 홍성읍 대학길 21",
+      "status": "영업/정상",
+      "licenseDate": "2015-03-02"
+    },
+    {
+      "name": "김봉수",
+      "address": "충청남도 홍성군 홍북읍 신경리 568",
+      "roadAddress": "충청남도 홍성군 홍북면 청사로150번길 19-13",
+      "status": "영업/정상",
+      "licenseDate": "2015-03-02"
+    }
+  ]
+}

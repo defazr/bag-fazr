@@ -1,0 +1,58 @@
+{
+  "region": "인천광역시",
+  "regionSlug": "incheon",
+  "updatedAt": "2026-03-26",
+  "totalCount": 1123,
+  "districts": [
+    {
+      "district": "부평구",
+      "districtSlug": "bupyeong",
+      "count": 422
+    },
+    {
+      "district": "강화군",
+      "districtSlug": "ganghwa",
+      "count": 193
+    },
+    {
+      "district": "계양구",
+      "districtSlug": "gyeyang",
+      "count": 10
+    },
+    {
+      "district": "동구",
+      "districtSlug": "icdonggu",
+      "count": 0
+    },
+    {
+      "district": "중구",
+      "districtSlug": "icjunggu",
+      "count": 0
+    },
+    {
+      "district": "서구",
+      "districtSlug": "icseogu",
+      "count": 0
+    },
+    {
+      "district": "미추홀구",
+      "districtSlug": "michuhol",
+      "count": 87
+    },
+    {
+      "district": "남동구",
+      "districtSlug": "namdong",
+      "count": 2
+    },
+    {
+      "district": "옹진군",
+      "districtSlug": "ongjin",
+      "count": 77
+    },
+    {
+      "district": "연수구",
+      "districtSlug": "yeonsu",
+      "count": 332
+    }
+  ]
+}

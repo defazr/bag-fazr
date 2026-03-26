@@ -1,0 +1,3020 @@
+{
+  "region": "경기도",
+  "regionSlug": "gyeonggi",
+  "district": "오산시",
+  "districtSlug": "osan",
+  "updatedAt": "2026-03-26",
+  "totalCount": 430,
+  "stores": [
+    {
+      "name": "지에스(GS)25 동탄파크점",
+      "address": "경기도 오산시 오산동 923-2 운암 대동 황토방 아파트 108동 904호",
+      "roadAddress": "경기도 오산시 운암로 64, 108동 904호 (오산동, 운암 대동 황토방 아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2018-09-28"
+    },
+    {
+      "name": "지에스(GS)25 기산래미안",
+      "address": "경기도 오산시 원동 30 대원아파트",
+      "roadAddress": "경기도 오산시 부원로 67-6, 107동 702호 (원동, 대원아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2018-12-26"
+    },
+    {
+      "name": "씨유(CU) 기산SK뷰3차점",
+      "address": "경기도 오산시 오산동 856-13",
+      "roadAddress": "경기도 오산시 오산로 266-4 (오산동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-07-31"
+    },
+    {
+      "name": "행운슈퍼",
+      "address": "경기도 오산시 오산동 853-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "금황슈퍼",
+      "address": "경기도 오산시 오산동 845-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "중앙상회",
+      "address": "경기도 오산시 오산동 433-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "수정식품",
+      "address": "경기도 오산시 오산동 63-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "오산농협",
+      "address": "경기도 오산시 오산동 548-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "필성천막사",
+      "address": "경기도 오산시 오산동 843-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-04"
+    },
+    {
+      "name": "금성미니슈퍼",
+      "address": "경기도 오산시 오산동 449-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-04"
+    },
+    {
+      "name": "유신지업사",
+      "address": "경기도 오산시 오산동 843-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-04"
+    },
+    {
+      "name": "수원슈퍼",
+      "address": "경기도 오산시 오산동 837-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-04"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 오산시 오산동 850-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-02-02"
+    },
+    {
+      "name": "씨마트",
+      "address": "경기도 오산시 오산동 860-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-03"
+    },
+    {
+      "name": "배양개발슈퍼",
+      "address": "경기도 오산시 오산동 854-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-13"
+    },
+    {
+      "name": "성심상회",
+      "address": "경기도 오산시 오산동 867-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-15"
+    },
+    {
+      "name": "미진슈퍼",
+      "address": "경기도 오산시 오산동 291-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-09"
+    },
+    {
+      "name": "오산우체국",
+      "address": "경기도 오산시 오산동 870",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-25"
+    },
+    {
+      "name": "가마뫼슈퍼",
+      "address": "경기도 오산시 부산동 570-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-29"
+    },
+    {
+      "name": "그린마트",
+      "address": "경기도 오산시 오산동 409-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-12"
+    },
+    {
+      "name": "거북지업사",
+      "address": "경기도 오산시 오산동 440-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-19"
+    },
+    {
+      "name": "파란나라",
+      "address": "경기도 오산시 오산동 855-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-01"
+    },
+    {
+      "name": "신운암마트",
+      "address": "경기도 오산시 오산동 74-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-03"
+    },
+    {
+      "name": "케이마트365",
+      "address": "경기도 오산시 오산동 860-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-09"
+    },
+    {
+      "name": "영구마트",
+      "address": "경기도 오산시 오산동 473-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-11"
+    },
+    {
+      "name": "성호식품",
+      "address": "경기도 오산시 오산동 816-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-05"
+    },
+    {
+      "name": "만물상회",
+      "address": "경기도 오산시 오산동 837-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-20"
+    },
+    {
+      "name": "서울장례식장",
+      "address": "경기도 오산시 부산동 226",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-17"
+    },
+    {
+      "name": "운암마트",
+      "address": "경기도 오산시 부산동 운암택지주공1단지 가동 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-31"
+    },
+    {
+      "name": "소비자유통",
+      "address": "경기도 오산시 부산동 운암지구주공1단지 나동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-12"
+    },
+    {
+      "name": "현대그린마트",
+      "address": "경기도 오산시 오산동 운암택지현대상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-22"
+    },
+    {
+      "name": "주공도매유통",
+      "address": "경기도 오산시 부산동 779-1 주공3단지 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-27"
+    },
+    {
+      "name": "대동마트",
+      "address": "경기도 오산시 오산동 운암택지개발지구내 대동상가 108호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-27"
+    },
+    {
+      "name": "뉴마트",
+      "address": "경기도 오산시 부산동 779-1 주공3단지 상가 나동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-31"
+    },
+    {
+      "name": "훼미리마트 오산운암점",
+      "address": "경기도 오산시 오산동 925-12 거성프라자 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-10"
+    },
+    {
+      "name": "럭키할인마트",
+      "address": "경기도 오산시 부산동 779-1 운암주공3단지 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-10"
+    },
+    {
+      "name": "(주)월드할인마트",
+      "address": "경기도 오산시 오산동 854-1 한덕프라자 116호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-22"
+    },
+    {
+      "name": "노랑슈퍼",
+      "address": "경기도 오산시 부산동 489",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-30"
+    },
+    {
+      "name": "당말상회",
+      "address": "경기도 오산시 원동 674-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 오산시 원동 380-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "발안슈퍼",
+      "address": "경기도 오산시 원동 770-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "플러스원",
+      "address": "경기도 오산시 원동 762",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "진위슈퍼",
+      "address": "경기도 오산시 원동 776-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "미니스톱 오산역점",
+      "address": "경기도 오산시 원동 763-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "훼밀리마트",
+      "address": "경기도 오산시 원동 770-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-15"
+    },
+    {
+      "name": "방울슈퍼",
+      "address": "경기도 오산시 원동 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "88슈퍼",
+      "address": "경기도 오산시 원동 751-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "오성슈퍼",
+      "address": "경기도 오산시 원동 751-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "경기도 오산시 원동 785-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "경기도 오산시 원동 557",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "역전슈퍼",
+      "address": "경기도 오산시 원동 603-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "종합마트",
+      "address": "경기도 오산시 원동 771-1 오산종합시장내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-16"
+    },
+    {
+      "name": "종합상회",
+      "address": "경기도 오산시 원동 772-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "엘림슈퍼",
+      "address": "경기도 오산시 원동 787-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "용호슈퍼",
+      "address": "경기도 오산시 원동 752-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "금성슈퍼",
+      "address": "경기도 오산시 원동 759-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "진미슈퍼",
+      "address": "경기도 오산시 원동 774-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "제천상회",
+      "address": "경기도 오산시 원동 774-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "일진슈퍼",
+      "address": "경기도 오산시 원동 777-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "주공공판장",
+      "address": "경기도 오산시 원동 299-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "원리문구",
+      "address": "경기도 오산시 원동 775-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "오산농협역전지소",
+      "address": "경기도 오산시 오산동 880-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "역전식품",
+      "address": "경기도 오산시 오산동 878-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "신흥슈퍼",
+      "address": "경기도 오산시 오산동 883-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "오뚜기슈퍼",
+      "address": "경기도 오산시 원동 782-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "명미니슈퍼",
+      "address": "경기도 오산시 원동 552-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "신흥미니슈퍼",
+      "address": "경기도 오산시 원동 782-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "월서상회",
+      "address": "경기도 오산시 원동 568-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "경기도 오산시 원동 783-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "대구슈퍼",
+      "address": "경기도 오산시 원동 776-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "우리상회",
+      "address": "경기도 오산시 원동 750-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "프리모상회",
+      "address": "경기도 오산시 원동 786-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "충남상회",
+      "address": "경기도 오산시 원동 774-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "선경수출포장",
+      "address": "경기도 오산시 원동 762-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "역전식품",
+      "address": "경기도 오산시 원동 762-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "금성슈퍼",
+      "address": "경기도 오산시 원동 549-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "오산농협원동지점",
+      "address": "경기도 오산시 원동 374-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-04"
+    },
+    {
+      "name": "프리모매점",
+      "address": "경기도 오산시 원동 497-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-30"
+    },
+    {
+      "name": "고현구판장",
+      "address": "경기도 오산시 고현동 137-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "빌리지상회",
+      "address": "경기도 오산시 고현동 185-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "청호상회",
+      "address": "경기도 오산시 청호동 191-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "금성사원매점",
+      "address": "경기도 오산시 청호동 192-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경기도 오산시 갈곶동 459",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "갈곶상회",
+      "address": "경기도 오산시 갈곶동 61",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-03"
+    },
+    {
+      "name": "원영그랜드",
+      "address": "경기도 오산시 갈곶동 429-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-03"
+    },
+    {
+      "name": "에덴슈퍼",
+      "address": "경기도 오산시 갈곶동 425-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-04-04"
+    },
+    {
+      "name": "선호슈퍼",
+      "address": "경기도 오산시 갈곶동 461",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경기도 오산시 갈곶동 428",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "성민슈퍼",
+      "address": "경기도 오산시 원동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-10"
+    },
+    {
+      "name": "한주슈퍼",
+      "address": "경기도 오산시 원동 552-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-03"
+    },
+    {
+      "name": "새한주슈퍼",
+      "address": "경기도 오산시 원동 526-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-10"
+    },
+    {
+      "name": "태영슈퍼",
+      "address": "경기도 오산시 원동 380-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-15"
+    },
+    {
+      "name": "그린마트",
+      "address": "경기도 오산시 원동 청구아파트 지하상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-03"
+    },
+    {
+      "name": "태명슈퍼",
+      "address": "경기도 오산시 원동 551 태영아파트 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-13"
+    },
+    {
+      "name": "화성공판장",
+      "address": "경기도 오산시 원동 807 삼환동부아파트 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-12-17"
+    },
+    {
+      "name": "아트센스",
+      "address": "경기도 오산시 오산동 877-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-23"
+    },
+    {
+      "name": "현주슈퍼",
+      "address": "경기도 오산시 원동 877-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-28"
+    },
+    {
+      "name": "에이스마트",
+      "address": "경기도 오산시 오산동 880-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-20"
+    },
+    {
+      "name": "하윤슈퍼",
+      "address": "경기도 오산시 원동 778-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-01"
+    },
+    {
+      "name": "은진상회",
+      "address": "경기도 오산시 오산동 885-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-30"
+    },
+    {
+      "name": "한양종합유통",
+      "address": "경기도 오산시 원동 559-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-09"
+    },
+    {
+      "name": "원리슈퍼",
+      "address": "경기도 오산시 원동 380-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-22"
+    },
+    {
+      "name": "왕슈퍼",
+      "address": "경기도 오산시 원동 553-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-04"
+    },
+    {
+      "name": "청구슈퍼",
+      "address": "경기도 오산시 원동 805-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-12"
+    },
+    {
+      "name": "우림할인마트",
+      "address": "경기도 오산시 갈곶동 7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-02"
+    },
+    {
+      "name": "화남DC마트",
+      "address": "경기도 오산시 갈곶동 175",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-24"
+    },
+    {
+      "name": "우림문구",
+      "address": "경기도 오산시 갈곶동 산 7 우림아파트상가 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-08"
+    },
+    {
+      "name": "(주)장산유통",
+      "address": "경기도 오산시 갈곶동 192",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-17"
+    },
+    {
+      "name": "우방마트",
+      "address": "경기도 오산시 갈곶동 110-5 우방아파트 상가 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-09"
+    },
+    {
+      "name": "드림마트",
+      "address": "경기도 오산시 오산동 875-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-12"
+    },
+    {
+      "name": "경슈퍼",
+      "address": "경기도 오산시 갈곶동 216",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-14"
+    },
+    {
+      "name": "운암주공슈퍼",
+      "address": "경기도 오산시 원동 815-1 운암5단지 상가 나동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-04"
+    },
+    {
+      "name": "LG마트",
+      "address": "경기도 오산시 원동 815-4 운암5단지 상가 가동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-01"
+    },
+    {
+      "name": "운암제로마트",
+      "address": "경기도 오산시 원동 주공5단지내 가상가 지하1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-03"
+    },
+    {
+      "name": "영재슈퍼",
+      "address": "경기도 오산시 원동 380-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-10"
+    },
+    {
+      "name": "진마트",
+      "address": "경기도 오산시 원동 815-4 운암6단지 상가 104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-01"
+    },
+    {
+      "name": "주부마트",
+      "address": "경기도 오산시 원동 786-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-08"
+    },
+    {
+      "name": "LG전자복지관",
+      "address": "경기도 오산시 고현동 171-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-25"
+    },
+    {
+      "name": "영마트",
+      "address": "경기도 오산시 원동 784-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-23"
+    },
+    {
+      "name": "동아공판장",
+      "address": "경기도 오산시 원동 805-2 두산동아상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-03"
+    },
+    {
+      "name": "수성마트",
+      "address": "경기도 오산시 원동 806-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-30"
+    },
+    {
+      "name": "원동공판장",
+      "address": "경기도 오산시 원동 807 동부삼환아파트 상가 108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-11"
+    },
+    {
+      "name": "정동상회",
+      "address": "경기도 오산시 오산동 885-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-23"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경기도 오산시 원동 757-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-10"
+    },
+    {
+      "name": "동부할인마트",
+      "address": "경기도 오산시 갈곶동 220-16 동부아파트단지 지하상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-25"
+    },
+    {
+      "name": "주부슈퍼",
+      "address": "경기도 오산시 오산동 502-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-28"
+    },
+    {
+      "name": "오리종합마트",
+      "address": "경기도 오산시 오산동 611-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-22"
+    },
+    {
+      "name": "성희슈퍼",
+      "address": "경기도 오산시 오산동 508-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "남원슈퍼",
+      "address": "경기도 오산시 오산동 503-47",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "오산농협남촌지점",
+      "address": "경기도 오산시 오산동 841-3",
+      "roadAddress": "경기도 오산시 오산로289번길 2  (오산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "동문슈퍼",
+      "address": "경기도 오산시 오산동 605-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "용민슈퍼",
+      "address": "경기도 오산시 청학동 29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "노른자슈퍼",
+      "address": "경기도 오산시 청학동 32-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "경기도 오산시 청학동 196-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "형제상회",
+      "address": "경기도 오산시 청학동 201-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "세븐슈퍼",
+      "address": "경기도 오산시 청학동 69-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "종합슈퍼",
+      "address": "경기도 오산시 청학동 74-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "여진슈퍼",
+      "address": "경기도 오산시 오산동 522-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "성산슈퍼",
+      "address": "경기도 오산시 오산동 609-53",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "청학슈퍼",
+      "address": "경기도 오산시 청학동 41-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "뉴미광슈퍼",
+      "address": "경기도 오산시 청학동 46-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-04"
+    },
+    {
+      "name": "윤슈퍼",
+      "address": "경기도 오산시 오산동 609-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-04"
+    },
+    {
+      "name": "진영상회",
+      "address": "경기도 오산시 청학동 69-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-06"
+    },
+    {
+      "name": "남촌슈퍼",
+      "address": "경기도 오산시 오산동 502-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-06"
+    },
+    {
+      "name": "믿음슈퍼",
+      "address": "경기도 오산시 오산동 523-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-02-10"
+    },
+    {
+      "name": "우리상회",
+      "address": "경기도 오산시 오산동 503-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-02-10"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경기도 오산시 오산동 609-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-04"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 오산시 오산동 523-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-30"
+    },
+    {
+      "name": "공주슈퍼",
+      "address": "경기도 오산시 오산동 617-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-22"
+    },
+    {
+      "name": "엘림슈퍼",
+      "address": "경기도 오산시 청학동 29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-11"
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "경기도 오산시 궐동 24-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "선화미니슈퍼",
+      "address": "경기도 오산시 궐동 9-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "경일상회",
+      "address": "경기도 오산시 궐동 45-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "대신상회",
+      "address": "경기도 오산시 수청동 261",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "수청슈퍼",
+      "address": "경기도 오산시 수청동 518-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "전원미니슈퍼",
+      "address": "경기도 오산시 수청동 10-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "은계슈퍼",
+      "address": "경기도 오산시 은계동 43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "은계식품",
+      "address": "경기도 오산시 은계동 70",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "구판장",
+      "address": "경기도 오산시 은계동 451",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "유한슈퍼",
+      "address": "경기도 오산시 궐동 71-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "청도슈퍼",
+      "address": "경기도 오산시 궐동 38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "점흉슈퍼",
+      "address": "경기도 오산시 수청동 69-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "영산마트",
+      "address": "경기도 오산시 은계동 64-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-10"
+    },
+    {
+      "name": "화성슈퍼",
+      "address": "경기도 오산시 은계동 35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "한남하이퍼",
+      "address": "경기도 오산시 궐동 49-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "금암구판장",
+      "address": "경기도 오산시 금암동 156",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "삼익아파트",
+      "address": "경기도 오산시 수청동 15-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "현재슈퍼",
+      "address": "경기도 오산시 수청동 533",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "대우슈퍼",
+      "address": "경기도 오산시 수청동 533",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "석영문구",
+      "address": "경기도 오산시 수청동 585",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-30"
+    },
+    {
+      "name": "한남체인",
+      "address": "경기도 오산시 은계동 95",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "오산농협수청지점",
+      "address": "경기도 오산시 오산동 841-3",
+      "roadAddress": "경기도 오산시 오산로289번길 2  (오산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "형재슈퍼",
+      "address": "경기도 오산시 궐동 16-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "신장지물포",
+      "address": "경기도 오산시 궐동 34-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 오산시 수청동 416-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-18"
+    },
+    {
+      "name": "월드컵슈퍼",
+      "address": "경기도 오산시 은계동 95-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-02"
+    },
+    {
+      "name": "만나슈퍼",
+      "address": "경기도 오산시 수청동 11-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-14"
+    },
+    {
+      "name": "대우A노인회",
+      "address": "경기도 오산시 수청동 534",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-14"
+    },
+    {
+      "name": "무궁화A 관리소",
+      "address": "경기도 오산시 궐동 69-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-04"
+    },
+    {
+      "name": "동탄슈퍼",
+      "address": "경기도 오산시 수청동 520-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-04"
+    },
+    {
+      "name": "창훈슈퍼",
+      "address": "경기도 오산시 수청동 267-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-04"
+    },
+    {
+      "name": "광명슈퍼",
+      "address": "경기도 오산시 수청동 530-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-06"
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "경기도 오산시 궐동 44-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-06"
+    },
+    {
+      "name": "궐동공판장",
+      "address": "경기도 오산시 궐동 78-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-06"
+    },
+    {
+      "name": "코아슈퍼",
+      "address": "경기도 오산시 수청동 46-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-06"
+    },
+    {
+      "name": "현대마트",
+      "address": "경기도 오산시 은계동 91-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-24"
+    },
+    {
+      "name": "경인공판장",
+      "address": "경기도 오산시 수청동 522-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-16"
+    },
+    {
+      "name": "슬기네슈퍼",
+      "address": "경기도 오산시 은계동 29-2 대명빌라 B/101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-29"
+    },
+    {
+      "name": "대우공판장",
+      "address": "경기도 오산시 궐동 28-3 대우3차아파트 상가 1/103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-09"
+    },
+    {
+      "name": "민성마트",
+      "address": "경기도 오산시 궐동 45-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-02"
+    },
+    {
+      "name": "럭키마트",
+      "address": "경기도 오산시 수청동 532",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-12"
+    },
+    {
+      "name": "매홀슈퍼",
+      "address": "경기도 오산시 궐동 586",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-06"
+    },
+    {
+      "name": "한아름마트",
+      "address": "경기도 오산시 궐동 37-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-19"
+    },
+    {
+      "name": "똘이슈퍼",
+      "address": "경기도 오산시 수청동 518-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-03"
+    },
+    {
+      "name": "럭키할인마트",
+      "address": "경기도 오산시 은계동 33-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-03"
+    },
+    {
+      "name": "신바람식품",
+      "address": "경기도 오산시 수청동 15-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-16"
+    },
+    {
+      "name": "수청미니슈퍼",
+      "address": "경기도 오산시 수청동 278-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-09"
+    },
+    {
+      "name": "삼안주유소",
+      "address": "경기도 오산시 은계동 67-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-24"
+    },
+    {
+      "name": "지은마트",
+      "address": "경기도 오산시 궐동 46-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-28"
+    },
+    {
+      "name": "태영마트",
+      "address": "경기도 오산시 궐동 45-66",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-03"
+    },
+    {
+      "name": "(주)투마트",
+      "address": "경기도 오산시 은계동 7-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-13"
+    },
+    {
+      "name": "양산동구판장",
+      "address": "경기도 오산시 양산동 281-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-06"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경기도 오산시 양산동 434",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-06"
+    },
+    {
+      "name": "한신25시",
+      "address": "경기도 오산시 양산동 419",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-16"
+    },
+    {
+      "name": "오산농협세마대지소",
+      "address": "경기도 오산시 세교동 425-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-27"
+    },
+    {
+      "name": "벌음상회",
+      "address": "경기도 오산시 벌음동 188-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "태명슈퍼",
+      "address": "경기도 오산시 탑동 125",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "하이츠슈퍼",
+      "address": "경기도 오산시 탑동 99-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "부녀회장댁",
+      "address": "경기도 오산시 탑동 201-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "우리상회",
+      "address": "경기도 오산시 누읍동 480-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "경덕상회",
+      "address": "경기도 오산시 누읍동 422",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "가수동슈퍼",
+      "address": "경기도 오산시 가수동 142",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "한마음슈퍼",
+      "address": "경기도 오산시 가수동 175-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "오산문방구",
+      "address": "경기도 오산시 가수동 79",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "윤슈퍼",
+      "address": "경기도 오산시 가수동 112",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "오산슈퍼",
+      "address": "경기도 오산시 가수동 106-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-12"
+    },
+    {
+      "name": "미림상회",
+      "address": "경기도 오산시 탑동 5-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-02-23"
+    },
+    {
+      "name": "탑동슈퍼",
+      "address": "경기도 오산시 탑동 43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-02-23"
+    },
+    {
+      "name": "마포슈퍼",
+      "address": "경기도 오산시 가수동 95",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-06"
+    },
+    {
+      "name": "빌라식품",
+      "address": "경기도 오산시 가수동 101-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-06"
+    },
+    {
+      "name": "초평상회",
+      "address": "경기도 오산시 벌음동 180",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-06"
+    },
+    {
+      "name": "가수주공슈퍼",
+      "address": "경기도 오산시 가수동 106-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-27"
+    },
+    {
+      "name": "모범슈퍼",
+      "address": "경기도 오산시 서동 산 32-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-06"
+    },
+    {
+      "name": "신동아마트",
+      "address": "경기도 오산시 서동 125 신동아2차 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-22"
+    },
+    {
+      "name": "신동아유통",
+      "address": "경기도 오산시 서동 125-2 신동아1차 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-12-16"
+    },
+    {
+      "name": "신동아마트",
+      "address": "경기도 오산시 누읍동 580-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-03"
+    },
+    {
+      "name": "KOREA. K마트",
+      "address": "경기도 오산시 오산동 855-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-09"
+    },
+    {
+      "name": "철원상회",
+      "address": "경기도 오산시 원동 752-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-07"
+    },
+    {
+      "name": "대원마트",
+      "address": "경기도 오산시 원동 30 연합대원상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-26"
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "경기도 오산시 오산동 425-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오산농협운암지소",
+      "address": "경기도 오산시 원동 811-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유성전기",
+      "address": "경기도 오산시 갈곶동 110-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 오산역점",
+      "address": "경기도 오산시 오산동 881-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두타편의점",
+      "address": "경기도 오산시 청학동 8-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-07"
+    },
+    {
+      "name": "롯데미니슈퍼",
+      "address": "경기도 오산시 오산동 543-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-01"
+    },
+    {
+      "name": "그랜드마트",
+      "address": "경기도 오산시 오산동 540-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "짱마트",
+      "address": "경기도 오산시 궐동 583-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다농마트",
+      "address": "경기도 오산시 오산동 924-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-07"
+    },
+    {
+      "name": "(주)코리아세븐오산4호점",
+      "address": "경기도 오산시 오산동 925-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)코리아세븐오산3호점",
+      "address": "경기도 오산시 원동 788-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성청과",
+      "address": "경기도 오산시 원동 811-8    중앙시티월 1층 121호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "궐동슈퍼",
+      "address": "경기도 오산시 궐동 590-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 오산원동점",
+      "address": "경기도 오산시 원동 750-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트궐동점",
+      "address": "경기도 오산시 궐동 95B 1L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴고려마트",
+      "address": "경기도 오산시 수청동 46-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오뚜기 슈퍼",
+      "address": "경기도 오산시 원동 782-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "베스토아",
+      "address": "경기도 오산시 궐동 81블럭4롯트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리마트",
+      "address": "경기도 오산시 궐동 619-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "데일리마트",
+      "address": "경기도 오산시 오산동 537-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)코리아세븐",
+      "address": "경기도 오산시 원동 770-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "베스토아",
+      "address": "경기도 오산시 오산동 869-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "플러스마트",
+      "address": "경기도 오산시 궐동 31-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "K마트",
+      "address": "경기도 오산시 궐동 653-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대영마트",
+      "address": "경기도 오산시 누읍동 532",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "믿음마트",
+      "address": "경기도 오산시 오산동 532-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황금마트",
+      "address": "경기도 오산시 원동 776-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연호슈퍼",
+      "address": "경기도 오산시 원동 497-1    연호아파트 상가 2호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름공판장",
+      "address": "경기도 오산시 원동 807 두산동아@상가 101,102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청학공판장",
+      "address": "경기도 오산시 청학동 41-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "YES25",
+      "address": "경기도 오산시 오산동 859-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은계식품",
+      "address": "경기도 오산시 은계동 80-4    은계주공아파트상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트오산본점",
+      "address": "경기도 오산시 오산동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은계마트",
+      "address": "경기도 오산시 은계동 80-4 은계주공상가101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴마트",
+      "address": "경기도 오산시 부산동 779-4 운암주공3단지상가101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코아마트",
+      "address": "경기도 오산시 궐동 631-1 105블럭 1롯트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "SKY 마트",
+      "address": "경기도 오산시 궐동 694-7 44블럭 7롯트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원동 공판장",
+      "address": "경기도 오산시 원동 807 동부삼환상가 108,109호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사마트",
+      "address": "경기도 오산시 궐동 643-17  1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "k마트운암점",
+      "address": "경기도 오산시 오산동 114-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "lg25오산남촌점",
+      "address": "경기도 오산시 가수동 294-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마포슈퍼",
+      "address": "경기도 오산시 가수동 95",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대경마트",
+      "address": "경기도 오산시 오산동 925-8    대신증권빌딩 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우미할인마트",
+      "address": "경기도 오산시 수청동 우미아파트상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황귀연",
+      "address": "경기도 오산시 원동 782-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "궐동우남마트",
+      "address": "경기도 오산시 궐동 69-1 우남아파트상가105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트오산효림점",
+      "address": "경기도 오산시 원동 765-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우남할인마트",
+      "address": "경기도 오산시 궐동 616-1 우남아파트상가A-204호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우남럭키마트",
+      "address": "경기도 오산시 궐동 616-1 우남아파트상가 B-101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대E마트",
+      "address": "경기도 오산시 양산동 379-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "베스토아편의점",
+      "address": "경기도 오산시 오산동 409-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성모편의점",
+      "address": "경기도 오산시 오산동 872-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우미할인마트",
+      "address": "경기도 오산시 수청동 우미아파트상가101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)오산뉴월드마트",
+      "address": "경기도 오산시 궐동 640-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유한수퍼마켓",
+      "address": "경기도 오산시 궐동 71-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트오산갈곶점",
+      "address": "경기도 오산시 갈곶동 126-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG 25시 한신대점",
+      "address": "경기도 오산시 양산동 382-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 오산 궐동점",
+      "address": "경기도 오산시 궐동 672-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25 한신대점",
+      "address": "경기도 오산시 양산동 382-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키 할인 마트",
+      "address": "경기도 오산시 수청동 46-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세일쇼핑",
+      "address": "경기도 오산시 궐동 675-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱  오산대궐점",
+      "address": "경기도 오산시 궐동 701-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴원마트",
+      "address": "경기도 오산시 궐동 649-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "썬 마트",
+      "address": "경기도 오산시 궐동 680-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소비자유통",
+      "address": "경기도 오산시 부산동 778-1 운암주공 1단지 나상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 오산시 수청동 416-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공할인마트",
+      "address": "경기도 오산시 부산동 779-6    운암 3단지 주공아파트 상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "O.K 마트",
+      "address": "경기도 오산시 궐동 645-1    하나빌딩  102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "O.K 마트",
+      "address": "경기도 오산시 궐동 645-1    하나빌딩 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘지슈퍼",
+      "address": "경기도 오산시 원동 815-10   주공 5단지 주공상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)보광훼미리마트 궐동제일점",
+      "address": "경기도 오산시 궐동 618-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "공주슈퍼",
+      "address": "경기도 오산시 오산동 80-1    이화아파트  B-307",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 오산역점",
+      "address": "경기도 오산시 오산동 881-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "공주슈퍼",
+      "address": "경기도 오산시 오산동 617-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 오산대점",
+      "address": "경기도 오산시 청학동 29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가장슈퍼",
+      "address": "경기도 오산시 가장동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오렌지마트",
+      "address": "경기도 오산시 궐동 701-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일마트",
+      "address": "경기도 오산시 궐동 69-2    제일아파트상가 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "협동마트",
+      "address": "경기도 오산시 오산동 316-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25 오산운암점",
+      "address": "경기도 오산시 오산동 925-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "경기도 오산시 오산동 603-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "프렌드 24 마트",
+      "address": "경기도 오산시 궐동 704-1    1층상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "크로바유통",
+      "address": "경기도 오산시 궐동 618-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경일마트",
+      "address": "경기도 오산시 오산동 849-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대우할인마트",
+      "address": "경기도 오산시 원동 598 대우 푸르지오상가 109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "K-마트",
+      "address": "경기도 오산시 궐동 653-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아느칸마트",
+      "address": "경기도 오산시 원동 825 KS 건영아느칸빌 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)보광훼미리마트",
+      "address": "경기도 오산시 오산동 925-12   거성프라자 104-105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "짱마트",
+      "address": "경기도 오산시 궐동 583-1    대우아파트 제1상가동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대마트",
+      "address": "경기도 오산시 은계동 91-1    현대아파트상가  1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진아마트",
+      "address": "경기도 오산시 갈곶동 152-6    진아마트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월드패밀리마트",
+      "address": "경기도 오산시 오산동 882-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우미 할인마트",
+      "address": "경기도 오산시 수청동 569 우미아파트 단지내 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 오산 갈곶점",
+      "address": "경기도 오산시 갈곶동 126-8    1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하이플러스 마트",
+      "address": "경기도 오산시 수청동 558-9    하이플러스 마트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS 25 오산하나",
+      "address": "경기도 오산시 궐동 645-1    하나빌딩 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리할인마트",
+      "address": "경기도 오산시 수청동 569 우미아파트 단지내 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 오산대점",
+      "address": "경기도 오산시 청학동 29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국유통(오산점)",
+      "address": "경기도 오산시 갈곶동 192 한국유통(오산점)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대호슈퍼잡화",
+      "address": "경기도 오산시 궐동 669-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월드패밀리마트",
+      "address": "경기도 오산시 오산동 882-4    월드패밀리마트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대우할인마트",
+      "address": "경기도 오산시 원동 598 대우 푸루지오APT 상가 109호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이마트오산점",
+      "address": "경기도 오산시 원동 360-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동부공판장",
+      "address": "경기도 오산시 갈곶동 220-14   동부아파트 상가 지층106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "G-마트",
+      "address": "경기도 오산시 오산동 922-4    주공4단지 아파트 단지내 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대창포장상사",
+      "address": "경기도 오산시 원동 781-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "늘푸른마트",
+      "address": "경기도 오산시 가수동 389 늘푸른아파트 단지 내 상가 106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "플러스마트",
+      "address": "경기도 오산시 궐동 674-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25오산타운",
+      "address": "경기도 오산시 궐동 611-6    상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "애플마트",
+      "address": "경기도 오산시 궐동 676-4    샤인빌",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운암마트",
+      "address": "경기도 오산시 은계동 7-101  101통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키할인마트",
+      "address": "경기도 오산시 부산동 779-6    주공 3단지내 상가 1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 오산운암점",
+      "address": "경기도 오산시 오산동 925-12   거성프라자 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS 25 오산중앙점",
+      "address": "경기도 오산시 궐동 698-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG마트",
+      "address": "경기도 오산시 원동 815-4 운암5단지 상가 가동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그랜드마트",
+      "address": "경기도 오산시 궐동 698-5    우성프라자 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운암제로마트",
+      "address": "경기도 오산시 원동 815-10   운암5단지내 상가 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리할인마트",
+      "address": "경기도 오산시 오산동 855-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "웰빙마트",
+      "address": "경기도 오산시 서동 10-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유신지물포",
+      "address": "경기도 오산시 오산동 839-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우미할인마트",
+      "address": "경기도 오산시 수청동 569 우미아파트 단지내 상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이지마트",
+      "address": "경기도 오산시 궐동 704-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴마트",
+      "address": "경기도 오산시 부산동 779-4    운암주공3단지내 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25 오산궐동",
+      "address": "경기도 오산시 궐동 647-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마트라",
+      "address": "경기도 오산시 원동 813-5    중앙씨티월 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 궐동청학점",
+      "address": "경기도 오산시 궐동 707-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키할인마트",
+      "address": "경기도 오산시 은계동 33-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세마대마트",
+      "address": "경기도 오산시 지곶동 296-1    세마대마트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25 오산운암점",
+      "address": "경기도 오산시 오산동 925-5    월드타운 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25 오산운암점",
+      "address": "경기도 오산시 오산동 925-5 월드타운 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "S-마트",
+      "address": "경기도 오산시 궐동 649-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "G마트",
+      "address": "경기도 오산시 궐동 630-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "케이마트",
+      "address": "경기도 오산시 궐동 693-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 궐동행복점",
+      "address": "경기도 오산시 궐동 657-1    훼미리마트 궐동행복점",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 오산효림점",
+      "address": "경기도 오산시 원동 765-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25 오산대역",
+      "address": "경기도 오산시 내삼미동 861-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우림할인마트",
+      "address": "경기도 오산시 갈곶동 251 우림상가B01호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경기도 오산시 갈곶동 215-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘지마트",
+      "address": "경기도 오산시 궐동 644-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운암주공슈퍼",
+      "address": "경기도 오산시 수청동 569 우미이노스빌 103동 1006호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS 25 한신대점",
+      "address": "경기도 오산시 양산동 382-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "혜성마트",
+      "address": "경기도 오산시 궐동 45-68",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 오산신한점",
+      "address": "경기도 오산시 원동 360-17   신한프라자  A동 106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "필마트",
+      "address": "경기도 오산시 궐동 669-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대우할인마트",
+      "address": "경기도 오산시 원동 826-2    오산원동 푸루지오 상가  109동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농민유통",
+      "address": "경기도 오산시 오산동 268",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 궐동성운점",
+      "address": "경기도 오산시 궐동 677-2    상가 1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신주공할인마트",
+      "address": "경기도 오산시 오산동 920-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "나도편의점",
+      "address": "경기도 오산시 오산동 856-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오산시시설관리공단",
+      "address": "경기도 오산시 오산동 34-5",
+      "roadAddress": "경기도 오산시 경기동로 51 (오산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명마트",
+      "address": "경기도 오산시 원동 751-56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문화철물",
+      "address": "경기도 오산시 오산동 843-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하이플러스 마트",
+      "address": "경기도 오산시 궐동 619-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "Mart 24",
+      "address": "경기도 오산시 원동 346-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해태마트",
+      "address": "경기도 오산시 고현동 23-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진로마트 DC  아울렛",
+      "address": "경기도 오산시 궐동 632-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 오산역점",
+      "address": "경기도 오산시 오산동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 오산대림점",
+      "address": "경기도 오산시 원동 345-12   훼미리마트 오산대림점",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴 그린마트",
+      "address": "경기도 오산시 궐동 666-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "I.G.A 편의점",
+      "address": "경기도 오산시 청학동 12-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대림할인마트",
+      "address": "경기도 오산시 원동 900 대림아파트 2단지 상가 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주부슈퍼",
+      "address": "경기도 오산시 오산동 502-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이 오산원동 대림점",
+      "address": "경기도 오산시 원동 404-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종합슈퍼",
+      "address": "경기도 오산시 오산동 69-2",
+      "roadAddress": "경기도 오산시 경기대로339번길 16 (오산동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "협동슈퍼",
+      "address": "경기도 오산시 오산동 316",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "미진슈퍼",
+      "address": "경기도 오산시 오산동 291-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "은하슈퍼",
+      "address": "경기도 오산시 오산동 836-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "화성슈퍼",
+      "address": "경기도 오산시 오산동 430",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "경기도 오산시 오산동 326-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "만복상회",
+      "address": "경기도 오산시 오산동 350",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "할머니슈퍼",
+      "address": "경기도 오산시 오산동 415",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "경기슈퍼",
+      "address": "경기도 오산시 오산동 406-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "신일슈퍼",
+      "address": "경기도 오산시 오산동 842-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "동신슈퍼",
+      "address": "경기도 오산시 오산동 857-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 오산시 오산동 854-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "어머니구판장",
+      "address": "경기도 오산시 오산동 860-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "성원슈퍼",
+      "address": "경기도 오산시 오산동 861-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "평화미니슈퍼",
+      "address": "경기도 오산시 오산동 869-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "무지개슈퍼",
+      "address": "경기도 오산시 오산동 849",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "신용상사",
+      "address": "경기도 오산시 오산동 848-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "부흥슈퍼",
+      "address": "경기도 오산시 오산동 55-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "희망슈퍼",
+      "address": "경기도 오산시 오산동 74-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "부산동슈퍼",
+      "address": "경기도 오산시 부산동 570",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "놀이터가게",
+      "address": "경기도 오산시 오산동 273-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-02"
+    },
+    {
+      "name": "영일포장상사",
+      "address": "경기도 오산시 오산동 854-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "금강슈퍼",
+      "address": "경기도 오산시 오산동 440",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "대성상회",
+      "address": "경기도 오산시 오산동 854-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "씨에스유통(주) 롯데슈퍼 태백점",
+      "address": "경기도 오산시 오산동 736",
+      "roadAddress": "경기도 오산시 오산로 149 (오산동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-03-21"
+    },
+    {
+      "name": "경기종합건설(주)",
+      "address": "경기도 오산시 원동 495",
+      "roadAddress": "경기도 오산시 경기대로 108  (원동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)대명유통 진로마트",
+      "address": "경기도 오산시 양산동 세마e편한세상 119동 1102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2015-05-26"
+    },
+    {
+      "name": "지에스더프레시 서동탄더샵점",
+      "address": "경기도 오산시 외삼미동 14-4",
+      "roadAddress": "경기도 오산시 문시로 183-4, 104~108호 (외삼미동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-16"
+    },
+    {
+      "name": "(주)농수산물공판장(오산점)",
+      "address": "경기도 오산시 외삼미동 194-3",
+      "roadAddress": "경기도 오산시 외삼미로91번길 5 (외삼미동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-08-14"
+    },
+    {
+      "name": "주식회사 세교농민마트",
+      "address": "경기도 오산시 세교동 173-1",
+      "roadAddress": "경기도 오산시 경기대로 868-6, 1층 (세교동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-07"
+    },
+    {
+      "name": "(주)배방유통 동탄식자재마트",
+      "address": "경기도 오산시 외삼미동 119-7",
+      "roadAddress": "경기도 오산시 외삼미로 162-54 (외삼미동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-02-28"
+    },
+    {
+      "name": "(주)월드식자재마트 오산점",
+      "address": "경기도 오산시 가장동 318-1",
+      "roadAddress": "경기도 오산시 가장로 603 (가장동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-10-16"
+    },
+    {
+      "name": "한살림경기서남부 동탄매장",
+      "address": "",
+      "roadAddress": "경기도 오산시 경기대로 108, 301호 (원동, 한빛프라자)",
+      "status": "영업/정상",
+      "licenseDate": "2013-08-29"
+    },
+    {
+      "name": "세븐일레븐 병점주공4단지명",
+      "address": "경기도 오산시 궐동 635-1 성신빌",
+      "roadAddress": "경기도 오산시 궐리사로59번길 25-2, 103호 (궐동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-01-10"
+    },
+    {
+      "name": "한살림경기서남부 병점매장",
+      "address": "",
+      "roadAddress": "경기도 오산시 경기대로 108, 301호 (원동, 한빛프라자)",
+      "status": "영업/정상",
+      "licenseDate": "2013-08-29"
+    },
+    {
+      "name": "식자재왕도매마트 오산점",
+      "address": "경기도 오산시 오산동 731-2",
+      "roadAddress": "경기도 오산시 오산로 153, 식자재왕도매마트 오산점 (오산동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-05-09"
+    },
+    {
+      "name": "롯데쇼핑(주) 롯데마트 오산점",
+      "address": "경기도 오산시 오산동 868 롯데마트오산점",
+      "roadAddress": "경기도 오산시 경기대로 271, 롯데마트오산점 (오산동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-01"
+    },
+    {
+      "name": "주식회사 다드림마트",
+      "address": "경기도 오산시 부산동 163-1 (주)제우스",
+      "roadAddress": "경기도 오산시 경기동로 161-6 (주)제우스 (부산동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-22"
+    }
+  ]
+}

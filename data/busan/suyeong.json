@@ -1,0 +1,3790 @@
+{
+  "region": "부산광역시",
+  "regionSlug": "busan",
+  "district": "수영구",
+  "districtSlug": "suyeong",
+  "updatedAt": "2026-03-26",
+  "totalCount": 540,
+  "stores": [
+    {
+      "name": "퀸마트",
+      "address": "부산광역시 수영구 수영동 436-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서원탑훼밀리마트",
+      "address": "부산광역시 수영구 민락동 164-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트광안아이빌점",
+      "address": "부산광역시 수영구 광안동 193-8    대우아이빌O/T 107-108호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대흥제이유슈퍼",
+      "address": "부산광역시 수영구 광안동 184-1    승우맨션 가동 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "부산광역시 수영구 망미동 272-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미화당2슈퍼",
+      "address": "부산광역시 수영구 망미동 265-15   14 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성상회",
+      "address": "부산광역시 수영구 망미동 166",
+      "roadAddress": "부산광역시 수영구 망미번영로110번길 79  (망미동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세일마트",
+      "address": "부산광역시 수영구 망미동 253-12   1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원바이원 광안점",
+      "address": "부산광역시 수영구 광안동 200-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진영",
+      "address": "부산광역시 수영구 수영동 286-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물상회",
+      "address": "부산광역시 수영구 광안동 1037-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "파크식품",
+      "address": "부산광역시 수영구 광안동 1254 광안파트1차 상가동 8호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 민락해변점",
+      "address": "부산광역시 수영구 민락동 176-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한라할인마트",
+      "address": "부산광역시 수영구 광안동 151-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "푸른마트",
+      "address": "부산광역시 수영구 광안동 505-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한라할인마트",
+      "address": "부산광역시 수영구 광안동 151-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한라슈퍼",
+      "address": "부산광역시 수영구 광안동 151-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐 수변공원점",
+      "address": "부산광역시 수영구 민락동 110-41   1F",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "효성슈퍼",
+      "address": "부산광역시 수영구 수영동 293",
+      "roadAddress": "부산광역시 수영구 망미번영로70번길 149  (수영동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "왜화편의점",
+      "address": "부산광역시 수영구 광안동 187-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 민락태양점",
+      "address": "부산광역시 수영구 민락동 113-23   진로비치상가 에이동 101,103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐 광안SK",
+      "address": "부산광역시 수영구 광안동 473-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미진슈퍼",
+      "address": "부산광역시 수영구 광안동 1025-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대한잡화",
+      "address": "부산광역시 수영구 광안동 1057-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원플러스마트",
+      "address": "부산광역시 수영구 남천동 48-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "축협마트",
+      "address": "부산광역시 수영구 남천동 31-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부일슈퍼",
+      "address": "부산광역시 수영구 광안동 109-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "IGA마트(남천점)",
+      "address": "부산광역시 수영구 남천동 217-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "길정하이마트",
+      "address": "부산광역시 수영구 광안동 138-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼정그린마트",
+      "address": "부산광역시 수영구 광안동 172-21   삼정그린코아 101,102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "파워-i",
+      "address": "부산광역시 수영구 광안동 1077-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광남슈퍼",
+      "address": "부산광역시 수영구 남천동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-17"
+    },
+    {
+      "name": "옥성식품",
+      "address": "부산광역시 수영구 남천동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-17"
+    },
+    {
+      "name": "세윤슈퍼",
+      "address": "부산광역시 수영구 남천동 47-1    16 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-16"
+    },
+    {
+      "name": "(주)한양수퍼",
+      "address": "부산광역시 수영구 남천동 148-9    11 통1  반 삼익슈핑에이상가 108동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-19"
+    },
+    {
+      "name": "삼익타워슈퍼",
+      "address": "부산광역시 수영구 남천동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-22"
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "부산광역시 수영구 남천동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-30"
+    },
+    {
+      "name": "협진태양관리사무소",
+      "address": "부산광역시 수영구 남천동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-21"
+    },
+    {
+      "name": "썬지하슈퍼",
+      "address": "부산광역시 수영구 남천동 7-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-17"
+    },
+    {
+      "name": "(주)코리아세븐남천5호점",
+      "address": "부산광역시 수영구 남천동 3-5    2  통1  반 협진태양 4동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대할인마트",
+      "address": "부산광역시 수영구 수영동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-02"
+    },
+    {
+      "name": "세일세일할인마트",
+      "address": "부산광역시 수영구 망미동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-29"
+    },
+    {
+      "name": "백조슈퍼",
+      "address": "부산광역시 수영구 망미동 433-27   42 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조은마트",
+      "address": "부산광역시 수영구 광안동 185-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "배산슈퍼",
+      "address": "부산광역시 수영구 망미동 454-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세일마트 광안점",
+      "address": "부산광역시 수영구 광안동 188-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)코리아세븐남천1호점",
+      "address": "부산광역시 수영구 남천동 556-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-02-01"
+    },
+    {
+      "name": "왜화편의점",
+      "address": "부산광역시 수영구 광안동 187-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "푸른마트",
+      "address": "부산광역시 수영구 광안동 505-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "탑세일마트",
+      "address": "부산광역시 수영구 광안동 738-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대한잡화",
+      "address": "부산광역시 수영구 광안동 1057-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "JC할인마트(남천점)",
+      "address": "부산광역시 수영구 남천동 31-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "근대화슈퍼",
+      "address": "부산광역시 수영구 수영동 497-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25 민락진로점",
+      "address": "부산광역시 수영구 민락동 113-21   진로아파트2단지 상가동 101,106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "참마트",
+      "address": "부산광역시 수영구 남천동 17-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원마트",
+      "address": "부산광역시 수영구 광안동 742-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "애니타임",
+      "address": "부산광역시 수영구 수영동 503 센텀월드 O/T 1층 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "탑훼밀리마트망미점",
+      "address": "부산광역시 수영구 망미동 937-105  1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충북상회",
+      "address": "부산광역시 수영구 망미동 418-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25수영아이파크점",
+      "address": "부산광역시 수영구 민락동 336-36   수영만I'Park 상가동 101,102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영진상회",
+      "address": "부산광역시 수영구 남천동 212",
+      "roadAddress": "부산광역시 수영구 황령대로489번길 45  (남천동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "부산광역시 수영구 남천동 18-5    삼익시장내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진성슈퍼",
+      "address": "부산광역시 수영구 망미동 271-36   진성빌라 109동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서원탑 할인마트",
+      "address": "부산광역시 수영구 민락동 113-23   진로비치상가 에이동 B-1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양마트",
+      "address": "부산광역시 수영구 광안동 191-1    협진태양",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "탑세일마트수영점",
+      "address": "부산광역시 수영구 민락동 142-2",
+      "roadAddress": "부산광역시 수영구 감포로 88  (민락동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "복 슈퍼",
+      "address": "부산광역시 수영구 민락동 22-10   1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리마트",
+      "address": "부산광역시 수영구 망미동 412-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세일마트",
+      "address": "부산광역시 수영구 광안동 536-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씨네박스24할인마트",
+      "address": "부산광역시 수영구 광안동 755-1    1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "푸른마트",
+      "address": "부산광역시 수영구 광안동 505-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원플러스마트",
+      "address": "부산광역시 수영구 남천동 48-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리상회",
+      "address": "부산광역시 수영구 수영동 458-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경호슈퍼",
+      "address": "부산광역시 수영구 망미동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-29"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "부산광역시 수영구 망미동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한성기린슈퍼",
+      "address": "부산광역시 수영구 망미동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-22"
+    },
+    {
+      "name": "농심가슈퍼",
+      "address": "부산광역시 수영구 망미동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진영상회",
+      "address": "부산광역시 수영구 망미동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅마트(삼양유통점)",
+      "address": "부산광역시 수영구 광안동 150-9    12 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "24시미니슈퍼",
+      "address": "부산광역시 수영구 광안동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-09"
+    },
+    {
+      "name": "프리타임",
+      "address": "부산광역시 수영구 광안동 197-20   20 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영주슈퍼",
+      "address": "부산광역시 수영구 광안동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-30"
+    },
+    {
+      "name": "청산슈퍼",
+      "address": "부산광역시 수영구 광안동 173-5    15 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-12"
+    },
+    {
+      "name": "화목슈퍼",
+      "address": "부산광역시 수영구 광안동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-23"
+    },
+    {
+      "name": "참다운할인마트",
+      "address": "부산광역시 수영구 광안동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-28"
+    },
+    {
+      "name": "산호상회",
+      "address": "부산광역시 수영구 광안동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-04"
+    },
+    {
+      "name": "세븐민락점(1293호)",
+      "address": "부산광역시 수영구 민락동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-04"
+    },
+    {
+      "name": "유진슈퍼",
+      "address": "부산광역시 수영구 민락동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-07"
+    },
+    {
+      "name": "대운스토아",
+      "address": "부산광역시 수영구 민락동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-04"
+    },
+    {
+      "name": "수정슈퍼",
+      "address": "부산광역시 수영구 망미동 430-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)스마일마트",
+      "address": "부산광역시 수영구 광안동 165-7 21통4반",
+      "roadAddress": "부산광역시 수영구 수영로 546-1  (광안동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-10"
+    },
+    {
+      "name": "광명할인마트",
+      "address": "부산광역시 수영구 망미동 937-105  44 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화목슈퍼",
+      "address": "부산광역시 수영구 광안동 88-19 3통2반",
+      "roadAddress": "부산광역시 수영구 무학로21번길 89  (광안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "협진태양관리사무소",
+      "address": "부산광역시 수영구 남천동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해동슈퍼",
+      "address": "부산광역시 수영구 광안동 1063-1 5통2반",
+      "roadAddress": "부산광역시 수영구 망미번영로24번길 64  (광안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마이프렌드",
+      "address": "부산광역시 수영구 민락동 18-2    5  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-30"
+    },
+    {
+      "name": "농심가마트",
+      "address": "부산광역시 수영구 광안동 120-262 11통4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-18"
+    },
+    {
+      "name": "서원유통",
+      "address": "부산광역시 수영구 망미동 592-2 18통4반",
+      "roadAddress": "부산광역시 수영구 망미배산로42번길 24  (망미동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-28"
+    },
+    {
+      "name": "사회복지매점",
+      "address": "부산광역시 수영구 망미동 774-269",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-02"
+    },
+    {
+      "name": "축협할인마트",
+      "address": "부산광역시 수영구 남천동 161-9 17통3반",
+      "roadAddress": "부산광역시 수영구 남천동로 30  (남천동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-20"
+    },
+    {
+      "name": "LG25수영광안점",
+      "address": "부산광역시 수영구 광안동 75-1 2통1반",
+      "roadAddress": "부산광역시 수영구 수영로702번길 18  (광안동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-09"
+    },
+    {
+      "name": "한성할인마트",
+      "address": "부산광역시 수영구 광안동 1077-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "자유시간",
+      "address": "부산광역시 수영구 민락동 18-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "자유시간",
+      "address": "부산광역시 수영구 민락동 18-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한성할인마트",
+      "address": "부산광역시 수영구 광안동 1077-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초원슈퍼",
+      "address": "부산광역시 수영구 수영동 480-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "파워마트",
+      "address": "부산광역시 수영구 광안동 1073-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황령산슈퍼",
+      "address": "부산광역시 수영구 남천동 20-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "본동등대슈퍼",
+      "address": "부산광역시 수영구 민락동 73 민락본동골목 54",
+      "roadAddress": "부산광역시 수영구 광안해변로 429  (민락동,민락본동골목 54)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서원유통(망미점)",
+      "address": "부산광역시 수영구 망미동 798-19",
+      "roadAddress": "부산광역시 수영구 망미로21번길 4  (망미동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-24"
+    },
+    {
+      "name": "예스마트",
+      "address": "부산광역시 수영구 광안동 1055-70",
+      "roadAddress": "부산광역시 수영구 광서로 50  (광안동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-26"
+    },
+    {
+      "name": "진성마트",
+      "address": "부산광역시 수영구 남천동 255 해변시장1길 3",
+      "roadAddress": "부산광역시 수영구 황령대로481번길 39  (남천동,해변시장1길 3)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-31"
+    },
+    {
+      "name": "오뚜기슈퍼",
+      "address": "부산광역시 수영구 망미동 404-14 토성3길 49",
+      "roadAddress": "부산광역시 수영구 망미번영로63번길 30  (망미동,토성3길 49)",
+      "status": "영업/정상",
+      "licenseDate": "2007-08-02"
+    },
+    {
+      "name": "삼정그린마트",
+      "address": "부산광역시 수영구 광안동 172-21 삼정그린코아상가 101호",
+      "roadAddress": "부산광역시 수영구 수영로540번길 55,  101호 (광안동,삼정그린코아상가)",
+      "status": "영업/정상",
+      "licenseDate": "2007-08-07"
+    },
+    {
+      "name": "후레쉬원편의점",
+      "address": "부산광역시 수영구 민락동 110-87",
+      "roadAddress": "부산광역시 수영구 민락수변로 125  (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-08-07"
+    },
+    {
+      "name": "미화당스토아",
+      "address": "부산광역시 수영구 수영동 487-1",
+      "roadAddress": "부산광역시 수영구 수미로 72  (수영동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-08-29"
+    },
+    {
+      "name": "부산장식",
+      "address": "부산광역시 수영구 광안동 496-1",
+      "roadAddress": "부산광역시 수영구 광일로21번길 4  (광안동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-06"
+    },
+    {
+      "name": "동방슈퍼",
+      "address": "부산광역시 수영구 민락동 156-1",
+      "roadAddress": "부산광역시 수영구 무학로64번길 26  (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-11"
+    },
+    {
+      "name": "재하마트수영점",
+      "address": "부산광역시 수영구 수영동 483-7",
+      "roadAddress": "부산광역시 수영구 구락로 61  (수영동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-11"
+    },
+    {
+      "name": "GS25 광안비치점",
+      "address": "부산광역시 수영구 광안동 196-1",
+      "roadAddress": "부산광역시 수영구 광안해변로 209  (광안동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-14"
+    },
+    {
+      "name": "갓마트",
+      "address": "부산광역시 수영구 망미동 591-22",
+      "roadAddress": "부산광역시 수영구 과정로55번길 61  (망미동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-20"
+    },
+    {
+      "name": "동성슈퍼",
+      "address": "부산광역시 수영구 광안동 978-30",
+      "roadAddress": "부산광역시 수영구 망미번영로13번길 33  (광안동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-10"
+    },
+    {
+      "name": "스펀지 마트",
+      "address": "부산광역시 수영구 망미동 413-28",
+      "roadAddress": "부산광역시 수영구 과정로 46  (망미동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-10"
+    },
+    {
+      "name": "선경슈퍼",
+      "address": "부산광역시 수영구 수영동 477-9    13 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선경슈퍼",
+      "address": "부산광역시 수영구 수영동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-17"
+    },
+    {
+      "name": "진주슈퍼",
+      "address": "부산광역시 수영구 광안동 169-4    5  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-22"
+    },
+    {
+      "name": "영주슈퍼",
+      "address": "부산광역시 수영구 망미동 412-40 20통4반",
+      "roadAddress": "부산광역시 수영구 과정로 62-1  (망미동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-02"
+    },
+    {
+      "name": "아톰문구",
+      "address": "부산광역시 수영구 망미동 208-1    2  통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-28"
+    },
+    {
+      "name": "아프로마트",
+      "address": "부산광역시 수영구 망미동 442-1    40 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-14"
+    },
+    {
+      "name": "경남상회",
+      "address": "부산광역시 수영구 광안동 179-9    5  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-14"
+    },
+    {
+      "name": "현대마트",
+      "address": "부산광역시 수영구 망미동 979-72 21통1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-26"
+    },
+    {
+      "name": "미락슈퍼",
+      "address": "부산광역시 수영구 민락동 28-18   21 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-26"
+    },
+    {
+      "name": "용당슈퍼",
+      "address": "부산광역시 수영구 민락동 18-1    5  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-26"
+    },
+    {
+      "name": "세븐일레븐광안3호점",
+      "address": "부산광역시 수영구 광안동 502-3    18 통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-30"
+    },
+    {
+      "name": "현대상회",
+      "address": "부산광역시 수영구 광안동 126-10   1  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-04"
+    },
+    {
+      "name": "빅세일",
+      "address": "부산광역시 수영구 광안동 536-37   3  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-09"
+    },
+    {
+      "name": "빅세일마트",
+      "address": "부산광역시 수영구 광안동 93-8    7  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-25"
+    },
+    {
+      "name": "한뿌리분식",
+      "address": "부산광역시 수영구 광안동 124-32 5통2반",
+      "roadAddress": "부산광역시 수영구 무학로46번길 16  (광안동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-30"
+    },
+    {
+      "name": "농축할인마트",
+      "address": "부산광역시 수영구 망미동 794-1    1  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-07"
+    },
+    {
+      "name": "갈매기슈퍼",
+      "address": "부산광역시 수영구 민락동 181-45 6통4반",
+      "roadAddress": "부산광역시 수영구 광안해변로279번길 29  (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-22"
+    },
+    {
+      "name": "미화당슈퍼",
+      "address": "부산광역시 수영구 광안동 147-25   4  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-26"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "부산광역시 수영구 민락동 176-14   6  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-26"
+    },
+    {
+      "name": "미니스톱 광안비치점",
+      "address": "부산광역시 수영구 민락동 179-13 11통1반",
+      "roadAddress": "부산광역시 수영구 광안로 67  (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-26"
+    },
+    {
+      "name": "공원매점",
+      "address": "부산광역시 수영구 민락동 110-27   4  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-26"
+    },
+    {
+      "name": "공원매점2",
+      "address": "부산광역시 수영구 민락동 110-48   4  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-26"
+    },
+    {
+      "name": "부산우유",
+      "address": "부산광역시 수영구 광안동 1031-4    16 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-30"
+    },
+    {
+      "name": "밀양상회",
+      "address": "부산광역시 수영구 광안동 146-12   4  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-06"
+    },
+    {
+      "name": "엔스톱",
+      "address": "부산광역시 수영구 광안동 192-7    22 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-11"
+    },
+    {
+      "name": "동남슈퍼",
+      "address": "부산광역시 수영구 망미동 453-37   23 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-23"
+    },
+    {
+      "name": "동성상회",
+      "address": "부산광역시 수영구 광안동 978-30   18 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-26"
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "부산광역시 수영구 광안동 127-7",
+      "roadAddress": "부산광역시 수영구 무학로 52  (광안동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-19"
+    },
+    {
+      "name": "푸르지오슈퍼",
+      "address": "부산광역시 수영구 민락동 108-1 민락푸르지오상가101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-19"
+    },
+    {
+      "name": "탑훼미리마트",
+      "address": "부산광역시 수영구 망미동 693-1 파크리치상가지하 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-22"
+    },
+    {
+      "name": "파워24시",
+      "address": "부산광역시 수영구 광안동 1077-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-24"
+    },
+    {
+      "name": "탑세일마트",
+      "address": "부산광역시 수영구 광안동 738-4",
+      "roadAddress": "부산광역시 수영구 장대골로 20-8  (광안동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-24"
+    },
+    {
+      "name": "로얄근대화체인",
+      "address": "부산광역시 수영구 망미동 937-234",
+      "roadAddress": "부산광역시 수영구 톳고개로 72  (망미동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-30"
+    },
+    {
+      "name": "수변공원점 세븐일레븐",
+      "address": "부산광역시 수영구 민락동 110-41",
+      "roadAddress": "부산광역시 수영구 광안해변로344번길 9-3  (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-30"
+    },
+    {
+      "name": "광안탑마트",
+      "address": "부산광역시 수영구 광안동 1254-5 제상가동 지하5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-11-06"
+    },
+    {
+      "name": "삼성빅스토아",
+      "address": "부산광역시 수영구 남천동 24-25 수영빌딩",
+      "roadAddress": "부산광역시 수영구 수영로 384  (남천동,수영빌딩)",
+      "status": "영업/정상",
+      "licenseDate": "2007-11-12"
+    },
+    {
+      "name": "훼미리마트남천스마일점",
+      "address": "부산광역시 수영구 남천동 10",
+      "roadAddress": "부산광역시 수영구 광남로22번길 14  (남천동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-11-14"
+    },
+    {
+      "name": "무지개아이스크림",
+      "address": "부산광역시 수영구 광안동 1265-6",
+      "roadAddress": "부산광역시 수영구 호암로29번나길 3  (광안동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-11-14"
+    },
+    {
+      "name": "훼미리마트 수영마이다스",
+      "address": "부산광역시 수영구 수영동 304-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-11-16"
+    },
+    {
+      "name": "광안슈퍼",
+      "address": "부산광역시 수영구 광안동 124-32",
+      "roadAddress": "부산광역시 수영구 무학로46번길 16  (광안동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "세븐일레븐2호점",
+      "address": "부산광역시 수영구 남천동 29-2    19 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-03"
+    },
+    {
+      "name": "하나로상회",
+      "address": "부산광역시 수영구 수영동 473-15   12 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-11"
+    },
+    {
+      "name": "신세기슈퍼",
+      "address": "부산광역시 수영구 남천동 19-17   6  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-17"
+    },
+    {
+      "name": "영진종합유통",
+      "address": "부산광역시 수영구 광안동 178-12   5  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-28"
+    },
+    {
+      "name": "제일상회",
+      "address": "부산광역시 수영구 민락동 174-7    23 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-28"
+    },
+    {
+      "name": "대원슈퍼마켓",
+      "address": "부산광역시 수영구 광안동 373-15   11 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-01"
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "부산광역시 수영구 광안동 158-31   10 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-10"
+    },
+    {
+      "name": "조이 할인마트",
+      "address": "부산광역시 수영구 광안동 1073-1    8  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-11"
+    },
+    {
+      "name": "세강슈퍼",
+      "address": "부산광역시 수영구 광안동 560-9    7  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-15"
+    },
+    {
+      "name": "앤타임",
+      "address": "부산광역시 수영구 광안동 596-3 7통3반",
+      "roadAddress": "부산광역시 수영구 수영로611번길 5  (광안동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-22"
+    },
+    {
+      "name": "부산자모병원",
+      "address": "부산광역시 수영구 광안동 774-16 18통2반",
+      "roadAddress": "부산광역시 수영구 수영로 555  (광안동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-23"
+    },
+    {
+      "name": "대남상회",
+      "address": "부산광역시 수영구 남천동 335-3 8통4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-30"
+    },
+    {
+      "name": "동양상회",
+      "address": "부산광역시 수영구 수영동 457-2    8  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-05"
+    },
+    {
+      "name": "동방할인슈퍼",
+      "address": "부산광역시 수영구 남천동 22-28   6  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-08"
+    },
+    {
+      "name": "세븐 광안4호점",
+      "address": "부산광역시 수영구 광안동 755-1    11 통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-01"
+    },
+    {
+      "name": "24시 슈퍼",
+      "address": "부산광역시 수영구 남천동 3-4",
+      "roadAddress": "부산광역시 수영구 남천바다로 34  (남천동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-17"
+    },
+    {
+      "name": "망미 식육점",
+      "address": "부산광역시 수영구 망미동 594-1    18 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-17"
+    },
+    {
+      "name": "빅세일",
+      "address": "부산광역시 수영구 광안동 203-13   20 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-21"
+    },
+    {
+      "name": "진성마트",
+      "address": "부산광역시 수영구 남천동 255 15 통4  반",
+      "roadAddress": "부산광역시 수영구 황령대로481번길 39  (남천동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-29"
+    },
+    {
+      "name": "만나슈퍼",
+      "address": "부산광역시 수영구 광안동 337-5    16 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-29"
+    },
+    {
+      "name": "부일슈퍼",
+      "address": "부산광역시 수영구 광안동 109-5 6통3반",
+      "roadAddress": "부산광역시 수영구 무학로49번길 11  (광안동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-06"
+    },
+    {
+      "name": "종합유통",
+      "address": "부산광역시 수영구 광안동 191-1    22 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-07"
+    },
+    {
+      "name": "빅세일마트",
+      "address": "부산광역시 수영구 망미동 431-10 22통7반",
+      "roadAddress": "부산광역시 수영구 망미배산로10번길 28  (망미동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-14"
+    },
+    {
+      "name": "에이스마트",
+      "address": "부산광역시 수영구 민락동 179-10   11 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-14"
+    },
+    {
+      "name": "대농할인스토아",
+      "address": "부산광역시 수영구 광안동 689-20 16통3반",
+      "roadAddress": "부산광역시 수영구 광서로10번길 4  (광안동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-06"
+    },
+    {
+      "name": "상아수퍼",
+      "address": "부산광역시 수영구 광안동 1055-247  23 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-27"
+    },
+    {
+      "name": "효성슈퍼",
+      "address": "부산광역시 수영구 수영동 293 3  통5  반",
+      "roadAddress": "부산광역시 수영구 망미번영로70번길 149  (수영동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-13"
+    },
+    {
+      "name": "개미슈퍼",
+      "address": "부산광역시 수영구 광안동 646-15   19 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-23"
+    },
+    {
+      "name": "동양마트(주)수영구청점",
+      "address": "부산광역시 수영구 남천동 7-8    3  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-17"
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "부산광역시 수영구 수영동 479-1    18 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-17"
+    },
+    {
+      "name": "서원탑훼밀리마트",
+      "address": "부산광역시 수영구 광안동 1254-4    19 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-24"
+    },
+    {
+      "name": "수복상회",
+      "address": "부산광역시 수영구 수영동 456-1    7  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-29"
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "부산광역시 수영구 남천동 18-5    11 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-29"
+    },
+    {
+      "name": "농심가 신광수퍼",
+      "address": "부산광역시 수영구 수영동 482-13   18 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-18"
+    },
+    {
+      "name": "민안슈퍼",
+      "address": "부산광역시 수영구 민락동 150-29   12 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-18"
+    },
+    {
+      "name": "빅세일마트",
+      "address": "부산광역시 수영구 광안동 100-1    14 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-18"
+    },
+    {
+      "name": "한성할인마트",
+      "address": "부산광역시 수영구 광안동 1077-14 8통3반",
+      "roadAddress": "부산광역시 수영구 광서로10번길 30  (광안동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-30"
+    },
+    {
+      "name": "팔도할인마트",
+      "address": "부산광역시 수영구 수영동 178-2    16 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-14"
+    },
+    {
+      "name": "대성철물",
+      "address": "부산광역시 수영구 망미동 823-1    6  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-09"
+    },
+    {
+      "name": "한샘슈퍼",
+      "address": "부산광역시 수영구 수영동 483-13   18 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-15"
+    },
+    {
+      "name": "LG25광안역점",
+      "address": "부산광역시 수영구 광안동 774-19   10 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-19"
+    },
+    {
+      "name": "(주)메가마트 남천점",
+      "address": "부산광역시 수영구 남천동 545-2    2  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-22"
+    },
+    {
+      "name": "LG25편의점 광안목화점",
+      "address": "부산광역시 수영구 민락동 177-5 9통3반",
+      "roadAddress": "부산광역시 수영구 광안해변로 259  (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "근대화슈퍼",
+      "address": "부산광역시 수영구 수영동 497-30   23 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-12"
+    },
+    {
+      "name": "진명그릇",
+      "address": "부산광역시 수영구 남천동 26-21   20 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-12"
+    },
+    {
+      "name": "대경마트",
+      "address": "부산광역시 수영구 광안동 185-21   19 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-12"
+    },
+    {
+      "name": "세븐일레븐 수영3호점",
+      "address": "부산광역시 수영구 수영동 447-1    5  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-17"
+    },
+    {
+      "name": "훼미리 마트 망미 감미당점",
+      "address": "부산광역시 수영구 망미동 432-22   22 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-17"
+    },
+    {
+      "name": "파워세일마트",
+      "address": "부산광역시 수영구 민락동 161-20   22 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-17"
+    },
+    {
+      "name": "쭝뗑이마트",
+      "address": "부산광역시 수영구 수영동 354-1    12 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-07"
+    },
+    {
+      "name": "대남상회",
+      "address": "부산광역시 수영구 남천동 335-3    8  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "협진태양APT 관리사무소",
+      "address": "부산광역시 수영구 남천동 3-5 2통1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동방슈퍼",
+      "address": "부산광역시 수영구 민락동 156-1 22통3반",
+      "roadAddress": "부산광역시 수영구 무학로64번길 26  (민락동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동방슈퍼",
+      "address": "부산광역시 수영구 민락동 156-1 22통3반",
+      "roadAddress": "부산광역시 수영구 무학로64번길 26  (민락동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "근대화체인슈퍼",
+      "address": "부산광역시 수영구 민락동 163-1 25통4반",
+      "roadAddress": "부산광역시 수영구 광남로 224  (민락동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심본동수퍼",
+      "address": "부산광역시 수영구 망미동 880-65   17 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니마트",
+      "address": "부산광역시 수영구 광안동 103-29 3통2반",
+      "roadAddress": "부산광역시 수영구 수영로652번길 58-1  (광안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서일마트",
+      "address": "부산광역시 수영구 광안동 144-61   2  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)코리아 세븐 남천4호점",
+      "address": "부산광역시 수영구 남천동 24-25 15통1반",
+      "roadAddress": "부산광역시 수영구 수영로 384  (남천동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부산우유 수영대리점",
+      "address": "부산광역시 수영구 망미동 190-1    7  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세일세일마트",
+      "address": "부산광역시 수영구 망미동 832-23   14 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창녕상회",
+      "address": "부산광역시 수영구 망미동 253-23   8  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세일마트",
+      "address": "부산광역시 수영구 망미동 253-12   8  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 광안비치점",
+      "address": "부산광역시 수영구 민락동 179-13 11통1반",
+      "roadAddress": "부산광역시 수영구 광안로 67  (민락동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가 망미점",
+      "address": "부산광역시 수영구 망미동 250-6    9  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "젤라",
+      "address": "부산광역시 수영구 수영동 188-4    16 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영마트",
+      "address": "부산광역시 수영구 민락동 33-12 28통5반",
+      "roadAddress": "부산광역시 수영구 민락본동로19번길 68  (민락동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금강슈퍼",
+      "address": "부산광역시 수영구 망미동 450-29   26 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25유통 민락중앙점",
+      "address": "부산광역시 수영구 민락동 182-82   12 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아름마트",
+      "address": "부산광역시 수영구 광안동 120-225  12 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 남천점",
+      "address": "부산광역시 수영구 남천동 296-4    1층 1-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "부산광역시 수영구 망미동 440-19   40 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해태유업 동부산 특약점",
+      "address": "부산광역시 수영구 망미동 415-40   17 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오렌지데이 광안비치점",
+      "address": "부산광역시 수영구 광안동 200-20   20 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조이풀슈퍼",
+      "address": "부산광역시 수영구 광안동 44-81   2  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한빛슈퍼",
+      "address": "부산광역시 수영구 망미동 418-1    15 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "앤타임",
+      "address": "부산광역시 수영구 광안동 596-3    7  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "부산광역시 수영구 수영동 488-20   22 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "거창농산",
+      "address": "부산광역시 수영구 망미동 442-1    40 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대할인마트",
+      "address": "부산광역시 수영구 망미동 443-1    20 통7  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대영슈퍼",
+      "address": "부산광역시 수영구 광안동 741-12   10 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 수영역점",
+      "address": "부산광역시 수영구 광안동 677-22   16 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원가마트",
+      "address": "부산광역시 수영구 광안동 1061-16   9  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심슈퍼",
+      "address": "부산광역시 수영구 광안동 1029-26   15 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "부산광역시 수영구 망미동 405-4    17 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세일세일마트",
+      "address": "부산광역시 수영구 망미동 807-3    5  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영진상회",
+      "address": "부산광역시 수영구 망미동 880-76   17 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "글로리스토아(망미점)",
+      "address": "부산광역시 수영구 망미동 884-68   17 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명슈퍼할인마트",
+      "address": "부산광역시 수영구 망미동 937-105  44 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한신탑마트",
+      "address": "부산광역시 수영구 망미동 880-84   49 통1  반 상가1층 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화목마트",
+      "address": "부산광역시 수영구 남천동 47-1    16 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이코노 마트",
+      "address": "부산광역시 수영구 망미동 825-2    8  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경주슈퍼",
+      "address": "부산광역시 수영구 망미동 256-21   8  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅 세일 마트",
+      "address": "부산광역시 수영구 광안동 150-9    12 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세일마트",
+      "address": "부산광역시 수영구 수영동 27-1    3  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세일마트 동방점",
+      "address": "부산광역시 수영구 광안동 132-8    8  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "부산광역시 수영구 광안동 191-1    22 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴부산할인마트",
+      "address": "부산광역시 수영구 망미동 415-1    17 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25 수영동일점",
+      "address": "부산광역시 수영구 광안동 1070-5    9  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광안2.4동 새마을금고",
+      "address": "부산광역시 수영구 광안동 165-9    21 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한빛전광판",
+      "address": "부산광역시 수영구 망미동 595-2    34 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "부산광역시 수영구 망미동 432-22   22 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진주슈퍼",
+      "address": "부산광역시 수영구 광안동 169-4    5  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "푸르지오슈퍼",
+      "address": "부산광역시 수영구 민락동 108-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미래25시마트",
+      "address": "부산광역시 수영구 광안동 165-7    21 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "퀸마트",
+      "address": "부산광역시 수영구 수영동 436-1    23 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대마트",
+      "address": "부산광역시 수영구 수영동 541",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성일마트",
+      "address": "부산광역시 수영구 민락동 23-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔도할인마트",
+      "address": "부산광역시 수영구 수영동 178-2    16 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세일마트",
+      "address": "부산광역시 수영구 광안동 167-9    15 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)아람마트광안점",
+      "address": "부산광역시 수영구 광안동 491-1    20 통7  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "도깨비할인마트",
+      "address": "부산광역시 수영구 수영동 196",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅마트",
+      "address": "부산광역시 수영구 광안동 693-9    22 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "큰터상가",
+      "address": "부산광역시 수영구 수영동 456-1    7  통1  반 큰터빌라 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세일마트 현대점",
+      "address": "부산광역시 수영구 망미동 814-5    33 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "열린슈퍼",
+      "address": "부산광역시 수영구 망미동 415-18   17 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴금강슈퍼",
+      "address": "부산광역시 수영구 남천동 30-1",
+      "roadAddress": "부산광역시 수영구 수영로 476  (남천동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-01"
+    },
+    {
+      "name": "효제상회",
+      "address": "부산광역시 수영구 수영동 304-3    2  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "MC할인마트",
+      "address": "부산광역시 수영구 망미동 438-19   22 통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만호쌀상회",
+      "address": "부산광역시 수영구 광안동 500-6    24 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "퀸할인마트",
+      "address": "부산광역시 수영구 수영동 436-1    23 통1  반 현대상가지하 101동 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서원할인마트",
+      "address": "부산광역시 수영구 민락동 31-1    28 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿샵",
+      "address": "부산광역시 수영구 남천동 260-2    8  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿샵",
+      "address": "부산광역시 수영구 남천동 260-2    8  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명할인마트",
+      "address": "부산광역시 수영구 망미동 937-105  44 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미래25시마트",
+      "address": "부산광역시 수영구 남천동 171",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "애니타임",
+      "address": "부산광역시 수영구 수영동 530",
+      "roadAddress": "부산광역시 수영구 수영로 777  (수영동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서원훼미리마트",
+      "address": "부산광역시 수영구 광안동 689-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "목양상회",
+      "address": "부산광역시 수영구 남천동 75-25",
+      "roadAddress": "부산광역시 수영구 수영로393번길 25  (남천동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행운할인유통",
+      "address": "부산광역시 수영구 광안동 570-12",
+      "roadAddress": "부산광역시 수영구 장대골로39번길 42-1  (광안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사회복지매점",
+      "address": "부산광역시 수영구 망미동 774-269",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "부산광역시 수영구 민락동 110-54   노블스카이 1층 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오렌지데이광안점",
+      "address": "부산광역시 수영구 광안동 200-20   해일빌딩1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "부산광역시 수영구 망미동 405-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴부산할인마트",
+      "address": "부산광역시 수영구 망미동 415-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광안알뜰슈퍼",
+      "address": "부산광역시 수영구 광안동 565-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)서원유통탑마트광안점",
+      "address": "부산광역시 수영구 광안동 175-1",
+      "roadAddress": "부산광역시 수영구 광남로 117  (광안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남도슈퍼",
+      "address": "부산광역시 수영구 광안동 44-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "포시즌",
+      "address": "부산광역시 수영구 민락동 110-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세일마트",
+      "address": "부산광역시 수영구 민락동 72",
+      "roadAddress": "부산광역시 수영구 광안해변로 431  (민락동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "부산광역시 수영구 광안동 191-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "부산광역시 수영구 망미동 803-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부일슈퍼",
+      "address": "부산광역시 수영구 광안동 109-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "열린슈퍼",
+      "address": "부산광역시 수영구 망미동 415-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 남천미미점",
+      "address": "부산광역시 수영구 남천동 17-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양스토아",
+      "address": "부산광역시 수영구 광안동 1032-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협홈마트",
+      "address": "부산광역시 수영구 광안동 715-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼양슈퍼",
+      "address": "부산광역시 수영구 남천동 11-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "배산복권",
+      "address": "부산광역시 수영구 망미동 595-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "탑플러스마트",
+      "address": "부산광역시 수영구 광안동 1073-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충북상회",
+      "address": "부산광역시 수영구 망미동 418-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "차무제",
+      "address": "부산광역시 수영구 광안동 334-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수영빙과(자유시간)",
+      "address": "부산광역시 수영구 민락동 18-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25 수영역점",
+      "address": "부산광역시 수영구 광안동 89-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서원할인유통",
+      "address": "부산광역시 수영구 광안동 96-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "퀸마트",
+      "address": "부산광역시 수영구 수영동 436-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명할인마트",
+      "address": "부산광역시 수영구 망미동 937-105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트남천점",
+      "address": "부산광역시 수영구 남천동 296-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수정슈퍼",
+      "address": "부산광역시 수영구 망미동 430-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충북상회",
+      "address": "부산광역시 수영구 망미동 418-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 광안제일점",
+      "address": "부산광역시 수영구 광안동 778-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "썬마트",
+      "address": "부산광역시 수영구 광안동 132-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "예원",
+      "address": "부산광역시 수영구 망미동 439-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 광안늘푸른점",
+      "address": "부산광역시 수영구 광안동 736-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황령산마트",
+      "address": "부산광역시 수영구 남천동 5115",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영광슈퍼",
+      "address": "부산광역시 수영구 민락동 15-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심할인마트",
+      "address": "부산광역시 수영구 광안동 567-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "리치마트",
+      "address": "부산광역시 수영구 망미동 804-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광미슈퍼",
+      "address": "부산광역시 수영구 망미동 801-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "똘똘이마트",
+      "address": "부산광역시 수영구 광안동 736-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미성상회",
+      "address": "부산광역시 수영구 광안동 120-186",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 광안다솜점",
+      "address": "부산광역시 수영구 광안동 141-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "천지슈퍼",
+      "address": "부산광역시 수영구 광안동 956-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남강슈퍼",
+      "address": "부산광역시 수영구 광안동 165-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해피타임",
+      "address": "부산광역시 수영구 민락동 110-60",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가마트",
+      "address": "부산광역시 수영구 광안동 120-262",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 과정로",
+      "address": "부산광역시 수영구 망미동 413-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대부식과일슈퍼",
+      "address": "부산광역시 수영구 민락동 416-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오렌지데이 수영점",
+      "address": "부산광역시 수영구 광안동 1077-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "축협할인마트",
+      "address": "부산광역시 수영구 남천동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해피마트",
+      "address": "부산광역시 수영구 민락동 144-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해피마트",
+      "address": "부산광역시 수영구 민락동 144-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "부산광역시 수영구 망미동 823-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "협성할인마트",
+      "address": "부산광역시 수영구 수영동 435-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔도홈마트",
+      "address": "부산광역시 수영구 수영동 178-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "애니타임",
+      "address": "부산광역시 수영구 수영동 450-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양마트",
+      "address": "부산광역시 수영구 수영동 435-1    협성르네상스 219동 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서원유통탑마트광안점",
+      "address": "부산광역시 수영구 광안동 175-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서원훼미리마트",
+      "address": "부산광역시 수영구 광안동 689-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "예스마트",
+      "address": "부산광역시 수영구 남천동 18-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅마트",
+      "address": "부산광역시 수영구 광안동 693-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장터슈퍼",
+      "address": "부산광역시 수영구 망미동 774-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "파원C마트",
+      "address": "부산광역시 수영구 남천동 77-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광안슈퍼",
+      "address": "부산광역시 수영구 광안동 185-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 수영역점",
+      "address": "부산광역시 수영구 광안동 99-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스피드마트",
+      "address": "부산광역시 수영구 망미동 812-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "부산광역시 수영구 수영동 347-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세일마트",
+      "address": "부산광역시 수영구 민락동 72",
+      "roadAddress": "부산광역시 수영구 광안해변로 431  (민락동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이 부산수변공원점",
+      "address": "부산광역시 수영구 민락동 110-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "패밀리마트 남천보라점",
+      "address": "부산광역시 수영구 남천동 21-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "민안슈퍼",
+      "address": "부산광역시 수영구 민락동 150-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태화슈퍼",
+      "address": "부산광역시 수영구 민락동 175-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광안킹마트",
+      "address": "부산광역시 수영구 광안동 167-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세일",
+      "address": "부산광역시 수영구 광안동 203-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엠씨할인마트",
+      "address": "부산광역시 수영구 광안동 141-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대영농심마트",
+      "address": "부산광역시 수영구 광안동 741-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두배로할인마트",
+      "address": "부산광역시 수영구 광안동 539-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "람파스",
+      "address": "부산광역시 수영구 망미동 431-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "푸르지오슈퍼",
+      "address": "부산광역시 수영구 민락동 108-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "푸르지오슈퍼",
+      "address": "부산광역시 수영구 민락동 108-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "효성슈퍼",
+      "address": "부산광역시 수영구 수영동 293",
+      "roadAddress": "부산광역시 수영구 망미번영로70번길 149  (수영동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수영할인마트",
+      "address": "부산광역시 수영구 민락동 412-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데캐슬마트",
+      "address": "부산광역시 수영구 민락동 110-8    롯데캐슬상가107-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "애니타임",
+      "address": "부산광역시 수영구 민락동 178-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세일마트",
+      "address": "부산광역시 수영구 광안동 120-103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "돈마니슈퍼",
+      "address": "부산광역시 수영구 수영동 477-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원플러스마트",
+      "address": "부산광역시 수영구 망미동 441-1    명성그랜드빌 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데슈퍼",
+      "address": "부산광역시 수영구 광안동 201-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서원마트",
+      "address": "부산광역시 수영구 광안동 179-8    광안하이빌 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동방슈퍼",
+      "address": "부산광역시 수영구 민락동 156-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동성상회",
+      "address": "부산광역시 수영구 광안동 174-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "후레쉬마트24",
+      "address": "부산광역시 수영구 광안동 197-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미화당슈퍼",
+      "address": "부산광역시 수영구 광안동 147-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진성슈퍼",
+      "address": "부산광역시 수영구 망미동 271-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿타임",
+      "address": "부산광역시 수영구 광안동 157-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "돈마니슈퍼",
+      "address": "부산광역시 수영구 수영동 477-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한성기린슈퍼",
+      "address": "부산광역시 수영구 망미동 210-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "똘똘이할인마트",
+      "address": "부산광역시 수영구 광안동 736-14   흑석파크상가 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홈플러스 수퍼 익스프레스 광안점",
+      "address": "부산광역시 수영구 광안동 491-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "파워-i",
+      "address": "부산광역시 수영구 남천동 28-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세일마트",
+      "address": "부산광역시 수영구 남천동 77-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충북상회",
+      "address": "부산광역시 수영구 망미동 418-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25 광안비치점",
+      "address": "부산광역시 수영구 광안동 196-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오렌지데이수영점",
+      "address": "부산광역시 수영구 광안동 1077-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사원탑훼미리마트",
+      "address": "부산광역시 수영구 민락동 161-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스피드마트",
+      "address": "부산광역시 수영구 망미동 812-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동성사",
+      "address": "부산광역시 수영구 망미동 203-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바다산책프라자",
+      "address": "부산광역시 수영구 민락동 110-48",
+      "roadAddress": "부산광역시 수영구 민락수변로 105  (민락동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초원슈퍼",
+      "address": "부산광역시 수영구 광안동 165-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "망미탑마트",
+      "address": "부산광역시 수영구 망미동 880-84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25뉴비치점",
+      "address": "부산광역시 수영구 남천동 556-3    뉴비치상가 4호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25광안역점",
+      "address": "부산광역시 수영구 광안동 744-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS광안목화점",
+      "address": "부산광역시 수영구 민락동 177-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS광안목화점",
+      "address": "부산광역시 수영구 민락동 177-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해운슈퍼",
+      "address": "부산광역시 수영구 수영동 454-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강변대림할인마트",
+      "address": "부산광역시 수영구 망미동 1136 대림이편한세상지하101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세일",
+      "address": "부산광역시 수영구 광안동 203-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "애니타임슈퍼",
+      "address": "부산광역시 수영구 수영동 450-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에스파워할인마트",
+      "address": "부산광역시 수영구 남천동 28-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한라할인마트",
+      "address": "부산광역시 수영구 광안동 151-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세일마트",
+      "address": "부산광역시 수영구 수영동 27-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이수영구청점",
+      "address": "부산광역시 수영구 남천동 7-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이 광안바다점",
+      "address": "부산광역시 수영구 광안동 192-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해오름빅할인마트",
+      "address": "부산광역시 수영구 광안동 751-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "왜화편의점",
+      "address": "부산광역시 수영구 광안동 187-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱수영역점",
+      "address": "부산광역시 수영구 광안동 677-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "탑플러스마트",
+      "address": "부산광역시 수영구 광안동 1302-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "참마트",
+      "address": "부산광역시 수영구 광안동 753-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황금소유통",
+      "address": "부산광역시 수영구 남천동 231-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-24"
+    },
+    {
+      "name": "빅세일마트",
+      "address": "부산광역시 수영구 광안동 120-103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아르노마트",
+      "address": "부산광역시 수영구 수영동 489-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "24시슈퍼",
+      "address": "부산광역시 수영구 남천동 3-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "근대화체인",
+      "address": "부산광역시 수영구 민락동 163-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대박슈퍼",
+      "address": "부산광역시 수영구 망미동 439-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두배로마트",
+      "address": "부산광역시 수영구 광안동 539-1 광명맨션3동 지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조은마트",
+      "address": "부산광역시 수영구 광안동 185-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕민회관",
+      "address": "부산광역시 수영구 민락동 363-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한성기린마트",
+      "address": "부산광역시 수영구 망미동 210-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일할인마트",
+      "address": "부산광역시 수영구 광안동 1060-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안금수",
+      "address": "부산광역시 수영구 광안동 565-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스카이마트",
+      "address": "부산광역시 수영구 광안동 569-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "탑제이씨마트",
+      "address": "부산광역시 수영구 망미동 250-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제이유백화점(주)제이유25마트남천점",
+      "address": "부산광역시 수영구 남천동 217-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제이유백화점(주) 제이유25마트 남천점",
+      "address": "부산광역시 수영구 남천동 217-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시장할인마트",
+      "address": "부산광역시 수영구 민락동 192-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼정그린마트",
+      "address": "부산광역시 수영구 광안동 172-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "파워아이",
+      "address": "부산광역시 수영구 남천동 77-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에니타임",
+      "address": "부산광역시 수영구 남천동 30-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한신탑마트",
+      "address": "부산광역시 수영구 망미동 880-84   망미한신아파트상가1층 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두배로마트",
+      "address": "부산광역시 수영구 광안동 156-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세일광안협성점",
+      "address": "부산광역시 수영구 광안동 735-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세일마트",
+      "address": "부산광역시 수영구 망미동 431-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스피드마트",
+      "address": "부산광역시 수영구 망미동 812-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "애니타임",
+      "address": "부산광역시 수영구 수영동 530 센텀오피스텔 103호",
+      "roadAddress": "부산광역시 수영구 수영로 777,  103호 (수영동,센텀오피스텔)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원할인슈퍼",
+      "address": "부산광역시 수영구 망미동 793-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세일",
+      "address": "부산광역시 수영구 광안동 1061-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초원슈퍼",
+      "address": "부산광역시 수영구 수영동 480-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이 부산수영점",
+      "address": "부산광역시 수영구 광안동 772-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "터보컴퓨터게임장",
+      "address": "부산광역시 수영구 망미동 431-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세일",
+      "address": "부산광역시 수영구 광안동 536-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "부산광역시 수영구 수영동 462-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "논스톱편의점",
+      "address": "부산광역시 수영구 민락동 184-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이 부산광안점",
+      "address": "부산광역시 수영구 광안동 736-14   흑석파크상가 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그랜드마트",
+      "address": "부산광역시 수영구 광안동 738-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농수산하나로마트",
+      "address": "부산광역시 수영구 광안동 160-1    산정빌딩 1층 105호~106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빙고 365",
+      "address": "부산광역시 수영구 광안동 1070-5    1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원 PLUS 마트",
+      "address": "부산광역시 수영구 광안동 379-28   동민빌라상가 104,105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "열린슈퍼",
+      "address": "부산광역시 수영구 수영동 541 현대아파트상가 106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "파워세일마트",
+      "address": "부산광역시 수영구 남천동 47-1    화목타운상가 6-8호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양상회",
+      "address": "부산광역시 수영구 수영동 457-2    동양맨션 111호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)코리아세븐남천1호점",
+      "address": "부산광역시 수영구 남천동 556-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)코리아세븐 광안4호점",
+      "address": "부산광역시 수영구 광안동 755-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "부산광역시 수영구 광안동 187-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종강할인마트",
+      "address": "부산광역시 수영구 남천동 19-30",
+      "roadAddress": "부산광역시 수영구 수영로 396  (남천동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "큐",
+      "address": "부산광역시 수영구 광안동 571-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황령산슈퍼",
+      "address": "부산광역시 수영구 남천동 51-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수영빙과",
+      "address": "부산광역시 수영구 민락동 18-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미화당슈퍼",
+      "address": "부산광역시 수영구 광안동 147-25   1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부일슈퍼",
+      "address": "부산광역시 수영구 광안동 109-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "부산광역시 수영구 망미동 440-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원플러스마트",
+      "address": "부산광역시 수영구 남천동 48-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강원슈퍼",
+      "address": "부산광역시 수영구 망미동 265-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "탑훼밀리마트망미점",
+      "address": "부산광역시 수영구 망미동 937-105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰두배로마트",
+      "address": "부산광역시 수영구 광안동 156-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에니타임",
+      "address": "부산광역시 수영구 남천동 30-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세일마트",
+      "address": "부산광역시 수영구 광안동 150-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동성슈퍼",
+      "address": "부산광역시 수영구 광안동 146-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "Fine 유통",
+      "address": "부산광역시 수영구 광안동 197-20   시티나인빌딩 1층동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부산슈퍼",
+      "address": "부산광역시 수영구 망미동 208-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문 (MOON) 25",
+      "address": "부산광역시 수영구 망미동 1136 대림e편한세상상가 1층동 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "탑마트",
+      "address": "부산광역시 수영구 광안동 1254-5    광안파크 제상가동 지하층5호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대덕개발(엔드25시)",
+      "address": "부산광역시 수영구 망미동 803-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트광안그린점",
+      "address": "부산광역시 수영구 광안동 492-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "부산광역시 수영구 망미동 405-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(제이유백화점(주))제이유25마트광안2동점",
+      "address": "부산광역시 수영구 광안동 184-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강원세일마트",
+      "address": "부산광역시 수영구 망미동 265-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)코리아세븐수영3호점",
+      "address": "부산광역시 수영구 수영동 447-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25광안유림점",
+      "address": "부산광역시 수영구 광안동 744-33   광안유림주상복합 상가동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양스토아",
+      "address": "부산광역시 수영구 광안동 1032-1    1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오렌지데이광안점",
+      "address": "부산광역시 수영구 광안동 200-20   해일빌딩 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "복덩어리",
+      "address": "부산광역시 수영구 민락동 22-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "파워세일마트",
+      "address": "부산광역시 수영구 민락동 161-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "부산광역시 수영구 광안동 187-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "참사리 슈퍼",
+      "address": "부산광역시 수영구 수영동 507-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼 할인점 두배로마트",
+      "address": "부산광역시 수영구 수영동 446-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시티마트",
+      "address": "부산광역시 수영구 광안동 1064-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심153",
+      "address": "부산광역시 수영구 망미동 835-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세일마트",
+      "address": "부산광역시 수영구 망미동 433-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세일마트",
+      "address": "부산광역시 수영구 망미동 431-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부산상회",
+      "address": "부산광역시 수영구 광안동 161-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진명그릇",
+      "address": "부산광역시 수영구 남천동 26-5    세흥시장 B동 6호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "로얄슈퍼",
+      "address": "부산광역시 수영구 광안동 170-22   동양주택 나동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "함양상회",
+      "address": "부산광역시 수영구 민락동 178-18   1층동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "축협두배로마트",
+      "address": "부산광역시 수영구 광안동 738-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25 수영남천점",
+      "address": "부산광역시 수영구 남천동 247-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새진슈퍼",
+      "address": "부산광역시 수영구 민락동 233-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25 광안목화점",
+      "address": "부산광역시 수영구 민락동 177-5    1층동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "예천상회",
+      "address": "부산광역시 수영구 민락동 23-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황금장모텔(동양슈퍼)",
+      "address": "부산광역시 수영구 민락동 23-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원보라마트",
+      "address": "부산광역시 수영구 남천동 490 동원보라아파트 상가동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광원마트",
+      "address": "부산광역시 수영구 광안동 528-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영주슈퍼",
+      "address": "부산광역시 수영구 광안동 156-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "효제상회",
+      "address": "부산광역시 수영구 수영동 304-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "젤라(아동복)",
+      "address": "부산광역시 수영구 수영동 188-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "부산광역시 수영구 광안동 92-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광안킹마트",
+      "address": "부산광역시 수영구 광안동 167-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25 수영재우점",
+      "address": "부산광역시 수영구 민락동 129-3    재우카라디움 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "애니타임슈퍼",
+      "address": "부산광역시 수영구 수영동 450-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트광안다솜점",
+      "address": "부산광역시 수영구 광안동 141-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "부산광역시 수영구 망미동 440-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)바이더웨이부산수변공원점",
+      "address": "부산광역시 수영구 민락동 110-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)바이더웨이수영구청점",
+      "address": "부산광역시 수영구 남천동 7-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)바이더웨이광안바다점",
+      "address": "부산광역시 수영구 광안동 192-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "A+마트",
+      "address": "부산광역시 수영구 망미동 826-86",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿타임",
+      "address": "부산광역시 수영구 광안동 157-1    1층동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰마트",
+      "address": "부산광역시 수영구 민락동 36-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "탑 플러스마트",
+      "address": "부산광역시 수영구 광안동 744-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "푸르지오수퍼",
+      "address": "부산광역시 수영구 민락동 108-1    민락푸르지오 상가동 210호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창용슈퍼",
+      "address": "부산광역시 수영구 광안동 1041-13   1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가마트",
+      "address": "부산광역시 수영구 광안동 120-262  나동 1층 169호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)코리아세븐남천2호점",
+      "address": "부산광역시 수영구 남천동 29-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남도상회",
+      "address": "부산광역시 수영구 광안동 44-33   1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광안미니몰",
+      "address": "부산광역시 수영구 광안동 187-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한독설비",
+      "address": "부산광역시 수영구 광안동 717-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경남철물",
+      "address": "부산광역시 수영구 광안동 139-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원문구사",
+      "address": "부산광역시 수영구 민락동 147-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "Any Time Posco점",
+      "address": "부산광역시 수영구 수영동 451-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    }
+  ]
+}

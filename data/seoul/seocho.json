@@ -1,0 +1,2047 @@
+{
+  "region": "서울특별시",
+  "regionSlug": "seoul",
+  "district": "서초구",
+  "districtSlug": "seocho",
+  "updatedAt": "2026-03-26",
+  "totalCount": 291,
+  "stores": [
+    {
+      "name": "잔디한양수퍼",
+      "address": "서울특별시 서초구 양재동 218-1",
+      "roadAddress": "서울특별시 서초구 매헌로 25  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "현대수퍼",
+      "address": "서울특별시 서초구 양재동 300",
+      "roadAddress": "서울특별시 서초구 동산로19길 35-1  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "태기쌀상회",
+      "address": "서울특별시 서초구 양재동 268-3",
+      "roadAddress": "서울특별시 서초구 언남11길 34-12  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "코끼리수퍼",
+      "address": "서울특별시 서초구 양재동 244-6",
+      "roadAddress": "서울특별시 서초구 강남대로18길 25  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "코끼리수퍼",
+      "address": "서울특별시 서초구 양재동 395-6",
+      "roadAddress": "서울특별시 서초구 논현로5길 18  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "씨티하우스",
+      "address": "서울특별시 서초구 양재동 256-5",
+      "roadAddress": "서울특별시 서초구 언남길 51  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "코리아세븐",
+      "address": "서울특별시 서초구 양재동 376-2",
+      "roadAddress": "서울특별시 서초구 동산로12길 4  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "개미수퍼",
+      "address": "서울특별시 서초구 양재동 365",
+      "roadAddress": "서울특별시 서초구 강남대로6길 108-4  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "동양마트",
+      "address": "서울특별시 서초구 양재동 276-2",
+      "roadAddress": "서울특별시 서초구 논현로19길 15  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "푸른돌수퍼",
+      "address": "서울특별시 서초구 양재동 250-1",
+      "roadAddress": "서울특별시 서초구 마방로4길 22  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "아리랑유통",
+      "address": "서울특별시 서초구 양재동 361-11",
+      "roadAddress": "서울특별시 서초구 강남대로6길 84  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "원지상회",
+      "address": "서울특별시 서초구 신원동 449-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "형재수퍼마켓",
+      "address": "서울특별시 서초구 신원동 495-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "알뜰수퍼",
+      "address": "서울특별시 서초구 양재동 254-5",
+      "roadAddress": "서울특별시 서초구 언남9길 7-4  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구봉문구",
+      "address": "서울특별시 서초구 양재동 397-9",
+      "roadAddress": "서울특별시 서초구 동산로16길 23  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "동산수퍼",
+      "address": "서울특별시 서초구 양재동 397",
+      "roadAddress": "서울특별시 서초구 논현로7길 35  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "1.5.3마트",
+      "address": "서울특별시 서초구 양재동 379",
+      "roadAddress": "서울특별시 서초구 동산로12길 13-4  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "한미철물상회",
+      "address": "서울특별시 서초구 양재동 279",
+      "roadAddress": "서울특별시 서초구 논현로17길 19  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "OST코리아",
+      "address": "서울특별시 서초구 양재동 279",
+      "roadAddress": "서울특별시 서초구 논현로17길 19  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "청수식품",
+      "address": "서울특별시 서초구 양재동 329",
+      "roadAddress": "서울특별시 서초구 강남대로10길 36  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "현대수퍼",
+      "address": "서울특별시 서초구 양재동 276-7",
+      "roadAddress": "서울특별시 서초구 논현로17길 4  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "시민의숲매점",
+      "address": "서울특별시 서초구 양재동 236",
+      "roadAddress": "서울특별시 서초구 매헌로 99  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "코리아세븐양재2호",
+      "address": "서울특별시 서초구 양재동 305-11",
+      "roadAddress": "서울특별시 서초구 언남12길 1  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "원터",
+      "address": "서울특별시 서초구 원지동 414",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "양지미니",
+      "address": "서울특별시 서초구 양재동 350-11",
+      "roadAddress": "서울특별시 서초구 강남대로8길 10  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "마니파마켓",
+      "address": "서울특별시 서초구 양재동 350-11",
+      "roadAddress": "서울특별시 서초구 강남대로8길 10  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "현대식품",
+      "address": "서울특별시 서초구 양재동 289-1",
+      "roadAddress": "서울특별시 서초구 논현로11길 17  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "정성수퍼",
+      "address": "서울특별시 서초구 양재동 242-8",
+      "roadAddress": "서울특별시 서초구 강남대로18길 11  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "싱싱마트",
+      "address": "서울특별시 서초구 양재동 276-13",
+      "roadAddress": "서울특별시 서초구 논현로17길 22  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "LG25시",
+      "address": "서울특별시 서초구 반포동 54-3",
+      "roadAddress": "서울특별시 서초구 고무래로8길 9  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "럭키수퍼",
+      "address": "서울특별시 서초구 반포동 60-5",
+      "roadAddress": "서울특별시 서초구 사평대로 240  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "하나로마트",
+      "address": "서울특별시 서초구 반포동 53-6",
+      "roadAddress": "서울특별시 서초구 서초중앙로33길 10  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "훼미리문구",
+      "address": "서울특별시 서초구 반포동 49-11",
+      "roadAddress": "서울특별시 서초구 서초중앙로31길 14-13  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "c스페이스",
+      "address": "서울특별시 서초구 반포동 50-10",
+      "roadAddress": "서울특별시 서초구 서초중앙로31길 6-9  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "삼영수퍼",
+      "address": "서울특별시 서초구 반포동 60-4",
+      "roadAddress": "서울특별시 서초구 서초중앙로29길 28  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "내추럴하우스",
+      "address": "서울특별시 서초구 반포동 58-14",
+      "roadAddress": "서울특별시 서초구 고무래로 14  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "LG25TL(미도2차)",
+      "address": "서울특별시 서초구 반포동 58-7",
+      "roadAddress": "서울특별시 서초구 고무래로 6-3  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "동양수퍼",
+      "address": "서울특별시 서초구 방배동 980-32",
+      "roadAddress": "서울특별시 서초구 효령로 53  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "관흥수퍼",
+      "address": "서울특별시 서초구 방배동 2877-13",
+      "roadAddress": "서울특별시 서초구 전원말4길 2  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "오일수퍼",
+      "address": "서울특별시 서초구 방배동 2762",
+      "roadAddress": "서울특별시 서초구 전원말5길 3  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "방배하나로수퍼",
+      "address": "서울특별시 서초구 방배동 467-1",
+      "roadAddress": "서울특별시 서초구 방배천로2안길 50  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "방배청과",
+      "address": "서울특별시 서초구 방배동 436-1",
+      "roadAddress": "서울특별시 서초구 방배천로18길 26  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "우리수퍼",
+      "address": "서울특별시 서초구 방배동 949-1",
+      "roadAddress": "서울특별시 서초구 방배중앙로11길 71  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "한성수퍼",
+      "address": "서울특별시 서초구 방배동 966-41",
+      "roadAddress": "서울특별시 서초구 방배중앙로7길 27  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "동서수퍼",
+      "address": "서울특별시 서초구 방배동 978-28",
+      "roadAddress": "서울특별시 서초구 방배중앙로 17  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "방배수퍼",
+      "address": "서울특별시 서초구 방배동 2650",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "동문수퍼",
+      "address": "서울특별시 서초구 방배동 973-1",
+      "roadAddress": "서울특별시 서초구 방배중앙로5길 55  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "이수중앙수퍼",
+      "address": "서울특별시 서초구 방배동 471-16",
+      "roadAddress": "서울특별시 서초구 청두곶2길 22  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "명성수퍼",
+      "address": "서울특별시 서초구 방배동 454-10",
+      "roadAddress": "서울특별시 서초구 방배천로2안길 77  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "방배마트",
+      "address": "서울특별시 서초구 방배동 978-42",
+      "roadAddress": "서울특별시 서초구 효령로 79  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "중앙미니수퍼",
+      "address": "서울특별시 서초구 방배동 428-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "방배하이퍼",
+      "address": "서울특별시 서초구 방배동 957-3",
+      "roadAddress": "서울특별시 서초구 도구로 77  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "이수수퍼",
+      "address": "서울특별시 서초구 방배동 450-8",
+      "roadAddress": "서울특별시 서초구 방배천로2안길 17  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "우래수퍼",
+      "address": "서울특별시 서초구 방배동 428-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "우성수퍼",
+      "address": "서울특별시 서초구 방배동 2525",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "반짝수퍼",
+      "address": "서울특별시 서초구 방배동 968-14",
+      "roadAddress": "서울특별시 서초구 방배중앙로7길 53-3  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "다전수퍼",
+      "address": "서울특별시 서초구 방배동 457-1",
+      "roadAddress": "서울특별시 서초구 청두곶13길 21  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "은혜유통",
+      "address": "서울특별시 서초구 방배동 462-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "베스원방배",
+      "address": "서울특별시 서초구 방배동 944-28",
+      "roadAddress": "서울특별시 서초구 방배중앙로11길 4  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "방배바이더웨이",
+      "address": "서울특별시 서초구 방배동 444-16",
+      "roadAddress": "서울특별시 서초구 동작대로 18  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "한라마트",
+      "address": "서울특별시 서초구 방배동 451-1",
+      "roadAddress": "서울특별시 서초구 방배천로4안길 26  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "만복수퍼",
+      "address": "서울특별시 서초구 방배동 957-16",
+      "roadAddress": "서울특별시 서초구 도구로9길 8  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "과일나라",
+      "address": "서울특별시 서초구 방배동 2525 우성상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "진학문구",
+      "address": "서울특별시 서초구 반포동 32-8",
+      "roadAddress": "서울특별시 서초구 서초중앙로 206  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "수정수퍼",
+      "address": "서울특별시 서초구 반포동 701-52",
+      "roadAddress": "서울특별시 서초구 주흥15길 16-4  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "LG25시",
+      "address": "서울특별시 서초구 반포동 20-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "제일쌀상회",
+      "address": "서울특별시 서초구 반포동 710-4",
+      "roadAddress": "서울특별시 서초구 주흥길 72-3  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "조아수퍼",
+      "address": "서울특별시 서초구 반포동 728-21",
+      "roadAddress": "서울특별시 서초구 주흥길 31-1  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "동일수퍼",
+      "address": "서울특별시 서초구 반포동 726-1",
+      "roadAddress": "서울특별시 서초구 주흥10길 2  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "리도수퍼",
+      "address": "서울특별시 서초구 반포동 742-21",
+      "roadAddress": "서울특별시 서초구 주흥길 9  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "반포마트",
+      "address": "서울특별시 서초구 반포동 737-16",
+      "roadAddress": "서울특별시 서초구 강남대로79길 10  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "금호수퍼",
+      "address": "서울특별시 서초구 반포동 739-1",
+      "roadAddress": "서울특별시 서초구 강남대로83길 37  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "44호",
+      "address": "서울특별시 서초구 반포동 748-1",
+      "roadAddress": "서울특별시 서초구 강남대로 483  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "바이더웨이",
+      "address": "서울특별시 서초구 반포동 734-34",
+      "roadAddress": "서울특별시 서초구 강남대로83길 34  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "무지개수퍼",
+      "address": "서울특별시 서초구 반포동 716-7",
+      "roadAddress": "서울특별시 서초구 주흥9길 14-10  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "영동7-11",
+      "address": "서울특별시 서초구 반포동 722-38",
+      "roadAddress": "서울특별시 서초구 강남대로 521-4  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "동네수퍼",
+      "address": "서울특별시 서초구 반포동 703-5",
+      "roadAddress": "서울특별시 서초구 신반포로42길 12  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "우리식품",
+      "address": "서울특별시 서초구 반포동 742-22",
+      "roadAddress": "서울특별시 서초구 주흥1길 6  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "영동수퍼",
+      "address": "서울특별시 서초구 반포동 720-24",
+      "roadAddress": "서울특별시 서초구 사평대로53길 82  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "강남공판장",
+      "address": "서울특별시 서초구 반포동 708-4",
+      "roadAddress": "서울특별시 서초구 사평대로55길 138  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "미니수퍼",
+      "address": "서울특별시 서초구 반포동 706-10",
+      "roadAddress": "서울특별시 서초구 강남대로 545-4  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "반포수퍼",
+      "address": "서울특별시 서초구 반포동 728-30",
+      "roadAddress": "서울특별시 서초구 주흥길 27  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "새마을상회",
+      "address": "서울특별시 서초구 반포동 717",
+      "roadAddress": "서울특별시 서초구 주흥13길 17  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "현대미니수퍼",
+      "address": "서울특별시 서초구 반포동 734",
+      "roadAddress": "서울특별시 서초구 사평대로55길 65-11  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "경성수퍼",
+      "address": "서울특별시 서초구 반포동 739-19",
+      "roadAddress": "서울특별시 서초구 사평대로55길 21-2  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "한아름마트",
+      "address": "서울특별시 서초구 반포동 741-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "대옥약국",
+      "address": "서울특별시 서초구 반포동 1 주공3단지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "홍일식품",
+      "address": "서울특별시 서초구 반포동 722-26",
+      "roadAddress": "서울특별시 서초구 사평대로57길 104  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "약수식품",
+      "address": "서울특별시 서초구 반포동 732",
+      "roadAddress": "서울특별시 서초구 주흥6길 2  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "다마트",
+      "address": "서울특별시 서초구 반포동 30-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "영빈상회",
+      "address": "서울특별시 서초구 반포동 715-19",
+      "roadAddress": "서울특별시 서초구 주흥11길 27  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "반포제일lg25시",
+      "address": "서울특별시 서초구 반포동 718-9",
+      "roadAddress": "서울특별시 서초구 사평대로53길 103  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "훼미리마트3호점",
+      "address": "서울특별시 서초구 반포동 746",
+      "roadAddress": "서울특별시 서초구 강남대로79길 31  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "영동훼미리마트",
+      "address": "서울특별시 서초구 반포동 704-18",
+      "roadAddress": "서울특별시 서초구 신반포로 326-16  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "임마뉴엘",
+      "address": "서울특별시 서초구 반포동 735-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "유진유통",
+      "address": "서울특별시 서초구 반포동 32-13",
+      "roadAddress": "서울특별시 서초구 고무래로 34  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "반포마트",
+      "address": "서울특별시 서초구 반포동 703-7",
+      "roadAddress": "서울특별시 서초구 주흥길 82  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "LG25 강남중앙점",
+      "address": "서울특별시 서초구 서초동 1309-9",
+      "roadAddress": "서울특별시 서초구 서초대로77길 55  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-11"
+    },
+    {
+      "name": "LG25 반포제일점",
+      "address": "서울특별시 서초구 반포동 718-9",
+      "roadAddress": "서울특별시 서초구 사평대로53길 103  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-18"
+    },
+    {
+      "name": "동신슈퍼",
+      "address": "서울특별시 서초구 서초동 1539-10",
+      "roadAddress": "서울특별시 서초구 반포대로 93  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-18"
+    },
+    {
+      "name": "성일상회",
+      "address": "서울특별시 서초구 서초동 1435-6",
+      "roadAddress": "서울특별시 서초구 효령로70길 36-25  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "풍년슈퍼",
+      "address": "서울특별시 서초구 서초동 1432-24",
+      "roadAddress": "서울특별시 서초구 남부순환로339길 25  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "수원상회",
+      "address": "서울특별시 서초구 서초동 1604-18",
+      "roadAddress": "서울특별시 서초구 서리풀길 1  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "다정식품",
+      "address": "서울특별시 서초구 서초동 1617-32",
+      "roadAddress": "서울특별시 서초구 서리풀2길 30  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-03"
+    },
+    {
+      "name": "서초슈퍼",
+      "address": "서울특별시 서초구 서초동 1621-15",
+      "roadAddress": "서울특별시 서초구 서초중앙로6길 31  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "나나식품",
+      "address": "서울특별시 서초구 서초동 1622-1",
+      "roadAddress": "서울특별시 서초구 서초중앙로12길 14 (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "신흥슈퍼",
+      "address": "서울특별시 서초구 서초동 1671-5",
+      "roadAddress": "서울특별시 서초구 서초중앙로22길 25  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-03"
+    },
+    {
+      "name": "진영식품",
+      "address": "서울특별시 서초구 서초동 1629-3",
+      "roadAddress": "서울특별시 서초구 사임당로 86  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "무궁화식품",
+      "address": "서울특별시 서초구 서초동 1610-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "로약슈퍼",
+      "address": "서울특별시 서초구 서초동 1609-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "일송슈퍼",
+      "address": "서울특별시 서초구 서초동 1642-1",
+      "roadAddress": "서울특별시 서초구 사임당로17길 68  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "아남슈퍼",
+      "address": "서울특별시 서초구 서초동 1641",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "서울식품",
+      "address": "서울특별시 서초구 서초동 1357-55",
+      "roadAddress": "서울특별시 서초구 강남대로43길 26  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "우성쇼핑",
+      "address": "서울특별시 서초구 서초동 1336",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "서울특별시 서초구 서초동 1330-9",
+      "roadAddress": "서울특별시 서초구 사임당로 173  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "영동슈퍼",
+      "address": "서울특별시 서초구 서초동 1349-17",
+      "roadAddress": "서울특별시 서초구 서운로11길 85  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "로얄슈퍼",
+      "address": "서울특별시 서초구 서초동 1330-9",
+      "roadAddress": "서울특별시 서초구 사임당로 173  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "현대식품",
+      "address": "서울특별시 서초구 서초동 1343-5",
+      "roadAddress": "서울특별시 서초구 서운로11길 34  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "서울특별시 서초구 서초동 1349-6",
+      "roadAddress": "서울특별시 서초구 효령로74길 39  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "나인유통",
+      "address": "서울특별시 서초구 서초동 491",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "서울특별시 서초구 서초동 491",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "연우청과",
+      "address": "서울특별시 서초구 방배동 481-1",
+      "roadAddress": "서울특별시 서초구 효령로2길 26  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "이천슈퍼",
+      "address": "서울특별시 서초구 방배동 476-38",
+      "roadAddress": "서울특별시 서초구 남부순환로287길 26  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-03"
+    },
+    {
+      "name": "우신상회",
+      "address": "서울특별시 서초구 방배동 539-39",
+      "roadAddress": "서울특별시 서초구 효령로20길 28  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "서울특별시 서초구 방배동 486-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동서슈퍼",
+      "address": "서울특별시 서초구 방배동 983-25",
+      "roadAddress": "서울특별시 서초구 효령로34길 32  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "방배슈퍼",
+      "address": "서울특별시 서초구 방배동 541-140",
+      "roadAddress": "서울특별시 서초구 효령로14바길 11-1  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "안성식품",
+      "address": "서울특별시 서초구 방배동 541-25",
+      "roadAddress": "서울특별시 서초구 효령로18길 30  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "호남슈퍼",
+      "address": "서울특별시 서초구 방배동 537-32",
+      "roadAddress": "서울특별시 서초구 효령로16길 24  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "서울특별시 서초구 방배동 1022-2",
+      "roadAddress": "서울특별시 서초구 방배로8길 6  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "서울특별시 서초구 방배동 955-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "한양수퍼",
+      "address": "서울특별시 서초구 방배동 478-18",
+      "roadAddress": "서울특별시 서초구 남부순환로287길 9-1  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "현영수퍼",
+      "address": "서울특별시 서초구 방배동 593-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "만년슈퍼",
+      "address": "서울특별시 서초구 방배동 463-12",
+      "roadAddress": "서울특별시 서초구 청두곶9길 1  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-05"
+    },
+    {
+      "name": "삼진건재",
+      "address": "서울특별시 서초구 서초동 1439-1",
+      "roadAddress": "서울특별시 서초구 남부순환로339길 72  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "자연미니수퍼",
+      "address": "서울특별시 서초구 서초동 1604-18",
+      "roadAddress": "서울특별시 서초구 서리풀길 1  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "화인식품",
+      "address": "서울특별시 서초구 서초동 1626-1",
+      "roadAddress": "서울특별시 서초구 사임당로10길 1  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "미미슈퍼",
+      "address": "서울특별시 서초구 서초동 1628-38",
+      "roadAddress": "서울특별시 서초구 사임당로18길 22-4  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "남양수퍼",
+      "address": "서울특별시 서초구 서초동 1603-22",
+      "roadAddress": "서울특별시 서초구 서초중앙로8길 38-2  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "유진슈퍼",
+      "address": "서울특별시 서초구 서초동 1627-5",
+      "roadAddress": "서울특별시 서초구 사임당로12길 17  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "부부마트",
+      "address": "서울특별시 서초구 서초동 1626-1",
+      "roadAddress": "서울특별시 서초구 사임당로10길 1  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "코리아마트",
+      "address": "서울특별시 서초구 서초동 1685",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "원풍상회",
+      "address": "서울특별시 서초구 서초동 1647-2",
+      "roadAddress": "서울특별시 서초구 사임당로 105  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "서초마트",
+      "address": "서울특별시 서초구 서초동 1670-1",
+      "roadAddress": "서울특별시 서초구 서초대로54길 11  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "서울특별시 서초구 서초동 1639-3",
+      "roadAddress": "서울특별시 서초구 서초중앙로22길 83  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "아리랑편의점",
+      "address": "서울특별시 서초구 서초동 1603-66",
+      "roadAddress": "서울특별시 서초구 효령로57길 4  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "지현슈퍼",
+      "address": "서울특별시 서초구 서초동 1669-15",
+      "roadAddress": "서울특별시 서초구 서초대로56길 22  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "으하미니수퍼",
+      "address": "서울특별시 서초구 서초동 1442-1",
+      "roadAddress": "서울특별시 서초구 서초중앙로2길 84  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "엘지25",
+      "address": "서울특별시 서초구 서초동 1656-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "아트문구사",
+      "address": "서울특별시 서초구 서초동 1443-1",
+      "roadAddress": "서울특별시 서초구 효령로 314  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "현대마트",
+      "address": "서울특별시 서초구 서초동 1436-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "코리아세븐",
+      "address": "서울특별시 서초구 서초동 1631-1",
+      "roadAddress": "서울특별시 서초구 사임당로 102-5  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "대일슈퍼",
+      "address": "서울특별시 서초구 서초동 1428-13",
+      "roadAddress": "서울특별시 서초구 남부순환로333길 15-4  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "미니스톱",
+      "address": "서울특별시 서초구 서초동 1643-48",
+      "roadAddress": "서울특별시 서초구 사임당로19길 88-8  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "현대마트",
+      "address": "서울특별시 서초구 서초동 1648-10",
+      "roadAddress": "서울특별시 서초구 사임당로 91  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "서울특별시 서초구 서초동 1673-10",
+      "roadAddress": "서울특별시 서초구 서초대로 310  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "서초매점",
+      "address": "서울특별시 서초구 서초동 1603-54",
+      "roadAddress": "서울특별시 서초구 효령로 321  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "하나로문구",
+      "address": "서울특별시 서초구 서초동 1340-3",
+      "roadAddress": "서울특별시 서초구 효령로 430  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "서울특별시 서초구 서초동 1359-15",
+      "roadAddress": "서울특별시 서초구 서운로6길 21-2  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "용석식품",
+      "address": "서울특별시 서초구 서초동 1362-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "호연식품",
+      "address": "서울특별시 서초구 서초동 1358-17",
+      "roadAddress": "서울특별시 서초구 남부순환로347길 60  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "서울특별시 서초구 서초동 1358-17",
+      "roadAddress": "서울특별시 서초구 남부순환로347길 60  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "동방수퍼",
+      "address": "서울특별시 서초구 서초동 1357-55",
+      "roadAddress": "서울특별시 서초구 강남대로43길 26  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "종합수퍼",
+      "address": "서울특별시 서초구 서초동 1360-53",
+      "roadAddress": "서울특별시 서초구 강남대로39길 26-1  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "코리아수퍼",
+      "address": "서울특별시 서초구 서초동 1363-4",
+      "roadAddress": "서울특별시 서초구 남부순환로347길 18  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "동양마트",
+      "address": "서울특별시 서초구 서초동 1327-8",
+      "roadAddress": "서울특별시 서초구 서초대로78길 28  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "해태슈퍼",
+      "address": "서울특별시 서초구 서초동 1335",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "엘지25",
+      "address": "서울특별시 서초구 서초동 1332-7",
+      "roadAddress": "서울특별시 서초구 사임당로 139  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "엘지25",
+      "address": "서울특별시 서초구 서초동 1337-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "알파유통",
+      "address": "서울특별시 서초구 서초동 1319-11",
+      "roadAddress": "서울특별시 서초구 강남대로 381  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "현대슈터",
+      "address": "서울특별시 서초구 서초동 1319-13",
+      "roadAddress": "서울특별시 서초구 강남대로 375  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "코리아세븐",
+      "address": "서울특별시 서초구 양재동 257-1",
+      "roadAddress": "서울특별시 서초구 마방로6길 14  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "현우식품",
+      "address": "서울특별시 서초구 서초동 1327-2",
+      "roadAddress": "서울특별시 서초구 서초대로78길 22  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "제주양돈축협",
+      "address": "서울특별시 서초구 서초동 1325",
+      "roadAddress": "서울특별시 서초구 서초대로70길 19  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "현대마트",
+      "address": "서울특별시 서초구 서초동 1337-6",
+      "roadAddress": "서울특별시 서초구 강남대로51길 10  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "코리아슈퍼",
+      "address": "서울특별시 서초구 서초동 1338-21",
+      "roadAddress": "서울특별시 서초구 강남대로 309  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "원일마트",
+      "address": "서울특별시 서초구 서초동 1365-22",
+      "roadAddress": "서울특별시 서초구 남부순환로 2561  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "엘지25",
+      "address": "서울특별시 서초구 서초동 1366-18",
+      "roadAddress": "서울특별시 서초구 남부순환로 2575  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "25시마트",
+      "address": "서울특별시 서초구 서초동 1327-29",
+      "roadAddress": "서울특별시 서초구 서초대로74길 29  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "에덴슈퍼",
+      "address": "서울특별시 서초구 방배동 530-26",
+      "roadAddress": "서울특별시 서초구 효령로 34-8  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "서울특별시 서초구 방배동 987-2",
+      "roadAddress": "서울특별시 서초구 효령로36길 22  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "서울특별시 서초구 방배동 541-115",
+      "roadAddress": "서울특별시 서초구 효령로14길 33  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "서초슈퍼",
+      "address": "서울특별시 서초구 방배동 988-1",
+      "roadAddress": "서울특별시 서초구 효령로 164  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "월드마트",
+      "address": "서울특별시 서초구 방배동 1018-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "한마음슈퍼",
+      "address": "서울특별시 서초구 방배동 1008",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "경남문구사",
+      "address": "서울특별시 서초구 방배동 1028-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "서울특별시 서초구 방배동 1008",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "대우수퍼",
+      "address": "서울특별시 서초구 방배동 1038",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "진양수퍼",
+      "address": "서울특별시 서초구 방배동 539-95",
+      "roadAddress": "서울특별시 서초구 효령로 70  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "코리아세븐",
+      "address": "서울특별시 서초구 방배동 530-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "임광문구사",
+      "address": "서울특별시 서초구 방배동 1015-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "대명마트",
+      "address": "서울특별시 서초구 방배동 483-6",
+      "roadAddress": "서울특별시 서초구 효령로2길 61  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "대경슈퍼",
+      "address": "서울특별시 서초구 방배동 539-41",
+      "roadAddress": "서울특별시 서초구 효령로20길 5  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "남부슈퍼",
+      "address": "서울특별시 서초구 방배동 00-00",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "진로메스토아",
+      "address": "서울특별시 서초구 방배동 981-1",
+      "roadAddress": "서울특별시 서초구 효령로28길 3  (방배동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "서초수퍼",
+      "address": "서울특별시 서초구 서초동 1302-1",
+      "roadAddress": "서울특별시 서초구 서운로 226  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "동양마트",
+      "address": "서울특별시 서초구 서초동 1308-2",
+      "roadAddress": "서울특별시 서초구 서초대로75길 45  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "lg25",
+      "address": "서울특별시 서초구 서초동 1307-7",
+      "roadAddress": "서울특별시 서초구 강남대로61길 10  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "LG25",
+      "address": "서울특별시 서초구 서초동 1307-104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "서초프라자",
+      "address": "서울특별시 서초구 서초동 1309-9",
+      "roadAddress": "서울특별시 서초구 서초대로77길 55  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "코리아세븐",
+      "address": "서울특별시 서초구 서초동 1304-2",
+      "roadAddress": "서울특별시 서초구 강남대로 449  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "황소식품",
+      "address": "서울특별시 서초구 서초동 1303-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "동양마트",
+      "address": "서울특별시 서초구 서초동 1317-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "서울특별시 서초구 서초동 20-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "미니수퍼",
+      "address": "서울특별시 서초구 서초동 20-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "영동프라자",
+      "address": "서울특별시 서초구 서초동 19-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "생마트",
+      "address": "서울특별시 서초구 서초동 1684",
+      "roadAddress": "서울특별시 서초구 고무래로 94  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "동양마트",
+      "address": "서울특별시 서초구 서초동 1315-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진흥슈퍼",
+      "address": "서울특별시 서초구 서초동 1315-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "삼정수퍼",
+      "address": "서울특별시 서초구 서초동 34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "럭키수퍼",
+      "address": "서울특별시 서초구 서초동 1687-2",
+      "roadAddress": "서울특별시 서초구 서초중앙로24길 55  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "한정식품",
+      "address": "서울특별시 서초구 서초동 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "LG25",
+      "address": "서울특별시 서초구 서초동 1309-9",
+      "roadAddress": "서울특별시 서초구 서초대로77길 55  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "코리아세븐",
+      "address": "서울특별시 서초구 서초동 1687",
+      "roadAddress": "서울특별시 서초구 서초중앙로24길 43  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "서울특별시 서초구 서초동 1302-4",
+      "roadAddress": "서울특별시 서초구 서운로 216  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "LG25",
+      "address": "서울특별시 서초구 서초동 1689-1",
+      "roadAddress": "서울특별시 서초구 서초대로 331  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "경주슈퍼",
+      "address": "서울특별시 서초구 서초동 1686-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "서울특별시 서초구 서초동 1692-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "제일수퍼",
+      "address": "서울특별시 서초구 서초동 1694-12",
+      "roadAddress": "서울특별시 서초구 서초대로51길 13  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "코리아세븐",
+      "address": "서울특별시 서초구 서초동 1699-1",
+      "roadAddress": "서울특별시 서초구 서초중앙로 166  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "주일식품",
+      "address": "서울특별시 서초구 서초동 1309-8",
+      "roadAddress": "서울특별시 서초구 강남대로69길 8  (서초동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "농축산물판매소",
+      "address": "서울특별시 서초구 반포동 806-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "동대문상회",
+      "address": "서울특별시 서초구 반포동 913",
+      "roadAddress": "서울특별시 서초구 신반포로 45  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "우신식품",
+      "address": "서울특별시 서초구 반포동 819",
+      "roadAddress": "서울특별시 서초구 신반포로 9  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "반포레저타운",
+      "address": "서울특별시 서초구 반포동 1141",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "코리아세븐",
+      "address": "서울특별시 서초구 반포동 1189",
+      "roadAddress": "서울특별시 서초구 신반포로 41  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "한신슈퍼",
+      "address": "서울특별시 서초구 반포동 813",
+      "roadAddress": "서울특별시 서초구 신반포로3길 18  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "삼미슈퍼",
+      "address": "서울특별시 서초구 반포동 816",
+      "roadAddress": "서울특별시 서초구 신반포로3길 19  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "동립상회",
+      "address": "서울특별시 서초구 반포동 809",
+      "roadAddress": "서울특별시 서초구 신반포로 45  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "중앙식품",
+      "address": "서울특별시 서초구 반포동 507",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "반포할인마트",
+      "address": "서울특별시 서초구 반포동 1050",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "제주SMD",
+      "address": "서울특별시 서초구 반포동 1313",
+      "roadAddress": "서울특별시 서초구 신반포로3길 8  (반포동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "동산식품",
+      "address": "서울특별시 서초구 양재동 83-12",
+      "roadAddress": "서울특별시 서초구 바우뫼로 202  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "미도식품",
+      "address": "서울특별시 서초구 양재동 69-4",
+      "roadAddress": "서울특별시 서초구 바우뫼로33길 7-12  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "명식품",
+      "address": "서울특별시 서초구 양재동 18-5",
+      "roadAddress": "서울특별시 서초구 강남대로30길 52  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "식유촌상회",
+      "address": "서울특별시 서초구 우면동 599-14",
+      "roadAddress": "서울특별시 서초구 식유촌길 30  (우면동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "우면노인정",
+      "address": "서울특별시 서초구 우면동 221",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "영동식품",
+      "address": "서울특별시 서초구 양재동 19-13",
+      "roadAddress": "서울특별시 서초구 논현로31길 44  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "동현식품",
+      "address": "서울특별시 서초구 우면동 6-7",
+      "roadAddress": "서울특별시 서초구 바우뫼로6길 32-6  (우면동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "코리아식품",
+      "address": "서울특별시 서초구 양재동 2-30",
+      "roadAddress": "서울특별시 서초구 남부순환로364길 7-24  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "한양식품",
+      "address": "서울특별시 서초구 양재동 2-30",
+      "roadAddress": "서울특별시 서초구 남부순환로364길 7-24  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "현대식품",
+      "address": "서울특별시 서초구 양재동 11-84",
+      "roadAddress": "서울특별시 서초구 남부순환로356길 18-3  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "양재정육점",
+      "address": "서울특별시 서초구 양재동 11-84",
+      "roadAddress": "서울특별시 서초구 남부순환로356길 18-3  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "주영수퍼",
+      "address": "서울특별시 서초구 양재동 96-16",
+      "roadAddress": "서울특별시 서초구 양재천로 103-18  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "양재수퍼",
+      "address": "서울특별시 서초구 양재동 20-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "대산슈퍼",
+      "address": "서울특별시 서초구 양재동 114-4",
+      "roadAddress": "서울특별시 서초구 강남대로23길 64  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "강남문구상사",
+      "address": "서울특별시 서초구 양재동 2-38",
+      "roadAddress": "서울특별시 서초구 남부순환로364길 7-3  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "디딤돌",
+      "address": "서울특별시 서초구 우면동 53",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우면그린마트",
+      "address": "서울특별시 서초구 우면동 3-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "럭키수퍼",
+      "address": "서울특별시 서초구 우면동 0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "LG25시(우면)",
+      "address": "서울특별시 서초구 우면동 65-1",
+      "roadAddress": "서울특별시 서초구 바우뫼로7길 13  (우면동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "우성하이퍼마켙",
+      "address": "서울특별시 서초구 양재동 154-2",
+      "roadAddress": "서울특별시 서초구 바우뫼로 91  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "코오롱수퍼",
+      "address": "서울특별시 서초구 우면동 70",
+      "roadAddress": "서울특별시 서초구 바우뫼로 53  (우면동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "LG25(1동)",
+      "address": "서울특별시 서초구 양재동 13-4",
+      "roadAddress": "서울특별시 서초구 강남대로 216  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "코끼리수퍼",
+      "address": "서울특별시 서초구 양재동 3-18",
+      "roadAddress": "서울특별시 서초구 바우뫼로43길 18  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "대지식품",
+      "address": "서울특별시 서초구 양재동 85",
+      "roadAddress": "서울특별시 서초구 논현로27길 15  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "코리아세븐우면점",
+      "address": "서울특별시 서초구 우면동 66",
+      "roadAddress": "서울특별시 서초구 바우뫼로7길 18  (우면동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "우성복지매장",
+      "address": "서울특별시 서초구 양재동 산 51-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "명성마트",
+      "address": "서울특별시 서초구 양재동 1-26",
+      "roadAddress": "서울특별시 서초구 남부순환로 2636  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "LG25",
+      "address": "서울특별시 서초구 양재동 11-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "해안전기",
+      "address": "서울특별시 서초구 양재동 6-5",
+      "roadAddress": "서울특별시 서초구 강남대로30길 68  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "대림수퍼",
+      "address": "서울특별시 서초구 양재동 82",
+      "roadAddress": "서울특별시 서초구 바우뫼로 184  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "은평수퍼",
+      "address": "서울특별시 서초구 양재동 11-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "365수퍼",
+      "address": "서울특별시 서초구 양재동 110-18",
+      "roadAddress": "서울특별시 서초구 양재천로17길 26  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "동양종합보수",
+      "address": "서울특별시 서초구 우면동 59",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "청기와슈퍼",
+      "address": "서울특별시 서초구 양재동 92-4",
+      "roadAddress": "서울특별시 서초구 양재천로23길 7  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "금호유통",
+      "address": "서울특별시 서초구 우면동 4-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "고인돌수퍼",
+      "address": "서울특별시 서초구 양재동 110-10",
+      "roadAddress": "서울특별시 서초구 강남대로23길 12  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "용식품",
+      "address": "서울특별시 서초구 양재동 16-34",
+      "roadAddress": "서울특별시 서초구 논현로31길 64  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "우성그린마트",
+      "address": "서울특별시 서초구 양재동 153",
+      "roadAddress": "서울특별시 서초구 바우뫼로 91  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "코사마트우면점",
+      "address": "서울특별시 서초구 우면동 59",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "태흥식품",
+      "address": "서울특별시 서초구 양재동 121-151",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "미니상회",
+      "address": "서울특별시 서초구 우면동 610-13",
+      "roadAddress": "서울특별시 서초구 식유촌길 51-8  (우면동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "강남슈퍼",
+      "address": "서울특별시 서초구 양재동 333-15",
+      "roadAddress": "서울특별시 서초구 강남대로10길 65  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "구룡슈퍼",
+      "address": "서울특별시 서초구 양재동 386-16",
+      "roadAddress": "서울특별시 서초구 동산로14길 33  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "양재마트",
+      "address": "서울특별시 서초구 양재동 358-13",
+      "roadAddress": "서울특별시 서초구 강남대로6길 60-1  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "삼현강남수퍼",
+      "address": "서울특별시 서초구 양재동 322-2",
+      "roadAddress": "서울특별시 서초구 강남대로12길 41  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "럭키수퍼",
+      "address": "서울특별시 서초구 양재동 291-17",
+      "roadAddress": "서울특별시 서초구 동산로 69  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "우리수퍼",
+      "address": "서울특별시 서초구 양재동 306-8",
+      "roadAddress": "서울특별시 서초구 언남10길 17  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "영동농협",
+      "address": "서울특별시 서초구 양재동 372",
+      "roadAddress": "서울특별시 서초구 동산로6길 3  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "오분휴게실",
+      "address": "서울특별시 서초구 양재동 257-2",
+      "roadAddress": "서울특별시 서초구 마방로6길 18  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "오케이수퍼",
+      "address": "서울특별시 서초구 양재동 319-11",
+      "roadAddress": "서울특별시 서초구 강남대로12길 23-48  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "LG25양재점",
+      "address": "서울특별시 서초구 양재동 291-14",
+      "roadAddress": "서울특별시 서초구 동산로 73-1  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "정일식품",
+      "address": "서울특별시 서초구 양재동 209-5",
+      "roadAddress": "서울특별시 서초구 매헌로 42  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "호경쌀상회",
+      "address": "서울특별시 서초구 양재동 301-12",
+      "roadAddress": "서울특별시 서초구 언남16길 3  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "현대전기철물",
+      "address": "서울특별시 서초구 양재동 391-18",
+      "roadAddress": "서울특별시 서초구 동산로 68  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "한영슈퍼",
+      "address": "서울특별시 서초구 양재동 249-13",
+      "roadAddress": "서울특별시 서초구 마방로2길 15-5  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "한양수퍼",
+      "address": "서울특별시 서초구 양재동 339-4",
+      "roadAddress": "서울특별시 서초구 강남대로8길 39-16  (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-30"
+    },
+    {
+      "name": "(사)한국포장재활용사업공제조합",
+      "address": "서울특별시 서초구 양재동 16-13 제이프러스빌딩",
+      "roadAddress": "서울특별시 서초구 바우뫼로37길 18, 제이프러스빌딩 (양재동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-08-02"
+    },
+    {
+      "name": "지에스25 천안중앙도서관점",
+      "address": "서울특별시 서초구 양재동 154-2 우성아파트 105호",
+      "roadAddress": "서울특별시 서초구 바우뫼로 91, 105호 (양재동, 우성아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2020-10-07"
+    },
+    {
+      "name": "판다팜백화점",
+      "address": "서울특별시 서초구 서초동 1436-1 현대아파트",
+      "roadAddress": "서울특별시 서초구 효령로68길 13, 20동 602호 (서초동, 현대아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2017-10-16"
+    }
+  ]
+}

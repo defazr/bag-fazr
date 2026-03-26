@@ -1,0 +1,549 @@
+{
+  "region": "인천광역시",
+  "regionSlug": "incheon",
+  "district": "옹진군",
+  "districtSlug": "ongjin",
+  "updatedAt": "2026-03-26",
+  "totalCount": 77,
+  "stores": [
+    {
+      "name": "선창식당",
+      "address": "인천광역시 옹진군 덕적면 북리 154-4 선창민박, 식당",
+      "roadAddress": "인천광역시 옹진군 덕적면 덕적북로518번길 77, 선창민박, 식당",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "북리슈퍼",
+      "address": "인천광역시 옹진군 덕적면 북리 192 잡화점",
+      "roadAddress": "인천광역시 옹진군 덕적면 덕적북로 507-15, 잡화점",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "서면연초소매소",
+      "address": "인천광역시 옹진군 덕적면 서포리 (서면)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "도우연초소매소",
+      "address": "인천광역시 옹진군 덕적면 진리 (도우)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "진리연초소매소",
+      "address": "인천광역시 옹진군 덕적면 진리 (진발)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "신흥상회",
+      "address": "인천광역시 옹진군 영흥면 내리 685",
+      "roadAddress": "인천광역시 옹진군 영흥면 영흥북로343번길 44-16",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "백령상회",
+      "address": "인천광역시 옹진군 영흥면 내리 12-1 백령상회",
+      "roadAddress": "인천광역시 옹진군 영흥면 영흥북로35번길 64, 백령상회",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "영흥철물점",
+      "address": "인천광역시 옹진군 영흥면 내리 5-28 영흥철물",
+      "roadAddress": "인천광역시 옹진군 영흥면 영흥북로35번길 15, 영흥철물",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "영도건재",
+      "address": "인천광역시 옹진군 영흥면 내리 1-1 영도빌라",
+      "roadAddress": "인천광역시 옹진군 영흥면 영흥북로 37-15 (영도빌라)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "유미슈퍼",
+      "address": "인천광역시 옹진군 백령면 진촌리 695-6 유미수퍼마켓",
+      "roadAddress": "인천광역시 옹진군 백령면 백령로 278, 유미수퍼마켓",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-20"
+    },
+    {
+      "name": "선우상회",
+      "address": "인천광역시 옹진군 백령면 진촌리 753-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연봉회관",
+      "address": "인천광역시 옹진군 백령면 북포리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가을담배",
+      "address": "인천광역시 옹진군 백령면 가을리 41",
+      "roadAddress": "인천광역시 옹진군 백령면 백령로 890",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-21"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "인천광역시 옹진군 백령면 연화리 1048-75",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장촌상회",
+      "address": "인천광역시 옹진군 백령면 남포리 733",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "인천광역시 옹진군 대청면 대청리 992",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부식가게",
+      "address": "인천광역시 옹진군 대청면 대청리 377-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "인천광역시 옹진군 대청면 대청리 371-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부두상회",
+      "address": "인천광역시 옹진군 대청면 대청리 381",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "인천광역시 옹진군 대청면 대청리 391-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "인천광역시 옹진군 대청면 대청리 487-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "인천광역시 옹진군 대청면 대청리 482-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "인천광역시 옹진군 대청면 대청리 473-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "인천광역시 옹진군 대청면 대청리 1269",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "인천광역시 옹진군 대청면 대청리 150",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "인천광역시 옹진군 대청면 대청리 793-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "인천광역시 옹진군 대청면 대청리 877-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "자월농협",
+      "address": "인천광역시 옹진군 자월면 자월리 산 215-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소망체인",
+      "address": "인천광역시 옹진군 자월면 자월리 1096",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼화상회",
+      "address": "인천광역시 옹진군 대청면 대청리 257",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "왕대포상회",
+      "address": "인천광역시 옹진군 대청면 대청리 395",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "천냔상회",
+      "address": "인천광역시 옹진군 대청면 대청리 480",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "밭지름민박",
+      "address": "인천광역시 옹진군 덕적면 진리 576-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해변매점",
+      "address": "인천광역시 옹진군 덕적면 서포리 134",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "천일식품",
+      "address": "인천광역시 옹진군 덕적면 진리 326",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "낙원상회",
+      "address": "인천광역시 옹진군 덕적면 서포리 134-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상가슈퍼",
+      "address": "인천광역시 옹진군 덕적면 서포리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부흥상회",
+      "address": "인천광역시 옹진군 백령면 가을리 473",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "공군p.x매장",
+      "address": "인천광역시 옹진군 백령면 연화리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백령농협",
+      "address": "인천광역시 옹진군 백령면 진촌리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대식당",
+      "address": "인천광역시 옹진군 영흥면 외리 980",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥철물건재",
+      "address": "인천광역시 옹진군 영흥면 내리 245",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조흥상회",
+      "address": "인천광역시 옹진군 영흥면 내리 521-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "혜진식품",
+      "address": "인천광역시 옹진군 영흥면 내리 10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼리상회",
+      "address": "인천광역시 옹진군 영흥면 내리 40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "십리포식당",
+      "address": "인천광역시 옹진군 영흥면 내리 729-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한성슈퍼",
+      "address": "인천광역시 옹진군 백령면 진촌리 703-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "흥농종묘",
+      "address": "인천광역시 옹진군 백령면 진촌리 703-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해금마크사",
+      "address": "인천광역시 옹진군 백령면 북포리 503-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부연슈퍼",
+      "address": "인천광역시 옹진군 백령면 북포리 406-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가을담배집",
+      "address": "인천광역시 옹진군 백령면 가을리 41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "인천광역시 옹진군 백령면 연화리 1048-73",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선진마트",
+      "address": "인천광역시 옹진군 대청면 대청리 377-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "섬상회",
+      "address": "인천광역시 옹진군 대청면 대청리 385-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "인천광역시 옹진군 대청면 대청리 406",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장경리솔밭매점",
+      "address": "인천광역시 옹진군 영흥면 내리 1665-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옹진농협북도지소",
+      "address": "인천광역시 옹진군 북도면 장봉리 1165",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옹진농협시도지소",
+      "address": "인천광역시 옹진군 북도면 시도리 472",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "인천광역시 옹진군 북도면 시도리 270",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부두상회",
+      "address": "인천광역시 옹진군 북도면 신도리 506-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한빛마트",
+      "address": "인천광역시 옹진군 영흥면 외리 909-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한빛마트",
+      "address": "인천광역시 옹진군 영흥면 외리 909-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선재가게",
+      "address": "인천광역시 옹진군 영흥면 선재리 108-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선재낚시",
+      "address": "인천광역시 옹진군 영흥면 선재리 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "나룻터 정육점",
+      "address": "인천광역시 옹진군 영흥면 선재리 66",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옹진수퍼",
+      "address": "인천광역시 옹진군 영흥면 내리 8-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대청.소청내연발전소",
+      "address": "인천광역시 옹진군 대청면 대청리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백령할인마트",
+      "address": "인천광역시 옹진군 백령면 북포리 531-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수원상회",
+      "address": "인천광역시 옹진군 백령면 가을리 35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "와보니슈퍼",
+      "address": "인천광역시 옹진군 영흥면 선재리 415-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선재상회",
+      "address": "인천광역시 옹진군 영흥면 선재리 325-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남상회",
+      "address": "인천광역시 옹진군 연평면 연평리 251",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장춘상회",
+      "address": "인천광역시 옹진군 연평면 연평리 482-42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동촌상회",
+      "address": "인천광역시 옹진군 자월면 자월리 314-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성필상회",
+      "address": "인천광역시 옹진군 연평면 연평리 231-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수협영흥마트",
+      "address": "인천광역시 옹진군 영흥면 내리 8-165",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씨유 영흥또바기점",
+      "address": "인천광역시 옹진군 영흥면 내리 724-131",
+      "roadAddress": "인천광역시 옹진군 영흥면 영흥북로 420-4",
+      "status": "영업/정상",
+      "licenseDate": "2024-02-26"
+    }
+  ]
+}

@@ -1,0 +1,3573 @@
+{
+  "region": "강원특별자치도",
+  "regionSlug": "gangwon",
+  "district": "강릉시",
+  "districtSlug": "gangneung",
+  "updatedAt": "2026-03-26",
+  "totalCount": 509,
+  "stores": [
+    {
+      "name": "핀컬렉트",
+      "address": "강원특별자치도 강릉시 병산동 22 공군제18전투비행단 동성회관 내 양품점",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2026-03-03"
+    },
+    {
+      "name": "꼬꼬슈퍼",
+      "address": "강원특별자치도 강릉시 강동면 모전리 341",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을회관슈퍼",
+      "address": "강원특별자치도 강릉시 강동면 안인리 대동1리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "재민슈퍼",
+      "address": "강원특별자치도 강릉시 강동면 안인진리 102-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모래시계",
+      "address": "강원특별자치도 강릉시 강동면 정동진리 302-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정동미니슈퍼",
+      "address": "강원특별자치도 강릉시 강동면 정동진리 451",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정동24시편의점",
+      "address": "강원특별자치도 강릉시 강동면 정동진리 282-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "언별리 종점상회",
+      "address": "강원특별자치도 강릉시 강동면 언별리 1리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정동해수욕장운영회",
+      "address": "강원특별자치도 강릉시 강동면 정동진리 2 통2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "등명해수욕장번영회",
+      "address": "강원특별자치도 강릉시 강동면 정동진리 1리 등명해수욕장내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고성목해수욕장운영회",
+      "address": "강원특별자치도 강릉시 강동면 정동진리 1리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "염전해수욕장운영회",
+      "address": "강원특별자치도 강릉시 강동면 안인리 1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한전슈퍼",
+      "address": "강원특별자치도 강릉시 강동면 안인리 200",
+      "roadAddress": "강원특별자치도 강릉시 강동면 염전길 99",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "강원특별자치도 강릉시 옥계면 현내리 414",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청포도슈퍼",
+      "address": "강원특별자치도 강릉시 옥계면 금진리 산 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소라슈퍼",
+      "address": "강원특별자치도 강릉시 옥계면 금진리 176",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일광슈퍼",
+      "address": "강원특별자치도 강릉시 옥계면 금진리 2통1반 228",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주부미니슈퍼",
+      "address": "강원특별자치도 강릉시 옥계면 현내리 1통5반 414",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "헌아로슈퍼",
+      "address": "강원특별자치도 강릉시 옥계면 금진리 금진3리 123-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동해슈퍼",
+      "address": "강원특별자치도 강릉시 옥계면 금진리 3리 123-5번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만남슈퍼",
+      "address": "강원특별자치도 강릉시 옥계면 현내리 414-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "샤워장슈퍼",
+      "address": "강원특별자치도 강릉시 옥계면 금진리 1리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소나무민박",
+      "address": "강원특별자치도 강릉시 옥계면 금진리 798-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옥계해수욕장내번영회사무실",
+      "address": "강원특별자치도 강릉시 옥계면 현내리 621-3 2/1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙식당",
+      "address": "강원특별자치도 강릉시 옥계면 금진리 362-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "먹진해수욕장",
+      "address": "강원특별자치도 강릉시 옥계면 금진리 268 1/6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동해민박",
+      "address": "강원특별자치도 강릉시 옥계면 금진리 799 1/1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옥계슈퍼민박",
+      "address": "강원특별자치도 강릉시 옥계면 금진리 105-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소라민박슈퍼",
+      "address": "강원특별자치도 강릉시 옥계면 금진리 176 1/1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청포도슈퍼민박",
+      "address": "강원특별자치도 강릉시 옥계면 금진리 산 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "강원특별자치도 강릉시 옥계면 금진리 184-3 2 통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씨유 강릉대점",
+      "address": "강원특별자치도 강릉시 지변동 280-2",
+      "roadAddress": "강원특별자치도 강릉시 지변길 22 (지변동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-08-03"
+    },
+    {
+      "name": "내곡철물 농자재",
+      "address": "강원특별자치도 강릉시 내곡동 419-1",
+      "roadAddress": "강원특별자치도 강릉시 남부로17번길 9 (내곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-08-17"
+    },
+    {
+      "name": "지에스25 강릉강남점",
+      "address": "강원특별자치도 강릉시 유천동 292-9",
+      "roadAddress": "강원특별자치도 강릉시 유죽길44번길 14 (유천동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-08-30"
+    },
+    {
+      "name": "대학로마트",
+      "address": "강원특별자치도 강릉시 금학동 38",
+      "roadAddress": "강원특별자치도 강릉시 금성로42번길 6 (금학동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-09-20"
+    },
+    {
+      "name": "씨유 소돌아들바위점",
+      "address": "강원특별자치도 강릉시 주문진읍 주문리 791-18",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 해안로 1961",
+      "status": "영업/정상",
+      "licenseDate": "2023-09-27"
+    },
+    {
+      "name": "세븐일레븐 주문진두울점",
+      "address": "강원특별자치도 강릉시 주문진읍 교항리 179-1",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 주문로 60-1",
+      "status": "영업/정상",
+      "licenseDate": "2023-10-11"
+    },
+    {
+      "name": "강동철물",
+      "address": "강원특별자치도 강릉시 강동면 하시동리 403-1",
+      "roadAddress": "강원특별자치도 강릉시 강동면 율곡로 2160",
+      "status": "영업/정상",
+      "licenseDate": "2023-10-13"
+    },
+    {
+      "name": "쿤 아시아마트",
+      "address": "강원특별자치도 강릉시 교동 1835-2",
+      "roadAddress": "강원특별자치도 강릉시 하슬라로206번길 4-1 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-10-25"
+    },
+    {
+      "name": "대선유통",
+      "address": "강원특별자치도 강릉시 주문진읍 교항리 81-20",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 학교담길 28-4",
+      "status": "영업/정상",
+      "licenseDate": "2023-10-26"
+    },
+    {
+      "name": "이마트24강릉남항진해변점",
+      "address": "강원특별자치도 강릉시 남항진동 1",
+      "roadAddress": "강원특별자치도 강릉시 공항길127번길 40 (남항진동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-10-30"
+    },
+    {
+      "name": "씨유 강릉초당점",
+      "address": "강원특별자치도 강릉시 초당동 155-3",
+      "roadAddress": "강원특별자치도 강릉시 연당길 78 (초당동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-11-30"
+    },
+    {
+      "name": "세븐일레븐 강릉아모르점",
+      "address": "강원특별자치도 강릉시 교동 156-24",
+      "roadAddress": "강원특별자치도 강릉시 율곡로2874번길 30 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-02-21"
+    },
+    {
+      "name": "세븐일레븐 강릉부영점",
+      "address": "강원특별자치도 강릉시 교동 1775 부영아파트",
+      "roadAddress": "강원특별자치도 강릉시 정원로 53-5 (교동, 부영아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2023-12-12"
+    },
+    {
+      "name": "세븐일레븐 강릉밸로체점",
+      "address": "강원특별자치도 강릉시 입암동 61-3 천년가밸로채",
+      "roadAddress": "강원특별자치도 강릉시 성덕포남로104번길 23 (입암동, 천년가밸로채)",
+      "status": "영업/정상",
+      "licenseDate": "2023-12-20"
+    },
+    {
+      "name": "이마트24 강릉내곡점",
+      "address": "강원특별자치도 강릉시 내곡동 110-1",
+      "roadAddress": "강원특별자치도 강릉시 남산초교길11번길 18 (내곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-12-20"
+    },
+    {
+      "name": "샾 342",
+      "address": "강원특별자치도 강릉시 구정면 여찬리 34-2",
+      "roadAddress": "강원특별자치도 강릉시 구정면 새끼미길 53-11",
+      "status": "영업/정상",
+      "licenseDate": "2023-12-26"
+    },
+    {
+      "name": "글로벌마트",
+      "address": "강원특별자치도 강릉시 입암동 210 이안강릉타운아파트",
+      "roadAddress": "강원특별자치도 강릉시 성덕로 316-22 (입암동, 이안강릉타운아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2024-01-05"
+    },
+    {
+      "name": "주식회사 월드식자재마트",
+      "address": "강원특별자치도 강릉시 연곡면 영진리 346-13",
+      "roadAddress": "강원특별자치도 강릉시 연곡면 영진3길 8-9",
+      "status": "영업/정상",
+      "licenseDate": "2024-01-12"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "강원특별자치도 강릉시 사천면 방동리 산 64-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "강원특별자치도 강릉시 사천면 방동리 63-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종점25시편의점",
+      "address": "강원특별자치도 강릉시 사천면 사천진리 1-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사각미니슈퍼",
+      "address": "강원특별자치도 강릉시 사천면 사기막리 207",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바다슈퍼",
+      "address": "강원특별자치도 강릉시 사천면 사천진리 65",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "방동하리마을번영회",
+      "address": "강원특별자치도 강릉시 사천면 방동리 해수욕장",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "나누리마트",
+      "address": "강원특별자치도 강릉시 사천면 사천진리 482 1통2 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동방슈퍼",
+      "address": "강원특별자치도 강릉시 연곡면 방내리 7통1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼천리슈퍼",
+      "address": "강원특별자치도 강릉시 연곡면 영진리 1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북상회",
+      "address": "강원특별자치도 강릉시 연곡면 삼산리 2통4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼우그린슈퍼",
+      "address": "강원특별자치도 강릉시 연곡면 영진리 305-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "근화슈퍼",
+      "address": "강원특별자치도 강릉시 연곡면 영진리 343-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다람주마을",
+      "address": "강원특별자치도 강릉시 연곡면 삼산리 1/1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매표소",
+      "address": "강원특별자치도 강릉시 연곡면 삼산리 3리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)승덕",
+      "address": "강원특별자치도 강릉시 연곡면 동덕리 산 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장천마을관리휴양지",
+      "address": "강원특별자치도 강릉시 연곡면 삼산리 1통1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부연동마을관리휴양지",
+      "address": "강원특별자치도 강릉시 연곡면 삼산리 1260 3통2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "강원특별자치도 강릉시 홍제동 990-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "강원특별자치도 강릉시 홍제동 443-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오렌지마트",
+      "address": "강원특별자치도 강릉시 홍제동 138-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대경미니슈퍼",
+      "address": "강원특별자치도 강릉시 홍제동 21 갈바리의원옆",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주민슈퍼",
+      "address": "강원특별자치도 강릉시 홍제동 152-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동네슈퍼",
+      "address": "강원특별자치도 강릉시 홍제동 102-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미현식품",
+      "address": "강원특별자치도 강릉시 홍제동 219-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훈이편의점",
+      "address": "강원특별자치도 강릉시 노암동 대림(아) 101-409",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "승민편의점",
+      "address": "강원특별자치도 강릉시 홍제동 125-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마리아슈퍼",
+      "address": "강원특별자치도 강릉시 남문동 117-6",
+      "roadAddress": "강원특별자치도 강릉시 남문길 12  (남문동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태산편의점",
+      "address": "강원특별자치도 강릉시 성남동 235-1",
+      "roadAddress": "강원특별자치도 강릉시 중앙시장3길 7  (성남동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화성편의점",
+      "address": "강원특별자치도 강릉시 성남동 103-1",
+      "roadAddress": "강원특별자치도 강릉시 중앙시장3길 32  (성남동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린편의점",
+      "address": "강원특별자치도 강릉시 성남동 107-127",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씨유 강릉삼우은성점",
+      "address": "강원특별자치도 강릉시 송정동 940 삼우은성맨션아파트",
+      "roadAddress": "강원특별자치도 강릉시 남강초교1길 55 (송정동, 삼우은성맨션아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2024-01-19"
+    },
+    {
+      "name": "주식회사 나이스디앤에스 강릉(인천방향)휴게소",
+      "address": "강원특별자치도 강릉시 성산면 보광리 103 강릉상휴게소",
+      "roadAddress": "강원특별자치도 강릉시 성산면 영동고속도로 231, 강릉상휴게소",
+      "status": "영업/정상",
+      "licenseDate": "2024-01-23"
+    },
+    {
+      "name": "주식회사 나이스디앤에스 강릉(강릉방향)휴게소",
+      "address": "강원특별자치도 강릉시 성산면 보광리 151",
+      "roadAddress": "강원특별자치도 강릉시 성산면 영동고속도로 232",
+      "status": "영업/정상",
+      "licenseDate": "2024-01-23"
+    },
+    {
+      "name": "지에스25강릉현대",
+      "address": "강원특별자치도 강릉시 내곡동 469",
+      "roadAddress": "강원특별자치도 강릉시 범일로 647, 상가동 103, 104호 (내곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-01-23"
+    },
+    {
+      "name": "지에스25 강릉온누리",
+      "address": "강원특별자치도 강릉시 옥천동 225",
+      "roadAddress": "강원특별자치도 강릉시 동부시장3길 17 (옥천동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-01-31"
+    },
+    {
+      "name": "주문진스타",
+      "address": "강원특별자치도 강릉시 주문진읍 교항리 119",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 주문로 10, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2024-02-06"
+    },
+    {
+      "name": "반누리반품닷컴 강릉점",
+      "address": "강원특별자치도 강릉시 사천면 판교리 678-2",
+      "roadAddress": "강원특별자치도 강릉시 사천면 동해대로 3944",
+      "status": "영업/정상",
+      "licenseDate": "2024-02-15"
+    },
+    {
+      "name": "지에스 25 교동하슬라",
+      "address": "강원특별자치도 강릉시 교동 1836-1",
+      "roadAddress": "강원특별자치도 강릉시 하슬라로206번길 2 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-02-29"
+    },
+    {
+      "name": "건남철물(낚시)",
+      "address": "강원특별자치도 강릉시 옥계면 금진리 1021-3",
+      "roadAddress": "강원특별자치도 강릉시 옥계면 금진항길 4-1",
+      "status": "영업/정상",
+      "licenseDate": "2024-03-11"
+    },
+    {
+      "name": "세븐일레븐 강릉입암주공점",
+      "address": "강원특별자치도 강릉시 입암동 246-2",
+      "roadAddress": "강원특별자치도 강릉시 성덕포남로 21-7 (입암동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-03-11"
+    },
+    {
+      "name": "세븐일레븐 관동대점",
+      "address": "강원특별자치도 강릉시 내곡동 325-18",
+      "roadAddress": "강원특별자치도 강릉시 관솔길 117 (내곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-03-11"
+    },
+    {
+      "name": "주식회사 여송[세븐일레븐 뉴강릉터미널점]",
+      "address": "강원특별자치도 강릉시 홍제동 992-2 고속버스터미널",
+      "roadAddress": "강원특별자치도 강릉시 하슬라로 15, 고속버스터미널 (홍제동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-03-11"
+    },
+    {
+      "name": "이마트 24 강릉하슬라점",
+      "address": "강원특별자치도 강릉시 교동 318-9",
+      "roadAddress": "강원특별자치도 강릉시 율곡로2968번길 34 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-03-12"
+    },
+    {
+      "name": "씨유 안목커피거리점",
+      "address": "강원특별자치도 강릉시 견소동 9-1",
+      "roadAddress": "강원특별자치도 강릉시 경강로 2670, 1,2층 (견소동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-03-22"
+    },
+    {
+      "name": "지에스25 영진코아루점",
+      "address": "강원특별자치도 강릉시 연곡면 영진리 382 강릉영진코아루휴티스디오션아파트",
+      "roadAddress": "강원특별자치도 강릉시 연곡면 연주로 120, 상가동 101,102호 (강릉영진코아루휴티스디오션아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2024-03-27"
+    },
+    {
+      "name": "알바라카마트 강릉",
+      "address": "강원특별자치도 강릉시 교동 156-45",
+      "roadAddress": "강원특별자치도 강릉시 강릉대로 245, 1층 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-04-04"
+    },
+    {
+      "name": "정금상사",
+      "address": "강원특별자치도 강릉시 남문동 164-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충북식품",
+      "address": "강원특별자치도 강릉시 임당동 95-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼익그린슈퍼",
+      "address": "강원특별자치도 강릉시 남문동 183-2 아파트상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남천미니슈퍼",
+      "address": "강원특별자치도 강릉시 옥천동 209-1 11/6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옥천미니슈퍼",
+      "address": "강원특별자치도 강릉시 옥천동 123-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강릉고려병원 구내매점",
+      "address": "강원특별자치도 강릉시 옥천동 286-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대병원구내매점",
+      "address": "강원특별자치도 강릉시 옥천동 326",
+      "roadAddress": "강원특별자치도 강릉시 용지로 129  (옥천동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매일슈퍼편의점",
+      "address": "강원특별자치도 강릉시 옥천동 727-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신원미곡",
+      "address": "강원특별자치도 강릉시 옥천동 123-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴민락마트",
+      "address": "강원특별자치도 강릉시 교동 교1동 1429-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공할인마트",
+      "address": "강원특별자치도 강릉시 교동 1동 주공상가 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부영할인마트",
+      "address": "강원특별자치도 강릉시 교동 1동 1773 부영상가 106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부영마트",
+      "address": "강원특별자치도 강릉시 교동 1동 6-1블럭 부영상가 1층 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "학생문구",
+      "address": "강원특별자치도 강릉시 교동 1동 675",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼정미니슈퍼",
+      "address": "강원특별자치도 강릉시 교동 1동 707-53 삼정주택 가동 404호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대도식품",
+      "address": "강원특별자치도 강릉시 교동 1동 921-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "골목미니슈퍼",
+      "address": "강원특별자치도 강릉시 교동 1동 1000-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "교동마트",
+      "address": "강원특별자치도 강릉시 교동 928-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성슈퍼",
+      "address": "강원특별자치도 강릉시 교동 1동 992-7 14/3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동해미니슈퍼",
+      "address": "강원특별자치도 강릉시 교동 904-5",
+      "roadAddress": "강원특별자치도 강릉시 임영로 207  (교동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양지슈퍼",
+      "address": "강원특별자치도 강릉시 교동 1동 923-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영일미니슈퍼",
+      "address": "강원특별자치도 강릉시 교동 1동 844-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "희망슈퍼",
+      "address": "강원특별자치도 강릉시 교동 교2동 156-28 1/4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "임영슈퍼",
+      "address": "강원특별자치도 강릉시 교동 교2동 799-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영림슈퍼",
+      "address": "강원특별자치도 강릉시 교동 교2동 146-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영풍슈퍼",
+      "address": "강원특별자치도 강릉시 교동 교2동 183-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유화세일마트",
+      "address": "강원특별자치도 강릉시 교동 2동 315-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유화편의점",
+      "address": "강원특별자치도 강릉시 교동 2동 137-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "강원특별자치도 강릉시 교동 2동 124-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강릉세무서 구내매점",
+      "address": "강원특별자치도 강릉시 교동 산 2동 68",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아슈크림",
+      "address": "강원특별자치도 강릉시 입암동 240-2",
+      "roadAddress": "강원특별자치도 강릉시 성덕로 316-15, 상가동 106호 (입암동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-04-16"
+    },
+    {
+      "name": "소금강마트",
+      "address": "강원특별자치도 강릉시 연곡면 삼산리 66-2",
+      "roadAddress": "강원특별자치도 강릉시 연곡면 소금강길 470",
+      "status": "영업/정상",
+      "licenseDate": "2024-04-30"
+    },
+    {
+      "name": "행복플러스25 편의점",
+      "address": "강원특별자치도 강릉시 연곡면 삼산리 66-20",
+      "roadAddress": "강원특별자치도 강릉시 연곡면 소금강길 461",
+      "status": "영업/정상",
+      "licenseDate": "2024-04-30"
+    },
+    {
+      "name": "지에스(GS)25 뉴경포현대점",
+      "address": "강원특별자치도 강릉시 저동 1-13",
+      "roadAddress": "강원특별자치도 강릉시 경포로463번안길 10-2, 1층 (저동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-04-30"
+    },
+    {
+      "name": "주식회사 코니스티씨(GS25 강릉사천호반)",
+      "address": "강원특별자치도 강릉시 사천면 사천진리 56-1 강릉호반베르디움오션아파트",
+      "roadAddress": "강원특별자치도 강릉시 사천면 진리해변길 37, 상가동 씨층 111,112호 (강릉호반베르디움오션아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2024-05-08"
+    },
+    {
+      "name": "지에스(GS)25 강릉컨피네스점",
+      "address": "강원특별자치도 강릉시 사천면 사천진리 86-81 컨피네스 오션스위트",
+      "roadAddress": "강원특별자치도 강릉시 사천면 진리항구2길 5, 컨피네스 오션스위트 102호",
+      "status": "영업/정상",
+      "licenseDate": "2024-05-29"
+    },
+    {
+      "name": "씨유(CU) 회산점",
+      "address": "강원특별자치도 강릉시 회산동 196-18",
+      "roadAddress": "강원특별자치도 강릉시 회산로 348-31, 1층 (회산동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-06-19"
+    },
+    {
+      "name": "(주)코리아세븐",
+      "address": "강원특별자치도 강릉시 교동 1821-9",
+      "roadAddress": "강원특별자치도 강릉시 하슬라로206번길 17, 1층 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-06-25"
+    },
+    {
+      "name": "씨유(CU)강릉양우",
+      "address": "강원특별자치도 강릉시 노암동 844 양우내안애아파트",
+      "roadAddress": "강원특별자치도 강릉시 강변로 328-8, 상가동 101호 (노암동, 양우내안애아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2024-07-17"
+    },
+    {
+      "name": "세븐일레븐 강릉송정한신점",
+      "address": "강원특별자치도 강릉시 견소동 202 견소동 한신아파트",
+      "roadAddress": "강원특별자치도 강릉시 경강로2539번길 8 (견소동, 견소동 한신아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2024-07-30"
+    },
+    {
+      "name": "이마트24 강릉포남중앙점",
+      "address": "강원특별자치도 강릉시 포남동 1241-5",
+      "roadAddress": "강원특별자치도 강릉시 하평길 11, 105호 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-08-01"
+    },
+    {
+      "name": "지에스25 포남공원",
+      "address": "강원특별자치도 강릉시 포남동 1160-13",
+      "roadAddress": "강원특별자치도 강릉시 경강로2255번길 23 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-08-06"
+    },
+    {
+      "name": "세븐일레븐 강릉하평해변점",
+      "address": "강원특별자치도 강릉시 사천면 사천진리 276",
+      "roadAddress": "강원특별자치도 강릉시 사천면 진리해변길 183",
+      "status": "영업/정상",
+      "licenseDate": "2024-08-08"
+    },
+    {
+      "name": "씨유 회산솔향점",
+      "address": "강원특별자치도 강릉시 회산동 295",
+      "roadAddress": "강원특별자치도 강릉시 회산로 244 (회산동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-08-21"
+    },
+    {
+      "name": "씨유 강릉회산한신점",
+      "address": "강원특별자치도 강릉시 회산동 610 강릉회산 한신더휴",
+      "roadAddress": "강원특별자치도 강릉시 회산로 313, 근린생활시설동 1층 104호 (회산동, 강릉회산 한신더휴)",
+      "status": "영업/정상",
+      "licenseDate": "2024-09-19"
+    },
+    {
+      "name": "씨유 강릉강일별하점",
+      "address": "강원특별자치도 강릉시 교동 833-6",
+      "roadAddress": "강원특별자치도 강릉시 화부산로 90 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-09-23"
+    },
+    {
+      "name": "대신슈퍼",
+      "address": "강원특별자치도 강릉시 교동 2동 20-14 14/3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대한통운(주) 코랙스마트강릉",
+      "address": "강원특별자치도 강릉시 교동 2동 133",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "윤미슈퍼",
+      "address": "강원특별자치도 강릉시 교동 2동 295-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한주식품",
+      "address": "강원특별자치도 강릉시 교동 2동 316-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이화슈퍼",
+      "address": "강원특별자치도 강릉시 교동 2동 303-1 이화아파트내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동신미니슈퍼",
+      "address": "강원특별자치도 강릉시 교동 2동 156-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성사",
+      "address": "강원특별자치도 강릉시 교동 2동 149-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대림미니슈퍼",
+      "address": "강원특별자치도 강릉시 교동 2동 344-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유명슈퍼마켓",
+      "address": "강원특별자치도 강릉시 포남동 1동 1124-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼마켓",
+      "address": "강원특별자치도 강릉시 포남동 1동 1112-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대우식품",
+      "address": "강원특별자치도 강릉시 포남동 1동 856-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영광문구사",
+      "address": "강원특별자치도 강릉시 포남동 1동 940-214",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주부슈퍼",
+      "address": "강원특별자치도 강릉시 포남동 1동 1005-245",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "포남시골추어탕",
+      "address": "강원특별자치도 강릉시 포남동 2동 1058-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소비자마트",
+      "address": "강원특별자치도 강릉시 포남동 2동 1208",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(합)월드컵유통",
+      "address": "강원특별자치도 강릉시 포남동 2동 1208",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "포남식품",
+      "address": "강원특별자치도 강릉시 포남동 1210-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홍익슈퍼",
+      "address": "강원특별자치도 강릉시 포남동 포남2동 1081-11 5/4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "D.C마트",
+      "address": "강원특별자치도 강릉시 포남동 2동 1060",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성할인마트",
+      "address": "강원특별자치도 강릉시 포남동 2동 1293-1 일송상가 124",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만객편의슈퍼",
+      "address": "강원특별자치도 강릉시 초당동 2동 1088-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "꼬마신랑",
+      "address": "강원특별자치도 강릉시 포남동 1309-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼호슈퍼",
+      "address": "강원특별자치도 강릉시 포남동 2동 515",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원식품",
+      "address": "강원특별자치도 강릉시 포남동 2동 1084-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "포남2주공아파트관리소",
+      "address": "강원특별자치도 강릉시 포남동 1200 포남2동",
+      "roadAddress": "강원특별자치도 강릉시 산양큰길 37  (포남동,포남2동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국전력강릉지사",
+      "address": "강원특별자치도 강릉시 포남동 1255 2동",
+      "roadAddress": "강원특별자치도 강릉시 강릉대로 563, 2동 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초당진마트",
+      "address": "강원특별자치도 강릉시 초당동 154-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초당식품",
+      "address": "강원특별자치도 강릉시 초당동 135-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "솔밭야영장",
+      "address": "강원특별자치도 강릉시 강문동 261-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "숲속의슈퍼",
+      "address": "강원특별자치도 강릉시 강문동 260-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대동슈퍼마켓",
+      "address": "강원특별자치도 강릉시 강문동 304",
+      "roadAddress": "강원특별자치도 강릉시 창해로 435  (강문동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지에스25강릉운동장점",
+      "address": "강원특별자치도 강릉시 교동 348-2",
+      "roadAddress": "강원특별자치도 강릉시 종합운동장길 87 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-09-25"
+    },
+    {
+      "name": "지에스(GS)25강릉입암주공점",
+      "address": "강원특별자치도 강릉시 입암동 686 입암4주공아파트 상가",
+      "roadAddress": "강원특별자치도 강릉시 성덕포남로 87, 입암4주공아파트 상가 103, 104호 (입암동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-10-02"
+    },
+    {
+      "name": "지에스25강릉교동원대로점",
+      "address": "강원특별자치도 강릉시 교동 1852-7",
+      "roadAddress": "강원특별자치도 강릉시 원대로 111, 1층 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-10-15"
+    },
+    {
+      "name": "지에스25 강릉이편한점",
+      "address": "강원특별자치도 강릉시 교동 358 교동 이편한세상아파트",
+      "roadAddress": "강원특별자치도 강릉시 가작로 175, 교동 이편한세상아파트 1층 103,104,105호 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-10-18"
+    },
+    {
+      "name": "씨유 강릉경강로점",
+      "address": "강원특별자치도 강릉시 포남동 1005-245",
+      "roadAddress": "강원특별자치도 강릉시 경강로 2258 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-10-22"
+    },
+    {
+      "name": "강릉청소용역",
+      "address": "강원특별자치도 강릉시 두산동 28-12",
+      "roadAddress": "강원특별자치도 강릉시 강변로670번길 16, 가동 1호 (두산동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-10-25"
+    },
+    {
+      "name": "쿤 아시아마트",
+      "address": "강원특별자치도 강릉시 교동 1835-2",
+      "roadAddress": "강원특별자치도 강릉시 하슬라로206번길 4-1 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-10-29"
+    },
+    {
+      "name": "세븐일레븐 강릉포남중앙점",
+      "address": "강원특별자치도 강릉시 포남동 1110-10",
+      "roadAddress": "강원특별자치도 강릉시 강릉대로359번길 5-12 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-11-01"
+    },
+    {
+      "name": "세븐일레븐 강릉씨에스타점",
+      "address": "강원특별자치도 강릉시 초당동 455-8",
+      "roadAddress": "강원특별자치도 강릉시 해안로 388 (초당동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-11-01"
+    },
+    {
+      "name": "지에스25 강릉동도점",
+      "address": "강원특별자치도 강릉시 포남동 1109-2",
+      "roadAddress": "강원특별자치도 강릉시 강릉대로313번길 36 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-10-31"
+    },
+    {
+      "name": "지에스(GS)25 강릉금진항점",
+      "address": "강원특별자치도 강릉시 옥계면 금진리 124-19",
+      "roadAddress": "강원특별자치도 강릉시 옥계면 헌화로 439",
+      "status": "영업/정상",
+      "licenseDate": "2024-11-05"
+    },
+    {
+      "name": "지에스25강릉안목점",
+      "address": "강원특별자치도 강릉시 견소동 287-100",
+      "roadAddress": "강원특별자치도 강릉시 창해로 10 (견소동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-11-25"
+    },
+    {
+      "name": "씨유 강릉유천올림피아점",
+      "address": "강원특별자치도 강릉시 유천동 776-4",
+      "roadAddress": "강원특별자치도 강릉시 사임당로 180, 유천올림피아오피스텔 1층 105호 (유천동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-11-27"
+    },
+    {
+      "name": "주식회사 올가베스트(지에스25강릉아산병원점)",
+      "address": "강원특별자치도 강릉시 사천면 방동리 415 강릉아산병원",
+      "roadAddress": "강원특별자치도 강릉시 사천면 방동길 38, 강릉아산병원 별관 1층",
+      "status": "영업/정상",
+      "licenseDate": "2024-11-27"
+    },
+    {
+      "name": "지에스(GS)25 정동진솔라뷰점",
+      "address": "강원특별자치도 강릉시 강동면 정동진리 50-18",
+      "roadAddress": "강원특별자치도 강릉시 강동면 헌화로 920-16, 106호",
+      "status": "영업/정상",
+      "licenseDate": "2024-11-29"
+    },
+    {
+      "name": "지에스(GS)25 강릉세인트존스점",
+      "address": "강원특별자치도 강릉시 강문동 27-23",
+      "roadAddress": "강원특별자치도 강릉시 해안로 280, 2동 (강문동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-01-02"
+    },
+    {
+      "name": "주식회사 파인코리아",
+      "address": "강원특별자치도 강릉시 교동 713-10",
+      "roadAddress": "강원특별자치도 강릉시 가작로 155 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-01-03"
+    },
+    {
+      "name": "슈퍼정육점",
+      "address": "강원특별자치도 강릉시 강문동 236-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성마트",
+      "address": "강원특별자치도 강릉시 초당동 143",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한신할인마트",
+      "address": "강원특별자치도 강릉시 견소동 201 한신아파트상가 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송정미니슈퍼",
+      "address": "강원특별자치도 강릉시 송정동 67",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "디스카운트스토아",
+      "address": "강원특별자치도 강릉시 내곡동 470-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "비어광장",
+      "address": "강원특별자치도 강릉시 내곡동 322-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "도깨비슈퍼",
+      "address": "강원특별자치도 강릉시 내곡동 290-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가족슈퍼",
+      "address": "강원특별자치도 강릉시 내곡동 83-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "내곡한라아파트관리사무소",
+      "address": "강원특별자치도 강릉시 내곡동 476",
+      "roadAddress": "강원특별자치도 강릉시 강변로 114  (내곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가족미니슈퍼",
+      "address": "강원특별자치도 강릉시 내곡동 83-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "기산하이마켓",
+      "address": "강원특별자치도 강릉시 내곡동 267-19",
+      "roadAddress": "강원특별자치도 강릉시 범일로 532  (내곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼익슈퍼마켓",
+      "address": "강원특별자치도 강릉시 내곡동 136 삼익타워맨션상가지하",
+      "roadAddress": "강원특별자치도 강릉시 남산초교길 65  (내곡동,삼익타워맨션상가지하)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "내곡현대마트",
+      "address": "강원특별자치도 강릉시 남문동 183-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "라이브편의점",
+      "address": "강원특별자치도 강릉시 내곡동 288-2",
+      "roadAddress": "강원특별자치도 강릉시 범일로555번길 33  (내곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴마트",
+      "address": "강원특별자치도 강릉시 내곡동 472-6",
+      "roadAddress": "강원특별자치도 강릉시 강변로114번길 14-11  (내곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "관솔마트",
+      "address": "강원특별자치도 강릉시 내곡동 284",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만복미니슈퍼",
+      "address": "강원특별자치도 강릉시 내곡동 288-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한라마트",
+      "address": "강원특별자치도 강릉시 노암동 한라(아) 한라상가 206호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "퀸마트",
+      "address": "강원특별자치도 강릉시 노암동 137-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고향미니슈퍼",
+      "address": "강원특별자치도 강릉시 노암동 322-4 13/2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우등비닐",
+      "address": "강원특별자치도 강릉시 유산동 160 가 1-16호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고합편의점",
+      "address": "강원특별자치도 강릉시 노암동 618-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가람24편의점",
+      "address": "강원특별자치도 강릉시 유산동 610-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대천슈퍼",
+      "address": "강원특별자치도 강릉시 노암동 703-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "디스카운트마트",
+      "address": "강원특별자치도 강릉시 노암동 618-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "노암미니슈퍼",
+      "address": "강원특별자치도 강릉시 노암동 224-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한라슈퍼",
+      "address": "강원특별자치도 강릉시 노암동 390 38통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴본마켓",
+      "address": "강원특별자치도 강릉시 노암동 649-1",
+      "roadAddress": "강원특별자치도 강릉시 남산길 15  (노암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "교동생활용품 D/C마트",
+      "address": "강원특별자치도 강릉시 교동 1880-2",
+      "roadAddress": "강원특별자치도 강릉시 교동광장로 109, 1층 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-01-06"
+    },
+    {
+      "name": "옥계농협 하나로마트",
+      "address": "강원특별자치도 강릉시 옥계면 현내리 366-3",
+      "roadAddress": "강원특별자치도 강릉시 옥계면 현내시장길 74-3",
+      "status": "영업/정상",
+      "licenseDate": "2025-01-09"
+    },
+    {
+      "name": "구영마트(노암점)",
+      "address": "강원특별자치도 강릉시 노암동 399",
+      "roadAddress": "강원특별자치도 강릉시 노암길42번길 17 (노암동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-01-15"
+    },
+    {
+      "name": "이마트24 강릉입암더샵점",
+      "address": "강원특별자치도 강릉시 입암동 407",
+      "roadAddress": "강원특별자치도 강릉시 입암로 33, 1층 106호 (입암동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-01-16"
+    },
+    {
+      "name": "세븐일레븐 포남점",
+      "address": "강원특별자치도 강릉시 포남동 1123",
+      "roadAddress": "강원특별자치도 강릉시 남구길 23 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-01-16"
+    },
+    {
+      "name": "세븐일레븐 강릉시장점",
+      "address": "강원특별자치도 강릉시 성남동 60-1",
+      "roadAddress": "강원특별자치도 강릉시 금성로 23, 1층 2호 (성남동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-01-20"
+    },
+    {
+      "name": "이마트24강릉일송점",
+      "address": "강원특별자치도 강릉시 포남동 1293-1 일송아파트",
+      "roadAddress": "강원특별자치도 강릉시 하평3길 37, 124호 (포남동, 일송아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2025-01-16"
+    },
+    {
+      "name": "이마트24 강릉입암주공점",
+      "address": "강원특별자치도 강릉시 입암동 710-2 입암6주공아파트 상가",
+      "roadAddress": "강원특별자치도 강릉시 성덕포남로 37, 입암6주공아파트 상가 105호 (입암동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-02-03"
+    },
+    {
+      "name": "드림166종합유통",
+      "address": "강원특별자치도 강릉시 유산동 188",
+      "roadAddress": "강원특별자치도 강릉시 유산로69번길 5 (유산동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-02-03"
+    },
+    {
+      "name": "신화마트",
+      "address": "강원특별자치도 강릉시 노암동 711 신화아파트",
+      "roadAddress": "강원특별자치도 강릉시 강변로 270, 101동 204호 (노암동, 신화아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2025-02-07"
+    },
+    {
+      "name": "GS25 강릉입암점",
+      "address": "강원특별자치도 강릉시 입암동 709-3 입암6주공아파트 상가",
+      "roadAddress": "강원특별자치도 강릉시 성덕포남로 41, 입암6주공아파트 상가 101~103호 (입암동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-02-20"
+    },
+    {
+      "name": "세븐일레븐 강릉자이점",
+      "address": "강원특별자치도 강릉시 내곡동 127 남산삼익아파트",
+      "roadAddress": "강원특별자치도 강릉시 남부로125번길 39, 104,105,B101호 (내곡동, 남산삼익아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2025-02-27"
+    },
+    {
+      "name": "이마트24 강릉교동주공점",
+      "address": "강원특별자치도 강릉시 교동 1748-1",
+      "roadAddress": "강원특별자치도 강릉시 가작로 85-1, 102,103호 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-03-06"
+    },
+    {
+      "name": "지에스(GS)25 강릉자이파인베뉴점",
+      "address": "강원특별자치도 강릉시 내곡동 759 강릉자이 파인베뉴",
+      "roadAddress": "강원특별자치도 강릉시 동해대로 2768, 상가동 117호 (내곡동, 강릉자이 파인베뉴)",
+      "status": "영업/정상",
+      "licenseDate": "2025-03-04"
+    },
+    {
+      "name": "세븐일레븐 강릉롯데시그니처 본점",
+      "address": "강원특별자치도 강릉시 교동 2000 강릉롯데캐슬 시그니처",
+      "roadAddress": "강원특별자치도 강릉시 원대로 76, 상가1동 104,105호 (교동, 강릉롯데캐슬 시그니처)",
+      "status": "영업/정상",
+      "licenseDate": "2025-03-26"
+    },
+    {
+      "name": "북강릉농업협동조합하나로마트연곡점(메가엠지씨커피연곡점)",
+      "address": "강원특별자치도 강릉시 연곡면 동덕리 493-33",
+      "roadAddress": "강원특별자치도 강릉시 연곡면 진고개로 2742",
+      "status": "영업/정상",
+      "licenseDate": "2025-03-28"
+    },
+    {
+      "name": "강릉축산농협 하나로마트 송정해안로점",
+      "address": "강원특별자치도 강릉시 송정동 산 30",
+      "roadAddress": "강원특별자치도 강릉시 해안로 121 (송정동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-04-01"
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "강원특별자치도 강릉시 노암동 724-3",
+      "roadAddress": "강원특별자치도 강릉시 안땔길 2  (노암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "비룔슈퍼",
+      "address": "강원특별자치도 강릉시 노암동 256-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만천슈퍼",
+      "address": "강원특별자치도 강릉시 노암동 208-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신화편의점",
+      "address": "강원특별자치도 강릉시 노암동 715-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "입암현대아파트관리사무소",
+      "address": "강원특별자치도 강릉시 입암동 440",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강릉원마트(주)",
+      "address": "강원특별자치도 강릉시 입암동 106-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태평양DC마트",
+      "address": "강원특별자치도 강릉시 입암동 506-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영동양돈축협 성덕지소",
+      "address": "강원특별자치도 강릉시 입암동 627-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)내고향마트",
+      "address": "강원특별자치도 강릉시 입암동 592-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "6주공마트",
+      "address": "강원특별자치도 강릉시 입암동 6주공 단지상가 2동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "입암주공슈퍼",
+      "address": "강원특별자치도 강릉시 입암동 입암6주공아파트 1-105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해변슈퍼",
+      "address": "강원특별자치도 강릉시 남항진동 3-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마땡드블랑제",
+      "address": "강원특별자치도 강릉시 학동 15",
+      "roadAddress": "강원특별자치도 강릉시 월호평길 117  (학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)대관령곰마트",
+      "address": "강원특별자치도 강릉시 입암동 592-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성덕슈퍼",
+      "address": "강원특별자치도 강릉시 입암동 662",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해변슈퍼",
+      "address": "강원특별자치도 강릉시 강문동 143",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "강원특별자치도 강릉시 지변동 361-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "밀레니엄마트",
+      "address": "강원특별자치도 강릉시 지변동 356-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "강원특별자치도 강릉시 안현동 15 15/4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한마당24",
+      "address": "강원특별자치도 강릉시 지변동 257-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아리24시편의점",
+      "address": "강원특별자치도 강릉시 지변동 산 38번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아리마트",
+      "address": "강원특별자치도 강릉시 지변동 277-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제7야영장",
+      "address": "강원특별자치도 강릉시 안현동 52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신일슈퍼",
+      "address": "강원특별자치도 강릉시 안현동 87 3/3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해변24시슈퍼",
+      "address": "강원특별자치도 강릉시 안현동 48-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산장편의점",
+      "address": "강원특별자치도 강릉시 안현동 44-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "24시편의점",
+      "address": "강원특별자치도 강릉시 안현동 7번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울미니슈퍼",
+      "address": "강원특별자치도 강릉시 안현동 862-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강남마트",
+      "address": "강원특별자치도 강릉시 안현동 94-143",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강해24시편의점",
+      "address": "강원특별자치도 강릉시 안현동 산 1번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대밭민박",
+      "address": "강원특별자치도 강릉시 안현동 76 3/4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지에스25 사천비치점",
+      "address": "강원특별자치도 강릉시 사천면 사천진리 2-41",
+      "roadAddress": "강원특별자치도 강릉시 사천면 진리해변길 73",
+      "status": "영업/정상",
+      "licenseDate": "2025-04-02"
+    },
+    {
+      "name": "씨유(CU)강릉사천진",
+      "address": "강원특별자치도 강릉시 사천면 사천진리 266-20",
+      "roadAddress": "강원특별자치도 강릉시 사천면 진리해변길 109",
+      "status": "영업/정상",
+      "licenseDate": "2025-04-09"
+    },
+    {
+      "name": "씨유 강릉하늘채점",
+      "address": "강원특별자치도 강릉시 교동 1989 강릉교동하늘채 스카이파크",
+      "roadAddress": "강원특별자치도 강릉시 가작로 240, 상가동 1층 102호 (교동, 강릉교동하늘채 스카이파크)",
+      "status": "영업/정상",
+      "licenseDate": "2025-04-11"
+    },
+    {
+      "name": "세븐일레븐 강릉롯데시그니처점",
+      "address": "강원특별자치도 강릉시 교동 2000 강릉롯데캐슬 시그니처",
+      "roadAddress": "강원특별자치도 강릉시 원대로 76, 상가2동 107,108호 (교동, 강릉롯데캐슬 시그니처)",
+      "status": "영업/정상",
+      "licenseDate": "2025-04-16"
+    },
+    {
+      "name": "지에스25강릉에이스점",
+      "address": "강원특별자치도 강릉시 교동 1841-2",
+      "roadAddress": "강원특별자치도 강릉시 솔올로 51 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-04-28"
+    },
+    {
+      "name": "지에스25강릉로얄점",
+      "address": "강원특별자치도 강릉시 포남동 1151-2",
+      "roadAddress": "강원특별자치도 강릉시 경강로2267번길 7, 1층 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-05-02"
+    },
+    {
+      "name": "지에스 25(GS25) 주문진대로점",
+      "address": "강원특별자치도 강릉시 주문진읍 주문리 876-2",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 연주로 593",
+      "status": "영업/정상",
+      "licenseDate": "2025-05-08"
+    },
+    {
+      "name": "와이앤지(Y&G)",
+      "address": "강원특별자치도 강릉시 안현동 858-3",
+      "roadAddress": "강원특별자치도 강릉시 경포로475번길 41 (안현동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-05-13"
+    },
+    {
+      "name": "씨유(CU) 강릉한솔점",
+      "address": "강원특별자치도 강릉시 포남동 1298-1",
+      "roadAddress": "강원특별자치도 강릉시 하평4길 50, 1층 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-05-14"
+    },
+    {
+      "name": "작은다리 비닐",
+      "address": "강원특별자치도 강릉시 주문진읍 교항리 184-51",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 시장길 34-1",
+      "status": "영업/정상",
+      "licenseDate": "2025-05-14"
+    },
+    {
+      "name": "씨유강릉입암1주공점",
+      "address": "강원특별자치도 강릉시 입암동 641 입암1주공아파트",
+      "roadAddress": "강원특별자치도 강릉시 강변로 364, 102호 (입암동, 입암1주공아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2025-05-19"
+    },
+    {
+      "name": "지에스25강릉입암현대점",
+      "address": "강원특별자치도 강릉시 입암동 431",
+      "roadAddress": "강원특별자치도 강릉시 율곡로2692번길 56 (입암동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-05-19"
+    },
+    {
+      "name": "씨유(CU)강릉경포점",
+      "address": "강원특별자치도 강릉시 강문동 260-26",
+      "roadAddress": "강원특별자치도 강릉시 창해로 451 (강문동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-05-21"
+    },
+    {
+      "name": "한남슈퍼",
+      "address": "강원특별자치도 강릉시 주문진읍 주문리 312-64",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 항구2길 10",
+      "status": "영업/정상",
+      "licenseDate": "2025-05-22"
+    },
+    {
+      "name": "소도몰 강릉포남점",
+      "address": "강원특별자치도 강릉시 포남동 1293-1 일송아파트",
+      "roadAddress": "강원특별자치도 강릉시 하평3길 37, 상가동 101호 (포남동, 일송아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2025-05-23"
+    },
+    {
+      "name": "슈퍼맨편의점",
+      "address": "강원특별자치도 강릉시 임당동 109-2",
+      "roadAddress": "강원특별자치도 강릉시 경강로 2113, 1호 (임당동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-05-27"
+    },
+    {
+      "name": "북강릉농업협동조합 하나로마트 주문진점",
+      "address": "강원특별자치도 강릉시 주문진읍 교항리 178-9 농협",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 주문로 44, 농협",
+      "status": "영업/정상",
+      "licenseDate": "2025-06-13"
+    },
+    {
+      "name": "밀림편의점",
+      "address": "강원특별자치도 강릉시 안현동 산 1번지 4/3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제3야영장",
+      "address": "강원특별자치도 강릉시 안현동 77번지 15/2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오토야영장",
+      "address": "강원특별자치도 강릉시 안현동 143-94 4/6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경포오토야영장",
+      "address": "강원특별자치도 강릉시 안현동 856-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경포해변야영장",
+      "address": "강원특별자치도 강릉시 안현동 89-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사근진야영장",
+      "address": "강원특별자치도 강릉시 안현동 16-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "강원특별자치도 강릉시 안현동 15/3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태장봉쉼터매점",
+      "address": "강원특별자치도 강릉시 대전동 150-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은진슈퍼민박",
+      "address": "강원특별자치도 강릉시 안현동 산 3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "강원특별자치도 강릉시 안현동 산 7-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼우여관",
+      "address": "강원특별자치도 강릉시 안현동 산 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대구슈퍼마트",
+      "address": "강원특별자치도 강릉시 지변동 615-2",
+      "roadAddress": "강원특별자치도 강릉시 죽헌길85번길 6  (지변동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "나드리마트",
+      "address": "강원특별자치도 강릉시 지변동 361-1",
+      "roadAddress": "강원특별자치도 강릉시 지변길 182  (지변동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "효정슈퍼",
+      "address": "강원특별자치도 강릉시 지변동 19-1",
+      "roadAddress": "강원특별자치도 강릉시 경포로15번길 35-1  (지변동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕원슈퍼",
+      "address": "강원특별자치도 강릉시 지변동 324",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씨유주문진우신점",
+      "address": "강원특별자치도 강릉시 주문진읍 교항리 1166-1 우신그린피아아파트",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 보리골길 26, 상가동 101호 (우신그린피아아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-10"
+    },
+    {
+      "name": "GS25 포남제일점",
+      "address": "강원특별자치도 강릉시 포남동 1278-174",
+      "roadAddress": "강원특별자치도 강릉시 남강초교2길 40 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-10"
+    },
+    {
+      "name": "GS25 강릉금학점",
+      "address": "강원특별자치도 강릉시 금학동 71",
+      "roadAddress": "강원특별자치도 강릉시 금성로 58 (금학동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-22"
+    },
+    {
+      "name": "세븐일레븐 강릉포남점",
+      "address": "강원특별자치도 강릉시 포남동 1059-17",
+      "roadAddress": "강원특별자치도 강릉시 강릉대로457번길 14 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-21"
+    },
+    {
+      "name": "GS25 정동진역점",
+      "address": "강원특별자치도 강릉시 강동면 정동진리 313-1",
+      "roadAddress": "강원특별자치도 강릉시 강동면 정동역길 24",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-21"
+    },
+    {
+      "name": "씨유(CU)주문진동방점",
+      "address": "강원특별자치도 강릉시 주문진읍 교항리 18-6 동방타워맨션",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 매맥이아랫길 24, 1층 1호 (동방타워맨션)",
+      "status": "영업/정상",
+      "licenseDate": "2020-10-05"
+    },
+    {
+      "name": "이마트24 R강릉남산점",
+      "address": "강원특별자치도 강릉시 노암동 618-22",
+      "roadAddress": "강원특별자치도 강릉시 남부로125번길 14, 1층 (노암동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-10-15"
+    },
+    {
+      "name": "GS25 강릉유천점",
+      "address": "강원특별자치도 강릉시 홍제동 1026-8",
+      "roadAddress": "강원특별자치도 강릉시 선수촌로63번길 22-4, 1층 (홍제동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-10-15"
+    },
+    {
+      "name": "사천농협 해안로지점",
+      "address": "강원특별자치도 강릉시 사천면 사천진리 86-6 사천농업협동조합",
+      "roadAddress": "강원특별자치도 강릉시 사천면 진리항구길 15, 사천농업협동조합",
+      "status": "영업/정상",
+      "licenseDate": "2025-06-19"
+    },
+    {
+      "name": "지에스25 경포 프리미엄점",
+      "address": "강원특별자치도 강릉시 안현동 862 경포상가",
+      "roadAddress": "강원특별자치도 강릉시 해안로 517, 경포상가 1층 5호 (안현동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-06-19"
+    },
+    {
+      "name": "씨유(CU)강릉관대길점",
+      "address": "강원특별자치도 강릉시 내곡동 621",
+      "roadAddress": "강원특별자치도 강릉시 관대길16번길 9, 1층 (내곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-07-22"
+    },
+    {
+      "name": "지에스25강릉성산로타리점",
+      "address": "강원특별자치도 강릉시 성산면 구산리 99-6",
+      "roadAddress": "강원특별자치도 강릉시 성산면 경강로 1375-4, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2025-07-23"
+    },
+    {
+      "name": "홈마트",
+      "address": "강원특별자치도 강릉시 홍제동 164-5",
+      "roadAddress": "강원특별자치도 강릉시 홍제로 73 (홍제동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-08-04"
+    },
+    {
+      "name": "강원양돈축산업협동조합유천지점",
+      "address": "강원특별자치도 강릉시 홍제동 1028-1",
+      "roadAddress": "강원특별자치도 강릉시 선수촌로63번길 14-10 (홍제동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-09-02"
+    },
+    {
+      "name": "지에스(GS)25 강릉교동택지점",
+      "address": "강원특별자치도 강릉시 교동 1813-6",
+      "roadAddress": "강원특별자치도 강릉시 하슬라로232번길 12 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-09-04"
+    },
+    {
+      "name": "도담식자재",
+      "address": "강원특별자치도 강릉시 홍제동 796",
+      "roadAddress": "강원특별자치도 강릉시 공제로359번길 9 (홍제동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-09-05"
+    },
+    {
+      "name": "세븐일레븐 강릉노암율곡로점",
+      "address": "강원특별자치도 강릉시 노암동 245-7",
+      "roadAddress": "강원특별자치도 강릉시 율곡로 2745, 1층 101, 102호 (노암동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-09-08"
+    },
+    {
+      "name": "씨유 주문진교항리점",
+      "address": "강원특별자치도 강릉시 주문진읍 교항리 72-6",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 연주로 316",
+      "status": "영업/정상",
+      "licenseDate": "2025-09-30"
+    },
+    {
+      "name": "세븐일레븐 강릉올림픽점",
+      "address": "강원특별자치도 강릉시 홍제동 1043 엘에이치미디어촌7단지",
+      "roadAddress": "강원특별자치도 강릉시 선수촌로 32, 상가동 1층 1호 (홍제동, 엘에이치미디어촌7단지)",
+      "status": "영업/정상",
+      "licenseDate": "2025-09-30"
+    },
+    {
+      "name": "강원농축산유통",
+      "address": "강원특별자치도 강릉시 입암동 694-11",
+      "roadAddress": "강원특별자치도 강릉시 강변로 616 (입암동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-10-16"
+    },
+    {
+      "name": "씨유(CU)강릉입암코아루점",
+      "address": "강원특별자치도 강릉시 입암동 550-5",
+      "roadAddress": "강원특별자치도 강릉시 월대산로 23-4, 1층 (입암동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-10-16"
+    },
+    {
+      "name": "세븐일레븐 강릉더샵점",
+      "address": "강원특별자치도 강릉시 입암동 711 강릉 더샵",
+      "roadAddress": "강원특별자치도 강릉시 입암로29번길 11, 상가동 101호 (입암동, 강릉 더샵)",
+      "status": "영업/정상",
+      "licenseDate": "2025-10-29"
+    },
+    {
+      "name": "세븐일레븐 강릉강문스타점",
+      "address": "강원특별자치도 강릉시 강문동 182-24",
+      "roadAddress": "강원특별자치도 강릉시 창해로350번길 21, 1층 (강문동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-11-03"
+    },
+    {
+      "name": "세븐일레븐 강릉중기점",
+      "address": "강원특별자치도 강릉시 옥천동 307",
+      "roadAddress": "강원특별자치도 강릉시 중기1길 1, 1층 (옥천동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-11-05"
+    },
+    {
+      "name": "지에스25 강릉포남중앙",
+      "address": "강원특별자치도 강릉시 포남동 1097-3",
+      "roadAddress": "강원특별자치도 강릉시 명륜로 130, 1층 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-11-11"
+    },
+    {
+      "name": "지에스(GS)25영진바다점",
+      "address": "강원특별자치도 강릉시 연곡면 영진리 72-12",
+      "roadAddress": "강원특별자치도 강릉시 연곡면 해안로 1441, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2025-11-18"
+    },
+    {
+      "name": "성남마트",
+      "address": "강원특별자치도 강릉시 성남동 62-1 강릉축협 지하1층",
+      "roadAddress": "강원특별자치도 강릉시 금성로23번길 10, 강릉축협 지하1층 (성남동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-10-16"
+    },
+    {
+      "name": "GS25 강릉블루핀점",
+      "address": "강원특별자치도 강릉시 교동 140-16",
+      "roadAddress": "강원특별자치도 강릉시 강릉대로 285 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-10-30"
+    },
+    {
+      "name": "관동유통",
+      "address": "강원특별자치도 강릉시 포남동 1181 포남엘에이치1단지아파트 상가",
+      "roadAddress": "강원특별자치도 강릉시 경강로2301번길 8, 포남엘에이치1단지아파트 상가 상가동 101호 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-10-30"
+    },
+    {
+      "name": "GS25 교동주공점",
+      "address": "강원특별자치도 강릉시 교동 1750 강릉 교동(1)주공아파트",
+      "roadAddress": "강원특별자치도 강릉시 가작로 78 (교동, 강릉 교동(1)주공아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2020-10-30"
+    },
+    {
+      "name": "씨유 강릉입암중앙점",
+      "address": "강원특별자치도 강릉시 입암동 204-2",
+      "roadAddress": "강원특별자치도 강릉시 성덕포남로 21, 1층 (입암동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-10-30"
+    },
+    {
+      "name": "세븐일레븐 강릉경포로점",
+      "address": "강원특별자치도 강릉시 안현동 861-8",
+      "roadAddress": "강원특별자치도 강릉시 경포로463번길 23, 1층 (안현동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-11-04"
+    },
+    {
+      "name": "GS25 포남타운점",
+      "address": "강원특별자치도 강릉시 포남동 1073-3",
+      "roadAddress": "강원특별자치도 강릉시 강릉대로 443 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-11-10"
+    },
+    {
+      "name": "세븐일레븐 델루나호텔강릉점",
+      "address": "강원특별자치도 강릉시 주문진읍 교항리 190-4",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 주문로 59, 1층 101호",
+      "status": "영업/정상",
+      "licenseDate": "2020-11-10"
+    },
+    {
+      "name": "GS25 정동진중앙점",
+      "address": "강원특별자치도 강릉시 강동면 정동진리 9-1",
+      "roadAddress": "강원특별자치도 강릉시 강동면 헌화로 975, GS25 정동진중앙점",
+      "status": "영업/정상",
+      "licenseDate": "2020-11-18"
+    },
+    {
+      "name": "IGA마트 강릉포남점",
+      "address": "강원특별자치도 강릉시 포남동 1005-132",
+      "roadAddress": "강원특별자치도 강릉시 용지로96번길 15, 101호 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-11-27"
+    },
+    {
+      "name": "대영상사",
+      "address": "강원특별자치도 강릉시 구정면 구정리 304-2",
+      "roadAddress": "강원특별자치도 강릉시 구정면 청파로 41, 대영상사",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-04"
+    },
+    {
+      "name": "대성종합상사",
+      "address": "강원특별자치도 강릉시 학동 15",
+      "roadAddress": "강원특별자치도 강릉시 월호평길 117, 대성종합상사 (학동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-04"
+    },
+    {
+      "name": "GS25경포현대점",
+      "address": "강원특별자치도 강릉시 저동 4-22",
+      "roadAddress": "강원특별자치도 강릉시 경포로463번안길 15, 1층 101,102호 (저동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-03"
+    },
+    {
+      "name": "CU 강릉성남중앙점",
+      "address": "강원특별자치도 강릉시 성남동 111-1",
+      "roadAddress": "강원특별자치도 강릉시 중앙시장3길 22-1, CU강릉성남중앙점 (성남동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-07"
+    },
+    {
+      "name": "강릉어썸마켓",
+      "address": "강원특별자치도 강릉시 두산동 14-5 3동",
+      "roadAddress": "강원특별자치도 강릉시 강변로670번길 13, 3동 (두산동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-08"
+    },
+    {
+      "name": "CU강릉강부점",
+      "address": "강원특별자치도 강릉시 내곡동 616 제2차강부임대주택",
+      "roadAddress": "강원특별자치도 강릉시 관대길 63, E동 (내곡동, 제2차강부임대주택)",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-15"
+    },
+    {
+      "name": "이마트24강릉안인솔향점",
+      "address": "강원특별자치도 강릉시 강동면 하시동리 112-1",
+      "roadAddress": "강원특별자치도 강릉시 강동면 원장봉길 70-37, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-17"
+    },
+    {
+      "name": "큰우리 할인마트",
+      "address": "강원특별자치도 강릉시 사천면 방동리 415-4",
+      "roadAddress": "강원특별자치도 강릉시 사천면 방동길 27",
+      "status": "영업/정상",
+      "licenseDate": "2025-11-26"
+    },
+    {
+      "name": "라솜이네",
+      "address": "강원특별자치도 강릉시 성산면 위촌리 40-5",
+      "roadAddress": "강원특별자치도 강릉시 성산면 위촌길 73, 1층 102호",
+      "status": "영업/정상",
+      "licenseDate": "2025-11-26"
+    },
+    {
+      "name": "강릉마켓",
+      "address": "강원특별자치도 강릉시 회산동 204-4",
+      "roadAddress": "강원특별자치도 강릉시 회산로 348-16 (회산동)",
+      "status": "영업/정상",
+      "licenseDate": "2026-01-05"
+    },
+    {
+      "name": "우리동네 국민상회 강릉유천점",
+      "address": "강원특별자치도 강릉시 홍제동 1028-3",
+      "roadAddress": "강원특별자치도 강릉시 선수촌로63번길 6-3, 1층 103호 (홍제동)",
+      "status": "영업/정상",
+      "licenseDate": "2026-01-23"
+    },
+    {
+      "name": "씨유(CU)뉴강릉교동택지점",
+      "address": "강원특별자치도 강릉시 교동 1800-4",
+      "roadAddress": "강원특별자치도 강릉시 경포로 20-1, 1층 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2026-01-23"
+    },
+    {
+      "name": "이마트24강릉원대로길점",
+      "address": "강원특별자치도 강릉시 교동 1737-1",
+      "roadAddress": "강원특별자치도 강릉시 원대로 28 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2026-02-02"
+    },
+    {
+      "name": "GS25교동온누리점",
+      "address": "강원특별자치도 강릉시 교동 1889-8 신일빌딩",
+      "roadAddress": "강원특별자치도 강릉시 정원로 48, 신일빌딩 1층 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2026-02-02"
+    },
+    {
+      "name": "GS25교동온누리점",
+      "address": "강원특별자치도 강릉시 교동 1889-8",
+      "roadAddress": "강원특별자치도 강릉시 정원로 48, 1층 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-01-06"
+    },
+    {
+      "name": "씨유(CU)강릉포남로점",
+      "address": "강원특별자치도 강릉시 포남동 1179-5",
+      "roadAddress": "강원특별자치도 강릉시 성덕포남로168번길 16, 1층 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-01-14"
+    },
+    {
+      "name": "세븐일레븐 강릉선교장점",
+      "address": "강원특별자치도 강릉시 운정동 472-2",
+      "roadAddress": "강원특별자치도 강릉시 운정길 52, 1층 (운정동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-01-20"
+    },
+    {
+      "name": "코레일유통주식회사",
+      "address": "강원특별자치도 강릉시 교동 118 강릉역",
+      "roadAddress": "강원특별자치도 강릉시 용지로 176, 강릉역 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-24"
+    },
+    {
+      "name": "CU 강릉대점",
+      "address": "강원특별자치도 강릉시 지변동 280-2",
+      "roadAddress": "강원특별자치도 강릉시 지변길 22 (지변동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-02-26"
+    },
+    {
+      "name": "CU 강릉아산드림점",
+      "address": "강원특별자치도 강릉시 사천면 방동리 415-1",
+      "roadAddress": "강원특별자치도 강릉시 사천면 방동길 35",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-02"
+    },
+    {
+      "name": "씨유 강릉유니시티점",
+      "address": "강원특별자치도 강릉시 금학동 92-1 강릉 일번가",
+      "roadAddress": "강원특별자치도 강릉시 신대학길 17, 강릉 일번가 1층 107호 (금학동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-02"
+    },
+    {
+      "name": "GS25 강릉명주",
+      "address": "강원특별자치도 강릉시 남문동 117-6",
+      "roadAddress": "강원특별자치도 강릉시 남문길 12 (남문동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-02"
+    },
+    {
+      "name": "세븐일레븐 입암5주공점",
+      "address": "강원특별자치도 강릉시 입암동 689 입암5주공아파트 상가",
+      "roadAddress": "강원특별자치도 강릉시 월대산로 43, 입암5주공아파트 상가 1층 102호 (입암동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-04"
+    },
+    {
+      "name": "세븐일레븐 파인아트라벨점",
+      "address": "강원특별자치도 강릉시 견소동 265 지하 1층",
+      "roadAddress": "강원특별자치도 강릉시 해안로 32, 지하 1층 (견소동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-08"
+    },
+    {
+      "name": "프렌즈편의점",
+      "address": "강원특별자치도 강릉시 남문동 164-1 강릉의료원",
+      "roadAddress": "강원특별자치도 강릉시 경강로 2007, 강릉의료원 (남문동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-10"
+    },
+    {
+      "name": "GS25 강릉유천택지점",
+      "address": "강원특별자치도 강릉시 홍제동 1020-2 103호",
+      "roadAddress": "강원특별자치도 강릉시 선수촌로 79-7, 103호 (홍제동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-10"
+    },
+    {
+      "name": "와인앤비어유",
+      "address": "강원특별자치도 강릉시 교동 1862-1 103호",
+      "roadAddress": "강원특별자치도 강릉시 교동광장로 125, 103호 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-11"
+    },
+    {
+      "name": "㈜에스제이와이에너지 홍길동주유소",
+      "address": "강원특별자치도 강릉시 교동 923-4",
+      "roadAddress": "강원특별자치도 강릉시 강릉대로 161 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-15"
+    },
+    {
+      "name": "세븐일레븐 주문진교항점",
+      "address": "강원특별자치도 강릉시 주문진읍 교항리 48-54",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 연주로 298, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-15"
+    },
+    {
+      "name": "세븐일레븐 주문진부영점",
+      "address": "강원특별자치도 강릉시 연곡면 영진리 353-75",
+      "roadAddress": "강원특별자치도 강릉시 연곡면 영진3길 6-2",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-16"
+    },
+    {
+      "name": "세븐일레븐 강릉남구점",
+      "address": "강원특별자치도 강릉시 포남동 1151-7",
+      "roadAddress": "강원특별자치도 강릉시 남구길18번길 24 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-25"
+    },
+    {
+      "name": "세븐일레븐 강릉라온점",
+      "address": "강원특별자치도 강릉시 송정동 245-4",
+      "roadAddress": "강원특별자치도 강릉시 송정길 9 (송정동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-07"
+    },
+    {
+      "name": "시골집",
+      "address": "강원특별자치도 강릉시 옥천동 223 동부시장",
+      "roadAddress": "강원특별자치도 강릉시 옥천로 48, 동부시장 77호 (옥천동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-15"
+    },
+    {
+      "name": "CU 주문진해안로점",
+      "address": "강원특별자치도 강릉시 주문진읍 교항리 81-57",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 해안로 1629",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-04"
+    },
+    {
+      "name": "세븐일레븐 경포고점",
+      "address": "강원특별자치도 강릉시 포남동 1211",
+      "roadAddress": "강원특별자치도 강릉시 강릉대로 545 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-10"
+    },
+    {
+      "name": "GS25 강릉공군점",
+      "address": "강원특별자치도 강릉시 입암동 639-26",
+      "roadAddress": "강원특별자치도 강릉시 강변로 346, 202호 (입암동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-21"
+    },
+    {
+      "name": "GS25 강릉하평해변점",
+      "address": "강원특별자치도 강릉시 사천면 사천진리 274-5",
+      "roadAddress": "강원특별자치도 강릉시 사천면 진리해변길 167",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-25"
+    },
+    {
+      "name": "CU 강릉초당점",
+      "address": "강원특별자치도 강릉시 초당동 155-3",
+      "roadAddress": "강원특별자치도 강릉시 연당길 78 (초당동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-06-01"
+    },
+    {
+      "name": "홈플러스(주)",
+      "address": "강원특별자치도 강릉시 옥천동 189 씨네몰",
+      "roadAddress": "강원특별자치도 강릉시 경강로 2120, 씨네몰 (옥천동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-06-08"
+    },
+    {
+      "name": "이마트24 self대성길주유소",
+      "address": "강원특별자치도 강릉시 구정면 학산리 49-10",
+      "roadAddress": "강원특별자치도 강릉시 구정면 칠성로 187, 1층 2호",
+      "status": "영업/정상",
+      "licenseDate": "2021-06-09"
+    },
+    {
+      "name": "세븐일레븐 강릉홍제한신점",
+      "address": "강원특별자치도 강릉시 홍제동 1056 홍제한신휴플러스아파트",
+      "roadAddress": "강원특별자치도 강릉시 토성로 56-1, 홍제한신휴플러스아파트 (홍제동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-06-29"
+    },
+    {
+      "name": "세븐일레븐 강릉영진해변점",
+      "address": "강원특별자치도 강릉시 연곡면 영진리 65-9",
+      "roadAddress": "강원특별자치도 강릉시 연곡면 해안로 1455",
+      "status": "영업/정상",
+      "licenseDate": "2021-06-28"
+    },
+    {
+      "name": "이마트24 강릉여고점",
+      "address": "강원특별자치도 강릉시 옥천동 165",
+      "roadAddress": "강원특별자치도 강릉시 경강로 2144-1 (옥천동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-02"
+    },
+    {
+      "name": "오색슈퍼",
+      "address": "강원특별자치도 강릉시 주문진읍 주문리 326-13",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 구소방서길 4",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-08"
+    },
+    {
+      "name": "CU 강릉한내들점",
+      "address": "강원특별자치도 강릉시 유천동 781 강릉유천한내들더퍼스트 상가",
+      "roadAddress": "강원특별자치도 강릉시 선수촌로 93, 강릉유천한내들더퍼스트 상가 (유천동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-14"
+    },
+    {
+      "name": "세븐일레븐 강릉가작로점",
+      "address": "강원특별자치도 강릉시 포남동 1102-6",
+      "roadAddress": "강원특별자치도 강릉시 가작로274번길 19 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-16"
+    },
+    {
+      "name": "GS25 강릉사천해변점",
+      "address": "강원특별자치도 강릉시 사천면 방동리 98-2",
+      "roadAddress": "강원특별자치도 강릉시 사천면 방동길 332",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-26"
+    },
+    {
+      "name": "이마트24 주문진해안로점",
+      "address": "강원특별자치도 강릉시 주문진읍 주문리 312-350",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 해안로 1763, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2021-08-19"
+    },
+    {
+      "name": "세븐일레븐 강릉연곡점",
+      "address": "강원특별자치도 강릉시 연곡면 동덕리 440",
+      "roadAddress": "강원특별자치도 강릉시 연곡면 진고개로 2720",
+      "status": "영업/정상",
+      "licenseDate": "2021-08-26"
+    },
+    {
+      "name": "미니스톱 강릉가톨릭관동대점",
+      "address": "강원특별자치도 강릉시 내곡동 284-1",
+      "roadAddress": "강원특별자치도 강릉시 범일로579번길 61 (내곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-09-01"
+    },
+    {
+      "name": "CU 강릉포남점",
+      "address": "강원특별자치도 강릉시 포남동 1194-10",
+      "roadAddress": "강원특별자치도 강릉시 하평길 64 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-09-09"
+    },
+    {
+      "name": "세븐일레븐 강릉올림픽파크점",
+      "address": "강원특별자치도 강릉시 교동 532-3",
+      "roadAddress": "강원특별자치도 강릉시 성곡고양길 67 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-09-14"
+    },
+    {
+      "name": "세븐일레븐 강릉교동센트럴점",
+      "address": "강원특별자치도 강릉시 교동 1870-1",
+      "roadAddress": "강원특별자치도 강릉시 교동광장로100번길 20 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-09-16"
+    },
+    {
+      "name": "세븐일레븐 강릉포남스타점",
+      "address": "강원특별자치도 강릉시 포남동 1300-1",
+      "roadAddress": "강원특별자치도 강릉시 하평3길 42 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-10-08"
+    },
+    {
+      "name": "GS25 강릉남항진점",
+      "address": "강원특별자치도 강릉시 남항진동 159-38",
+      "roadAddress": "강원특별자치도 강릉시 공항길127번길 32 (남항진동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-10-08"
+    },
+    {
+      "name": "씨유 주문진중앙점",
+      "address": "강원특별자치도 강릉시 주문진읍 주문리 312-33",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 주문로 132",
+      "status": "영업/정상",
+      "licenseDate": "2021-10-27"
+    },
+    {
+      "name": "티에이치(TH)종합식자재유통",
+      "address": "강원특별자치도 강릉시 강동면 모전리 88 라동",
+      "roadAddress": "강원특별자치도 강릉시 강동면 임곡로 143, 라동",
+      "status": "영업/정상",
+      "licenseDate": "2021-10-28"
+    },
+    {
+      "name": "CU 남강릉IC점",
+      "address": "강원특별자치도 강릉시 구정면 학산리 1500-1",
+      "roadAddress": "강원특별자치도 강릉시 구정면 칠성로 155",
+      "status": "영업/정상",
+      "licenseDate": "2021-11-04"
+    },
+    {
+      "name": "주식회사 1004마트",
+      "address": "강원특별자치도 강릉시 회산동 57-1",
+      "roadAddress": "강원특별자치도 강릉시 강변로 50 (회산동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-11-23"
+    },
+    {
+      "name": "세븐일레븐 강릉주문진점",
+      "address": "강원특별자치도 강릉시 주문진읍 교항리 39-3",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 매맥이길 13-6, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2021-12-14"
+    },
+    {
+      "name": "CU 강릉성산점",
+      "address": "강원특별자치도 강릉시 성산면 구산리 248-3",
+      "roadAddress": "강원특별자치도 강릉시 성산면 구산길 38",
+      "status": "영업/정상",
+      "licenseDate": "2022-01-05"
+    },
+    {
+      "name": "초록마을 강릉유천점",
+      "address": "강원특별자치도 강릉시 유천동 781 강릉유천한내들더퍼스트 상가 108동 110호",
+      "roadAddress": "강원특별자치도 강릉시 선수촌로 93, 강릉유천한내들더퍼스트 상가 108동 110호 (유천동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-01-20"
+    },
+    {
+      "name": "강릉시수산업협동조합 수산물직매장",
+      "address": "강원특별자치도 강릉시 성남동 32-1",
+      "roadAddress": "강원특별자치도 강릉시 율곡로 2799 (성남동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-01-11"
+    },
+    {
+      "name": "CU 강릉노암영진점",
+      "address": "강원특별자치도 강릉시 노암동 680",
+      "roadAddress": "강원특별자치도 강릉시 임영로26번길 12 (노암동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-01-18"
+    },
+    {
+      "name": "CU 주문진항",
+      "address": "강원특별자치도 강릉시 주문진읍 교항리 167-7",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 해안로 1727",
+      "status": "영업/정상",
+      "licenseDate": "2022-01-19"
+    },
+    {
+      "name": "더봄 종합철물 집수리",
+      "address": "강원특별자치도 강릉시 연곡면 행정리 77-19",
+      "roadAddress": "강원특별자치도 강릉시 연곡면 진고개로 2307-5",
+      "status": "영업/정상",
+      "licenseDate": "2022-02-08"
+    },
+    {
+      "name": "CU 강릉입암한결점",
+      "address": "강원특별자치도 강릉시 입암동 585-20",
+      "roadAddress": "강원특별자치도 강릉시 성덕포남로 89-12 (입암동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-02-08"
+    },
+    {
+      "name": "GS25 강릉내곡점",
+      "address": "강원특별자치도 강릉시 내곡동 88-13",
+      "roadAddress": "강원특별자치도 강릉시 남산초교길12번길 33 (내곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-02-24"
+    },
+    {
+      "name": "세븐일레븐 강릉솔향점",
+      "address": "강원특별자치도 강릉시 옥천동 281",
+      "roadAddress": "강원특별자치도 강릉시 옥천로 57 (옥천동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-02-28"
+    },
+    {
+      "name": "세븐일레븐 강릉입암중앙점",
+      "address": "강원특별자치도 강릉시 입암동 662-25",
+      "roadAddress": "강원특별자치도 강릉시 강중길 26 (입암동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-03-14"
+    },
+    {
+      "name": "GS25 강릉신도점",
+      "address": "강원특별자치도 강릉시 견소동 289 송정해변신도브래뉴아파트 상가동 104,호",
+      "roadAddress": "강원특별자치도 강릉시 경강로2539번길 22, 상가동 104, 105호 (견소동, 송정해변신도브래뉴아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2022-03-17"
+    },
+    {
+      "name": "세븐일레븐 강릉사천진리점",
+      "address": "강원특별자치도 강릉시 사천면 사천진리 266-28",
+      "roadAddress": "강원특별자치도 강릉시 사천면 진리해변길 99",
+      "status": "영업/정상",
+      "licenseDate": "2022-03-18"
+    },
+    {
+      "name": "세븐일레븐 강릉플라주메종점",
+      "address": "강원특별자치도 강릉시 사천면 사천진리 911",
+      "roadAddress": "강원특별자치도 강릉시 사천면 해안로 1024",
+      "status": "영업/정상",
+      "licenseDate": "2025-02-18"
+    },
+    {
+      "name": "해오름",
+      "address": "강원특별자치도 강릉시 연곡면 영진리 357-111",
+      "roadAddress": "강원특별자치도 강릉시 연곡면 해안로 1487",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-06"
+    },
+    {
+      "name": "태양마트",
+      "address": "강원특별자치도 강릉시 교동 924-3",
+      "roadAddress": "강원특별자치도 강릉시 강릉대로 149 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-18"
+    },
+    {
+      "name": "GS25 강릉관동중점",
+      "address": "강원특별자치도 강릉시 교동 1732",
+      "roadAddress": "강원특별자치도 강릉시 원대로 38 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-29"
+    },
+    {
+      "name": "태백티앤씨",
+      "address": "강원특별자치도 강릉시 두산동 29-4",
+      "roadAddress": "강원특별자치도 강릉시 강변로670번길 28 (두산동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-05-03"
+    },
+    {
+      "name": "GS 강릉홍제점",
+      "address": "강원특별자치도 강릉시 홍제동 122 우산아파트 상가",
+      "roadAddress": "강원특별자치도 강릉시 토성로 49, 우산아파트 상가 (홍제동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-05-17"
+    },
+    {
+      "name": "세븐일레븐 강릉한라점",
+      "address": "강원특별자치도 강릉시 노암동 390 노암한라아파트 상가동",
+      "roadAddress": "강원특별자치도 강릉시 노암길42번길 24, 노암한라아파트 상가동 1층 101, 102호 (노암동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-05-24"
+    },
+    {
+      "name": "세븐일레븐 관동대점",
+      "address": "강원특별자치도 강릉시 내곡동 325-18",
+      "roadAddress": "강원특별자치도 강릉시 관솔길 117 (내곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-06-07"
+    },
+    {
+      "name": "(주)쿱스토어전북 강릉교동점",
+      "address": "강원특별자치도 강릉시 교동 1885-8",
+      "roadAddress": "강원특별자치도 강릉시 솔올로5번길 40-4 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-07-10"
+    },
+    {
+      "name": "세븐일레븐 강릉내곡점",
+      "address": "강원특별자치도 강릉시 내곡동 480-9",
+      "roadAddress": "강원특별자치도 강릉시 범일로 597, 1층 106호 (내곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-06-24"
+    },
+    {
+      "name": "세븐일레븐 뉴강릉교동하슬라점",
+      "address": "강원특별자치도 강릉시 교동 1900-5",
+      "roadAddress": "강원특별자치도 강릉시 하슬라로 153-1 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-06-29"
+    },
+    {
+      "name": "세븐일레븐 일송점",
+      "address": "강원특별자치도 강릉시 포남동 1311-2",
+      "roadAddress": "강원특별자치도 강릉시 하평3길 12-1 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-18"
+    },
+    {
+      "name": "GS25 강릉사천점",
+      "address": "강원특별자치도 강릉시 사천면 미노리 360-19",
+      "roadAddress": "강원특별자치도 강릉시 사천면 본동길 1",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-26"
+    },
+    {
+      "name": "CU 강릉연곡금강점",
+      "address": "강원특별자치도 강릉시 연곡면 방내리 46-27",
+      "roadAddress": "강원특별자치도 강릉시 연곡면 진고개로 2725",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-20"
+    },
+    {
+      "name": "세븐일레븐 강릉해안로점",
+      "address": "강원특별자치도 강릉시 안현동 216-34",
+      "roadAddress": "강원특별자치도 강릉시 해안로 659-1, 1층 (안현동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-01"
+    },
+    {
+      "name": "GS25 강릉중앙시장점",
+      "address": "강원특별자치도 강릉시 금학동 6",
+      "roadAddress": "강원특별자치도 강릉시 금성로 18 (금학동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-08"
+    },
+    {
+      "name": "CU 강릉블루비치점",
+      "address": "강원특별자치도 강릉시 안현동 223-8",
+      "roadAddress": "강원특별자치도 강릉시 해안로 655 (안현동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-09"
+    },
+    {
+      "name": "세븐일레븐 강릉교동스타점",
+      "address": "강원특별자치도 강릉시 교동 1885-9",
+      "roadAddress": "강원특별자치도 강릉시 솔올로5번길 40, 1층 102호 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-10"
+    },
+    {
+      "name": "CU 강릉입암현대점",
+      "address": "강원특별자치도 강릉시 입암동 443-2",
+      "roadAddress": "강원특별자치도 강릉시 용지로 23 (입암동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-23"
+    },
+    {
+      "name": "CU 강릉신세계점",
+      "address": "강원특별자치도 강릉시 옥천동 367-14",
+      "roadAddress": "강원특별자치도 강릉시 용지로 146 (옥천동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-24"
+    },
+    {
+      "name": "GS25 경포라카이점",
+      "address": "강원특별자치도 강릉시 안현동 89-87 라카이샌드파인",
+      "roadAddress": "강원특별자치도 강릉시 해안로 536, 라카이샌드파인 (안현동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-25"
+    },
+    {
+      "name": "학산3 협동조합",
+      "address": "강원특별자치도 강릉시 구정면 학산리 1500-1",
+      "roadAddress": "강원특별자치도 강릉시 구정면 칠성로 155",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-25"
+    },
+    {
+      "name": "니하오마트",
+      "address": "강원특별자치도 강릉시 금학동 19-5",
+      "roadAddress": "강원특별자치도 강릉시 신대학길 35, 1,2,3층 (금학동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-31"
+    },
+    {
+      "name": "GS25 회산한신점",
+      "address": "강원특별자치도 강릉시 회산동 446-4",
+      "roadAddress": "강원특별자치도 강릉시 회산로339번길 12, 1층 (회산동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-05"
+    },
+    {
+      "name": "세븐일레븐 연곡삼우그린점",
+      "address": "강원특별자치도 강릉시 연곡면 영진리 305-2 삼우그린아파트",
+      "roadAddress": "강원특별자치도 강릉시 연곡면 연주로 136, 1층 103호 (삼우그린아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-07"
+    },
+    {
+      "name": "CU 주문진어민시장점",
+      "address": "강원특별자치도 강릉시 주문진읍 주문리 312-298",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 해안로 1781",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-21"
+    },
+    {
+      "name": "대성상사",
+      "address": "강원특별자치도 강릉시 포남동 1165-10",
+      "roadAddress": "강원특별자치도 강릉시 성덕포남로 189, 1층 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-23"
+    },
+    {
+      "name": "CU 정동진모래시계점",
+      "address": "강원특별자치도 강릉시 강동면 정동진리 3-2",
+      "roadAddress": "강원특별자치도 강릉시 강동면 헌화로 1018",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-27"
+    },
+    {
+      "name": "CU 임당사거리점",
+      "address": "강원특별자치도 강릉시 교동 146-4",
+      "roadAddress": "강원특별자치도 강릉시 강릉대로 242, 1층 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-26"
+    },
+    {
+      "name": "이마트24 주문진해변점",
+      "address": "강원특별자치도 강릉시 주문진읍 향호리 8-22",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 주문북로 222-30",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-29"
+    },
+    {
+      "name": "GS25 강릉원주대점",
+      "address": "강원특별자치도 강릉시 지변동 123 강릉원주대학교",
+      "roadAddress": "강원특별자치도 강릉시 죽헌길 7, 강릉원주대학교 (지변동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-04"
+    },
+    {
+      "name": "CU 강릉대쉼뜨락점",
+      "address": "강원특별자치도 강릉시 지변동 123 강릉원주대학교",
+      "roadAddress": "강원특별자치도 강릉시 죽헌길 7, 강릉원주대학교 (지변동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-04"
+    },
+    {
+      "name": "GS25 영진로타리점",
+      "address": "강원특별자치도 강릉시 연곡면 영진리 353-15",
+      "roadAddress": "강원특별자치도 강릉시 연곡면 연주로 150",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-05"
+    },
+    {
+      "name": "세븐일레븐 강릉솔올점",
+      "address": "강원특별자치도 강릉시 교동 1793-2",
+      "roadAddress": "강원특별자치도 강릉시 경포로 60, 1층 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-05"
+    },
+    {
+      "name": "CU 강릉현대강릉샘터점",
+      "address": "강원특별자치도 강릉시 연곡면 방내리 187-18",
+      "roadAddress": "강원특별자치도 강릉시 연곡면 동해대로 4357",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-06"
+    },
+    {
+      "name": "CU 현대강릉현대점",
+      "address": "강원특별자치도 강릉시 청량동 561-1",
+      "roadAddress": "강원특별자치도 강릉시 율곡로 2636 (청량동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-06"
+    },
+    {
+      "name": "세븐일레븐 강릉안인발전소점",
+      "address": "강원특별자치도 강릉시 강동면 안인진리 178-11",
+      "roadAddress": "강원특별자치도 강릉시 강동면 율곡로 1867",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-07"
+    },
+    {
+      "name": "세븐일레븐 강릉한라점",
+      "address": "강원특별자치도 강릉시 노암동 390 노암한라아파트 상가동",
+      "roadAddress": "강원특별자치도 강릉시 노암길42번길 24, 노암한라아파트 상가동 1층 101호 (노암동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-11"
+    },
+    {
+      "name": "세븐일레븐 강릉율곡점",
+      "address": "강원특별자치도 강릉시 교동 1859-8",
+      "roadAddress": "강원특별자치도 강릉시 율곡초교길43번길 19 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-19"
+    },
+    {
+      "name": "(주) 코리아세븐 관대빌리지점",
+      "address": "강원특별자치도 강릉시 내곡동 634-2",
+      "roadAddress": "강원특별자치도 강릉시 범일로555번길 27 (내곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-21"
+    },
+    {
+      "name": "윌마트",
+      "address": "강원특별자치도 강릉시 강문동 304-5",
+      "roadAddress": "강원특별자치도 강릉시 창해로 419 (강문동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-27"
+    },
+    {
+      "name": "세븐일레븐 강릉용지점",
+      "address": "강원특별자치도 강릉시 옥천동 373",
+      "roadAddress": "강원특별자치도 강릉시 용지로 103 (옥천동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-28"
+    },
+    {
+      "name": "세븐일레븐 강릉제이나인점",
+      "address": "강원특별자치도 강릉시 강문동 288-32",
+      "roadAddress": "강원특별자치도 강릉시 난설헌로 247 (강문동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-31"
+    },
+    {
+      "name": "세븐일레븐 주문진르네상스점",
+      "address": "강원특별자치도 강릉시 주문진읍 주문리 329-45",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 연주로 448-5",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-31"
+    },
+    {
+      "name": "(주)코리아세븐 강릉강문점",
+      "address": "강원특별자치도 강릉시 강문동 18-3",
+      "roadAddress": "강원특별자치도 강릉시 해안로 298-7 (강문동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-01"
+    },
+    {
+      "name": "세븐일레븐 포남으뜸점",
+      "address": "강원특별자치도 강릉시 포남동 1290-1 르네상스빌딩",
+      "roadAddress": "강원특별자치도 강릉시 하평1길 8, 르네상스빌딩 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-02"
+    },
+    {
+      "name": "CU 물류센터포켓점",
+      "address": "강원특별자치도 강릉시 사천면 방동리 808-13",
+      "roadAddress": "강원특별자치도 강릉시 사천면 과학단지로 137-49",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-03"
+    },
+    {
+      "name": "세븐일레븐 경포바다점",
+      "address": "강원특별자치도 강릉시 강문동 260-26",
+      "roadAddress": "강원특별자치도 강릉시 창해로 461 (강문동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-07"
+    },
+    {
+      "name": "이마트24 강문해변점",
+      "address": "강원특별자치도 강릉시 강문동 159-40",
+      "roadAddress": "강원특별자치도 강릉시 창해로350번길 1 (강문동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-07"
+    },
+    {
+      "name": "세븐일레븐 델루나호텔강릉점",
+      "address": "강원특별자치도 강릉시 주문진읍 교항리 191-6",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 주문로 61",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-07"
+    },
+    {
+      "name": "(주)코리아세븐 강릉단오공원점",
+      "address": "강원특별자치도 강릉시 노암동 703-141",
+      "roadAddress": "강원특별자치도 강릉시 단오장길 24 (노암동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-08"
+    },
+    {
+      "name": "세븐일레븐 강릉포남제일점",
+      "address": "강원특별자치도 강릉시 포남동 1278-19",
+      "roadAddress": "강원특별자치도 강릉시 경강로2344번길 3 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-08"
+    },
+    {
+      "name": "비어앤크림",
+      "address": "강원특별자치도 강릉시 내곡동 422-22",
+      "roadAddress": "강원특별자치도 강릉시 남부로17번길 39 (내곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-10"
+    },
+    {
+      "name": "세븐일레븐 강릉지변점",
+      "address": "강원특별자치도 강릉시 지변동 710-3",
+      "roadAddress": "강원특별자치도 강릉시 경포로 19 (지변동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-12-09"
+    },
+    {
+      "name": "세븐일레븐 강릉사천오션점",
+      "address": "강원특별자치도 강릉시 사천면 사천진리 86-182",
+      "roadAddress": "강원특별자치도 강릉시 사천면 진리항구길 16",
+      "status": "영업/정상",
+      "licenseDate": "2022-12-29"
+    },
+    {
+      "name": "(주)현성유통",
+      "address": "강원특별자치도 강릉시 주문진읍 주문리 311-1 현대프라자",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 주문로 144, 현대프라자",
+      "status": "영업/정상",
+      "licenseDate": "2023-01-10"
+    },
+    {
+      "name": "씨유 강릉이안점",
+      "address": "강원특별자치도 강릉시 입암동 240-2",
+      "roadAddress": "강원특별자치도 강릉시 성덕로 316-15 (입암동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-01-19"
+    },
+    {
+      "name": "아슈크림",
+      "address": "강원특별자치도 강릉시 입암동 240-2",
+      "roadAddress": "강원특별자치도 강릉시 성덕로 316-15 (입암동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-02-07"
+    },
+    {
+      "name": "지에스25 강릉이안점",
+      "address": "강원특별자치도 강릉시 입암동 238-5 주영프라자",
+      "roadAddress": "강원특별자치도 강릉시 성덕로 328-18, 주영프라자 (입암동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-02-07"
+    },
+    {
+      "name": "CU 강릉유천점",
+      "address": "강원특별자치도 강릉시 홍제동 637-10",
+      "roadAddress": "강원특별자치도 강릉시 사임당로 133 (홍제동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-02-20"
+    },
+    {
+      "name": "CU 강릉올림픽파크점",
+      "address": "강원특별자치도 강릉시 교동 20-14",
+      "roadAddress": "강원특별자치도 강릉시 가작로 215-1 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-02-21"
+    },
+    {
+      "name": "송정동 단체협의회",
+      "address": "강원특별자치도 강릉시 송정동 208-2 공공화장실",
+      "roadAddress": "강원특별자치도 강릉시 창해로 118, 공공화장실 (송정동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-03-14"
+    },
+    {
+      "name": "세븐일레븐 강릉동도센트리움점",
+      "address": "강원특별자치도 강릉시 포남동 1117",
+      "roadAddress": "강원특별자치도 강릉시 강릉대로 337-5 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-03-14"
+    },
+    {
+      "name": "(주)코리아세븐 뉴경포비치점",
+      "address": "강원특별자치도 강릉시 강문동 302-2",
+      "roadAddress": "강원특별자치도 강릉시 창해로 439 (강문동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-03-23"
+    },
+    {
+      "name": "씨유 강릉시내점",
+      "address": "강원특별자치도 강릉시 임당동 126-15",
+      "roadAddress": "강원특별자치도 강릉시 경강로 2090, 1,2층 (임당동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-04-05"
+    },
+    {
+      "name": "사천철물",
+      "address": "강원특별자치도 강릉시 사천면 미노리 383-1",
+      "roadAddress": "강원특별자치도 강릉시 사천면 미노길 73",
+      "status": "영업/정상",
+      "licenseDate": "2023-04-07"
+    },
+    {
+      "name": "꼬꼬슈퍼",
+      "address": "강원특별자치도 강릉시 강동면 모전리 307",
+      "roadAddress": "강원특별자치도 강릉시 강동면 둔지길 4",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-04"
+    },
+    {
+      "name": "화신슈퍼",
+      "address": "강원특별자치도 강릉시 주문진읍 교항리 6통5반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명주슈퍼",
+      "address": "강원특별자치도 강릉시 주문진읍 교항리 298-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동명슈퍼",
+      "address": "강원특별자치도 강릉시 주문진읍 교항리 80통23반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "별문구",
+      "address": "강원특별자치도 강릉시 주문진읍 교항리 9통10반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북식품",
+      "address": "강원특별자치도 강릉시 주문진읍 주문리 312-91 9 통5 반 수산시장내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영동문구",
+      "address": "강원특별자치도 강릉시 주문진읍 교항리 9통9반 127",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부산미니슈퍼",
+      "address": "강원특별자치도 강릉시 주문진읍 주문리 9통8반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금미니슈퍼",
+      "address": "강원특별자치도 강릉시 주문진읍 주문리 3통13반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제식품",
+      "address": "강원특별자치도 강릉시 주문진읍 주문리 1157-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "맘모스마트",
+      "address": "강원특별자치도 강릉시 주문진읍 교항리 72-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신생슈퍼",
+      "address": "강원특별자치도 강릉시 주문진읍 교항리 421-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "천용산업(주)",
+      "address": "강원특별자치도 강릉시 주문진읍 주문리 312-86",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제종합포장",
+      "address": "강원특별자치도 강릉시 주문진읍 주문리 270-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "총동문회관리슈퍼",
+      "address": "강원특별자치도 강릉시 주문진읍 주문리 829-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "어흘리 노인회",
+      "address": "강원특별자치도 강릉시 성산면 어흘리 146-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "자유25편의점",
+      "address": "강원특별자치도 강릉시 성산면 금산리 530-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "강원특별자치도 강릉시 구정면 여찬리 334",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진열슈퍼",
+      "address": "강원특별자치도 강릉시 강동면 정동진리 1통5반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "억수슈퍼",
+      "address": "강원특별자치도 강릉시 강동면 정동진리 2통5반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25강릉옥계대로점",
+      "address": "강원특별자치도 강릉시 옥계면 현내리 421-2",
+      "roadAddress": "강원특별자치도 강릉시 옥계면 옥계로 1070",
+      "status": "영업/정상",
+      "licenseDate": "2023-04-12"
+    },
+    {
+      "name": "CU 강릉옹심이마을점",
+      "address": "강원특별자치도 강릉시 병산동 364-1",
+      "roadAddress": "강원특별자치도 강릉시 공항길 37 (병산동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-04-24"
+    },
+    {
+      "name": "GS25 강릉유천으뜸점",
+      "address": "강원특별자치도 강릉시 유천동 759-2",
+      "roadAddress": "강원특별자치도 강릉시 선수촌로 124 (유천동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-04-24"
+    },
+    {
+      "name": "이마트24경포대점",
+      "address": "강원특별자치도 강릉시 강문동 산 4-5",
+      "roadAddress": "강원특별자치도 강릉시 창해로 491 (강문동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-04-28"
+    },
+    {
+      "name": "이마트24 강릉하슬라점",
+      "address": "강원특별자치도 강릉시 교동 318-9",
+      "roadAddress": "강원특별자치도 강릉시 율곡로2968번길 34 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-04"
+    },
+    {
+      "name": "CU 강릉옥천중앙점",
+      "address": "강원특별자치도 강릉시 옥천동 147-1",
+      "roadAddress": "강원특별자치도 강릉시 옥가로19번길 5 (옥천동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-04"
+    },
+    {
+      "name": "세븐일레븐 강릉아모리움점",
+      "address": "강원특별자치도 강릉시 포남동 1278-183",
+      "roadAddress": "강원특별자치도 강릉시 경강로2326번길 10 (포남동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-10"
+    },
+    {
+      "name": "주식회사 지프레시",
+      "address": "강원특별자치도 강릉시 유산동 160-1 강릉농산물도매시장",
+      "roadAddress": "강원특별자치도 강릉시 유산로 60, 강릉농산물도매시장 (유산동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-16"
+    },
+    {
+      "name": "씨유 소금강 탐방로점",
+      "address": "강원특별자치도 강릉시 연곡면 삼산리 57-5",
+      "roadAddress": "강원특별자치도 강릉시 연곡면 소금강길 482",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-16"
+    },
+    {
+      "name": "지에스25 강릉입암코아루점",
+      "address": "강원특별자치도 강릉시 입암동 712 입암동 강변 코아루 오투리움 아파트",
+      "roadAddress": "강원특별자치도 강릉시 월대산로 23 (입암동, 입암동 강변 코아루 오투리움 아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-16"
+    },
+    {
+      "name": "(주)코리아세븐 강릉교동센터점",
+      "address": "강원특별자치도 강릉시 교동 1828-8",
+      "roadAddress": "강원특별자치도 강릉시 율곡초교길 21 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-06-08"
+    },
+    {
+      "name": "GS25 주문진오거리점",
+      "address": "강원특별자치도 강릉시 주문진읍 교항리 106-8",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 신리천로 58",
+      "status": "영업/정상",
+      "licenseDate": "2023-06-08"
+    },
+    {
+      "name": "지에스(GS)25 주문진소돌점",
+      "address": "강원특별자치도 강릉시 주문진읍 주문리 829-22",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 해안로 2007",
+      "status": "영업/정상",
+      "licenseDate": "2023-06-20"
+    },
+    {
+      "name": "씨유 강릉 구정 별하점",
+      "address": "강원특별자치도 강릉시 구정면 여찬리 876-8",
+      "roadAddress": "강원특별자치도 강릉시 구정면 문화마을1길 16",
+      "status": "영업/정상",
+      "licenseDate": "2023-06-28"
+    },
+    {
+      "name": "지에스25강릉남항진항점",
+      "address": "강원특별자치도 강릉시 남항진동 101-2",
+      "roadAddress": "강원특별자치도 강릉시 공항길127번길 66 (남항진동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-07-07"
+    },
+    {
+      "name": "씨유 강릉헌화대로점",
+      "address": "강원특별자치도 강릉시 강동면 정동진리 51-23",
+      "roadAddress": "강원특별자치도 강릉시 강동면 헌화로 903",
+      "status": "영업/정상",
+      "licenseDate": "2023-07-20"
+    },
+    {
+      "name": "지에스25강릉경포점",
+      "address": "강원특별자치도 강릉시 안현동 860",
+      "roadAddress": "강원특별자치도 강릉시 경포로475번길 42 (안현동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-07-26"
+    },
+    {
+      "name": "소돌커피매점",
+      "address": "강원특별자치도 강릉시 주문진읍 향호리 1187-12",
+      "roadAddress": "강원특별자치도 강릉시 주문진읍 해안로 2053",
+      "status": "영업/정상",
+      "licenseDate": "2023-08-01"
+    }
+  ]
+}

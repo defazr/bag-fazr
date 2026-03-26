@@ -1,0 +1,325 @@
+{
+  "region": "대구광역시",
+  "regionSlug": "daegu",
+  "district": "군위군",
+  "districtSlug": "gunwi",
+  "updatedAt": "2026-03-26",
+  "totalCount": 45,
+  "stores": [
+    {
+      "name": "새점상회",
+      "address": "대구광역시 군위군 군위읍 동부리 563",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "K-마트",
+      "address": "대구광역시 군위군 군위읍 동부리 329",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "시장건어물",
+      "address": "대구광역시 군위군 군위읍 서부리 324-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "매일상회",
+      "address": "대구광역시 군위군 군위읍 동부리 593-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "군위농협하나로마트",
+      "address": "대구광역시 군위군 군위읍 서부리 17-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "퀸마트",
+      "address": "대구광역시 군위군 군위읍 서부리 158-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "우리수퍼",
+      "address": "대구광역시 군위군 군위읍 서부리 71",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "중앙수퍼",
+      "address": "대구광역시 군위군 군위읍 서부리 259",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "군위철물",
+      "address": "대구광역시 군위군 군위읍 서부리 22-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "동산수퍼",
+      "address": "대구광역시 군위군 군위읍 서부리 37-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "24시 편의점",
+      "address": "대구광역시 군위군 군위읍 서부리 404-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "태양수퍼",
+      "address": "대구광역시 군위군 군위읍 서부리 125",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "서부수퍼",
+      "address": "대구광역시 군위군 군위읍 서부리 90",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "비들못구판장",
+      "address": "대구광역시 군위군 군위읍 금구리 104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "용산동구판장",
+      "address": "대구광역시 군위군 군위읍 무성리 595",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "서군 구판장",
+      "address": "대구광역시 군위군 군위읍 수서리 364",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "못골 구판장",
+      "address": "대구광역시 군위군 군위읍 사직리 593",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "부녀 구판장",
+      "address": "대구광역시 군위군 군위읍 내량리 691",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "우정골 상회",
+      "address": "대구광역시 군위군 군위읍 정리 417",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "좌정골 상회",
+      "address": "대구광역시 군위군 군위읍 정리 467",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "동리 구판장",
+      "address": "대구광역시 군위군 군위읍 하곡리 400",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "덕담상회",
+      "address": "대구광역시 군위군 소보면 송원리 680-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "형우수퍼",
+      "address": "대구광역시 군위군 소보면 송원리 697-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "구효령상회",
+      "address": "대구광역시 군위군 효령면 장기리 61-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "효령농협연쇄점",
+      "address": "대구광역시 군위군 효령면 중구리 203-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "신흥상회",
+      "address": "대구광역시 군위군 효령면 중구리 334-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "농민후계자조합",
+      "address": "대구광역시 군위군 부계면 가호리 909",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "한밤수퍼",
+      "address": "대구광역시 군위군 부계면 대율리 780-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "광명수퍼",
+      "address": "대구광역시 군위군 부계면 대율리 669",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "대동수퍼",
+      "address": "대구광역시 군위군 부계면 대율리 1357-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "제2석굴암 온천호텔",
+      "address": "대구광역시 군위군 부계면 춘산리 32 외 4필지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "영신수퍼",
+      "address": "대구광역시 군위군 우보면 이화리 1222",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "우보농협연쇄점",
+      "address": "대구광역시 군위군 우보면 이화리 1297-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "동아수퍼",
+      "address": "대구광역시 군위군 의흥면 읍내리 591-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "대동수퍼",
+      "address": "대구광역시 군위군 의흥면 읍내리 262-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "금강상회",
+      "address": "대구광역시 군위군 의흥면 읍내리 432-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "의흥농협연쇄점",
+      "address": "대구광역시 군위군 의흥면 읍내리 429-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "덕신상회",
+      "address": "대구광역시 군위군 의흥면 읍내리 420-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "금성상회",
+      "address": "대구광역시 군위군 산성면 화본리 891",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "화생상회",
+      "address": "대구광역시 군위군 산성면 화본리 1227-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "삼우상회",
+      "address": "대구광역시 군위군 삼국유사면 학성리 168",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "삼우상회",
+      "address": "대구광역시 군위군 삼국유사면 학성리 168",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "혜정상회",
+      "address": "대구광역시 군위군 삼국유사면 학성리 186-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "소보할인매장",
+      "address": "대구광역시 군위군 소보면 송원리 698-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-24"
+    },
+    {
+      "name": "군위수퍼",
+      "address": "대구광역시 군위군 군위읍 동부리 527-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-23"
+    }
+  ]
+}

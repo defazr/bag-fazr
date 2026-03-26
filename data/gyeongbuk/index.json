@@ -1,0 +1,118 @@
+{
+  "region": "경상북도",
+  "regionSlug": "gyeongbuk",
+  "updatedAt": "2026-03-26",
+  "totalCount": 6484,
+  "districts": [
+    {
+      "district": "안동시",
+      "districtSlug": "andong",
+      "count": 114
+    },
+    {
+      "district": "봉화군",
+      "districtSlug": "bonghwa",
+      "count": 127
+    },
+    {
+      "district": "청도군",
+      "districtSlug": "cheongdo",
+      "count": 271
+    },
+    {
+      "district": "청송군",
+      "districtSlug": "cheongsong",
+      "count": 112
+    },
+    {
+      "district": "칠곡군",
+      "districtSlug": "chilgok",
+      "count": 212
+    },
+    {
+      "district": "김천시",
+      "districtSlug": "gimcheon",
+      "count": 328
+    },
+    {
+      "district": "고령군",
+      "districtSlug": "goryeong",
+      "count": 230
+    },
+    {
+      "district": "구미시",
+      "districtSlug": "gumi",
+      "count": 1063
+    },
+    {
+      "district": "경주시",
+      "districtSlug": "gyeongju",
+      "count": 1114
+    },
+    {
+      "district": "경산시",
+      "districtSlug": "gyeongsan",
+      "count": 57
+    },
+    {
+      "district": "문경시",
+      "districtSlug": "mungyeong",
+      "count": 437
+    },
+    {
+      "district": "포항시",
+      "districtSlug": "pohang",
+      "count": 579
+    },
+    {
+      "district": "상주시",
+      "districtSlug": "sangju",
+      "count": 109
+    },
+    {
+      "district": "성주군",
+      "districtSlug": "seongju",
+      "count": 28
+    },
+    {
+      "district": "의성군",
+      "districtSlug": "uiseong",
+      "count": 206
+    },
+    {
+      "district": "울진군",
+      "districtSlug": "uljin",
+      "count": 139
+    },
+    {
+      "district": "울릉군",
+      "districtSlug": "ulleung",
+      "count": 50
+    },
+    {
+      "district": "예천군",
+      "districtSlug": "yecheon",
+      "count": 139
+    },
+    {
+      "district": "영천시",
+      "districtSlug": "yeongcheon",
+      "count": 495
+    },
+    {
+      "district": "영덕군",
+      "districtSlug": "yeongdeok",
+      "count": 206
+    },
+    {
+      "district": "영주시",
+      "districtSlug": "yeongju",
+      "count": 309
+    },
+    {
+      "district": "영양군",
+      "districtSlug": "yeongyang",
+      "count": 159
+    }
+  ]
+}

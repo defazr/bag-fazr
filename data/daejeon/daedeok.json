@@ -1,0 +1,4329 @@
+{
+  "region": "대전광역시",
+  "regionSlug": "daejeon",
+  "district": "대덕구",
+  "districtSlug": "daedeok",
+  "updatedAt": "2026-03-26",
+  "totalCount": 617,
+  "stores": [
+    {
+      "name": "대교종합상사",
+      "address": "대전광역시 대덕구 대화동 289-1    대전기계공구상사 18-123",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태영상회",
+      "address": "대전광역시 대덕구 장동 326",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-28"
+    },
+    {
+      "name": "정슈퍼",
+      "address": "대전광역시 대덕구 와동 63-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-28"
+    },
+    {
+      "name": "대전이동우체국",
+      "address": "대전광역시 대덕구 읍내동 344-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-09"
+    },
+    {
+      "name": "현대스토아",
+      "address": "대전광역시 대덕구 읍내동 54",
+      "roadAddress": "대전광역시 대덕구 계족로761번길 24  (읍내동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-13"
+    },
+    {
+      "name": "부여상회",
+      "address": "대전광역시 대덕구 읍내동 503-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-13"
+    },
+    {
+      "name": "은실상회",
+      "address": "대전광역시 대덕구 읍내동 219-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-13"
+    },
+    {
+      "name": "중부자동차매매휴게실",
+      "address": "대전광역시 대덕구 신대동 21-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-13"
+    },
+    {
+      "name": "와동문구백화점",
+      "address": "대전광역시 대덕구 신대동 367-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-13"
+    },
+    {
+      "name": "한솔마트",
+      "address": "대전광역시 대덕구 읍내동 483-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-13"
+    },
+    {
+      "name": "작은열매장식",
+      "address": "대전광역시 대덕구 와동 372-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-13"
+    },
+    {
+      "name": "와동 농특산물전문점",
+      "address": "대전광역시 대덕구 와동 367-1 도헌빌딩1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-13"
+    },
+    {
+      "name": "신대도매마트",
+      "address": "대전광역시 대덕구 신대동 218",
+      "roadAddress": "대전광역시 대덕구 신탄진로 199  (신대동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-24"
+    },
+    {
+      "name": "효자슈퍼",
+      "address": "대전광역시 대덕구 읍내동 204-51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-30"
+    },
+    {
+      "name": "와동마트",
+      "address": "대전광역시 대덕구 와동 377-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-26"
+    },
+    {
+      "name": "동산소비자슈퍼",
+      "address": "대전광역시 대덕구 와동 111-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-26"
+    },
+    {
+      "name": "현대K마트",
+      "address": "대전광역시 대덕구 와동 111",
+      "roadAddress": "대전광역시 대덕구 신탄진로218번길 62  (와동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-26"
+    },
+    {
+      "name": "로얄현대슈퍼",
+      "address": "대전광역시 대덕구 읍내동 54-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-26"
+    },
+    {
+      "name": "대풍상회",
+      "address": "대전광역시 대덕구 읍내동 356-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-26"
+    },
+    {
+      "name": "현대하이퍼마켓",
+      "address": "대전광역시 대덕구 읍내동 58-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-31"
+    },
+    {
+      "name": "한미식품",
+      "address": "대전광역시 대덕구 읍내동 341-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-22"
+    },
+    {
+      "name": "두리슈퍼",
+      "address": "대전광역시 대덕구 읍내동 328-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-25"
+    },
+    {
+      "name": "군산상회",
+      "address": "대전광역시 대덕구 장동 114",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-27"
+    },
+    {
+      "name": "회덕슈퍼",
+      "address": "대전광역시 대덕구 읍내동 203-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-24"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "대전광역시 대덕구 와동 39",
+      "roadAddress": "대전광역시 대덕구 신탄진로218번길 12  (와동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-09"
+    },
+    {
+      "name": "읍내직판장",
+      "address": "대전광역시 대덕구 읍내동 483-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-21"
+    },
+    {
+      "name": "회덕상회",
+      "address": "대전광역시 대덕구 읍내동 230-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-04"
+    },
+    {
+      "name": "범양상회",
+      "address": "대전광역시 대덕구 신대동 241-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-21"
+    },
+    {
+      "name": "정슈퍼",
+      "address": "대전광역시 대덕구 와동 63-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-13"
+    },
+    {
+      "name": "현대싱싱나라",
+      "address": "대전광역시 대덕구 와동 1-109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-24"
+    },
+    {
+      "name": "미진슈퍼",
+      "address": "대전광역시 대덕구 읍내동 266-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-24"
+    },
+    {
+      "name": "배배슈퍼",
+      "address": "대전광역시 대덕구 읍내동 503-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-16"
+    },
+    {
+      "name": "은영슈퍼",
+      "address": "대전광역시 대덕구 비래동 114-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "보성슈퍼",
+      "address": "대전광역시 대덕구 비래동 134-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "대전광역시 대덕구 비래동 134-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "보은상회",
+      "address": "대전광역시 대덕구 비래동 143-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "개미슈퍼",
+      "address": "대전광역시 대덕구 비래동 118-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "임광하이퍼마켓",
+      "address": "대전광역시 대덕구 비래동 126-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "버들상회",
+      "address": "대전광역시 대덕구 비래동 242-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "슈퍼",
+      "address": "대전광역시 대덕구 비래동 122-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "동부슈퍼",
+      "address": "대전광역시 대덕구 송촌동 299-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "한일생필품",
+      "address": "대전광역시 대덕구 송촌동 129-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "정수슈퍼",
+      "address": "대전광역시 대덕구 송촌동 223-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "충북상회",
+      "address": "대전광역시 대덕구 비래동 126-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "비래종합유통",
+      "address": "대전광역시 대덕구 비래동 136-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "대전광역시 대덕구 송촌동 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "삼익유통",
+      "address": "대전광역시 대덕구 비래동 삼익상가 301",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "옥천철물",
+      "address": "대전광역시 대덕구 비래동 141-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "오복슈퍼",
+      "address": "대전광역시 대덕구 비래동 137-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "토종슈퍼",
+      "address": "대전광역시 대덕구 비래동 18-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "송촌 소비자 유통",
+      "address": "대전광역시 대덕구 송촌동 232-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "형제농산물",
+      "address": "대전광역시 대덕구 송촌동 290-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "영동슈퍼",
+      "address": "대전광역시 대덕구 송촌동 350-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "거상파크슈퍼",
+      "address": "대전광역시 대덕구 비래동 92-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "금강슈퍼",
+      "address": "대전광역시 대덕구 송촌동 350-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "대원전기조명",
+      "address": "대전광역시 대덕구 비래동 122-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "회덕농협(송촌)",
+      "address": "대전광역시 대덕구 송촌동 292-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "소비자 유통",
+      "address": "대전광역시 대덕구 비래동 130-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "도성슈퍼",
+      "address": "대전광역시 대덕구 비래동 113-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "한밭유통",
+      "address": "대전광역시 대덕구 비래동 116-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "시장슈퍼",
+      "address": "대전광역시 대덕구 송촌동 299-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-06"
+    },
+    {
+      "name": "찬돌슈퍼",
+      "address": "대전광역시 대덕구 비래동 149-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "공주만물슈퍼",
+      "address": "대전광역시 대덕구 송촌동 241-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "백조슈퍼",
+      "address": "대전광역시 대덕구 비래동 149-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "비래스토아",
+      "address": "대전광역시 대덕구 비래동 140-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "한성슈퍼",
+      "address": "대전광역시 대덕구 송촌동 351-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "협동조합직매장",
+      "address": "대전광역시 대덕구 비래동 139-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "소리슈퍼",
+      "address": "대전광역시 대덕구 비래동 128-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "동일슈퍼",
+      "address": "대전광역시 대덕구 비래동 122-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "덕성슈퍼",
+      "address": "대전광역시 대덕구 송촌동 290-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "동아슈퍼",
+      "address": "대전광역시 대덕구 비래동 149",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "백조슈퍼",
+      "address": "대전광역시 대덕구 송촌동 222-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-03"
+    },
+    {
+      "name": "놀부스토아",
+      "address": "대전광역시 대덕구 비래동 128-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-03"
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "대전광역시 대덕구 송촌동 350-42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-26"
+    },
+    {
+      "name": "송촌스토아",
+      "address": "대전광역시 대덕구 송촌동 221-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-03-01"
+    },
+    {
+      "name": "동대전 농협 비래 지소",
+      "address": "대전광역시 대덕구 비래동 127-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-18"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "대전광역시 대덕구 비래동 99-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-12"
+    },
+    {
+      "name": "동화유통 분점 슈퍼",
+      "address": "대전광역시 대덕구 송촌동 219-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-10"
+    },
+    {
+      "name": "한국도로공사 대전지사",
+      "address": "대전광역시 대덕구 송촌동 579-2 한국도로공사 대전충청본부",
+      "roadAddress": "대전광역시 대덕구 동서대로 1855, 한국도로공사 대전충청본부 (송촌동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-10"
+    },
+    {
+      "name": "제일소비자마트",
+      "address": "대전광역시 대덕구 비래동 115-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-10"
+    },
+    {
+      "name": "청양슈퍼",
+      "address": "대전광역시 대덕구 비래동 135-4 청양A-B-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-20"
+    },
+    {
+      "name": "진미슈퍼",
+      "address": "대전광역시 대덕구 비래동 144-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-20"
+    },
+    {
+      "name": "LG 톨게이트점",
+      "address": "대전광역시 대덕구 송촌동 297-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-30"
+    },
+    {
+      "name": "싱싱슈퍼",
+      "address": "대전광역시 대덕구 송촌동 232-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-27"
+    },
+    {
+      "name": "한스유통",
+      "address": "대전광역시 대덕구 송촌동 290-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-27"
+    },
+    {
+      "name": "희망슈퍼",
+      "address": "대전광역시 대덕구 비래동 144-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-08"
+    },
+    {
+      "name": "드림마트",
+      "address": "대전광역시 대덕구 비래동 53-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-11"
+    },
+    {
+      "name": "동양마트",
+      "address": "대전광역시 대덕구 비래동 135-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-15"
+    },
+    {
+      "name": "서광 슈퍼마켓",
+      "address": "대전광역시 대덕구 송촌동 297-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-13"
+    },
+    {
+      "name": "송촌소비자마트",
+      "address": "대전광역시 대덕구 송촌동 242-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-08"
+    },
+    {
+      "name": "장터할인마트",
+      "address": "대전광역시 대덕구 비래동 144-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-31"
+    },
+    {
+      "name": "대양문구슈퍼",
+      "address": "대전광역시 대덕구 송촌동 487-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-09"
+    },
+    {
+      "name": "텔레토비",
+      "address": "대전광역시 대덕구 송촌동 497-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-21"
+    },
+    {
+      "name": "아울렛 생필품 직판장",
+      "address": "대전광역시 대덕구 송촌동 454-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-04"
+    },
+    {
+      "name": "우정문구",
+      "address": "대전광역시 대덕구 송촌동 497-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-15"
+    },
+    {
+      "name": "선비공판장",
+      "address": "대전광역시 대덕구 송촌동 444",
+      "roadAddress": "대전광역시 대덕구 동춘당로114번길 47  (송촌동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-06"
+    },
+    {
+      "name": "나드리 마트",
+      "address": "대전광역시 대덕구 송촌동 496-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-13"
+    },
+    {
+      "name": "선비슈퍼",
+      "address": "대전광역시 대덕구 송촌동 393-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-27"
+    },
+    {
+      "name": "송촌할인마트",
+      "address": "대전광역시 대덕구 송촌동 494-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-27"
+    },
+    {
+      "name": "송촌마트",
+      "address": "대전광역시 대덕구 비래동 88-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-29"
+    },
+    {
+      "name": "송촌복지마트",
+      "address": "대전광역시 대덕구 송촌동 462",
+      "roadAddress": "대전광역시 대덕구 계족산로 135  (송촌동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-02"
+    },
+    {
+      "name": "선비슈퍼",
+      "address": "대전광역시 대덕구 송촌동 선비마을 4단지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-08"
+    },
+    {
+      "name": "송촌하이퍼마켓",
+      "address": "대전광역시 대덕구 송촌동 461",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-23"
+    },
+    {
+      "name": "송촌슈퍼",
+      "address": "대전광역시 대덕구 송촌동 461-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-04"
+    },
+    {
+      "name": "신선비슈퍼마켓",
+      "address": "대전광역시 대덕구 송촌동 461 선비마을3단지 상가 A동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-04"
+    },
+    {
+      "name": "SK에너지 (주)대원주유소",
+      "address": "대전광역시 대덕구 송촌동 296-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-29"
+    },
+    {
+      "name": "가산문구슈퍼",
+      "address": "대전광역시 대덕구 송촌동 488-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-29"
+    },
+    {
+      "name": "송촌하이퍼마켓",
+      "address": "대전광역시 대덕구 송촌동 467-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-29"
+    },
+    {
+      "name": "선비문구슈퍼",
+      "address": "대전광역시 대덕구 송촌동 496-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-07"
+    },
+    {
+      "name": "송촌슈퍼",
+      "address": "대전광역시 대덕구 송촌동 474-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-11"
+    },
+    {
+      "name": "성일슈퍼",
+      "address": "대전광역시 대덕구 송촌동 455-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-19"
+    },
+    {
+      "name": "한제리 BOX",
+      "address": "대전광역시 대덕구 비래동 47-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-03"
+    },
+    {
+      "name": "훼미리마트 송촌 선비점",
+      "address": "대전광역시 대덕구 송촌동 444",
+      "roadAddress": "대전광역시 대덕구 동춘당로114번길 47  (송촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-21"
+    },
+    {
+      "name": "선비 24시 편의점",
+      "address": "대전광역시 대덕구 송촌동 456-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-10"
+    },
+    {
+      "name": "뚜꺼비 마트",
+      "address": "대전광역시 대덕구 비래동 146-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-10"
+    },
+    {
+      "name": "미래슈퍼",
+      "address": "대전광역시 대덕구 비래동 126-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-26"
+    },
+    {
+      "name": "송촌시장할인마트",
+      "address": "대전광역시 대덕구 송촌동 476-3 선비마을@ 209-1401",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-06"
+    },
+    {
+      "name": "중도할인마트",
+      "address": "대전광역시 대덕구 비래동 128-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-09"
+    },
+    {
+      "name": "신로얄슈퍼",
+      "address": "대전광역시 대덕구 중리동 222-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-01"
+    },
+    {
+      "name": "광인슈퍼",
+      "address": "대전광역시 대덕구 중리동 231-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "깔끔한집 문구점",
+      "address": "대전광역시 대덕구 중리동 240-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "황성마켓",
+      "address": "대전광역시 대덕구 중리동 239-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "부성슈퍼",
+      "address": "대전광역시 대덕구 중리동 245-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "서광쌀(정육점)상회",
+      "address": "대전광역시 대덕구 중리동 252-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "로얄 도매유통",
+      "address": "대전광역시 대덕구 중리동 197-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "엘지 25 중리점",
+      "address": "대전광역시 대덕구 중리동 401-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "풍년슈퍼",
+      "address": "대전광역시 대덕구 중리동 438-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-01"
+    },
+    {
+      "name": "금산닭집",
+      "address": "대전광역시 대덕구 중리동 433",
+      "roadAddress": "대전광역시 대덕구 중리서로 24  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "옥천슈퍼",
+      "address": "대전광역시 대덕구 중리동 442-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "시온쌀상회",
+      "address": "대전광역시 대덕구 중리동 442-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "보은슈퍼",
+      "address": "대전광역시 대덕구 중리동 384-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "고향슈퍼",
+      "address": "대전광역시 대덕구 중리동 399-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "대전광역시 대덕구 중리동 164-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "대전광역시 대덕구 중리동 385-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대청슈퍼",
+      "address": "대전광역시 대덕구 중리동 143-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "아람슈퍼",
+      "address": "대전광역시 대덕구 중리동 131-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대흥기물",
+      "address": "대전광역시 대덕구 중리동 370-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "후생사 슈퍼",
+      "address": "대전광역시 대덕구 중리동 368-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "기성지업사",
+      "address": "대전광역시 대덕구 중리동 375-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "천사슈퍼",
+      "address": "대전광역시 대덕구 중리동 363-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "나성슈퍼",
+      "address": "대전광역시 대덕구 중리동 120-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영흥슈퍼",
+      "address": "대전광역시 대덕구 중리동 158-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "빙그레슈퍼",
+      "address": "대전광역시 대덕구 중리동 204-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "동일서점",
+      "address": "대전광역시 대덕구 중리동 240-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "상주슈퍼",
+      "address": "대전광역시 대덕구 중리동 231-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "다성슈퍼",
+      "address": "대전광역시 대덕구 중리동 233-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "안현슈퍼",
+      "address": "대전광역시 대덕구 중리동 235-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "친절슈퍼",
+      "address": "대전광역시 대덕구 중리동 235-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "용전복사",
+      "address": "대전광역시 대덕구 중리동 241-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "낙원철물",
+      "address": "대전광역시 대덕구 중리동 196-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "회덕농헙슈퍼",
+      "address": "대전광역시 대덕구 중리동 411-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "성훈슈퍼",
+      "address": "대전광역시 대덕구 중리동 435-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "한성슈퍼",
+      "address": "대전광역시 대덕구 중리동 442-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "주부생필품 직판장",
+      "address": "대전광역시 대덕구 중리동 165-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "성남슈퍼",
+      "address": "대전광역시 대덕구 중리동 148-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "알람슈퍼",
+      "address": "대전광역시 대덕구 중리동 156-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "팔팔슈퍼",
+      "address": "대전광역시 대덕구 중리동 177-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "계룡지업사",
+      "address": "대전광역시 대덕구 중리동 372-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "여휘네슈퍼",
+      "address": "대전광역시 대덕구 중리동 243-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "종합슈퍼",
+      "address": "대전광역시 대덕구 중리동 258-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "대원슈퍼",
+      "address": "대전광역시 대덕구 중리동 380-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "다정슈퍼",
+      "address": "대전광역시 대덕구 중리동 323-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "석진슈퍼",
+      "address": "대전광역시 대덕구 중리동 134-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "중리슈퍼",
+      "address": "대전광역시 대덕구 중리동 240-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "홍민슈퍼",
+      "address": "대전광역시 대덕구 중리동 106-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "귀빈슈퍼",
+      "address": "대전광역시 대덕구 중리동 368-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "종합문구",
+      "address": "대전광역시 대덕구 중리동 137-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "대전소비마켓",
+      "address": "대전광역시 대덕구 중리동 252-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "남영지업사",
+      "address": "대전광역시 대덕구 중리동 363-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "새마을금고",
+      "address": "대전광역시 대덕구 중리동 165-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "장터슈퍼",
+      "address": "대전광역시 대덕구 중리동 236-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나슈퍼",
+      "address": "대전광역시 대덕구 중리동 239-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "충북슈퍼",
+      "address": "대전광역시 대덕구 중리동 179-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "프랜드편의점",
+      "address": "대전광역시 대덕구 중리동 367-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-26"
+    },
+    {
+      "name": "새순슈퍼",
+      "address": "대전광역시 대덕구 중리동 112-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-26"
+    },
+    {
+      "name": "광운슈퍼",
+      "address": "대전광역시 대덕구 중리동 173-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-26"
+    },
+    {
+      "name": "누리문구",
+      "address": "대전광역시 대덕구 중리동 373-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-26"
+    },
+    {
+      "name": "크로바정육점",
+      "address": "대전광역시 대덕구 중리동 272-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-20"
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "대전광역시 대덕구 중리동 135-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-27"
+    },
+    {
+      "name": "개미슈퍼",
+      "address": "대전광역시 대덕구 중리동 181-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-12"
+    },
+    {
+      "name": "까치슈퍼",
+      "address": "대전광역시 대덕구 중리동 152-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-12"
+    },
+    {
+      "name": "미성종합장식",
+      "address": "대전광역시 대덕구 중리동 165-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-06"
+    },
+    {
+      "name": "회덕농헙중리지소",
+      "address": "대전광역시 대덕구 중리동 363-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-10"
+    },
+    {
+      "name": "선화종합식품",
+      "address": "대전광역시 대덕구 중리동 232-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-12"
+    },
+    {
+      "name": "중앙유통",
+      "address": "대전광역시 대덕구 중리동 120-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-12"
+    },
+    {
+      "name": "명성슈퍼",
+      "address": "대전광역시 대덕구 중리동 116-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-12"
+    },
+    {
+      "name": "지선슈퍼",
+      "address": "대전광역시 대덕구 중리동 178-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-07"
+    },
+    {
+      "name": "홈마트",
+      "address": "대전광역시 대덕구 중리동 254-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-07"
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "대전광역시 대덕구 중리동 103-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-07"
+    },
+    {
+      "name": "논산슈퍼",
+      "address": "대전광역시 대덕구 중리동 161-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-07"
+    },
+    {
+      "name": "중리복지매장",
+      "address": "대전광역시 대덕구 중리동 249-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-22"
+    },
+    {
+      "name": "추원슈퍼",
+      "address": "대전광역시 대덕구 중리동 148-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-22"
+    },
+    {
+      "name": "밀물슈퍼",
+      "address": "대전광역시 대덕구 중리동 391-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-29"
+    },
+    {
+      "name": "팡팡비디오",
+      "address": "대전광역시 대덕구 중리동 393-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-21"
+    },
+    {
+      "name": "갈매기슈퍼",
+      "address": "대전광역시 대덕구 중리동 204-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-23"
+    },
+    {
+      "name": "중리공판장",
+      "address": "대전광역시 대덕구 중리동 368-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-16"
+    },
+    {
+      "name": "효천유통2매장",
+      "address": "대전광역시 대덕구 중리동 236-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-16"
+    },
+    {
+      "name": "광명쌀상회",
+      "address": "대전광역시 대덕구 중리동 398-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-20"
+    },
+    {
+      "name": "24시 알뜰매장",
+      "address": "대전광역시 대덕구 중리동 403-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두리문구과학사",
+      "address": "대전광역시 대덕구 중리동 388-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-12"
+    },
+    {
+      "name": "둘리슈퍼",
+      "address": "대전광역시 대덕구 중리동 435-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-30"
+    },
+    {
+      "name": "중리유통",
+      "address": "대전광역시 대덕구 중리동 197-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-02-19"
+    },
+    {
+      "name": "중리슈퍼",
+      "address": "대전광역시 대덕구 중리동 390-9 115호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-17"
+    },
+    {
+      "name": "동산마켓",
+      "address": "대전광역시 대덕구 중리동 251-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-15"
+    },
+    {
+      "name": "제일서점문구",
+      "address": "대전광역시 대덕구 중리동 131-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-15"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "대전광역시 대덕구 중리동 397-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-04"
+    },
+    {
+      "name": "동네슈퍼",
+      "address": "대전광역시 대덕구 중리동 113-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-20"
+    },
+    {
+      "name": "대원유통",
+      "address": "대전광역시 대덕구 중리동 394-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-31"
+    },
+    {
+      "name": "유아월드",
+      "address": "대전광역시 대덕구 중리동 437-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-03"
+    },
+    {
+      "name": "가양보은매장 중리지점",
+      "address": "대전광역시 대덕구 중리동 367-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-11"
+    },
+    {
+      "name": "광성상회",
+      "address": "대전광역시 대덕구 중리동 183-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-22"
+    },
+    {
+      "name": "은양슈퍼",
+      "address": "대전광역시 대덕구 중리동 182-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-28"
+    },
+    {
+      "name": "청우슈퍼",
+      "address": "대전광역시 대덕구 중리동 156-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-05"
+    },
+    {
+      "name": "은혜마켓",
+      "address": "대전광역시 대덕구 중리동 173-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-09"
+    },
+    {
+      "name": "중리슈퍼",
+      "address": "대전광역시 대덕구 중리동 197-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-26"
+    },
+    {
+      "name": "근린슈퍼",
+      "address": "대전광역시 대덕구 중리동 388-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-26"
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "대전광역시 대덕구 중리동 193-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-26"
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "대전광역시 대덕구 중리동 175-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-26"
+    },
+    {
+      "name": "코코마트",
+      "address": "대전광역시 대덕구 중리동 383-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-26"
+    },
+    {
+      "name": "소비자마트",
+      "address": "대전광역시 대덕구 중리동 441-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-26"
+    },
+    {
+      "name": "미성슈퍼",
+      "address": "대전광역시 대덕구 중리동 100-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-26"
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "대전광역시 대덕구 중리동 150-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-02"
+    },
+    {
+      "name": "새한슈퍼",
+      "address": "대전광역시 대덕구 중리동 187-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-02"
+    },
+    {
+      "name": "상록스토아",
+      "address": "대전광역시 대덕구 중리동 250-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-02"
+    },
+    {
+      "name": "현진슈퍼",
+      "address": "대전광역시 대덕구 중리동 134-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-02"
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "대전광역시 대덕구 중리동 438-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-31"
+    },
+    {
+      "name": "대림도매유통",
+      "address": "대전광역시 대덕구 중리동 245-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-14"
+    },
+    {
+      "name": "행복마트",
+      "address": "대전광역시 대덕구 중리동 374-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-15"
+    },
+    {
+      "name": "아카데미문구",
+      "address": "대전광역시 대덕구 중리동 173-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-15"
+    },
+    {
+      "name": "중리도매유통",
+      "address": "대전광역시 대덕구 중리동 100-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-31"
+    },
+    {
+      "name": "하나유통",
+      "address": "대전광역시 대덕구 중리동 375-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-25"
+    },
+    {
+      "name": "수련관 구내 매점",
+      "address": "대전광역시 대덕구 중리동 101-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-21"
+    },
+    {
+      "name": "신세계정육점",
+      "address": "대전광역시 대덕구 중리동 384-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-21"
+    },
+    {
+      "name": "늘푸른슈퍼",
+      "address": "대전광역시 대덕구 중리동 393-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-21"
+    },
+    {
+      "name": "로얄도매마트",
+      "address": "대전광역시 대덕구 중리동 196-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-27"
+    },
+    {
+      "name": "둘리마트",
+      "address": "대전광역시 대덕구 중리동 248-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-27"
+    },
+    {
+      "name": "초원비디오",
+      "address": "대전광역시 대덕구 중리동 103-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-08"
+    },
+    {
+      "name": "소비자슈퍼",
+      "address": "대전광역시 대덕구 중리동 391-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-17"
+    },
+    {
+      "name": "라보아마켓",
+      "address": "대전광역시 대덕구 중리동 411-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-01"
+    },
+    {
+      "name": "동신마케트",
+      "address": "대전광역시 대덕구 중리동 252-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-01"
+    },
+    {
+      "name": "일성슈퍼",
+      "address": "대전광역시 대덕구 중리동 365-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-08"
+    },
+    {
+      "name": "동양전기철물",
+      "address": "대전광역시 대덕구 중리동 369-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-08"
+    },
+    {
+      "name": "아바유통",
+      "address": "대전광역시 대덕구 중리동 245-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-15"
+    },
+    {
+      "name": "영일슈퍼",
+      "address": "대전광역시 대덕구 중리동 493-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-19"
+    },
+    {
+      "name": "유진슈퍼",
+      "address": "대전광역시 대덕구 중리동 117-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-19"
+    },
+    {
+      "name": "청솔마트",
+      "address": "대전광역시 대덕구 중리동 401-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-20"
+    },
+    {
+      "name": "무지개 문구",
+      "address": "대전광역시 대덕구 중리동 374-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-31"
+    },
+    {
+      "name": "21세기 문구",
+      "address": "대전광역시 대덕구 중리동 131-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-27"
+    },
+    {
+      "name": "백화슈퍼",
+      "address": "대전광역시 대덕구 중리동 243-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-27"
+    },
+    {
+      "name": "신동아유통",
+      "address": "대전광역시 대덕구 오정동 635-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "까치슈퍼",
+      "address": "대전광역시 대덕구 오정동 323-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "아는슈퍼",
+      "address": "대전광역시 대덕구 오정동 495-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "에덴슈퍼",
+      "address": "대전광역시 대덕구 오정동 90-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "대전광역시 대덕구 갈전동 297-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "순영마켓",
+      "address": "대전광역시 대덕구 오정동 310-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "종합슈퍼",
+      "address": "대전광역시 대덕구 오정동 265-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "곰돌이슈퍼",
+      "address": "대전광역시 대덕구 오정동 86-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "쓰리랑슈퍼",
+      "address": "대전광역시 대덕구 오정동 388-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "안정슈퍼",
+      "address": "대전광역시 대덕구 오정동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "오거리마트",
+      "address": "대전광역시 대덕구 오정동 448-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "신동아유통",
+      "address": "대전광역시 대덕구 오정동 635-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "까치슈퍼",
+      "address": "대전광역시 대덕구 오정동 323-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "아는슈퍼",
+      "address": "대전광역시 대덕구 오정동 495-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "에덴슈퍼",
+      "address": "대전광역시 대덕구 오정동 84-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "마니슈퍼",
+      "address": "대전광역시 대덕구 오정동 427-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "솔밭슈퍼",
+      "address": "대전광역시 대덕구 오정동 175-51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "순영마켓",
+      "address": "대전광역시 대덕구 오정동 310-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "곰돌이슈퍼",
+      "address": "대전광역시 대덕구 오정동 86-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "쓰리랑슈퍼",
+      "address": "대전광역시 대덕구 오정동 388-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "나나슈퍼",
+      "address": "대전광역시 대덕구 중리동 167-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-27"
+    },
+    {
+      "name": "중리농산물슈퍼",
+      "address": "대전광역시 대덕구 중리동 104-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-27"
+    },
+    {
+      "name": "삼호슈퍼",
+      "address": "대전광역시 대덕구 법동 280-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "미도슈퍼",
+      "address": "대전광역시 대덕구 법동 231-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "경기쌀상회",
+      "address": "대전광역시 대덕구 법동 284-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "그린타운 슈퍼",
+      "address": "대전광역시 대덕구 법동 195-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "삼익슈퍼",
+      "address": "대전광역시 대덕구 법동 190",
+      "roadAddress": "대전광역시 대덕구 동춘당로 160  (법동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영광슈퍼",
+      "address": "대전광역시 대덕구 법동 284-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "조은유통",
+      "address": "대전광역시 대덕구 법동 190-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "한밭소비자슈퍼",
+      "address": "대전광역시 대덕구 법동 189-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "대전광역시 대덕구 법동 195-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "삼정슈퍼",
+      "address": "대전광역시 대덕구 법동 281",
+      "roadAddress": "대전광역시 대덕구 계족로663번길 30  (법동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "한마음슈퍼",
+      "address": "대전광역시 대덕구 법동 188",
+      "roadAddress": "대전광역시 대덕구 계족로664번길 27  (법동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "영진하이퍼마켓",
+      "address": "대전광역시 대덕구 법동 344-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "청실홍실",
+      "address": "대전광역시 대덕구 법동 200-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "새마을 금고",
+      "address": "대전광역시 대덕구 법동 193-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "동부경찰서 구판장",
+      "address": "대전광역시 대덕구 법동 187",
+      "roadAddress": "대전광역시 대덕구 계족로 670  (법동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "소월유통",
+      "address": "대전광역시 대덕구 법동 190",
+      "roadAddress": "대전광역시 대덕구 동춘당로 160  (법동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "한양유통 대덕점",
+      "address": "대전광역시 대덕구 법동 191-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-15"
+    },
+    {
+      "name": "양지슈퍼",
+      "address": "대전광역시 대덕구 법동 208-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "비디오랜드",
+      "address": "대전광역시 대덕구 법동 주공3단지 상가 109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "주공 하이퍼 마켓",
+      "address": "대전광역시 대덕구 법동 283-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-02-10"
+    },
+    {
+      "name": "또래문구",
+      "address": "대전광역시 대덕구 법동 284-6 복합상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-03-01"
+    },
+    {
+      "name": "거북이 유통",
+      "address": "대전광역시 대덕구 법동 281",
+      "roadAddress": "대전광역시 대덕구 계족로663번길 30  (법동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-10"
+    },
+    {
+      "name": "대덕슈퍼",
+      "address": "대전광역시 대덕구 법동 284-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "건영슈퍼",
+      "address": "대전광역시 대덕구 법동 198-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-14"
+    },
+    {
+      "name": "대전원협법동 지소",
+      "address": "대전광역시 대덕구 법동 282-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-26"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "대전광역시 대덕구 법동 284-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-28"
+    },
+    {
+      "name": "중앙상회",
+      "address": "대전광역시 대덕구 법동 344-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-04"
+    },
+    {
+      "name": "신양슈퍼",
+      "address": "대전광역시 대덕구 신탄진동 364-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "신진슈퍼",
+      "address": "대전광역시 대덕구 오정동 390-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "큰두꺼비슈퍼",
+      "address": "대전광역시 대덕구 오정동 379-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "대전광역시 대덕구 오정동 273-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "왕슈퍼",
+      "address": "대전광역시 대덕구 오정동 443-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "신동아하이퍼",
+      "address": "대전광역시 대덕구 오정동 635-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "유미슈퍼",
+      "address": "대전광역시 대덕구 오정동 404-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "유정슈퍼",
+      "address": "대전광역시 대덕구 오정동 10-60",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "정원슈퍼",
+      "address": "대전광역시 대덕구 오정동 243-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "민형슈퍼",
+      "address": "대전광역시 대덕구 오정동 88-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-10"
+    },
+    {
+      "name": "거창슈퍼",
+      "address": "대전광역시 대덕구 오정동 489-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "승화슈퍼",
+      "address": "대전광역시 대덕구 오정동 89-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "대전광역시 대덕구 오정동 338-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "오정동동사무소",
+      "address": "대전광역시 대덕구 오정동 87-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "명진슈퍼",
+      "address": "대전광역시 대덕구 오정동 235-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "합동슈퍼",
+      "address": "대전광역시 대덕구 오정동 52-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "대전광역시 대덕구 오정동 496-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "공주상회",
+      "address": "대전광역시 대덕구 오정동 341-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "금산슈퍼",
+      "address": "대전광역시 대덕구 오정동 100-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "부자상회",
+      "address": "대전광역시 대덕구 오정동 497-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "한남슈퍼",
+      "address": "대전광역시 대덕구 오정동 172-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "대전광역시 대덕구 오정동 310-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "시몬슈퍼",
+      "address": "대전광역시 대덕구 오정동 315-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "더부러슈퍼",
+      "address": "대전광역시 대덕구 오정동 99-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "미성슈퍼",
+      "address": "대전광역시 대덕구 오정동 93-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "오정슈퍼",
+      "address": "대전광역시 대덕구 오정동 10-56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대운슈퍼",
+      "address": "대전광역시 대덕구 오정동 342-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "샘물슈퍼",
+      "address": "대전광역시 대덕구 오정동 347-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "공주슈퍼",
+      "address": "대전광역시 대덕구 오정동 489-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영신상회",
+      "address": "대전광역시 대덕구 오정동 72-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "소매22호",
+      "address": "대전광역시 대덕구 오정동 705",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "우리문구",
+      "address": "대전광역시 대덕구 오정동 94-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "대광철물",
+      "address": "대전광역시 대덕구 오정동 96-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "대청댐 휴게실",
+      "address": "대전광역시 대덕구 미호동 57",
+      "roadAddress": "대전광역시 대덕구 대청로 607  (미호동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "은정슈퍼",
+      "address": "대전광역시 대덕구 석봉동 135-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "보성청과",
+      "address": "대전광역시 대덕구 석봉동 152-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대우아파트관리사무소",
+      "address": "대전광역시 대덕구 석봉동 22-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "라이프주택관리소",
+      "address": "대전광역시 대덕구 석봉동 22-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "한아름 슈퍼",
+      "address": "대전광역시 대덕구 석봉동 20-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "보광슈퍼",
+      "address": "대전광역시 대덕구 석봉동 126-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "삼화슈퍼",
+      "address": "대전광역시 대덕구 석봉동 143-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영동상회",
+      "address": "대전광역시 대덕구 석봉동 155-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "잔골슈퍼",
+      "address": "대전광역시 대덕구 석봉동 172-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영현상회",
+      "address": "대전광역시 대덕구 석봉동 138-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "한아름 하이마트",
+      "address": "대전광역시 대덕구 석봉동 143-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "한영슈퍼",
+      "address": "대전광역시 대덕구 석봉동 144-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대일슈퍼",
+      "address": "대전광역시 대덕구 석봉동 117-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "일번가슈퍼",
+      "address": "대전광역시 대덕구 석봉동 18-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "청원슈퍼",
+      "address": "대전광역시 대덕구 석봉동 144-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "순자상회",
+      "address": "대전광역시 대덕구 석봉동 295-137",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "북일슈퍼",
+      "address": "대전광역시 대덕구 석봉동 295-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "만남슈퍼",
+      "address": "대전광역시 대덕구 석봉동 154-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "보은슈퍼",
+      "address": "대전광역시 대덕구 석봉동 118-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "경기상회",
+      "address": "대전광역시 대덕구 석봉동 295-207",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "한신슈퍼",
+      "address": "대전광역시 대덕구 석봉동 19-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "성원슈퍼",
+      "address": "대전광역시 대덕구 석봉동 175-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "태양종합상사",
+      "address": "대전광역시 대덕구 석봉동 123-52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "공주슈퍼",
+      "address": "대전광역시 대덕구 석봉동 115-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "제일상회",
+      "address": "대전광역시 대덕구 석봉동 173-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "상일슈퍼",
+      "address": "대전광역시 대덕구 석봉동 121-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "번영지업사",
+      "address": "대전광역시 대덕구 석봉동 142-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "탄동슈퍼",
+      "address": "대전광역시 대덕구 석봉동 170-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "서산슈퍼",
+      "address": "대전광역시 대덕구 석봉동 163-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "한신생필품",
+      "address": "대전광역시 대덕구 석봉동 20-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "태성유통",
+      "address": "대전광역시 대덕구 석봉동 178",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "학생문구점",
+      "address": "대전광역시 대덕구 오정동 66-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "대열슈퍼",
+      "address": "대전광역시 대덕구 오정동 429-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "대우지업사",
+      "address": "대전광역시 대덕구 오정동 436-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "덕성슈퍼",
+      "address": "대전광역시 대덕구 오정동 436-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "전원소비자마켓",
+      "address": "대전광역시 대덕구 오정동 211-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "희망슈퍼",
+      "address": "대전광역시 대덕구 오정동 223-108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "대전광역시 대덕구 오정동 485-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "만남의숲",
+      "address": "대전광역시 대덕구 오정동 483-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "계룡슈퍼",
+      "address": "대전광역시 대덕구 오정동 318-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "돼지슈퍼",
+      "address": "대전광역시 대덕구 오정동 273-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "혜민슈퍼",
+      "address": "대전광역시 대덕구 오정동 87-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "대전광역시 대덕구 오정동 439-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "영희상회",
+      "address": "대전광역시 대덕구 오정동 474-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "가양종합포장상사",
+      "address": "대전광역시 대덕구 오정동 379-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "민지슈퍼",
+      "address": "대전광역시 대덕구 오정동 379-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "화전슈퍼",
+      "address": "대전광역시 대덕구 오정동 386-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "구즉슈퍼",
+      "address": "대전광역시 대덕구 오정동 227-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "보은슈퍼",
+      "address": "대전광역시 대덕구 오정동 254-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "부흥슈퍼",
+      "address": "대전광역시 대덕구 오정동 307-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "대덕생필품직매장",
+      "address": "대전광역시 대덕구 오정동 495-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "청자슈퍼",
+      "address": "대전광역시 대덕구 오정동 102-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "부산슈퍼",
+      "address": "대전광역시 대덕구 오정동 387-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "행운슈퍼",
+      "address": "대전광역시 대덕구 오정동 80-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "대창문구",
+      "address": "대전광역시 대덕구 오정동 227-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "의명치과의원",
+      "address": "대전광역시 대덕구 오정동 10-102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신혼지업사",
+      "address": "대전광역시 대덕구 오정동 73-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "한남편의점",
+      "address": "대전광역시 대덕구 오정동 233-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "한남대서점",
+      "address": "대전광역시 대덕구 오정동 133",
+      "roadAddress": "대전광역시 대덕구 한남로 70  (오정동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "대화도매마트",
+      "address": "대전광역시 대덕구 오정동 10-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "가야슈퍼",
+      "address": "대전광역시 대덕구 오정동 65-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "대학로슈퍼",
+      "address": "대전광역시 대덕구 오정동 172-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "장성슈퍼",
+      "address": "대전광역시 대덕구 오정동 276-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "식품청과슈퍼",
+      "address": "대전광역시 대덕구 석봉동 174-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "역전슈퍼",
+      "address": "대전광역시 대덕구 석봉동 388",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "대전광역시 대덕구 석봉동 121-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "라이프슈퍼",
+      "address": "대전광역시 대덕구 석봉동 22-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "수정슈퍼",
+      "address": "대전광역시 대덕구 석봉동 118-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "사랑슈퍼",
+      "address": "대전광역시 대덕구 석봉동 131-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "대우지하슈퍼",
+      "address": "대전광역시 대덕구 석봉동 22-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "충북상회",
+      "address": "대전광역시 대덕구 석봉동 126-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "부영슈퍼",
+      "address": "대전광역시 대덕구 석봉동 132-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "흥진슈퍼",
+      "address": "대전광역시 대덕구 석봉동 166-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "진성슈퍼",
+      "address": "대전광역시 대덕구 석봉동 113-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "대전광역시 대덕구 석봉동 168-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "신진슈퍼",
+      "address": "대전광역시 대덕구 석봉동 122-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "우성상회",
+      "address": "대전광역시 대덕구 석봉동 142-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "표진슈퍼",
+      "address": "대전광역시 대덕구 석봉동 174-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "한일상회",
+      "address": "대전광역시 대덕구 석봉동 295-92",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-14"
+    },
+    {
+      "name": "신탄진복지매장",
+      "address": "대전광역시 대덕구 신탄진동 122-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-14"
+    },
+    {
+      "name": "소비자연쇄점",
+      "address": "대전광역시 대덕구 석봉동 175-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-22"
+    },
+    {
+      "name": "금강슈퍼",
+      "address": "대전광역시 대덕구 석봉동 114-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-14"
+    },
+    {
+      "name": "대청마트",
+      "address": "대전광역시 대덕구 석봉동 124-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-08"
+    },
+    {
+      "name": "세미분식.문구",
+      "address": "대전광역시 대덕구 석봉동 165",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-08"
+    },
+    {
+      "name": "석봉문구",
+      "address": "대전광역시 대덕구 석봉동 160-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-27"
+    },
+    {
+      "name": "국화식품",
+      "address": "대전광역시 대덕구 석봉동 19-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-27"
+    },
+    {
+      "name": "한유통신탄진역점",
+      "address": "대전광역시 대덕구 신탄진동 144-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-05"
+    },
+    {
+      "name": "휠마트",
+      "address": "대전광역시 대덕구 신탄진동 140-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-30"
+    },
+    {
+      "name": "상용슈퍼",
+      "address": "대전광역시 대덕구 신탄진동 264-56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-30"
+    },
+    {
+      "name": "금강슈퍼",
+      "address": "대전광역시 대덕구 신탄진동 114-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-04"
+    },
+    {
+      "name": "신일슈퍼",
+      "address": "대전광역시 대덕구 신탄진동 152-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-30"
+    },
+    {
+      "name": "신동슈퍼",
+      "address": "대전광역시 대덕구 신탄진동 161-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-22"
+    },
+    {
+      "name": "망골노인정",
+      "address": "대전광역시 대덕구 석봉동 322-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "탄동연쇄점",
+      "address": "대전광역시 대덕구 석봉동 210-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "똘이상회",
+      "address": "대전광역시 대덕구 석봉동 311-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "아파트유통",
+      "address": "대전광역시 대덕구 오정동 61-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "종합슈퍼",
+      "address": "대전광역시 대덕구 오정동 487-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-10"
+    },
+    {
+      "name": "화인마트",
+      "address": "대전광역시 대덕구 오정동 477-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-10"
+    },
+    {
+      "name": "생필품공판장",
+      "address": "대전광역시 대덕구 오정동 95-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-10"
+    },
+    {
+      "name": "인혜",
+      "address": "대전광역시 대덕구 오정동 326-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-10"
+    },
+    {
+      "name": "고향슈퍼",
+      "address": "대전광역시 대덕구 오정동 233-56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-10"
+    },
+    {
+      "name": "신흥슈퍼",
+      "address": "대전광역시 대덕구 오정동 307-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-16"
+    },
+    {
+      "name": "충청상회",
+      "address": "대전광역시 대덕구 오정동 72-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-16"
+    },
+    {
+      "name": "까치슈퍼",
+      "address": "대전광역시 대덕구 오정동 323-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-16"
+    },
+    {
+      "name": "경원슈퍼",
+      "address": "대전광역시 대덕구 오정동 381-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-20"
+    },
+    {
+      "name": "한남빅마트",
+      "address": "대전광역시 대덕구 오정동 223-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-20"
+    },
+    {
+      "name": "동산슈퍼문구",
+      "address": "대전광역시 대덕구 오정동 226-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-12"
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "대전광역시 대덕구 오정동 441-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-12"
+    },
+    {
+      "name": "한남마트",
+      "address": "대전광역시 대덕구 오정동 68-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-02-05"
+    },
+    {
+      "name": "농수산물시장 소매상가 27호",
+      "address": "대전광역시 대덕구 오정동 10-56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-02-11"
+    },
+    {
+      "name": "하나로슈퍼",
+      "address": "대전광역시 대덕구 오정동 434-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-27"
+    },
+    {
+      "name": "부엉이슈퍼",
+      "address": "대전광역시 대덕구 오정동 90-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-19"
+    },
+    {
+      "name": "153할인매장",
+      "address": "대전광역시 대덕구 오정동 10-57",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-13"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "대전광역시 대덕구 오정동 68-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-13"
+    },
+    {
+      "name": "성훈상회",
+      "address": "대전광역시 대덕구 오정동 233-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-13"
+    },
+    {
+      "name": "거북슈퍼",
+      "address": "대전광역시 대덕구 오정동 274-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-22"
+    },
+    {
+      "name": "가고파슈퍼",
+      "address": "대전광역시 대덕구 오정동 465-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-22"
+    },
+    {
+      "name": "한남유통",
+      "address": "대전광역시 대덕구 오정동 467-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-28"
+    },
+    {
+      "name": "삼익하이퍼",
+      "address": "대전광역시 대덕구 오정동 64-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-28"
+    },
+    {
+      "name": "조은슈퍼",
+      "address": "대전광역시 대덕구 오정동 465-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-09"
+    },
+    {
+      "name": "나성슈퍼",
+      "address": "대전광역시 대덕구 오정동 491-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-09"
+    },
+    {
+      "name": "살롬매점",
+      "address": "대전광역시 대덕구 오정동 226-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-28"
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "대전광역시 대덕구 오정동 453-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-02"
+    },
+    {
+      "name": "여흥마트",
+      "address": "대전광역시 대덕구 오정동 100-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-19"
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "대전광역시 대덕구 오정동 95-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "홍철슈퍼",
+      "address": "대전광역시 대덕구 오정동 233-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "저와나슈퍼",
+      "address": "대전광역시 대덕구 오정동 233-163",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-22"
+    },
+    {
+      "name": "서우아파트 관리사무소",
+      "address": "대전광역시 대덕구 석봉동 177-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "기성슈퍼",
+      "address": "대전광역시 대덕구 석봉동 302-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "유락아파트관리사무소",
+      "address": "대전광역시 대덕구 석봉동 178-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "영슈퍼",
+      "address": "대전광역시 대덕구 석봉동 317-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "등마루슈퍼",
+      "address": "대전광역시 대덕구 석봉동 200-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "대덕생필품 직판장",
+      "address": "대전광역시 대덕구 석봉동 194-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "부자상회",
+      "address": "대전광역시 대덕구 석봉동 191-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "대우생필품 직판장",
+      "address": "대전광역시 대덕구 석봉동 309-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "보성장식지업사",
+      "address": "대전광역시 대덕구 석봉동 194-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "대청지업사",
+      "address": "대전광역시 대덕구 석봉동 417",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "왔다상회",
+      "address": "대전광역시 대덕구 석봉동 306-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "신탄진종합유통센타",
+      "address": "대전광역시 대덕구 석봉동 191-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "신탄진농헙석봉지소",
+      "address": "대전광역시 대덕구 석봉동 194-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "대전광역시 대덕구 석봉동 198-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "신탄줃앙공판장",
+      "address": "대전광역시 대덕구 석봉동 194-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "대전광역시 대덕구 석봉동 316-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "성문도매슈퍼",
+      "address": "대전광역시 대덕구 석봉동 313-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-12-15"
+    },
+    {
+      "name": "단도상회",
+      "address": "대전광역시 대덕구 석봉동 423-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-18"
+    },
+    {
+      "name": "신탄진공판장",
+      "address": "대전광역시 대덕구 석봉동 191-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-06"
+    },
+    {
+      "name": "꿀벌슈퍼",
+      "address": "대전광역시 대덕구 석봉동 314-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-23"
+    },
+    {
+      "name": "중앙공판2매장",
+      "address": "대전광역시 대덕구 석봉동 188-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-21"
+    },
+    {
+      "name": "소비자슈퍼",
+      "address": "대전광역시 대덕구 석봉동 207-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-23"
+    },
+    {
+      "name": "월성상회",
+      "address": "대전광역시 대덕구 석봉동 417-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-14"
+    },
+    {
+      "name": "중앙공판장 3매장",
+      "address": "대전광역시 대덕구 석봉동 417-52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-08"
+    },
+    {
+      "name": "신탄진우체국",
+      "address": "대전광역시 대덕구 석봉동 414-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-19"
+    },
+    {
+      "name": "등지슈퍼",
+      "address": "대전광역시 대덕구 석봉동 191-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-19"
+    },
+    {
+      "name": "딸딸이 마트",
+      "address": "대전광역시 대덕구 석봉동 188-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-22"
+    },
+    {
+      "name": "유림할인매장",
+      "address": "대전광역시 대덕구 석봉동 183-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-19"
+    },
+    {
+      "name": "둥지슈퍼",
+      "address": "대전광역시 대덕구 석봉동 191-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-13"
+    },
+    {
+      "name": "현암마트",
+      "address": "대전광역시 대덕구 석봉동 194-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-26"
+    },
+    {
+      "name": "장터할인매장",
+      "address": "대전광역시 대덕구 석봉동 194-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-30"
+    },
+    {
+      "name": "신향유통 D-마트",
+      "address": "대전광역시 대덕구 석봉동 191-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-04"
+    },
+    {
+      "name": "오정소비자마켓",
+      "address": "대전광역시 대덕구 오정동 103-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-06"
+    },
+    {
+      "name": "두아르마트",
+      "address": "대전광역시 대덕구 오정동 61-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-06"
+    },
+    {
+      "name": "경은문구",
+      "address": "대전광역시 대덕구 오정동 224-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-07"
+    },
+    {
+      "name": "LG25한남대점",
+      "address": "대전광역시 대덕구 오정동 222-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-07"
+    },
+    {
+      "name": "미소쇼핑오정점",
+      "address": "대전광역시 대덕구 오정동 55-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-30"
+    },
+    {
+      "name": "거성슈퍼마켓",
+      "address": "대전광역시 대덕구 오정동 82-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-04"
+    },
+    {
+      "name": "샘물슈퍼",
+      "address": "대전광역시 대덕구 오정동 347-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-22"
+    },
+    {
+      "name": "오정도매마트",
+      "address": "대전광역시 대덕구 오정동 370-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-29"
+    },
+    {
+      "name": "유덕소비자유통",
+      "address": "대전광역시 대덕구 오정동 438-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-08"
+    },
+    {
+      "name": "신흥수퍼",
+      "address": "대전광역시 대덕구 대화동 35-733",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대영슈퍼",
+      "address": "대전광역시 대덕구 대화동 35-137",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "부산슈퍼",
+      "address": "대전광역시 대덕구 대화동 29",
+      "roadAddress": "대전광역시 대덕구 동심1길 79  (대화동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "털보슈퍼",
+      "address": "대전광역시 대덕구 대화동 35-198",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "풍년쌀상회",
+      "address": "대전광역시 대덕구 대화동 35-480",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "주부상회",
+      "address": "대전광역시 대덕구 대화동 35-516",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대화양품",
+      "address": "대전광역시 대덕구 대화동 250-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "공단마켓",
+      "address": "대전광역시 대덕구 대화동 316",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "신흥상회",
+      "address": "대전광역시 대덕구 대화동 515",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "삼용슈퍼",
+      "address": "대전광역시 대덕구 대화동 37",
+      "roadAddress": "대전광역시 대덕구 대화로 36  (대화동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "강원슈퍼",
+      "address": "대전광역시 대덕구 대화동 39-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "혜진슈퍼",
+      "address": "대전광역시 대덕구 대화동 35-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "부여슈퍼",
+      "address": "대전광역시 대덕구 대화동 16-170",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "한밭슈퍼",
+      "address": "대전광역시 대덕구 대화동 16-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "수레글방",
+      "address": "대전광역시 대덕구 대화동 16",
+      "roadAddress": "대전광역시 대덕구 대전로 1261  (대화동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "금강아파트관리사무소",
+      "address": "대전광역시 대덕구 갈전동 27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대화슈퍼",
+      "address": "대전광역시 대덕구 대화동 산 4-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "세종슈퍼",
+      "address": "대전광역시 대덕구 대화동 35-628",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "동남슈퍼",
+      "address": "대전광역시 대덕구 대화동 251-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "홍성슈퍼",
+      "address": "대전광역시 대덕구 대화동 289-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "무다리상회",
+      "address": "대전광역시 대덕구 대화동 335-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대덕생필품 직관장",
+      "address": "대전광역시 대덕구 석봉동 415-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-02"
+    },
+    {
+      "name": "풍한매점",
+      "address": "대전광역시 대덕구 석봉동 555",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-02"
+    },
+    {
+      "name": "현호상회",
+      "address": "대전광역시 대덕구 석봉동 406",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-28"
+    },
+    {
+      "name": "공단철물",
+      "address": "대전광역시 대덕구 대화동 16-156",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "행복슈퍼",
+      "address": "대전광역시 대덕구 대화동 50-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "천안쌀상회(슈퍼)",
+      "address": "대전광역시 대덕구 대화동 16-139",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "보은쌀상회",
+      "address": "대전광역시 대덕구 대화동 16-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "대전광역시 대덕구 대화동 229-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "대화상회",
+      "address": "대전광역시 대덕구 대화동 530-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "오광아파트관리사무소",
+      "address": "대전광역시 대덕구 대화동 253",
+      "roadAddress": "대전광역시 대덕구 생산5길 22  (대화동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "세원풍남아파트관리사무소",
+      "address": "대전광역시 대덕구 대화동 16-156",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "소라아파트관리사무소",
+      "address": "대전광역시 대덕구 대화동 30-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "근청회관매점",
+      "address": "대전광역시 대덕구 대화동 3-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "대전광역시 대덕구 대화동 16-226",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "대전광역시 대덕구 대화동 40-88",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "전원슈퍼",
+      "address": "대전광역시 대덕구 대화동 16-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "정품상회",
+      "address": "대전광역시 대덕구 대화동 284",
+      "roadAddress": "대전광역시 대덕구 대화로139번길 28  (대화동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "대현슈퍼",
+      "address": "대전광역시 대덕구 대화동 35-74",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "대원슈퍼",
+      "address": "대전광역시 대덕구 대화동 35-394",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "진경슈퍼",
+      "address": "대전광역시 대덕구 대화동 16-154",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "명성지업사",
+      "address": "대전광역시 대덕구 대화동 35-642",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "경북상회",
+      "address": "대전광역시 대덕구 대화동 159",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "천성원",
+      "address": "대전광역시 대덕구 대화동 39-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보성슈퍼",
+      "address": "대전광역시 대덕구 대화동 35-214",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "대화소비자유통",
+      "address": "대전광역시 대덕구 대화동 36-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-15"
+    },
+    {
+      "name": "우리마트",
+      "address": "대전광역시 대덕구 대화동 40-81",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-27"
+    },
+    {
+      "name": "정화슈퍼",
+      "address": "대전광역시 대덕구 대화동 16-68",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-18"
+    },
+    {
+      "name": "성환슈퍼",
+      "address": "대전광역시 대덕구 대화동 235-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-10"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "대전광역시 대덕구 대화동 243-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-10"
+    },
+    {
+      "name": "구만골슈퍼",
+      "address": "대전광역시 대덕구 대화동 289-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-07"
+    },
+    {
+      "name": "연산슈퍼",
+      "address": "대전광역시 대덕구 대화동 16-80",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-02"
+    },
+    {
+      "name": "동우종합상사",
+      "address": "대전광역시 대덕구 대화동 289-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-02"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "대전광역시 대덕구 대화동 289-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-20"
+    },
+    {
+      "name": "한성슈퍼",
+      "address": "대전광역시 대덕구 대화동 298-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-29"
+    },
+    {
+      "name": "대전대화동우체국",
+      "address": "대전광역시 대덕구 대화동 40-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-12"
+    },
+    {
+      "name": "성태슈퍼",
+      "address": "대전광역시 대덕구 대화동 35-82",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-24"
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "대전광역시 대덕구 대화동 254-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-24"
+    },
+    {
+      "name": "유통슈퍼",
+      "address": "대전광역시 대덕구 대화동 289-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-14"
+    },
+    {
+      "name": "훼미리마트한일원명점",
+      "address": "대전광역시 대덕구 대화동 39-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-02"
+    },
+    {
+      "name": "상아공판장",
+      "address": "대전광역시 대덕구 대화동 40-82",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-10"
+    },
+    {
+      "name": "삼성도매공판장",
+      "address": "대전광역시 대덕구 대화동 36-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-19"
+    },
+    {
+      "name": "연흥식품",
+      "address": "대전광역시 대덕구 읍내동 240-58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "오복슈퍼",
+      "address": "대전광역시 대덕구 읍내동 336-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "충북상회",
+      "address": "대전광역시 대덕구 읍내동 344",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "은성마켓",
+      "address": "대전광역시 대덕구 읍내동 308",
+      "roadAddress": "대전광역시 대덕구 대전로1370번길 13-4  (읍내동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "종합식품",
+      "address": "대전광역시 대덕구 읍내동 75-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "은진문구",
+      "address": "대전광역시 대덕구 읍내동 16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "은영상회",
+      "address": "대전광역시 대덕구 읍내동 255",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "수영슈퍼",
+      "address": "대전광역시 대덕구 읍내동 227",
+      "roadAddress": "대전광역시 대덕구 대전로 1395  (읍내동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영진상회",
+      "address": "대전광역시 대덕구 읍내동 244-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "금강슈퍼",
+      "address": "대전광역시 대덕구 읍내동 237-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "대전광역시 대덕구 신대동 172-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "새마을의집",
+      "address": "대전광역시 대덕구 신대동 230-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "대전광역시 대덕구 와동 111",
+      "roadAddress": "대전광역시 대덕구 신탄진로218번길 62  (와동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "한미슈퍼",
+      "address": "대전광역시 대덕구 읍내동 341-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "대전광역시 대덕구 읍내동 487-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "신대주공슈퍼",
+      "address": "대전광역시 대덕구 신대동 179",
+      "roadAddress": "대전광역시 대덕구 신탄진로 217  (신대동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "대전광역시 대덕구 신대동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "동양슈퍼",
+      "address": "대전광역시 대덕구 연축동 102",
+      "roadAddress": "대전광역시 대덕구 신탄진로 170  (연축동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "장동슈퍼",
+      "address": "대전광역시 대덕구 장동 347-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "감나무슈퍼",
+      "address": "대전광역시 대덕구 장동 347",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "장동상회",
+      "address": "대전광역시 대덕구 장동 115",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "동산슈퍼",
+      "address": "대전광역시 대덕구 읍내동 248-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "영창슈퍼",
+      "address": "대전광역시 대덕구 연축동 102",
+      "roadAddress": "대전광역시 대덕구 신탄진로 170  (연축동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "초원슈퍼",
+      "address": "대전광역시 대덕구 와동 59-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "극동슈퍼",
+      "address": "대전광역시 대덕구 읍내동 262-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "경기상회",
+      "address": "대전광역시 대덕구 읍내동 435-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-01"
+    },
+    {
+      "name": "회덕읍내농협",
+      "address": "대전광역시 대덕구 읍내동 336-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "회덕상회",
+      "address": "대전광역시 대덕구 읍내동 230-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "은광문구사",
+      "address": "대전광역시 대덕구 읍내동 306-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "화성철물점",
+      "address": "대전광역시 대덕구 읍내동 344",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "대원슈퍼",
+      "address": "대전광역시 대덕구 읍내동 327-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "희승슈퍼",
+      "address": "대전광역시 대덕구 읍내동 495",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "덕성슈퍼",
+      "address": "대전광역시 대덕구 읍내동 351-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "금일슈퍼",
+      "address": "대전광역시 대덕구 연축동 149-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "대전광역시 대덕구 연축동 149-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "회덕와동농협",
+      "address": "대전광역시 대덕구 와동 372-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "와동슈퍼",
+      "address": "대전광역시 대덕구 와동 33-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "신도문구",
+      "address": "대전광역시 대덕구 와동 377-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "들말상회",
+      "address": "대전광역시 대덕구 와동 118-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "15통 부녀회",
+      "address": "대전광역시 대덕구 와동 346-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "서울문구완구",
+      "address": "대전광역시 대덕구 신대동 179",
+      "roadAddress": "대전광역시 대덕구 신탄진로 217  (신대동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "만나슈퍼",
+      "address": "대전광역시 대덕구 신대동 219-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "일일슈퍼",
+      "address": "대전광역시 대덕구 신대동 133-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "신대 쌀 상회",
+      "address": "대전광역시 대덕구 신대동 177-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "현대야채",
+      "address": "대전광역시 대덕구 읍내동 54",
+      "roadAddress": "대전광역시 대덕구 계족로761번길 24  (읍내동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-05"
+    },
+    {
+      "name": "읍내매표소",
+      "address": "대전광역시 대덕구 읍내동 329-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "하동상회",
+      "address": "대전광역시 대덕구 장동 115",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "종합건재",
+      "address": "대전광역시 대덕구 읍내동 351",
+      "roadAddress": "대전광역시 대덕구 아리랑로113번길 35  (읍내동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "와동문구사",
+      "address": "대전광역시 대덕구 신대동 364",
+      "roadAddress": "대전광역시 대덕구 회덕로 13-7  (신대동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "대전광역시 대덕구 읍내동 73-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-02"
+    },
+    {
+      "name": "이삭문구",
+      "address": "대전광역시 대덕구 와동 376-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-12-15"
+    },
+    {
+      "name": "백송하이마트",
+      "address": "대전광역시 대덕구 읍내동 202",
+      "roadAddress": "대전광역시 대덕구 대전로1397번길 79  (읍내동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-23"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "대전광역시 대덕구 와동 39-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-16"
+    },
+    {
+      "name": "회덕우체국",
+      "address": "대전광역시 대덕구 와동 351",
+      "roadAddress": "대전광역시 대덕구 신탄진로254번길 7  (와동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-11"
+    },
+    {
+      "name": "수입브랜드 계룡점",
+      "address": "대전광역시 대덕구 법동 190 삼익소월아파트 109동 103호",
+      "roadAddress": "대전광역시 대덕구 동춘당로 160, 109동 103호 (법동, 삼익소월아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2023-03-22"
+    }
+  ]
+}

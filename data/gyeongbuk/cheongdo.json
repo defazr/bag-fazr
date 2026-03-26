@@ -1,0 +1,1907 @@
+{
+  "region": "경상북도",
+  "regionSlug": "gyeongbuk",
+  "district": "청도군",
+  "districtSlug": "cheongdo",
+  "updatedAt": "2026-03-26",
+  "totalCount": 271,
+  "stores": [
+    {
+      "name": "훼미리마트",
+      "address": "경상북도 청도군 청도읍 고수리 478-153",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-19"
+    },
+    {
+      "name": "창원집",
+      "address": "경상북도 청도군 운문면 신원리 599-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-04"
+    },
+    {
+      "name": "물레방아 매점",
+      "address": "경상북도 청도군 운문면 신원리 30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-26"
+    },
+    {
+      "name": "빛고을 민박",
+      "address": "경상북도 청도군 운문면 신원리 10-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-05"
+    },
+    {
+      "name": "대화슈퍼",
+      "address": "경상북도 청도군 운문면 신원리 1169",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-04"
+    },
+    {
+      "name": "평지슈퍼",
+      "address": "경상북도 청도군 청도읍 평양리 673-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-18"
+    },
+    {
+      "name": "솔향기 편의점",
+      "address": "경상북도 청도군 운문면 신원리 427-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-12"
+    },
+    {
+      "name": "만품백화점슈퍼(1호점)",
+      "address": "경상북도 청도군 청도읍 고수리 630 성조타운",
+      "roadAddress": "경상북도 청도군 청도읍 고수산복길 86, 102동 101호 (성조타운)",
+      "status": "영업/정상",
+      "licenseDate": "2019-01-01"
+    },
+    {
+      "name": "나들이슈퍼",
+      "address": "경상북도 청도군 운문면 신원리 354-2",
+      "roadAddress": "경상북도 청도군 운문면 운문로 1284-15",
+      "status": "영업/정상",
+      "licenseDate": "2025-01-14"
+    },
+    {
+      "name": "탑식자재마트",
+      "address": "경상북도 청도군 금천면 동곡리 658-5",
+      "roadAddress": "경상북도 청도군 금천면 금천로 71",
+      "status": "영업/정상",
+      "licenseDate": "2025-03-19"
+    },
+    {
+      "name": "스토리웨이 청도역 편의점",
+      "address": "경상북도 청도군 청도읍 고수리 969-65 청도역",
+      "roadAddress": "경상북도 청도군 청도읍 청화로 214, 청도역",
+      "status": "영업/정상",
+      "licenseDate": "2025-04-16"
+    },
+    {
+      "name": "지에스(GS)25 청도 청화로점",
+      "address": "경상북도 청도군 화양읍 범곡리 141-1",
+      "roadAddress": "경상북도 청도군 화양읍 청화로 51",
+      "status": "영업/정상",
+      "licenseDate": "2026-01-23"
+    },
+    {
+      "name": "만품백화점슈퍼 2호점",
+      "address": "경상북도 청도군 청도읍 고수리 630 성조타운",
+      "roadAddress": "경상북도 청도군 청도읍 고수산복길 86, 101동 103호 (성조타운)",
+      "status": "영업/정상",
+      "licenseDate": "2026-02-02"
+    },
+    {
+      "name": "중앙종묘사",
+      "address": "경상북도 청도군 청도읍 고수리 281-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "왕자문구사",
+      "address": "경상북도 청도군 청도읍 고수리 156",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영덕상회",
+      "address": "경상북도 청도군 청도읍 고수리 152-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일광슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 1039-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한남체인",
+      "address": "경상북도 청도군 청도읍 고수리 156-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모계슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 272-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부민슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 246-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진흥슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 519",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유진영상",
+      "address": "경상북도 청도군 청도읍 고수리 513",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유신이용소",
+      "address": "경상북도 청도군 청도읍 고수리 377-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "올림픽슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 419-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아상사",
+      "address": "경상북도 청도군 청도읍 고수리 495-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "없음",
+      "address": "경상북도 청도군 청도읍 고수리 479",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구시장슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 478",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청화슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 456",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "없음",
+      "address": "경상북도 청도군 청도읍 고수리 378-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청도슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 478-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 678",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "없음",
+      "address": "경상북도 청도군 청도읍 고수리 584",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "공굴슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 795-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대안슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 1033-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경도슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 702-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼덕슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 969-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해창슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 809-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동신철물",
+      "address": "경상북도 청도군 청도읍 고수리 755-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미풍상회",
+      "address": "경상북도 청도군 청도읍 고수리 764",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대곡식당",
+      "address": "경상북도 청도군 청도읍 고수리 759",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 799-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해태상회",
+      "address": "경상북도 청도군 청도읍 고수리 786",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코오롱지업사",
+      "address": "경상북도 청도군 청도읍 고수리 823-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장수건강원",
+      "address": "경상북도 청도군 청도읍 고수리 969-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "역전슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 969",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영화슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 840-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 969-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한성상회",
+      "address": "경상북도 청도군 청도읍 원정리 601-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원정슈퍼",
+      "address": "경상북도 청도군 청도읍 원정리 613",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유천상회",
+      "address": "경상북도 청도군 청도읍 내호리 170",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "경상북도 청도군 청도읍 유호리 524",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "없음",
+      "address": "경상북도 청도군 청도읍 고수리 478-138",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "육육상회",
+      "address": "경상북도 청도군 청도읍 원정리 53",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청도 축협",
+      "address": "경상북도 청도군 청도읍 고수리 693-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청도농협 유통센터",
+      "address": "경상북도 청도군 청도읍 고수리 800",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성연쇄점",
+      "address": "경상북도 청도군 청도읍 고수리 676-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만풍슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 659",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해동슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 461-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시장번영회",
+      "address": "경상북도 청도군 청도읍 고수리 478-111",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고수상회",
+      "address": "경상북도 청도군 청도읍 고수리 567",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유삼상회",
+      "address": "경상북도 청도군 청도읍 고수리 204",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우아미가구",
+      "address": "경상북도 청도군 청도읍 고수리 811",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "괜찮은문구사",
+      "address": "경상북도 청도군 청도읍 고수리 856-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대륙상회",
+      "address": "경상북도 청도군 청도읍 고수리 856-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시장식품상회",
+      "address": "경상북도 청도군 청도읍 고수리 782-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신시장슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 702-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일성상회",
+      "address": "경상북도 청도군 청도읍 유호리 521",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "경상북도 청도군 청도읍 무등리 365",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "경상북도 청도군 청도읍 원정리 590",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청도축산청도점",
+      "address": "경상북도 청도군 청도읍 고수리 655",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유호상회",
+      "address": "경상북도 청도군 청도읍 유호리 521",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코리아마트",
+      "address": "경상북도 청도군 청도읍 고수리 489-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협유천지소",
+      "address": "경상북도 청도군 청도읍 유호리 516-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "경상북도 청도군 청도읍 원정리 590-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대광유통",
+      "address": "경상북도 청도군 청도읍 고수리 356",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 754",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연진슈퍼",
+      "address": "경상북도 청도군 청도읍 원정리 471-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아홈마트",
+      "address": "경상북도 청도군 청도읍 고수리 817-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "육일상회",
+      "address": "경상북도 청도군 청도읍 고수리 513-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "핫도그집",
+      "address": "경상북도 청도군 화양읍 동상리 112",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서상슈퍼",
+      "address": "경상북도 청도군 화양읍 서상리 463",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "경상북도 청도군 화양읍 서상리 408",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서상상회",
+      "address": "경상북도 청도군 화양읍 서상리 652-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "없음",
+      "address": "경상북도 청도군 화양읍 신봉리 322",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "없음",
+      "address": "경상북도 청도군 화양읍 신봉리 339",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "리장",
+      "address": "경상북도 청도군 화양읍 교촌리 48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을회관",
+      "address": "경상북도 청도군 화양읍 합천리 105-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동천다리슈퍼",
+      "address": "경상북도 청도군 화양읍 합천리 406",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한남체인",
+      "address": "경상북도 청도군 화양읍 합천리 401",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "범곡구판장",
+      "address": "경상북도 청도군 화양읍 범곡리 972",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송북구판장",
+      "address": "경상북도 청도군 화양읍 송북리 254",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "눌미협동조합",
+      "address": "경상북도 청도군 화양읍 눌미리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고평구판장",
+      "address": "경상북도 청도군 화양읍 고평리 308",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소라구판장",
+      "address": "경상북도 청도군 화양읍 소라리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진라구판장",
+      "address": "경상북도 청도군 화양읍 진라리 327",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진라구판장",
+      "address": "경상북도 청도군 화양읍 진라리 828-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼신슈퍼",
+      "address": "경상북도 청도군 화양읍 삼신리 250",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼신구판장",
+      "address": "경상북도 청도군 화양읍 삼신리 221",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부인상회",
+      "address": "경상북도 청도군 화양읍 송금리 424",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유호구판장",
+      "address": "경상북도 청도군 화양읍 유등리 826",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유등회관",
+      "address": "경상북도 청도군 화양읍 유등리 1131",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유등작업장",
+      "address": "경상북도 청도군 화양읍 유등리 1206",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "리장",
+      "address": "경상북도 청도군 화양읍 토평리 96",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "토평구판장",
+      "address": "경상북도 청도군 화양읍 토평리 657",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선미슈퍼",
+      "address": "경상북도 청도군 화양읍 범곡리 134-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "분식센타",
+      "address": "경상북도 청도군 화양읍 범곡리 134-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성미슈퍼",
+      "address": "경상북도 청도군 화양읍 범곡리 557-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청우슈퍼",
+      "address": "경상북도 청도군 화양읍 범곡리 479-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다로슈퍼",
+      "address": "경상북도 청도군 화양읍 다로리 406-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "리장",
+      "address": "경상북도 청도군 화양읍 토평리 708-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "노인회",
+      "address": "경상북도 청도군 화양읍 유등리 197",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남성현휴게소",
+      "address": "경상북도 청도군 화양읍 송금리 87-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구씨슈퍼",
+      "address": "경상북도 청도군 화양읍 동상리 91",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영남슈퍼",
+      "address": "경상북도 청도군 화양읍 범곡리 141-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "경상북도 청도군 화양읍 동상리 66",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "솔솔마트",
+      "address": "경상북도 청도군 화양읍 범곡리 131",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "범곡슈퍼",
+      "address": "경상북도 청도군 화양읍 범곡리 479-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "각남농협연쇄점",
+      "address": "경상북도 청도군 각남면 예리리 86",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕신슈퍼",
+      "address": "경상북도 청도군 각남면 화리 8-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔미슈퍼",
+      "address": "경상북도 청도군 각남면 화리 8-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 청도군 각남면 화리 449",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 청도군 각남면 일곡리 235",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 청도군 각남면 구곡리 84-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태창슈퍼",
+      "address": "경상북도 청도군 풍각면 송서리 208",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "경상북도 청도군 풍각면 송서리 524",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정류소매점",
+      "address": "경상북도 청도군 풍각면 송서리 553-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍각농협",
+      "address": "경상북도 청도군 풍각면 송서리 556",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신광상회",
+      "address": "경상북도 청도군 풍각면 송서리 574-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청도지업사",
+      "address": "경상북도 청도군 풍각면 송서리 575-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경상북도 청도군 풍각면 봉기리 745",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한남쇼핑",
+      "address": "경상북도 청도군 풍각면 봉기리 747",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "냉동슈퍼",
+      "address": "경상북도 청도군 풍각면 봉기리 747-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제상회",
+      "address": "경상북도 청도군 풍각면 송서리 611-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍각식품",
+      "address": "경상북도 청도군 풍각면 송서리 727",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진마트",
+      "address": "경상북도 청도군 풍각면 봉기리 1334-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕산상회",
+      "address": "경상북도 청도군 각북면 덕촌리 659",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼신당약방",
+      "address": "경상북도 청도군 각북면 삼평리 683",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이서농협연쇄점",
+      "address": "경상북도 청도군 이서면 학산리 664-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물상회",
+      "address": "경상북도 청도군 이서면 학산리 578-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매일상회",
+      "address": "경상북도 청도군 이서면 학산리 175-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매표소",
+      "address": "경상북도 청도군 이서면 양원리 333",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대곡상회",
+      "address": "경상북도 청도군 이서면 대곡리 208",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신행림슈퍼",
+      "address": "경상북도 청도군 이서면 학산리 581-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼정상회",
+      "address": "경상북도 청도군 운문면 신원리 1232-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경신상회",
+      "address": "경상북도 청도군 운문면 신원리 1171",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙수퍼",
+      "address": "경상북도 청도군 운문면 대천리 633",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운문상회",
+      "address": "경상북도 청도군 운문면 신원리 1681",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼계리상회",
+      "address": "경상북도 청도군 운문면 신원리 162",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대천소리사",
+      "address": "경상북도 청도군 운문면 대천리 1462",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지촌상회",
+      "address": "경상북도 청도군 운문면 지촌리 374",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "방지상회",
+      "address": "경상북도 청도군 운문면 방지리 666",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농산물직판장",
+      "address": "경상북도 청도군 운문면 오진리 175",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운문농협",
+      "address": "경상북도 청도군 운문면 대천리 1462-127",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대천수퍼",
+      "address": "경상북도 청도군 운문면 대천리 1444-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유성마트",
+      "address": "경상북도 청도군 운문면 대천리 1444-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운정상회",
+      "address": "경상북도 청도군 운문면 신원리 30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부산상회",
+      "address": "경상북도 청도군 금천면 동곡리 788",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아수퍼",
+      "address": "경상북도 청도군 금천면 동곡리 697-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배소매",
+      "address": "경상북도 청도군 금천면 동곡리 789-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을회관",
+      "address": "경상북도 청도군 금천면 동곡리 224",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청남상회",
+      "address": "경상북도 청도군 금천면 사전리 247",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "온천식당",
+      "address": "경상북도 청도군 금천면 사전리 1698",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배소매",
+      "address": "경상북도 청도군 금천면 김전리 89",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김전해성약국",
+      "address": "경상북도 청도군 금천면 김전리 90",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배소매",
+      "address": "경상북도 청도군 금천면 김전리 246",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대경장수퍼",
+      "address": "경상북도 청도군 금천면 갈지리 534-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소천구판장",
+      "address": "경상북도 청도군 금천면 소천리 1667",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "방지회관",
+      "address": "경상북도 청도군 금천면 방지리 1680",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을회관",
+      "address": "경상북도 청도군 금천면 방지리 1325",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "입동상점",
+      "address": "경상북도 청도군 금천면 임당리 693",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상우상점",
+      "address": "경상북도 청도군 금천면 임당리 740",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경포상점",
+      "address": "경상북도 청도군 금천면 임당리 1883-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선호수퍼",
+      "address": "경상북도 청도군 금천면 신지리 270-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사거리상회",
+      "address": "경상북도 청도군 금천면 신지리 630-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "길부상회",
+      "address": "경상북도 청도군 금천면 신지리 (마을회관)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명수퍼",
+      "address": "경상북도 청도군 금천면 동곡리 695-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대구수퍼",
+      "address": "경상북도 청도군 금천면 동곡리 924",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호남상회",
+      "address": "경상북도 청도군 금천면 동곡리 934-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영덕상회",
+      "address": "경상북도 청도군 청도읍 고수리 152-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "모계슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 272-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "진흥슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 519",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "동아상사",
+      "address": "경상북도 청도군 청도읍 고수리 495-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "담배소매",
+      "address": "경상북도 청도군 청도읍 고수리 479",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "구시장슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 478",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "청화슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 456",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "담배슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 378-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "청도슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 478-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "신흥슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 678",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "담배소매",
+      "address": "경상북도 청도군 청도읍 고수리 584-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "공굴슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 795-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "대안슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 1033-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "경도슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 702-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "삼덕슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 969-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-15"
+    },
+    {
+      "name": "해창슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-18"
+    },
+    {
+      "name": "동신철물",
+      "address": "경상북도 청도군 청도읍 고수리 755-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-18"
+    },
+    {
+      "name": "미풍상회",
+      "address": "경상북도 청도군 청도읍 고수리 764",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "대곡슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 -759",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 799-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "코오롱지업사",
+      "address": "경상북도 청도군 청도읍 고수리 823-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "장수건강원",
+      "address": "경상북도 청도군 청도읍 고수리 969-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "역전슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 969",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "엘지슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 846-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 969-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "원정상회",
+      "address": "경상북도 청도군 청도읍 고수리 613",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "유천상회",
+      "address": "경상북도 청도군 청도읍 내호리 170",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "청도축협",
+      "address": "경상북도 청도군 청도읍 고수리 693-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "농협장",
+      "address": "경상북도 청도군 청도읍 고수리 800",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "삼성연쇄점",
+      "address": "경상북도 청도군 청도읍 고수리 676-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "해동슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 461-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "시장번영회",
+      "address": "경상북도 청도군 청도읍 고수리 777-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "고수상회",
+      "address": "경상북도 청도군 청도읍 고수리 567",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-13"
+    },
+    {
+      "name": "유삼상회",
+      "address": "경상북도 청도군 청도읍 고수리 204",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-13"
+    },
+    {
+      "name": "괜찮은문구사",
+      "address": "경상북도 청도군 청도읍 고수리 856-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-13"
+    },
+    {
+      "name": "시장식품상회",
+      "address": "경상북도 청도군 청도읍 고수리 782-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-13"
+    },
+    {
+      "name": "신시장슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 702-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-13"
+    },
+    {
+      "name": "일성상회",
+      "address": "경상북도 청도군 청도읍 유호리 521",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-13"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "경상북도 청도군 청도읍 무등리 365",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-13"
+    },
+    {
+      "name": "경북축산청도점",
+      "address": "경상북도 청도군 청도읍 고수리 655",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-13"
+    },
+    {
+      "name": "금천농업협동조합",
+      "address": "경상북도 청도군 금천면 동곡리 400-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청도축협금천지점",
+      "address": "경상북도 청도군 금천면 동곡리 662-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동신상회",
+      "address": "경상북도 청도군 매전면 동산리 216",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부부상회",
+      "address": "경상북도 청도군 매전면 동산리 217-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경신상회",
+      "address": "경상북도 청도군 매전면 동산리 207",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시온문구",
+      "address": "경상북도 청도군 매전면 동산리 255-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영동상회",
+      "address": "경상북도 청도군 매전면 동산리 255",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매전농협연쇄점",
+      "address": "경상북도 청도군 매전면 동산리 207",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이무상회",
+      "address": "경상북도 청도군 매전면 동산리 1143",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용운슈퍼",
+      "address": "경상북도 청도군 매전면 온막리 739",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명대슈퍼",
+      "address": "경상북도 청도군 매전면 온막리 461",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상평구판장",
+      "address": "경상북도 청도군 매전면 상평리 855",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕산슈퍼",
+      "address": "경상북도 청도군 매전면 덕산리 209-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두곡상회",
+      "address": "경상북도 청도군 매전면 두곡리 750-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유천농협지소",
+      "address": "경상북도 청도군 청도읍 고수리 800",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-15"
+    },
+    {
+      "name": "무적림자연학습장",
+      "address": "경상북도 청도군 운문면 오진리 1240-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운문골식당",
+      "address": "경상북도 청도군 운문면 신원리 2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-08"
+    },
+    {
+      "name": "세이브마트",
+      "address": "경상북도 청도군 청도읍 고수리 156-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "칠성상회",
+      "address": "경상북도 청도군 운문면 신원리 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미화당 슈퍼",
+      "address": "경상북도 청도군 운문면 신원리 1242-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신신상회",
+      "address": "경상북도 청도군 운문면 신원리 1630-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "필 프라이스",
+      "address": "경상북도 청도군 청도읍 고수리 520-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대천상회",
+      "address": "경상북도 청도군 운문면 대천리 1462-125",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "협동슈퍼",
+      "address": "경상북도 청도군 매전면 동산리 187-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진성마트",
+      "address": "경상북도 청도군 이서면 학산리 177-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운정휴게소",
+      "address": "경상북도 청도군 운문면 신원리 20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통점슈퍼",
+      "address": "경상북도 청도군 운문면 신원리 463-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성진상회",
+      "address": "경상북도 청도군 운문면 신원리 산 29-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼명할인마트",
+      "address": "경상북도 청도군 금천면 동곡리 795-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화양슈퍼",
+      "address": "경상북도 청도군 화양읍 서상리 320",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안동슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 321-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-29"
+    },
+    {
+      "name": "운문산자연휴양림",
+      "address": "경상북도 청도군 운문면 신원리 산 29-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-21"
+    },
+    {
+      "name": "생금비리선재마을휴게소",
+      "address": "경상북도 청도군 운문면 신원리 7-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-20"
+    },
+    {
+      "name": "대남병원매점",
+      "address": "경상북도 청도군 화양읍 범곡리 100-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-03"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "경상북도 청도군 청도읍 고수리 478-153",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-16"
+    },
+    {
+      "name": "참마트",
+      "address": "경상북도 청도군 청도읍 고수리 802",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "탑세일마트",
+      "address": "경상북도 청도군 금천면 동곡리 658-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-02"
+    },
+    {
+      "name": "팔조령휴게소",
+      "address": "경상북도 청도군 이서면 팔조리 170-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운문댐할인마트",
+      "address": "경상북도 청도군 운문면 대천리 1434",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-14"
+    },
+    {
+      "name": "코사할인마트",
+      "address": "경상북도 청도군 금천면 동곡리 400-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-26"
+    },
+    {
+      "name": "한울타리상회",
+      "address": "경상북도 청도군 운문면 신원리 417",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-02"
+    },
+    {
+      "name": "산이좋은사람들",
+      "address": "경상북도 청도군 운문면 신원리 31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-02"
+    },
+    {
+      "name": "신원슈퍼",
+      "address": "경상북도 청도군 운문면 신원리 1225-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-02"
+    },
+    {
+      "name": "훼미리마트풍각점",
+      "address": "경상북도 청도군 풍각면 송서리 577-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-12"
+    },
+    {
+      "name": "훼미리마트이서점",
+      "address": "경상북도 청도군 이서면 학산리 176",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-04"
+    },
+    {
+      "name": "GS25청도점",
+      "address": "경상북도 청도군 청도읍 고수리 152-14",
+      "roadAddress": "경상북도 청도군 청도읍 청화로 92",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-22"
+    },
+    {
+      "name": "서원유통",
+      "address": "경상북도 청도군 청도읍 고수리 817-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-17"
+    },
+    {
+      "name": "매전할인마트",
+      "address": "경상북도 청도군 매전면 동산리 183-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-10-22"
+    },
+    {
+      "name": "다이소, 색시보석",
+      "address": "경상북도 청도군 청도읍 고수리 472-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-11-30"
+    },
+    {
+      "name": "탑마트청도점",
+      "address": "경상북도 청도군 청도읍 고수리 817-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-14"
+    },
+    {
+      "name": "영덕슈퍼",
+      "address": "경상북도 청도군 청도읍 고수리 152-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-17"
+    },
+    {
+      "name": "다이소, 색시보석",
+      "address": "경상북도 청도군 청도읍 고수리 472-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-11-30"
+    },
+    {
+      "name": "푸른나래",
+      "address": "경상북도 청도군 운문면 신원리 199-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-01-11"
+    }
+  ]
+}

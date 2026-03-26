@@ -1,0 +1,3111 @@
+{
+  "region": "전라남도",
+  "regionSlug": "jeonnam",
+  "district": "화순군",
+  "districtSlug": "hwasun",
+  "updatedAt": "2026-03-26",
+  "totalCount": 443,
+  "stores": [
+    {
+      "name": "도곡농협로컬푸드직매장",
+      "address": "전라남도 화순군 도곡면 효산리 1279-23",
+      "roadAddress": "전라남도 화순군 도곡면 효죽로 3",
+      "status": "영업/정상",
+      "licenseDate": "2019-05-30"
+    },
+    {
+      "name": "김형윤",
+      "address": "전라남도 화순군 사평면 주산리 256",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국노총전남본부근로자종합구판장",
+      "address": "전라남도 광양시 광양읍 칠성리 955-7",
+      "roadAddress": "전라남도 화순군 화순읍 광덕로 155, 202동  107호(부영2차아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-02"
+    },
+    {
+      "name": "도곡농협로컬푸드직매장",
+      "address": "전라남도 화순군 도곡면 효산리 1279-23",
+      "roadAddress": "전라남도 화순군 도곡면 효죽로 3",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-26"
+    },
+    {
+      "name": "대중상회",
+      "address": "전라남도 화순군 화순읍 교리 196",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-30"
+    },
+    {
+      "name": "항미상회",
+      "address": "전라남도 화순군 화순읍 교리 106-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-30"
+    },
+    {
+      "name": "공간슈퍼",
+      "address": "전라남도 화순군 화순읍 교리 66",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개인",
+      "address": "전라남도 화순군 화순읍 교리 93-6",
+      "roadAddress": "전라남도 화순군 화순읍 동헌길 11-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "교리상회",
+      "address": "전라남도 화순군 화순읍 교리 117",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대광슈퍼",
+      "address": "전라남도 화순군 화순읍 향청리 71",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화신건재",
+      "address": "전라남도 화순군 화순읍 향청리 5-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일미슈퍼",
+      "address": "전라남도 화순군 화순읍 향청리 160-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화성슈퍼",
+      "address": "전라남도 화순군 화순읍 향청리 10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "골목슈퍼",
+      "address": "전라남도 화순군 화순읍 향청리 44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신진상회",
+      "address": "전라남도 화순군 화순읍 향청리 57",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "도청슈퍼",
+      "address": "전라남도 화순군 화순읍 만연리 88",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우정슈퍼",
+      "address": "전라남도 화순군 화순읍 만연리 93",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "비와이시",
+      "address": "전라남도 화순군 화순읍 만연리 231",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화니슈퍼",
+      "address": "전라남도 화순군 화순읍 만연리 185",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김명원",
+      "address": "전라남도 화순군 화순읍 신기리 392-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은진슈퍼",
+      "address": "전라남도 화순군 화순읍 신기리 254",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진우슈퍼",
+      "address": "전라남도 화순군 화순읍 신기리 327-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양지슈퍼",
+      "address": "전라남도 화순군 화순읍 신기리 263-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호성슈퍼",
+      "address": "전라남도 화순군 화순읍 훈리 18-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뽀뽀뽀슈퍼",
+      "address": "전라남도 화순군 화순읍 훈리 37-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훈리슈퍼",
+      "address": "전라남도 화순군 화순읍 훈리 41-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박광자",
+      "address": "전라남도 화순군 화순읍 훈리 51-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정회천",
+      "address": "전라남도 화순군 화순읍 유천리 343",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김규근",
+      "address": "전라남도 화순군 화순읍 유천리 94",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김용주",
+      "address": "전라남도 화순군 화순읍 일심리 457-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조기훈",
+      "address": "전라남도 화순군 화순읍 일심리 559-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정정웅",
+      "address": "전라남도 화순군 화순읍 일심리 335",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이상열",
+      "address": "전라남도 화순군 화순읍 일심리 783",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박형개",
+      "address": "전라남도 화순군 화순읍 다지리 240",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광덕상회",
+      "address": "전라남도 화순군 화순읍 광덕리 25-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광덕슈퍼",
+      "address": "전라남도 화순군 화순읍 광덕리 5-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해성슈퍼",
+      "address": "전라남도 화순군 화순읍 광덕리 38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종호슈퍼",
+      "address": "전라남도 화순군 화순읍 광덕리 334",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행운슈퍼",
+      "address": "전라남도 화순군 화순읍 광덕리 319",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광덕슈퍼",
+      "address": "전라남도 화순군 화순읍 광덕리 29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광남슈퍼",
+      "address": "전라남도 화순군 화순읍 광덕리 135-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "최용진",
+      "address": "전라남도 화순군 화순읍 광덕리 143",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한동욱",
+      "address": "전라남도 화순군 화순읍 삼천리 525",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전병용",
+      "address": "전라남도 화순군 화순읍 삼천리 487-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "함봉욱",
+      "address": "전라남도 화순군 화순읍 삼천리 713",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구제석",
+      "address": "전라남도 화순군 화순읍 삼천리 724-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시민슈퍼",
+      "address": "전라남도 화순군 화순읍 삼천리 655-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해성만물상회",
+      "address": "전라남도 화순군 화순읍 삼천리 621-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "터미널슈퍼",
+      "address": "전라남도 화순군 화순읍 삼천리 738",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영재문구사",
+      "address": "전라남도 화순군 화순읍 삼천리 630-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 화순군 화순읍 대리 195-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이춘근",
+      "address": "전라남도 화순군 화순읍 대리 281",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 화순군 화순읍 대리 314-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "배종영",
+      "address": "전라남도 화순군 화순읍 대리 245-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "염규영",
+      "address": "전라남도 화순군 화순읍 대리 97-73",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "전라남도 화순군 화순읍 대리 86",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이동열",
+      "address": "전라남도 화순군 화순읍 벽라리 205-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정현남",
+      "address": "전라남도 화순군 화순읍 감도리 155",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다오네 슈퍼",
+      "address": "전라남도 화순군 화순읍 계소리 100",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서병두",
+      "address": "전라남도 화순군 화순읍 도웅리 358-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오장식",
+      "address": "전라남도 화순군 화순읍 연양리 144",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양영석",
+      "address": "전라남도 화순군 화순읍 내평리 188-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조대환",
+      "address": "전라남도 화순군 화순읍 서태리 702",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유충열",
+      "address": "전라남도 화순군 화순읍 서태리 990",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남도건설(주)",
+      "address": "전라남도 화순군 화순읍 대리 373",
+      "roadAddress": "전라남도 화순군 화순읍 칠충로 30",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "박준련",
+      "address": "전라남도 화순군 화순읍 주도리 410",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양춘승",
+      "address": "전라남도 화순군 화순읍 서태리 116",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "허 환",
+      "address": "전라남도 화순군 화순읍 서태리 226",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유한중",
+      "address": "전라남도 화순군 화순읍 향청리 19-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김영근",
+      "address": "전라남도 화순군 화순읍 일심리 678",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조도석",
+      "address": "전라남도 화순군 화순읍 감도리 364",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "리장",
+      "address": "전라남도 화순군 한천면 모산리 796",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금전구판장",
+      "address": "전라남도 화순군 한천면 금전리 483",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한천상회",
+      "address": "전라남도 화순군 한천면 한계리 625-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용암상회",
+      "address": "전라남도 화순군 한천면 한계리 612",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "리장",
+      "address": "전라남도 화순군 한천면 정리 478",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "리장",
+      "address": "전라남도 화순군 한천면 정리 134",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "리장",
+      "address": "전라남도 화순군 한천면 가암리 474",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "리장",
+      "address": "전라남도 화순군 한천면 가암리 산 19-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "리장",
+      "address": "전라남도 화순군 한천면 오음리 418",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "리장",
+      "address": "전라남도 화순군 한천면 오음리 122",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "방울수퍼",
+      "address": "전라남도 화순군 한천면 오음리 산 2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "리장",
+      "address": "전라남도 화순군 한천면 반곡리 95",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "리장",
+      "address": "전라남도 화순군 한천면 반곡리 565",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "리장",
+      "address": "전라남도 화순군 한천면 평리 33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정산상회",
+      "address": "전라남도 화순군 한천면 정우리 365",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동산상회",
+      "address": "전라남도 화순군 한천면 동가리 391-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "리장",
+      "address": "전라남도 화순군 한천면 동가리 694",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "리장",
+      "address": "전라남도 화순군 한천면 고시리 477",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조연임",
+      "address": "전라남도 화순군 춘양면 석정리 247",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남은기",
+      "address": "전라남도 화순군 춘양면 석정리 245",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "석정슈퍼",
+      "address": "전라남도 화순군 춘양면 석정리 384",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "노기남",
+      "address": "전라남도 화순군 춘양면 화림리 709",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "-",
+      "address": "전라남도 화순군 춘양면 화림리 394-1",
+      "roadAddress": "전라남도 화순군 춘양면 광대월길 64-12",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "춘양농협",
+      "address": "전라남도 화순군 춘양면 석정리 24-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "기부순",
+      "address": "전라남도 화순군 춘양면 대신리 938",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정주빈",
+      "address": "전라남도 화순군 춘양면 대신리 1010",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김환문",
+      "address": "전라남도 화순군 춘양면 대신리 331",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이동출",
+      "address": "전라남도 화순군 춘양면 회송리 118",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주방식",
+      "address": "전라남도 화순군 춘양면 월평리 465",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이재구",
+      "address": "전라남도 화순군 춘양면 회송리 369",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이은규",
+      "address": "전라남도 화순군 춘양면 양곡리 365",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이상호",
+      "address": "전라남도 화순군 춘양면 양곡리 209",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구제방",
+      "address": "전라남도 화순군 춘양면 용곡리 169",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이순택",
+      "address": "전라남도 화순군 춘양면 용곡리 394",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김부희",
+      "address": "전라남도 화순군 춘양면 월평리 159",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이 우",
+      "address": "전라남도 화순군 춘양면 월평리 202",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "변천슈퍼",
+      "address": "전라남도 화순군 춘양면 변천리 105-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "배승춘",
+      "address": "전라남도 화순군 춘양면 산간리 259",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이양철",
+      "address": "전라남도 화순군 춘양면 가동리 500-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김규은",
+      "address": "전라남도 화순군 춘양면 가봉리 565-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정재규",
+      "address": "전라남도 화순군 춘양면 용두리 204",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우봉슈퍼",
+      "address": "전라남도 화순군 춘양면 우봉리 302-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조회환",
+      "address": "전라남도 화순군 춘양면 부곡리 242",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정순호",
+      "address": "전라남도 화순군 춘양면 부곡리 173",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조시현",
+      "address": "전라남도 화순군 춘양면 부곡리 579",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무안식당",
+      "address": "전라남도 화순군 청풍면 풍암리 57-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "최길수",
+      "address": "전라남도 화순군 청풍면 한지리 227",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구제중",
+      "address": "전라남도 화순군 청풍면 한지리 259-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이동옥",
+      "address": "전라남도 화순군 청풍면 어리 605-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "민덕순",
+      "address": "전라남도 화순군 청풍면 세청리 412-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양승열",
+      "address": "전라남도 화순군 청풍면 세청리 861",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "윤재선",
+      "address": "전라남도 화순군 청풍면 대비리 445",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "왕정민",
+      "address": "전라남도 화순군 청풍면 백운리 603-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김춘길",
+      "address": "전라남도 화순군 청풍면 청용리 514-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "최배순",
+      "address": "전라남도 화순군 청풍면 이만리 265-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박종호",
+      "address": "전라남도 화순군 청풍면 신석리 604-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이병림",
+      "address": "전라남도 화순군 청풍면 신석리 443",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개인(정홍기)",
+      "address": "전라남도 화순군 청풍면 신리 620-14",
+      "roadAddress": "전라남도 화순군 청풍면 신리새터길 16",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유태식",
+      "address": "전라남도 화순군 청풍면 신리 200-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이종현",
+      "address": "전라남도 화순군 청풍면 차리 532-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박성기",
+      "address": "전라남도 화순군 청풍면 차리 756-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정찬년",
+      "address": "전라남도 화순군 이양면 강성리 744",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구임채",
+      "address": "전라남도 화순군 이양면 묵곡리 231",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "품명상회",
+      "address": "전라남도 화순군 이양면 품평리 864",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박분리",
+      "address": "전라남도 화순군 이양면 오류리 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "역전상회",
+      "address": "전라남도 화순군 이양면 오류리 670-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용달식당",
+      "address": "전라남도 화순군 이양면 오류리 670-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엄규우",
+      "address": "전라남도 화순군 이양면 오류리 191",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "염윤선",
+      "address": "전라남도 화순군 이양면 오류리 233",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문병석",
+      "address": "전라남도 화순군 이양면 오류리 479",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "최기숙",
+      "address": "전라남도 화순군 이양면 이양리 82",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이양슈퍼",
+      "address": "전라남도 화순군 이양면 이양리 295",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "전라남도 화순군 이양면 이양리 424",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시장이불집",
+      "address": "전라남도 화순군 이양면 이양리 294",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "손영숙",
+      "address": "전라남도 화순군 이양면 송정리 409",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이순도",
+      "address": "전라남도 화순군 이양면 송정리 453",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양오춘",
+      "address": "전라남도 화순군 이양면 초방리 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안병호",
+      "address": "전라남도 화순군 이양면 초방리 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정순국",
+      "address": "전라남도 화순군 이양면 초방리 776",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정찬종",
+      "address": "전라남도 화순군 이양면 초방리 773",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이관용",
+      "address": "전라남도 화순군 이양면 매정리 526",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강진엽",
+      "address": "전라남도 화순군 이양면 구례리 466",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장대식",
+      "address": "전라남도 화순군 이양면 구례리 634",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안병석",
+      "address": "전라남도 화순군 이양면 구례리 756",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개인",
+      "address": "전라남도 화순군 이양면 쌍봉리 285",
+      "roadAddress": "전라남도 화순군 이양면 양지편길 24",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정기상",
+      "address": "전라남도 화순군 이양면 쌍봉리 340",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "염초순",
+      "address": "전라남도 화순군 능주면 남정리 229",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김연승",
+      "address": "전라남도 화순군 능주면 남정리 921-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을 슈퍼",
+      "address": "전라남도 화순군 능주면 정남리 270-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동광슈퍼",
+      "address": "전라남도 화순군 능주면 석고리 206",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전주상회",
+      "address": "전라남도 화순군 능주면 석고리 235-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남양슈퍼",
+      "address": "전라남도 화순군 능주면 석고리 278-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대한상회",
+      "address": "전라남도 화순군 능주면 석고리 151",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황연옥",
+      "address": "전라남도 화순군 능주면 내리 172",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을상회",
+      "address": "전라남도 화순군 능주면 관영리 300",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나완구",
+      "address": "전라남도 화순군 능주면 관영리 317",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "꼭갈상회",
+      "address": "전라남도 화순군 능주면 관영리 94",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "윤재옥",
+      "address": "전라남도 화순군 능주면 천덕리 152",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구제철",
+      "address": "전라남도 화순군 능주면 천덕리 268",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고광원",
+      "address": "전라남도 화순군 능주면 만인리 170",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이영근",
+      "address": "전라남도 화순군 능주면 만인리 126",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주영례",
+      "address": "전라남도 화순군 능주면 백암리 740",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이연호",
+      "address": "전라남도 화순군 능주면 백암리 878",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "최영옥",
+      "address": "전라남도 화순군 능주면 만수리 184",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고광신",
+      "address": "전라남도 화순군 능주면 만수리 134",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오계숙",
+      "address": "전라남도 화순군 능주면 만수리 367",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고흥석",
+      "address": "전라남도 화순군 능주면 원지리 119",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박계수",
+      "address": "전라남도 화순군 도곡면 대곡리 198-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이영임",
+      "address": "전라남도 화순군 도곡면 대곡리 196-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서학종",
+      "address": "전라남도 화순군 도곡면 대곡리 333-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "도곡매일슈퍼",
+      "address": "전라남도 화순군 도곡면 효산리 731",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미리네슈퍼",
+      "address": "전라남도 화순군 도곡면 효산리 762-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이금주",
+      "address": "전라남도 화순군 도곡면 효산리 178-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양회완",
+      "address": "전라남도 화순군 도곡면 월곡리 612",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김원식",
+      "address": "전라남도 화순군 도곡면 월곡리 478",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유병록",
+      "address": "전라남도 화순군 도곡면 월곡리 436",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김명선",
+      "address": "전라남도 화순군 도곡면 쌍옥리 269",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서형대",
+      "address": "전라남도 화순군 도곡면 쌍옥리 468",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홍성용",
+      "address": "전라남도 화순군 도곡면 평리 571",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박영환",
+      "address": "전라남도 화순군 도곡면 덕곡리 489",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문흥술",
+      "address": "전라남도 화순군 도곡면 덕곡리 25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성연님",
+      "address": "전라남도 화순군 도곡면 신성리 55-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문광근",
+      "address": "전라남도 화순군 도곡면 천암리 156-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이순자",
+      "address": "전라남도 화순군 도곡면 원화리 110",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "최복자",
+      "address": "전라남도 화순군 도곡면 원화리 404",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양영열",
+      "address": "전라남도 화순군 도곡면 신덕리 410",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정상진",
+      "address": "전라남도 화순군 도곡면 신덕리 501",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박연규",
+      "address": "전라남도 화순군 도곡면 신덕리 937",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박종천",
+      "address": "전라남도 화순군 도곡면 미곡리 356",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구귀례",
+      "address": "전라남도 화순군 도곡면 미곡리 211",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운월상회",
+      "address": "전라남도 화순군 도암면 운월리 129-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김경옥",
+      "address": "전라남도 화순군 도암면 운월리 322",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양미랑",
+      "address": "전라남도 화순군 도암면 도장리 339",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "전라남도 화순군 도암면 정천리 192",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "친절상회",
+      "address": "전라남도 화순군 도암면 벽지리 787",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홍종천",
+      "address": "전라남도 화순군 도암면 벽지리 238",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "희망상회",
+      "address": "전라남도 화순군 도암면 원천리 628-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홍상현",
+      "address": "전라남도 화순군 도암면 천태리 725",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박정규",
+      "address": "전라남도 화순군 도암면 지월리 149",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이형진",
+      "address": "전라남도 화순군 도암면 지월리 149",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형차욱",
+      "address": "전라남도 화순군 도암면 지월리 149",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "등광상회",
+      "address": "전라남도 화순군 도암면 등광리 399",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박계현",
+      "address": "전라남도 화순군 도암면 대초리 559",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용강상회",
+      "address": "전라남도 화순군 도암면 용강리 348-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중장터방아간",
+      "address": "전라남도 화순군 도암면 용강리 921-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김길웅",
+      "address": "전라남도 화순군 도암면 우치리 95",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박문갑",
+      "address": "전라남도 화순군 도암면 호암리 449",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강동만",
+      "address": "전라남도 화순군 도암면 호암리 685",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양재윤",
+      "address": "전라남도 화순군 도암면 왕정리 356",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김철현",
+      "address": "전라남도 화순군 도암면 봉하리 444",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개인(진재철)",
+      "address": "전라남도 화순군 도암면 행산리 205",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "적벽가든",
+      "address": "전라남도 화순군 이서면 창랑리 377",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "윤창식",
+      "address": "전라남도 화순군 이서면 창랑리 585-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구문례",
+      "address": "전라남도 화순군 도곡면 죽청리 240-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성일상사",
+      "address": "전라남도 화순군 이서면 야사리 195",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "전라남도 화순군 이서면 야사리 414-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박종만",
+      "address": "전라남도 화순군 이서면 야사리 365",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박상기",
+      "address": "전라남도 화순군 이서면 야사리 904-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "최옥자",
+      "address": "전라남도 화순군 이서면 보월리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박철환",
+      "address": "전라남도 화순군 이서면 보월리 237",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강성동",
+      "address": "전라남도 화순군 이서면 인계리 251",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안병선",
+      "address": "전라남도 화순군 이서면 인계리 98",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김종필",
+      "address": "전라남도 화순군 이서면 인계리 521",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개인",
+      "address": "전라남도 화순군 이서면 영평리 230-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김형대",
+      "address": "전라남도 화순군 이서면 안심리 548",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김형중",
+      "address": "전라남도 화순군 이서면 안심리 249",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박영우",
+      "address": "전라남도 화순군 백아면 옥리 767",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조영록",
+      "address": "전라남도 화순군 백아면 옥리 418",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정무남",
+      "address": "전라남도 화순군 백아면 서유리 555",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "임갑순",
+      "address": "전라남도 화순군 백아면 서유리 253",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박종섭",
+      "address": "전라남도 화순군 백아면 맹리 494",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김영수",
+      "address": "전라남도 화순군 백아면 남치리 228",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "최기현",
+      "address": "전라남도 화순군 백아면 송단리 730",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김종길",
+      "address": "전라남도 화순군 백아면 송단리 491",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강신봉",
+      "address": "전라남도 화순군 백아면 방리 441",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조희선",
+      "address": "전라남도 화순군 백아면 노기리 236",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "나영만",
+      "address": "전라남도 화순군 백아면 이천리 386",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "노병환",
+      "address": "전라남도 화순군 백아면 이천리 18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김평기",
+      "address": "전라남도 화순군 백아면 길성리 243",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정규호",
+      "address": "전라남도 화순군 백아면 와천리 130-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김순숙",
+      "address": "전라남도 화순군 백아면 다곡리 546",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황수경",
+      "address": "전라남도 화순군 백아면 다곡리 69",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김경숙",
+      "address": "전라남도 화순군 백아면 노치리 333",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유희춘",
+      "address": "전라남도 화순군 백아면 원리 240",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박동식",
+      "address": "전라남도 화순군 백아면 수리 368-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유재풍",
+      "address": "전라남도 화순군 백아면 용곡리 232",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강동원",
+      "address": "전라남도 화순군 백아면 용곡리 473",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "독상 연쇄점",
+      "address": "전라남도 화순군 동복면 독상리 338-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동복철만물상회",
+      "address": "전라남도 화순군 동복면 칠정리 676",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엄환섭",
+      "address": "전라남도 화순군 동복면 칠정리 280",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호 슈퍼",
+      "address": "전라남도 화순군 동복면 천변리 151-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "국일식육점",
+      "address": "전라남도 화순군 동복면 천변리 82-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유천리 연쇄점",
+      "address": "전라남도 화순군 동복면 유천리 275",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김복남",
+      "address": "전라남도 화순군 동복면 신율리 469",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김기영",
+      "address": "전라남도 화순군 동복면 신율리 192",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박춘옥",
+      "address": "전라남도 화순군 동복면 신율리 699",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장송인",
+      "address": "전라남도 화순군 동복면 가수리 657",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김창수",
+      "address": "전라남도 화순군 동복면 가수리 383",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김정오",
+      "address": "전라남도 화순군 동복면 가수리 25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박우현",
+      "address": "전라남도 화순군 동복면 안성리 434",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서광혁",
+      "address": "전라남도 화순군 동복면 연월리 838",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장모순",
+      "address": "전라남도 화순군 동복면 연월리 292",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박영부",
+      "address": "전라남도 화순군 동복면 연월리 587",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서광은",
+      "address": "전라남도 화순군 동복면 연월리 130",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전순례",
+      "address": "전라남도 화순군 동복면 읍애리 434",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김현전",
+      "address": "전라남도 화순군 동복면 연둔리 237",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강성진",
+      "address": "전라남도 화순군 동복면 구암리 225",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한천정류소",
+      "address": "전라남도 화순군 동복면 한천리 121-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강대환",
+      "address": "전라남도 화순군 사평면 사평리 534",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장재만",
+      "address": "전라남도 화순군 사평면 사평리 459-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박맹균",
+      "address": "전라남도 화순군 사평면 사평리 188",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사평슈퍼",
+      "address": "전라남도 화순군 사평면 사평리 373",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "임세택",
+      "address": "전라남도 화순군 사평면 사평리 935",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신영기",
+      "address": "전라남도 화순군 사평면 대곡리 524",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서옥현",
+      "address": "전라남도 화순군 사평면 대곡리 469",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이몽영",
+      "address": "전라남도 화순군 사평면 검산리 608",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정용채",
+      "address": "전라남도 화순군 사평면 검산리 675",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송주성",
+      "address": "전라남도 화순군 사평면 운산리 산 57",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이정수",
+      "address": "전라남도 화순군 사평면 원리 632",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김용복",
+      "address": "전라남도 화순군 사평면 원리 132",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이이수",
+      "address": "전라남도 화순군 사평면 벽송리 288",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선백규",
+      "address": "전라남도 화순군 사평면 벽송리 485",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김학종",
+      "address": "전라남도 화순군 사평면 장전리 47-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김용철",
+      "address": "전라남도 화순군 사평면 장전리 312",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김영도",
+      "address": "전라남도 화순군 사평면 절산리 573",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전갑현",
+      "address": "전라남도 화순군 사평면 절산리 674",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김영호",
+      "address": "전라남도 화순군 사평면 사수리 214",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이태일",
+      "address": "전라남도 화순군 사평면 사수리 465",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오원탁",
+      "address": "전라남도 화순군 사평면 사수리 645",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이강영",
+      "address": "전라남도 화순군 사평면 복교리 380-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김성문",
+      "address": "전라남도 화순군 사평면 남계리 466-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김회수",
+      "address": "전라남도 화순군 사평면 남계리 192",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김태종",
+      "address": "전라남도 화순군 사평면 유마리 229",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오옥탁",
+      "address": "전라남도 화순군 사평면 다산리 623",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "염영수",
+      "address": "전라남도 화순군 사평면 용리 531-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김경중",
+      "address": "전라남도 화순군 사평면 용리 117",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문성환",
+      "address": "전라남도 화순군 사평면 내리 299",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "여백현",
+      "address": "전라남도 화순군 사평면 내리 595-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김병남",
+      "address": "전라남도 화순군 사평면 내리 678-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "똘이슈퍼",
+      "address": "전라남도 화순군 동면 백용리 398",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유덕상회",
+      "address": "전라남도 화순군 동면 백용리 295",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "복암슈퍼",
+      "address": "전라남도 화순군 동면 복암리 140",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙상회",
+      "address": "전라남도 화순군 동면 복암리 915",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보성상회",
+      "address": "전라남도 화순군 동면 복암리 378",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오동슈퍼",
+      "address": "전라남도 화순군 동면 오동리 93",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "최국만",
+      "address": "전라남도 화순군 동면 오동리 160",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "애리슈퍼",
+      "address": "전라남도 화순군 동면 천덕리 111-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "점덕슈퍼",
+      "address": "전라남도 화순군 동면 천덕리 407",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동암 연쇄점",
+      "address": "전라남도 화순군 동면 천덕리 558",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해태슈퍼",
+      "address": "전라남도 화순군 동면 장동리 297",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "민이슈퍼",
+      "address": "전라남도 화순군 동면 장동리 555",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕영상회",
+      "address": "전라남도 화순군 동면 운농리 735",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운농상회",
+      "address": "전라남도 화순군 동면 운농리 966",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "자포상회",
+      "address": "전라남도 화순군 동면 대포리 248",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대암상회",
+      "address": "전라남도 화순군 동면 대포리 954",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정재호",
+      "address": "전라남도 화순군 화순읍 동구리 134",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "최상광",
+      "address": "전라남도 화순군 화순읍 유천리 47",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강성엽",
+      "address": "전라남도 화순군 화순읍 다지리 42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "윤근수",
+      "address": "전라남도 화순군 화순읍 이십곡리 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박주삼",
+      "address": "전라남도 화순군 화순읍 연양리 326",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "역전슈퍼",
+      "address": "전라남도 화순군 화순읍 벽라리 503-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대한슈퍼",
+      "address": "전라남도 화순군 화순읍 신기리 260-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수퍼미곡상회",
+      "address": "전라남도 화순군 화순읍 만연리 230",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰소비자구",
+      "address": "전라남도 화순군 화순읍 만연리 216",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "5일시장번영",
+      "address": "전라남도 화순군 화순읍 삼천리 630",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "공간아파트노",
+      "address": "전라남도 화순군 화순읍 교리 70-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미륭슈퍼",
+      "address": "전라남도 화순군 화순읍 광덕리 321-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모산상회",
+      "address": "전라남도 화순군 한천면 모산리 52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남판현",
+      "address": "전라남도 화순군 이양면 금능리 260",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개인",
+      "address": "전라남도 화순군 이양면 초방리 761",
+      "roadAddress": "전라남도 화순군 이양면 대덕길 13",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양유정",
+      "address": "전라남도 화순군 이양면 강성리 593",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "임종선",
+      "address": "전라남도 화순군 이양면 강성리 489",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문판식",
+      "address": "전라남도 화순군 이양면 강성리 83",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이병문",
+      "address": "전라남도 화순군 이양면 용반리 327",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박동식",
+      "address": "전라남도 화순군 이양면 용반리 327",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진병태",
+      "address": "전라남도 화순군 이양면 묵곡리 413",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "윤영애",
+      "address": "전라남도 화순군 이양면 묵곡리 513",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양회성",
+      "address": "전라남도 화순군 이양면 옥리 313",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오형열",
+      "address": "전라남도 화순군 이양면 품평리 293",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남북선",
+      "address": "전라남도 화순군 이양면 품평리 567",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "염규관",
+      "address": "전라남도 화순군 이양면 오류리 293-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "민길식",
+      "address": "전라남도 화순군 이양면 오류리 87",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "민래식",
+      "address": "전라남도 화순군 이양면 오류리 328",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "민병돈",
+      "address": "전라남도 화순군 이양면 오류리 238",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박길안",
+      "address": "전라남도 화순군 이양면 오류리 663-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김농선",
+      "address": "전라남도 화순군 이양면 율계리 119",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안병진",
+      "address": "전라남도 화순군 이양면 매정리 315",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김정수",
+      "address": "전라남도 화순군 능주면 잠정리 212-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화순슈퍼마켓",
+      "address": "전라남도 화순군 화순읍 교리 101-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유창1차슈퍼",
+      "address": "전라남도 화순군 화순읍 교리 200-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰소비자",
+      "address": "전라남도 화순군 화순읍 교리 191-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해성슈퍼",
+      "address": "전라남도 화순군 화순읍 향청리 152-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화순종합슈퍼",
+      "address": "전라남도 화순군 화순읍 향청리 93-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부흥슈퍼",
+      "address": "전라남도 화순군 화순읍 훈리 44-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켓",
+      "address": "전라남도 화순군 동복면 한천리 21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화순축협",
+      "address": "전라남도 화순군 화순읍 광덕리 300",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광덕하이퍼",
+      "address": "전라남도 화순군 화순읍 광덕리 138-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조은슈퍼",
+      "address": "전라남도 화순군 화순읍 삼천리 636-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "공간편의점",
+      "address": "전라남도 화순군 화순읍 일심리 823",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백아산사무소",
+      "address": "전라남도 화순군 백아면 노치리 산 63",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "싱싱 식품점",
+      "address": "전라남도 화순군 동면 오동리 109-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영벽정 식당",
+      "address": "전라남도 화순군 능주면 관영리 158-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이동슈퍼",
+      "address": "전라남도 화순군 화순읍 이십곡리 597",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운곡슈퍼",
+      "address": "전라남도 화순군 동면 운농리 426",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농공단지관리사무소",
+      "address": "전라남도 화순군 동면 대포리 1059",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광주슈퍼",
+      "address": "전라남도 화순군 화순읍 교리 224-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대화쇼핑타운",
+      "address": "전라남도 화순군 화순읍 광덕리 9-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "국제종합슈퍼",
+      "address": "전라남도 화순군 화순읍 훈리 51-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화순축산업협동조합",
+      "address": "전라남도 화순군 화순읍 향청리 150-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서라마트",
+      "address": "전라남도 화순군 화순읍 벽라리 37 서라아파트 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "배달슈퍼",
+      "address": "전라남도 화순군 화순읍 대리 114",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협전남 물류사업소",
+      "address": "전라남도 화순군 화순읍 광덕리 272",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "반장댁",
+      "address": "전라남도 화순군 화순읍 감도리 617",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "향청슈퍼마켓",
+      "address": "전라남도 화순군 화순읍 향청리 106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무지개하우스",
+      "address": "전라남도 화순군 동면 오동리 664",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아이마트",
+      "address": "전라남도 화순군 화순읍 일심리 670",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영빈식당",
+      "address": "전라남도 화순군 화순읍 유천리 20-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "열린마켓",
+      "address": "전라남도 화순군 화순읍 대리 97-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "케이마트 24시",
+      "address": "전라남도 화순군 화순읍 주도리 83",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린하이퍼마켓",
+      "address": "전라남도 화순군 화순읍 만연리 231",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다모아슈퍼",
+      "address": "전라남도 화순군 화순읍 광덕리 315",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "전라남도 화순군 화순읍 신기리 242-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이양농업협동조합",
+      "address": "전라남도 화순군 이양면 이양리 202-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화순축협능주지소",
+      "address": "전라남도 화순군 능주면 관영리 101-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가혜슈퍼",
+      "address": "전라남도 화순군 화순읍 일심리 10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화순사평자연휴양림",
+      "address": "전라남도 화순군 사평면 사수리 1128-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부영마트",
+      "address": "전라남도 화순군 화순읍 만연리 231 부영아파트상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "향청슈퍼",
+      "address": "전라남도 화순군 화순읍 향청리 7-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소망식품",
+      "address": "전라남도 화순군 화순읍 광덕리 292",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "전라남도 화순군 화순읍 신기리 392-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "위마트",
+      "address": "전라남도 화순군 화순읍 신기리 84-1 옥천빌딩 지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서라마트",
+      "address": "전라남도 화순군 화순읍 일심리 861",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화순에이마트",
+      "address": "전라남도 화순군 화순읍 광덕리 7-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "전라남도 화순군 화순읍 만연리 243",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호마트",
+      "address": "전라남도 화순군 화순읍 만연리 267-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유성슈퍼",
+      "address": "전라남도 화순군 화순읍 교리 106-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오리온문구슈퍼",
+      "address": "전라남도 화순군 화순읍 교리 90-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인아쇼핑",
+      "address": "전라남도 화순군 화순읍 대리 121",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대방마트",
+      "address": "전라남도 화순군 화순읍 만연리 241-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코스코미켓",
+      "address": "전라남도 화순군 화순읍 만연리 244",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동면우체국",
+      "address": "전라남도 화순군 동면 장동리 283",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "-",
+      "address": "전라남도 화순군 화순읍 서태리 990-6",
+      "roadAddress": "전라남도 화순군 화순읍 매화길 44-3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화순고려병원",
+      "address": "전라남도 화순군 화순읍 광덕리 163-1",
+      "roadAddress": "전라남도 화순군 화순읍 충의로 109",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홍용마트",
+      "address": "전라남도 화순군 화순읍 대리 155",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오성마트",
+      "address": "전라남도 화순군 화순읍 계소리 135-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부영소비자마트",
+      "address": "전라남도 화순군 화순읍 신기리 405-3 부영6차소비자상가 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름생활용품매장",
+      "address": "전라남도 화순군 화순읍 일심리 861 서라4차 402동 604호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안양산자연휴양림",
+      "address": "전라남도 화순군 이서면 안심리 산 168",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정원마트",
+      "address": "전라남도 화순군 화순읍 신기리 405-3 부영6차상가 109호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호남곱창",
+      "address": "전라남도 화순군 화순읍 만연리 215,216",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일심마트",
+      "address": "전라남도 화순군 화순읍 일심리 872-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화순농협이서지소",
+      "address": "전라남도 화순군 이서면 야사리 650-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협하나로마트",
+      "address": "전라남도 화순군 화순읍 삼천리 617-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전남학숙",
+      "address": "전라남도 화순군 화순읍 앵남리 872-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "북면농협온천지소",
+      "address": "전라남도 화순군 백아면 옥리 485-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한천면사무소",
+      "address": "전라남도 화순군 한천면 한계리 546-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "동산상회",
+      "address": "전라남도 화순군 한천면 동가리 391-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-02"
+    },
+    {
+      "name": "모산상회",
+      "address": "전라남도 화순군 한천면 모산리 52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-02"
+    },
+    {
+      "name": "방울수퍼",
+      "address": "전라남도 화순군 한천면 오음리 산 2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-02"
+    },
+    {
+      "name": "용암상회",
+      "address": "전라남도 화순군 한천면 한계리 612",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-02"
+    },
+    {
+      "name": "효산슈퍼",
+      "address": "전라남도 화순군 도곡면 효산리 703",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-04"
+    },
+    {
+      "name": "북면농협 온천지소",
+      "address": "전라남도 화순군 백아면 옥리 485-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-06"
+    },
+    {
+      "name": "수리상회",
+      "address": "전라남도 화순군 백아면 수리 368-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-06"
+    },
+    {
+      "name": "원리슈퍼",
+      "address": "전라남도 화순군 백아면 원리 240",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-06"
+    },
+    {
+      "name": "서유리상회",
+      "address": "전라남도 화순군 백아면 서유리 555",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-06"
+    },
+    {
+      "name": "도곡편의점",
+      "address": "전라남도 화순군 도곡면 원화리 346",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-03"
+    },
+    {
+      "name": "도곡슈퍼",
+      "address": "전라남도 화순군 도곡면 효산리 713-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-10-27"
+    },
+    {
+      "name": "천암상회",
+      "address": "전라남도 화순군 도곡면 천암리 156-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-20"
+    },
+    {
+      "name": "(주)도곡스파",
+      "address": "전라남도 화순군 도곡면 천암리 788",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-14"
+    },
+    {
+      "name": "공단매점",
+      "address": "전라남도 화순군 도곡면 대곡리 277",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-11-21"
+    },
+    {
+      "name": "미니스톱화순도곡점",
+      "address": "전라남도 화순군 도곡면 원화리 618",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-02-05"
+    },
+    {
+      "name": "화순군",
+      "address": "전라남도 화순군 화순읍 훈리 35",
+      "roadAddress": "전라남도 화순군 화순읍 동헌길 23",
+      "status": "영업/정상",
+      "licenseDate": "2008-01-02"
+    }
+  ]
+}

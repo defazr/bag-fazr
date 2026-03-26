@@ -1,0 +1,33 @@
+{
+  "region": "광주광역시",
+  "regionSlug": "gwangju",
+  "updatedAt": "2026-03-26",
+  "totalCount": 12,
+  "districts": [
+    {
+      "district": "북구",
+      "districtSlug": "gjbukgu",
+      "count": 0
+    },
+    {
+      "district": "동구",
+      "districtSlug": "gjdonggu",
+      "count": 0
+    },
+    {
+      "district": "남구",
+      "districtSlug": "gjnamgu",
+      "count": 0
+    },
+    {
+      "district": "서구",
+      "districtSlug": "gjseogu",
+      "count": 0
+    },
+    {
+      "district": "광산구",
+      "districtSlug": "gwangsan",
+      "count": 12
+    }
+  ]
+}

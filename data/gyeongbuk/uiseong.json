@@ -1,0 +1,1452 @@
+{
+  "region": "경상북도",
+  "regionSlug": "gyeongbuk",
+  "district": "의성군",
+  "districtSlug": "uiseong",
+  "updatedAt": "2026-03-26",
+  "totalCount": 206,
+  "stores": [
+    {
+      "name": "이마트24 의성봉양점",
+      "address": "경상북도 의성군 봉양면 화전리 129 파랑채 603호",
+      "roadAddress": "경상북도 의성군 봉양면 원지1길 64-1, 603호 (파랑채)",
+      "status": "영업/정상",
+      "licenseDate": "2026-03-04"
+    },
+    {
+      "name": "동부상회",
+      "address": "경상북도 의성군 비안면 동부리 301-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-03"
+    },
+    {
+      "name": "미흫라사",
+      "address": "경상북도 의성군 안계면 용기리 850-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대상회",
+      "address": "경상북도 의성군 안계면 용기리 861",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 의성군 안계면 용기리 364",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "토매상회",
+      "address": "경상북도 의성군 안계면 토매리 171-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "토구상회",
+      "address": "경상북도 의성군 안계면 토매리 167",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한일상회",
+      "address": "경상북도 의성군 안계면 토매리 119-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안계 양지APT관리실",
+      "address": "경상북도 의성군 안계면 토매리 195",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "위양상회",
+      "address": "경상북도 의성군 안계면 위양리 314",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "교촌상회",
+      "address": "경상북도 의성군 안계면 교촌리 422",
+      "roadAddress": "경상북도 의성군 안계면 서부로 1345",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "교촌상회",
+      "address": "경상북도 의성군 안계면 교촌리 241",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "리장댁",
+      "address": "경상북도 의성군 안계면 양곡리 821",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양곡담배포",
+      "address": "경상북도 의성군 안계면 양곡리 645",
+      "roadAddress": "경상북도 의성군 안계면 양곡2길 225-6",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 의성군 안계면 양곡리 981",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 의성군 안계면 시안리 217",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "반장댁",
+      "address": "경상북도 의성군 안계면 시안리 91",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대진약국",
+      "address": "경상북도 의성군 다인면 서릉리 146-6",
+      "roadAddress": "경상북도 의성군 다인면 서릉길 61",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을상회",
+      "address": "경상북도 의성군 다인면 서릉리 202-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다인제과사",
+      "address": "경상북도 의성군 다인면 서릉리 126-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다인종합",
+      "address": "경상북도 의성군 다인면 서릉리 146-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일신상회",
+      "address": "경상북도 의성군 다인면 서릉리 153-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남산슈퍼",
+      "address": "경상북도 의성군 다인면 서릉리 70",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다인슈퍼",
+      "address": "경상북도 의성군 다인면 서릉리 146-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백일슈퍼",
+      "address": "경상북도 의성군 다인면 서릉리 152",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리 상회",
+      "address": "경상북도 의성군 다인면 서릉리 197-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화신지업사",
+      "address": "경상북도 의성군 다인면 서릉리 148-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GO마트",
+      "address": "경상북도 의성군 다인면 서릉리 57-8",
+      "roadAddress": "경상북도 의성군 다인면 서부로 2744",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-19"
+    },
+    {
+      "name": "대흥농약사",
+      "address": "경상북도 의성군 안평면 박곡리 952-9",
+      "roadAddress": "경상북도 의성군 안평면 봉호로 923-6",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-04"
+    },
+    {
+      "name": "대성문구사",
+      "address": "경상북도 의성군 안평면 박곡리 901-12",
+      "roadAddress": "경상북도 의성군 안평면 봉호로 937-1",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-04"
+    },
+    {
+      "name": "박곡상회",
+      "address": "경상북도 의성군 안평면 박곡리 756-2",
+      "roadAddress": "경상북도 의성군 안평면 안평의성로 122",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-04"
+    },
+    {
+      "name": "대흥상회",
+      "address": "경상북도 의성군 안평면 박곡리 948-1",
+      "roadAddress": "경상북도 의성군 안평면 봉호로 916",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-04"
+    },
+    {
+      "name": "중앙상회",
+      "address": "경상북도 의성군 안평면 박곡리 901-5",
+      "roadAddress": "경상북도 의성군 안평면 봉호로 939-1",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-30"
+    },
+    {
+      "name": "성광마트",
+      "address": "경상북도 의성군 의성읍 원당리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-17"
+    },
+    {
+      "name": "새의성농협 사곡지점",
+      "address": "경상북도 의성군 사곡면 양지리 517-7 새의성농협 사곡지점",
+      "roadAddress": "경상북도 의성군 사곡면 의성사곡로 975 (새의성농협 사곡지점)",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-27"
+    },
+    {
+      "name": "대성상회",
+      "address": "",
+      "roadAddress": "경상북도 의성군 사곡면 의성사곡로 990",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-04"
+    },
+    {
+      "name": "K마트",
+      "address": "경상북도 의성군 의성읍 도서리 91번지 26호",
+      "roadAddress": "경상북도 의성군 의성읍 중앙길 17",
+      "status": "영업/정상",
+      "licenseDate": "2012-12-26"
+    },
+    {
+      "name": "스마일1,000해피D/C마트",
+      "address": "",
+      "roadAddress": "경상북도 의성군 의성읍 중앙길 44",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-25"
+    },
+    {
+      "name": "현리구판장",
+      "address": "경상북도 의성군 가음면 현리리 1062-1",
+      "roadAddress": "경상북도 의성군 가음면 현리낙전길 111",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-30"
+    },
+    {
+      "name": "신평농협교안지점하나로마트",
+      "address": "",
+      "roadAddress": "경상북도 의성군 신평면 봉호로 2412",
+      "status": "영업/정상",
+      "licenseDate": "2014-02-24"
+    },
+    {
+      "name": "안계농협 비안지점",
+      "address": "",
+      "roadAddress": "경상북도 의성군 비안면 강변길 71",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-26"
+    },
+    {
+      "name": "가머리상회",
+      "address": "",
+      "roadAddress": "경상북도 의성군 비안면 강변길 89-1",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-27"
+    },
+    {
+      "name": "대성상회",
+      "address": "",
+      "roadAddress": "경상북도 의성군 비안면 서부1길 1",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-27"
+    },
+    {
+      "name": "용천수퍼",
+      "address": "",
+      "roadAddress": "경상북도 의성군 비안면 강변길 45",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-27"
+    },
+    {
+      "name": "팔구사",
+      "address": "경상북도 의성군 봉양면 화전리 1137-11",
+      "roadAddress": "경상북도 의성군 봉양면 도리원6길 29",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "화창할인유통",
+      "address": "경상북도 의성군 봉양면 화전리 100-3",
+      "roadAddress": "경상북도 의성군 봉양면 도리원1길 62-1",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "홈마트",
+      "address": "경상북도 의성군 봉양면 화전리 97-2",
+      "roadAddress": "경상북도 의성군 봉양면 도리원1길 66-1",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "의성중부농업협동조합",
+      "address": "경상북도 의성군 봉양면 화전리 408",
+      "roadAddress": "경상북도 의성군 봉양면 강변길 957-10",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "만물상회",
+      "address": "경상북도 의성군 봉양면 화전리 91",
+      "roadAddress": "경상북도 의성군 봉양면 도리원1길 81",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "탑산약수온천",
+      "address": "경상북도 의성군 봉양면 구산리 1635",
+      "roadAddress": "경상북도 의성군 봉양면 도리원2길 88-42",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "의성IC낚시",
+      "address": "경상북도 의성군 봉양면 도원리 993-17 11통1반",
+      "roadAddress": "경상북도 의성군 봉양면 경북대로 4354-1",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-06"
+    },
+    {
+      "name": "세븐일레븐(의성봉양점)",
+      "address": "경상북도 의성군 봉양면 화전리 118-8",
+      "roadAddress": "경상북도 의성군 봉양면 도리원1길 37",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-24"
+    },
+    {
+      "name": "만물상회",
+      "address": "경상북도 의성군 단밀면 속암리 171",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "단밀농협협동조합",
+      "address": "경상북도 의성군 단밀면 속암리 171-5",
+      "roadAddress": "경상북도 의성군 단밀면 중동단밀로 959",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "팔등슈퍼",
+      "address": "경상북도 의성군 단밀면 주선리 448",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "낙정정류장",
+      "address": "경상북도 의성군 단밀면 낙정리 596",
+      "roadAddress": "경상북도 의성군 단밀면 도안로 825",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "낙정백화점",
+      "address": "경상북도 의성군 단밀면 낙정리 593",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "낙정마트",
+      "address": "",
+      "roadAddress": "경상북도 의성군 단밀면 도안로 822-1",
+      "status": "영업/정상",
+      "licenseDate": "2014-02-12"
+    },
+    {
+      "name": "쌍호상회",
+      "address": "",
+      "roadAddress": "경상북도 의성군 안사면 안사풍천길 1132",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-01"
+    },
+    {
+      "name": "신평농협",
+      "address": "",
+      "roadAddress": "경상북도 의성군 안사면 안사3길 29",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-01"
+    },
+    {
+      "name": "행복편의점",
+      "address": "",
+      "roadAddress": "경상북도 의성군 의성읍 후죽2길 3",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-10"
+    },
+    {
+      "name": "세븐일레븐 의성역점",
+      "address": "",
+      "roadAddress": "경상북도 의성군 의성읍 후죽2길 3",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-10"
+    },
+    {
+      "name": "금성농협춘산지점",
+      "address": "",
+      "roadAddress": "경상북도 의성군 춘산면 금성현서로 1488",
+      "status": "영업/정상",
+      "licenseDate": "2015-01-15"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "",
+      "roadAddress": "경상북도 의성군 춘산면 빙계계곡길 131",
+      "status": "영업/정상",
+      "licenseDate": "2015-07-31"
+    },
+    {
+      "name": "서의성농업협동조합 하나로마트",
+      "address": "경상북도 의성군 구천면 유산리 72",
+      "roadAddress": "경상북도 의성군 구천면 소보안계로 1583 (서의성농협 하나로마트)",
+      "status": "영업/정상",
+      "licenseDate": "2016-03-10"
+    },
+    {
+      "name": "황금할인마트",
+      "address": "",
+      "roadAddress": "경상북도 의성군 봉양면 도리원1길 40",
+      "status": "영업/정상",
+      "licenseDate": "2016-12-28"
+    },
+    {
+      "name": "새의성농업협동조합",
+      "address": "",
+      "roadAddress": "경상북도 의성군 옥산면 입암1길 42-5 (옥산농협)",
+      "status": "영업/정상",
+      "licenseDate": "2017-02-14"
+    },
+    {
+      "name": "CU의성상리점",
+      "address": "경상북도 의성군 의성읍 상리리 707-11",
+      "roadAddress": "경상북도 의성군 의성읍 동서1길 87, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2018-04-13"
+    },
+    {
+      "name": "장군식자재",
+      "address": "경상북도 의성군 의성읍 도동리 82-3",
+      "roadAddress": "경상북도 의성군 의성읍 동서1길 99, 장군식자재",
+      "status": "영업/정상",
+      "licenseDate": "2018-04-30"
+    },
+    {
+      "name": "의성축산업협동조합",
+      "address": "경상북도 의성군 의성읍 후죽리 484-20 의성축협",
+      "roadAddress": "경상북도 의성군 의성읍 군청길 7, 의성축협",
+      "status": "영업/정상",
+      "licenseDate": "2019-01-22"
+    },
+    {
+      "name": "의성중부농협 안사지점",
+      "address": "경상북도 의성군 안사면 안사리 731-3",
+      "roadAddress": "경상북도 의성군 안사면 안사3길 29",
+      "status": "영업/정상",
+      "licenseDate": "2019-02-28"
+    },
+    {
+      "name": "남양상회",
+      "address": "경상북도 의성군 의성읍 후죽리 628-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2020-04-10"
+    },
+    {
+      "name": "한피싱",
+      "address": "경상북도 의성군 봉양면 도원리 993-17",
+      "roadAddress": "경상북도 의성군 봉양면 경북대로 4354-1",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-10"
+    },
+    {
+      "name": "박가정",
+      "address": "경상북도 의성군 의성읍 상리리 709-9",
+      "roadAddress": "경상북도 의성군 의성읍 동서1길 72",
+      "status": "영업/정상",
+      "licenseDate": "2020-07-17"
+    },
+    {
+      "name": "지에스(GS)25 의성휴먼시아점",
+      "address": "경상북도 의성군 의성읍 상리리 767 상리휴먼시아",
+      "roadAddress": "경상북도 의성군 의성읍 동서1길 116, 상리휴먼시아 가동 101~104호",
+      "status": "영업/정상",
+      "licenseDate": "2020-07-28"
+    },
+    {
+      "name": "지에스(GS25)25 의성군청점",
+      "address": "경상북도 의성군 의성읍 후죽리 508-23",
+      "roadAddress": "경상북도 의성군 의성읍 군청길 21",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-30"
+    },
+    {
+      "name": "낙정상회",
+      "address": "경상북도 의성군 단밀면 낙정리 596",
+      "roadAddress": "경상북도 의성군 단밀면 도안로 825",
+      "status": "영업/정상",
+      "licenseDate": "2021-02-10"
+    },
+    {
+      "name": "이마트24 의성봉양점",
+      "address": "경상북도 의성군 봉양면 화전리 463",
+      "roadAddress": "경상북도 의성군 봉양면 화전길 1-1",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-22"
+    },
+    {
+      "name": "노마드",
+      "address": "경상북도 의성군 가음면 현리리 900",
+      "roadAddress": "경상북도 의성군 가음면 빙계계곡길 51",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-27"
+    },
+    {
+      "name": "씨유 의성봉양중앙점",
+      "address": "경상북도 의성군 봉양면 화전리 106-8",
+      "roadAddress": "경상북도 의성군 봉양면 도리원1길 53-1, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-08"
+    },
+    {
+      "name": "CU의성북원점",
+      "address": "경상북도 의성군 의성읍 후죽리 470-1",
+      "roadAddress": "경상북도 의성군 의성읍 문소3길 114",
+      "status": "영업/정상",
+      "licenseDate": "2021-11-24"
+    },
+    {
+      "name": "이마트24의성에이스점",
+      "address": "경상북도 의성군 의성읍 후죽리 630-8",
+      "roadAddress": "경상북도 의성군 의성읍 중앙길 57",
+      "status": "영업/정상",
+      "licenseDate": "2021-12-24"
+    },
+    {
+      "name": "지에스(GS)25 의성도리원점",
+      "address": "경상북도 의성군 봉양면 화전리 89-7",
+      "roadAddress": "경상북도 의성군 봉양면 도리원1길 85",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-27"
+    },
+    {
+      "name": "천일슈퍼",
+      "address": "경상북도 의성군 의성읍 후죽리 858-2",
+      "roadAddress": "경상북도 의성군 의성읍 북원1길 3",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-01"
+    },
+    {
+      "name": "(주)조은에너지 조은주유소",
+      "address": "경상북도 의성군 의성읍 업리 1119-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-08"
+    },
+    {
+      "name": "의성로컬푸드 협동조합",
+      "address": "경상북도 의성군 의성읍 중리리 658-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-18"
+    },
+    {
+      "name": "(주)코리아세븐 의성북원점",
+      "address": "경상북도 의성군 의성읍 후죽리 858-54",
+      "roadAddress": "경상북도 의성군 의성읍 북부길 6",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-02"
+    },
+    {
+      "name": "한양종합건축자재",
+      "address": "경상북도 의성군 단촌면 하화리 1122-8",
+      "roadAddress": "경상북도 의성군 단촌면 장터길 18",
+      "status": "영업/정상",
+      "licenseDate": "2023-01-04"
+    },
+    {
+      "name": "새의성농업협동조합",
+      "address": "경상북도 의성군 점곡면 서변리 131-4 의성동부농협",
+      "roadAddress": "경상북도 의성군 점곡면 점곡길 63, 의성동부농협",
+      "status": "영업/정상",
+      "licenseDate": "2023-04-24"
+    },
+    {
+      "name": "세븐일레븐 의성금성점",
+      "address": "경상북도 의성군 금성면 산운리 650-2",
+      "roadAddress": "경상북도 의성군 금성면 금성현서로 17",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-10"
+    },
+    {
+      "name": "금성농협 경제종합타운 하나로마트",
+      "address": "경상북도 의성군 금성면 산운리 667-19",
+      "roadAddress": "경상북도 의성군 금성면 동부로 2281",
+      "status": "영업/정상",
+      "licenseDate": "2023-06-29"
+    },
+    {
+      "name": "CU(의성청구제니스점)",
+      "address": "경상북도 의성군 의성읍 중리리 735-1 의성청구제네스1단지",
+      "roadAddress": "경상북도 의성군 의성읍 충효로 75 (의성청구제네스1단지)",
+      "status": "영업/정상",
+      "licenseDate": "2024-06-24"
+    },
+    {
+      "name": "단밀캠핑매점",
+      "address": "경상북도 의성군 단밀면 낙정리 475-16",
+      "roadAddress": "경상북도 의성군 단밀면 도안로 734",
+      "status": "영업/정상",
+      "licenseDate": "2024-08-29"
+    },
+    {
+      "name": "(주)더하기",
+      "address": "경상북도 의성군 가음면 현리리 900",
+      "roadAddress": "경상북도 의성군 가음면 빙계계곡길 51",
+      "status": "영업/정상",
+      "licenseDate": "2024-08-28"
+    },
+    {
+      "name": "의성문구센터",
+      "address": "경상북도 의성군 의성읍 후죽리 614-12",
+      "roadAddress": "경상북도 의성군 의성읍 동서2길 31",
+      "status": "영업/정상",
+      "licenseDate": "2024-09-09"
+    },
+    {
+      "name": "GS25 의성탑클래스점",
+      "address": "경상북도 의성군 의성읍 후죽리 471-4",
+      "roadAddress": "경상북도 의성군 의성읍 문소3길 108, 102호",
+      "status": "영업/정상",
+      "licenseDate": "2024-10-24"
+    },
+    {
+      "name": "CU의성안계점",
+      "address": "경상북도 의성군 안계면 용기리 1116-77",
+      "roadAddress": "경상북도 의성군 안계면 용기12길 56, 주2동 1층 101호",
+      "status": "영업/정상",
+      "licenseDate": "2024-11-15"
+    },
+    {
+      "name": "CU의성비안점",
+      "address": "경상북도 의성군 비안면 이두리 705-4",
+      "roadAddress": "경상북도 의성군 비안면 강변길 57-5",
+      "status": "영업/정상",
+      "licenseDate": "2025-04-18"
+    },
+    {
+      "name": "CU의성단촌역점",
+      "address": "경상북도 의성군 단촌면 하화리 1105-2",
+      "roadAddress": "경상북도 의성군 단촌면 장터길 29-2",
+      "status": "영업/정상",
+      "licenseDate": "2025-05-02"
+    },
+    {
+      "name": "CU의성골든점",
+      "address": "경상북도 의성군 의성읍 상리리 554-11 골든렉시움",
+      "roadAddress": "경상북도 의성군 의성읍 의성사곡로 2, 상가동 2층 202호 (골든렉시움)",
+      "status": "영업/정상",
+      "licenseDate": "2025-06-11"
+    },
+    {
+      "name": "CU의성탑리점",
+      "address": "경상북도 의성군 금성면 대리리 59-5 , 1층",
+      "roadAddress": "경상북도 의성군 금성면 탑리길 31, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2025-09-19"
+    },
+    {
+      "name": "이마트24 의성동서점",
+      "address": "경상북도 의성군 의성읍 도동리 82-1",
+      "roadAddress": "경상북도 의성군 의성읍 동서1길 107, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2025-11-06"
+    },
+    {
+      "name": "의성농업협동조합남부지점",
+      "address": "경상북도 의성군 의성읍 후죽리 486-22 의성농협",
+      "roadAddress": "경상북도 의성군 의성읍 군청길 15, 의성농협",
+      "status": "영업/정상",
+      "licenseDate": "2026-01-06"
+    },
+    {
+      "name": "청송슈퍼",
+      "address": "경상북도 의성군 옥산면 구성리 448-1",
+      "roadAddress": "경상북도 의성군 옥산면 신감옥산로 1178-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "삼양슈퍼",
+      "address": "경상북도 의성군 옥산면 구성리 463-1",
+      "roadAddress": "경상북도 의성군 옥산면 신감옥산로 1172",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상북도 의성군 옥산면 정자리 112",
+      "roadAddress": "경상북도 의성군 옥산면 정자구성길 22-16",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상북도 의성군 옥산면 정자리 75",
+      "roadAddress": "경상북도 의성군 옥산면 정자구성길 33",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "성동슈퍼",
+      "address": "경상북도 의성군 옥산면 정자리 1105-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "옥산슈퍼",
+      "address": "경상북도 의성군 옥산면 입암리 1105-46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경상북도 의성군 옥산면 입암리 1105-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "구판장",
+      "address": "경상북도 의성군 옥산면 구성리 401",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-28"
+    },
+    {
+      "name": "옥성상회",
+      "address": "경상북도 의성군 춘산면 옥정리 415",
+      "roadAddress": "경상북도 의성군 춘산면 옥정2길 14-1",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-01"
+    },
+    {
+      "name": "화신상회",
+      "address": "경상북도 의성군 춘산면 옥정리 393-3",
+      "roadAddress": "경상북도 의성군 춘산면 금성현서로 1527",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-06"
+    },
+    {
+      "name": "단북농협연쇄점",
+      "address": "경상북도 의성군 단북면 이연리 743",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리상회",
+      "address": "경상북도 의성군 단북면 이연리 725",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이연상회",
+      "address": "경상북도 의성군 단북면 이연리 760",
+      "roadAddress": "경상북도 의성군 단북면 중련길 13",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이실상회",
+      "address": "경상북도 의성군 단북면 이연리 839-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "묵계상회",
+      "address": "경상북도 의성군 단북면 이연리 443-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "노연상회",
+      "address": "경상북도 의성군 단북면 정안리 493-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "노연상회",
+      "address": "경상북도 의성군 단북면 정안리 666-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용현상회",
+      "address": "경상북도 의성군 단북면 정안리 548",
+      "roadAddress": "경상북도 의성군 단북면 단북다인로 1-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오정상회",
+      "address": "경상북도 의성군 단북면 정안리 784",
+      "roadAddress": "경상북도 의성군 단북면 오정길 55",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우제상회",
+      "address": "경상북도 의성군 단북면 연제리 665",
+      "roadAddress": "경상북도 의성군 단북면 연제2길 26",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "효제상회",
+      "address": "경상북도 의성군 단북면 효제리 146",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화신상회",
+      "address": "경상북도 의성군 춘산면 옥정리 392-1",
+      "roadAddress": "경상북도 의성군 춘산면 금성현서로 1527",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-04"
+    },
+    {
+      "name": "현주슈퍼",
+      "address": "경상북도 의성군 단촌면 세촌리 1078",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-27"
+    },
+    {
+      "name": "단촌슈퍼",
+      "address": "경상북도 의성군 단촌면 세촌리 818-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-27"
+    },
+    {
+      "name": "구구슈퍼",
+      "address": "경상북도 의성군 단촌면 하화리 1123",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-27"
+    },
+    {
+      "name": "성림슈퍼",
+      "address": "경상북도 의성군 단촌면 하화리 1178-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-27"
+    },
+    {
+      "name": "삼거리마트",
+      "address": "경상북도 의성군 단촌면 하화리 1148-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-28"
+    },
+    {
+      "name": "동신슈퍼",
+      "address": "경상북도 의성군 단촌면 하화리 1123-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-28"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경상북도 의성군 단촌면 하화리 1097-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-28"
+    },
+    {
+      "name": "문화슈퍼",
+      "address": "경상북도 의성군 단촌면 하화리 1124-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-28"
+    },
+    {
+      "name": "세촌슈퍼",
+      "address": "경상북도 의성군 단촌면 세촌리 818-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-28"
+    },
+    {
+      "name": "화랑당",
+      "address": "경상북도 의성군 춘산면 옥정리 392-1",
+      "roadAddress": "경상북도 의성군 춘산면 옥정2길 27-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-04-28"
+    },
+    {
+      "name": "빙계상회",
+      "address": "경상북도 의성군 춘산면 빙계리 914",
+      "roadAddress": "경상북도 의성군 춘산면 빙계계곡길 127",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-01"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "경상북도 의성군 가음면 가산리 875-3",
+      "roadAddress": "경상북도 의성군 가음면 산성가음로 2201-1",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-30"
+    },
+    {
+      "name": "상영문구",
+      "address": "경상북도 의성군 가음면 가산리 872-3",
+      "roadAddress": "경상북도 의성군 가음면 산성가음로 2208",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-30"
+    },
+    {
+      "name": "대영슈퍼",
+      "address": "경상북도 의성군 가음면 가산리 873-3",
+      "roadAddress": "경상북도 의성군 가음면 금성현서로 472-3",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-30"
+    },
+    {
+      "name": "가음상회",
+      "address": "경상북도 의성군 가음면 장리 1346-12",
+      "roadAddress": "경상북도 의성군 가음면 금성현서로 460-1",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-30"
+    },
+    {
+      "name": "담배가게",
+      "address": "경상북도 의성군 가음면 장리 1351-4",
+      "roadAddress": "경상북도 의성군 가음면 금성현서로 455-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아리랑마트",
+      "address": "경상북도 의성군 의성읍 도서리 91-23",
+      "roadAddress": "경상북도 의성군 의성읍 구봉길 249",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화신상회",
+      "address": "경상북도 의성군 의성읍 중리리 866-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "cu의성중앙점",
+      "address": "경상북도 의성군 의성읍 후죽리 585-1",
+      "roadAddress": "경상북도 의성군 의성읍 중앙길 74",
+      "status": "영업/정상",
+      "licenseDate": "2012-12-26"
+    },
+    {
+      "name": "애라상회",
+      "address": "경상북도 의성군 의성읍 후죽리 827-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)후레쉬마트",
+      "address": "경상북도 의성군 의성읍 후죽리 836-1",
+      "roadAddress": "경상북도 의성군 의성읍 문소3길 105",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-04"
+    },
+    {
+      "name": "한일마트",
+      "address": "경상북도 의성군 의성읍 후죽리 761-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-06"
+    },
+    {
+      "name": "금성상회",
+      "address": "경상북도 의성군 점곡면 사촌리 232",
+      "roadAddress": "경상북도 의성군 점곡면 점곡길 27",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경상북도 의성군 점곡면 서변리 213",
+      "roadAddress": "경상북도 의성군 점곡면 서변길 2",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "만물상회",
+      "address": "경상북도 의성군 점곡면 서변리 113-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "고향슈퍼",
+      "address": "경상북도 의성군 점곡면 서변리 112-2",
+      "roadAddress": "경상북도 의성군 점곡면 점곡길 70",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "일신상회",
+      "address": "경상북도 의성군 점곡면 서변리 114-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "백화상회",
+      "address": "경상북도 의성군 점곡면 서변리 192",
+      "roadAddress": "경상북도 의성군 점곡면 점곡길 43-3",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "사촌문구사",
+      "address": "경상북도 의성군 점곡면 사촌리 215",
+      "roadAddress": "경상북도 의성군 점곡면 점곡길 21",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "제일상회",
+      "address": "경상북도 의성군 점곡면 사촌리 117-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경상북도 의성군 점곡면 사촌리 131-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "신감가게",
+      "address": "경상북도 의성군 사곡면 신감리 635",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-05"
+    },
+    {
+      "name": "제일상회",
+      "address": "경상북도 의성군 사곡면 양지리 527-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-20"
+    },
+    {
+      "name": "월평가게",
+      "address": "경상북도 의성군 사곡면 양지리 107",
+      "roadAddress": "경상북도 의성군 사곡면 양지3길 21",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-05"
+    },
+    {
+      "name": "창영슈퍼",
+      "address": "경상북도 의성군 금성면 대리리 125-2,125-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-21"
+    },
+    {
+      "name": "한양유통",
+      "address": "경상북도 의성군 금성면 대리리 19-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-24"
+    },
+    {
+      "name": "탑리상회",
+      "address": "경상북도 의성군 금성면 대리리 19-18, 19-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-24"
+    },
+    {
+      "name": "영화상회",
+      "address": "경상북도 의성군 금성면 대리리 7-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-23"
+    },
+    {
+      "name": "영신상회",
+      "address": "경상북도 의성군 금성면 대리리 62-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "문창서점",
+      "address": "경상북도 의성군 금성면 대리리 19-20,20-1,22-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-30"
+    },
+    {
+      "name": "황태임",
+      "address": "경상북도 의성군 금성면 대리리 124-5, 123-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "대명상회",
+      "address": "경상북도 의성군 금성면 대리리 63-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "삼성슈퍼",
+      "address": "경상북도 의성군 금성면 대리리 6-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-19"
+    },
+    {
+      "name": "덕일슈퍼",
+      "address": "경상북도 의성군 금성면 대리리 6-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-17"
+    },
+    {
+      "name": "탑마트",
+      "address": "경상북도 의성군 금성면 대리리 30-46, 30-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-15"
+    },
+    {
+      "name": "의성축협 금성지소",
+      "address": "경상북도 의성군 금성면 대리리 13-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-15"
+    },
+    {
+      "name": "구천농협",
+      "address": "경상북도 의성군 구천면 유산리 73",
+      "roadAddress": "경상북도 의성군 구천면 소보안계로 1583",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "단밀농협",
+      "address": "경상북도 의성군 단밀면 속암리 95",
+      "roadAddress": "경상북도 의성군 단밀면 주속길 106",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물상회",
+      "address": "경상북도 의성군 단밀면 속암리 171",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔등슈퍼",
+      "address": "경상북도 의성군 단밀면 주선리 448",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "낙정백화점",
+      "address": "경상북도 의성군 단밀면 낙정리 593",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "낙정정류장",
+      "address": "경상북도 의성군 단밀면 낙정리 596",
+      "roadAddress": "경상북도 의성군 단밀면 도안로 825",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성창상회",
+      "address": "경상북도 의성군 안계면 용기리 825-1",
+      "roadAddress": "경상북도 의성군 안계면 용기8길 15",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용기상회",
+      "address": "경상북도 의성군 안계면 용기리 836",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선창상회",
+      "address": "경상북도 의성군 안계면 용기리 827",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주부소비센타",
+      "address": "경상북도 의성군 안계면 용기리 834",
+      "roadAddress": "경상북도 의성군 안계면 안계길 149",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울상회",
+      "address": "경상북도 의성군 안계면 용기리 827-55",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일진슈퍼",
+      "address": "경상북도 의성군 안계면 용기리 821-23",
+      "roadAddress": "경상북도 의성군 안계면 용기8길 21",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍국상회",
+      "address": "경상북도 의성군 안계면 용기리 798-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일상회",
+      "address": "경상북도 의성군 안계면 용기리 794-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용삼슈퍼",
+      "address": "경상북도 의성군 안계면 용기리 868-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시온문구사",
+      "address": "경상북도 의성군 안계면 용기리 857-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "효성슈퍼",
+      "address": "경상북도 의성군 안계면 용기리 827",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일직슈퍼",
+      "address": "경상북도 의성군 안계면 용기리 856-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대상회",
+      "address": "경상북도 의성군 안계면 용기리 827-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동명상회",
+      "address": "경상북도 의성군 안계면 용기리 843-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시장상회",
+      "address": "경상북도 의성군 안계면 용기리 467",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "경상북도 의성군 안계면 용기리 481",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "칠칠상회",
+      "address": "경상북도 의성군 안계면 용기리 507-55",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안계동아슈퍼",
+      "address": "경상북도 의성군 안계면 양곡리 843-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신성상회",
+      "address": "경상북도 의성군 안계면 용기리 469-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "퀸마트",
+      "address": "경상북도 의성군 안계면 용기리 858-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영영상회",
+      "address": "경상북도 의성군 안계면 용기리 507",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안계농협 연쇄점",
+      "address": "경상북도 의성군 안계면 용기리 469-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경상북도 의성군 안계면 용기리 918-74",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명성약국",
+      "address": "경상북도 의성군 안계면 용기리 850-119",
+      "roadAddress": "경상북도 의성군 안계면 안계길 172-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "율리슈퍼",
+      "address": "경상북도 의성군 안계면 용기리 867",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "목로슈퍼",
+      "address": "경상북도 의성군 안계면 용기리 916-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "궁전상회",
+      "address": "경상북도 의성군 안계면 용기리 850-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "민이슈퍼",
+      "address": "경상북도 의성군 안계면 용기리 888",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔팔상회",
+      "address": "경상북도 의성군 안계면 용기리 916-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    }
+  ]
+}

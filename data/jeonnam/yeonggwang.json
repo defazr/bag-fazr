@@ -1,0 +1,2411 @@
+{
+  "region": "전라남도",
+  "regionSlug": "jeonnam",
+  "district": "영광군",
+  "districtSlug": "yeonggwang",
+  "updatedAt": "2026-03-26",
+  "totalCount": 343,
+  "stores": [
+    {
+      "name": "골목상회",
+      "address": "전라남도 영광군 영광읍 무령리 223-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "경찰서 구내 식당",
+      "address": "전라남도 영광군 영광읍 무령리 230",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "강슈퍼",
+      "address": "전라남도 영광군 영광읍 백학리 22-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "명량슈터",
+      "address": "전라남도 영광군 영광읍 백학리 58-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "전라남도 영광군 영광읍 백학리 115",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "전라남도 영광군 영광읍 백학리 337-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "신라슈퍼",
+      "address": "전라남도 영광군 영광읍 백학리 134",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "전라남도 영광군 영광읍 백학리 375",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "흥덕슈퍼",
+      "address": "전라남도 영광군 영광읍 백학리 382-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "양지슈퍼",
+      "address": "전라남도 영광군 영광읍 백학리 31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "청과슈퍼",
+      "address": "전라남도 영광군 영광읍 도동리 175",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "동신슈퍼",
+      "address": "전라남도 영광군 영광읍 도동리 180",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "재연슈퍼",
+      "address": "전라남도 영광군 영광읍 도동리 210",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "연린글방",
+      "address": "전라남도 영광군 영광읍 도동리 237",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "도동슈퍼",
+      "address": "전라남도 영광군 영광읍 도동리 237",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "금산슈퍼",
+      "address": "전라남도 영광군 영광읍 도동리 253-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "생계슈퍼",
+      "address": "전라남도 영광군 영광읍 도동리 288-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "맨션슈퍼",
+      "address": "전라남도 영광군 영광읍 도동리 304-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "선학슈퍼",
+      "address": "전라남도 영광군 영광읍 도동리 346-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "해광슈퍼",
+      "address": "전라남도 영광군 영광읍 도동리 103-3",
+      "roadAddress": "전라남도 영광군 영광읍 중앙로 136",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "해룡슈퍼",
+      "address": "전라남도 영광군 영광읍 남천리 5-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "생조개 명가",
+      "address": "전라남도 영광군 영광읍 남천리 52-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "함평슈퍼",
+      "address": "전라남도 영광군 영광읍 남천리 118-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대원슈퍼",
+      "address": "전라남도 영광군 영광읍 남천리 140-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "코사마트",
+      "address": "전라남도 영광군 영광읍 남천리 182",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "맛 자랑",
+      "address": "전라남도 영광군 영광읍 남천리 301-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "와룡슈퍼",
+      "address": "전라남도 영광군 영광읍 남천리 313",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "칠거리슈퍼",
+      "address": "전라남도 영광군 영광읍 남천리 330-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "영광상회",
+      "address": "전라남도 영광군 영광읍 남천리 352-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "명진철물",
+      "address": "전라남도 영광군 영광읍 단주리 581-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "축협본소판매",
+      "address": "전라남도 영광군 영광읍 남천리 304-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "축협동부판매",
+      "address": "전라남도 영광군 영광읍 남천리 304-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "태성슈퍼",
+      "address": "전라남도 영광군 영광읍 신하리 744",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대중상회",
+      "address": "전라남도 영광군 영광읍 단주리 363",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "무등상회",
+      "address": "전라남도 영광군 영광읍 단주리 509",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "금호맨션관리실",
+      "address": "전라남도 영광군 영광읍 단주리 553",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "광주슈퍼",
+      "address": "전라남도 영광군 영광읍 단주리 566-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "다복상회",
+      "address": "전라남도 영광군 영광읍 단주리 554",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "새마을상회",
+      "address": "전라남도 영광군 영광읍 녹사리 139",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "학정슈퍼",
+      "address": "전라남도 영광군 영광읍 학정리 513",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "용한슈퍼",
+      "address": "전라남도 영광군 영광읍 교촌리 177-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "전라남도 영광군 영광읍 신하리 1-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "전라남도 영광군 영광읍 신하리 3-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-30"
+    },
+    {
+      "name": "원일슈퍼",
+      "address": "전라남도 영광군 영광읍 신하리 3-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-30"
+    },
+    {
+      "name": "정슈퍼",
+      "address": "전라남도 영광군 영광읍 신하리 68-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-30"
+    },
+    {
+      "name": "윤기상회",
+      "address": "전라남도 영광군 영광읍 신하리 192",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-30"
+    },
+    {
+      "name": "대덕슈퍼",
+      "address": "전라남도 영광군 영광읍 신하리 3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-30"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "전라남도 영광군 영광읍 신하리 4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-30"
+    },
+    {
+      "name": "유정상회",
+      "address": "전라남도 영광군 백수읍 죽사리 599",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "중앙상회",
+      "address": "전라남도 영광군 백수읍 양성리 157",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "양수슈퍼",
+      "address": "전라남도 영광군 백수읍 대전리 287",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대전슈퍼",
+      "address": "전라남도 영광군 백수읍 대전리 380",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "용택슈퍼",
+      "address": "전라남도 영광군 백수읍 약수리 626",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상숙슈퍼",
+      "address": "전라남도 영광군 백수읍 지산리 1085-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "재성슈퍼",
+      "address": "전라남도 영광군 백수읍 상사리 산 1-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "도레미슈퍼",
+      "address": "전라남도 영광군 백수읍 상사리 531",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "한울농원",
+      "address": "전라남도 영광군 백수읍 길용리 244",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "동수슈퍼",
+      "address": "전라남도 영광군 백수읍 길용리 768",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "가야성",
+      "address": "전라남도 영광군 홍농읍 상하리 258-125",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "동아문구사",
+      "address": "전라남도 영광군 홍농읍 상하리 233-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "빙그레문구사",
+      "address": "전라남도 영광군 홍농읍 신석리 71",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "(주)화니영광지점",
+      "address": "전라남도 영광군 홍농읍 상하리 422",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "전라남도 영광군 홍농읍 상하리 485",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "협심목공소",
+      "address": "전라남도 영광군 홍농읍 상하리 178-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "우봉상회",
+      "address": "전라남도 영광군 홍농읍 상하리 775",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "우정식품",
+      "address": "전라남도 영광군 홍농읍 칠곡리 269",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "전라남도 영광군 홍농읍 계마리 806",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "부두상회",
+      "address": "전라남도 영광군 홍농읍 계마리 747-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "정든슈퍼",
+      "address": "전라남도 영광군 홍농읍 성산리 599-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "성산슈퍼",
+      "address": "전라남도 영광군 홍농읍 성산리 523-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "월평상회",
+      "address": "전라남도 영광군 홍농읍 월암리 388",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "가야성",
+      "address": "전라남도 영광군 홍농읍 상하리 258-125",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "오복반점",
+      "address": "전라남도 영광군 홍농읍 상하리 150-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "청기와 식당",
+      "address": "전라남도 영광군 홍농읍 상하리 256-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 묘량면 덕흥리 284-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 묘량면 덕흥리 66",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "묘량식육점",
+      "address": "전라남도 영광군 묘량면 영양리 595",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "매화상회",
+      "address": "전라남도 영광군 묘량면 운당리 413",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "묘량상회",
+      "address": "전라남도 영광군 묘량면 삼효리 770",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "묘량만물싱회",
+      "address": "전라남도 영광군 묘량면 신천리 976",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 묘량면 삼학리 1038",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 묘량면 삼학리 329",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "홍농읍사무소",
+      "address": "전라남도 영광군 묘량면 월암리 1321번지",
+      "roadAddress": "전라남도 영광군 영광읍 천년로13길 27",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 묘량면 연암리 201",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "묘량우체국",
+      "address": "전라남도 영광군 묘량면 영양리 690",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "선들 식당",
+      "address": "전라남도 영광군 불갑면 녹산리 243",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "청과상회",
+      "address": "전라남도 영광군 홍농읍 상하리 494-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "선들상회",
+      "address": "전라남도 영광군 불갑면 녹산리 268",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "서해산장",
+      "address": "전라남도 영광군 불갑면 모악리 407",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 불갑면 모악리 260",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "오거리상회",
+      "address": "전라남도 영광군 불갑면 방마리 401",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "풍년슈퍼",
+      "address": "전라남도 영광군 불갑면 쌍운리 410",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "연신리약방",
+      "address": "전라남도 영광군 불갑면 안맹리 234",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "불갑보건지소",
+      "address": "전라남도 영광군 불갑면 안맹리 267",
+      "roadAddress": "전라남도 영광군 불갑면 함영로4길 12",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 불갑면 부춘리 244",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "막거리상화",
+      "address": "전라남도 영광군 불갑면 건무리 248",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 불갑면 우곡리 277",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "현대상회",
+      "address": "전라남도 영광군 군서면 남죽리 679-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "마읍리가게",
+      "address": "전라남도 영광군 군서면 마읍리 160",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "신송가게",
+      "address": "전라남도 영광군 군서면 송학리 277",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "군서면사무소",
+      "address": "전라남도 영광군 군서면 덕산리 449",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "새힌슈퍼",
+      "address": "전라남도 영광군 군남면 포천리 550-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "선진슈퍼",
+      "address": "전라남도 영광군 군남면 포천리 325-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "조관백",
+      "address": "전라남도 영광군 군남면 포천리 406",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "동간슈퍼",
+      "address": "전라남도 영광군 군남면 동간리 353",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "도장담배",
+      "address": "전라남도 영광군 군남면 도장리 191-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "백양담배",
+      "address": "전라남도 영광군 군남면 백양리 577-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 군남면 동월리 842",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 군남면 동월리 842",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "장혈상회",
+      "address": "전라남도 영광군 군남면 양덕리 1026",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대덕담배",
+      "address": "전라남도 영광군 군남면 대덕리 1272",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 불갑면 모악리 203",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 군남면 용암리 238",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "묘동가게",
+      "address": "전라남도 영광군 군남면 남창리 317",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "초두가게",
+      "address": "전라남도 영광군 군남면 월흥리 403",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "월흥상회",
+      "address": "전라남도 영광군 군남면 월흥리 403",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼동상회",
+      "address": "전라남도 영광군 군남면 설매리 882",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "반안상회",
+      "address": "전라남도 영광군 군남면 반안리 190",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "터미널매점",
+      "address": "전라남도 영광군 염산면 봉남리 699-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "일반상회",
+      "address": "전라남도 영광군 염산면 봉남리 501",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "제일상회",
+      "address": "전라남도 영광군 염산면 봉남리 1012-309",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "선창상회",
+      "address": "전라남도 영광군 염산면 봉남리 191",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "설도상회",
+      "address": "전라남도 영광군 염산면 봉남리 192",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "원조 곱창집",
+      "address": "전라남도 영광군 법성면 법성리 648",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "춘천 닭갈비",
+      "address": "전라남도 영광군 법성면 법성리 648-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 법성면 법성리 621",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "법성의원",
+      "address": "전라남도 영광군 법성면 법성리 602-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "법성식품점",
+      "address": "전라남도 영광군 법성면 법성리 693",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "무등목욕탕",
+      "address": "전라남도 영광군 법성면 법성리 648-12",
+      "roadAddress": "전라남도 영광군 법성면 굴비로 17-2",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대길상회",
+      "address": "전라남도 영광군 법성면 법성리 690",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 법성면 법성리 769",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "청하슈퍼",
+      "address": "전라남도 영광군 법성면 법성리 1141-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "담배가게",
+      "address": "전라남도 영광군 법성면 법성리 8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "형제상회",
+      "address": "전라남도 영광군 법성면 법성리 1148-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "석암담배",
+      "address": "전라남도 영광군 법성면 법성리 457",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "영익상회",
+      "address": "전라남도 영광군 법성면 법성리 400",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "진골청과상회",
+      "address": "전라남도 영광군 법성면 법성리 148-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "공원통닭",
+      "address": "전라남도 영광군 법성면 법성리 116-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대길상회",
+      "address": "전라남도 영광군 법성면 진내리 439",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "골목상회",
+      "address": "전라남도 영광군 법성면 진내리 413",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 법성면 진내리 482-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "수문상회",
+      "address": "전라남도 영광군 법성면 진내리 778",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 법성면 화천리 235",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "신두암상회",
+      "address": "전라남도 영광군 법성면 화천리 9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "영아정",
+      "address": "전라남도 영광군 법성면 대덕리 638-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "둥지수펴",
+      "address": "전라남도 영광군 법성면 대덕리 521",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 법성면 덕흥리 569",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "입덕상회",
+      "address": "전라남도 영광군 법성면 덕흥리 542-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 법성면 덕흥리 417",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 법성면 월산리 425",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호어없음",
+      "address": "전라남도 영광군 법성면 월산리 734",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "성촌상회",
+      "address": "전라남도 영광군 법성면 용성리 661-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 법성면 용성리 475",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 법성면 삼당리 97",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "슈퍼마켓",
+      "address": "전라남도 영광군 영광읍 백학리 46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-26"
+    },
+    {
+      "name": "백두식품",
+      "address": "전라남도 영광군 영광읍 백학리 220",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-26"
+    },
+    {
+      "name": "부부슈펴",
+      "address": "전라남도 영광군 영광읍 백학리 336-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-26"
+    },
+    {
+      "name": "나영슈퍼",
+      "address": "전라남도 영광군 영광읍 도동리 186",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "남양상회",
+      "address": "전라남도 영광군 영광읍 도동리 248-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-26"
+    },
+    {
+      "name": "수진아문방구",
+      "address": "전라남도 영광군 영광읍 도동리 344-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-26"
+    },
+    {
+      "name": "대창슈퍼",
+      "address": "전라남도 영광군 영광읍 도동리 316-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-26"
+    },
+    {
+      "name": "동진슈퍼",
+      "address": "전라남도 영광군 영광읍 도동리 222",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-26"
+    },
+    {
+      "name": "일성슈퍼",
+      "address": "전라남도 영광군 영광읍 도동리 152",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-26"
+    },
+    {
+      "name": "농협동부연쇄점",
+      "address": "전라남도 영광군 영광읍 도동리 186-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-26"
+    },
+    {
+      "name": "영진상회",
+      "address": "전라남도 영광군 영광읍 도동리 188",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-26"
+    },
+    {
+      "name": "군서상회",
+      "address": "전라남도 영광군 영광읍 도동리 194",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-26"
+    },
+    {
+      "name": "서울패션",
+      "address": "전라남도 영광군 영광읍 도동리 245",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-26"
+    },
+    {
+      "name": "창무슈퍼",
+      "address": "전라남도 영광군 영광읍 도동리 324",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-26"
+    },
+    {
+      "name": "해룡중학교",
+      "address": "전라남도 영광군 영광읍 도동리 68",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-26"
+    },
+    {
+      "name": "해룡문구사",
+      "address": "전라남도 영광군 영광읍 남천리 12-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-26"
+    },
+    {
+      "name": "언고비닐상회",
+      "address": "전라남도 영광군 영광읍 남천리 244-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-26"
+    },
+    {
+      "name": "선영상회",
+      "address": "전라남도 영광군 영광읍 남천리 324-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-26"
+    },
+    {
+      "name": "옥당슈퍼",
+      "address": "전라남도 영광군 영광읍 남천리 140-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-29"
+    },
+    {
+      "name": "농산물직매장",
+      "address": "전라남도 영광군 영광읍 남천리 312",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-26"
+    },
+    {
+      "name": "잡곡상회",
+      "address": "전라남도 영광군 영광읍 남천리 313",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-26"
+    },
+    {
+      "name": "애경슈퍼",
+      "address": "전라남도 영광군 영광읍 남천리 42-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-21"
+    },
+    {
+      "name": "(유)영광교통",
+      "address": "전라남도 영광군 영광읍 단주리 286-2",
+      "roadAddress": "전라남도 영광군 영광읍 와룡로 19",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-26"
+    },
+    {
+      "name": "코펙APT관리실",
+      "address": "전라남도 영광군 영광읍 송림리 산 3-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "서부슈퍼",
+      "address": "전라남도 영광군 영광읍 학정리 610",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "정신슈퍼",
+      "address": "전라남도 영광군 영광읍 교촌리 227",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-29"
+    },
+    {
+      "name": "대신슈퍼",
+      "address": "전라남도 영광군 영광읍 교촌리 179-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-29"
+    },
+    {
+      "name": "영광지업사",
+      "address": "전라남도 영광군 영광읍 신하리 32-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-12-25"
+    },
+    {
+      "name": "산새 가든",
+      "address": "전라남도 영광군 홍농읍 칠곡리 52-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "청송식품",
+      "address": "전라남도 영광군 홍농읍 성산리 490",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "한국수력원자력(주)영광원자력",
+      "address": "전라남도 영광군 홍농읍 계마리 514-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "지영슈퍼",
+      "address": "전라남도 영광군 홍농읍 성산리 18-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "만나라",
+      "address": "전라남도 영광군 홍농읍 성산리 456",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "정문슈퍼",
+      "address": "전라남도 영광군 홍농읍 성산리 452-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "신성식품",
+      "address": "전라남도 영광군 홍농읍 성산리 461-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "가곡리슈퍼",
+      "address": "전라남도 영광군 홍농읍 성산리 227-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "구사가게",
+      "address": "전라남도 영광군 홍농읍 단덕리 495",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "전라남도 영광군 홍농읍 상하리 171-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-17"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 홍농읍 상하리 382-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-17"
+    },
+    {
+      "name": "우리문구사",
+      "address": "전라남도 영광군 홍농읍 상하리 224",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-17"
+    },
+    {
+      "name": "챠밍슈퍼",
+      "address": "전라남도 영광군 홍농읍 상하리 224",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-17"
+    },
+    {
+      "name": "거북이슈퍼",
+      "address": "전라남도 영광군 홍농읍 상하리 499",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-16"
+    },
+    {
+      "name": "현대문구사",
+      "address": "전라남도 영광군 홍농읍 성산리 472",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-16"
+    },
+    {
+      "name": "성산만물슈퍼",
+      "address": "전라남도 영광군 홍농읍 성산리 472",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-16"
+    },
+    {
+      "name": "진덕상회",
+      "address": "전라남도 영광군 홍농읍 진덕리 186",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-16"
+    },
+    {
+      "name": "대마동부보건진료소",
+      "address": "전라남도 영광군 대마면 복평리 224-4",
+      "roadAddress": "전라남도 영광군 대마면 영장로10길 86",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 대마면 홍교리 사택A동 106호 산53",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "소규모슈퍼",
+      "address": "전라남도 영광군 대마면 송죽리 660",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 영광군 대마면 송죽리 83",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "영주종합건설(주)",
+      "address": "전라남도 영광군 대마면 성산리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "민지네슈퍼",
+      "address": "전라남도 영광군 대마면 월산리 519",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "담배가게",
+      "address": "전라남도 영광군 대마면 화평리 677",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "윤대슈퍼",
+      "address": "전라남도 영광군 대마면 원흥리 298",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 대마면 원흥리 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "대마농협",
+      "address": "전라남도 영광군 대마면 월산리 485",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "대마우체국",
+      "address": "전라남도 영광군 대마면 월산리 419-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 군서면 남죽리 89",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "만금슈퍼",
+      "address": "전라남도 영광군 군서면 만금리 383",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "군서인장포",
+      "address": "전라남도 영광군 군서면 마읍리 160-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 군서면 보라리 139",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "순희가게",
+      "address": "전라남도 영광군 군서면 만곡리 95-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "덕동가게",
+      "address": "전라남도 영광군 군서면 송학리 523",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 군서면 마읍리 88",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "문화사",
+      "address": "전라남도 영광군 군남면 포천리 380",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "광주상회",
+      "address": "전라남도 영광군 염산면 봉남리 720-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "종합상회",
+      "address": "전라남도 영광군 염산면 봉남리 1011-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "일성상회",
+      "address": "전라남도 영광군 염산면 봉남리 992-56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "언고상회",
+      "address": "전라남도 영광군 염산면 봉남리 357",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "삼거리가게",
+      "address": "전라남도 영광군 염산면 봉남리 274",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "백바위상회",
+      "address": "전라남도 영광군 염산면 두우리 690",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "정류소상회",
+      "address": "전라남도 영광군 염산면 야월리 468-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "삼거리상회",
+      "address": "전라남도 영광군 염산면 오동리 1098-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-09"
+    },
+    {
+      "name": "훼미리스파",
+      "address": "전라남도 영광군 영광읍 남천리 237-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-11"
+    },
+    {
+      "name": "홍농농협협동조합",
+      "address": "전라남도 영광군 홍농읍 상하리 316",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-27"
+    },
+    {
+      "name": "상봉슈퍼",
+      "address": "전라남도 영광군 홍농읍 상하리 303",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-08"
+    },
+    {
+      "name": "화니마트",
+      "address": "전라남도 영광군 영광읍 남천리 324-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-27"
+    },
+    {
+      "name": "사직스카이상가슈퍼",
+      "address": "전라남도 영광군 영광읍 단주리 364",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-10"
+    },
+    {
+      "name": "대성상회",
+      "address": "전라남도 영광군 군남면 포천리 415-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-17"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 군남면 동간리 210",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-11"
+    },
+    {
+      "name": "군남세탁소",
+      "address": "전라남도 영광군 군남면 백양리 549-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-11"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 군남면 동월리 842",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-11"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 군남면 동월리 842",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-11"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 군남면 설매리 217",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-11"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 군남면 설매리 840",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-11"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 군남면 양덕리 1362",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-11"
+    },
+    {
+      "name": "대덕담배",
+      "address": "전라남도 영광군 군남면 대덕리 1272",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-11"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 군남면 대덕리 1067",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-11"
+    },
+    {
+      "name": "으뜸건설(주)",
+      "address": "전라남도 영광군 염산면 옥실리 지내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-11"
+    },
+    {
+      "name": "으뜸건설(주)",
+      "address": "전라남도 영광군 염산면 옥실리 지내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-01"
+    },
+    {
+      "name": "천일염 영농조합법인",
+      "address": "전라남도 영광군 염산면 봉남리 722-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-01"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 염산면 야월리 743",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-01"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 염산면 오동리 121",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-01"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 염산면 옥실리 889",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-01"
+    },
+    {
+      "name": "동아쇼핑",
+      "address": "전라남도 영광군 영광읍 무령리 344-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-08"
+    },
+    {
+      "name": "생활용품할인마트",
+      "address": "전라남도 영광군 영광읍 단주리 621-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-02-26"
+    },
+    {
+      "name": "국제APT관리실",
+      "address": "전라남도 영광군 영광읍 녹사리 19-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-02-26"
+    },
+    {
+      "name": "영광지업사",
+      "address": "전라남도 영광군 영광읍 신하리 32-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-25"
+    },
+    {
+      "name": "백수우체국",
+      "address": "전라남도 영광군 백수읍 양성리 1-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "광문마트",
+      "address": "전라남도 영광군 홍농읍 상하리 389-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-11"
+    },
+    {
+      "name": "홍농우체국",
+      "address": "전라남도 영광군 홍농읍 상하리 502-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "제일마트",
+      "address": "전라남도 영광군 홍농읍 상하리 55",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-18"
+    },
+    {
+      "name": "우체국",
+      "address": "전라남도 영광군 대마면 월산리 419-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "불갑우체국",
+      "address": "전라남도 영광군 불갑면 안맹리 243-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "군서우체국",
+      "address": "전라남도 영광군 군서면 남죽리 707-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "군남세탁소",
+      "address": "전라남도 영광군 군남면 백양리 549-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 군남면 대덕리 420",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "(개인)",
+      "address": "전라남도 영광군 군남면 남창리 269-1",
+      "roadAddress": "전라남도 영광군 군남면 남양길 107",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "도장담배",
+      "address": "전라남도 영광군 군남면 도장리 191-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 군남면 양덕리 79-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 군남면 양덕리 1395",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 군남면 양덕리 287",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 군남면 양덕리 728",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "으뜸건설(주)",
+      "address": "전라남도 영광군 염산면 옥실리 지내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 염산면 축동리 958",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 염산면 상계리 1172",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 염산면 상계리 897",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 염산면 상계리 278",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 염산면 봉남리 854",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 염산면 봉남리 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "개인",
+      "address": "전라남도 영광군 염산면 송암리 564",
+      "roadAddress": "전라남도 영광군 염산면 칠산로 505",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "염산면사무소",
+      "address": "전라남도 영광군 염산면 봉남리 720-1",
+      "roadAddress": "전라남도 영광군 염산면 천년로1길 1-3 (염산면사무소)",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-31"
+    },
+    {
+      "name": "감집청과",
+      "address": "전라남도 영광군 영광읍 백학리 366-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-15"
+    },
+    {
+      "name": "(주)옥당마트",
+      "address": "전라남도 영광군 영광읍 백학리 46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-15"
+    },
+    {
+      "name": "해룡고등학교",
+      "address": "전라남도 영광군 영광읍 도동리 69",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-15"
+    },
+    {
+      "name": "A마트",
+      "address": "전라남도 영광군 영광읍 남천리 324",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-08"
+    },
+    {
+      "name": "슈퍼",
+      "address": "전라남도 영광군 영광읍 남천리 302-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-20"
+    },
+    {
+      "name": "생활용품할인마트",
+      "address": "전라남도 영광군 영광읍 단주리 580-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-15"
+    },
+    {
+      "name": "그린마트",
+      "address": "전라남도 영광군 영광읍 신하리 70-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-15"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 백수읍 천정리 343",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-04"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 백수읍 천정리 623-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-04"
+    },
+    {
+      "name": "새마을상회",
+      "address": "전라남도 영광군 백수읍 장산리 9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-04"
+    },
+    {
+      "name": "이삼재 목재",
+      "address": "전라남도 영광군 백수읍 장산리 667-17 외 1필지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-04"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 백수읍 논산리 228",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-04"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 백수읍 학산리 73-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-04"
+    },
+    {
+      "name": "백수농협협동조합",
+      "address": "전라남도 영광군 백수읍 천마리 603-1",
+      "roadAddress": "전라남도 영광군 백수읍 백수로10길 3",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-04"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 백수읍 죽사리 376",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-04"
+    },
+    {
+      "name": "학림건설(주)",
+      "address": "전라남도 영광군 백수읍 양성리 법성면 덕흥리지내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-04"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 백수읍 홍곡리 36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-04"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 백수읍 홍곡리 36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-04"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 백수읍 약수리 428",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-04"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 백수읍 지산리 319",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-04"
+    },
+    {
+      "name": "정광양만장",
+      "address": "전라남도 영광군 백수읍 지산리 578-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-04"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 백수읍 상사리 505",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-04"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 백수읍 상사리 산 1-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-04"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 백수읍 하사리 872",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-04"
+    },
+    {
+      "name": "만성양만",
+      "address": "전라남도 영광군 백수읍 하사리 산 9-408 , 산16-3",
+      "roadAddress": "전라남도 영광군 백수읍 하사길2길 63",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-04"
+    },
+    {
+      "name": "만성양만",
+      "address": "전라남도 영광군 백수읍 하사리 산 9-408 , 산16-3",
+      "roadAddress": "전라남도 영광군 백수읍 하사길2길 63",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-04"
+    },
+    {
+      "name": "상호없음",
+      "address": "전라남도 영광군 백수읍 하사리 산 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-04"
+    },
+    {
+      "name": "경동보일러",
+      "address": "전라남도 영광군 영광읍 남천리 320",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-04"
+    },
+    {
+      "name": "청경매점",
+      "address": "전라남도 영광군 홍농읍 성산리 476",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-15"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "전라남도 영광군 홍농읍 성산리 268-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-15"
+    },
+    {
+      "name": "홍농식품",
+      "address": "전라남도 영광군 홍농읍 상하리 259",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-15"
+    },
+    {
+      "name": "상록플라자(주)",
+      "address": "전라남도 영광군 홍농읍 상하리 567-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-15"
+    },
+    {
+      "name": "라-종합유통",
+      "address": "전라남도 영광군 홍농읍 상하리 130",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-15"
+    },
+    {
+      "name": "제인슈퍼",
+      "address": "전라남도 영광군 대마면 월산리 369",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-15"
+    },
+    {
+      "name": "형도 식당",
+      "address": "전라남도 영광군 법성면 법성리 650-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-12"
+    },
+    {
+      "name": "김동숙",
+      "address": "전라남도 영광군 법성면 법성리 650-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-15"
+    },
+    {
+      "name": "지영이네문구슈퍼",
+      "address": "전라남도 영광군 영광읍 백학리 143",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-22"
+    },
+    {
+      "name": "매일상회",
+      "address": "전라남도 영광군 대마면 월산리 415",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-30"
+    },
+    {
+      "name": "이장댁",
+      "address": "전라남도 영광군 대마면 송죽리 685",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-30"
+    },
+    {
+      "name": "영광농협묘량지소",
+      "address": "전라남도 영광군 묘량면 영양리 598",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-30"
+    },
+    {
+      "name": "리장댁",
+      "address": "전라남도 영광군 군서면 매산리 60",
+      "roadAddress": "전라남도 영광군 군서면 관산로 79-15",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-30"
+    },
+    {
+      "name": "영광읍사무소",
+      "address": "전라남도 영광군 영광읍 연성리 지내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-30"
+    },
+    {
+      "name": "신성양만장",
+      "address": "전라남도 영광군 법성면 용덕리 479-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-30"
+    },
+    {
+      "name": "리장댁",
+      "address": "전라남도 영광군 법성면 신장리 339",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-30"
+    },
+    {
+      "name": "리장댁",
+      "address": "전라남도 영광군 법성면 신장리 695",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-30"
+    },
+    {
+      "name": "리장댁",
+      "address": "전라남도 영광군 법성면 신장리 216",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-30"
+    },
+    {
+      "name": "현대유리점",
+      "address": "전라남도 영광군 법성면 법성리 648-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-30"
+    },
+    {
+      "name": "리장댁",
+      "address": "전라남도 영광군 법성면 삼당리 산 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-30"
+    },
+    {
+      "name": "소금알선소",
+      "address": "전라남도 영광군 염산면 봉남리 327",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "굴비골농협 홍농지점 하나로마트",
+      "address": "전라남도 영광군 홍농읍 상하리 259-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-31"
+    },
+    {
+      "name": "학동슈퍼",
+      "address": "전라남도 영광군 홍농읍 상하리 387-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-28"
+    },
+    {
+      "name": "두레청과 33번 직영점",
+      "address": "전라남도 영광군 홍농읍 상하리 175-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-02-08"
+    },
+    {
+      "name": "유성이앤씨",
+      "address": "전라남도 영광군 홍농읍 상하리 567-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-02-12"
+    },
+    {
+      "name": "영광할인마트",
+      "address": "전라남도 영광군 영광읍 신하리 106-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-02-12"
+    },
+    {
+      "name": "한아름마트",
+      "address": "전라남도 영광군 영광읍 도동리 51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-04-09"
+    },
+    {
+      "name": "대성철물",
+      "address": "전라남도 영광군 영광읍 백학리 9-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-04-05"
+    },
+    {
+      "name": "신선마트트",
+      "address": "전라남도 영광군 백수읍 대전리 607-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-05-13"
+    },
+    {
+      "name": "미니스톱 영광신하점",
+      "address": "전라남도 영광군 영광읍 신하리 828-1",
+      "roadAddress": "전라남도 영광군 영광읍 신남로 166",
+      "status": "영업/정상",
+      "licenseDate": "2010-06-03"
+    },
+    {
+      "name": "국제슈퍼",
+      "address": "전라남도 영광군 영광읍 녹사리 19-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-06-04"
+    },
+    {
+      "name": "대신마트",
+      "address": "전라남도 영광군 영광읍 교촌리 179-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-06-28"
+    },
+    {
+      "name": "유선희",
+      "address": "전라남도 영광군 영광읍 신하리 1-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-06-28"
+    },
+    {
+      "name": "열린마트",
+      "address": "전라남도 영광군 영광읍 남천리 13-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-07-15"
+    },
+    {
+      "name": "미니스톱 영광사랑점",
+      "address": "전라남도 영광군 영광읍 신하리 828-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-07-22"
+    },
+    {
+      "name": "염산할인마트",
+      "address": "전라남도 영광군 염산면 봉남리 341",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-23"
+    },
+    {
+      "name": "영광농협 하나로마트",
+      "address": "전라남도 영광군 영광읍 백학리 578-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-17"
+    },
+    {
+      "name": "지에스25 영광스카이",
+      "address": "전라남도 영광군 영광읍 단주리 359",
+      "roadAddress": "전라남도 영광군 영광읍 옥당로 225, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2022-02-24"
+    },
+    {
+      "name": "세븐일레븐 영광기독병원점",
+      "address": "전라남도 영광군 영광읍 남천리 222",
+      "roadAddress": "전라남도 영광군 영광읍 신남로 270, 세븐일레븐 영광기독병원점",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-12"
+    },
+    {
+      "name": "이마트24R 대마산단점",
+      "address": "전라남도 영광군 대마면 송죽리 1039-6",
+      "roadAddress": "전라남도 영광군 대마면 전기차2로 144, 영타운 1층 103호",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-20"
+    }
+  ]
+}

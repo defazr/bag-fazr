@@ -1,0 +1,3041 @@
+{
+  "region": "경상남도",
+  "regionSlug": "gyeongnam",
+  "district": "창원시",
+  "districtSlug": "changwon",
+  "updatedAt": "2026-03-26",
+  "totalCount": 433,
+  "stores": [
+    {
+      "name": "장유해태슈퍼",
+      "address": "경상남도 창원시 대방동 357 대방개나리1차아파트 103동 402호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-09"
+    },
+    {
+      "name": "창우친절마트",
+      "address": "경상남도 창원시 불모산동 295",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-26"
+    },
+    {
+      "name": "(주)자연드림 거제양정점",
+      "address": "경상남도 창원시 성산구 남양동 12 한성종합상가",
+      "roadAddress": "경상남도 창원시 성산구 대암로 36, 한성종합상가 4층 401호 (남양동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-10-18"
+    },
+    {
+      "name": "동호상회",
+      "address": "경상남도 의령군 지정면 봉곡리 774",
+      "roadAddress": "경상남도 창원시 마산합포구 노산서18길 19, 107동  902호(교원동,무학자이아파트)",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-24"
+    },
+    {
+      "name": "소림식품",
+      "address": "경상남도 창원시 성산구 외동 853-16 외동A'점포2호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-24"
+    },
+    {
+      "name": "LG25오거리점",
+      "address": "경상남도 창원시 성산구 중앙동 70-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-11"
+    },
+    {
+      "name": "화신슈퍼",
+      "address": "경상남도 창원시 성산구 상남동 76-3 화신상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-14"
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "경상남도 창원시 성산구 중앙동 93-1 평화OP118호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-14"
+    },
+    {
+      "name": "신안부동산슈퍼",
+      "address": "경상남도 창원시 성산구 중앙동 98-4 성원OP137호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-14"
+    },
+    {
+      "name": "중앙24시편의점",
+      "address": "경상남도 창원시 성산구 중앙동 100-1 중앙상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-14"
+    },
+    {
+      "name": "토토슈퍼",
+      "address": "경상남도 창원시 성산구 중앙동 84-7 동백빌딩내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-18"
+    },
+    {
+      "name": "LG25창원그린점",
+      "address": "경상남도 창원시 성산구 중앙동 98-6 그린피아1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-24"
+    },
+    {
+      "name": "그라미슈퍼",
+      "address": "경상남도 창원시 성산구 내동 456-21 그라미상가1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "샛별APT관리소",
+      "address": "경상남도 창원시 성산구 내동 456-20 동성샛별APT",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-14"
+    },
+    {
+      "name": "경남마트",
+      "address": "경상남도 창원시 성산구 외동 853-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-05"
+    },
+    {
+      "name": "엘지25창원올림픽",
+      "address": "경상남도 창원시 성산구 중앙동 97-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-26"
+    },
+    {
+      "name": "LG25창원기산점",
+      "address": "경상남도 창원시 성산구 중앙동 110",
+      "roadAddress": "경상남도 창원시 성산구 외동반림로 51-88  (중앙동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-28"
+    },
+    {
+      "name": "화인마트",
+      "address": "경상남도 창원시 성산구 중앙동 개나리상가165",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-01"
+    },
+    {
+      "name": "평화스토아",
+      "address": "경상남도 창원시 성산구 중앙동 54-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-05"
+    },
+    {
+      "name": "엘지25시",
+      "address": "경상남도 창원시 성산구 내동 내동상가A'",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-31"
+    },
+    {
+      "name": "엘지25시용호점",
+      "address": "경상남도 창원시 의창구 용호동 73-56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-31"
+    },
+    {
+      "name": "노총하이슈퍼",
+      "address": "경상남도 창원시 의창구 용호동 73-61",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "용호슈퍼",
+      "address": "경상남도 창원시 의창구 용호동 12-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-10"
+    },
+    {
+      "name": "경남여성회관매장",
+      "address": "경상남도 창원시 의창구 용호동 5-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "창원슈퍼",
+      "address": "경상남도 창원시 의창구 용호동 41-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "태조마트",
+      "address": "경상남도 창원시 의창구 용호동 27-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "금창슈퍼",
+      "address": "경상남도 창원시 의창구 용호동 72 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "장원슈퍼",
+      "address": "경상남도 창원시 의창구 용호동 69 가동 106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "대풍마트",
+      "address": "경상남도 창원시 의창구 용호동 45-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-01"
+    },
+    {
+      "name": "보근마트",
+      "address": "경상남도 창원시 의창구 용호동 72 상가4호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-02"
+    },
+    {
+      "name": "줄라양용호점",
+      "address": "경상남도 창원시 의창구 용호동 73-19 동신빌딩 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-07"
+    },
+    {
+      "name": "송이네마트",
+      "address": "경상남도 창원시 의창구 용호동 51-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-07"
+    },
+    {
+      "name": "원마트",
+      "address": "경상남도 창원시 의창구 용호동 73-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-23"
+    },
+    {
+      "name": "친절25시",
+      "address": "경상남도 창원시 의창구 용호동 73-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-26"
+    },
+    {
+      "name": "제일문구슈퍼",
+      "address": "경상남도 창원시 의창구 신월동 13-113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-15"
+    },
+    {
+      "name": "아름슈퍼",
+      "address": "경상남도 창원시 의창구 용호동 23-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-18"
+    },
+    {
+      "name": "삼정슈퍼",
+      "address": "경상남도 창원시 의창구 신월동 12-96",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-02"
+    },
+    {
+      "name": "영남슈퍼",
+      "address": "경상남도 창원시 의창구 신월동 30-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "신흥슈퍼",
+      "address": "경상남도 창원시 의창구 신월동 12-133",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "신월철물",
+      "address": "경상남도 창원시 의창구 신월동 13-108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "흥진슈퍼",
+      "address": "경상남도 창원시 의창구 신월동 68-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "함양슈퍼",
+      "address": "경상남도 창원시 의창구 신월동 77-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "대일슈퍼",
+      "address": "경상남도 창원시 의창구 신월동 12-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상남도 창원시 의창구 신월동 93은아15동 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-12-14"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "경상남도 창원시 의창구 신월동 3-3 수복상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은아슈퍼",
+      "address": "경상남도 창원시 의창구 신월동 93 은아상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "도경슈퍼",
+      "address": "경상남도 창원시 의창구 신월동 1-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우석상회",
+      "address": "경상남도 창원시 의창구 신월동 54-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-18"
+    },
+    {
+      "name": "신월할인매장",
+      "address": "경상남도 창원시 의창구 신월동 68-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-08"
+    },
+    {
+      "name": "훼미리슈퍼",
+      "address": "경상남도 창원시 의창구 신월동 11-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-03"
+    },
+    {
+      "name": "농협창원중앙지점",
+      "address": "경상남도 창원시 의창구 신월동 95",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-03"
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "경상남도 창원시 성산구 상남동 성원5단지상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-17"
+    },
+    {
+      "name": "재경슈퍼",
+      "address": "경상남도 창원시 성산구 상남동 성원3단지상가 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-17"
+    },
+    {
+      "name": "청호스토아",
+      "address": "경상남도 창원시 성산구 상남동 성원2단지상가 114호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-08-23"
+    },
+    {
+      "name": "남부농협",
+      "address": "경상남도 창원시 성산구 상남동 성원3단지상가101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-16"
+    },
+    {
+      "name": "대동스토아",
+      "address": "경상남도 창원시 성산구 상남동 대동아파트내 장미상가102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-23"
+    },
+    {
+      "name": "대동24시슈퍼",
+      "address": "경상남도 창원시 성산구 상남동 대동아파트내 목화상가107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-23"
+    },
+    {
+      "name": "토월슈퍼",
+      "address": "경상남도 창원시 성산구 상남동 성원주상가 132호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-03"
+    },
+    {
+      "name": "대동백화점",
+      "address": "경상남도 창원시 성산구 상남동 대동백화점내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-03"
+    },
+    {
+      "name": "학도서점문구",
+      "address": "경상남도 창원시 성산구 사파정동 상남2-2공구34B15L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-23"
+    },
+    {
+      "name": "웅남슈퍼",
+      "address": "경상남도 창원시 성산구 사파정동 상남2-2공구33B1L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-01"
+    },
+    {
+      "name": "상남슈퍼체인",
+      "address": "경상남도 창원시 성산구 사파정동 상남2-2공구12B1L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-03"
+    },
+    {
+      "name": "금하슈퍼",
+      "address": "경상남도 창원시 성산구 사파정동 상남2-2공구1B8L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-14"
+    },
+    {
+      "name": "미니24시슈퍼",
+      "address": "경상남도 창원시 성산구 중앙동 4B6L동우상가105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은정슈퍼",
+      "address": "경상남도 창원시 성산구 중앙동 1B3L롯데빌딩106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-10"
+    },
+    {
+      "name": "명성할인마트",
+      "address": "경상남도 창원시 성산구 사파정동 상남2-2공구 36B1L 명성상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-23"
+    },
+    {
+      "name": "세븐마트",
+      "address": "경상남도 창원시 성산구 상남동 1-7 미도상가 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-01"
+    },
+    {
+      "name": "대한마트",
+      "address": "경상남도 창원시 성산구 상남동 1-5 대한상가 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-09-19"
+    },
+    {
+      "name": "사파연쇄점",
+      "address": "경상남도 창원시 성산구 사파동 93-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "경상슈퍼",
+      "address": "경상남도 창원시 성산구 사파동 121-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-22"
+    },
+    {
+      "name": "대영문구",
+      "address": "경상남도 창원시 성산구 사파동 54-6미남상가1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-22"
+    },
+    {
+      "name": "경남마트",
+      "address": "경상남도 창원시 성산구 사파동 대동상가7호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-24"
+    },
+    {
+      "name": "과일슈퍼",
+      "address": "경상남도 창원시 성산구 사파동 117-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-22"
+    },
+    {
+      "name": "한화유통사파점",
+      "address": "경상남도 창원시 성산구 사파동 삼익상가 지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-03"
+    },
+    {
+      "name": "상남슈퍼",
+      "address": "경상남도 창원시 성산구 사파동 85-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-22"
+    },
+    {
+      "name": "롯데슈퍼",
+      "address": "경상남도 창원시 성산구 사파동 86-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-22"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상남도 창원시 성산구 사파동 127-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-22"
+    },
+    {
+      "name": "푸른슈퍼",
+      "address": "경상남도 창원시 성산구 사파동 28-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-26"
+    },
+    {
+      "name": "부산슈퍼",
+      "address": "경상남도 창원시 성산구 사파동 69-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-29"
+    },
+    {
+      "name": "조일슈퍼",
+      "address": "경상남도 창원시 성산구 사파동 49-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-15"
+    },
+    {
+      "name": "성원슈퍼",
+      "address": "경상남도 창원시 성산구 대방동 대방지구24B성원3차상가117",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-04"
+    },
+    {
+      "name": "한마음슈퍼",
+      "address": "경상남도 창원시 성산구 대방동 대방지구24B성원3차상가105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-04-29"
+    },
+    {
+      "name": "해피스토아",
+      "address": "경상남도 창원시 성산구 대방동 덕산아파트상가104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-19"
+    },
+    {
+      "name": "만물할인슈퍼",
+      "address": "경상남도 창원시 성산구 대방동 개나리상가107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-07-06"
+    },
+    {
+      "name": "엘지슈퍼렛",
+      "address": "경상남도 창원시 성산구 대방동 936-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-03"
+    },
+    {
+      "name": "대형슈퍼",
+      "address": "경상남도 창원시 성산구 대방동 개나리상가101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-08-01"
+    },
+    {
+      "name": "덕산슈퍼마켓",
+      "address": "경상남도 창원시 성산구 대방동 덕산아파트상가 104-1809",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-08"
+    },
+    {
+      "name": "시영할인매장",
+      "address": "경상남도 창원시 성산구 대방동 대방지구26B개나리상가106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-14"
+    },
+    {
+      "name": "(주)대동유통",
+      "address": "경상남도 창원시 성산구 대방동 대방지구27B대동상가지하101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-07"
+    },
+    {
+      "name": "성원식육통닭",
+      "address": "경상남도 창원시 성산구 대방동 성원3창아파트310-311",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-07"
+    },
+    {
+      "name": "남부농협대남",
+      "address": "경상남도 창원시 성산구 대방동 34-1B2L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-10"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상남도 창원시 성산구 대방동 27B대동상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-28"
+    },
+    {
+      "name": "덕산슈퍼마켓",
+      "address": "경상남도 창원시 성산구 대방동 27B2L덕산2차상가101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-27"
+    },
+    {
+      "name": "덕산그린스토아",
+      "address": "경상남도 창원시 성산구 대방동 덕산2차상가지하101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-02-22"
+    },
+    {
+      "name": "남부농협대방지점",
+      "address": "경상남도 창원시 성산구 대방동 개나리아파트상가101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-11"
+    },
+    {
+      "name": "엘지슈퍼렛",
+      "address": "경상남도 창원시 성산구 대방동 37B3L동성상가지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-11"
+    },
+    {
+      "name": "토요25시슈퍼",
+      "address": "경상남도 창원시 성산구 대방동 37B1L성원상가101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-29"
+    },
+    {
+      "name": "푸른유통",
+      "address": "경상남도 창원시 성산구 대방동 37B1L성원상가105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-11"
+    },
+    {
+      "name": "엘지슈퍼렛",
+      "address": "경상남도 창원시 성산구 대방동 성원상가지하101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-16"
+    },
+    {
+      "name": "불모산슈퍼",
+      "address": "경상남도 창원시 성산구 불모산동 276",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "삼정자상회",
+      "address": "경상남도 창원시 성산구 삼정자동 446",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-06"
+    },
+    {
+      "name": "아파트상회",
+      "address": "경상남도 창원시 성산구 남산동 601-26남산아파트상가3호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-21"
+    },
+    {
+      "name": "대우슈퍼",
+      "address": "경상남도 창원시 성산구 남산동 601-5대우상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-09"
+    },
+    {
+      "name": "신흥상회",
+      "address": "경상남도 창원시 성산구 안민동 254",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-03"
+    },
+    {
+      "name": "장복슈퍼",
+      "address": "경상남도 창원시 성산구 안민동 106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-03"
+    },
+    {
+      "name": "복합쇼핑",
+      "address": "경상남도 창원시 성산구 안민동 240-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-10"
+    },
+    {
+      "name": "종점슈퍼",
+      "address": "경상남도 창원시 성산구 안민동 51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-08"
+    },
+    {
+      "name": "한솔현대마트",
+      "address": "경상남도 창원시 성산구 안민동 108 한솔상가101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-08"
+    },
+    {
+      "name": "한솔슈퍼",
+      "address": "경상남도 창원시 성산구 안민동 108 한솔상가111",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-08"
+    },
+    {
+      "name": "신우할인마트",
+      "address": "경상남도 창원시 성산구 안민동 100",
+      "roadAddress": "경상남도 창원시 성산구 안민안길 7  (안민동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-25"
+    },
+    {
+      "name": "대동할인마트",
+      "address": "경상남도 창원시 성산구 안민동 청솔아파트A상가104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-25"
+    },
+    {
+      "name": "대동청솔마트",
+      "address": "경상남도 창원시 성산구 안민동 214-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-17"
+    },
+    {
+      "name": "봉산상회",
+      "address": "경상남도 창원시 성산구 양곡동 964",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-03"
+    },
+    {
+      "name": "신촌부식",
+      "address": "경상남도 창원시 성산구 신촌동 5-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "주택슈퍼",
+      "address": "경상남도 창원시 성산구 신촌동 6-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "원마트",
+      "address": "경상남도 창원시 성산구 신촌동 양곡상가나동지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "훈이슈퍼",
+      "address": "경상남도 창원시 성산구 신촌동 양곡상가다동 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상남도 창원시 성산구 신촌동 양곡상가 다동지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "양곡스토아",
+      "address": "경상남도 창원시 성산구 신촌동 양곡상가 가동 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "친절마트",
+      "address": "경상남도 창원시 성산구 신촌동 15-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "용문상회",
+      "address": "경상남도 창원시 성산구 귀곡동 719-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-03"
+    },
+    {
+      "name": "모암슈퍼",
+      "address": "경상남도 창원시 의창구 동읍 신방리 373-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-28"
+    },
+    {
+      "name": "양지슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 192-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-20"
+    },
+    {
+      "name": "의령슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 4-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-16"
+    },
+    {
+      "name": "부산슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 183-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-15"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 18-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-25"
+    },
+    {
+      "name": "엘지마트명서점",
+      "address": "경상남도 창원시 의창구 명서동 129-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-16"
+    },
+    {
+      "name": "해바라기마트",
+      "address": "경상남도 창원시 의창구 사림동 12-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-04"
+    },
+    {
+      "name": "풍산슈퍼",
+      "address": "경상남도 창원시 성산구 반지동 65-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-01"
+    },
+    {
+      "name": "공원슈퍼",
+      "address": "경상남도 창원시 성산구 반지동 50-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-01"
+    },
+    {
+      "name": "성진할인마트",
+      "address": "경상남도 창원시 성산구 반지동 114-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-01"
+    },
+    {
+      "name": "현대할인마트",
+      "address": "경상남도 창원시 성산구 반림동 17-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-11"
+    },
+    {
+      "name": "(주)아람마트",
+      "address": "경상남도 창원시 성산구 반지동 78 지하1층",
+      "roadAddress": "경상남도 창원시 성산구 원이대로393번길 25  (반지동,지하1층)",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-22"
+    },
+    {
+      "name": "장안슈퍼",
+      "address": "경상남도 창원시 성산구 반지동 102-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-14"
+    },
+    {
+      "name": "백양상회",
+      "address": "경상남도 창원시 성산구 중앙동 69-1 중앙시장",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-14"
+    },
+    {
+      "name": "서광슈퍼",
+      "address": "경상남도 창원시 성산구 중앙동 100-4 서광오피스텔 119",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-14"
+    },
+    {
+      "name": "현대유통센타",
+      "address": "경상남도 창원시 성산구 중앙동 58-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-31"
+    },
+    {
+      "name": "LG25창원중앙점",
+      "address": "경상남도 창원시 성산구 중앙동 78-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-23"
+    },
+    {
+      "name": "LG25창원성원점",
+      "address": "경상남도 창원시 성산구 중앙동 98-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-30"
+    },
+    {
+      "name": "서광서점",
+      "address": "경상남도 창원시 성산구 중앙동 120-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-05"
+    },
+    {
+      "name": "용지슈퍼",
+      "address": "경상남도 창원시 성산구 중앙동 21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-09"
+    },
+    {
+      "name": "벌슈퍼",
+      "address": "경상남도 창원시 성산구 중앙동 76-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-23"
+    },
+    {
+      "name": "해뜨는마트",
+      "address": "경상남도 창원시 성산구 중앙동 52-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-05"
+    },
+    {
+      "name": "용지슈퍼",
+      "address": "경상남도 창원시 성산구 중앙동 23-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-12"
+    },
+    {
+      "name": "진성할인마트",
+      "address": "경상남도 창원시 성산구 중앙동 16-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-12"
+    },
+    {
+      "name": "세븐일레븐2호점",
+      "address": "경상남도 창원시 성산구 중앙동 86-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-12"
+    },
+    {
+      "name": "원스톱편의점중앙점",
+      "address": "경상남도 창원시 성산구 중앙동 창원종합상가 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-23"
+    },
+    {
+      "name": "한들마트할인점",
+      "address": "경상남도 창원시 성산구 내동 454-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-05"
+    },
+    {
+      "name": "32통장",
+      "address": "경상남도 창원시 성산구 외동 621-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-17"
+    },
+    {
+      "name": "덕산편의점",
+      "address": "경상남도 창원시 성산구 상남동 덕산베스트텔",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-24"
+    },
+    {
+      "name": "LG창원정우점",
+      "address": "경상남도 창원시 의창구 용호동 73-62 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-31"
+    },
+    {
+      "name": "경남마트편의점",
+      "address": "경상남도 창원시 의창구 용호동 73-32 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-11"
+    },
+    {
+      "name": "J-마트",
+      "address": "경상남도 창원시 의창구 신월동 50-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-16"
+    },
+    {
+      "name": "성원슈퍼",
+      "address": "경상남도 창원시 의창구 신월동 21-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-27"
+    },
+    {
+      "name": "까치점방",
+      "address": "경상남도 창원시 의창구 신월동 50-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-21"
+    },
+    {
+      "name": "성산휴게실",
+      "address": "경상남도 창원시 성산구 용호동 2-0 성산아트홀내",
+      "roadAddress": "경상남도 창원시 성산구 중앙대로 181  (용호동,성산아트홀내)",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-01"
+    },
+    {
+      "name": "은아뉴욕제과",
+      "address": "경상남도 창원시 성산구 신월동 93-0 은아13동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-24"
+    },
+    {
+      "name": "똘이상회",
+      "address": "경상남도 창원시 의창구 신월동 12-195",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-31"
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "경상남도 창원시 의창구 용호동 73-27 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-08"
+    },
+    {
+      "name": "은아종합슈퍼",
+      "address": "경상남도 창원시 성산구 신월동 93-0 은아24동상가",
+      "roadAddress": "경상남도 창원시 성산구 원이대로 687  (신월동,은아24동상가)",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-10"
+    },
+    {
+      "name": "한전구판장",
+      "address": "경상남도 창원시 의창구 신월동 99-1 한전내구판장",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-11"
+    },
+    {
+      "name": "럭키마트",
+      "address": "경상남도 창원시 성산구 대방동 덕산상가 B-107-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-08"
+    },
+    {
+      "name": "오아시스편의점",
+      "address": "경상남도 창원시 성산구 대방동 340-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-05"
+    },
+    {
+      "name": "(주)LG유통대방점",
+      "address": "경상남도 창원시 성산구 대방동 363-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-20"
+    },
+    {
+      "name": "훼미리마트창원대방점",
+      "address": "경상남도 창원시 성산구 대방동 366-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-18"
+    },
+    {
+      "name": "왕승슈퍼",
+      "address": "경상남도 창원시 성산구 가음동 주공아파트3단지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-07"
+    },
+    {
+      "name": "알뜰생활관슈퍼",
+      "address": "경상남도 창원시 성산구 가음정동 20-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-09-18"
+    },
+    {
+      "name": "한성종합상가",
+      "address": "경상남도 창원시 성산구 가음동 한성종합상가관리소",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-22"
+    },
+    {
+      "name": "성원슈퍼",
+      "address": "경상남도 창원시 성산구 남양동 성원2차상가 113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-02-09"
+    },
+    {
+      "name": "남산슈퍼",
+      "address": "경상남도 창원시 성산구 대방동 40-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-07"
+    },
+    {
+      "name": "지원건어물",
+      "address": "경상남도 창원시 성산구 가음정동 204-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-02-17"
+    },
+    {
+      "name": "21세기마트",
+      "address": "경상남도 창원시 성산구 남양동 35-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-27"
+    },
+    {
+      "name": "남산슈퍼",
+      "address": "경상남도 창원시 성산구 가음정동 34-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-21"
+    },
+    {
+      "name": "킹스유통",
+      "address": "경상남도 창원시 성산구 가음정동 21-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-10"
+    },
+    {
+      "name": "개나리할인마트",
+      "address": "경상남도 창원시 성산구 남양동 26-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-26"
+    },
+    {
+      "name": "싱싱마트",
+      "address": "경상남도 창원시 성산구 남양동 22 성원2차상가109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-07"
+    },
+    {
+      "name": "안민상회",
+      "address": "경상남도 창원시 성산구 안민동 57",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-02"
+    },
+    {
+      "name": "동성2차아파트관리소",
+      "address": "경상남도 창원시 성산구 신촌동 21-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "은아아파트",
+      "address": "경상남도 창원시 성산구 신촌동 23-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "동성빌라2차관리소",
+      "address": "경상남도 창원시 성산구 신촌동 21-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "양곡아파트",
+      "address": "경상남도 창원시 성산구 신촌동 34-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "금복상회",
+      "address": "경상남도 창원시 의창구 북면 내곡리 573-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-13"
+    },
+    {
+      "name": "옥동담배집",
+      "address": "경상남도 창원시 마산합포구 우산동 452-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "하천상회",
+      "address": "경상남도 창원시 의창구 북면 하천리 162",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-27"
+    },
+    {
+      "name": "현동수퍼",
+      "address": "경상남도 창원시 마산합포구 현동 190",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "반태장",
+      "address": "경상남도 창원시 마산합포구 가포동 508-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안동상회",
+      "address": "경상남도 창원시 마산합포구 가포동 139",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가포수퍼",
+      "address": "경상남도 창원시 마산합포구 가포동 494",
+      "roadAddress": "경상남도 창원시 마산합포구 가포로 261  (가포동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "싸게파는집",
+      "address": "경상남도 창원시 의창구 명서동 48-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-01"
+    },
+    {
+      "name": "미니수퍼",
+      "address": "경상남도 창원시 마산합포구 가포동 472-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "하나마트",
+      "address": "경상남도 창원시 의창구 도계동 358-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-16"
+    },
+    {
+      "name": "가포동사무소",
+      "address": "경상남도 창원시 마산합포구 가포동 472-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "대길25시",
+      "address": "경상남도 창원시 의창구 명서동 143-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-15"
+    },
+    {
+      "name": "전원상회",
+      "address": "경상남도 창원시 마산합포구 가포동 465-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "부영슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 72-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-09"
+    },
+    {
+      "name": "구산면사무소",
+      "address": "경상남도 창원시 마산합포구 구산면 수정리 654-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "온누리슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 152-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-11"
+    },
+    {
+      "name": "구산농협수정지소",
+      "address": "경상남도 창원시 마산합포구 구산면 수정리 651-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "하나슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 88-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-24"
+    },
+    {
+      "name": "동진슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 200-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-24"
+    },
+    {
+      "name": "옥계구판장",
+      "address": "경상남도 창원시 마산합포구 구산면 옥계리 290-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "대산슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 198-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-26"
+    },
+    {
+      "name": "경진마트",
+      "address": "경상남도 창원시 마산합포구 진동면 진동리 503-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행복슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 106-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-02"
+    },
+    {
+      "name": "이화수퍼",
+      "address": "경상남도 창원시 마산합포구 진동면 진동리 400",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "24시편의점",
+      "address": "경상남도 창원시 의창구 도계동 400-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-07"
+    },
+    {
+      "name": "장미수퍼",
+      "address": "경상남도 창원시 마산합포구 진동면 진동리 883-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "비엔씨슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 151-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-19"
+    },
+    {
+      "name": "한우리수퍼",
+      "address": "경상남도 창원시 마산합포구 진동면 진동리 405-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "한아름마트",
+      "address": "경상남도 창원시 의창구 도계동 357-7-104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-11"
+    },
+    {
+      "name": "해안수퍼",
+      "address": "경상남도 창원시 마산합포구 진동면 요장리 47-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "매일할인마트",
+      "address": "경상남도 창원시 의창구 명서동 96-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-12"
+    },
+    {
+      "name": "마산공원묘원",
+      "address": "경상남도 창원시 마산합포구 진동면 인곡리 74",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 96-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-14"
+    },
+    {
+      "name": "현대유통",
+      "address": "경상남도 창원시 마산합포구 진동면 진동리 415-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "영동슈퍼",
+      "address": "경상남도 창원시 의창구 도계동 358-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-06"
+    },
+    {
+      "name": "진동면사무소",
+      "address": "경상남도 창원시 마산합포구 진동면 진동리 477",
+      "roadAddress": "경상남도 창원시 마산합포구 진동면 성산길 54",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "고성슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 58-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-18"
+    },
+    {
+      "name": "부식가게",
+      "address": "경상남도 창원시 마산합포구 진동면 고현리 348-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "LG25창원봉곡점",
+      "address": "경상남도 창원시 의창구 봉곡동 34-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-21"
+    },
+    {
+      "name": "우산상회",
+      "address": "경상남도 창원시 마산합포구 진동면 고현리 454",
+      "roadAddress": "경상남도 창원시 마산합포구 진동면 미더덕로 383",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "LG창원봉곡제일점",
+      "address": "경상남도 창원시 의창구 봉곡동 33-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-25"
+    },
+    {
+      "name": "남산구판장",
+      "address": "경상남도 창원시 마산합포구 진동면 신기리 440",
+      "roadAddress": "경상남도 창원시 마산합포구 진동면 신기남산길 120-22",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "태풍25시편의점",
+      "address": "경상남도 창원시 성산구 반지동 98-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-11"
+    },
+    {
+      "name": "동방상회",
+      "address": "경상남도 창원시 마산합포구 진동면 진동리 360",
+      "roadAddress": "경상남도 창원시 마산합포구 진동면 진동시장길 53",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "행복슈퍼",
+      "address": "경상남도 창원시 성산구 반지동 98-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-12"
+    },
+    {
+      "name": "혜창수퍼",
+      "address": "경상남도 창원시 마산합포구 진동면 요장리 393-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "동서마트",
+      "address": "경상남도 창원시 성산구 상남동 상업지구12B 상남시장2층204호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-09"
+    },
+    {
+      "name": "들말상회",
+      "address": "경상남도 창원시 마산합포구 진동면 교동리 753",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "부산식품",
+      "address": "경상남도 창원시 성산구 상남동 상남상업지구12B104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-16"
+    },
+    {
+      "name": "진동농협",
+      "address": "경상남도 창원시 마산합포구 진동면 진동리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경상남도 창원시 성산구 사파정동 상남2-2공구22B6L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-20"
+    },
+    {
+      "name": "만물상회",
+      "address": "경상남도 창원시 마산합포구 진동면 고현리 133-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "상남미니슈퍼",
+      "address": "경상남도 창원시 성산구 사파정동 상남2-2공구 28B4L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-24"
+    },
+    {
+      "name": "진동상점",
+      "address": "경상남도 창원시 마산합포구 진동면 진동리 353",
+      "roadAddress": "경상남도 창원시 마산합포구 진동면 진동시장길 65",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "홈마트",
+      "address": "경상남도 창원시 의창구 동읍 용잠리 418-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-04"
+    },
+    {
+      "name": "그린 D.C 마트",
+      "address": "경상남도 창원시 마산합포구 진동면 진동리 879-77",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "영일마트",
+      "address": "경상남도 창원시 의창구 도계동 312-1 조각빌라 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-03"
+    },
+    {
+      "name": "국군마산병원",
+      "address": "경상남도 창원시 마산합포구 진전면 임곡리 55-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "그린할인마트",
+      "address": "경상남도 창원시 의창구 도계동 352-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-14"
+    },
+    {
+      "name": "진전면사무소",
+      "address": "경상남도 창원시 마산합포구 진전면 오서리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "까치슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 105-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-05"
+    },
+    {
+      "name": "일삼상회",
+      "address": "경상남도 창원시 마산합포구 진전면 근곡리 99-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "LG마트명서점",
+      "address": "경상남도 창원시 의창구 명서동 129-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-12"
+    },
+    {
+      "name": "경성상회",
+      "address": "경상남도 창원시 마산합포구 진전면 양촌리 747",
+      "roadAddress": "경상남도 창원시 마산합포구 진전면 대정2길 6",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "쵸이마트",
+      "address": "경상남도 창원시 의창구 도계동 324-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-25"
+    },
+    {
+      "name": "우상상회",
+      "address": "경상남도 창원시 마산합포구 진전면 오서리 554",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 139-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-10"
+    },
+    {
+      "name": "창포구판장",
+      "address": "경상남도 창원시 마산합포구 진전면 창포리 211",
+      "roadAddress": "경상남도 창원시 마산합포구 진전면 회진로 1497",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "만복슈퍼",
+      "address": "경상남도 창원시 의창구 봉곡동 87-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-11"
+    },
+    {
+      "name": "광금상회",
+      "address": "경상남도 창원시 마산합포구 진전면 곡안리 72",
+      "roadAddress": "경상남도 창원시 마산합포구 진전면 팔의사로 721",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "사거리슈퍼",
+      "address": "경상남도 창원시 의창구 봉곡동 113-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-11"
+    },
+    {
+      "name": "성원수퍼",
+      "address": "경상남도 창원시 마산합포구 진북면 지산리 221-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "성원슈퍼",
+      "address": "경상남도 창원시 의창구 신월동 21-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-17"
+    },
+    {
+      "name": "진북면사무소",
+      "address": "경상남도 창원시 마산합포구 진북면 지산리 244-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경상남도 창원시 의창구 신월동 83-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-06"
+    },
+    {
+      "name": "안동상회",
+      "address": "경상남도 창원시 마산합포구 진북면 지산리 226-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "두배로싼마트",
+      "address": "경상남도 창원시 성산구 사파정동 상남2-2공구 18B4L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-20"
+    },
+    {
+      "name": "대성상회",
+      "address": "경상남도 창원시 마산합포구 진북면 지산리 248-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "건어물",
+      "address": "경상남도 창원시 성산구 상남동 상남상업지구 12B 상남시장 1층 c-135",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-12"
+    },
+    {
+      "name": "제일상회",
+      "address": "경상남도 창원시 마산합포구 진북면 지산리 231-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "사파그린마트",
+      "address": "경상남도 창원시 성산구 사파동 128-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-18"
+    },
+    {
+      "name": "경남유통",
+      "address": "경상남도 창원시 마산합포구 진북면 지산리 244-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "중앙할인마트",
+      "address": "경상남도 창원시 성산구 사파동 30-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-20"
+    },
+    {
+      "name": "동우정밀구내매점",
+      "address": "경상남도 창원시 성산구 신촌동 101-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-13"
+    },
+    {
+      "name": "정우정밀구내매점",
+      "address": "경상남도 창원시 성산구 신촌동 112-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-19"
+    },
+    {
+      "name": "오성슈퍼",
+      "address": "경상남도 창원시 성산구 신촌동 103-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-28"
+    },
+    {
+      "name": "통장",
+      "address": "경상남도 창원시 마산합포구 예곡동 55",
+      "roadAddress": "경상남도 창원시 마산합포구 예곡길 33-130  (예곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-08"
+    },
+    {
+      "name": "용전상점",
+      "address": "경상남도 창원시 의창구 동읍 용전리 102-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-29"
+    },
+    {
+      "name": "마산시보건소장",
+      "address": "경상남도 창원시 마산합포구 해운동 61-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-08"
+    },
+    {
+      "name": "남산상회",
+      "address": "경상남도 창원시 의창구 동읍 남산리 277-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-29"
+    },
+    {
+      "name": "건우수퍼",
+      "address": "경상남도 창원시 마산합포구 진동면 사동리 292",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-08"
+    },
+    {
+      "name": "덕산상회",
+      "address": "경상남도 창원시 의창구 동읍 덕산리 312",
+      "roadAddress": "경상남도 창원시 의창구 동읍 덕산길37번길 2-5",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-29"
+    },
+    {
+      "name": "가월우물상회",
+      "address": "경상남도 창원시 의창구 동읍 월잠리 397",
+      "roadAddress": "경상남도 창원시 의창구 동읍 주남로61번길 17-2",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-29"
+    },
+    {
+      "name": "용산상회",
+      "address": "경상남도 창원시 의창구 동읍 죽동리 529-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-29"
+    },
+    {
+      "name": "봉강상회",
+      "address": "경상남도 창원시 의창구 동읍 봉강리 110-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-29"
+    },
+    {
+      "name": "동래상회",
+      "address": "경상남도 창원시 의창구 동읍 남산리 157",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-29"
+    },
+    {
+      "name": "본포리상회",
+      "address": "경상남도 창원시 의창구 동읍 본포리 180",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-29"
+    },
+    {
+      "name": "창범슈퍼",
+      "address": "경상남도 창원시 진해구 광화동 10-6",
+      "roadAddress": "경상남도 창원시 진해구 충무로 24  (광화동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-31"
+    },
+    {
+      "name": "함안슈퍼",
+      "address": "경상남도 창원시 의창구 팔용동 135-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "건일상사",
+      "address": "경상남도 창원시 의창구 팔용동 4-27",
+      "roadAddress": "경상남도 창원시 의창구 차상로8번길 29  (팔용동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-03-24"
+    },
+    {
+      "name": "깡통슈퍼",
+      "address": "경상남도 창원시 의창구 팔용동 104-1 팔용프라자 1층 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산장상회",
+      "address": "경상남도 창원시 진해구 중앙동 10-5",
+      "roadAddress": "경상남도 창원시 진해구 중원동로 56  (중앙동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-31"
+    },
+    {
+      "name": "세븐일레븐 창원팔용중앙점",
+      "address": "경상남도 창원시 의창구 팔용동 161-4 한창빌딩 102호",
+      "roadAddress": "경상남도 창원시 의창구 사화로 16,  102호 (팔용동,한창빌딩)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-25"
+    },
+    {
+      "name": "마르스",
+      "address": "경상남도 창원시 성산구 대원동 31-1",
+      "roadAddress": "경상남도 창원시 성산구 대원로 75-3  (대원동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-08-22"
+    },
+    {
+      "name": "좋은이웃종합식자재할인마트",
+      "address": "경상남도 창원시 의창구 팔용동 170-10",
+      "roadAddress": "경상남도 창원시 의창구 남산로 31  (팔용동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-08-23"
+    },
+    {
+      "name": "팔용구내매점",
+      "address": "경상남도 창원시 의창구 팔용동 61-11 삼아공업 구내매점",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-04"
+    },
+    {
+      "name": "윈젠구내매점",
+      "address": "경상남도 창원시 의창구 팔용동 61-11 윈젠구내매점",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-19"
+    },
+    {
+      "name": "베스트마트",
+      "address": "경상남도 창원시 의창구 팔용동 21-4 지하 1층 (주)비엔에프 구내식당 내",
+      "roadAddress": "경상남도 창원시 의창구 창원대로204번길 9  (팔용동,지하 1층 (주)비엔에프 구내식당 내)",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-24"
+    },
+    {
+      "name": "GS25 창원극동점",
+      "address": "경상남도 창원시 의창구 팔용동 104-1 팔용프라자 107호",
+      "roadAddress": "경상남도 창원시 의창구 팔용로 429,  107호 (팔용동,팔용프라자)",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-04"
+    },
+    {
+      "name": "공장매점",
+      "address": "경상남도 창원시 의창구 팔용동 41-3",
+      "roadAddress": "경상남도 창원시 의창구 사화로 210  (팔용동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-02-05"
+    },
+    {
+      "name": "표준3 공장매점",
+      "address": "경상남도 창원시 의창구 팔용동 36 복지동 1층 2호",
+      "roadAddress": "경상남도 창원시 의창구 창원대로363번길 11  (팔용동,복지동 1층 2호)",
+      "status": "영업/정상",
+      "licenseDate": "2008-02-13"
+    },
+    {
+      "name": "GS25 팔용제일점",
+      "address": "경상남도 창원시 의창구 팔용동 159-1",
+      "roadAddress": "경상남도 창원시 의창구 사화로10번길 5  (팔용동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-03-05"
+    },
+    {
+      "name": "공단종합상사",
+      "address": "경상남도 창원시 의창구 팔용동 16-1 1층 140호",
+      "roadAddress": "경상남도 창원시 의창구 창원대로 400,  140호 (팔용동,1층)",
+      "status": "영업/정상",
+      "licenseDate": "2008-03-12"
+    },
+    {
+      "name": "베스트마트",
+      "address": "경상남도 창원시 의창구 팔용동 27-7 한국산업단지공단 제1 아파트형공장 구내식당 내",
+      "roadAddress": "경상남도 창원시 의창구 팔용로 355  (팔용동,한국산업단지공단 제1 아파트형공장 구내식당 내)",
+      "status": "영업/정상",
+      "licenseDate": "2008-03-18"
+    },
+    {
+      "name": "현동수퍼",
+      "address": "경상남도 창원시 마산합포구 현동 190",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "현동사무소",
+      "address": "경상남도 창원시 마산합포구 현동 383-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "건화수퍼렛",
+      "address": "경상남도 창원시 마산합포구 가포동 508-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "안동상회",
+      "address": "경상남도 창원시 마산합포구 가포동 139",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-31"
+    },
+    {
+      "name": "성진스토아",
+      "address": "경상남도 창원시 의창구 동읍 용정리 19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-08"
+    },
+    {
+      "name": "구구종합슈퍼",
+      "address": "경상남도 창원시 의창구 동읍 용정리 20-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-08"
+    },
+    {
+      "name": "무성슈퍼",
+      "address": "경상남도 창원시 의창구 동읍 무성리 175",
+      "roadAddress": "경상남도 창원시 의창구 동읍 무성길85번길 9",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-08"
+    },
+    {
+      "name": "으뜸스토아",
+      "address": "경상남도 창원시 의창구 동읍 무성리 193",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-08"
+    },
+    {
+      "name": "한일상사",
+      "address": "경상남도 창원시 의창구 동읍 용잠리 208",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-08"
+    },
+    {
+      "name": "삼구슈퍼",
+      "address": "경상남도 창원시 의창구 동읍 용잠리 408",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-08"
+    },
+    {
+      "name": "한가족쇼핑",
+      "address": "경상남도 창원시 의창구 동읍 용잠리 419",
+      "roadAddress": "경상남도 창원시 의창구 동읍 동읍로 13-1",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-08"
+    },
+    {
+      "name": "아이보리쇼핑",
+      "address": "경상남도 창원시 의창구 동읍 용잠리 410",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-08"
+    },
+    {
+      "name": "청미산업(주)",
+      "address": "경상남도 창원시 의창구 동읍 송정리 160-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-08"
+    },
+    {
+      "name": "동광상회",
+      "address": "경상남도 창원시 의창구 동읍 남산리 144",
+      "roadAddress": "경상남도 창원시 의창구 동읍 용남길10번길 11-5",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-08"
+    },
+    {
+      "name": "우성빅할인마트",
+      "address": "경상남도 창원시 의창구 동읍 무성리 152",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-14"
+    },
+    {
+      "name": "용전담배집",
+      "address": "경상남도 창원시 의창구 동읍 용전리 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-14"
+    },
+    {
+      "name": "용강마을회관",
+      "address": "경상남도 창원시 의창구 동읍 용강리 448-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-29"
+    },
+    {
+      "name": "낙동상회",
+      "address": "경상남도 창원시 의창구 북면 신촌리 451-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-04"
+    },
+    {
+      "name": "화신상회",
+      "address": "경상남도 창원시 의창구 북면 신촌리 584-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-04"
+    },
+    {
+      "name": "대천상회",
+      "address": "경상남도 창원시 의창구 북면 화천리 787-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-04"
+    },
+    {
+      "name": "대우상회",
+      "address": "경상남도 창원시 의창구 북면 대산리 270-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-04"
+    },
+    {
+      "name": "춘광패밀리마트",
+      "address": "경상남도 창원시 의창구 북면 신촌리 905-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-17"
+    },
+    {
+      "name": "펄프라이스",
+      "address": "경상남도 창원시 의창구 대산면 제동리 273-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-01"
+    },
+    {
+      "name": "신성슈퍼",
+      "address": "경상남도 창원시 의창구 대산면 일동리 290-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-08"
+    },
+    {
+      "name": "대동상회",
+      "address": "경상남도 창원시 의창구 대산면 가술리 387-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-08"
+    },
+    {
+      "name": "해강슈퍼",
+      "address": "경상남도 창원시 의창구 대산면 가술리 108-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-08"
+    },
+    {
+      "name": "대산농협연쇄점",
+      "address": "경상남도 창원시 의창구 대산면 가술리 388-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-25"
+    },
+    {
+      "name": "대산미화당슈퍼",
+      "address": "경상남도 창원시 의창구 대산면 제동리 273-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-08"
+    },
+    {
+      "name": "담배집",
+      "address": "경상남도 창원시 의창구 북동 250",
+      "roadAddress": "경상남도 창원시 의창구 의안로49번길 34  (북동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "대한슈퍼",
+      "address": "경상남도 창원시 의창구 중동 514-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "훼미리마트소답점",
+      "address": "경상남도 창원시 의창구 소답동 120-1  1층5호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "정화슈퍼",
+      "address": "경상남도 창원시 의창구 소답동 122-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "코끼리할인마트",
+      "address": "경상남도 창원시 의창구 동정동 290-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-02-11"
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "경상남도 창원시 의창구 소답동 148-3 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "소계유통",
+      "address": "경상남도 창원시 의창구 소계동 724-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-02-11"
+    },
+    {
+      "name": "(주)서원유통",
+      "address": "경상남도 창원시 의창구 팔용동 190",
+      "roadAddress": "경상남도 창원시 의창구 남산로17번길 28  (팔용동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-19"
+    },
+    {
+      "name": "신성유통",
+      "address": "경상남도 창원시 의창구 소답동 9B6-5L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-27"
+    },
+    {
+      "name": "동부농협연쇄점",
+      "address": "경상남도 창원시 의창구 북동 237",
+      "roadAddress": "경상남도 창원시 의창구 읍성로 27  (북동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-18"
+    },
+    {
+      "name": "친절마트",
+      "address": "경상남도 창원시 의창구 소답동 29B12L 금강목화아파트 205호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-22"
+    },
+    {
+      "name": "화광할인마트",
+      "address": "경상남도 창원시 의창구 동정동 254-2 화광빌라상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-19"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "경상남도 창원시 의창구 소답동 10B1L국도그랜드 109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-27"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "경상남도 창원시 의창구 소답동 46-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-06"
+    },
+    {
+      "name": "다다소계점",
+      "address": "경상남도 창원시 의창구 소계동 715-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-20"
+    },
+    {
+      "name": "뉴월드마트",
+      "address": "경상남도 창원시 의창구 소답동 107-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-20"
+    },
+    {
+      "name": "창원할인매장",
+      "address": "경상남도 창원시 의창구 소답동 135-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-20"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경상남도 창원시 의창구 소답동 430-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-27"
+    },
+    {
+      "name": "한서슈퍼",
+      "address": "경상남도 창원시 의창구 소답동 104-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-01"
+    },
+    {
+      "name": "코렉스자전거",
+      "address": "경상남도 창원시 의창구 소답동 130-136",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-26"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "경상남도 창원시 의창구 소계동 722-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-21"
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "경상남도 창원시 의창구 소답동 141-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-22"
+    },
+    {
+      "name": "엄씨상회",
+      "address": "경상남도 창원시 의창구 북동 218 북동시장내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-07"
+    },
+    {
+      "name": "유진슈퍼",
+      "address": "경상남도 창원시 의창구 팔용동 178-5 유진상가 빌라 1층 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-04"
+    },
+    {
+      "name": "남산슈퍼",
+      "address": "경상남도 창원시 의창구 서상동 16-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-05"
+    },
+    {
+      "name": "알파마트",
+      "address": "경상남도 창원시 의창구 소계동 723-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-13"
+    },
+    {
+      "name": "대동마트",
+      "address": "경상남도 창원시 의창구 대원동 대동아파트상가 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-28"
+    },
+    {
+      "name": "서원유통친절25시",
+      "address": "경상남도 창원시 의창구 팔용동 벽산아파트B-1상가 106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-07"
+    },
+    {
+      "name": "(주)삼경종합전기",
+      "address": "경상남도 창원시 마산회원구 구암동 277-6 대동중앙아파트 목욕탕건물 105호",
+      "roadAddress": "경상남도 창원시 마산회원구 구암북1길 6-1 (구암동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-22"
+    },
+    {
+      "name": "현아슈퍼",
+      "address": "경상남도 창원시 의창구 대원동 17-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-29"
+    },
+    {
+      "name": "광동마트",
+      "address": "경상남도 창원시 의창구 팔용동 벽산아파트상가 109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-04"
+    },
+    {
+      "name": "한일식당",
+      "address": "경상남도 창원시 의창구 팔용동 차룡단지 3-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-09"
+    },
+    {
+      "name": "쌍용구내식당",
+      "address": "경상남도 창원시 의창구 대원동 41-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-14"
+    },
+    {
+      "name": "화인식당",
+      "address": "경상남도 창원시 의창구 팔용동 3-2차6-2-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-16"
+    },
+    {
+      "name": "(주)용성테크",
+      "address": "경상남도 창원시 마산합포구 오동동 55-16 3층",
+      "roadAddress": "경상남도 창원시 마산합포구 교방천남길 360, 3층 (오동동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-26"
+    },
+    {
+      "name": "공단매점",
+      "address": "경상남도 창원시 의창구 두대동 145 종합운동장내",
+      "roadAddress": "경상남도 창원시 의창구 원이대로 450  (두대동,종합운동장내)",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-29"
+    },
+    {
+      "name": "중앙문구서점",
+      "address": "경상남도 창원시 의창구 팔용동 대동아파트내중앙상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-10"
+    },
+    {
+      "name": "홍익슈퍼",
+      "address": "경상남도 창원시 의창구 팔용동 창원기계공구상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-26"
+    },
+    {
+      "name": "신환슈퍼",
+      "address": "경상남도 창원시 의창구 팔용동 84-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-31"
+    },
+    {
+      "name": "서원탑훼미리팔룡점",
+      "address": "경상남도 창원시 의창구 팔용동 139-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-22"
+    },
+    {
+      "name": "대원그린마트",
+      "address": "경상남도 창원시 의창구 대원동 14-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-03"
+    },
+    {
+      "name": "행운마트",
+      "address": "경상남도 창원시 의창구 팔용동 123-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-03"
+    },
+    {
+      "name": "벽산할인마트",
+      "address": "경상남도 창원시 의창구 팔용동 122",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-03"
+    },
+    {
+      "name": "카플렛스매점",
+      "address": "경상남도 창원시 의창구 대원동 74-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-29"
+    },
+    {
+      "name": "한국민속식품",
+      "address": "경상남도 창원시 의창구 팔용동 16-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-03"
+    },
+    {
+      "name": "삼양슈퍼",
+      "address": "경상남도 창원시 의창구 팔용동 125",
+      "roadAddress": "경상남도 창원시 의창구 남산로 20  (팔용동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-03"
+    },
+    {
+      "name": "하나로마트",
+      "address": "경상남도 창원시 의창구 팔용동 123-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-15"
+    },
+    {
+      "name": "금관슈퍼",
+      "address": "경상남도 창원시 성산구 대원동 80-0",
+      "roadAddress": "경상남도 창원시 성산구 창원대로 538  (대원동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-17"
+    },
+    {
+      "name": "구내매점",
+      "address": "경상남도 창원시 의창구 팔용동 1-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-04"
+    },
+    {
+      "name": "매일할인마트",
+      "address": "경상남도 창원시 의창구 팔용동 95-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-02"
+    },
+    {
+      "name": "LG25시",
+      "address": "경상남도 창원시 의창구 팔용동 155-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "동양상가아파트관리사무소",
+      "address": "경상남도 창원시 의창구 대원동 42-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "동하슈퍼",
+      "address": "경상남도 창원시 의창구 도계동 65B19-1L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "경상남도 창원시 의창구 도계동 99B3L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-28"
+    },
+    {
+      "name": "일흥슈퍼",
+      "address": "경상남도 창원시 의창구 도계동 86B4L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-16"
+    },
+    {
+      "name": "신흥잡화",
+      "address": "경상남도 창원시 의창구 도계동 129B1-2L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-28"
+    },
+    {
+      "name": "도계쇼핑",
+      "address": "경상남도 창원시 의창구 도계동 132B3L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-17"
+    },
+    {
+      "name": "매트로마트",
+      "address": "경상남도 창원시 의창구 도계동 124B1L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-17"
+    },
+    {
+      "name": "대창산업설비(주)",
+      "address": "경상남도 창원시 마산회원구 내서읍 중리 1120-5 127B 4-1L",
+      "roadAddress": "경상남도 창원시 마산회원구 내서읍 중리공단로5길 29-2",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "디시마트",
+      "address": "경상남도 창원시 의창구 도계동 307-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-11"
+    },
+    {
+      "name": "현대하이퍼마켓",
+      "address": "경상남도 창원시 의창구 명서동 27 명곡주공아파트 복합상가 107",
+      "roadAddress": "경상남도 창원시 의창구 도계로 135  (명서동,명곡주공아파트 복합상가 107)",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-18"
+    },
+    {
+      "name": "명서슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 46-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-21"
+    },
+    {
+      "name": "명서슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 199-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-26"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 108-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-11"
+    },
+    {
+      "name": "미래할인마트",
+      "address": "경상남도 창원시 의창구 명서동 96-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-05"
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 113-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원하이슈퍼",
+      "address": "경상남도 창원시 의창구 도계동 424-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-19"
+    },
+    {
+      "name": "뜨는마트",
+      "address": "경상남도 창원시 의창구 명서동 83-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-14"
+    },
+    {
+      "name": "등나무할인마트",
+      "address": "경상남도 창원시 의창구 도계동 904-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-09"
+    },
+    {
+      "name": "형제종합슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 113-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-27"
+    },
+    {
+      "name": "북면할인마트",
+      "address": "경상남도 창원시 의창구 명서동 172-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-13"
+    },
+    {
+      "name": "서부마트",
+      "address": "경상남도 창원시 의창구 명서동 12-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-03"
+    },
+    {
+      "name": "용가리슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 65-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-07"
+    },
+    {
+      "name": "명곡슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 136-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-10"
+    },
+    {
+      "name": "대성상회",
+      "address": "경상남도 창원시 의창구 명서동 162-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-18"
+    },
+    {
+      "name": "우성슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 134-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-18"
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "경상남도 창원시 의창구 명서동 207-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-19"
+    },
+    {
+      "name": "금곡종합인테리어",
+      "address": "경상남도 창원시 의창구 명서동 138-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-04"
+    },
+    {
+      "name": "현대종합유통센타",
+      "address": "경상남도 창원시 의창구 도계동 322-10 하이츠빌라106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-04"
+    },
+    {
+      "name": "임호슈퍼",
+      "address": "경상남도 창원시 의창구 도계동 417-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-22"
+    },
+    {
+      "name": "남도슈퍼",
+      "address": "경상남도 창원시 성산구 반림동 12",
+      "roadAddress": "경상남도 창원시 성산구 원이대로473번길 25  (반림동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-11"
+    },
+    {
+      "name": "초원슈퍼",
+      "address": "경상남도 창원시 성산구 반림동 17-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-01"
+    },
+    {
+      "name": "농협반림하나로마트",
+      "address": "경상남도 창원시 성산구 반림동 4-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-04"
+    },
+    {
+      "name": "중앙연쇄점",
+      "address": "경상남도 창원시 성산구 반지동 41-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "창원슈퍼",
+      "address": "경상남도 창원시 성산구 반지동 42-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-15"
+    },
+    {
+      "name": "대명슈퍼",
+      "address": "경상남도 창원시 성산구 반지동 55-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "오오25시슈퍼",
+      "address": "경상남도 창원시 성산구 반림동 10-1 일반상가6호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-10"
+    },
+    {
+      "name": "대림슈퍼",
+      "address": "경상남도 창원시 성산구 반지동 85-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상남도 창원시 성산구 반지동 75-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-28"
+    },
+    {
+      "name": "대일문구",
+      "address": "경상남도 창원시 성산구 반지동 30-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "영남슈퍼",
+      "address": "경상남도 창원시 성산구 반지동 62-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-28"
+    },
+    {
+      "name": "거창할인마트",
+      "address": "경상남도 창원시 성산구 반지동 117-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-22"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상남도 창원시 성산구 반지동 35-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "원앙슈퍼",
+      "address": "경상남도 창원시 성산구 반지동 55-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-02"
+    },
+    {
+      "name": "대산할인마트",
+      "address": "경상남도 창원시 성산구 반지동 115-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-20"
+    },
+    {
+      "name": "시영슈퍼",
+      "address": "경상남도 창원시 성산구 반송동 까치2차",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "까치부식",
+      "address": "경상남도 창원시 성산구 반송동 까치1차",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-15"
+    },
+    {
+      "name": "까치슈퍼",
+      "address": "경상남도 창원시 성산구 반송동 까치2차",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-05-12"
+    },
+    {
+      "name": "밀양슈퍼",
+      "address": "경상남도 창원시 성산구 반지동 119-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-21"
+    },
+    {
+      "name": "오뚜기슈퍼",
+      "address": "경상남도 창원시 성산구 반지동 90-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-10"
+    },
+    {
+      "name": "부흥슈퍼",
+      "address": "경상남도 창원시 성산구 반지동 58-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-06-10"
+    },
+    {
+      "name": "대동슈퍼",
+      "address": "경상남도 창원시 성산구 반송동 대동A'목욕탕상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경상남도 창원시 성산구 반지동 103-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-29"
+    },
+    {
+      "name": "유성슈퍼",
+      "address": "경상남도 창원시 성산구 반지동 33-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-24"
+    },
+    {
+      "name": "대동슈퍼",
+      "address": "경상남도 창원시 성산구 반지동 90-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-17"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상남도 창원시 성산구 중앙동 51-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-14"
+    },
+    {
+      "name": "경산슈퍼",
+      "address": "경상남도 창원시 성산구 중앙동 60-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-08"
+    },
+    {
+      "name": "성호슈퍼",
+      "address": "경상남도 창원시 성산구 중앙동 16-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-06"
+    },
+    {
+      "name": "진양슈퍼",
+      "address": "경상남도 창원시 성산구 상남동 중앙상가6호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-06"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경상남도 창원시 성산구 중앙동 69-1 중앙상가시장",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-14"
+    }
+  ]
+}

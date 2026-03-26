@@ -1,0 +1,1921 @@
+{
+  "region": "전라남도",
+  "regionSlug": "jeonnam",
+  "district": "곡성군",
+  "districtSlug": "gokseong",
+  "updatedAt": "2026-03-26",
+  "totalCount": 273,
+  "stores": [
+    {
+      "name": "새마을 구판장",
+      "address": "전라남도 곡성군 목사동면 용봉리 618",
+      "roadAddress": "전라남도 곡성군 목사동면 용봉길 33",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 목사동면 용사리 673",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "부녀회장",
+      "address": "전라남도 곡성군 목사동면 공북리 62-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "부녀회장",
+      "address": "전라남도 곡성군 목사동면 공북리 581",
+      "roadAddress": "전라남도 곡성군 목사동면 공북길 18",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "신전상회",
+      "address": "전라남도 곡성군 목사동면 신전리 826",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "하죽상회",
+      "address": "전라남도 곡성군 죽곡면 태평리 243",
+      "roadAddress": "전라남도 곡성군 죽곡면 하죽길 74",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "죽곡문구사",
+      "address": "전라남도 곡성군 죽곡면 태평리 402-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-04-15"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 죽곡면 화양리 288",
+      "roadAddress": "전라남도 곡성군 죽곡면 화양기동길 57",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "구멍가게",
+      "address": "전라남도 곡성군 죽곡면 봉정리 427",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "봉정상회",
+      "address": "전라남도 곡성군 죽곡면 봉정리 532",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "봉정슈퍼",
+      "address": "전라남도 곡성군 죽곡면 봉정리 519",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 죽곡면 신풍리 596",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 죽곡면 신풍리 310",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 죽곡면 연화리 183",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 죽곡면 삼태리 441",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 죽곡면 당동리 451",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "당동슈퍼",
+      "address": "전라남도 곡성군 죽곡면 당동리 345",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 죽곡면 당동리 173",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 죽곡면 남양리 23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 죽곡면 유봉리 357",
+      "roadAddress": "전라남도 곡성군 죽곡면 비봉가목길 101",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "유봉식육점",
+      "address": "전라남도 곡성군 죽곡면 유봉리 40-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "새마을 주점",
+      "address": "전라남도 곡성군 죽곡면 동계리 537",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "창기 부녀회장",
+      "address": "전라남도 곡성군 죽곡면 동계리 207",
+      "roadAddress": "전라남도 곡성군 죽곡면 창기길 3",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 죽곡면 동계리 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 죽곡면 원달리 752",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "담배가게",
+      "address": "전라남도 곡성군 죽곡면 원달리 238",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "담배가게",
+      "address": "전라남도 곡성군 죽곡면 고치리 314",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "용정슈퍼",
+      "address": "전라남도 곡성군 죽곡면 용정리 43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "북소상회",
+      "address": "전라남도 곡성군 죽곡면 용정리 235-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 죽곡면 하한리 352",
+      "roadAddress": "전라남도 곡성군 죽곡면 하한길 142",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 죽곡면 하한리 650",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 죽곡면 하한리 158",
+      "roadAddress": "전라남도 곡성군 죽곡면 조사길 9",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "태안산장",
+      "address": "전라남도 곡성군 죽곡면 원달리 800",
+      "roadAddress": "전라남도 곡성군 죽곡면 태안로 622-6",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "죽곡연쇄점",
+      "address": "전라남도 곡성군 죽곡면 하한리 937-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "개인",
+      "address": "전라남도 곡성군 죽곡면 용정리 49",
+      "roadAddress": "전라남도 곡성군 죽곡면 용정길 47",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "개인",
+      "address": "전라남도 곡성군 죽곡면 용정리 204",
+      "roadAddress": "전라남도 곡성군 죽곡면 용정길 51-1",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "개인",
+      "address": "전라남도 곡성군 죽곡면 원달리 741-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "개인",
+      "address": "전라남도 곡성군 죽곡면 원달리 산 315",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "곡성농협 고달지점",
+      "address": "전라남도 곡성군 고달면 목동리 910-1",
+      "roadAddress": "전라남도 곡성군 고달면 고주로 24",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "명진상회",
+      "address": "전라남도 곡성군 고달면 목동리 146",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "전라남도 곡성군 고달면 목동리 705-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "목이상회",
+      "address": "전라남도 곡성군 고달면 목동리 884",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "뇌연담배집",
+      "address": "전라남도 곡성군 고달면 뇌죽리 841",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 고달면 뇌죽리 302",
+      "roadAddress": "전라남도 곡성군 고달면 죽림마을길 35",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "대사리상회",
+      "address": "전라남도 곡성군 고달면 대사리 354",
+      "roadAddress": "전라남도 곡성군 고달면 대사로 188-7",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 고달면 대사리 128",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "전라남도 곡성군 고달면 백곡리 732",
+      "roadAddress": "전라남도 곡성군 고달면 백곡길 15-16",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "전라남도 곡성군 고달면 백곡리 737",
+      "roadAddress": "전라남도 곡성군 고달면 백곡길 11",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 고달면 백곡리 135",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "고달리 상회",
+      "address": "전라남도 곡성군 고달면 백곡리 135",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 고달면 목동리 910-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 고달면 목동리 146",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 고달면 목동리 705-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 고달면 목동리 884",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "섬진슈퍼",
+      "address": "전라남도 곡성군 고달면 목동리 910-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "담배가게",
+      "address": "전라남도 곡성군 옥과면 옥과리 172",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "담배가게",
+      "address": "전라남도 곡성군 옥과면 옥과리 184",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "모두랑",
+      "address": "전라남도 곡성군 옥과면 옥과리 149",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "옥과축협",
+      "address": "전라남도 곡성군 옥과면 옥과리 87-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "해태슈퍼",
+      "address": "전라남도 곡성군 옥과면 옥과리 70-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "담배가게",
+      "address": "전라남도 곡성군 옥과면 죽림리 401",
+      "roadAddress": "전라남도 곡성군 옥과면 옥과8길 4",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "담배가게",
+      "address": "전라남도 곡성군 옥과면 죽림리 368",
+      "roadAddress": "전라남도 곡성군 옥과면 죽림1길 24-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "다정집",
+      "address": "전라남도 곡성군 옥과면 죽림리 124",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "고운상회",
+      "address": "전라남도 곡성군 옥과면 죽림리 204-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "부녀회장",
+      "address": "전라남도 곡성군 옥과면 죽림리 548",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "옥과농협",
+      "address": "전라남도 곡성군 옥과면 리문리 224-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 옥과면 주산리 739",
+      "roadAddress": "전라남도 곡성군 옥과면 배감길 119-2",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 옥과면 수리 506",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "옥수가든",
+      "address": "전라남도 곡성군 옥과면 수리 827",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "부녀회장",
+      "address": "전라남도 곡성군 옥과면 소룡리 111",
+      "roadAddress": "전라남도 곡성군 옥과면 소룡길 256-11",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 곡성군 옥과면 합강리 157-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 옥과면 합강리 510",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "그린마트 편의점",
+      "address": "전라남도 곡성군 옥과면 옥과리 221-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "중앙상회",
+      "address": "전라남도 곡성군 옥과면 옥과리 132-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "일성상회",
+      "address": "전라남도 곡성군 옥과면 옥과리 17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "옥산지업사",
+      "address": "전라남도 곡성군 옥과면 리문리 193",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "조운당 슈퍼",
+      "address": "전라남도 곡성군 옥과면 옥과리 83-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-28"
+    },
+    {
+      "name": "입면농협",
+      "address": "전라남도 곡성군 입면 매월리 581",
+      "roadAddress": "전라남도 곡성군 입면 입면로 683",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "입면농업협동조합(창정분점)",
+      "address": "전라남도 곡성군 입면 창정리 63-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "부흥상회",
+      "address": "전라남도 곡성군 입면 서봉리 입구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "제월리슈퍼",
+      "address": "전라남도 곡성군 입면 제월리 417-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "전라남도 곡성군 입면 창정리 164-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "입면상회",
+      "address": "전라남도 곡성군 입면 입석리 369",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "삼오리 구판장",
+      "address": "전라남도 곡성군 입면 삼오리 609-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "송전상회",
+      "address": "전라남도 곡성군 입면 송전리 1-271",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "종방슈퍼",
+      "address": "전라남도 곡성군 입면 송전리 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 입면 매월리 403",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 입면 매월리 586-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 입면 흑석리 104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 입면 대장리 380",
+      "roadAddress": "전라남도 곡성군 입면 대장하대길 7-2",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 입면 약천리 376",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 입면 만수리 78",
+      "roadAddress": "전라남도 곡성군 입면 만수대곡길 140-5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 입면 만수리 462",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 입면 금산리 167",
+      "roadAddress": "전라남도 곡성군 입면 금산상금길 123-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 입면 금산리 277",
+      "roadAddress": "전라남도 곡성군 입면 금산내금길 71",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 입면 금산리 360",
+      "roadAddress": "전라남도 곡성군 입면 금산외금길 31-4",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 입면 금산리 616",
+      "roadAddress": "전라남도 곡성군 입면 금산택촌길 58-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 입면 서봉리 348",
+      "roadAddress": "전라남도 곡성군 입면 서봉탑동길 33",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 입면 제월리 59",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 입면 제월리 238",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 입면 창정리 24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 입면 입석리 295",
+      "roadAddress": "전라남도 곡성군 입면 입석하입길 77",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 입면 입석리 212",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "곡성할인마트",
+      "address": "전라남도 곡성군 곡성읍 읍내리 712-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-31"
+    },
+    {
+      "name": "곡성축산업협동조합",
+      "address": "전라남도 곡성군 곡성읍 읍내리 796-12",
+      "roadAddress": "전라남도 곡성군 곡성읍 군청로 3",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-27"
+    },
+    {
+      "name": "성암맨션",
+      "address": "전라남도 곡성군 옥과면 죽림리 101-1 성암맨션",
+      "roadAddress": "전라남도 곡성군 옥과면 죽림2길 45 (성암맨션)",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-19"
+    },
+    {
+      "name": "영마트",
+      "address": "전라남도 곡성군 곡성읍 읍내리 308-3",
+      "roadAddress": "전라남도 곡성군 곡성읍 중앙로 96-1",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-08"
+    },
+    {
+      "name": "장터할인마트",
+      "address": "전라남도 곡성군 옥과면 옥과리 74-1",
+      "roadAddress": "전라남도 곡성군 옥과면 대학로 155",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-29"
+    },
+    {
+      "name": "MASTER",
+      "address": "전라남도 곡성군 옥과면 옥과리 214-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-05"
+    },
+    {
+      "name": "겸면농협",
+      "address": "전라남도 곡성군 겸면 남양리 105-4",
+      "roadAddress": "전라남도 곡성군 겸면 곡순로 1873",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-17"
+    },
+    {
+      "name": "미니스톱 옥과점",
+      "address": "전라남도 곡성군 옥과면 리문리 227",
+      "roadAddress": "전라남도 곡성군 옥과면 대학로 140",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-23"
+    },
+    {
+      "name": "광기슈퍼",
+      "address": "전라남도 곡성군 곡성읍 학정리 535-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-01"
+    },
+    {
+      "name": "황금마트",
+      "address": "전라남도 곡성군 곡성읍 읍내리 718-7",
+      "roadAddress": "전라남도 곡성군 곡성읍 학교로 101",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-06"
+    },
+    {
+      "name": "한양홈마트",
+      "address": "전라남도 곡성군 곡성읍 학정리 535-1 한양홈마트",
+      "roadAddress": "전라남도 곡성군 곡성읍 삼인동길 21-1, 한양홈마트",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-14"
+    },
+    {
+      "name": "죽곡농협",
+      "address": "전라남도 곡성군 죽곡면 태평리 398-9",
+      "roadAddress": "전라남도 곡성군 죽곡면 오죽로 24",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-11"
+    },
+    {
+      "name": "도림산장",
+      "address": "전라남도 곡성군 곡성읍 월봉리 322-6",
+      "roadAddress": "전라남도 곡성군 곡성읍 도림로 121",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-01"
+    },
+    {
+      "name": "초원마트",
+      "address": "전라남도 곡성군 곡성읍 읍내리 277",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-19"
+    },
+    {
+      "name": "마트타운",
+      "address": "전라남도 곡성군 곡성읍 읍내리 368",
+      "roadAddress": "전라남도 곡성군 곡성읍 중앙로 127",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-18"
+    },
+    {
+      "name": "화이트존",
+      "address": "전라남도 곡성군 옥과면 옥과리 222-1",
+      "roadAddress": "전라남도 곡성군 옥과면 대학로 110",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-29"
+    },
+    {
+      "name": "송정횟집",
+      "address": "전라남도 곡성군 오곡면 송정리 27-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-05-30"
+    },
+    {
+      "name": "사랑할인마트",
+      "address": "전라남도 곡성군 옥과면 리문리 220-1",
+      "roadAddress": "전라남도 곡성군 옥과면 대학로 146",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-22"
+    },
+    {
+      "name": "GS25 전남과학대점",
+      "address": "전라남도 곡성군 옥과면 옥과리 149-13",
+      "roadAddress": "전라남도 곡성군 옥과면 대학로 125",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-04"
+    },
+    {
+      "name": "GS25 곡성읍내점",
+      "address": "전라남도 곡성군 곡성읍 읍내리 718-7",
+      "roadAddress": "전라남도 곡성군 곡성읍 학교로 101",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-17"
+    },
+    {
+      "name": "플러스편의점",
+      "address": "전라남도 곡성군 옥과면 옥과리 221-8",
+      "roadAddress": "전라남도 곡성군 옥과면 대학로 118",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-17"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 입면 삼오리 58",
+      "roadAddress": "전라남도 곡성군 입면 삼오궁동길 109-3",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 입면 삼오리 89",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 입면 송전리 961",
+      "roadAddress": "전라남도 곡성군 입면 송전기동길 42",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 입면 송전리 969",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 입면 송전리 901",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "금호마트",
+      "address": "전라남도 곡성군 입면 송전리 1049-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-08"
+    },
+    {
+      "name": "현정상회",
+      "address": "전라남도 곡성군 겸면 현정리 85",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 겸면 현정리 432",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 겸면 가정리 404",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 겸면 가정리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 겸면 평장리 226-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 겸면 평장리 508",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "새마을 구판장",
+      "address": "전라남도 곡성군 겸면 마전리 167",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 겸면 산정리 367",
+      "roadAddress": "전라남도 곡성군 겸면 산정길 99-2",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 겸면 상덕리 176",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 겸면 상덕리 309",
+      "roadAddress": "전라남도 곡성군 겸면 회화길 19-1",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 겸면 괴정리 373",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 겸면 괴정리 95",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 겸면 괴정리 553",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "흥복슈퍼",
+      "address": "전라남도 곡성군 겸면 괴정리 884-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 겸면 대명리 168",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 겸면 대명리 570",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 겸면 송강리 303",
+      "roadAddress": "전라남도 곡성군 겸면 송강길 26-3",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 겸면 송강리 650",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 겸면 운교리 74",
+      "roadAddress": "전라남도 곡성군 겸면 운교길 34-3",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 겸면 운교리 271",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "새마을 구판장",
+      "address": "전라남도 곡성군 겸면 칠봉리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "전통시장상인회",
+      "address": "전라남도 곡성군 곡성읍 읍내리 208",
+      "roadAddress": "전라남도 곡성군 곡성읍 곡성로 856",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-07"
+    },
+    {
+      "name": "효복상회",
+      "address": "전라남도 곡성군 곡성읍 읍내리 208",
+      "roadAddress": "전라남도 곡성군 곡성읍 곡성로 856",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-07"
+    },
+    {
+      "name": "CU곡성중앙점",
+      "address": "전라남도 곡성군 곡성읍 읍내리 296-6",
+      "roadAddress": "전라남도 곡성군 곡성읍 중앙로 100-2",
+      "status": "영업/정상",
+      "licenseDate": "2010-02-27"
+    },
+    {
+      "name": "24시 편의점참 그린",
+      "address": "전라남도 곡성군 곡성읍 읍내리 5253-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-03-19"
+    },
+    {
+      "name": "웰빙마트",
+      "address": "전라남도 곡성군 곡성읍 읍내리 250-8",
+      "roadAddress": "전라남도 곡성군 곡성읍 곡성로 853",
+      "status": "영업/정상",
+      "licenseDate": "2010-04-06"
+    },
+    {
+      "name": "롯데슈퍼",
+      "address": "전라남도 곡성군 곡성읍 읍내리 739-3",
+      "roadAddress": "전라남도 곡성군 곡성읍 군청로 47",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "곡성사랑마트",
+      "address": "전라남도 곡성군 곡성읍 죽동리 39-7",
+      "roadAddress": "전라남도 곡성군 곡성읍 곡성로 761",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-30"
+    },
+    {
+      "name": "산림마트",
+      "address": "전라남도 곡성군 곡성읍 읍내리 229-1",
+      "roadAddress": "전라남도 곡성군 곡성읍 곡성로 838",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-19"
+    },
+    {
+      "name": "광명마트",
+      "address": "전라남도 곡성군 곡성읍 읍내리 275",
+      "roadAddress": "전라남도 곡성군 곡성읍 읍내10길 1",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-19"
+    },
+    {
+      "name": "도림사오토캠핑리조트",
+      "address": "전라남도 곡성군 곡성읍 구원리 553-3",
+      "roadAddress": "전라남도 곡성군 곡성읍 도림로 74",
+      "status": "영업/정상",
+      "licenseDate": "2013-04-03"
+    },
+    {
+      "name": "1번지마트",
+      "address": "전라남도 곡성군 곡성읍 읍내리 370-4",
+      "roadAddress": "전라남도 곡성군 곡성읍 중앙로 123",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-07"
+    },
+    {
+      "name": "해남슈퍼",
+      "address": "전라남도 곡성군 옥과면 죽림리 125-16",
+      "roadAddress": "전라남도 곡성군 옥과면 대학로 196",
+      "status": "영업/정상",
+      "licenseDate": "2013-06-28"
+    },
+    {
+      "name": "강빛편의점",
+      "address": "전라남도 곡성군 죽곡면 태평리 814 B동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-31"
+    },
+    {
+      "name": "효광철물",
+      "address": "전라남도 곡성군 곡성읍 읍내리 775-22",
+      "roadAddress": "전라남도 곡성군 곡성읍 학교로 46",
+      "status": "영업/정상",
+      "licenseDate": "2014-12-17"
+    },
+    {
+      "name": "터미널쉼터마트",
+      "address": "전라남도 곡성군 옥과면 옥과리 86",
+      "roadAddress": "전라남도 곡성군 옥과면 대학로 156-1",
+      "status": "영업/정상",
+      "licenseDate": "2015-03-20"
+    },
+    {
+      "name": "미니스톱 곡성읍내점",
+      "address": "전라남도 곡성군 곡성읍 읍내리 723-1",
+      "roadAddress": "전라남도 곡성군 곡성읍 학교로 90",
+      "status": "영업/정상",
+      "licenseDate": "2015-04-27"
+    },
+    {
+      "name": "세븐일레븐 곡성군청점",
+      "address": "전라남도 곡성군 곡성읍 읍내리 327-3",
+      "roadAddress": "전라남도 곡성군 곡성읍 군청로 24",
+      "status": "영업/정상",
+      "licenseDate": "2015-05-04"
+    },
+    {
+      "name": "에코플러스마트",
+      "address": "전라남도 곡성군 옥과면 죽림리 119-14",
+      "roadAddress": "전라남도 곡성군 옥과면 대학로 202",
+      "status": "영업/정상",
+      "licenseDate": "2015-08-24"
+    },
+    {
+      "name": "곡성섬진장례식장",
+      "address": "전라남도 곡성군 곡성읍 읍내리 52-1",
+      "roadAddress": "전라남도 곡성군 곡성읍 곡성로 935",
+      "status": "영업/정상",
+      "licenseDate": "2015-12-16"
+    },
+    {
+      "name": "석곡마트",
+      "address": "전라남도 곡성군 석곡면 석곡리 224-1",
+      "roadAddress": "전라남도 곡성군 석곡면 석곡로 57",
+      "status": "영업/정상",
+      "licenseDate": "2016-04-04"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 겸면 남양리 166",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "흥산슈퍼",
+      "address": "전라남도 곡성군 겸면 괴정리 164",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "소재지슈퍼",
+      "address": "전라남도 곡성군 겸면 남양리 102-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 오산면 봉동리 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 오산면 봉동리 2구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 오산면 봉동리 3구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 오산면 봉동리 4구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 오산면 율천리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 오산면 단사리 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 오산면 단사리 2구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "산동양만",
+      "address": "전라남도 곡성군 곡성읍 신리 42 , 505-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 오산면 조양리 2구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 오산면 조양리 3구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 오산면 선세리 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 오산면 선세리 2구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 오산면 가곡리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 오산면 청단리 2구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 오산면 연화리 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 오산면 연화리 2구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 오산면 운곡리 1구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 오산면 운곡리 2구",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "삼거리수퍼",
+      "address": "전라남도 곡성군 오산면 운곡리 (오산면 삼거리)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "연화구판장",
+      "address": "전라남도 곡성군 오산면 연화리 569",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "오봉상회",
+      "address": "전라남도 곡성군 오산면 봉동리 656",
+      "roadAddress": "전라남도 곡성군 오산면 오산로 590-3",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 오산면 선세리 12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "프러스 24 편의점",
+      "address": "전라남도 곡성군 옥과면 옥과리 221-8",
+      "roadAddress": "전라남도 곡성군 옥과면 대학로 118",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "나라슈퍼",
+      "address": "전라남도 곡성군 곡성읍 읍내리 714-21",
+      "roadAddress": "전라남도 곡성군 곡성읍 군청로 64",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-01"
+    },
+    {
+      "name": "삼기식품",
+      "address": "전라남도 곡성군 삼기면 원등리 312",
+      "roadAddress": "전라남도 곡성군 삼기면 곡순로 1442",
+      "status": "영업/정상",
+      "licenseDate": "2016-05-30"
+    },
+    {
+      "name": "GS25곡성기차마을점",
+      "address": "전라남도 곡성군 오곡면 오지리 1321-5",
+      "roadAddress": "전라남도 곡성군 오곡면 기차마을로 243",
+      "status": "영업/정상",
+      "licenseDate": "2017-04-14"
+    },
+    {
+      "name": "CU곡성압록점",
+      "address": "전라남도 곡성군 오곡면 압록리 97",
+      "roadAddress": "전라남도 곡성군 오곡면 섬진강로 1045",
+      "status": "영업/정상",
+      "licenseDate": "2017-05-16"
+    },
+    {
+      "name": "동네수퍼",
+      "address": "전라남도 곡성군 옥과면 옥과리 172-1",
+      "roadAddress": "전라남도 곡성군 옥과면 옥과2길 12",
+      "status": "영업/정상",
+      "licenseDate": "2017-06-08"
+    },
+    {
+      "name": "농업회사법인 곡성매실주식회사",
+      "address": "전라남도 곡성군 삼기면 괴소리 264",
+      "roadAddress": "전라남도 곡성군 삼기면 곡순로 1241-8",
+      "status": "영업/정상",
+      "licenseDate": "2017-11-23"
+    },
+    {
+      "name": "세븐일레븐 곡성금호점",
+      "address": "전라남도 곡성군 입면 창정리 164-1",
+      "roadAddress": "전라남도 곡성군 입면 입면로 493",
+      "status": "영업/정상",
+      "licenseDate": "2018-06-11"
+    },
+    {
+      "name": "이창현",
+      "address": "전라남도 곡성군 옥과면 죽림리 204-2",
+      "roadAddress": "전라남도 곡성군 옥과면 죽림5길 3-1",
+      "status": "영업/정상",
+      "licenseDate": "2018-06-11"
+    },
+    {
+      "name": "알리바이 마켓 곡성 오곡점",
+      "address": "전라남도 곡성군 오곡면 오지리 547-2",
+      "roadAddress": "전라남도 곡성군 오곡면 기차마을로 140",
+      "status": "영업/정상",
+      "licenseDate": "2019-01-07"
+    },
+    {
+      "name": "세븐일레븐 곡성옥과하늘점",
+      "address": "전라남도 곡성군 옥과면 옥과리 220-26",
+      "roadAddress": "전라남도 곡성군 옥과면 리문3길 5",
+      "status": "영업/정상",
+      "licenseDate": "2019-01-31"
+    },
+    {
+      "name": "롯데할인마트",
+      "address": "전라남도 곡성군 옥과면 옥과리 129-1",
+      "roadAddress": "전라남도 곡성군 옥과면 대학로 141-2",
+      "status": "영업/정상",
+      "licenseDate": "2019-05-14"
+    },
+    {
+      "name": "곡성축협하나로마트",
+      "address": "전라남도 곡성군 곡성읍 죽동리 40-6",
+      "roadAddress": "전라남도 곡성군 곡성읍 곡성로 760",
+      "status": "영업/정상",
+      "licenseDate": "2019-05-16"
+    },
+    {
+      "name": "옥과농업협동조합(하나로마트)",
+      "address": "전라남도 곡성군 옥과면 리문리 224-2",
+      "roadAddress": "전라남도 곡성군 옥과면 대학로 142",
+      "status": "영업/정상",
+      "licenseDate": "2019-05-16"
+    },
+    {
+      "name": "기차마을마트",
+      "address": "전라남도 곡성군 오곡면 오지리 1249-1",
+      "roadAddress": "전라남도 곡성군 오곡면 기차마을로 230-2",
+      "status": "영업/정상",
+      "licenseDate": "2019-05-23"
+    },
+    {
+      "name": "김종서",
+      "address": "전라남도 곡성군 고달면 목동리 767-1",
+      "roadAddress": "전라남도 곡성군 고달면 목동1길 37",
+      "status": "영업/정상",
+      "licenseDate": "2019-08-23"
+    },
+    {
+      "name": "GS25 곡성IC점",
+      "address": "전라남도 곡성군 삼기면 괴소리 256-1",
+      "roadAddress": "전라남도 곡성군 삼기면 곡순로 1237",
+      "status": "영업/정상",
+      "licenseDate": "2020-05-29"
+    },
+    {
+      "name": "곡성농협 오곡지점",
+      "address": "전라남도 곡성군 오곡면 오지리 1240-6",
+      "roadAddress": "전라남도 곡성군 오곡면 기차마을로 156",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "석곡농업협동조합",
+      "address": "전라남도 곡성군 석곡면 석곡리 197-1",
+      "roadAddress": "전라남도 곡성군 석곡면 강변로 5",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "옥과농업협동조합",
+      "address": "전라남도 곡성군 옥과면 리문리 224-2",
+      "roadAddress": "전라남도 곡성군 옥과면 대학로 142",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "대풍집",
+      "address": "전라남도 곡성군 옥과면 죽림리 115-1",
+      "roadAddress": "전라남도 곡성군 옥과면 죽림2길 13-4",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "다복수퍼",
+      "address": "전라남도 곡성군 옥과면 리문리 185",
+      "roadAddress": "전라남도 곡성군 옥과면 리문6길 11-10",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "석곡농협목사동지소",
+      "address": "전라남도 곡성군 목사동면 평리 260-8",
+      "roadAddress": "전라남도 곡성군 목사동면 주목로 765",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "고운슈퍼",
+      "address": "전라남도 곡성군 옥과면 죽림리 204-2",
+      "roadAddress": "전라남도 곡성군 옥과면 죽림5길 3-1",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-13"
+    },
+    {
+      "name": "도림사 관람표 매표소",
+      "address": "전라남도 곡성군 곡성읍 월봉리 327",
+      "roadAddress": "전라남도 곡성군 곡성읍 도림로 175",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-11"
+    },
+    {
+      "name": "영운슈퍼",
+      "address": "전라남도 곡성군 곡성읍 읍내리 465",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "대구슈퍼",
+      "address": "전라남도 곡성군 곡성읍 읍내리 161",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "중앙상회",
+      "address": "전라남도 곡성군 곡성읍 읍내리 130",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "전라남도 곡성군 곡성읍 읍내리 832-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "여중앞 문구점",
+      "address": "전라남도 곡성군 곡성읍 읍내리 450-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "곡성농협",
+      "address": "전라남도 곡성군 곡성읍 읍내리 191-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "전라남도 곡성군 곡성읍 읍내리 350-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "종합슈퍼",
+      "address": "전라남도 곡성군 곡성읍 읍내리 392-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "전라남도 곡성군 곡성읍 읍내리 205",
+      "roadAddress": "전라남도 곡성군 곡성읍 곡성로 886",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "화니슈퍼",
+      "address": "전라남도 곡성군 곡성읍 읍내리 309-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "거북이 지업사",
+      "address": "전라남도 곡성군 곡성읍 읍내리 465",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "신협슈퍼",
+      "address": "전라남도 곡성군 곡성읍 신월리 792-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "동양슈퍼",
+      "address": "전라남도 곡성군 곡성읍 읍내리 725",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "주택슈퍼",
+      "address": "전라남도 곡성군 곡성읍 교촌리 21-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "죽동구판장",
+      "address": "전라남도 곡성군 곡성읍 죽동리 224-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "신월구판장",
+      "address": "전라남도 곡성군 곡성읍 신월리 80-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "월봉구판장",
+      "address": "전라남도 곡성군 곡성읍 월봉리 116",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "구원1구판장",
+      "address": "전라남도 곡성군 곡성읍 구원리 631",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "도림휴게소",
+      "address": "전라남도 곡성군 곡성읍 구원리 400-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "서계구판장",
+      "address": "전라남도 곡성군 곡성읍 서계리 56-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "섬진강슈퍼",
+      "address": "전라남도 곡성군 곡성읍 대평리 71-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "대이슈퍼",
+      "address": "전라남도 곡성군 곡성읍 대평리 680-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "대평3구 구판장",
+      "address": "전라남도 곡성군 곡성읍 대평리 956",
+      "roadAddress": "전라남도 곡성군 곡성읍 마평길 33",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "보배슈퍼",
+      "address": "전라남도 곡성군 곡성읍 신리 353",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "동산구판장",
+      "address": "전라남도 곡성군 곡성읍 동산리 1-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "장선 구판장",
+      "address": "전라남도 곡성군 곡성읍 장선리 398-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "묘천1구 구판장",
+      "address": "전라남도 곡성군 곡성읍 묘천리 283-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "묘천2구 구판장",
+      "address": "전라남도 곡성군 곡성읍 묘천리 216",
+      "roadAddress": "전라남도 곡성군 곡성읍 묘천2길 10",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "서부슈퍼",
+      "address": "전라남도 곡성군 곡성읍 읍내리 714",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "동악산장",
+      "address": "전라남도 곡성군 곡성읍 월봉리 322-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "개인",
+      "address": "전라남도 곡성군 곡성읍 장선리 1015",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "동화지업사",
+      "address": "전라남도 곡성군 곡성읍 읍내리 369",
+      "roadAddress": "전라남도 곡성군 곡성읍 중앙로 125-2",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "CC편의점",
+      "address": "전라남도 곡성군 곡성읍 읍내리 244-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "전라남도 곡성군 곡성읍 읍내리 411",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "해동레저",
+      "address": "전라남도 곡성군 곡성읍 읍내리 188",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "개인",
+      "address": "전라남도 곡성군 곡성읍 월봉리 도림사내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "전라남도 곡성군 곡성읍 읍내리 810-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "학정1구 구판장",
+      "address": "전라남도 곡성군 곡성읍 읍내리 671-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-23"
+    },
+    {
+      "name": "고운마트",
+      "address": "전라남도 곡성군 곡성읍 읍내리 788-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-13"
+    },
+    {
+      "name": "청계동황토집",
+      "address": "전라남도 곡성군 곡성읍 신기리 1061 (청계동)",
+      "roadAddress": "전라남도 곡성군 곡성읍 청계동로 409  ((청계동))",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-14"
+    },
+    {
+      "name": "쉼터 매점",
+      "address": "전라남도 곡성군 곡성읍 신기리 1049 (청계동)",
+      "roadAddress": "전라남도 곡성군 곡성읍 청계동로 371  ((청계동))",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-14"
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "전라남도 곡성군 오곡면 오지리 416",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 목사동면 범계리 136",
+      "roadAddress": "전라남도 곡성군 목사동면 범계길 60-9",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "죽림상회",
+      "address": "전라남도 곡성군 목사동면 죽정리 605-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "원정정휴소",
+      "address": "전라남도 곡성군 목사동면 죽정리 794",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 목사동면 용봉리 479",
+      "roadAddress": "전라남도 곡성군 목사동면 용봉길 92-9",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 목사동면 대곡리 1360",
+      "roadAddress": "전라남도 곡성군 목사동면 대곡소방길 69-8",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 목사동면 죽정리 175",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "구판장",
+      "address": "전라남도 곡성군 목사동면 대곡리 392",
+      "roadAddress": "전라남도 곡성군 목사동면 대곡당산길 30-4",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "대곡담배가게",
+      "address": "전라남도 곡성군 목사동면 대곡리 385",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "대곡상회",
+      "address": "전라남도 곡성군 목사동면 대곡리 1037",
+      "roadAddress": "전라남도 곡성군 목사동면 대신로 218",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "이장",
+      "address": "전라남도 곡성군 목사동면 대곡리 275",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    }
+  ]
+}

@@ -1,0 +1,983 @@
+{
+  "region": "경상북도",
+  "regionSlug": "gyeongbuk",
+  "district": "울진군",
+  "districtSlug": "uljin",
+  "updatedAt": "2026-03-26",
+  "totalCount": 139,
+  "stores": [
+    {
+      "name": "삼우슈퍼",
+      "address": "경상북도 울진군 죽변면 죽변리 240-6",
+      "roadAddress": "경상북도 울진군 죽변면 죽변북로 65",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-01"
+    },
+    {
+      "name": "이마트에브리데이",
+      "address": "경상북도 울진군 울진읍 읍내리 603-1",
+      "roadAddress": "경상북도 울진군 울진읍 새마실2길 36",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-01"
+    },
+    {
+      "name": "행곡상회",
+      "address": "경상북도 울진군 울진읍 읍내리 50-8",
+      "roadAddress": "경상북도 울진군 울진읍 읍내4길 7",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-01"
+    },
+    {
+      "name": "회룡천(민박)휴게소",
+      "address": "경상북도 봉화군 소천면 분천리 95-1",
+      "roadAddress": "경상북도 울진군 근남면 불영계곡로 3160",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-17"
+    },
+    {
+      "name": "국제마트",
+      "address": "경상북도 울진군 울진읍 읍내리 82-13",
+      "roadAddress": "경상북도 울진군 울진읍 울진중앙로 109",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-01"
+    },
+    {
+      "name": "번창슈퍼",
+      "address": "경상북도 울진군 울진읍 읍내리 576-18",
+      "roadAddress": "경상북도 울진군 울진읍 울진중앙로 167-1",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-01"
+    },
+    {
+      "name": "대성미곡",
+      "address": "경상북도 울진군 울진읍 읍내리 63",
+      "roadAddress": "경상북도 울진군 울진읍 읍내5길 55",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-01"
+    },
+    {
+      "name": "울진농협",
+      "address": "경상북도 울진군 울진읍 읍내리 465",
+      "roadAddress": "경상북도 울진군 울진읍 울진중앙로 130",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-01"
+    },
+    {
+      "name": "에이스마트",
+      "address": "경상북도 울진군 울진읍 읍내리 85-1",
+      "roadAddress": "경상북도 울진군 울진읍 울진중앙로 110-2",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-01"
+    },
+    {
+      "name": "축협매장",
+      "address": "경상북도 울진군 울진읍 읍내리 54-2",
+      "roadAddress": "경상북도 울진군 울진읍 읍내1길 17",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-01"
+    },
+    {
+      "name": "무진건어물",
+      "address": "경상북도 울진군 울진읍 읍내리 33-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-01"
+    },
+    {
+      "name": "진아상회",
+      "address": "경상북도 울진군 울진읍 읍내리 105-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북상회",
+      "address": "경상북도 울진군 울진읍 읍내리 63",
+      "roadAddress": "경상북도 울진군 울진읍 읍내2길 23",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-01"
+    },
+    {
+      "name": "만물상회",
+      "address": "경상북도 울진군 울진읍 읍내리 53-9",
+      "roadAddress": "경상북도 울진군 울진읍 읍내5길 29-4",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-01"
+    },
+    {
+      "name": "월변편의점",
+      "address": "경상북도 울진군 울진읍 읍내리 438",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신성슈퍼",
+      "address": "경상북도 울진군 울진읍 읍내리 139-10",
+      "roadAddress": "경상북도 울진군 울진읍 강변로 95",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-01"
+    },
+    {
+      "name": "농협남부지소",
+      "address": "경상북도 울진군 울진읍 읍내리 317",
+      "roadAddress": "경상북도 울진군 울진읍 울진중앙로 77",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-01"
+    },
+    {
+      "name": "삼원슈퍼",
+      "address": "경상북도 울진군 울진읍 읍내리 216-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-01"
+    },
+    {
+      "name": "울진홈마트",
+      "address": "경상북도 울진군 울진읍 읍내리",
+      "roadAddress": "경상북도 울진군 울진읍 강변로 6",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-27"
+    },
+    {
+      "name": "우진상회",
+      "address": "경상북도 울진군 울진읍 읍내리 568-13",
+      "roadAddress": "경상북도 울진군 울진읍 읍내8길 119",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-01"
+    },
+    {
+      "name": "그린마트",
+      "address": "경상북도 울진군 울진읍 읍내리 537-6",
+      "roadAddress": "경상북도 울진군 울진읍 읍내8길 50",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-01"
+    },
+    {
+      "name": "연지리구판장",
+      "address": "경상북도 울진군 울진읍 연지리 8",
+      "roadAddress": "경상북도 울진군 울진읍 대나리항길 269-5",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-01"
+    },
+    {
+      "name": "우수편의점",
+      "address": "경상북도 울진군 평해읍 거일리 204-1",
+      "roadAddress": "경상북도 울진군 평해읍 울진대게로 555-1",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-09"
+    },
+    {
+      "name": "월송매점",
+      "address": "경상북도 울진군 평해읍 월송리 401",
+      "roadAddress": "경상북도 울진군 평해읍 월송정로 496",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-09"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경상북도 울진군 평해읍 평해리 929-8",
+      "roadAddress": "경상북도 울진군 평해읍 평해로 83",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-09"
+    },
+    {
+      "name": "신선쌀식품",
+      "address": "경상북도 울진군 평해읍 평해리 433",
+      "roadAddress": "경상북도 울진군 평해읍 평해7길 53",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-09"
+    },
+    {
+      "name": "월송슈퍼",
+      "address": "경상북도 울진군 평해읍 월송리 480",
+      "roadAddress": "경상북도 울진군 평해읍 월송길 225",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-09"
+    },
+    {
+      "name": "동해슈퍼",
+      "address": "경상북도 울진군 평해읍 거일리 44",
+      "roadAddress": "경상북도 울진군 평해읍 박실길 8-1",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-09"
+    },
+    {
+      "name": "평해슈퍼",
+      "address": "경상북도 울진군 평해읍 평해리 899-14",
+      "roadAddress": "경상북도 울진군 평해읍 평해7길 5",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-09"
+    },
+    {
+      "name": "석호상회",
+      "address": "경상북도 울진군 북면 나곡리 74",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-18"
+    },
+    {
+      "name": "칠보마트",
+      "address": "경상북도 울진군 북면 부구리 150-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-14"
+    },
+    {
+      "name": "해변상회",
+      "address": "경상북도 울진군 북면 나곡리 705-6",
+      "roadAddress": "경상북도 울진군 북면 나실길 10-7",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-22"
+    },
+    {
+      "name": "덕구온천매점",
+      "address": "경상북도 울진군 북면 덕구리 946",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-27"
+    },
+    {
+      "name": "부구슈퍼",
+      "address": "경상북도 울진군 북면 부구리 179-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-18"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경상북도 울진군 금강송면 삼근리 379-8",
+      "roadAddress": "경상북도 울진군 서면 삼근1길 10",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-05"
+    },
+    {
+      "name": "근남농협",
+      "address": "경상북도 울진군 근남면 노음리 322-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-03"
+    },
+    {
+      "name": "슈퍼",
+      "address": "경상북도 울진군 기성면 척산리 182",
+      "roadAddress": "경상북도 울진군 기성면 척산1길 6",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상북도 울진군 기성면 척산리 203",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-05"
+    },
+    {
+      "name": "시장슈퍼",
+      "address": "경상북도 울진군 기성면 척산리 203",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-05"
+    },
+    {
+      "name": "영일상회",
+      "address": "경상북도 울진군 기성면 사동리 290",
+      "roadAddress": "경상북도 울진군 기성면 사동1길 211",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-05"
+    },
+    {
+      "name": "동해슈퍼",
+      "address": "경상북도 울진군 기성면 구산리 326-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-05"
+    },
+    {
+      "name": "농협한전지소",
+      "address": "경상북도 울진군 북면 부구리 산 90",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-28"
+    },
+    {
+      "name": "흥구편의점",
+      "address": "경상북도 울진군 북면 부구리 171-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-26"
+    },
+    {
+      "name": "중앙상회",
+      "address": "경상북도 울진군 죽변면 죽변리 36-34",
+      "roadAddress": "경상북도 울진군 죽변면 죽변중앙로 162",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-01"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경상북도 울진군 죽변면 죽변리 36-58",
+      "roadAddress": "경상북도 울진군 죽변면 죽변중앙로 162-9",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-01"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경상북도 울진군 죽변면 죽변리 427-5",
+      "roadAddress": "경상북도 울진군 죽변면 죽변북로 18",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-01"
+    },
+    {
+      "name": "죽변슈퍼",
+      "address": "경상북도 울진군 죽변면 죽변리 400-1",
+      "roadAddress": "경상북도 울진군 죽변면 죽변중앙로 147",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-01"
+    },
+    {
+      "name": "힉조슈퍼",
+      "address": "경상북도 울진군 죽변면 죽변리 390-249",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-01"
+    },
+    {
+      "name": "돌무리슈퍼",
+      "address": "경상북도 울진군 죽변면 죽변리 5-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-01"
+    },
+    {
+      "name": "수동상회",
+      "address": "경상북도 울진군 죽변면 죽변리 10",
+      "roadAddress": "경상북도 울진군 죽변면 등대1길 1",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-01"
+    },
+    {
+      "name": "동아연금매장",
+      "address": "경상북도 울진군 죽변면 죽변리 426-6",
+      "roadAddress": "경상북도 울진군 죽변면 죽변북로 13",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-01"
+    },
+    {
+      "name": "금오상회",
+      "address": "경상북도 울진군 죽변면 후정리 298",
+      "roadAddress": "경상북도 울진군 죽변면 죽변중앙로 103-1",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-01"
+    },
+    {
+      "name": "삼거리상회",
+      "address": "경상북도 울진군 죽변면 후정리 337-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-01"
+    },
+    {
+      "name": "죽성동편의점",
+      "address": "경상북도 울진군 죽변면 봉평리 259-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-01"
+    },
+    {
+      "name": "농축산물직판장",
+      "address": "경상북도 울진군 죽변면 죽변리 270-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-01"
+    },
+    {
+      "name": "신안상회",
+      "address": "경상북도 울진군 평해읍 평해리 879-2",
+      "roadAddress": "경상북도 울진군 평해읍 평해로 64-9",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-05"
+    },
+    {
+      "name": "인덕상회",
+      "address": "경상북도 울진군 매화면 매화리 1143",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-01"
+    },
+    {
+      "name": "원남농협",
+      "address": "경상북도 울진군 매화면 매화리 1144-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-04"
+    },
+    {
+      "name": "구산상회",
+      "address": "경상북도 울진군 후포면 후포리 316-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-05"
+    },
+    {
+      "name": "신일상회",
+      "address": "경상북도 울진군 후포면 후포리 347",
+      "roadAddress": "경상북도 울진군 후포면 후포로 163-2",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-05"
+    },
+    {
+      "name": "경순슈퍼",
+      "address": "경상북도 울진군 후포면 후포리 289-51",
+      "roadAddress": "경상북도 울진군 후포면 후포로 116",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-05"
+    },
+    {
+      "name": "영림상회",
+      "address": "경상북도 울진군 후포면 후포리 554",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-05"
+    },
+    {
+      "name": "부일슈퍼",
+      "address": "경상북도 울진군 후포면 후포리 581-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-05"
+    },
+    {
+      "name": "은수상회",
+      "address": "경상북도 울진군 후포면 후포리 297-17",
+      "roadAddress": "경상북도 울진군 후포면 후포로 139",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-05"
+    },
+    {
+      "name": "슈퍼",
+      "address": "경상북도 울진군 후포면 후포리 448-9",
+      "roadAddress": "경상북도 울진군 후포면 후포7길 10",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-05"
+    },
+    {
+      "name": "길이상회",
+      "address": "경상북도 울진군 후포면 후포리 464",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-05"
+    },
+    {
+      "name": "고려슈퍼",
+      "address": "경상북도 울진군 후포면 후포리 311",
+      "roadAddress": "경상북도 울진군 후포면 후포5길 8",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-05"
+    },
+    {
+      "name": "장터쇼핑",
+      "address": "경상북도 울진군 후포면 후포리 605-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-05"
+    },
+    {
+      "name": "학우서점",
+      "address": "경상북도 울진군 후포면 후포리 1036-12",
+      "roadAddress": "경상북도 울진군 후포면 후포로 42-1",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-05"
+    },
+    {
+      "name": "예지서림",
+      "address": "경상북도 울진군 후포면 후포리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-05"
+    },
+    {
+      "name": "윤택상회",
+      "address": "경상북도 울진군 후포면 후포리 492",
+      "roadAddress": "경상북도 울진군 후포면 후포로 173",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-05"
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "경상북도 울진군 후포면 삼율리 56-2",
+      "roadAddress": "경상북도 울진군 후포면 후포삼율로 132",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-05"
+    },
+    {
+      "name": "백암슈퍼",
+      "address": "경상북도 울진군 후포면 삼율리 126",
+      "roadAddress": "경상북도 울진군 후포면 삼율1길 27-14",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-05"
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "경상북도 울진군 후포면 삼율리 522-1",
+      "roadAddress": "경상북도 울진군 후포면 상밤터1길 37",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-05"
+    },
+    {
+      "name": "공영슈퍼",
+      "address": "경상북도 울진군 후포면 삼율리 258",
+      "roadAddress": "경상북도 울진군 후포면 정실2길 24",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-05"
+    },
+    {
+      "name": "신라체인",
+      "address": "경상북도 울진군 후포면 삼율리 62-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-05"
+    },
+    {
+      "name": "후포농협",
+      "address": "경상북도 울진군 후포면 삼율리 117-6",
+      "roadAddress": "경상북도 울진군 후포면 삼율3길 53",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-05"
+    },
+    {
+      "name": "월드마트",
+      "address": "경상북도 울진군 후포면 삼율리 35-1",
+      "roadAddress": "경상북도 울진군 후포면 후포삼율로 134-1",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-05"
+    },
+    {
+      "name": "세븐일레븐울진점",
+      "address": "경상북도 울진군 울진읍 읍내리 298-8",
+      "roadAddress": "경상북도 울진군 울진읍 울진중앙로 76",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-21"
+    },
+    {
+      "name": "훈자야마트개인편의점",
+      "address": "경상북도 울진군 울진읍 읍내리 543",
+      "roadAddress": "경상북도 울진군 울진읍 연호로 24",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-25"
+    },
+    {
+      "name": "세븐일레븐 울진북면점",
+      "address": "경상북도 울진군 북면 부구리",
+      "roadAddress": "경상북도 울진군 북면 울진북로 2095",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-27"
+    },
+    {
+      "name": "씨유죽변한수원사택점",
+      "address": "",
+      "roadAddress": "경상북도 울진군 죽변면 후정2길 20-17",
+      "status": "영업/정상",
+      "licenseDate": "2014-01-29"
+    },
+    {
+      "name": "OK DC(할인)마트",
+      "address": "경상북도 울진군 죽변면 죽변리 36-6 오케이디씨마트",
+      "roadAddress": "경상북도 울진군 죽변면 죽변중앙로 172-1",
+      "status": "영업/정상",
+      "licenseDate": "2014-01-14"
+    },
+    {
+      "name": "지방공사울진의료원",
+      "address": "경상북도 울진군 울진읍 연지리 119",
+      "roadAddress": "경상북도 울진군 울진읍 현내항길 71",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "울진마트",
+      "address": "경상북도 울진군 울진읍 읍내리 528",
+      "roadAddress": "경상북도 울진군 울진읍 읍내5길 12",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "렉스할인마트",
+      "address": "",
+      "roadAddress": "경상북도 울진군 울진읍 읍내로 70",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "CU월변점",
+      "address": "",
+      "roadAddress": "경상북도 울진군 울진읍 울진중앙로 85",
+      "status": "영업/정상",
+      "licenseDate": "2008-04-04"
+    },
+    {
+      "name": "월변마트",
+      "address": "경상북도 울진군 울진읍 읍내리 211-9 월변마트",
+      "roadAddress": "경상북도 울진군 울진읍 울진중앙로 36",
+      "status": "영업/정상",
+      "licenseDate": "2008-07-15"
+    },
+    {
+      "name": "CU울진점",
+      "address": "경상북도 울진군 울진읍 읍내리 196-7",
+      "roadAddress": "경상북도 울진군 울진읍 울진중앙로 20-1",
+      "status": "영업/정상",
+      "licenseDate": "2009-02-04"
+    },
+    {
+      "name": "대영서적",
+      "address": "경상북도 울진군 평해읍 평해리 897-12",
+      "roadAddress": "경상북도 울진군 평해읍 평해로 74",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "직산상회",
+      "address": "",
+      "roadAddress": "경상북도 울진군 평해읍 울진대게로 818",
+      "status": "영업/정상",
+      "licenseDate": "2008-01-24"
+    },
+    {
+      "name": "부광장식",
+      "address": "경상북도 울진군 평해읍 평해리 879-3",
+      "roadAddress": "경상북도 울진군 평해읍 평해6길 12",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-12"
+    },
+    {
+      "name": "성진유통",
+      "address": "경상북도 울진군 평해읍 평해리 870-8",
+      "roadAddress": "경상북도 울진군 평해읍 평해로 58",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-02"
+    },
+    {
+      "name": "동서마트",
+      "address": "경상북도 울진군 북면 부구리 164-2",
+      "roadAddress": "경상북도 울진군 북면 울진북로 2112",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "홈마트북면점",
+      "address": "경상북도 울진군 북면 부구리 159-27",
+      "roadAddress": "경상북도 울진군 북면 울진북로 2095",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "삼성문구",
+      "address": "경상북도 울진군 북면 부구리 159-14",
+      "roadAddress": "경상북도 울진군 북면 울진북로 2085",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "한농복구구판장",
+      "address": "경상북도 울진군 금강송면 왕피리 101",
+      "roadAddress": "경상북도 울진군 서면 병위길 63",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "훼미리마트울진근남점",
+      "address": "경상북도 울진군 근남면 노음리 212-4",
+      "roadAddress": "경상북도 울진군 근남면 울진북로 163",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-01"
+    },
+    {
+      "name": "망양휴게소",
+      "address": "경상북도 울진군 매화면 덕신리 119-5",
+      "roadAddress": "경상북도 울진군 원남면 망양북로 30",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "구산휴게소매점",
+      "address": "경상북도 울진군 기성면 구산리 341-2",
+      "roadAddress": "경상북도 울진군 기성면 기성로 99",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "기성농협",
+      "address": "경상북도 울진군 기성면 척산리 213-3",
+      "roadAddress": "경상북도 울진군 기성면 척산길 25",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-03"
+    },
+    {
+      "name": "백암고려온천호텔",
+      "address": "경상북도 울진군 온정면 소태리 1448-1",
+      "roadAddress": "경상북도 울진군 온정면 온천로 10-6",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "한화리조트",
+      "address": "경상북도 울진군 온정면 소태리 1438",
+      "roadAddress": "경상북도 울진군 온정면 온천로 129-13",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "LG생활연수원",
+      "address": "경상북도 울진군 온정면 소태리 1444-2",
+      "roadAddress": "경상북도 울진군 온정면 온천로 105",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "온정농협",
+      "address": "경상북도 울진군 온정면 소태리 973-4",
+      "roadAddress": "경상북도 울진군 온정면 온정학교길 6",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "(사)제철복지회",
+      "address": "경상북도 울진군 온정면 소태리 1435-1",
+      "roadAddress": "경상북도 울진군 온정면 온천로 147",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-29"
+    },
+    {
+      "name": "대우슈퍼",
+      "address": "경상북도 울진군 죽변면 죽변리 20-27",
+      "roadAddress": "경상북도 울진군 죽변면 죽변항길 123",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "삼오상회",
+      "address": "경상북도 울진군 죽변면 죽변리 36-25",
+      "roadAddress": "경상북도 울진군 죽변면 죽변중앙로 167",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "바다할인마트",
+      "address": "경상북도 울진군 죽변면 죽변리 32-42",
+      "roadAddress": "경상북도 울진군 죽변면 죽변중앙로 181",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-29"
+    },
+    {
+      "name": "영마트",
+      "address": "경상북도 울진군 죽변면 죽변리 26",
+      "roadAddress": "경상북도 울진군 죽변면 죽변2길 61",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "경상북도 울진군 죽변면 죽변리 390-77",
+      "roadAddress": "경상북도 울진군 죽변면 죽변중앙로 150",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "대림종합상사",
+      "address": "경상북도 울진군 죽변면 죽변리 230-1",
+      "roadAddress": "경상북도 울진군 죽변면 죽변북로 77",
+      "status": "영업/정상",
+      "licenseDate": "2010-05-18"
+    },
+    {
+      "name": "행운마트",
+      "address": "경상북도 울진군 죽변면 죽변리 361",
+      "roadAddress": "경상북도 울진군 죽변면 죽변북로 8-2",
+      "status": "영업/정상",
+      "licenseDate": "2010-08-20"
+    },
+    {
+      "name": "굳마트",
+      "address": "경상북도 울진군 죽변면 죽변리 10",
+      "roadAddress": "경상북도 울진군 죽변면 등대1길 1",
+      "status": "영업/정상",
+      "licenseDate": "2010-09-17"
+    },
+    {
+      "name": "하모니마트죽변점",
+      "address": "",
+      "roadAddress": "경상북도 울진군 죽변면 죽변북로 81",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-05"
+    },
+    {
+      "name": "시장슈퍼",
+      "address": "경상북도 울진군 후포면 삼율리 126",
+      "roadAddress": "경상북도 울진군 후포면 삼율1길 27-27",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "김재춘",
+      "address": "경상북도 울진군 후포면 삼율리 287-1",
+      "roadAddress": "경상북도 울진군 후포면 후포삼율로 100",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "프라자편의점",
+      "address": "경상북도 울진군 후포면 삼율리 52-1",
+      "roadAddress": "경상북도 울진군 후포면 후포로 1",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "한마음광장바다마트",
+      "address": "경상북도 울진군 후포면 후포리 316-15",
+      "roadAddress": "경상북도 울진군 후포면 후포4길 98",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "한남체인성산수퍼",
+      "address": "경상북도 울진군 후포면 삼율리 341-9",
+      "roadAddress": "경상북도 울진군 후포면 상밤터1길 59-25",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "수록상회",
+      "address": "경상북도 울진군 후포면 후포리 564-3",
+      "roadAddress": "경상북도 울진군 후포면 후포로 254-1",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "대원종합화장품",
+      "address": "경상북도 울진군 후포면 삼율리 112-3",
+      "roadAddress": "경상북도 울진군 후포면 후포로 24",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "백암슈퍼낚시",
+      "address": "경상북도 울진군 후포면 금음리 184-2",
+      "roadAddress": "경상북도 울진군 후포면 동해대로 270",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "동부상회",
+      "address": "경상북도 울진군 후포면 후포리 55-84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "OK상회",
+      "address": "경상북도 울진군 후포면 후포리 551-14 오케이상회",
+      "roadAddress": "경상북도 울진군 후포면 후포9길 20, 오케이상회",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "88상회",
+      "address": "경상북도 울진군 후포면 삼율리 126",
+      "roadAddress": "경상북도 울진군 후포면 삼율1길 27-27",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "광풍상회",
+      "address": "경상북도 울진군 후포면 삼율리 13-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "해안슈퍼",
+      "address": "경상북도 울진군 후포면 후포리 1036-142",
+      "roadAddress": "경상북도 울진군 후포면 울진대게로 59-1",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "순천상회",
+      "address": "경상북도 울진군 후포면 삼율리 271-2",
+      "roadAddress": "경상북도 울진군 후포면 삼율로 7-3",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "미광슈퍼",
+      "address": "경상북도 울진군 후포면 후포리 297-53",
+      "roadAddress": "경상북도 울진군 후포면 울진대게로 155",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "HAPPYDAY25",
+      "address": "경상북도 울진군 후포면 삼율리 278-4",
+      "roadAddress": "경상북도 울진군 후포면 후포삼율로 90",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-31"
+    },
+    {
+      "name": "삼성상회",
+      "address": "경상북도 울진군 후포면 삼율리 82",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-02-13"
+    },
+    {
+      "name": "세븐일레븐울진후포점",
+      "address": "경상북도 울진군 후포면 후포리 623-133",
+      "roadAddress": "경상북도 울진군 후포면 울진대게로 145",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-14"
+    },
+    {
+      "name": "민박상회",
+      "address": "경상북도 울진군 후포면 후포리 559-1",
+      "roadAddress": "경상북도 울진군 후포면 울진대게로 291-13",
+      "status": "영업/정상",
+      "licenseDate": "2010-09-01"
+    },
+    {
+      "name": "(주)비지에프리테일 백암한화리조트점",
+      "address": "",
+      "roadAddress": "경상북도 울진군 온정면 온천로 129-13",
+      "status": "영업/정상",
+      "licenseDate": "2014-06-24"
+    },
+    {
+      "name": "GS25울진후포점",
+      "address": "경상북도 울진군 후포면 후포리 623-18",
+      "roadAddress": "경상북도 울진군 후포면 울진대게로 109",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-07"
+    },
+    {
+      "name": "행복마트",
+      "address": "경상북도 울진군 근남면 노음리 333",
+      "roadAddress": "경상북도 울진군 근남면 울진북로 119",
+      "status": "영업/정상",
+      "licenseDate": "2019-02-19"
+    },
+    {
+      "name": "GS25 북면점",
+      "address": "경상북도 울진군 북면 부구리 137-12",
+      "roadAddress": "경상북도 울진군 북면 울진북로 2104",
+      "status": "영업/정상",
+      "licenseDate": "2021-01-21"
+    },
+    {
+      "name": "지에스25 후포대로점",
+      "address": "경상북도 울진군 후포면 금음리 4-3",
+      "roadAddress": "경상북도 울진군 후포면 후포삼율로 32",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-23"
+    }
+  ]
+}

@@ -1,0 +1,2334 @@
+{
+  "region": "인천광역시",
+  "regionSlug": "incheon",
+  "district": "연수구",
+  "districtSlug": "yeonsu",
+  "updatedAt": "2026-03-26",
+  "totalCount": 332,
+  "stores": [
+    {
+      "name": "전원슈퍼",
+      "address": "인천광역시 연수구 연수동 490-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "인천광역시 연수구 연수동 534",
+      "roadAddress": "인천광역시 연수구 먼우금로 302  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태경슈퍼",
+      "address": "인천광역시 연수구 연수동 535-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동남슈퍼",
+      "address": "인천광역시 연수구 연수동 536",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "효정슈퍼",
+      "address": "인천광역시 연수구 연수동 527",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문남종합슈퍼",
+      "address": "인천광역시 연수구 연수동 540",
+      "roadAddress": "인천광역시 연수구 함박뫼로 100  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백산(아)관리소",
+      "address": "인천광역시 연수구 옥련동 348-141",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성심유통",
+      "address": "인천광역시 연수구 연수동 574",
+      "roadAddress": "인천광역시 연수구 먼우금로264번길 10  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "인천광역시 연수구 연수동 582-2 연수1차상가 204호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연수신발",
+      "address": "인천광역시 연수구 연수동 582-2    연수1차상가 401호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시영복지슈퍼",
+      "address": "인천광역시 연수구 연수동 582-2    연수1차상가 지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한남연수체인",
+      "address": "인천광역시 연수구 연수동 609-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한남체인 대동점",
+      "address": "인천광역시 연수구 연수동 619-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "인천광역시 연수구 연수동 627-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동현슈퍼",
+      "address": "인천광역시 연수구 연수동 629-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대명소비자유통",
+      "address": "인천광역시 연수구 연수동 529-7",
+      "roadAddress": "인천광역시 연수구 함박로83번길 3  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트옥련1호",
+      "address": "인천광역시 연수구 옥련동 195",
+      "roadAddress": "인천광역시 연수구 독배로 56  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)뉴코아연수킴스",
+      "address": "인천광역시 연수구 청학동 451",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시영한남럭키슈퍼",
+      "address": "인천광역시 연수구 연수동 582-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "인천광역시 연수구 동춘동 925-7",
+      "roadAddress": "인천광역시 연수구 원인재로 88  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대동슈퍼",
+      "address": "인천광역시 연수구 선학동 406-8",
+      "roadAddress": "인천광역시 연수구 학나래로118번길 47  (선학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)코리아쎄븐송도점",
+      "address": "인천광역시 연수구 동춘동 815-1",
+      "roadAddress": "인천광역시 연수구 능허대로267번길 12  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오뚜기슈퍼",
+      "address": "인천광역시 연수구 청학동 3-82",
+      "roadAddress": "인천광역시 연수구 청솔로 122  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴서울슈퍼",
+      "address": "인천광역시 연수구 선학동 352",
+      "roadAddress": "인천광역시 연수구 선학로 101  (선학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "21세기마트",
+      "address": "인천광역시 연수구 선학동 355-2",
+      "roadAddress": "인천광역시 연수구 선학로74번길 20  (선학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25 연수한양점",
+      "address": "인천광역시 연수구 동춘동 933-12",
+      "roadAddress": "인천광역시 연수구 앵고개로264번길 30-5  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청명슈퍼",
+      "address": "인천광역시 연수구 청학동 64-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키마트",
+      "address": "인천광역시 연수구 옥련동 194-5",
+      "roadAddress": "인천광역시 연수구 독배로 41  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양마트",
+      "address": "인천광역시 연수구 동춘동 925",
+      "roadAddress": "인천광역시 연수구 원인재로 124  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 연수영남점",
+      "address": "인천광역시 연수구 연수동 574-6",
+      "roadAddress": "인천광역시 연수구 먼우금로252번길 31  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼용슈퍼",
+      "address": "인천광역시 연수구 청학동 448-1",
+      "roadAddress": "인천광역시 연수구 솔샘로 20  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대하이퍼마켓",
+      "address": "인천광역시 연수구 옥련동 213 현대2차상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정다운하이퍼",
+      "address": "인천광역시 연수구 연수동 502",
+      "roadAddress": "인천광역시 연수구 함박안로62번길 48  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성일슈퍼",
+      "address": "인천광역시 연수구 연수동 538 성일APT상가내",
+      "roadAddress": "인천광역시 연수구 새말로 20  (연수동,성일APT상가내)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동남슈퍼",
+      "address": "인천광역시 연수구 연수동 556",
+      "roadAddress": "인천광역시 연수구 새말로35번길 8-4  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)코리아쎄븐 인천송도역점",
+      "address": "인천광역시 연수구 옥련동 550-1",
+      "roadAddress": "인천광역시 연수구 대암로 19  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "인천광역시 연수구 옥련동 639-1 현대5차상가내",
+      "roadAddress": "인천광역시 연수구 한진로 49  (옥련동,현대5차상가내)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나유통",
+      "address": "인천광역시 연수구 동춘동 923",
+      "roadAddress": "인천광역시 연수구 청능대로 124  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신청학유통",
+      "address": "인천광역시 연수구 청학동 18BL-10LT 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔도유통",
+      "address": "인천광역시 연수구 옥련동 348-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경기슈퍼",
+      "address": "인천광역시 연수구 동춘동 928",
+      "roadAddress": "인천광역시 연수구 원인재로 56  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새한슈퍼",
+      "address": "인천광역시 연수구 옥련동 470",
+      "roadAddress": "인천광역시 연수구 한나루로86번길 56-4  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성슈퍼",
+      "address": "인천광역시 연수구 연수동 482-5",
+      "roadAddress": "인천광역시 연수구 함박로7번길 10  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "인천광역시 연수구 동춘동 928",
+      "roadAddress": "인천광역시 연수구 원인재로 56  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청학장터슈퍼",
+      "address": "인천광역시 연수구 청학동 34-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "복음슈퍼",
+      "address": "인천광역시 연수구 연수동 496-11",
+      "roadAddress": "인천광역시 연수구 함박로25번길 2  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "3차슈퍼",
+      "address": "인천광역시 연수구 옥련동 635-1",
+      "roadAddress": "인천광역시 연수구 능허대로79번길 65  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청실슈퍼",
+      "address": "인천광역시 연수구 청학동 228-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "프라자슈퍼",
+      "address": "인천광역시 연수구 동춘동 937-11",
+      "roadAddress": "인천광역시 연수구 먼우금로 88  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "인천광역시 연수구 옥련동 483-13",
+      "roadAddress": "인천광역시 연수구 한나루로86번길 41  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한라유통",
+      "address": "인천광역시 연수구 청학동 135-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "설악슈퍼",
+      "address": "인천광역시 연수구 연수동 490-6",
+      "roadAddress": "인천광역시 연수구 함박로4번길 17  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "자매슈퍼",
+      "address": "인천광역시 연수구 연수동 504",
+      "roadAddress": "인천광역시 연수구 함박로12번길 46  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "인천광역시 연수구 연수동 543",
+      "roadAddress": "인천광역시 연수구 먼우금로251번길 27  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동남프라자",
+      "address": "인천광역시 연수구 동춘동 943",
+      "roadAddress": "인천광역시 연수구 먼우금로 19  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대아슈퍼",
+      "address": "인천광역시 연수구 청학동 산 195",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘지슈퍼",
+      "address": "인천광역시 연수구 연수동 517-9",
+      "roadAddress": "인천광역시 연수구 함박안로156번길 7-21  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)LG유통 옥련점",
+      "address": "인천광역시 연수구 옥련동 634-1",
+      "roadAddress": "인천광역시 연수구 독배로40번길 18  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "인천광역시 연수구 연수동 545",
+      "roadAddress": "인천광역시 연수구 새말로69번길 20  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새한슈퍼",
+      "address": "인천광역시 연수구 옥련동 471",
+      "roadAddress": "인천광역시 연수구 한나루로86번길 50  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-26"
+    },
+    {
+      "name": "모아슈퍼",
+      "address": "인천광역시 연수구 연수동 578-2",
+      "roadAddress": "인천광역시 연수구 새말로 154  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "천지슈퍼",
+      "address": "인천광역시 연수구 연수동 521-8",
+      "roadAddress": "인천광역시 연수구 함박로67번길 16-28  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청학풀장유치원",
+      "address": "인천광역시 연수구 청학동 산 27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신용유통",
+      "address": "인천광역시 연수구 연수동 626-11",
+      "roadAddress": "인천광역시 연수구 샘말로38번길 7  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "잉꼬슈퍼",
+      "address": "인천광역시 연수구 연수동 482-4",
+      "roadAddress": "인천광역시 연수구 함박안로26번길 20  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG슈퍼(새로나슈퍼)",
+      "address": "인천광역시 연수구 연수동 582",
+      "roadAddress": "인천광역시 연수구 함박뫼로 250  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "인천광역시 연수구 연수동 511",
+      "roadAddress": "인천광역시 연수구 함박로84번길 43  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "인천광역시 연수구 선학동 353",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대마트",
+      "address": "인천광역시 연수구 연수동 607",
+      "roadAddress": "인천광역시 연수구 샘말로61번길 19  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "24시쌀슈퍼",
+      "address": "인천광역시 연수구 연수동 551-9",
+      "roadAddress": "인천광역시 연수구 새말로45번길 2  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경인슈퍼",
+      "address": "인천광역시 연수구 동춘동 924",
+      "roadAddress": "인천광역시 연수구 먼우금로 126  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소암슈퍼",
+      "address": "인천광역시 연수구 동춘동 718",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진우슈퍼",
+      "address": "인천광역시 연수구 연수동 542",
+      "roadAddress": "인천광역시 연수구 먼우금로251번길 8-20  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시영슈퍼",
+      "address": "인천광역시 연수구 연수동 582-2 연수1차 208동 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동신슈퍼",
+      "address": "인천광역시 연수구 연수동 605",
+      "roadAddress": "인천광역시 연수구 샘말로43번길 11  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "인천광역시 연수구 연수동 612-4",
+      "roadAddress": "인천광역시 연수구 벚꽃로142번길 12  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "민영유통",
+      "address": "인천광역시 연수구 연수동 633 대동월드",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나슈퍼",
+      "address": "인천광역시 연수구 옥련동 213 현대 2차상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남인천농협 하나로마트",
+      "address": "인천광역시 연수구 옥련동 334-1",
+      "roadAddress": "인천광역시 연수구 한나루로 188  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서해유통",
+      "address": "인천광역시 연수구 옥련동 399",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이화공판장",
+      "address": "인천광역시 연수구 옥련동 637-1 현대4차상가",
+      "roadAddress": "인천광역시 연수구 한나루로105번길 68  (옥련동,현대4차상가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지하슈퍼",
+      "address": "인천광역시 연수구 연수동 534 유천상가지하",
+      "roadAddress": "인천광역시 연수구 먼우금로 302  (연수동,유천상가지하)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대한슈퍼",
+      "address": "인천광역시 연수구 동춘동 940",
+      "roadAddress": "인천광역시 연수구 먼우금로83번길 49  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조흥타임마트",
+      "address": "인천광역시 연수구 동춘동 918",
+      "roadAddress": "인천광역시 연수구 먼우금로141번길 62  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농원슈퍼",
+      "address": "인천광역시 연수구 동춘동 222-11",
+      "roadAddress": "인천광역시 연수구 동곡재로 160  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양마트",
+      "address": "인천광역시 연수구 옥련동 423-1",
+      "roadAddress": "인천광역시 연수구 청량로185번길 13  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선학유통",
+      "address": "인천광역시 연수구 선학동 399-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "푸른샘슈퍼",
+      "address": "인천광역시 연수구 연수동 498-6",
+      "roadAddress": "인천광역시 연수구 함박로25번길 22-20  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연수슈퍼정육",
+      "address": "인천광역시 연수구 연수동 511-6",
+      "roadAddress": "인천광역시 연수구 함박로84번길 27  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "함박슈퍼",
+      "address": "인천광역시 연수구 연수동 539-19",
+      "roadAddress": "인천광역시 연수구 함박뫼로 80  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연수슈퍼",
+      "address": "인천광역시 연수구 연수동 582-2 연수2차상가 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남인천농협",
+      "address": "인천광역시 연수구 연수동 599-3",
+      "roadAddress": "인천광역시 연수구 먼우금로188번길 16  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세경유통(주)",
+      "address": "인천광역시 연수구 연수동 578-1",
+      "roadAddress": "인천광역시 연수구 새말로 134  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나정육슈퍼",
+      "address": "인천광역시 연수구 청학동 178-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "볼꺼리",
+      "address": "인천광역시 연수구 연수동 635",
+      "roadAddress": "인천광역시 연수구 청능대로 175  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서클K송도점",
+      "address": "인천광역시 연수구 옥련동 552-7",
+      "roadAddress": "인천광역시 연수구 능허대로 209-1  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양지슈퍼",
+      "address": "인천광역시 연수구 옥련동 16-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "인천광역시 연수구 옥련동 348",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북슈퍼",
+      "address": "인천광역시 연수구 옥련동 548-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구영상회",
+      "address": "인천광역시 연수구 옥련동 560-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수성슈퍼",
+      "address": "인천광역시 연수구 옥련동 564-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장군슈퍼",
+      "address": "인천광역시 연수구 옥련동 580-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송학둥지슈퍼",
+      "address": "인천광역시 연수구 옥련동 118-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영수슈퍼",
+      "address": "인천광역시 연수구 옥련동 17",
+      "roadAddress": "인천광역시 연수구 수인선길94번길 23  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원흥슈퍼",
+      "address": "인천광역시 연수구 옥련동 225",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청해식품",
+      "address": "인천광역시 연수구 옥련동 248-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙연쇄점",
+      "address": "인천광역시 연수구 옥련동 307",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제상회",
+      "address": "인천광역시 연수구 옥련동 308",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 연수점",
+      "address": "인천광역시 연수구 옥련동 319-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "협성슈퍼",
+      "address": "인천광역시 연수구 옥련동 327-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지현식품",
+      "address": "인천광역시 연수구 옥련동 330-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "인천광역시 연수구 옥련동 344-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화성슈퍼",
+      "address": "인천광역시 연수구 옥련동 351-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을슈퍼",
+      "address": "인천광역시 연수구 옥련동 39-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리상회",
+      "address": "인천광역시 연수구 옥련동 415",
+      "roadAddress": "인천광역시 연수구 청량로 165  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송도엄마슈퍼",
+      "address": "인천광역시 연수구 옥련동 512-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "88슈퍼",
+      "address": "인천광역시 연수구 옥련동 536",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북슈퍼",
+      "address": "인천광역시 연수구 옥련동 548-1",
+      "roadAddress": "인천광역시 연수구 능허대로 195  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-22"
+    },
+    {
+      "name": "대구슈퍼",
+      "address": "인천광역시 연수구 동춘동 736",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동춘슈퍼",
+      "address": "인천광역시 연수구 동춘동 810-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "비취슈퍼",
+      "address": "인천광역시 연수구 동춘동 813",
+      "roadAddress": "인천광역시 연수구 능허대로267번길 42  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나엘지슈퍼",
+      "address": "인천광역시 연수구 동춘동 919",
+      "roadAddress": "인천광역시 연수구 앵고개로205번길 41  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유림통상",
+      "address": "인천광역시 연수구 동춘동 921",
+      "roadAddress": "인천광역시 연수구 먼우금로 123  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍림하이퍼마켓",
+      "address": "인천광역시 연수구 동춘동 922",
+      "roadAddress": "인천광역시 연수구 먼우금로 149  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영락원매점",
+      "address": "인천광역시 연수구 동춘동 산 14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대하이퍼마켓",
+      "address": "인천광역시 연수구 동춘동 928",
+      "roadAddress": "인천광역시 연수구 원인재로 56  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "인천광역시 연수구 연수동 513",
+      "roadAddress": "인천광역시 연수구 함박안로62번길 78  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우슈퍼",
+      "address": "인천광역시 연수구 연수동 475-12",
+      "roadAddress": "인천광역시 연수구 비류대로347번길 5  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연수슈퍼정육",
+      "address": "인천광역시 연수구 연수동 551-4",
+      "roadAddress": "인천광역시 연수구 새말로45번길 8-16  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "인천광역시 연수구 연수동 599",
+      "roadAddress": "인천광역시 연수구 청능대로 103  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "4단지유통",
+      "address": "인천광역시 연수구 연수동 408-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연수슈퍼",
+      "address": "인천광역시 연수구 연수동 578-2",
+      "roadAddress": "인천광역시 연수구 새말로 154  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황해마트",
+      "address": "인천광역시 연수구 청학동 493-1",
+      "roadAddress": "인천광역시 연수구 청명로31번길 9  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정다운슈퍼",
+      "address": "인천광역시 연수구 연수동 544-1",
+      "roadAddress": "인천광역시 연수구 새말로69번길 22-22  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태산하이퍼",
+      "address": "인천광역시 연수구 연수동 575-1",
+      "roadAddress": "인천광역시 연수구 먼우금로264번길 8-4  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엄마손유통",
+      "address": "인천광역시 연수구 옥련동 133-4",
+      "roadAddress": "인천광역시 연수구 독배로90번길 70-3  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경희종합유통",
+      "address": "인천광역시 연수구 청학동 491-7",
+      "roadAddress": "인천광역시 연수구 청명로17번길 28  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "인천광역시 연수구 연수동 502-8",
+      "roadAddress": "인천광역시 연수구 함박안로62번길 72  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대산슈퍼",
+      "address": "인천광역시 연수구 연수동 533",
+      "roadAddress": "인천광역시 연수구 원인재로 315  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장안하이퍼",
+      "address": "인천광역시 연수구 연수동 504-6",
+      "roadAddress": "인천광역시 연수구 함박로12번길 60  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청량슈퍼",
+      "address": "인천광역시 연수구 동춘동 917",
+      "roadAddress": "인천광역시 연수구 먼우금로161번길 12  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국슈퍼",
+      "address": "인천광역시 연수구 옥련동 385-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옥련소비자마트",
+      "address": "인천광역시 연수구 옥련동 336-5",
+      "roadAddress": "인천광역시 연수구 한나루로193번길 3  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영광슈퍼",
+      "address": "인천광역시 연수구 옥련동 278-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "인천광역시 연수구 연수동 533",
+      "roadAddress": "인천광역시 연수구 원인재로 315  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울하이마트",
+      "address": "인천광역시 연수구 옥련동 269-6",
+      "roadAddress": "인천광역시 연수구 청량로239번길 3  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "인천광역시 연수구 연수동 516-8",
+      "roadAddress": "인천광역시 연수구 함박안로156번길 6  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옥련종합할인마트",
+      "address": "인천광역시 연수구 옥련동 462-42",
+      "roadAddress": "인천광역시 연수구 한나루로79번길 53  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진성소비자유통",
+      "address": "인천광역시 연수구 옥련동 259-16",
+      "roadAddress": "인천광역시 연수구 옥련로99번길 43  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연수공판장",
+      "address": "인천광역시 연수구 연수동 563-7",
+      "roadAddress": "인천광역시 연수구 새말로46번길 17-3  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화신미니슈퍼",
+      "address": "인천광역시 연수구 옥련동 308-21",
+      "roadAddress": "인천광역시 연수구 한나루로196번길 13-3  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황해슈퍼",
+      "address": "인천광역시 연수구 청학동 186-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정현슈퍼",
+      "address": "인천광역시 연수구 청학동 20BL-10LT",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대명소비자유통",
+      "address": "인천광역시 연수구 청학동 23BL-13LT",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서해그린마트",
+      "address": "인천광역시 연수구 청학동 450",
+      "roadAddress": "인천광역시 연수구 미추홀대로251번길 9  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한미슈퍼",
+      "address": "인천광역시 연수구 청학동 472-1",
+      "roadAddress": "인천광역시 연수구 함박뫼로26번길 20  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진행중슈퍼",
+      "address": "인천광역시 연수구 청학동 485-3",
+      "roadAddress": "인천광역시 연수구 청명로3번길 8-3  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "인천광역시 연수구 청학동 53-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청학슈퍼",
+      "address": "인천광역시 연수구 청학동 56BL-1LT",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부부슈퍼",
+      "address": "인천광역시 연수구 청학동 72-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "인천광역시 연수구 옥련동 194-54 럭키지하상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백산슈퍼",
+      "address": "인천광역시 연수구 옥련동 455-4 백산A상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "25시백산슈퍼",
+      "address": "인천광역시 연수구 옥련동 463-24",
+      "roadAddress": "인천광역시 연수구 독배로 25  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "근석철물",
+      "address": "인천광역시 연수구 옥련동 352-24",
+      "roadAddress": "인천광역시 연수구 한나루로 171  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은하슈퍼",
+      "address": "인천광역시 연수구 옥련동 628 현대1차상가",
+      "roadAddress": "인천광역시 연수구 옥련로 33  (옥련동,현대1차상가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대유통",
+      "address": "인천광역시 연수구 옥련동 628 현대1차상가",
+      "roadAddress": "인천광역시 연수구 옥련로 33  (옥련동,현대1차상가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경기유통",
+      "address": "인천광역시 연수구 청학동 474-1",
+      "roadAddress": "인천광역시 연수구 함박뫼로26번길 6  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송도식품",
+      "address": "인천광역시 연수구 옥련동 529-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태평2차슈퍼",
+      "address": "인천광역시 연수구 동춘동 961",
+      "roadAddress": "인천광역시 연수구 청능대로 38  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아주슈퍼",
+      "address": "인천광역시 연수구 옥련동 640-1 아주상가",
+      "roadAddress": "인천광역시 연수구 옥련로99번길 44  (옥련동,아주상가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이",
+      "address": "인천광역시 연수구 옥련동 194-4",
+      "roadAddress": "인천광역시 연수구 독배로 35  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양마트(주)바이더웨이",
+      "address": "인천광역시 연수구 선학동 266-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성슈퍼",
+      "address": "인천광역시 연수구 옥련동 452-2 아주상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "당진슈퍼",
+      "address": "인천광역시 연수구 청학동 473-6",
+      "roadAddress": "인천광역시 연수구 함박뫼로12번길 13-1  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아슈퍼",
+      "address": "인천광역시 연수구 동춘동 923",
+      "roadAddress": "인천광역시 연수구 청능대로 124  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한남체인",
+      "address": "인천광역시 연수구 동춘동 939",
+      "roadAddress": "인천광역시 연수구 앵고개로206번길 10  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "인천광역시 연수구 옥련동 637-1 현대4차상가",
+      "roadAddress": "인천광역시 연수구 한나루로105번길 68  (옥련동,현대4차상가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성알뜰슈퍼",
+      "address": "인천광역시 연수구 연수동 534 우성2차상가 1층",
+      "roadAddress": "인천광역시 연수구 먼우금로 302  (연수동,우성2차상가 1층)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "인천광역시 연수구 동춘동 929",
+      "roadAddress": "인천광역시 연수구 경원대로119번길 21  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무지개슈퍼",
+      "address": "인천광역시 연수구 동춘동 931",
+      "roadAddress": "인천광역시 연수구 원인재로 14  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연흥슈퍼",
+      "address": "인천광역시 연수구 동춘동 931",
+      "roadAddress": "인천광역시 연수구 원인재로 14  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한울하이퍼",
+      "address": "인천광역시 연수구 동춘동 931",
+      "roadAddress": "인천광역시 연수구 원인재로 14  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "인천광역시 연수구 동춘동 932",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대동하이퍼",
+      "address": "인천광역시 연수구 동춘동 941",
+      "roadAddress": "인천광역시 연수구 먼우금로 69  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알짜정육슈퍼",
+      "address": "인천광역시 연수구 청학동 158-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동남슈퍼",
+      "address": "인천광역시 연수구 청학동 177-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송학슈퍼",
+      "address": "인천광역시 연수구 청학동 38-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "혜인유통",
+      "address": "인천광역시 연수구 청학동 49-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명지유통",
+      "address": "인천광역시 연수구 청학동 458-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴서울슈퍼",
+      "address": "인천광역시 연수구 선학동 351",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경남슈퍼",
+      "address": "인천광역시 연수구 연수동 532-1",
+      "roadAddress": "인천광역시 연수구 원인재로 324  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송화슈퍼",
+      "address": "인천광역시 연수구 연수동 533",
+      "roadAddress": "인천광역시 연수구 원인재로 315  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청우슈퍼",
+      "address": "인천광역시 연수구 동춘동 924-3",
+      "roadAddress": "인천광역시 연수구 원인재로 81  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전원슈퍼",
+      "address": "인천광역시 연수구 옥련동 167",
+      "roadAddress": "인천광역시 연수구 독배로82번길 33-1  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍림문구사",
+      "address": "인천광역시 연수구 연수동 582",
+      "roadAddress": "인천광역시 연수구 함박뫼로 250  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조이마트",
+      "address": "인천광역시 연수구 옥련동 531-3",
+      "roadAddress": "인천광역시 연수구 청량로 143  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍림슈퍼마켓",
+      "address": "인천광역시 연수구 동춘동 929",
+      "roadAddress": "인천광역시 연수구 경원대로119번길 21  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씨엔지유통",
+      "address": "인천광역시 연수구 동춘동 943",
+      "roadAddress": "인천광역시 연수구 먼우금로 19  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연화슈퍼",
+      "address": "인천광역시 연수구 연수동 538",
+      "roadAddress": "인천광역시 연수구 새말로 20  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태산유통슈퍼",
+      "address": "인천광역시 연수구 연수동 578",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성호슈퍼",
+      "address": "인천광역시 연수구 청학동 449",
+      "roadAddress": "인천광역시 연수구 솔샘로43번길 15  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서해건재",
+      "address": "인천광역시 연수구 청학동 469",
+      "roadAddress": "인천광역시 연수구 용담로50번길 1  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "승현슈퍼",
+      "address": "인천광역시 연수구 청학동 35-30",
+      "roadAddress": "인천광역시 연수구 청솔로77번길 2  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한불로슈퍼",
+      "address": "인천광역시 연수구 청학동 133-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "골든마트",
+      "address": "인천광역시 연수구 연수동 518-13",
+      "roadAddress": "인천광역시 연수구 함박안로156번길 15-13  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산골슈퍼",
+      "address": "인천광역시 연수구 청학동 3-94",
+      "roadAddress": "인천광역시 연수구 청솔로 112  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나소비자유통",
+      "address": "인천광역시 연수구 선학동 340",
+      "roadAddress": "인천광역시 연수구 선학로 37  (선학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청학크로바마트",
+      "address": "인천광역시 연수구 청학동 14BL-9-4LT",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "맥아더유통",
+      "address": "인천광역시 연수구 동춘동 818-3",
+      "roadAddress": "인천광역시 연수구 앵고개로87번길 37  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "온누리마트",
+      "address": "인천광역시 연수구 옥련동 367-7",
+      "roadAddress": "인천광역시 연수구 청량로194번길 22  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영남종합유통",
+      "address": "인천광역시 연수구 연수동 577",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍림슈퍼",
+      "address": "인천광역시 연수구 동춘동 922",
+      "roadAddress": "인천광역시 연수구 먼우금로 149  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동보프라자",
+      "address": "인천광역시 연수구 청학동 95-2",
+      "roadAddress": "인천광역시 연수구 비류대로244번길 24  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쌍룡하이퍼",
+      "address": "인천광역시 연수구 옥련동 378-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다람쥐마트",
+      "address": "인천광역시 연수구 청학동 495-9",
+      "roadAddress": "인천광역시 연수구 청명로17번길 6  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용담슈퍼",
+      "address": "인천광역시 연수구 청학동 454",
+      "roadAddress": "인천광역시 연수구 용담로 25  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청량유통",
+      "address": "인천광역시 연수구 청학동 458-10",
+      "roadAddress": "인천광역시 연수구 청능말로14번길 8  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운화마트",
+      "address": "인천광역시 연수구 옥련동 462-32",
+      "roadAddress": "인천광역시 연수구 독배로40번길 35  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김포슈퍼",
+      "address": "인천광역시 연수구 연수동 533",
+      "roadAddress": "인천광역시 연수구 원인재로 315  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "인천광역시 연수구 연수동 472-7",
+      "roadAddress": "인천광역시 연수구 비류대로331번길 5  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "함박소비자유통",
+      "address": "인천광역시 연수구 연수동 489-11",
+      "roadAddress": "인천광역시 연수구 함박로8번길 3  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "반석슈퍼",
+      "address": "인천광역시 연수구 연수동 509",
+      "roadAddress": "인천광역시 연수구 함박로92번길 45  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성심슈퍼",
+      "address": "인천광역시 연수구 연수동 519-3",
+      "roadAddress": "인천광역시 연수구 함박로67번길 16-6  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "싱싱슈퍼",
+      "address": "인천광역시 연수구 연수동 553-6",
+      "roadAddress": "인천광역시 연수구 함박뫼로84번길 48  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시범슈퍼",
+      "address": "인천광역시 연수구 연수동 502-17",
+      "roadAddress": "인천광역시 연수구 함박로 37  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동서농수산슈퍼",
+      "address": "인천광역시 연수구 청학동 21BL-2-2LT",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "인천광역시 연수구 선학동 357-1",
+      "roadAddress": "인천광역시 연수구 비류대로 599  (선학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선진마트",
+      "address": "인천광역시 연수구 연수동 602-3",
+      "roadAddress": "인천광역시 연수구 샘말로21번길 3  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한울슈퍼",
+      "address": "인천광역시 연수구 청학동 488-5",
+      "roadAddress": "인천광역시 연수구 용담로 74-1  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한남슈퍼체인",
+      "address": "인천광역시 연수구 청학동 47BL-6LT",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 연수대림점",
+      "address": "인천광역시 연수구 연수동 532-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사러가유통",
+      "address": "인천광역시 연수구 선학동 353",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조해김치슈퍼",
+      "address": "인천광역시 연수구 연수동 543-11",
+      "roadAddress": "인천광역시 연수구 새말로 81  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월드슈퍼",
+      "address": "인천광역시 연수구 연수동 610-1",
+      "roadAddress": "인천광역시 연수구 샘말로87번길 7-4  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아주슈퍼",
+      "address": "인천광역시 연수구 선학동 353 아주 대동상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선학하이퍼",
+      "address": "인천광역시 연수구 선학동 364-1",
+      "roadAddress": "인천광역시 연수구 학나래로29번길 2-3  (선학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울유통",
+      "address": "인천광역시 연수구 선학동 369-15",
+      "roadAddress": "인천광역시 연수구 비류대로529번길 10  (선학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선학슈퍼",
+      "address": "인천광역시 연수구 선학동 256-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "희망마트",
+      "address": "인천광역시 연수구 연수동 521-15",
+      "roadAddress": "인천광역시 연수구 함박로67번길 4  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두산슈퍼",
+      "address": "인천광역시 연수구 옥련동 194-38",
+      "roadAddress": "인천광역시 연수구 능허대로123번길 9  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용담공원슈퍼",
+      "address": "인천광역시 연수구 청학동 468-6",
+      "roadAddress": "인천광역시 연수구 용담로 50  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우신종합유통",
+      "address": "인천광역시 연수구 선학동 403-6",
+      "roadAddress": "인천광역시 연수구 학나래로 88  (선학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "인천광역시 연수구 연수동 494",
+      "roadAddress": "인천광역시 연수구 함박로12번길 24  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "할인마트",
+      "address": "인천광역시 연수구 연수동 538 성일상가 지하",
+      "roadAddress": "인천광역시 연수구 새말로 20  (연수동,성일상가 지하)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연수소비자마트",
+      "address": "인천광역시 연수구 연수동 565-5",
+      "roadAddress": "인천광역시 연수구 새말로 64  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팝25시슈퍼",
+      "address": "인천광역시 연수구 연수동 620-9",
+      "roadAddress": "인천광역시 연수구 샘말로62번길 17  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "맘모스슈퍼",
+      "address": "인천광역시 연수구 동춘동 936-67",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한길공판장",
+      "address": "인천광역시 연수구 옥련동 194-4",
+      "roadAddress": "인천광역시 연수구 독배로 35  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)한화마트여수점",
+      "address": "인천광역시 연수구 동춘동 932",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한남체인",
+      "address": "인천광역시 연수구 청학동 488",
+      "roadAddress": "인천광역시 연수구 청능대로53번길 32  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수성슈퍼",
+      "address": "인천광역시 연수구 청학동 65-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)LG유통 연수점",
+      "address": "인천광역시 연수구 동춘동 925-7",
+      "roadAddress": "인천광역시 연수구 원인재로 88  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수아하이퍼",
+      "address": "인천광역시 연수구 연수동 547-9",
+      "roadAddress": "인천광역시 연수구 새말로55번길 12  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용희소비자마트",
+      "address": "인천광역시 연수구 청학동 14-51",
+      "roadAddress": "인천광역시 연수구 청솔로 68  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25연수점",
+      "address": "인천광역시 연수구 연수동 558-5",
+      "roadAddress": "인천광역시 연수구 새말로46번길 4  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청학그린마트",
+      "address": "인천광역시 연수구 청학동 470-5",
+      "roadAddress": "인천광역시 연수구 함박뫼로12번길 37  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가온마트",
+      "address": "인천광역시 연수구 연수동 544-5",
+      "roadAddress": "인천광역시 연수구 먼우금로251번길 14-4  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 연수유천점",
+      "address": "인천광역시 연수구 연수동 534",
+      "roadAddress": "인천광역시 연수구 먼우금로 302  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대천슈퍼",
+      "address": "인천광역시 연수구 연수동 618",
+      "roadAddress": "인천광역시 연수구 샘말로 96-2  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문남슈퍼",
+      "address": "인천광역시 연수구 연수동 540",
+      "roadAddress": "인천광역시 연수구 함박뫼로 100  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-14"
+    },
+    {
+      "name": "조광마트",
+      "address": "인천광역시 연수구 동춘동 929",
+      "roadAddress": "인천광역시 연수구 경원대로119번길 21  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-10-21"
+    },
+    {
+      "name": "희망할인마트",
+      "address": "인천광역시 연수구 연수동 521-15 1층",
+      "roadAddress": "인천광역시 연수구 함박로67번길 4  (연수동,1층)",
+      "status": "영업/정상",
+      "licenseDate": "2009-12-21"
+    },
+    {
+      "name": "아름유통",
+      "address": "인천광역시 연수구 옥련동 344-1",
+      "roadAddress": "인천광역시 연수구 한나루로180번길 20  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진하이퍼",
+      "address": "인천광역시 연수구 선학동 392",
+      "roadAddress": "인천광역시 연수구 넘말로 43  (선학동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-14"
+    },
+    {
+      "name": "하얀마트",
+      "address": "인천광역시 연수구 연수동 511-7 상가 101호",
+      "roadAddress": "인천광역시 연수구 함박로88번길 26  (연수동,상가 101호)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태호슈퍼",
+      "address": "인천광역시 연수구 동춘동 800-11",
+      "roadAddress": "인천광역시 연수구 청량로 76  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신광설비철물",
+      "address": "인천광역시 연수구 청학동 139",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선명미니슈퍼",
+      "address": "인천광역시 연수구 청학동 450",
+      "roadAddress": "인천광역시 연수구 미추홀대로251번길 9  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시대철물",
+      "address": "인천광역시 연수구 청학동 산 9-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "인천광역시 연수구 동춘동 924",
+      "roadAddress": "인천광역시 연수구 먼우금로 126  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "누리슈퍼",
+      "address": "인천광역시 연수구 연수동 535-2 우주상가 지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍림슈퍼",
+      "address": "인천광역시 연수구 연수동 582 풍림상가",
+      "roadAddress": "인천광역시 연수구 함박뫼로 250  (연수동,풍림상가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "인천광역시 연수구 동춘동 920-1",
+      "roadAddress": "인천광역시 연수구 동곡재로117번길 22  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동대마트",
+      "address": "인천광역시 연수구 청학동 37-24",
+      "roadAddress": "인천광역시 연수구 청솔로 52  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "인천광역시 연수구 청학동 486-5",
+      "roadAddress": "인천광역시 연수구 청명로3번길 1  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우주마트",
+      "address": "인천광역시 연수구 연수동 535-2 우주상가 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대할인마트",
+      "address": "인천광역시 연수구 청학동 226-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "건영슈퍼",
+      "address": "인천광역시 연수구 동춘동 938 민영상가 204호",
+      "roadAddress": "인천광역시 연수구 먼우금로83번길 12  (동춘동,민영상가 204호)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트(연수점)",
+      "address": "인천광역시 연수구 연수동 539-11",
+      "roadAddress": "인천광역시 연수구 새말로 31  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대림하이마트",
+      "address": "인천광역시 연수구 연수동 532 대림상가 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청학공판장",
+      "address": "인천광역시 연수구 청학동 26BL-6LT",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다사랑부식",
+      "address": "인천광역시 연수구 청학동 41BL-3LT",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쌍둥이하이퍼",
+      "address": "인천광역시 연수구 연수동 528-1",
+      "roadAddress": "인천광역시 연수구 함박로83번길 6  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송도슈퍼",
+      "address": "인천광역시 연수구 동춘동 805-17",
+      "roadAddress": "인천광역시 연수구 앵고개로101번길 12-1  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 연수한양점",
+      "address": "인천광역시 연수구 동춘동 925",
+      "roadAddress": "인천광역시 연수구 원인재로 124  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송도역주유소OK마트",
+      "address": "인천광역시 연수구 옥련동 304-7",
+      "roadAddress": "인천광역시 연수구 비류대로 199  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "인천광역시 연수구 옥련동 639-1 현대5차상가 109호",
+      "roadAddress": "인천광역시 연수구 한진로 49  (옥련동,현대5차상가 109호)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "인천광역시 연수구 동춘동 923",
+      "roadAddress": "인천광역시 연수구 청능대로 124  (동춘동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인천할인마트",
+      "address": "인천광역시 연수구 선학동 398-8",
+      "roadAddress": "인천광역시 연수구 경원대로483번길 26  (선학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명물슈퍼",
+      "address": "인천광역시 연수구 연수동 571",
+      "roadAddress": "인천광역시 연수구 새말로107번길 3  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청학할인마트",
+      "address": "인천광역시 연수구 청학동 30-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)우성유통",
+      "address": "인천광역시 연수구 연수동 634",
+      "roadAddress": "인천광역시 연수구 원인재로 180  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대우슈퍼",
+      "address": "인천광역시 연수구 연수동 579",
+      "roadAddress": "인천광역시 연수구 원인재로 237  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍림소비자유통",
+      "address": "인천광역시 연수구 옥련동 285-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영남정육백화점",
+      "address": "인천광역시 연수구 연수동 577 영남상가 지하3호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마그넷연수점(주)롯데쇼핑",
+      "address": "인천광역시 연수구 청학동 502-4",
+      "roadAddress": "인천광역시 연수구 청능대로 87  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청학할인마트",
+      "address": "인천광역시 연수구 청학동 561-6",
+      "roadAddress": "인천광역시 연수구 솔샘로92번길 3  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정성할인마트",
+      "address": "인천광역시 연수구 옥련동 637-1 현대상가",
+      "roadAddress": "인천광역시 연수구 한나루로105번길 68  (옥련동,현대상가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "인천광역시 연수구 옥련동 552-7",
+      "roadAddress": "인천광역시 연수구 능허대로 209-1  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-07"
+    },
+    {
+      "name": "선학슈퍼",
+      "address": "인천광역시 연수구 선학동 367-6",
+      "roadAddress": "인천광역시 연수구 학나래로5번길 11  (선학동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-23"
+    },
+    {
+      "name": "대성마트",
+      "address": "인천광역시 연수구 청학동 528-9",
+      "roadAddress": "인천광역시 연수구 청학로 10  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-03"
+    },
+    {
+      "name": "김춘식",
+      "address": "인천광역시 연수구 선학동 364-1",
+      "roadAddress": "인천광역시 연수구 학나래로29번길 2-3  (선학동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-22"
+    },
+    {
+      "name": "청량마트",
+      "address": "인천광역시 연수구 옥련동 348-88",
+      "roadAddress": "인천광역시 연수구 청룡로30번길 21  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-18"
+    },
+    {
+      "name": "골든마트",
+      "address": "인천광역시 연수구 연수동 528-13",
+      "roadAddress": "인천광역시 연수구 함박로87번길 3  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-18"
+    },
+    {
+      "name": "용담슈퍼",
+      "address": "인천광역시 연수구 청학동 454",
+      "roadAddress": "인천광역시 연수구 용담로 25  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-11"
+    },
+    {
+      "name": "럭키마트",
+      "address": "인천광역시 연수구 옥련동 626",
+      "roadAddress": "인천광역시 연수구 능허대로79번길 30  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-30"
+    },
+    {
+      "name": "누리마트",
+      "address": "인천광역시 연수구 선학동 355-2",
+      "roadAddress": "인천광역시 연수구 선학로74번길 20  (선학동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-23"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "인천광역시 연수구 연수동 559",
+      "roadAddress": "인천광역시 연수구 새말로36번길 11  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-02-08"
+    },
+    {
+      "name": "지은슈퍼",
+      "address": "인천광역시 연수구 연수동 618",
+      "roadAddress": "인천광역시 연수구 샘말로 96-2  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-17"
+    },
+    {
+      "name": "우리마트",
+      "address": "인천광역시 연수구 청학동 524-6",
+      "roadAddress": "인천광역시 연수구 청학로11번길 25  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-12"
+    },
+    {
+      "name": "아름유통",
+      "address": "인천광역시 연수구 옥련동 344-1",
+      "roadAddress": "인천광역시 연수구 한나루로180번길 20  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-07"
+    },
+    {
+      "name": "한남체인대동점",
+      "address": "인천광역시 연수구 연수동 619-7",
+      "roadAddress": "인천광역시 연수구 샘말로88번길 19  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-09"
+    },
+    {
+      "name": "서울소비자유통",
+      "address": "인천광역시 연수구 선학동 369-15",
+      "roadAddress": "인천광역시 연수구 비류대로529번길 10  (선학동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-09-10"
+    },
+    {
+      "name": "에덴슈퍼",
+      "address": "인천광역시 연수구 선학동 407-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-04-25"
+    },
+    {
+      "name": "동남슈퍼",
+      "address": "인천광역시 연수구 연수동 536",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-07-31"
+    },
+    {
+      "name": "하얀마트",
+      "address": "인천광역시 연수구 연수동 511-7",
+      "roadAddress": "인천광역시 연수구 함박로88번길 26  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-26"
+    },
+    {
+      "name": "성심슈퍼",
+      "address": "인천광역시 연수구 연수동 559-2",
+      "roadAddress": "인천광역시 연수구 함박뫼로50번길 15-11  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-09-18"
+    },
+    {
+      "name": "푸르지오슈퍼",
+      "address": "인천광역시 연수구 연수동 579 대우1차아파트",
+      "roadAddress": "인천광역시 연수구 원인재로 237  (연수동,대우1차아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2008-05-07"
+    },
+    {
+      "name": "곰마트",
+      "address": "인천광역시 연수구 청학동 527-24",
+      "roadAddress": "인천광역시 연수구 청학로6번길 94  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-27"
+    },
+    {
+      "name": "우리마트",
+      "address": "인천광역시 연수구 청학동 560-7",
+      "roadAddress": "인천광역시 연수구 비류대로256번길 8-1  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-20"
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "인천광역시 연수구 옥련동 552-7",
+      "roadAddress": "인천광역시 연수구 능허대로 209-1  (옥련동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-07"
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "인천광역시 연수구 옥련동 344-88",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-18"
+    },
+    {
+      "name": "선학할인마트",
+      "address": "인천광역시 연수구 선학동 391-2",
+      "roadAddress": "인천광역시 연수구 넘말로55번길 13  (선학동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-02-27"
+    },
+    {
+      "name": "뉴서울슈퍼",
+      "address": "인천광역시 연수구 선학동 352",
+      "roadAddress": "인천광역시 연수구 선학로 101  (선학동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-17"
+    },
+    {
+      "name": "시영슈퍼",
+      "address": "인천광역시 연수구 연수동 582-2 연수시영1차아파트 208동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-18"
+    },
+    {
+      "name": "선학하이퍼",
+      "address": "인천광역시 연수구 선학동 364-1",
+      "roadAddress": "인천광역시 연수구 학나래로29번길 2-3  (선학동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-22"
+    },
+    {
+      "name": "미니스톱",
+      "address": "인천광역시 연수구 청학동 503-1",
+      "roadAddress": "인천광역시 연수구 먼우금로 197  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-02-12"
+    },
+    {
+      "name": "EL마트",
+      "address": "인천광역시 연수구 동춘동 938 건영아파트",
+      "roadAddress": "인천광역시 연수구 먼우금로83번길 12  (동춘동,건영아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-19"
+    },
+    {
+      "name": "대아할인마트",
+      "address": "인천광역시 연수구 청학동 540-3",
+      "roadAddress": "인천광역시 연수구 계림로 66  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-22"
+    },
+    {
+      "name": "대경슈퍼",
+      "address": "인천광역시 연수구 연수동 532",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-04"
+    },
+    {
+      "name": "부흥할인마트",
+      "address": "인천광역시 연수구 연수동 574-3",
+      "roadAddress": "인천광역시 연수구 먼우금로264번길 18  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-01"
+    },
+    {
+      "name": "연수마트",
+      "address": "인천광역시 연수구 연수동 627-6",
+      "roadAddress": "인천광역시 연수구 샘말로30번길 19  (연수동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-19"
+    }
+  ]
+}

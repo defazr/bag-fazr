@@ -1,0 +1,4707 @@
+{
+  "region": "전북특별자치도",
+  "regionSlug": "jeonbuk",
+  "district": "군산시",
+  "districtSlug": "gunsan",
+  "updatedAt": "2026-03-26",
+  "totalCount": 671,
+  "stores": [
+    {
+      "name": "장인영쇠 철물",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 황룡2길 8 (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-09"
+    },
+    {
+      "name": "수정슈퍼",
+      "address": "전북특별자치도 군산시 문화동 540-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "전북특별자치도 군산시 문화동 880-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "군산슈퍼",
+      "address": "전북특별자치도 군산시 문화동 876-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "승미슈퍼",
+      "address": "전북특별자치도 군산시 문화동 539-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-07"
+    },
+    {
+      "name": "지은슈퍼",
+      "address": "전북특별자치도 군산시 문화동 884-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-25"
+    },
+    {
+      "name": "문화슈퍼",
+      "address": "전북특별자치도 군산시 문화동 883-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "리마트",
+      "address": "전북특별자치도 군산시 신풍동 904-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "대창슈퍼",
+      "address": "전북특별자치도 군산시 문화동 917-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "파리슈퍼",
+      "address": "전북특별자치도 군산시 문화동 893-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-10"
+    },
+    {
+      "name": "부흥상회",
+      "address": "전북특별자치도 군산시 신풍동 902-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "햇살슈퍼",
+      "address": "전북특별자치도 군산시 문화동 823-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-01"
+    },
+    {
+      "name": "문화스토아",
+      "address": "전북특별자치도 군산시 문화동 900-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-07"
+    },
+    {
+      "name": "학생슈퍼",
+      "address": "전북특별자치도 군산시 문화동 892-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-01"
+    },
+    {
+      "name": "삼성아파트 부녀회",
+      "address": "전북특별자치도 군산시 문화동 26 삼성아파트 7동 806호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "코끼리마트",
+      "address": "전북특별자치도 군산시 문화동 534-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "은혜마트",
+      "address": "전북특별자치도 군산시 문화동 916-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-01"
+    },
+    {
+      "name": "은혜만물슈퍼",
+      "address": "전북특별자치도 군산시 문화동 917-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "성광슈퍼",
+      "address": "전북특별자치도 군산시 문화동 823-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-01"
+    },
+    {
+      "name": "신태양슈퍼",
+      "address": "전북특별자치도 군산시 문화동 14-90",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-17"
+    },
+    {
+      "name": "하나슈퍼",
+      "address": "전북특별자치도 군산시 신풍동 892-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "동네슈퍼",
+      "address": "전북특별자치도 군산시 문화동 1-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "번영슈퍼",
+      "address": "전북특별자치도 군산시 문화동 916-42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-17"
+    },
+    {
+      "name": "남원콜마트",
+      "address": "전북특별자치도 군산시 선양동 2228",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-02"
+    },
+    {
+      "name": "광복슈퍼",
+      "address": "전북특별자치도 군산시 선양동 223-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-23"
+    },
+    {
+      "name": "코리아마트",
+      "address": "전북특별자치도 군산시 명산동 17-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-31"
+    },
+    {
+      "name": "한성상회",
+      "address": "전북특별자치도 군산시 명산동 21-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-01"
+    },
+    {
+      "name": "덕양문구",
+      "address": "전북특별자치도 군산시 명산동 18-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1983-01-31"
+    },
+    {
+      "name": "하성상회",
+      "address": "전북특별자치도 군산시 명산동 11-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-25"
+    },
+    {
+      "name": "청과슈퍼",
+      "address": "전북특별자치도 군산시 문화동 905-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "아이24시폄의점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 미원로 81 (삼학동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-20"
+    },
+    {
+      "name": "씨유군산주공점",
+      "address": "전북특별자치도 군산시 나운동 831-2",
+      "roadAddress": "전북특별자치도 군산시 대학로 291 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-21"
+    },
+    {
+      "name": "영일마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 하나운로 44 (나운동, 롯데아파트상가105호)",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-21"
+    },
+    {
+      "name": "GS산북하나점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 칠성로 121-12 (산북동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-22"
+    },
+    {
+      "name": "GS25군산대 본점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 대학로 558 (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-25"
+    },
+    {
+      "name": "프리마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 미원로 61, B동 103호 (삼학동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-05"
+    },
+    {
+      "name": "군산농업협동조합",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 번영로 162 (조촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-06"
+    },
+    {
+      "name": "시티마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 팔마로 150 (동흥남동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-07"
+    },
+    {
+      "name": "GS25월명터널",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 월명로 496 (월명동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-15"
+    },
+    {
+      "name": "GS군산법원점",
+      "address": "전북특별자치도 군산시 조촌동 744-14",
+      "roadAddress": "전북특별자치도 군산시 양안로 53 (조촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-26"
+    },
+    {
+      "name": "GS25군산디발디점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 수송동로 18, 101동 (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-04-01"
+    },
+    {
+      "name": "GS군산파크점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 소룡1길 51 (소룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-04-03"
+    },
+    {
+      "name": "대영건재",
+      "address": "전북특별자치도 군산시 서수면 서수리 794-3",
+      "roadAddress": "전북특별자치도 군산시 서수면 탑천로 600-1",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-27"
+    },
+    {
+      "name": "호남철물공구",
+      "address": "전북특별자치도 군산시 경암동 643-14",
+      "roadAddress": "전북특별자치도 군산시 진포로 216 (경암동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-28"
+    },
+    {
+      "name": "오래오마트",
+      "address": "전북특별자치도 군산시 산북동 3537",
+      "roadAddress": "전북특별자치도 군산시 소룡안3길 27 (산북동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-04-05"
+    },
+    {
+      "name": "대박마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 수송북로 32 (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-04-11"
+    },
+    {
+      "name": "GS25군산군장대점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 성산면 군장대길 2",
+      "status": "영업/정상",
+      "licenseDate": "2013-04-12"
+    },
+    {
+      "name": "세븐일레븐군산수송K타워",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 문화로 77 (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-04-26"
+    },
+    {
+      "name": "GS25군장생활관점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 경암안1길 78 (경암동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-04-30"
+    },
+    {
+      "name": "오투플러스마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 축동로 33 (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-04-30"
+    },
+    {
+      "name": "슈퍼맨",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 번영로 188-22, 상가동동 1,2호 (조촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-04-30"
+    },
+    {
+      "name": "현대홈마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 서당길 4 (구암동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-02"
+    },
+    {
+      "name": "태영전기철물공구",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 대학로 138 (신풍동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-03"
+    },
+    {
+      "name": "슈퍼마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 요죽안2길 60 (오식도동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-06"
+    },
+    {
+      "name": "코사마트월명점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 월명로 495 (월명동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-06"
+    },
+    {
+      "name": "삼성슈퍼",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 대학로 116 (금광동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-07"
+    },
+    {
+      "name": "시티슈퍼",
+      "address": "전북특별자치도 군산시 미룡동 799-2",
+      "roadAddress": "전북특별자치도 군산시 원당길 74 (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-21"
+    },
+    {
+      "name": "진미슈퍼",
+      "address": "전북특별자치도 군산시 개복동 6-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-17"
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "전북특별자치도 군산시 개복동 8-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1991-02-05"
+    },
+    {
+      "name": "호돌이슈퍼",
+      "address": "전북특별자치도 군산시 개복동 11-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-01"
+    },
+    {
+      "name": "아리랑슈퍼",
+      "address": "전북특별자치도 군산시 창성동 38-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-01"
+    },
+    {
+      "name": "신용쇼핑",
+      "address": "전북특별자치도 군산시 미원동 164",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-01"
+    },
+    {
+      "name": "맥심쇼핑",
+      "address": "전북특별자치도 군산시 미원동 78",
+      "roadAddress": "전북특별자치도 군산시 미원로 87  (미원동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-30"
+    },
+    {
+      "name": "만일슈퍼",
+      "address": "전북특별자치도 군산시 미원동 218",
+      "roadAddress": "전북특별자치도 군산시 미원로 110-1  (미원동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-30"
+    },
+    {
+      "name": "수연슈퍼",
+      "address": "전북특별자치도 군산시 대명동 384-46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-20"
+    },
+    {
+      "name": "군산시 농협 중앙지소 하나로마트",
+      "address": "전북특별자치도 군산시 중앙로3가 38",
+      "roadAddress": "전북특별자치도 군산시 중앙로 71  (중앙로3가)",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-01"
+    },
+    {
+      "name": "파라다이스 슈퍼",
+      "address": "전북특별자치도 군산시 미원동 42",
+      "roadAddress": "전북특별자치도 군산시 월명로 413-2  (미원동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-01"
+    },
+    {
+      "name": "콜마트 장재동",
+      "address": "전북특별자치도 군산시 장재동 45-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-27"
+    },
+    {
+      "name": "일등휴게실",
+      "address": "전북특별자치도 군산시 미원동 104",
+      "roadAddress": "전북특별자치도 군산시 미원안길 2  (미원동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-20"
+    },
+    {
+      "name": "삼원슈퍼",
+      "address": "전북특별자치도 군산시 미원동 233",
+      "roadAddress": "전북특별자치도 군산시 월명로 396  (미원동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-20"
+    },
+    {
+      "name": "영준슈퍼",
+      "address": "전북특별자치도 군산시 동흥남동 107-88",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-01"
+    },
+    {
+      "name": "흥남슈퍼",
+      "address": "전북특별자치도 군산시 서흥남동 849-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "전북특별자치도 군산시 서흥남동 828-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-14"
+    },
+    {
+      "name": "전원슈퍼",
+      "address": "전북특별자치도 군산시 서흥남동 801-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-02-10"
+    },
+    {
+      "name": "행운슈퍼",
+      "address": "전북특별자치도 군산시 동흥남동 139-116",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-10"
+    },
+    {
+      "name": "믿음슈퍼",
+      "address": "전북특별자치도 군산시 동흥남동 382-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "삼성슈퍼",
+      "address": "전북특별자치도 군산시 동흥남동 397-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-07"
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "전북특별자치도 군산시 동흥남동 405-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-02"
+    },
+    {
+      "name": "군고슈퍼",
+      "address": "전북특별자치도 군산시 동흥남동 404-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "성주슈퍼",
+      "address": "전북특별자치도 군산시 동흥남동 407-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-01"
+    },
+    {
+      "name": "팔마슈퍼",
+      "address": "전북특별자치도 군산시 동흥남동 141-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "세용상회",
+      "address": "전북특별자치도 군산시 개복동 9-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-01"
+    },
+    {
+      "name": "배민자",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 성산면 군장대길 13",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-23"
+    },
+    {
+      "name": "성원마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 해망로 447 (소룡동, 상가101호)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-27"
+    },
+    {
+      "name": "CU수송롯데점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 동수송2길 11 (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-28"
+    },
+    {
+      "name": "GS군산시민점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 중앙로 179 (중앙로1가)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-28"
+    },
+    {
+      "name": "미니스톱군산영화점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 구영5길 129 (영화동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-29"
+    },
+    {
+      "name": "(주)지에스리테일GS은파유원지점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 은파순환길 82 (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-31"
+    },
+    {
+      "name": "코사마트나운점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 나운안3길 5 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-06-10"
+    },
+    {
+      "name": "GS25군산조촌로점",
+      "address": "전북특별자치도 군산시 조촌동 841-12",
+      "roadAddress": "전북특별자치도 군산시 조촌안3길 2  (조촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-06-12"
+    },
+    {
+      "name": "바다안농장",
+      "address": "전북특별자치도 군산시 미룡동 896-3",
+      "roadAddress": "전북특별자치도 군산시 미룡로 45, 104호 (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-06-20"
+    },
+    {
+      "name": "CU군산코아루점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 축동로 83, 107호 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-06-20"
+    },
+    {
+      "name": "GS25군산본점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 수송로 23 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-06-21"
+    },
+    {
+      "name": "GS25군산현대점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 나운로 13 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-06-24"
+    },
+    {
+      "name": "자유로마트제일고점",
+      "address": "전북특별자치도 군산시 조촌동 565번지 10호",
+      "roadAddress": "전북특별자치도 군산시 부골2길 67 (조촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-06-28"
+    },
+    {
+      "name": "금호참마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 한밭안길 1 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-01"
+    },
+    {
+      "name": "(주)삼우원마트",
+      "address": "전북특별자치도 군산시 미룡동 856-6",
+      "roadAddress": "전북특별자치도 군산시 칠성3길 11 (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-03"
+    },
+    {
+      "name": "주공홈마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 동흥남길 9, 상가1동 103호 (동흥남동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-12"
+    },
+    {
+      "name": "맛도그",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 백토로 70 (문화동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-17"
+    },
+    {
+      "name": "정훈슈퍼",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 신설로 6 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-22"
+    },
+    {
+      "name": "CU군산임피점",
+      "address": "전북특별자치도 군산시 임피면 읍내리 274-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-22"
+    },
+    {
+      "name": "K1마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 공항로 85 (소룡동, 지하)",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-23"
+    },
+    {
+      "name": "CU군산미원점",
+      "address": "전북특별자치도 군산시 미원동 416",
+      "roadAddress": "전북특별자치도 군산시 월명로 374  (미원동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-08-08"
+    },
+    {
+      "name": "해신동주민센터신축공사",
+      "address": "전북특별자치도 군산시 금동 2-3",
+      "roadAddress": "전북특별자치도 군산시 하신재길 23, 나운동동 상가층 7,8호 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-08-12"
+    },
+    {
+      "name": "편의점사랑",
+      "address": "전북특별자치도 군산시 나운동 766-14",
+      "roadAddress": "전북특별자치도 군산시 신설로 6  (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-19"
+    },
+    {
+      "name": "성심마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 요죽4길 12-4 (오식도동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-08-21"
+    },
+    {
+      "name": "참마을식품",
+      "address": "전북특별자치도 군산시 대명동 384-32",
+      "roadAddress": "전북특별자치도 군산시 중앙로 11  (대명동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-09-03"
+    },
+    {
+      "name": "24시웅마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 수송로 18-0 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-09-03"
+    },
+    {
+      "name": "또또와 슈퍼",
+      "address": "전북특별자치도 군산시 서흥남동 805-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-02"
+    },
+    {
+      "name": "강천건재",
+      "address": "전북특별자치도 군산시 동흥남동 339-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-16"
+    },
+    {
+      "name": "풍성슈퍼",
+      "address": "전북특별자치도 군산시 서흥남동 820-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-14"
+    },
+    {
+      "name": "삼흥슈퍼",
+      "address": "전북특별자치도 군산시 서흥남동 801-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-01"
+    },
+    {
+      "name": "대도슈퍼",
+      "address": "전북특별자치도 군산시 서흥남동 824-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-10"
+    },
+    {
+      "name": "청하슈퍼",
+      "address": "전북특별자치도 군산시 서흥남동 816-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-01"
+    },
+    {
+      "name": "서광슈퍼휴게실",
+      "address": "전북특별자치도 군산시 서흥남동 805-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-04"
+    },
+    {
+      "name": "아담슈퍼",
+      "address": "전북특별자치도 군산시 동흥남동 397-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "경암슈퍼",
+      "address": "전북특별자치도 군산시 경암동 661-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-10"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "전북특별자치도 군산시 경암동 654-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-01"
+    },
+    {
+      "name": "서도쇼핑",
+      "address": "전북특별자치도 군산시 경암동 664-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-02-03"
+    },
+    {
+      "name": "고봉산슈퍼",
+      "address": "전북특별자치도 군산시 경암동 653-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-27"
+    },
+    {
+      "name": "하나슈퍼",
+      "address": "전북특별자치도 군산시 경암동 635-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-31"
+    },
+    {
+      "name": "길상회",
+      "address": "전북특별자치도 군산시 경암동 654-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-24"
+    },
+    {
+      "name": "에덴식품",
+      "address": "전북특별자치도 군산시 경암동 679-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1991-07-01"
+    },
+    {
+      "name": "새한쇼핑",
+      "address": "전북특별자치도 군산시 경암동 539-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-20"
+    },
+    {
+      "name": "연일슈퍼",
+      "address": "전북특별자치도 군산시 경암동 652-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-03"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "전북특별자치도 군산시 경암동 609-52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-28"
+    },
+    {
+      "name": "서해군마트",
+      "address": "전북특별자치도 군산시 구암동 65",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-25"
+    },
+    {
+      "name": "후계자슈퍼",
+      "address": "전북특별자치도 군산시 구암동 314",
+      "roadAddress": "전북특별자치도 군산시 서당길 4  (구암동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-12-06"
+    },
+    {
+      "name": "부부슈퍼",
+      "address": "전북특별자치도 군산시 구암동 620-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-09"
+    },
+    {
+      "name": "만복슈퍼",
+      "address": "전북특별자치도 군산시 구암동 399-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-25"
+    },
+    {
+      "name": "구암제일쇼핑",
+      "address": "전북특별자치도 군산시 구암동 331-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-02-06"
+    },
+    {
+      "name": "만민슈퍼",
+      "address": "전북특별자치도 군산시 구암동 333-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-08"
+    },
+    {
+      "name": "삼성수입코너",
+      "address": "전북특별자치도 군산시 구암동 65",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-10-12"
+    },
+    {
+      "name": "금동슈퍼",
+      "address": "전북특별자치도 군산시 개정동 514-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-01"
+    },
+    {
+      "name": "영명상회",
+      "address": "전북특별자치도 군산시 개정동 505",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-01"
+    },
+    {
+      "name": "황금슈퍼",
+      "address": "전북특별자치도 군산시 개정동 437-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-01"
+    },
+    {
+      "name": "우리마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 축동로 98-2 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-09-11"
+    },
+    {
+      "name": "GS25 뉴군산소룡점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 소룡길 33 (소룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-09-25"
+    },
+    {
+      "name": "코리아세븐군산수송중앙점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 수송안11길 25-1 (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-09-25"
+    },
+    {
+      "name": "예스마트3",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 요죽길 51 (오식도동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-09-27"
+    },
+    {
+      "name": "GS25오식도대로점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 가도로 193 (오식도동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-09-27"
+    },
+    {
+      "name": "프로빅마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 축동로 152 (서흥남동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-10-07"
+    },
+    {
+      "name": "코사마트(참그루)",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 미원로 61 (삼학동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-10-08"
+    },
+    {
+      "name": "땡큐",
+      "address": "전북특별자치도 군산시 나운동 870-1",
+      "roadAddress": "전북특별자치도 군산시 대학로 414  (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-10-08"
+    },
+    {
+      "name": "GS25새만금비전",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 새만금북로 243 (오식도동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-10-14"
+    },
+    {
+      "name": "나이스마트(은파점)",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 부곡2길 11 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-10-14"
+    },
+    {
+      "name": "씨유군산산북로드점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 외항로 115 (산북동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-10-22"
+    },
+    {
+      "name": "미니스톱군산대정문점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 황룡로 10-105 (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-10-28"
+    },
+    {
+      "name": "GS군산신풍점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 신풍길 1 (신풍동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-10-28"
+    },
+    {
+      "name": "(주)비지에프테일군산주공점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 대학로 291 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-10-31"
+    },
+    {
+      "name": "금호참마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 한밭안길 1 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-11-01"
+    },
+    {
+      "name": "씨유지곡행복점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 신평길 25 (지곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-11-01"
+    },
+    {
+      "name": "목화종합건재상사",
+      "address": "전북특별자치도 군산시 대야면 지경리 699",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2013-11-06"
+    },
+    {
+      "name": "매직홈마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 번영로 169 (조촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-11-08"
+    },
+    {
+      "name": "러브하우스",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 신평안길 61 (지곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-11-29"
+    },
+    {
+      "name": "GS25군산대후문점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 대학로 539 (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-11-29"
+    },
+    {
+      "name": "24시웅마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 미원로 125 (중앙로3가)",
+      "status": "영업/정상",
+      "licenseDate": "2013-12-12"
+    },
+    {
+      "name": "시장식자재마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 경암로 48 (경암동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-12-13"
+    },
+    {
+      "name": "세븐일레븐군산미공군점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 옥서면 옥구저수지로 307",
+      "status": "영업/정상",
+      "licenseDate": "2013-12-17"
+    },
+    {
+      "name": "슈퍼맨마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 번영로 188-22 (조촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-12-20"
+    },
+    {
+      "name": "세모아이엔티",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 개사길 107-6 (개사동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-12-23"
+    },
+    {
+      "name": "아이홈마트",
+      "address": "전북특별자치도 군산시 산북동 3562-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2013-12-23"
+    },
+    {
+      "name": "해누리",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 오룡로 7 (삼학동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-12-27"
+    },
+    {
+      "name": "(주)BGF 수송오투점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 수송남로 36-2 (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-12-30"
+    },
+    {
+      "name": "서개정슈퍼",
+      "address": "전북특별자치도 군산시 개정동 325",
+      "roadAddress": "전북특별자치도 군산시 서개정길 32  (개정동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-01"
+    },
+    {
+      "name": "금호슈퍼",
+      "address": "전북특별자치도 군산시 개정동 421",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-01"
+    },
+    {
+      "name": "새롬슈퍼",
+      "address": "전북특별자치도 군산시 개정동 452-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-01"
+    },
+    {
+      "name": "사정동 100 2차상가",
+      "address": "전북특별자치도 군산시 사정동 100",
+      "roadAddress": "전북특별자치도 군산시 두란뜸2길 8  (사정동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-01"
+    },
+    {
+      "name": "알뜰매장",
+      "address": "전북특별자치도 군산시 사정동 100",
+      "roadAddress": "전북특별자치도 군산시 두란뜸2길 8  (사정동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-01"
+    },
+    {
+      "name": "명궁슈퍼",
+      "address": "전북특별자치도 군산시 사정동 421-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-01"
+    },
+    {
+      "name": "군산시농협",
+      "address": "전북특별자치도 군산시 개복동 777",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-01"
+    },
+    {
+      "name": "서해슈퍼",
+      "address": "전북특별자치도 군산시 개정동 1-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-01"
+    },
+    {
+      "name": "흥부상회",
+      "address": "전북특별자치도 군산시 수송동 7-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-10-01"
+    },
+    {
+      "name": "호남상회",
+      "address": "전북특별자치도 군산시 수송동 63-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1973-07-01"
+    },
+    {
+      "name": "화진슈퍼",
+      "address": "전북특별자치도 군산시 수송동 63-119",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1992-10-02"
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "전북특별자치도 군산시 수송동 64-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-21"
+    },
+    {
+      "name": "현대쇼핑",
+      "address": "전북특별자치도 군산시 수송동 69-2    현대아파트 상가 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-21"
+    },
+    {
+      "name": "부안상회",
+      "address": "전북특별자치도 군산시 수송동 74-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1975-01-01"
+    },
+    {
+      "name": "공터상회",
+      "address": "전북특별자치도 군산시 수송동 74-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1992-01-04"
+    },
+    {
+      "name": "대림마트",
+      "address": "전북특별자치도 군산시 수송동 77-108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-29"
+    },
+    {
+      "name": "선희슈퍼",
+      "address": "전북특별자치도 군산시 개복동 77-119",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-29"
+    },
+    {
+      "name": "현대마트",
+      "address": "전북특별자치도 군산시 개복동 414",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-10"
+    },
+    {
+      "name": "차돌슈퍼",
+      "address": "전북특별자치도 군산시 개복동 434-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-05"
+    },
+    {
+      "name": "지산슈퍼",
+      "address": "전북특별자치도 군산시 수송동 442-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-21"
+    },
+    {
+      "name": "미연상회",
+      "address": "전북특별자치도 군산시 개복동 467-120",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-01"
+    },
+    {
+      "name": "동영슈퍼",
+      "address": "전북특별자치도 군산시 수송동 656",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-15"
+    },
+    {
+      "name": "광주상회",
+      "address": "전북특별자치도 군산시 수송동 744-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-28"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "전북특별자치도 군산시 미장동 52-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "충남상회",
+      "address": "전북특별자치도 군산시 미장동 380-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-04"
+    },
+    {
+      "name": "파란상회",
+      "address": "전북특별자치도 군산시 미장동 394-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1993-04-01"
+    },
+    {
+      "name": "콜마트",
+      "address": "전북특별자치도 군산시 지곡동 259 동신아파트 상가 지하1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-02"
+    },
+    {
+      "name": "미니스톱군장대로점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 동장산로 58 (내초동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-01-02"
+    },
+    {
+      "name": "아이쿱군산소비자생활협동조합",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 나운안1길 19-101 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-01-13"
+    },
+    {
+      "name": "추모관매점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 임피면 서원석곡로 436-34",
+      "status": "영업/정상",
+      "licenseDate": "2014-01-14"
+    },
+    {
+      "name": "GS25소룡마을",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 풍전4길 11 (소룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-01-15"
+    },
+    {
+      "name": "초록마을군산나운점",
+      "address": "전북특별자치도 군산시 나운동",
+      "roadAddress": "전북특별자치도 군산시 나운로 80-57387, 0동 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-01-16"
+    },
+    {
+      "name": "동경철물",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 공단대로 622 (소룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-01-29"
+    },
+    {
+      "name": "웰빙마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 나운로 489 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-02-12"
+    },
+    {
+      "name": "씨유군산신관로드점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 대학로 649 (신관동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-02-28"
+    },
+    {
+      "name": "씨유군산신관로드점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 대학로 649 (신관동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-02-28"
+    },
+    {
+      "name": "한우리마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 대학로 199 (문화동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-10"
+    },
+    {
+      "name": "GS25새만금기로점",
+      "address": "전북특별자치도 군산시 비응도동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-11"
+    },
+    {
+      "name": "GS25군산대본점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 대학로 558 (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-06"
+    },
+    {
+      "name": "서울상회",
+      "address": "전북특별자치도 군산시 산북동 505-19",
+      "roadAddress": "전북특별자치도 군산시 임사길 71 (산북동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-03"
+    },
+    {
+      "name": "GS25군산옥산점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 옥서면 옥구저수지로 220",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-19"
+    },
+    {
+      "name": "개그스토리",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 월명로 254 (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-26"
+    },
+    {
+      "name": "대왕볼트철물",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 구암로 125 (구암동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-26"
+    },
+    {
+      "name": "GS군산법원점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 양안로 53 (조촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-01"
+    },
+    {
+      "name": "GS25호원대점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 진포1길 10, 106동 502호 (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-09"
+    },
+    {
+      "name": "세븐일레븐군산터미널점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 해망로 25 (해망동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-10"
+    },
+    {
+      "name": "GS25군산공단로",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 외항로 167 (산북동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-11"
+    },
+    {
+      "name": "(주)코리아세븐군산나운일번지지점",
+      "address": "전북특별자치도 군산시 나운동 853-4",
+      "roadAddress": "전북특별자치도 군산시 부곡5길 18 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-16"
+    },
+    {
+      "name": "GS25군산한길점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 미원로 81 (삼학동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-15"
+    },
+    {
+      "name": "세븐일레븐 군산당북점",
+      "address": "전북특별자치도 군산시 옥산면 당북리 957-6",
+      "roadAddress": "전북특별자치도 군산시 옥산면 월명로 61",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-23"
+    },
+    {
+      "name": "코리아세븐 수송영재점",
+      "address": "전북특별자치도 군산시 수송동 823-3",
+      "roadAddress": "전북특별자치도 군산시 남수송3길 41 (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-23"
+    },
+    {
+      "name": "GS25군산하이츠점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 설림3길 24 (소룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-23"
+    },
+    {
+      "name": "하나T&S",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 가도로 14-101 (오식도동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-28"
+    },
+    {
+      "name": "강산종합건설철물",
+      "address": "전북특별자치도 군산시 미룡동 516-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-28"
+    },
+    {
+      "name": "나운마트",
+      "address": "전북특별자치도 군산시 지곡동 493",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-18"
+    },
+    {
+      "name": "개미떡방앗간",
+      "address": "전북특별자치도 군산시 지곡동 498-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-20"
+    },
+    {
+      "name": "나라마트",
+      "address": "전북특별자치도 군산시 지곡동 500",
+      "roadAddress": "전북특별자치도 군산시 의료원로 108  (지곡동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-19"
+    },
+    {
+      "name": "풍천슈퍼",
+      "address": "전북특별자치도 군산시 지곡동 567",
+      "roadAddress": "전북특별자치도 군산시 신평길 41  (지곡동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-21"
+    },
+    {
+      "name": "콜마트(1)",
+      "address": "전북특별자치도 군산시 개복동 748-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-05"
+    },
+    {
+      "name": "대영슈퍼",
+      "address": "전북특별자치도 군산시 나운동 748-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-23"
+    },
+    {
+      "name": "뉴나운슈퍼",
+      "address": "전북특별자치도 군산시 나운동 739-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-23"
+    },
+    {
+      "name": "월드쇼핑",
+      "address": "전북특별자치도 군산시 나운동 800-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-18"
+    },
+    {
+      "name": "대명슈퍼",
+      "address": "전북특별자치도 군산시 나운동 834-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "주공마트",
+      "address": "전북특별자치도 군산시 나운동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-22"
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "전북특별자치도 군산시 나운동 835-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-23"
+    },
+    {
+      "name": "파크쇼핑",
+      "address": "전북특별자치도 군산시 나운동 802-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-22"
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "전북특별자치도 군산시 나운동 803-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-23"
+    },
+    {
+      "name": "월드쇼핑",
+      "address": "전북특별자치도 군산시 개복동 800-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-15"
+    },
+    {
+      "name": "백조슈퍼",
+      "address": "전북특별자치도 군산시 나운동 1155-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-22"
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "전북특별자치도 군산시 나운동 828-10",
+      "roadAddress": "전북특별자치도 군산시 하나운1길 27  (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-23"
+    },
+    {
+      "name": "준이슈퍼",
+      "address": "전북특별자치도 군산시 나운동 792-1",
+      "roadAddress": "전북특별자치도 군산시 신설4길 14  (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-23"
+    },
+    {
+      "name": "제이마트",
+      "address": "전북특별자치도 군산시 나운동 823-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-11"
+    },
+    {
+      "name": "성슈퍼",
+      "address": "전북특별자치도 군산시 나운동 798-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-01"
+    },
+    {
+      "name": "금호슈퍼",
+      "address": "전북특별자치도 군산시 나운동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-20"
+    },
+    {
+      "name": "남전슈퍼",
+      "address": "전북특별자치도 군산시 나운동 1187-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "도라지슈퍼",
+      "address": "전북특별자치도 군산시 나운동 156-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-02"
+    },
+    {
+      "name": "동산슈퍼",
+      "address": "전북특별자치도 군산시 나운동 1188-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-03-17"
+    },
+    {
+      "name": "동신청과",
+      "address": "전북특별자치도 군산시 나운동 155-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-20"
+    },
+    {
+      "name": "동아리슈퍼",
+      "address": "전북특별자치도 군산시 미룡동 800-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-01"
+    },
+    {
+      "name": "두배로쇼핑",
+      "address": "전북특별자치도 군산시 나운동 156",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-20"
+    },
+    {
+      "name": "한양쇼핑",
+      "address": "전북특별자치도 군산시 지곡동 259 동신아파트 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-15"
+    },
+    {
+      "name": "개인(박금득)",
+      "address": "전북특별자치도 군산시 미룡동 597-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1992-11-20"
+    },
+    {
+      "name": "서호슈퍼",
+      "address": "전북특별자치도 군산시 나운동 153-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-10"
+    },
+    {
+      "name": "스카이편의점",
+      "address": "전북특별자치도 군산시 미룡동 416-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-01"
+    },
+    {
+      "name": "에덴슈퍼",
+      "address": "전북특별자치도 군산시 나운동 45-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-26"
+    },
+    {
+      "name": "우성슈퍼",
+      "address": "전북특별자치도 군산시 나운동 155-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-16"
+    },
+    {
+      "name": "유원슈퍼",
+      "address": "전북특별자치도 군산시 나운동 864-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-03-01"
+    },
+    {
+      "name": "전원슈퍼",
+      "address": "전북특별자치도 군산시 나운동 1255-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-05"
+    },
+    {
+      "name": "진영슈퍼",
+      "address": "전북특별자치도 군산시 나운동 862-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-25"
+    },
+    {
+      "name": "알짜마트",
+      "address": "전북특별자치도 군산시 나운동 45-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-13"
+    },
+    {
+      "name": "행운유통",
+      "address": "전북특별자치도 군산시 나운동 45",
+      "roadAddress": "전북특별자치도 군산시 문화로 36  (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-23"
+    },
+    {
+      "name": "현대3 차지하슈퍼",
+      "address": "전북특별자치도 군산시 나운동 501",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-10"
+    },
+    {
+      "name": "현대쇼핑",
+      "address": "전북특별자치도 군산시 나운동 527",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대종합슈퍼",
+      "address": "전북특별자치도 군산시 나운동 501",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-05"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "전북특별자치도 군산시 나운동 155-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "스마일편의점",
+      "address": "전북특별자치도 군산시 미룡동 704-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-01"
+    },
+    {
+      "name": "장터할인마트",
+      "address": "전북특별자치도 군산시 나운동 520-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-01"
+    },
+    {
+      "name": "그린스토마트",
+      "address": "전북특별자치도 군산시 나운동 401",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-02"
+    },
+    {
+      "name": "극동지업사",
+      "address": "전북특별자치도 군산시 나운동 520-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-01"
+    },
+    {
+      "name": "삼성종합슈퍼",
+      "address": "전북특별자치도 군산시 나운동 401",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-10"
+    },
+    {
+      "name": "현대소핑",
+      "address": "전북특별자치도 군산시 나운동 109-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-14"
+    },
+    {
+      "name": "신우3차슈퍼",
+      "address": "전북특별자치도 군산시 미룡동 852",
+      "roadAddress": "전북특별자치도 군산시 칠성5길 30  (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-10"
+    },
+    {
+      "name": "해태마트",
+      "address": "전북특별자치도 군산시 나운동 854-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-26"
+    },
+    {
+      "name": "성수슈퍼",
+      "address": "전북특별자치도 군산시 나운동 153-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-10"
+    },
+    {
+      "name": "대명마트",
+      "address": "전북특별자치도 군산시 미룡동 858",
+      "roadAddress": "전북특별자치도 군산시 칠성4길 20  (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-01"
+    },
+    {
+      "name": "오케이마트",
+      "address": "전북특별자치도 군산시 나운동 107-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-06"
+    },
+    {
+      "name": "롯데종합슈퍼",
+      "address": "전북특별자치도 군산시 나운동 100-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-12"
+    },
+    {
+      "name": "플러스원마트",
+      "address": "전북특별자치도 군산시 나운동 153-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-15"
+    },
+    {
+      "name": "해피데이",
+      "address": "전북특별자치도 군산시 미룡동 413",
+      "roadAddress": "전북특별자치도 군산시 미제1길 17  (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-22"
+    },
+    {
+      "name": "현대식품",
+      "address": "전북특별자치도 군산시 나운동 109-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-05"
+    },
+    {
+      "name": "남양슈퍼",
+      "address": "전북특별자치도 군산시 중앙로2가 27-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "금남슈퍼",
+      "address": "전북특별자치도 군산시 중앙로2가 63-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "영동여관",
+      "address": "전북특별자치도 군산시 중앙로2가 7-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "민경슈퍼",
+      "address": "전북특별자치도 군산시 신영동 7-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-19"
+    },
+    {
+      "name": "동양슈퍼",
+      "address": "전북특별자치도 군산시 신영동 11-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "신영슈퍼",
+      "address": "전북특별자치도 군산시 신영동 15-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-04"
+    },
+    {
+      "name": "우정슈퍼",
+      "address": "전북특별자치도 군산시 신영동 19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "창신상회",
+      "address": "전북특별자치도 군산시 신영동 6-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "신영동 공설시장 관리소",
+      "address": "전북특별자치도 군산시 신영동 18-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "개인상회",
+      "address": "전북특별자치도 군산시 신영동 19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼해상사",
+      "address": "전북특별자치도 군산시 신영동 8-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-04"
+    },
+    {
+      "name": "오성슈퍼",
+      "address": "전북특별자치도 군산시 죽성동 11-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "원협",
+      "address": "전북특별자치도 군산시 죽성동 16-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "과일상회",
+      "address": "전북특별자치도 군산시 죽성동 25-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-30"
+    },
+    {
+      "name": "화신상회",
+      "address": "전북특별자치도 군산시 평화동 115",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "축협",
+      "address": "전북특별자치도 군산시 평화동 121",
+      "roadAddress": "전북특별자치도 군산시 신영1길 5  (평화동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "기린슈퍼",
+      "address": "전북특별자치도 군산시 중동 274-203",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "사랑슈퍼",
+      "address": "전북특별자치도 군산시 중동 274-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "청솔슈퍼",
+      "address": "전북특별자치도 군산시 중동 74-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-08"
+    },
+    {
+      "name": "유정상회",
+      "address": "전북특별자치도 군산시 중동 274-243",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "유성상회",
+      "address": "전북특별자치도 군산시 중동 234-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "중동슈퍼",
+      "address": "전북특별자치도 군산시 중동 231-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "효자수퍼",
+      "address": "전북특별자치도 군산시 중동 325-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "(주)지에스리테일군산나운점",
+      "address": "전북특별자치도 군산시 나운동 486-1",
+      "roadAddress": "전북특별자치도 군산시 수송로 50  (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-10"
+    },
+    {
+      "name": "개인슈퍼",
+      "address": "전북특별자치도 군산시 중동 274-228",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "부여상회",
+      "address": "전북특별자치도 군산시 중동 273-136",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "막기상회",
+      "address": "전북특별자치도 군산시 중동 237-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "에덴슈퍼",
+      "address": "전북특별자치도 군산시 중동 265-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "대원슈퍼",
+      "address": "전북특별자치도 군산시 중동 264",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-01"
+    },
+    {
+      "name": "개인슈퍼",
+      "address": "전북특별자치도 군산시 중동 274-170",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-01"
+    },
+    {
+      "name": "부여상회",
+      "address": "전북특별자치도 군산시 금암동 1-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "광일떡방앗간",
+      "address": "전북특별자치도 군산시 금암동 73-160",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "새마을상회",
+      "address": "전북특별자치도 군산시 금암동 274-117",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "중동하이퍼마켓",
+      "address": "전북특별자치도 군산시 금암동 274-74",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-01"
+    },
+    {
+      "name": "33통장",
+      "address": "전북특별자치도 군산시 나운동 동신진주a 103동 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "개인슈퍼",
+      "address": "전북특별자치도 군산시 나운동 동신진주APT 102동 901호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "31통장",
+      "address": "전북특별자치도 군산시 나운동 836-23",
+      "roadAddress": "전북특별자치도 군산시 하나운안1길 45  (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "30통장",
+      "address": "전북특별자치도 군산시 나운동 주공APT 123동 406호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "29통장",
+      "address": "전북특별자치도 군산시 나운동 주공3APT 118동 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "28통장",
+      "address": "전북특별자치도 군산시 나운동 주공3APT 113동 206호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "27통장",
+      "address": "전북특별자치도 군산시 나운동 주공3APT 105동 402호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "26통장",
+      "address": "전북특별자치도 군산시 나운동 대명4차apt 1동 912호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-01"
+    },
+    {
+      "name": "25통장",
+      "address": "전북특별자치도 군산시 나운동 세광타운A 1동 913호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "24통장",
+      "address": "전북특별자치도 군산시 나운동 주공2차A 19동 302호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "23통장",
+      "address": "전북특별자치도 군산시 나운동 주공2차A 12동 106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "22통장",
+      "address": "전북특별자치도 군산시 나운동 주공2차A 5동 407호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "21통장",
+      "address": "전북특별자치도 군산시 나운동 주공2차a 상가동 108호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "20통장",
+      "address": "전북특별자치도 군산시 나운동 금정주택 가동 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "19통장",
+      "address": "전북특별자치도 군산시 나운동 동산주택 가동 111호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "18통장",
+      "address": "전북특별자치도 군산시 나운동 612 나운a 6동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "17통장",
+      "address": "전북특별자치도 군산시 나운동 612 나운A 2동 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "(주)비지에프테일 군산맨하탄점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 가도로 207 (오식도동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-05-02"
+    },
+    {
+      "name": "롯데쇼핑(주)롯데마트군산점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 수송로 185 (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-05-02"
+    },
+    {
+      "name": "한아름천냥",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 신금길 9 (신영동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-05-15"
+    },
+    {
+      "name": "한국미니스톱(주)군산시청점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 조촌4길 37 (조촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-05-19"
+    },
+    {
+      "name": "GS25군산시티점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 나운안1길 19 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-05-23"
+    },
+    {
+      "name": "GS25나운빌리지점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 상신안길 51 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-06-11"
+    },
+    {
+      "name": "시티슈퍼",
+      "address": "전북특별자치도 군산시 미룡동",
+      "roadAddress": "전북특별자치도 군산시 원당길 74 (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-06-23"
+    },
+    {
+      "name": "G마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 미장안길 50-3 (미장동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-06-24"
+    },
+    {
+      "name": "롯데쇼핑(주)롯데마트군산점",
+      "address": "전북특별자치도 군산시 수송동 210-1",
+      "roadAddress": "전북특별자치도 군산시 수송로 185 (수송동, 롯데마트)",
+      "status": "영업/정상",
+      "licenseDate": "2014-06-24"
+    },
+    {
+      "name": "세븐일레븐군산제일점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 축동안3길 34-1 (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-06-30"
+    },
+    {
+      "name": "미니스톱오르빌점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 번영로 86 (경장동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-06-30"
+    },
+    {
+      "name": "강순임",
+      "address": "전북특별자치도 군산시 나운동 736-1",
+      "roadAddress": "전북특별자치도 군산시 상신7길 14 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-01"
+    },
+    {
+      "name": "현마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 설림안3길 29 (소룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-01"
+    },
+    {
+      "name": "SP산업",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 새만금북로 289 (오식도동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-04"
+    },
+    {
+      "name": "(주)비지에프리테일군산구암점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 구암3.1로 219 (구암동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-08"
+    },
+    {
+      "name": "(주)비지에프리테일 군산구암점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 구암3.1로 219 (구암동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-08"
+    },
+    {
+      "name": "은혜만물슈퍼",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 문화3길 917-14 (문화동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-10"
+    },
+    {
+      "name": "한국종합산업",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 가도로 9 (오식도동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-10"
+    },
+    {
+      "name": "씨유 지곡원룸점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 신지길 61 (지곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-17"
+    },
+    {
+      "name": "16통장",
+      "address": "전북특별자치도 군산시 나운동 555 우진A 5동 403호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "15통장",
+      "address": "전북특별자치도 군산시 나운동 555 우진아파트 상가동 4호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "14통장",
+      "address": "전북특별자치도 군산시 나운동 639",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "13통장",
+      "address": "전북특별자치도 군산시 나운동 현대백조A 103동 908호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "10통장",
+      "address": "전북특별자치도 군산시 나운동 한신주책 102동 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "9통장",
+      "address": "전북특별자치도 군산시 나운동 795-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "8통장",
+      "address": "전북특별자치도 군산시 나운동 명성타운 가동 608호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "7통장",
+      "address": "전북특별자치도 군산시 나운동 798-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "6통장",
+      "address": "전북특별자치도 군산시 나운동 784-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "5통장",
+      "address": "전북특별자치도 군산시 나운동 명성그린A 나동 505호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "4통장",
+      "address": "전북특별자치도 군산시 나운동 770-18   로얄3차 1동 201호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "3통장",
+      "address": "전북특별자치도 군산시 나운동 766-24   청학맨션A 1동 304호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "2통장",
+      "address": "전북특별자치도 군산시 나운동 751-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "1통장",
+      "address": "전북특별자치도 군산시 나운동 743-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-01"
+    },
+    {
+      "name": "코코마트",
+      "address": "전북특별자치도 군산시 산북동 3540-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-02"
+    },
+    {
+      "name": "대상마트",
+      "address": "전북특별자치도 군산시 산북동 3549-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-01"
+    },
+    {
+      "name": "코러스마트",
+      "address": "전북특별자치도 군산시 산북동 3542-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-15"
+    },
+    {
+      "name": "서군산농협",
+      "address": "전북특별자치도 군산시 산북동 2952",
+      "roadAddress": "전북특별자치도 군산시 공항로 422  (산북동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-03-01"
+    },
+    {
+      "name": "서군산농협산북지소",
+      "address": "전북특별자치도 군산시 산북동 3541",
+      "roadAddress": "전북특별자치도 군산시 동아로 148  (산북동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-03-01"
+    },
+    {
+      "name": "코오롱쇼핑",
+      "address": "전북특별자치도 군산시 산북동 3537-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-01"
+    },
+    {
+      "name": "한아름쇼핑",
+      "address": "전북특별자치도 군산시 산북동 3531-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "타운마트",
+      "address": "전북특별자치도 군산시 산북동 821",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-15"
+    },
+    {
+      "name": "태영슈퍼",
+      "address": "전북특별자치도 군산시 산북동 3541-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-02"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "전북특별자치도 군산시 산북동 516-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-22"
+    },
+    {
+      "name": "만복상회",
+      "address": "전북특별자치도 군산시 산북동 176",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-01"
+    },
+    {
+      "name": "나드리슈퍼",
+      "address": "전북특별자치도 군산시 산북동 1804-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "공단슈퍼",
+      "address": "전북특별자치도 군산시 산북동 3469-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-01"
+    },
+    {
+      "name": "문화상회",
+      "address": "전북특별자치도 군산시 산북동 2476-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-25"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "전북특별자치도 군산시 산북동 시영A 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-01"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "전북특별자치도 군산시 산북동 877-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1988-02-01"
+    },
+    {
+      "name": "금강슈퍼",
+      "address": "전북특별자치도 군산시 산북동 3540",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-01"
+    },
+    {
+      "name": "성일슈퍼",
+      "address": "전북특별자치도 군산시 산북동 3546-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-03-01"
+    },
+    {
+      "name": "화니슈퍼",
+      "address": "전북특별자치도 군산시 산북동 시영APT상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-04"
+    },
+    {
+      "name": "평택슈퍼",
+      "address": "전북특별자치도 군산시 산북동 842-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-01"
+    },
+    {
+      "name": "신우마트",
+      "address": "전북특별자치도 군산시 산북동 3616",
+      "roadAddress": "전북특별자치도 군산시 동아로 12  (산북동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-01"
+    },
+    {
+      "name": "대명마트",
+      "address": "전북특별자치도 군산시 산북동 3579-1    대명A 101동 701호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "신우하나로슈퍼",
+      "address": "전북특별자치도 군산시 산북동 3637 부향4차A 1동 215호",
+      "roadAddress": "전북특별자치도 군산시 칠성안4길 39, 1동 215호 (산북동,부향4차A)",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-02"
+    },
+    {
+      "name": "DC백화점",
+      "address": "전북특별자치도 군산시 경암동 683-2",
+      "roadAddress": "전북특별자치도 군산시 백릉로 33  (경암동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-13"
+    },
+    {
+      "name": "뉴해태마트",
+      "address": "전북특별자치도 군산시 수송동 30-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-04"
+    },
+    {
+      "name": "피카츄슈퍼",
+      "address": "전북특별자치도 군산시 옥서면 옥봉리 74-22",
+      "roadAddress": "전북특별자치도 군산시 옥서면 옥봉초교길 10",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-20"
+    },
+    {
+      "name": "한빛슈퍼",
+      "address": "전북특별자치도 군산시 지곡동 529-5",
+      "roadAddress": "전북특별자치도 군산시 상지곡1길 39  (지곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-05"
+    },
+    {
+      "name": "미니스톱군산문화점",
+      "address": "전북특별자치도 군산시 문화동 534-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-23"
+    },
+    {
+      "name": "뉴 코끼리마트",
+      "address": "전북특별자치도 군산시 문화동 534-1",
+      "roadAddress": "전북특별자치도 군산시 나운로 4  (문화동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-23"
+    },
+    {
+      "name": "문화정문문구",
+      "address": "전북특별자치도 군산시 문화동 897-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-28"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "전북특별자치도 군산시 문화동 911-21",
+      "roadAddress": "전북특별자치도 군산시 문화3길 44  (문화동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-14"
+    },
+    {
+      "name": "월명 할인마트",
+      "address": "전북특별자치도 군산시 신풍동 886-38",
+      "roadAddress": "전북특별자치도 군산시 신풍길 7  (신풍동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-23"
+    },
+    {
+      "name": "대야마트",
+      "address": "전북특별자치도 군산시 대야면 지경리 699-75",
+      "roadAddress": "전북특별자치도 군산시 대야면 대야관통로 68-3",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-23"
+    },
+    {
+      "name": "아이쇼핑",
+      "address": "전북특별자치도 군산시 구암동 64-26",
+      "roadAddress": "전북특별자치도 군산시 서당길 20  (구암동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-24"
+    },
+    {
+      "name": "희망슈퍼",
+      "address": "전북특별자치도 군산시 대야면 지경리 776-69",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-25"
+    },
+    {
+      "name": "금강슈퍼",
+      "address": "전북특별자치도 군산시 문화동 890-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-08"
+    },
+    {
+      "name": "소연할인마트",
+      "address": "전북특별자치도 군산시 서흥남동 829-9",
+      "roadAddress": "전북특별자치도 군산시 팔마로 122  (서흥남동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-04"
+    },
+    {
+      "name": "세븐일레븐유원점",
+      "address": "전북특별자치도 군산시 나운동 862-7",
+      "roadAddress": "전북특별자치도 군산시 부원로 8  (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-04"
+    },
+    {
+      "name": "원일상사",
+      "address": "전북특별자치도 군산시 문화동 901-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-04"
+    },
+    {
+      "name": "토토마트",
+      "address": "전북특별자치도 군산시 대야면 지경리 699-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-01"
+    },
+    {
+      "name": "원일슈퍼",
+      "address": "전북특별자치도 군산시 지곡동 519-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-27"
+    },
+    {
+      "name": "국제슈퍼휴게실",
+      "address": "전북특별자치도 군산시 수송동 34-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-29"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "전북특별자치도 군산시 대야면 지경리 13-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-02"
+    },
+    {
+      "name": "한샘마트",
+      "address": "전북특별자치도 군산시 나운동 776-7",
+      "roadAddress": "전북특별자치도 군산시 신설1길 31  (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-26"
+    },
+    {
+      "name": "i24프랜드점",
+      "address": "전북특별자치도 군산시 산북동 3567-8",
+      "roadAddress": "전북특별자치도 군산시 칠성2길 120  (산북동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-22"
+    },
+    {
+      "name": "미니스톰군산스카이점",
+      "address": "전북특별자치도 군산시 소룡동 1573",
+      "roadAddress": "전북특별자치도 군산시 소룡안3길 41  (소룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-22"
+    },
+    {
+      "name": "세븐일레븐군산명산점",
+      "address": "전북특별자치도 군산시 명산동 14-29",
+      "roadAddress": "전북특별자치도 군산시 월명로 472  (명산동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-03"
+    },
+    {
+      "name": "세븐일레븐군산나운본점",
+      "address": "전북특별자치도 군산시 나운동 744-2",
+      "roadAddress": "전북특별자치도 군산시 대학로 244  (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-03"
+    },
+    {
+      "name": "미소마트",
+      "address": "전북특별자치도 군산시 수송동 427-9",
+      "roadAddress": "전북특별자치도 군산시 동메3길 31  (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-03"
+    },
+    {
+      "name": "싱싱마트",
+      "address": "전북특별자치도 군산시 구암동 316-5",
+      "roadAddress": "전북특별자치도 군산시 서당길 8  (구암동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-06"
+    },
+    {
+      "name": "풍성슈퍼",
+      "address": "전북특별자치도 군산시 서흥남동 820-4 1층 3호",
+      "roadAddress": "전북특별자치도 군산시 서흥2길 57  (서흥남동,1층 3호)",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-13"
+    },
+    {
+      "name": "그린쌀슈퍼",
+      "address": "전북특별자치도 군산시 나운동 800-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-18"
+    },
+    {
+      "name": "훼미리마트군산베스트점",
+      "address": "전북특별자치도 군산시 미룡동 889-11",
+      "roadAddress": "전북특별자치도 군산시 미룡로 5  (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-20"
+    },
+    {
+      "name": "소룡마트",
+      "address": "전북특별자치도 군산시 소룡동 1384-21",
+      "roadAddress": "전북특별자치도 군산시 설림안3길 29  (소룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-24"
+    },
+    {
+      "name": "GS편의점 군산옥서면",
+      "address": "전북특별자치도 군산시 옥서면 옥봉리 1313-23",
+      "roadAddress": "전북특별자치도 군산시 옥서면 옥구저수지로 220",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-24"
+    },
+    {
+      "name": "삼성슈퍼",
+      "address": "전북특별자치도 군산시 금광동 삼성아파트 상가 1층 108호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-28"
+    },
+    {
+      "name": "베스트올오렌지점",
+      "address": "전북특별자치도 군산시 나운동 835-8",
+      "roadAddress": "전북특별자치도 군산시 나운로 118  (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-01"
+    },
+    {
+      "name": "주공마트",
+      "address": "전북특별자치도 군산시 미룡동 주공아파트3단지 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-11"
+    },
+    {
+      "name": "은혜마트",
+      "address": "전북특별자치도 군산시 신풍동 908-3",
+      "roadAddress": "전북특별자치도 군산시 신풍길 29  (신풍동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-15"
+    },
+    {
+      "name": "GS군산시청점",
+      "address": "전북특별자치도 군산시 조촌동 889-1",
+      "roadAddress": "전북특별자치도 군산시 조촌안1길 19  (조촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-12-03"
+    },
+    {
+      "name": "고합상사",
+      "address": "전북특별자치도 군산시 개정동 209-4",
+      "roadAddress": "전북특별자치도 군산시 달여길 62  (개정동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-12"
+    },
+    {
+      "name": "GS군산IC점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 구암로 190 (구암동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-13"
+    },
+    {
+      "name": "I24나운동신점",
+      "address": "전북특별자치도 군산시 지곡동 491-2 1층3호",
+      "roadAddress": "전북특별자치도 군산시 백토로 219-1  (지곡동,1층3호)",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-16"
+    },
+    {
+      "name": "GS25군산열대자점",
+      "address": "전북특별자치도 군산시 산북동 2479-5",
+      "roadAddress": "전북특별자치도 군산시 미성로 331  (산북동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-17"
+    },
+    {
+      "name": "스마일식자재할인마트",
+      "address": "전북특별자치도 군산시 수송동 859-7",
+      "roadAddress": "전북특별자치도 군산시 수송안5길 1  (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-25"
+    },
+    {
+      "name": "현대마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 양안로 122, 105호 (조촌동, 현대아파트상가)",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-27"
+    },
+    {
+      "name": "세븐일레븐군산의료원점",
+      "address": "전북특별자치도 군산시 지곡동 555-5",
+      "roadAddress": "전북특별자치도 군산시 의료원로 38  (지곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-30"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "전북특별자치도 군산시 둔율동 181-1",
+      "roadAddress": "전북특별자치도 군산시 둔율1길 15  (둔율동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-31"
+    },
+    {
+      "name": "GS25군산주공점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 축동로 100 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-01"
+    },
+    {
+      "name": "청진동마트",
+      "address": "전북특별자치도 군산시 비응도동 46-13",
+      "roadAddress": "전북특별자치도 군산시 비응5길 35  (비응도동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-03"
+    },
+    {
+      "name": "연일슈퍼",
+      "address": "전북특별자치도 군산시 경암동 652-6",
+      "roadAddress": "전북특별자치도 군산시 경암1길 114  (경암동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-03"
+    },
+    {
+      "name": "대야홈마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 대야면 번영로 889",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-03"
+    },
+    {
+      "name": "정화수퍼",
+      "address": "전북특별자치도 군산시 조촌동 776-14",
+      "roadAddress": "전북특별자치도 군산시 백릉로 64  (조촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-07"
+    },
+    {
+      "name": "훼미리마트군산영광점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 중앙로 105 (중앙로3가)",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-17"
+    },
+    {
+      "name": "훼미리마트수송한라점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 수송동로 47 (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-17"
+    },
+    {
+      "name": "미니스톱군산태양",
+      "address": "전북특별자치도 군산시 오식도동 1005",
+      "roadAddress": "전북특별자치도 군산시 새만금북로 289  (오식도동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-21"
+    },
+    {
+      "name": "코리아세븐군산오식도점",
+      "address": "전북특별자치도 군산시 오식도동 674-14",
+      "roadAddress": "전북특별자치도 군산시 분멀길 17  (오식도동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-12"
+    },
+    {
+      "name": "세븐일레븐군산본점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 대학로 244 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-22"
+    },
+    {
+      "name": "좋은마트",
+      "address": "전북특별자치도 군산시 나운동 153-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-02"
+    },
+    {
+      "name": "옥구농협주유소",
+      "address": "전북특별자치도 군산시 옥구읍 선제리 509-3",
+      "roadAddress": "전북특별자치도 군산시 옥구읍 옥구로 39",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-17"
+    },
+    {
+      "name": "태평양슈퍼",
+      "address": "전북특별자치도 군산시 나포면 옥곤리 451",
+      "roadAddress": "전북특별자치도 군산시 나포면 십자들로 642",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-05"
+    },
+    {
+      "name": "옥구농업협동조합",
+      "address": "전북특별자치도 군산시 옥구읍 선제리 509-3",
+      "roadAddress": "전북특별자치도 군산시 옥구읍 옥구로 39",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-01"
+    },
+    {
+      "name": "우리문구",
+      "address": "전북특별자치도 군산시 옥산면 옥산리 23-18",
+      "roadAddress": "전북특별자치도 군산시 옥산면 산성로 203",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-31"
+    },
+    {
+      "name": "금원상회",
+      "address": "전북특별자치도 군산시 회현면 원우리 280",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "회현상회",
+      "address": "전북특별자치도 군산시 회현면 대정리 26-1",
+      "roadAddress": "전북특별자치도 군산시 회현면 회현로 179",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "사랑의 집",
+      "address": "전북특별자치도 군산시 회현면 대정리 59-1",
+      "roadAddress": "전북특별자치도 군산시 회현면 회현로 178",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "계룡상회",
+      "address": "전북특별자치도 군산시 회현면 학당리 1120",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "오거리슈퍼",
+      "address": "전북특별자치도 군산시 임피면 미원리 22-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-25"
+    },
+    {
+      "name": "대성상회",
+      "address": "전북특별자치도 군산시 임피면 읍내리 271-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-20"
+    },
+    {
+      "name": "임피건재사",
+      "address": "전북특별자치도 군산시 임피면 미원리 451-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-20"
+    },
+    {
+      "name": "역전상회",
+      "address": "전북특별자치도 군산시 임피면 술산리 273",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-30"
+    },
+    {
+      "name": "대학슈퍼",
+      "address": "전북특별자치도 군산시 임피면 월하리 791-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-12"
+    },
+    {
+      "name": "영희슈퍼",
+      "address": "전북특별자치도 군산시 임피면 월하리 470-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-03"
+    },
+    {
+      "name": "생활슈퍼",
+      "address": "전북특별자치도 군산시 임피면 읍내리 222",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-12"
+    },
+    {
+      "name": "호원슈퍼",
+      "address": "전북특별자치도 군산시 임피면 월하리 791-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-19"
+    },
+    {
+      "name": "대상유통",
+      "address": "전북특별자치도 군산시 대야면 지경리 699-134",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-01"
+    },
+    {
+      "name": "다와슈퍼",
+      "address": "전북특별자치도 군산시 대야면 지경리 699-170",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-01"
+    },
+    {
+      "name": "대야농협연쇄점",
+      "address": "전북특별자치도 군산시 대야면 광교리 773",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-25"
+    },
+    {
+      "name": "능동구판장",
+      "address": "전북특별자치도 군산시 개정면 아동리 179-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-30"
+    },
+    {
+      "name": "산타로사(누가병원점)",
+      "address": "전북특별자치도 군산시 조촌동 777",
+      "roadAddress": "전북특별자치도 군산시 백릉로 70  (조촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-06"
+    },
+    {
+      "name": "메트로타워마트",
+      "address": "전북특별자치도 군산시 대명동 38-60",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-06"
+    },
+    {
+      "name": "현대장식철물생활용품",
+      "address": "전북특별자치도 군산시 경장동 489-8",
+      "roadAddress": "전북특별자치도 군산시 번영로 50  (경장동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-07"
+    },
+    {
+      "name": "(유)한빛페이퍼",
+      "address": "전북특별자치도 군산시 옥산면 옥산리 379-7",
+      "roadAddress": "전북특별자치도 군산시 옥산면 산성로 58-3",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-07"
+    },
+    {
+      "name": "드림유통",
+      "address": "전북특별자치도 군산시 신영동 181-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-08"
+    },
+    {
+      "name": "스쿨카페",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 중앙로 108 (중앙로2가)",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-14"
+    },
+    {
+      "name": "아이쿱솜리소비자생활협동조합",
+      "address": "전북특별자치도 군산시 나운동 103-7",
+      "roadAddress": "전북특별자치도 군산시 나운안1길 19  (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-14"
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 중앙로 219 (금동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-16"
+    },
+    {
+      "name": "미니스톱경장점",
+      "address": "전북특별자치도 군산시 경장동 515-1",
+      "roadAddress": "전북특별자치도 군산시 진포로 120-4  (경장동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-27"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "전북특별자치도 군산시 조촌동 876-12",
+      "roadAddress": "전북특별자치도 군산시 검다메1길 35  (조촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-27"
+    },
+    {
+      "name": "주,에브리데이리테일",
+      "address": "전북특별자치도 군산시 나운동 155",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-03"
+    },
+    {
+      "name": "24월드점",
+      "address": "전북특별자치도 군산시 소룡동 1566-17",
+      "roadAddress": "전북특별자치도 군산시 소룡2길 11  (소룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-09"
+    },
+    {
+      "name": "훼미리마트지곡행복점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 신평길 25 (지곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-10"
+    },
+    {
+      "name": "롯데쇼핑(주)롯데마트군산점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 수송로 185 (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-05-02"
+    },
+    {
+      "name": "사랑편의점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 백릉안1길 12 (경장동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-18"
+    },
+    {
+      "name": "미미기업",
+      "address": "전북특별자치도 군산시 조촌동 738-1",
+      "roadAddress": "전북특별자치도 군산시 조촌로 116  (조촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-19"
+    },
+    {
+      "name": "세븐일레븐군산월명점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 월명로 480 (월명동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-23"
+    },
+    {
+      "name": "훼미리마트수송행복점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 수송7길 23 (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-30"
+    },
+    {
+      "name": "GS25군산무지개점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 소룡2길 21 (소룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-01"
+    },
+    {
+      "name": "후계자홈마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 칠성안2길 103 (소룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-02"
+    },
+    {
+      "name": "씨유나운주공점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 하신안길 17 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-03"
+    },
+    {
+      "name": "씨유군산대스마트점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 미제2길 19 (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-03"
+    },
+    {
+      "name": "해뜰마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 미룡로 64 (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-04"
+    },
+    {
+      "name": "아름슈퍼",
+      "address": "전북특별자치도 군산시 개정면 발산리 85",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-30"
+    },
+    {
+      "name": "발산슈퍼",
+      "address": "전북특별자치도 군산시 개정면 발산리 100-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-30"
+    },
+    {
+      "name": "정수상회",
+      "address": "전북특별자치도 군산시 개정면 운회리 621",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-30"
+    },
+    {
+      "name": "명신상회",
+      "address": "전북특별자치도 군산시 개정면 아동리 256-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-03-30"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "전북특별자치도 군산시 성산면 성덕리 469-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "오성슈퍼",
+      "address": "전북특별자치도 군산시 성산면 둔덕리 254",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "성산화장품",
+      "address": "전북특별자치도 군산시 성산면 고봉리 101",
+      "roadAddress": "전북특별자치도 군산시 성산면 고봉5길 40",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "다사랑슈퍼",
+      "address": "전북특별자치도 군산시 성산면 도암리 548-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "중앙고 매점",
+      "address": "전북특별자치도 군산시 성산면 도암리 산 3-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-23"
+    },
+    {
+      "name": "태평양슈퍼",
+      "address": "전북특별자치도 군산시 나포면 옥곤리 451",
+      "roadAddress": "전북특별자치도 군산시 나포면 십자들로 642",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-01"
+    },
+    {
+      "name": "미곡상회",
+      "address": "전북특별자치도 군산시 옥서면 옥봉리 56-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "양품부",
+      "address": "전북특별자치도 군산시 옥서면 선연리 513",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-16"
+    },
+    {
+      "name": "비석거리슈퍼",
+      "address": "전북특별자치도 군산시 옥서면 옥봉리 169-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-01"
+    },
+    {
+      "name": "공항상회",
+      "address": "전북특별자치도 군산시 옥서면 옥봉리 866-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-01"
+    },
+    {
+      "name": "에덴코리아",
+      "address": "전북특별자치도 군산시 옥서면 옥봉리 847-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-02"
+    },
+    {
+      "name": "선진상회",
+      "address": "전북특별자치도 군산시 옥서면 옥봉리 1313-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-01"
+    },
+    {
+      "name": "성남동구판장",
+      "address": "전북특별자치도 군산시 옥서면 옥봉리 210-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-01"
+    },
+    {
+      "name": "이리상회",
+      "address": "전북특별자치도 군산시 옥서면 선연리 253",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-01"
+    },
+    {
+      "name": "이리상회",
+      "address": "전북특별자치도 군산시 옥서면 선연리 1293",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-08"
+    },
+    {
+      "name": "정문슈퍼",
+      "address": "전북특별자치도 군산시 옥서면 선연리 1752",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-01"
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "전북특별자치도 군산시 옥서면 선연리 1240",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-01"
+    },
+    {
+      "name": "왕림슈퍼",
+      "address": "전북특별자치도 군산시 옥서면 선연리 1278",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-01"
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "전북특별자치도 군산시 해망동 1001-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "일진선구",
+      "address": "전북특별자치도 군산시 해망동 999",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "유성상회",
+      "address": "전북특별자치도 군산시 해망동 993-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "동네슈퍼",
+      "address": "전북특별자치도 군산시 해망동 999-114",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "해성상회",
+      "address": "전북특별자치도 군산시 해망동 999-84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "세즌일레븐오식도점",
+      "address": "전북특별자치도 군산시 오식도동 674-14",
+      "roadAddress": "전북특별자치도 군산시 분멀길 17  (오식도동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-04"
+    },
+    {
+      "name": "호남종합주방",
+      "address": "전북특별자치도 군산시 수송동 11-2",
+      "roadAddress": "전북특별자치도 군산시 문화로 151  (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-04"
+    },
+    {
+      "name": "국제pvc철물,산업",
+      "address": "전북특별자치도 군산시 미장동 60-92",
+      "roadAddress": "전북특별자치도 군산시 공단대로 126  (미장동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-09"
+    },
+    {
+      "name": "경아상회",
+      "address": "전북특별자치도 군산시 신영동 6-42",
+      "roadAddress": "전북특별자치도 군산시 구시장로 60  (신영동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-14"
+    },
+    {
+      "name": "미니스톱군산대학로점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 황룡로 10 (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-17"
+    },
+    {
+      "name": "세븐일레븐한성점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 요죽길 62 (오식도동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-22"
+    },
+    {
+      "name": "GS군산삼성점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 나운3길 6 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-22"
+    },
+    {
+      "name": "유인잡화",
+      "address": "전북특별자치도 군산시 신영동 18-1",
+      "roadAddress": "전북특별자치도 군산시 신금길 18  (신영동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-30"
+    },
+    {
+      "name": "G-마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 임피면 호원대3길 51",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-25"
+    },
+    {
+      "name": "미룡홈마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 황룡로 20 (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-26"
+    },
+    {
+      "name": "씨유구암점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 구암3.1로 219 (구암동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-27"
+    },
+    {
+      "name": "GS25수송점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 동수송2길 22 (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-28"
+    },
+    {
+      "name": "세븐일레븐시립도서관점",
+      "address": "전북특별자치도 군산시 나운동 1536-7",
+      "roadAddress": "전북특별자치도 군산시 서수송안1길 12  (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-02"
+    },
+    {
+      "name": "송정마트",
+      "address": "전북특별자치도 군산시 조촌동 244-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-02"
+    },
+    {
+      "name": "굿모닝마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 하신3길 6-1 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-03"
+    },
+    {
+      "name": "해뜰마트",
+      "address": "전북특별자치도 군산시 미룡동 -109 5통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-10"
+    },
+    {
+      "name": "임피건재사",
+      "address": "전북특별자치도 군산시 임피면 읍내리 453-3",
+      "roadAddress": "전북특별자치도 군산시 임피면 동군산로 723",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-13"
+    },
+    {
+      "name": "세븐일레븐서광점",
+      "address": "전북특별자치도 군산시 구암동 -180 7통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-13"
+    },
+    {
+      "name": "코코마트",
+      "address": "전북특별자치도 군산시 조촌동 244-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-16"
+    },
+    {
+      "name": "i24지곡점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 신지길 51 (지곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-17"
+    },
+    {
+      "name": "미래철물공구",
+      "address": "전북특별자치도 군산시 지곡동 536-3",
+      "roadAddress": "전북특별자치도 군산시 상지곡3길 53  (지곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "씨유경장행복점",
+      "address": "전북특별자치도 군산시 경장동 505-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "개인(한준희)",
+      "address": "전북특별자치도 군산시 미룡동 437-1",
+      "roadAddress": "전북특별자치도 군산시 미제길 56-1 (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "경희슈퍼",
+      "address": "전북특별자치도 군산시 해망동 998-197",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "갈밭상회",
+      "address": "전북특별자치도 군산시 해망동 1008-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "별라슈퍼",
+      "address": "전북특별자치도 군산시 해망동 1004-104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "산외상회",
+      "address": "전북특별자치도 군산시 해망동 1004-104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "배달상회",
+      "address": "전북특별자치도 군산시 해망동 1004-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "진옥상회",
+      "address": "전북특별자치도 군산시 해망동 1004",
+      "roadAddress": "전북특별자치도 군산시 월명로 586-4  (해망동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "해망제일선구",
+      "address": "전북특별자치도 군산시 해망동 1010-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "산해이발관",
+      "address": "전북특별자치도 군산시 해망동 998-238",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "바다슈퍼",
+      "address": "전북특별자치도 군산시 해망동 999-114",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "경훈슈퍼",
+      "address": "전북특별자치도 군산시 해망동 999",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "보령상회",
+      "address": "전북특별자치도 군산시 해망동 1000",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "신영상회",
+      "address": "전북특별자치도 군산시 해망동 999",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "만수상회",
+      "address": "전북특별자치도 군산시 신흥동 15-77",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "신흥슈퍼",
+      "address": "전북특별자치도 군산시 신흥동 32-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "서해슈퍼",
+      "address": "전북특별자치도 군산시 신흥동 72-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "흥일슈퍼",
+      "address": "전북특별자치도 군산시 신흥동 12-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "공원슈퍼",
+      "address": "전북특별자치도 군산시 신흥동 4-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "승주상회",
+      "address": "전북특별자치도 군산시 금동 60-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "경진상회",
+      "address": "전북특별자치도 군산시 금동 58-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "항도기뻐마켓",
+      "address": "전북특별자치도 군산시 금동 1-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "동신슈퍼",
+      "address": "전북특별자치도 군산시 금동 10",
+      "roadAddress": "전북특별자치도 군산시 구영신창길 77  (금동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "대한통운마트",
+      "address": "전북특별자치도 군산시 금동 47",
+      "roadAddress": "전북특별자치도 군산시 군산창길 24-5  (금동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-24"
+    },
+    {
+      "name": "명신슈퍼",
+      "address": "전북특별자치도 군산시 금동 60-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "오뚜기슈퍼",
+      "address": "전북특별자치도 군산시 금동 12-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "영진상회",
+      "address": "전북특별자치도 군산시 금동 35-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "의료원매점",
+      "address": "전북특별자치도 군산시 금동 14-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-09-24"
+    },
+    {
+      "name": "광신슈퍼",
+      "address": "전북특별자치도 군산시 신창동 23-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "남해상사",
+      "address": "전북특별자치도 군산시 월명동 22-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "전북특별자치도 군산시 영화동 18-71",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "동경마트",
+      "address": "전북특별자치도 군산시 월명동 25-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "GS소룡마을점",
+      "address": "전북특별자치도 군산시 소룡동 775-14",
+      "roadAddress": "전북특별자치도 군산시 풍전4길 11  (소룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-01"
+    },
+    {
+      "name": "GS새만금비전점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 새만금북로 243 (오식도동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-13"
+    },
+    {
+      "name": "씨유수송대도점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 축동로 4 (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-13"
+    },
+    {
+      "name": "씨유군산공단점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 외항로 549 (내초동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-13"
+    },
+    {
+      "name": "자연엔마트",
+      "address": "전북특별자치도 군산시 미룡동 114-4",
+      "roadAddress": "전북특별자치도 군산시 용둔길 14  (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-13"
+    },
+    {
+      "name": "아이24씨티월드점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 월명로 215 (월명동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-13"
+    },
+    {
+      "name": "수마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 원당길 84 (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-14"
+    },
+    {
+      "name": "씨유소령원룸점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 풍전5길 10 (소룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-24"
+    },
+    {
+      "name": "i24나운금호점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 수송로 73 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-31"
+    },
+    {
+      "name": "GS25편의점군산월드",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 번영로 46 (조촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-03"
+    },
+    {
+      "name": "대박마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 삼화3길 3 (문화동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-03"
+    },
+    {
+      "name": "GS군산시티점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 나운안1길 19 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-10"
+    },
+    {
+      "name": "하경DC마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 서흥길 23 (문화동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-13"
+    },
+    {
+      "name": "디씨마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 대야면 석화로 8",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-13"
+    },
+    {
+      "name": "수마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 원당길 84 (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-17"
+    },
+    {
+      "name": "수송베스트마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 지곡동신길 20 (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-26"
+    },
+    {
+      "name": "씨유군산옥산점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 옥산면 옥산로 235",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-26"
+    },
+    {
+      "name": "24편의점미룡대명점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 부곡로 126 (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-27"
+    },
+    {
+      "name": "오투마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 축동로 41 (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-28"
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 칠성3길 114 (산북동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-04"
+    },
+    {
+      "name": "문일종합공구철물(유)",
+      "address": "전북특별자치도 군산시 내초동 185-5",
+      "roadAddress": "전북특별자치도 군산시 옥녀로 6-57  (내초동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-09"
+    },
+    {
+      "name": "이승연",
+      "address": "전북특별자치도 군산시 나운동 534-3",
+      "roadAddress": "전북특별자치도 군산시 나운로 3  (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-11"
+    },
+    {
+      "name": "미니스톱군산터미널점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 해망로 18 (경암동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-02"
+    },
+    {
+      "name": "씨유나운대로점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 공단대로 462 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-24"
+    },
+    {
+      "name": "씨유군산회현점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 회현면 회현로 178",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-24"
+    },
+    {
+      "name": "포시즌마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 조촌안1길 30 (경장동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-25"
+    },
+    {
+      "name": "대신공구철물",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 월명로 136 (수송동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-02"
+    },
+    {
+      "name": "동인슈퍼",
+      "address": "전북특별자치도 군산시 신창동 45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "명성상회",
+      "address": "전북특별자치도 군산시 영화동 10-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "성심슈퍼",
+      "address": "전북특별자치도 군산시 장미동 2-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "수진상회",
+      "address": "전북특별자치도 군산시 신창동 20-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "시민슈퍼",
+      "address": "전북특별자치도 군산시 중앙로1가 12-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "시온상회",
+      "address": "전북특별자치도 군산시 월명동 19-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "오성슈퍼",
+      "address": "전북특별자치도 군산시 장미동 5-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "전북특별자치도 군산시 영화동 18-52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "월명슈퍼",
+      "address": "전북특별자치도 군산시 월명동 19-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "유용상회",
+      "address": "전북특별자치도 군산시 영화동 18-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "이성당",
+      "address": "전북특별자치도 군산시 중앙로1가 12-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "정문슈퍼",
+      "address": "전북특별자치도 군산시 월명동 31-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "진슈퍼",
+      "address": "전북특별자치도 군산시 월명동 10-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "춘구상회",
+      "address": "전북특별자치도 군산시 영화동 10-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "한마음슈퍼",
+      "address": "전북특별자치도 군산시 월명동 10-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "전북특별자치도 군산시 영화동 16-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "신강슈퍼",
+      "address": "전북특별자치도 군산시 신창동 32-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "남일슈퍼",
+      "address": "전북특별자치도 군산시 장미동 12-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-01"
+    },
+    {
+      "name": "소라슈퍼",
+      "address": "전북특별자치도 군산시 장미동 7-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-03-01"
+    },
+    {
+      "name": "경민슈퍼",
+      "address": "전북특별자치도 군산시 월명동 6-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-01"
+    },
+    {
+      "name": "호남슈퍼",
+      "address": "전북특별자치도 군산시 장미동 19-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-06-01"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "전북특별자치도 군산시 영화동 4-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-23"
+    },
+    {
+      "name": "서해슈퍼",
+      "address": "전북특별자치도 군산시 장미동 1-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-01"
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "전북특별자치도 군산시 월명동 4-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-01"
+    },
+    {
+      "name": "아름슈퍼",
+      "address": "전북특별자치도 군산시 영화동 8-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-01"
+    },
+    {
+      "name": "정주상회",
+      "address": "전북특별자치도 군산시 영화동 13-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-30"
+    },
+    {
+      "name": "그린편의점",
+      "address": "전북특별자치도 군산시 월명동 14-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-01"
+    },
+    {
+      "name": "미니스톱중앙점",
+      "address": "전북특별자치도 군산시 중앙로1가 15-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-01"
+    },
+    {
+      "name": "동남슈퍼",
+      "address": "전북특별자치도 군산시 중앙로1가 3-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가자마트세풍점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 영명길 5 (구암동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-05"
+    },
+    {
+      "name": "ok마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 거석길 25 (신창동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-09"
+    },
+    {
+      "name": "GS마트군산미룡점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 부곡로 123 (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-12"
+    },
+    {
+      "name": "세븐일레븐나운백조점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 신설2길 12 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-12"
+    },
+    {
+      "name": "시유군산회현점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 회현면 회현로 178",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-14"
+    },
+    {
+      "name": "(유)동아금속",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 구암로 29 (구암동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-15"
+    },
+    {
+      "name": "하나마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 삼학8길 18 (삼학동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-23"
+    },
+    {
+      "name": "민경슈퍼",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 구시장로 64 (신영동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-23"
+    },
+    {
+      "name": "청목유통",
+      "address": "전북특별자치도 군산시 비응도동 49-3",
+      "roadAddress": "전북특별자치도 군산시 비응안5길 23  (비응도동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-26"
+    },
+    {
+      "name": "돼지마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 원산북1길 54 (산북동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-27"
+    },
+    {
+      "name": "한빛마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 조촌안5길 12 (조촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-12-03"
+    },
+    {
+      "name": "GS군산사랑점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 조촌2길 46 (조촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-12-04"
+    },
+    {
+      "name": "GS군산시청점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 조촌안1길 19 (조촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-12-10"
+    },
+    {
+      "name": "양품부",
+      "address": "전북특별자치도 군산시 옥서면 선연리 426",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-12-10"
+    },
+    {
+      "name": "세븐일레븐 군산미룡원룸점",
+      "address": "전북특별자치도 군산시 미룡동 847-11",
+      "roadAddress": "전북특별자치도 군산시 칠성로 51 (미룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-12-24"
+    },
+    {
+      "name": "아이24부향하나로점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 경촌1길 56, 101동 111호 (경암동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-12-26"
+    },
+    {
+      "name": "씨유 군산영동점",
+      "address": "전북특별자치도 군산시 죽성동 33-13",
+      "roadAddress": "전북특별자치도 군산시 싸전길 15  (죽성동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-12-27"
+    },
+    {
+      "name": "코사마트1호점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 구영신창길 31-101 (월명동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-02"
+    },
+    {
+      "name": "GS25군산중앙점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 동아로 19 (산북동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-08"
+    },
+    {
+      "name": "은성마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 가도로 13 (오식도동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-21"
+    },
+    {
+      "name": "한중유통",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 서래내길 37-14 (경암동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-24"
+    },
+    {
+      "name": "웅마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 미원로 125 (중앙로3가)",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-28"
+    },
+    {
+      "name": "동네슈퍼",
+      "address": "전북특별자치도 군산시 문화동 1-11",
+      "roadAddress": "전북특별자치도 군산시 삼화1길 30 (문화동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-28"
+    },
+    {
+      "name": "과일촌",
+      "address": "전북특별자치도 군산시 소룡동 1386-10",
+      "roadAddress": "전북특별자치도 군산시 설림안3길 30, A동 104호 (소룡동, 진흥아파트 상가)",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-31"
+    },
+    {
+      "name": "원광마트 의료기",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 조촌4길 11 (조촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-07"
+    },
+    {
+      "name": "햇살마트",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 신설1길 16 (나운동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-13"
+    },
+    {
+      "name": "미니스톱 군산플라이점",
+      "address": "",
+      "roadAddress": "전북특별자치도 군산시 신평2길 12 (지곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-18"
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "전북특별자치도 군산시 장미동 11-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-15"
+    },
+    {
+      "name": "서해대학매점",
+      "address": "전북특별자치도 군산시 오룡동 832-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-01"
+    },
+    {
+      "name": "삼성할인마트",
+      "address": "전북특별자치도 군산시 금광동 172",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-01"
+    },
+    {
+      "name": "스마일슈퍼",
+      "address": "전북특별자치도 군산시 오룡동 834-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "현주상회",
+      "address": "전북특별자치도 군산시 오룡동 836-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-16"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "전북특별자치도 군산시 오룡동 894-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "가정슈퍼",
+      "address": "전북특별자치도 군산시 오룡동 843-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "문화슈퍼",
+      "address": "전북특별자치도 군산시 오룡동 871-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "전북특별자치도 군산시 오룡동 832-60",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "한지붕슈퍼",
+      "address": "전북특별자치도 군산시 오룡동 832-81",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "사랑상회",
+      "address": "전북특별자치도 군산시 금광동 170-52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "동광상회",
+      "address": "전북특별자치도 군산시 금광동 167-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "공신상회",
+      "address": "전북특별자치도 군산시 명산동 19-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "산동네상회",
+      "address": "전북특별자치도 군산시 금광동 157-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "그린사",
+      "address": "전북특별자치도 군산시 금광동 167-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "삼성슈퍼",
+      "address": "전북특별자치도 군산시 금광동 삼성아파트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "은희상회",
+      "address": "전북특별자치도 군산시 신풍동 892-70",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "일신상회",
+      "address": "전북특별자치도 군산시 신풍동 898-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "유성슈퍼",
+      "address": "전북특별자치도 군산시 송풍동 981",
+      "roadAddress": "전북특별자치도 군산시 송산1길 3-8  (송풍동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "전북특별자치도 군산시 송풍동 944",
+      "roadAddress": "전북특별자치도 군산시 청소년회관로 56  (송풍동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-12"
+    },
+    {
+      "name": "축복청과슈퍼",
+      "address": "전북특별자치도 군산시 송풍동 945-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-01"
+    },
+    {
+      "name": "통일슈퍼",
+      "address": "전북특별자치도 군산시 문화동 892-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "풍남상회",
+      "address": "전북특별자치도 군산시 문화동 888-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-01"
+    },
+    {
+      "name": "또또슈퍼",
+      "address": "전북특별자치도 군산시 문화동 920-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-28"
+    },
+    {
+      "name": "나운슈퍼",
+      "address": "전북특별자치도 군산시 문화동 920-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "한마음슈퍼",
+      "address": "전북특별자치도 군산시 문화동 891-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "남신슈퍼",
+      "address": "전북특별자치도 군산시 문화동 14-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-01"
+    },
+    {
+      "name": "현대슈퍼휴게실",
+      "address": "전북특별자치도 군산시 장미동 28-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-01"
+    }
+  ]
+}

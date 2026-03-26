@@ -1,0 +1,38 @@
+{
+  "region": "경기도",
+  "regionSlug": "gyeonggi",
+  "district": "광주시",
+  "districtSlug": "ggwangju",
+  "updatedAt": "2026-03-26",
+  "totalCount": 4,
+  "stores": [
+    {
+      "name": "GS25 수지성복",
+      "address": "경기도 광주시 오포읍 매산리 707-5",
+      "roadAddress": "경기도 광주시 오포읍 독산동길 34-49",
+      "status": "영업/정상",
+      "licenseDate": "2010-06-29"
+    },
+    {
+      "name": "진로마트",
+      "address": "",
+      "roadAddress": "경기도 광주시 오포읍 능평로 192",
+      "status": "영업/정상",
+      "licenseDate": "2015-02-02"
+    },
+    {
+      "name": "GS25 오포창뜰점",
+      "address": "",
+      "roadAddress": "경기도 광주시 오포읍 창뜰윗길6번길 9",
+      "status": "영업/정상",
+      "licenseDate": "2015-03-25"
+    },
+    {
+      "name": "(GG유통)과일녀석들",
+      "address": "",
+      "roadAddress": "경기도 광주시 오포읍 새말길 108",
+      "status": "영업/정상",
+      "licenseDate": "2015-03-02"
+    }
+  ]
+}

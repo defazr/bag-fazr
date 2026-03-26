@@ -1,0 +1,101 @@
+{
+  "region": "강원특별자치도",
+  "regionSlug": "gangwon",
+  "district": "정선군",
+  "districtSlug": "jeongseon",
+  "updatedAt": "2026-03-26",
+  "totalCount": 13,
+  "stores": [
+    {
+      "name": "민들레상회",
+      "address": "강원특별자치도 정선군 화암면 호촌리 493",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-20"
+    },
+    {
+      "name": "정선농협동면지소",
+      "address": "강원특별자치도 정선군 화암면 화암리 356-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-20"
+    },
+    {
+      "name": "화암가든매점",
+      "address": "강원특별자치도 정선군 화암면 화암리 567",
+      "roadAddress": "강원특별자치도 정선군 화암면 소금강로 851",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-20"
+    },
+    {
+      "name": "석곡슈퍼",
+      "address": "강원특별자치도 정선군 화암면 석곡리 206-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-20"
+    },
+    {
+      "name": "석곡간이휴게소",
+      "address": "강원특별자치도 정선군 화암면 석곡리 1176-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-20"
+    },
+    {
+      "name": "백전슈퍼",
+      "address": "강원특별자치도 정선군 화암면 백전리 411-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-07"
+    },
+    {
+      "name": "회동상회",
+      "address": "강원특별자치도 정선군 정선읍 회동리 2 통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-26"
+    },
+    {
+      "name": "물레방아가든",
+      "address": "강원특별자치도 정선군 화암면 백전리 300-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미미슈퍼",
+      "address": "강원특별자치도 정선군 신동읍 조동리 143",
+      "roadAddress": "강원특별자치도 정선군 신동읍 새골길 73",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-02"
+    },
+    {
+      "name": "일억슈퍼",
+      "address": "강원특별자치도 정선군 사북읍 사북리 305-3   1  통2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-28"
+    },
+    {
+      "name": "화신슈퍼",
+      "address": "강원특별자치도 정선군 정선읍 회동리 437-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-07"
+    },
+    {
+      "name": "도전아우라지가든",
+      "address": "강원특별자치도 정선군 임계면 도전리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-07"
+    },
+    {
+      "name": "유진상회",
+      "address": "강원특별자치도 정선군 북평면 나전리 1 통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-26"
+    }
+  ]
+}

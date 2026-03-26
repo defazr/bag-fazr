@@ -1,0 +1,1648 @@
+{
+  "region": "경기도",
+  "regionSlug": "gyeonggi",
+  "district": "양평군",
+  "districtSlug": "yangpyeong",
+  "updatedAt": "2026-03-26",
+  "totalCount": 234,
+  "stores": [
+    {
+      "name": "강원심층수판매주식회사",
+      "address": "경기도 양평군 서종면 문호리 1089-33",
+      "roadAddress": "경기도 양평군 서종면 수대울길 239",
+      "status": "영업/정상",
+      "licenseDate": "2022-02-28"
+    },
+    {
+      "name": "양평농협",
+      "address": "경기도 양평군 옥천면 옥천리 574",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-15"
+    },
+    {
+      "name": "산음1리영농림협업체",
+      "address": "경기도 양평군 단월면 산음리 684-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-06"
+    },
+    {
+      "name": "한남슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 340-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-06"
+    },
+    {
+      "name": "진성유통",
+      "address": "경기도 양평군 양평읍 양근리 358-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경기도 양평군 지평면 지평리 494-5",
+      "roadAddress": "경기도 양평군 지평면 지평의병로 115",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동오구판장",
+      "address": "경기도 양평군 강하면 동오리 617",
+      "roadAddress": "경기도 양평군 강하면 동문3길 26",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원주상회",
+      "address": "경기도 양평군 용문면 다문리 704-6",
+      "roadAddress": "경기도 양평군 용문면 용문로 329",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산음휴양림",
+      "address": "경기도 양평군 단월면 산음리 산 84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐양평3호점",
+      "address": "경기도 양평군 양평읍 양근리 222-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지평슈퍼",
+      "address": "경기도 양평군 지평면 지평리 544",
+      "roadAddress": "경기도 양평군 지평면 지평의병로 84",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "ok마트",
+      "address": "경기도 양평군 양서면 양수리 551-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 446-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청운농협하나로마트",
+      "address": "경기도 양평군 청운면 용두리 630-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 284",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강남마트",
+      "address": "경기도 양평군 강상면 교평리 480-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용머리휴게소(4)",
+      "address": "경기도 양평군 청운면 가현리 593-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양수농수산물",
+      "address": "경기도 양평군 양서면 양수리 1133",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양동농업협동조합",
+      "address": "경기도 양평군 양동면 쌍학리 63-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)씨바이오텍",
+      "address": "경기도 양평군 단월면 향소리 388",
+      "roadAddress": "경기도 양평군 단월면 향소절골길 67",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "왕할인마트",
+      "address": "경기도 양평군 청운면 용두리 520",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우정슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 404-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트양평전수리점",
+      "address": "경기도 양평군 강하면 전수리 555-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)비젼유통",
+      "address": "경기도 양평군 양평읍 양근리 380-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "경기도 양평군 양평읍 양근리 293-3",
+      "roadAddress": "경기도 양평군 양평읍 양근로 208",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "경기도 양평군 옥천면 아신리 419-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연지마트",
+      "address": "경기도 양평군 양평읍 양근리 289",
+      "roadAddress": "경기도 양평군 양평읍 양근로 196-3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가마솥정육점",
+      "address": "경기도 양평군 지평면 지평리 485-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "킹마트",
+      "address": "경기도 양평군 양평읍 양근리 167-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)코리아세븐양평5호점",
+      "address": "경기도 양평군 양평읍 양근리 410-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트양평터미널점",
+      "address": "경기도 양평군 양평읍 공흥리 471-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)코리아세븐양평5호점",
+      "address": "경기도 양평군 양평읍 양근리 410-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)코리아세븐양평5호점",
+      "address": "경기도 양평군 양평읍 양근리 410-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아신역앞",
+      "address": "경기도 양평군 옥천면 아신리 371-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "육군복지근무지원단 양평지점",
+      "address": "경기도 양평군 양평읍 양근리 403-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제이마트",
+      "address": "경기도 양평군 양평읍 공흥리 722",
+      "roadAddress": "경기도 양평군 양평읍 중앙로 63",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신양슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 269-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명성휴게소",
+      "address": "경기도 양평군 단월면 명성리 30-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양마트(주)양수리형제점",
+      "address": "경기도 양평군 양서면 양수리 1047",
+      "roadAddress": "경기도 양평군 양서면 양수로150번길 3-2",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신양슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 269-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명성휴게소",
+      "address": "경기도 양평군 단월면 명성리 30-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양마트(주)양수리형제점",
+      "address": "경기도 양평군 양서면 양수리 1047",
+      "roadAddress": "경기도 양평군 양서면 양수로150번길 3-2",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원가마트",
+      "address": "경기도 양평군 단월면 덕수리 397-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대명",
+      "address": "경기도 양평군 단월면 봉상리 46-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용문마트",
+      "address": "경기도 양평군 용문면 다문리 669-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "3.4마트",
+      "address": "경기도 양평군 양평읍 양근리 184-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "경기도 양평군 옥천면 아신리 419-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심마트",
+      "address": "경기도 양평군 양평읍 양근리 358-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "늘푸른마트",
+      "address": "경기도 양평군 양평읍 양근리 167-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쉼터슈퍼",
+      "address": "경기도 양평군 양서면 국수리 328-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "웰빙편의점",
+      "address": "경기도 양평군 양평읍 양근리 396-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운봉할인마트",
+      "address": "경기도 양평군 용문면 다문리 616",
+      "roadAddress": "경기도 양평군 용문면 다문북길 95",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용천리구판장",
+      "address": "경기도 양평군 옥천면 용천리 248-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트(중앙)",
+      "address": "경기도 양평군 양평읍 양근리 206-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양평열쇠",
+      "address": "경기도 양평군 양평읍 양근리 300-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "여주쌀상회",
+      "address": "경기도 양평군 양평읍 양근리 262-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "협동미심",
+      "address": "경기도 양평군 양평읍 양근리 302-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양평농협",
+      "address": "경기도 양평군 양평읍 양근리 410-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한남슈퍼",
+      "address": "경기도 양평군 양평읍 오빈리 351-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인삼집",
+      "address": "경기도 양평군 양평읍 양근리 410-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양근상회",
+      "address": "경기도 양평군 양평읍 양근리 528",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동부장여관",
+      "address": "경기도 양평군 양평읍 양근리 184-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동남슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 195-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새말슈퍼",
+      "address": "경기도 양평군 양평읍 오빈리 181-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동부슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 184-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금강슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 170-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 170-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대림슈퍼",
+      "address": "경기도 양평군 양평읍 공흥리 747-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "근화상회",
+      "address": "경기도 양평군 양평읍 창대리 699-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용현슈퍼",
+      "address": "경기도 양평군 양평읍 창대리 산 19-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백운식품",
+      "address": "경기도 양평군 양평읍 양근리 178-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 355-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양평슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 304-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "천일슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 310-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창신슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 353-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대흥청과",
+      "address": "경기도 양평군 양평읍 양근리 206",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안동슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 355",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대지물포",
+      "address": "경기도 양평군 양평읍 양근리 151-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 168-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구판장",
+      "address": "경기도 양평군 양평읍 공흥리 315",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 301",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제철물",
+      "address": "경기도 양평군 양평읍 양근리 356-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양평식품",
+      "address": "경기도 양평군 양평읍 양근리 445-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옥천사",
+      "address": "경기도 양평군 양평읍 양근리 446-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연어슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 340-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양근슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 172-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대흥1리구판장",
+      "address": "경기도 양평군 양평읍 대흥리 151-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부흥슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 192-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세한슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 290-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "경기도 양평군 양평읍 양근리 192-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소매가게",
+      "address": "경기도 양평군 양평읍 오빈리 347",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "리장",
+      "address": "경기도 양평군 양평읍 오빈리 117-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을회관",
+      "address": "경기도 양평군 양평읍 백안리 365",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을구판장",
+      "address": "경기도 양평군 양평읍 백안리 314-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동산슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 212-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대청과",
+      "address": "경기도 양평군 양평읍 양근리 현대아파트상가 1층 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)태양유통",
+      "address": "경기도 양평군 양평읍 양근리 176-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린2차아파트관리사무소",
+      "address": "경기도 양평군 양평읍 양근리 137-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진짜수퍼",
+      "address": "경기도 양평군 양평읍 공흥리 463-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양평우체국",
+      "address": "경기도 양평군 양평읍 양근리 321-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대마트",
+      "address": "경기도 양평군 양평읍 양근리 37-1    현대지하상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이레할인마트",
+      "address": "경기도 양평군 양평읍 양근리 417-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일문방구",
+      "address": "경기도 양평군 양평읍 양근리 528-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부동산임대",
+      "address": "경기도 양평군 양평읍 양근리 169-1",
+      "roadAddress": "경기도 양평군 양평읍 관문길8번길 9",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "역전슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 403-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 양평군 양평읍 공흥리 783",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼원슈퍼",
+      "address": "경기도 양평군 양평읍 양근리 263-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "교평1리가게",
+      "address": "경기도 양평군 강상면 교평리 588-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영신슈퍼",
+      "address": "경기도 양평군 강상면 교평리 1153-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "병산리 농축산물 직판장",
+      "address": "경기도 양평군 강상면 병산리 135-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한창상회",
+      "address": "경기도 양평군 강상면 세월리 161-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강촌농축산물직판장",
+      "address": "경기도 양평군 강하면 전수리 22-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대석2리부녀회",
+      "address": "경기도 양평군 강상면 대석리 82",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다락방 기도원 매점",
+      "address": "경기도 양평군 강상면 대석리 439-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강하슈퍼",
+      "address": "경기도 양평군 강하면 운심리 50-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강촌농산물 직매장",
+      "address": "경기도 양평군 강하면 전수리 22-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강남상회",
+      "address": "경기도 양평군 강하면 동오리 467",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강하 농민 후계자 직판장",
+      "address": "경기도 양평군 강하면 동오리 614",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "샛별양행",
+      "address": "경기도 양평군 강하면 왕창리 697",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창더미공판장",
+      "address": "경기도 양평군 강하면 왕창리 695",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대상상회",
+      "address": "경기도 양평군 양서면 양수리 554-62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송월상회",
+      "address": "경기도 양평군 양서면 양수리 576",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕수사회",
+      "address": "경기도 양평군 양서면 양수리 1007",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "비호슈퍼",
+      "address": "경기도 양평군 양서면 양수리 1019",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문환상회",
+      "address": "경기도 양평군 양서면 양수리 1058",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현제슈퍼",
+      "address": "경기도 양평군 양서면 양수리 1047",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양서농협",
+      "address": "경기도 양평군 양서면 양수리 559-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용진상회",
+      "address": "경기도 양평군 양서면 양수리 565-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양서상회",
+      "address": "경기도 양평군 양서면 양수리 564-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용인상회",
+      "address": "경기도 양평군 양서면 양수리 1076",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이천식품",
+      "address": "경기도 양평군 양서면 용담리 534-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신원역전상회",
+      "address": "경기도 양평군 양서면 신원리 493",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "역전상회",
+      "address": "경기도 양평군 양서면 국수리 268-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성일상회",
+      "address": "경기도 양평군 양서면 국수리 319-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "썬슈퍼",
+      "address": "경기도 양평군 양서면 국수리 328-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박성선",
+      "address": "경기도 양평군 양서면 국수리 328-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "국수매점",
+      "address": "경기도 양평군 양서면 국수리 351",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼익슈퍼",
+      "address": "경기도 양평군 양서면 양수리 621-13   삼익아파트 단지내상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양수유마트",
+      "address": "경기도 양평군 양서면 양수리 564",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "A휴게마트",
+      "address": "경기도 양평군 양서면 국수리 360-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가나안슈퍼",
+      "address": "경기도 양평군 양서면 양수리 561-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옥천4리부녀가게",
+      "address": "경기도 양평군 옥천면 옥천리 141-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한성상회",
+      "address": "경기도 양평군 옥천면 옥천리 591",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옥천2리구판장",
+      "address": "경기도 양평군 옥천면 옥천리 597",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고읍상회",
+      "address": "경기도 양평군 옥천면 옥천리 603",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 양평군 옥천면 옥천리 568-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옥천슈퍼",
+      "address": "경기도 양평군 옥천면 옥천리 739",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "거북이 상회",
+      "address": "경기도 양평군 옥천면 아신리 372-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을슈퍼",
+      "address": "경기도 양평군 옥천면 옥천리 597-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사나사계곡판매소",
+      "address": "경기도 양평군 옥천면 용천리 사나사계곡자연휴식지매표소",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리마트",
+      "address": "경기도 양평군 옥천면 옥천리 577-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동현상회",
+      "address": "경기도 양평군 서종면 문호리 398-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "율평상회",
+      "address": "경기도 양평군 서종면 문호리 391-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수입상회",
+      "address": "경기도 양평군 서종면 문호리 761-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울상회",
+      "address": "경기도 양평군 서종면 수입리 706-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "노축산물직판장",
+      "address": "경기도 양평군 서종면 문호리 326-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울상회",
+      "address": "경기도 양평군 서종면 수입리 706-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농산물 직판장",
+      "address": "경기도 양평군 서종면 문호리 326-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종점상회",
+      "address": "경기도 양평군 서종면 문호리 379-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산음상회",
+      "address": "경기도 양평군 단월면 산음리 226",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "향소상회",
+      "address": "경기도 양평군 단월면 향소리 1033",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용궁슈퍼",
+      "address": "경기도 양평군 단월면 보룡리 341",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소리산 상회",
+      "address": "경기도 양평군 단월면 석산리 25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "단월종합상사",
+      "address": "경기도 양평군 단월면 보룡리 342-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소리산슈퍼마트",
+      "address": "경기도 양평군 단월면 덕수리 399-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청운닭집",
+      "address": "경기도 양평군 청운면 용두리 636-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청운슈퍼",
+      "address": "경기도 양평군 청운면 용두리 659-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "경기도 양평군 청운면 용두리 632-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용두슈퍼",
+      "address": "경기도 양평군 청운면 용두리 661-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용두2리부녀회구판장",
+      "address": "경기도 양평군 청운면 용두리 464",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한영상회",
+      "address": "경기도 양평군 양동면 쌍학리 227",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경기도 양평군 양동면 쌍학리 179-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일상회",
+      "address": "경기도 양평군 양동면 쌍학리 213-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용두슈퍼",
+      "address": "경기도 양평군 양동면 쌍학리 236-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평화식품",
+      "address": "경기도 양평군 양동면 쌍학리 179-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홍천슈퍼",
+      "address": "경기도 양평군 지평면 지평리 511-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명신슈퍼",
+      "address": "경기도 양평군 지평면 지평리 513-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송현가게",
+      "address": "경기도 양평군 지평면 송현리 256",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주은슈퍼",
+      "address": "경기도 양평군 지평면 지평리 572-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지제농협연쇄",
+      "address": "경기도 양평군 지평면 지평리 568",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "편안방",
+      "address": "경기도 양평군 지평면 지평리 576",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충북상회",
+      "address": "경기도 양평군 지평면 월산리 379",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광신상회",
+      "address": "경기도 양평군 지평면 곡수리 436",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동신상회",
+      "address": "경기도 양평군 지평면 곡수리 398",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "경기도 양평군 지평면 곡수리 453",
+      "roadAddress": "경기도 양평군 지평면 곡수길 73",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구슬고개쉼터",
+      "address": "경기도 양평군 지평면 옥현리 528-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지평 미니 슈퍼",
+      "address": "경기도 양평군 지평면 지평리 494-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장만상회",
+      "address": "경기도 양평군 용문면 마룡리 318",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마룡상회",
+      "address": "경기도 양평군 용문면 마룡리 425",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "재건사회",
+      "address": "경기도 양평군 용문면 마룡리 659",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영천상회",
+      "address": "경기도 양평군 용문면 다문리 493",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다래슈퍼",
+      "address": "경기도 양평군 용문면 다문리 717",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "나드리식품",
+      "address": "경기도 양평군 용문면 다문리 742-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두리비디오",
+      "address": "경기도 양평군 용문면 다문리 735-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "경기도 양평군 용문면 다문리 741-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥슈퍼",
+      "address": "경기도 양평군 용문면 다문리 739-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 양평군 용문면 다문리 743",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "왕자지물포",
+      "address": "경기도 양평군 용문면 다문리 308-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴월트쇼핑",
+      "address": "경기도 양평군 용문면 다문리 732",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대륙슈퍼",
+      "address": "경기도 양평군 용문면 다문리 730",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용문슈퍼",
+      "address": "경기도 양평군 용문면 다문리 731-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "임석광",
+      "address": "경기도 양평군 용문면 다문리 305-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "비둘기슈퍼",
+      "address": "경기도 양평군 용문면 다문리 321-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홍천슈퍼",
+      "address": "경기도 양평군 용문면 다문리 332",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용문완구",
+      "address": "경기도 양평군 용문면 다문리 728-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영신상회",
+      "address": "경기도 양평군 용문면 다문리 331",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바로커치킨",
+      "address": "경기도 양평군 용문면 다문리 727",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙농원",
+      "address": "경기도 양평군 용문면 다문리 728-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중진느티나무",
+      "address": "경기도 양평군 용문면 다문리 645",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경향사진관",
+      "address": "경기도 양평군 용문면 광탄리 259",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광탄슈퍼",
+      "address": "경기도 양평군 용문면 광탄리 259",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광흥미니슈퍼",
+      "address": "경기도 양평군 용문면 광탄리 164",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양상회",
+      "address": "경기도 양평군 용문면 신점리 369-61",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송림상회",
+      "address": "경기도 양평군 용문면 신점리 520-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백운상회",
+      "address": "경기도 양평군 용문면 신점리 520-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미지산상회",
+      "address": "경기도 양평군 용문면 신점리 520-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용문농협",
+      "address": "경기도 양평군 용문면 다문리 722",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태성슈퍼",
+      "address": "경기도 양평군 용문면 다문리 727",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광탄레저파크",
+      "address": "경기도 양평군 용문면 광탄리 235-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리 슈퍼",
+      "address": "경기도 양평군 용문면 다문리 717-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인천생선집",
+      "address": "경기도 양평군 용문면 다문리 731-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다모아미용실",
+      "address": "경기도 양평군 용문면 다문리 743-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강릉식당",
+      "address": "경기도 양평군 용문면 광탄리 171-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "승리상사",
+      "address": "경기도 양평군 용문면 광탄리 727",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명산슈퍼",
+      "address": "경기도 양평군 용문면 신점리 384-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "7.7편의점",
+      "address": "경기도 양평군 용문면 다문리 325-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "경기도 양평군 개군면 하자포리 366",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수정상회",
+      "address": "경기도 양평군 개군면 상자포리 219-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하자포상회",
+      "address": "경기도 양평군 개군면 하자포리 220-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주앙슈퍼",
+      "address": "경기도 양평군 개군면 하자포리 224-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 양평군 개군면 하자포리 220",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개군슈퍼",
+      "address": "경기도 양평군 개군면 하자포리 105-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농산물직판",
+      "address": "경기도 양평군 개군면 공세리 186",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "공세리구판장",
+      "address": "경기도 양평군 개군면 공세리 301",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    }
+  ]
+}

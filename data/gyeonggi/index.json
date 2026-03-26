@@ -1,0 +1,163 @@
+{
+  "region": "경기도",
+  "regionSlug": "gyeonggi",
+  "updatedAt": "2026-03-26",
+  "totalCount": 15751,
+  "districts": [
+    {
+      "district": "안산시",
+      "districtSlug": "ansan",
+      "count": 1037
+    },
+    {
+      "district": "안성시",
+      "districtSlug": "anseong",
+      "count": 618
+    },
+    {
+      "district": "안양시",
+      "districtSlug": "anyang",
+      "count": 25
+    },
+    {
+      "district": "부천시",
+      "districtSlug": "bucheon",
+      "count": 2
+    },
+    {
+      "district": "동두천시",
+      "districtSlug": "dongducheon",
+      "count": 362
+    },
+    {
+      "district": "가평군",
+      "districtSlug": "gapyeong",
+      "count": 309
+    },
+    {
+      "district": "광주시",
+      "districtSlug": "ggwangju",
+      "count": 4
+    },
+    {
+      "district": "김포시",
+      "districtSlug": "gimpo",
+      "count": 1248
+    },
+    {
+      "district": "고양시",
+      "districtSlug": "goyang",
+      "count": 1828
+    },
+    {
+      "district": "군포시",
+      "districtSlug": "gunpo",
+      "count": 442
+    },
+    {
+      "district": "구리시",
+      "districtSlug": "guri",
+      "count": 250
+    },
+    {
+      "district": "과천시",
+      "districtSlug": "gwacheon",
+      "count": 171
+    },
+    {
+      "district": "광명시",
+      "districtSlug": "gwangmyeong",
+      "count": 311
+    },
+    {
+      "district": "하남시",
+      "districtSlug": "hanam",
+      "count": 25
+    },
+    {
+      "district": "화성시",
+      "districtSlug": "hwaseong",
+      "count": 1767
+    },
+    {
+      "district": "이천시",
+      "districtSlug": "icheon",
+      "count": 2
+    },
+    {
+      "district": "남양주시",
+      "districtSlug": "namyangju",
+      "count": 918
+    },
+    {
+      "district": "오산시",
+      "districtSlug": "osan",
+      "count": 430
+    },
+    {
+      "district": "파주시",
+      "districtSlug": "paju",
+      "count": 911
+    },
+    {
+      "district": "포천시",
+      "districtSlug": "pocheon",
+      "count": 4
+    },
+    {
+      "district": "평택시",
+      "districtSlug": "pyeongtaek",
+      "count": 1193
+    },
+    {
+      "district": "성남시",
+      "districtSlug": "seongnam",
+      "count": 11
+    },
+    {
+      "district": "시흥시",
+      "districtSlug": "siheung",
+      "count": 1
+    },
+    {
+      "district": "수원시",
+      "districtSlug": "suwon",
+      "count": 44
+    },
+    {
+      "district": "의정부시",
+      "districtSlug": "uijeongbu",
+      "count": 959
+    },
+    {
+      "district": "의왕시",
+      "districtSlug": "uiwang",
+      "count": 184
+    },
+    {
+      "district": "양주시",
+      "districtSlug": "yangju",
+      "count": 4
+    },
+    {
+      "district": "양평군",
+      "districtSlug": "yangpyeong",
+      "count": 234
+    },
+    {
+      "district": "여주시",
+      "districtSlug": "yeoju",
+      "count": 605
+    },
+    {
+      "district": "연천군",
+      "districtSlug": "yeoncheon",
+      "count": 107
+    },
+    {
+      "district": "용인시",
+      "districtSlug": "yongin",
+      "count": 1745
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "region": "인천광역시",
+  "regionSlug": "incheon",
+  "district": "남동구",
+  "districtSlug": "namdong",
+  "updatedAt": "2026-03-26",
+  "totalCount": 2,
+  "stores": [
+    {
+      "name": "로타리슈퍼",
+      "address": "전라남도 광양시 광양읍 칠성리 185-3",
+      "roadAddress": "인천광역시 남동구 남촌로84번길 38, 307동  2301호(남촌동,풍림아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-06"
+    },
+    {
+      "name": "씨유제주영어교육도시점",
+      "address": "인천광역시 남동구 간석동 29-5 세동아트빌",
+      "roadAddress": "인천광역시 남동구 용천로136번길 22, 301호 (간석동, 세동아트빌)",
+      "status": "영업/정상",
+      "licenseDate": "2023-01-25"
+    }
+  ]
+}

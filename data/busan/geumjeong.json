@@ -1,0 +1,129 @@
+{
+  "region": "부산광역시",
+  "regionSlug": "busan",
+  "district": "금정구",
+  "districtSlug": "geumjeong",
+  "updatedAt": "2026-03-26",
+  "totalCount": 17,
+  "stores": [
+    {
+      "name": "공주슈퍼",
+      "address": "부산광역시 금정구 서동 564-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "근대화슈퍼",
+      "address": "부산광역시 금정구 부곡동 723-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-26"
+    },
+    {
+      "name": "서1동새마을금고",
+      "address": "부산광역시 금정구 서동 302-1163",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-31"
+    },
+    {
+      "name": "서2동새마을금고",
+      "address": "부산광역시 금정구 서동 211-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-31"
+    },
+    {
+      "name": "서3동새마을금고",
+      "address": "부산광역시 금정구 서동 130-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-31"
+    },
+    {
+      "name": "서4동새마을금고",
+      "address": "부산광역시 금정구 서동 173-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-31"
+    },
+    {
+      "name": "금사동새마을금고",
+      "address": "부산광역시 금정구 금사동 137-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-31"
+    },
+    {
+      "name": "부곡동새마을금고",
+      "address": "부산광역시 금정구 부곡동 304-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-31"
+    },
+    {
+      "name": "장전1동새마을금고",
+      "address": "부산광역시 금정구 장전동 154-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-31"
+    },
+    {
+      "name": "장전2동새마을금고",
+      "address": "부산광역시 금정구 장전동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-31"
+    },
+    {
+      "name": "장전3동새마을금고",
+      "address": "부산광역시 금정구 장전동 341-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-31"
+    },
+    {
+      "name": "선두구동새마을금고",
+      "address": "부산광역시 금정구 두구동 228",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-31"
+    },
+    {
+      "name": "청룡노포동새마을금고",
+      "address": "부산광역시 금정구 청룡동 28-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-31"
+    },
+    {
+      "name": "남산동 새마을금고",
+      "address": "부산광역시 금정구 남산동 26-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-31"
+    },
+    {
+      "name": "구서1동새마을금고",
+      "address": "부산광역시 금정구 구서동 414-46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-31"
+    },
+    {
+      "name": "구서2동새마을금고",
+      "address": "부산광역시 금정구 구서동 809-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-31"
+    },
+    {
+      "name": "금성동새마을금고",
+      "address": "부산광역시 금정구 금성동 554-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-31"
+    }
+  ]
+}

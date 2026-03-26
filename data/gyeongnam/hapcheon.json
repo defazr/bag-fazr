@@ -1,0 +1,17 @@
+{
+  "region": "경상남도",
+  "regionSlug": "gyeongnam",
+  "district": "합천군",
+  "districtSlug": "hapcheon",
+  "updatedAt": "2026-03-26",
+  "totalCount": 1,
+  "stores": [
+    {
+      "name": "부흥철물",
+      "address": "경상남도 합천군 합천읍 합천리 473-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-01-01"
+    }
+  ]
+}

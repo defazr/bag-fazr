@@ -1,0 +1,4182 @@
+{
+  "region": "경상남도",
+  "regionSlug": "gyeongnam",
+  "district": "진주시",
+  "districtSlug": "jinju",
+  "updatedAt": "2026-03-26",
+  "totalCount": 596,
+  "stores": [
+    {
+      "name": "시장할인마트",
+      "address": "전라남도 광양시 옥곡면 신금리 1337-3",
+      "roadAddress": "경상남도 진주시 진주대로985번길 14 (강남동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-09"
+    },
+    {
+      "name": "한국 편의점",
+      "address": "경상남도 진주시 상대동 786-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-26"
+    },
+    {
+      "name": "굿모닝마트",
+      "address": "경상남도 진주시 상평동 210-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-27"
+    },
+    {
+      "name": "해중슈퍼",
+      "address": "경상남도 진주시 동성동 12-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-04"
+    },
+    {
+      "name": "고교슈퍼",
+      "address": "경상남도 진주시 상평동 269-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-08"
+    },
+    {
+      "name": "작은가게",
+      "address": "경상남도 진주시 수정동 24-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-08"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상남도 진주시 상봉동 1043-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-19"
+    },
+    {
+      "name": "한보마트",
+      "address": "경상남도 진주시 평거동 739-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-19"
+    },
+    {
+      "name": "재화꽃집",
+      "address": "경상남도 진주시 수정동 17-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-19"
+    },
+    {
+      "name": "하나마트",
+      "address": "경상남도 진주시 신안동 27-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-04"
+    },
+    {
+      "name": "문산연쇄점",
+      "address": "경상남도 진주시 문산읍 삼곡리 584",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-05"
+    },
+    {
+      "name": "훼미리마트 경대후문점",
+      "address": "경상남도 진주시 가좌동 1446-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-19"
+    },
+    {
+      "name": "프리타임24시",
+      "address": "경상남도 진주시 가좌동 1444-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-19"
+    },
+    {
+      "name": "모드니장식",
+      "address": "경상남도 진주시 하대동 107-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-31"
+    },
+    {
+      "name": "남강댐휴게소",
+      "address": "경상남도 진주시 내동면 삼계리 682-1",
+      "roadAddress": "경상남도 진주시 내동면 삼계로 453",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-24"
+    },
+    {
+      "name": "강변슈퍼",
+      "address": "경상남도 진주시 옥봉동 805-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "도매유통(중앙점)",
+      "address": "경상남도 진주시 수정동 39-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-07"
+    },
+    {
+      "name": "현대문구할인마트",
+      "address": "경상남도 진주시 망경동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-18"
+    },
+    {
+      "name": "현대상회",
+      "address": "경상남도 진주시 하대동 140-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-18"
+    },
+    {
+      "name": "동원미니슈퍼",
+      "address": "경상남도 진주시 이현동 29-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-23"
+    },
+    {
+      "name": "대원슈퍼",
+      "address": "경상남도 진주시 하대동 347-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-30"
+    },
+    {
+      "name": "진주슈퍼",
+      "address": "경상남도 진주시 신안동 19-46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-31"
+    },
+    {
+      "name": "새집상회",
+      "address": "경상남도 진주시 인사동 192-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-05"
+    },
+    {
+      "name": "탑훼밀리마트",
+      "address": "경상남도 진주시 신안동 27-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-05"
+    },
+    {
+      "name": "화진할인마트",
+      "address": "경상남도 진주시 문산읍 삼곡리 1350-3",
+      "roadAddress": "경상남도 진주시 문산읍 동부로 538-7",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-10"
+    },
+    {
+      "name": "서울상회",
+      "address": "경상남도 진주시 가좌동 1437-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-04"
+    },
+    {
+      "name": "홈마트망경점",
+      "address": "경상남도 진주시 망경동 34-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-26"
+    },
+    {
+      "name": "매일탕재원",
+      "address": "경상남도 진주시 하대동 325",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-26"
+    },
+    {
+      "name": "달동네슈퍼24시",
+      "address": "경상남도 진주시 상봉동 1106-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-27"
+    },
+    {
+      "name": "K.C마트",
+      "address": "경상남도 진주시 강남동 226-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-09"
+    },
+    {
+      "name": "달성슈퍼",
+      "address": "경상남도 진주시 상봉동 1102-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-17"
+    },
+    {
+      "name": "도매유통(하대점)",
+      "address": "경상남도 진주시 하대동 617-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-01"
+    },
+    {
+      "name": "피카소마트",
+      "address": "경상남도 진주시 호탄동 636-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-05"
+    },
+    {
+      "name": "제일편의점",
+      "address": "경상남도 진주시 상평동 203-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-12"
+    },
+    {
+      "name": "하나로마트",
+      "address": "경상남도 진주시 초전동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공슈퍼",
+      "address": "경상남도 진주시 평거동 326",
+      "roadAddress": "경상남도 진주시 진양호로185번길 7  (평거동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉래슈퍼",
+      "address": "경상남도 진주시 수정동 21-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대아설렁탕",
+      "address": "경상남도 진주시 이현동 233-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-03"
+    },
+    {
+      "name": "도매유통",
+      "address": "경상남도 진주시 신안동 28-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "흥한유통",
+      "address": "경상남도 진주시 초전동 233-5 흥항아파트 상가  1동 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오복슈퍼",
+      "address": "경상남도 진주시 봉곡동 15-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동남스토아",
+      "address": "경상남도 진주시 대평면 대평리 519-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산청상회",
+      "address": "경상남도 진주시 상봉동 913-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사천수협수산물백화점",
+      "address": "경상남도 진주시 상봉동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새천년할인마트",
+      "address": "경상남도 진주시 주약동 79-30 상가 1동 2호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-06"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경상남도 진주시 인사동 143-51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "경상남도 진주시 신안동 581-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG분식",
+      "address": "경상남도 진주시 가좌동 772-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태관슈퍼",
+      "address": "경상남도 진주시 하대동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-26"
+    },
+    {
+      "name": "대성쌀상회",
+      "address": "경상남도 진주시 이현동 7-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한빛슈퍼",
+      "address": "경상남도 진주시 신안동 723-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-31"
+    },
+    {
+      "name": "온누리마트",
+      "address": "경상남도 진주시 평거동 751-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-08"
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "경상남도 진주시 칠암동 103-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-11"
+    },
+    {
+      "name": "대밭슈퍼",
+      "address": "경상남도 진주시 가좌동 1428-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-19"
+    },
+    {
+      "name": "아리랑마트",
+      "address": "경상남도 진주시 옥봉동 806-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-26"
+    },
+    {
+      "name": "월드할인마트",
+      "address": "경상남도 진주시 신안동 461-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-05"
+    },
+    {
+      "name": "해피마트",
+      "address": "경상남도 진주시 상봉동 1020-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-31"
+    },
+    {
+      "name": "천수교슈퍼",
+      "address": "경상남도 진주시 인사동 178-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-12"
+    },
+    {
+      "name": "태영비닐",
+      "address": "경상남도 진주시 상대동 280-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-15"
+    },
+    {
+      "name": "경남할인마트",
+      "address": "경상남도 진주시 상대동 304-4 상대한보타운 101-1001",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-18"
+    },
+    {
+      "name": "접속소매점",
+      "address": "경상남도 진주시 하대동 468",
+      "roadAddress": "경상남도 진주시 하대로40번길 22  (하대동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-30"
+    },
+    {
+      "name": "낙강슈퍼",
+      "address": "경상남도 진주시 평안동 98",
+      "roadAddress": "경상남도 진주시 진주대로1108번길 10  (평안동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-03"
+    },
+    {
+      "name": "동백슈퍼",
+      "address": "경상남도 진주시 상평동 196-119",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-21"
+    },
+    {
+      "name": "홈마트할인매장망경점",
+      "address": "경상남도 진주시 망경동 34-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-27"
+    },
+    {
+      "name": "삼합전기건재철물",
+      "address": "경상남도 진주시 평거동 781-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-28"
+    },
+    {
+      "name": "파크마트",
+      "address": "경상남도 진주시 본성동 8-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-29"
+    },
+    {
+      "name": "백마상회",
+      "address": "경상남도 진주시 가좌동 1441-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-14"
+    },
+    {
+      "name": "동성슈퍼마켓",
+      "address": "경상남도 진주시 강남동 219",
+      "roadAddress": "경상남도 진주시 진주대로 901  (강남동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-15"
+    },
+    {
+      "name": "석류상회",
+      "address": "경상남도 진주시 가좌동 766-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-25"
+    },
+    {
+      "name": "세원문구",
+      "address": "경상남도 진주시 평거동 759-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-26"
+    },
+    {
+      "name": "(주)부산근대화체인직영진주",
+      "address": "경상남도 진주시 칠암동 486-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-24"
+    },
+    {
+      "name": "21세기편의점",
+      "address": "경상남도 진주시 망경동 109-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-25"
+    },
+    {
+      "name": "일신편의점",
+      "address": "경상남도 진주시 상봉동 839-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-26"
+    },
+    {
+      "name": "집현현대마트",
+      "address": "경상남도 진주시 집현면 봉강리 현대아파트 상가 1동 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-28"
+    },
+    {
+      "name": "남진슈퍼",
+      "address": "경상남도 진주시 호탄동 623-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-04"
+    },
+    {
+      "name": "진솔마트",
+      "address": "경상남도 진주시 집현면 봉강리 249 현대아파트 상가 1동 지하5호",
+      "roadAddress": "경상남도 진주시 집현면 진산로 675, 1동 지하5호 (현대아파트 상가)",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-04"
+    },
+    {
+      "name": "미니스토아",
+      "address": "경상남도 진주시 신안동 469-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-04"
+    },
+    {
+      "name": "M마트",
+      "address": "경상남도 진주시 상대동 307-62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-08"
+    },
+    {
+      "name": "(사)중앙지하상가 번영회",
+      "address": "경상남도 진주시 대안동 21",
+      "roadAddress": "경상남도 진주시 진주대로 지하 1035  (대안동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-14"
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "경상남도 진주시 하대동 585-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-18"
+    },
+    {
+      "name": "초전편의점",
+      "address": "경상남도 진주시 초전동 801-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-12"
+    },
+    {
+      "name": "가호슈퍼",
+      "address": "경상남도 진주시 가좌동 683 주공상가",
+      "roadAddress": "경상남도 진주시 동부로43번길 15  (가좌동,주공상가)",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-11"
+    },
+    {
+      "name": "귀빈슈퍼",
+      "address": "경상남도 진주시 칠암동 496-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-12"
+    },
+    {
+      "name": "훼미리마트 들말점",
+      "address": "경상남도 진주시 평거동 758-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-20"
+    },
+    {
+      "name": "굿 24시 편의점",
+      "address": "경상남도 진주시 칠암동 381-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-24"
+    },
+    {
+      "name": "가호할인마트",
+      "address": "경상남도 진주시 호탄동 624-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-27"
+    },
+    {
+      "name": "담배(소매)점",
+      "address": "경상남도 진주시 망경동 520-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-04"
+    },
+    {
+      "name": "(주)부산근대화체인직영진주",
+      "address": "경상남도 진주시 칠암동 486-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-04"
+    },
+    {
+      "name": "미니체인",
+      "address": "경상남도 진주시 망경동 25-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-02"
+    },
+    {
+      "name": "아름상회",
+      "address": "경상남도 진주시 신안동 11-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-08"
+    },
+    {
+      "name": "현대할인마트",
+      "address": "경상남도 진주시 주약동 360 현대아파트 상가 1동 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-09"
+    },
+    {
+      "name": "경남슈퍼",
+      "address": "경상남도 진주시 망경동 81-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-12"
+    },
+    {
+      "name": "명신마트",
+      "address": "경상남도 진주시 평거동 191-1 들말흥한상가 1동 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-19"
+    },
+    {
+      "name": "백조슈퍼 24시",
+      "address": "경상남도 진주시 동성동 13-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-19"
+    },
+    {
+      "name": "산수상회",
+      "address": "경상남도 진주시 옥봉동 148-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-20"
+    },
+    {
+      "name": "민지슈퍼",
+      "address": "경상남도 진주시 장대동 102-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-20"
+    },
+    {
+      "name": "들말마트 24시",
+      "address": "경상남도 진주시 평거동 784-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-22"
+    },
+    {
+      "name": "흥한할인마트",
+      "address": "경상남도 진주시 호탄동 615-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-22"
+    },
+    {
+      "name": "훼미리마트진주도동점",
+      "address": "경상남도 진주시 상대동 300-110",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-26"
+    },
+    {
+      "name": "멕시카나치킨",
+      "address": "경상남도 진주시 상봉동 1019-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-04"
+    },
+    {
+      "name": "진영슈퍼",
+      "address": "경상남도 진주시 가좌동 1442-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-18"
+    },
+    {
+      "name": "(주)초원식품",
+      "address": "경상남도 진주시 장재동 75",
+      "roadAddress": "경상남도 진주시 대신로 642-42  (장재동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-10"
+    },
+    {
+      "name": "진주의료원 구내매점",
+      "address": "경상남도 진주시 중안동 4",
+      "roadAddress": "경상남도 진주시 촉석로 178  (중안동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-13"
+    },
+    {
+      "name": "내고향부식",
+      "address": "경상남도 진주시 평거동 743-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-14"
+    },
+    {
+      "name": "LG24시 편의점",
+      "address": "경상남도 진주시 가좌동 1442-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-23"
+    },
+    {
+      "name": "대경청과",
+      "address": "경상남도 진주시 호탄동 602-1 대경빌라트 112동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-05"
+    },
+    {
+      "name": "웅이연쇄점",
+      "address": "경상남도 진주시 상대동 288-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-14"
+    },
+    {
+      "name": "대성상회",
+      "address": "경상남도 진주시 강남동 94",
+      "roadAddress": "경상남도 진주시 강남로291번길 8  (강남동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-14"
+    },
+    {
+      "name": "신진철물건재",
+      "address": "경상남도 진주시 하대동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-19"
+    },
+    {
+      "name": "흥한스토아",
+      "address": "경상남도 진주시 신안동 454-4 신안흥한2차 1동 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-02"
+    },
+    {
+      "name": "칠암한주할인마트",
+      "address": "경상남도 진주시 칠암동 78-101 한주아파트 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-11"
+    },
+    {
+      "name": "사계절슈퍼",
+      "address": "경상남도 진주시 강남동 45",
+      "roadAddress": "경상남도 진주시 진주대로985번길 2  (강남동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-16"
+    },
+    {
+      "name": "신안슈퍼",
+      "address": "경상남도 진주시 망경동 240-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-26"
+    },
+    {
+      "name": "강남할인마트",
+      "address": "경상남도 진주시 상평동 219-74",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-26"
+    },
+    {
+      "name": "동명슈퍼",
+      "address": "경상남도 진주시 상대동 249-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-07"
+    },
+    {
+      "name": "영화슈퍼",
+      "address": "경상남도 진주시 망경동 22-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-16"
+    },
+    {
+      "name": "훼미리마트진주동성점",
+      "address": "경상남도 진주시 동성동 4-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-07"
+    },
+    {
+      "name": "가람스토아",
+      "address": "경상남도 진주시 상평동 275-91",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-07"
+    },
+    {
+      "name": "신안슈퍼",
+      "address": "경상남도 진주시 신안동 455-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동언마트",
+      "address": "경상남도 진주시 망경동 21-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-15"
+    },
+    {
+      "name": "흥한마트",
+      "address": "경상남도 진주시 상대동 307-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-14"
+    },
+    {
+      "name": "나라매점",
+      "address": "경상남도 진주시 주약동 105-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-08"
+    },
+    {
+      "name": "후문편의점",
+      "address": "경상남도 진주시 봉래동 17-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-15"
+    },
+    {
+      "name": "남산할인마트",
+      "address": "경상남도 진주시 일반성면 창촌리 84-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-02"
+    },
+    {
+      "name": "닐마트",
+      "address": "경상남도 진주시 상봉동 806-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-19"
+    },
+    {
+      "name": "LG25진주상봉점",
+      "address": "경상남도 진주시 상봉동 1091-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-19"
+    },
+    {
+      "name": "금호마트",
+      "address": "경상남도 진주시 주약동 407-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-15"
+    },
+    {
+      "name": "훼미리마트경상대점",
+      "address": "경상남도 진주시 가좌동 1436-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-22"
+    },
+    {
+      "name": "훼미리마트평거점",
+      "address": "경상남도 진주시 평거동 200-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-26"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "경상남도 진주시 하대동 103-118",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-02"
+    },
+    {
+      "name": "AMPM마트",
+      "address": "경상남도 진주시 평거동 773-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-13"
+    },
+    {
+      "name": "푸른숲마트",
+      "address": "경상남도 진주시 상대동 281-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-18"
+    },
+    {
+      "name": "(주)신세계이마트부문진주점",
+      "address": "경상남도 진주시 인사동 3",
+      "roadAddress": "경상남도 진주시 진양호로 477  (인사동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "준24시편의점",
+      "address": "경상남도 진주시 이현동 13-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-09"
+    },
+    {
+      "name": "동진슈퍼",
+      "address": "경상남도 진주시 상대동 198-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-09"
+    },
+    {
+      "name": "굿모닝마트",
+      "address": "경상남도 진주시 신안동 19-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-14"
+    },
+    {
+      "name": "신용슈퍼",
+      "address": "경상남도 진주시 상평동 198-123",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-15"
+    },
+    {
+      "name": "통큰마트수라반찬",
+      "address": "경상남도 진주시 봉곡동 478-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-16"
+    },
+    {
+      "name": "한누리유통금산점",
+      "address": "경상남도 진주시 금산면 장사리 987-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-16"
+    },
+    {
+      "name": "부일전기철물공사",
+      "address": "경상남도 진주시 신안동 754-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-24"
+    },
+    {
+      "name": "제일잡화",
+      "address": "경상남도 진주시 동성동 9-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-24"
+    },
+    {
+      "name": "홈마트망경점",
+      "address": "경상남도 진주시 망경동 34-3",
+      "roadAddress": "경상남도 진주시 망경로 279  (망경동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-21"
+    },
+    {
+      "name": "한누리유통참마트 한주점",
+      "address": "경상남도 진주시 상봉동 1098-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-10"
+    },
+    {
+      "name": "우리마트",
+      "address": "경상남도 진주시 신안동 705-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-21"
+    },
+    {
+      "name": "동성마트",
+      "address": "경상남도 진주시 강남동 219",
+      "roadAddress": "경상남도 진주시 진주대로 901  (강남동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-01"
+    },
+    {
+      "name": "탑플러스마트",
+      "address": "경상남도 진주시 금산면 장사리 1078",
+      "roadAddress": "경상남도 진주시 금산면 덕의길 24",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-26"
+    },
+    {
+      "name": "망경할인마트",
+      "address": "경상남도 진주시 망경동 66-4",
+      "roadAddress": "경상남도 진주시 망경남길 64-1  (망경동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-28"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "경상남도 진주시 상대동 280-38",
+      "roadAddress": "경상남도 진주시 모덕로96번길 7  (상대동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-28"
+    },
+    {
+      "name": "수빈마트",
+      "address": "경상남도 진주시 상대동 529-2",
+      "roadAddress": "경상남도 진주시 모덕로127번길 20-1  (상대동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-29"
+    },
+    {
+      "name": "대림슈퍼",
+      "address": "경상남도 진주시 상대동 300-84",
+      "roadAddress": "경상남도 진주시 돗골로 121  (상대동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-28"
+    },
+    {
+      "name": "동네가게",
+      "address": "경상남도 진주시 평거동 164-21",
+      "roadAddress": "경상남도 진주시 진양호로253번길 12  (평거동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-04"
+    },
+    {
+      "name": "태화상회",
+      "address": "경상남도 진주시 인사동 10-11",
+      "roadAddress": "경상남도 진주시 진주성로27번길 12-1  (인사동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-04"
+    },
+    {
+      "name": "GS25하대동지점",
+      "address": "경상남도 진주시 하대동 126-8",
+      "roadAddress": "경상남도 진주시 도동로 186  (하대동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-10"
+    },
+    {
+      "name": "가은상사",
+      "address": "경상남도 진주시 평거동 744-10",
+      "roadAddress": "경상남도 진주시 진양호로97번길 7-5  (평거동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-12"
+    },
+    {
+      "name": "큐편의점",
+      "address": "경상남도 진주시 봉곡동 489-22",
+      "roadAddress": "경상남도 진주시 진주대로 1228  (봉곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-12"
+    },
+    {
+      "name": "성신슈퍼",
+      "address": "경상남도 진주시 상봉동 584-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-12"
+    },
+    {
+      "name": "플러스마트현대점",
+      "address": "경상남도 진주시 신안동 461-11",
+      "roadAddress": "경상남도 진주시 평거로115번길 4  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-16"
+    },
+    {
+      "name": "세운주택관리",
+      "address": "경상남도 진주시 상평동 237-5",
+      "roadAddress": "경상남도 진주시 남강로 1059-6  (상평동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-25"
+    },
+    {
+      "name": "하와이마트",
+      "address": "경상남도 진주시 문산읍 소문리 123-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-19"
+    },
+    {
+      "name": "모드니마트",
+      "address": "경상남도 진주시 평거동 300-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-26"
+    },
+    {
+      "name": "조은마트",
+      "address": "경상남도 진주시 하대동 118-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-28"
+    },
+    {
+      "name": "서진주상회",
+      "address": "경상남도 진주시 인사동 6-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-24"
+    },
+    {
+      "name": "AMPM마트",
+      "address": "경상남도 진주시 상대동 309-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-28"
+    },
+    {
+      "name": "울트라마트",
+      "address": "경상남도 진주시 신안동 796",
+      "roadAddress": "경상남도 진주시 석갑로 83  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-14"
+    },
+    {
+      "name": "만물상회",
+      "address": "경상남도 진주시 하대동 343-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-06"
+    },
+    {
+      "name": "동성슈퍼마켙",
+      "address": "경상남도 진주시 강남동 195-1",
+      "roadAddress": "경상남도 진주시 진주대로929번길 4  (강남동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-20"
+    },
+    {
+      "name": "휴게소",
+      "address": "경상남도 진주시 계동 37",
+      "roadAddress": "경상남도 진주시 진주대로 1114  (계동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-12"
+    },
+    {
+      "name": "우리마트",
+      "address": "경상남도 진주시 호탄동 578-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-14"
+    },
+    {
+      "name": "빅마트",
+      "address": "경상남도 진주시 하대동 106-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-14"
+    },
+    {
+      "name": "바보24시",
+      "address": "경상남도 진주시 강남동 197",
+      "roadAddress": "경상남도 진주시 진주대로 925  (강남동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-15"
+    },
+    {
+      "name": "CM마트",
+      "address": "경상남도 진주시 하대동 305-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-16"
+    },
+    {
+      "name": "공군교육사령부",
+      "address": "경상남도 진주시 금산면 송백리 34-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-21"
+    },
+    {
+      "name": "한주할인마트",
+      "address": "경상남도 진주시 상평동 270-116",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-27"
+    },
+    {
+      "name": "울트라마트대동점",
+      "address": "경상남도 진주시 호탄동 579-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-30"
+    },
+    {
+      "name": "하나로유통",
+      "address": "경상남도 진주시 옥봉동 370-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-05"
+    },
+    {
+      "name": "영남연쇄점",
+      "address": "경상남도 진주시 금곡면 두문리 648-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-05"
+    },
+    {
+      "name": "현대유통",
+      "address": "경상남도 진주시 신안동 454-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-24"
+    },
+    {
+      "name": "농협하나로마트",
+      "address": "경상남도 진주시 평거동 193-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-18"
+    },
+    {
+      "name": "원마트",
+      "address": "경상남도 진주시 하대동 75-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-30"
+    },
+    {
+      "name": "지오편의점",
+      "address": "경상남도 진주시 초전동 688-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-04"
+    },
+    {
+      "name": "다모아슈퍼",
+      "address": "경상남도 진주시 신안동 2-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-05"
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "경상남도 진주시 대곡면 광석리 307-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-08"
+    },
+    {
+      "name": "강남슈퍼",
+      "address": "경상남도 진주시 망경동 122-15",
+      "roadAddress": "경상남도 진주시 강남로 341  (망경동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-06"
+    },
+    {
+      "name": "LG25상대점",
+      "address": "경상남도 진주시 상대동 302-60",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-01"
+    },
+    {
+      "name": "봉곡24시편의점",
+      "address": "경상남도 진주시 봉곡동 472-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-05"
+    },
+    {
+      "name": "본전상회",
+      "address": "경상남도 진주시 내동면 내평리 87-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-08"
+    },
+    {
+      "name": "삼전부식",
+      "address": "경상남도 진주시 하대동 331-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-12"
+    },
+    {
+      "name": "훼미리마트(평거2호)",
+      "address": "경상남도 진주시 평거동 202-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-13"
+    },
+    {
+      "name": "서부할인마트",
+      "address": "경상남도 진주시 평거동 727-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-14"
+    },
+    {
+      "name": "동백상회",
+      "address": "경상남도 진주시 상봉동 1007-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-20"
+    },
+    {
+      "name": "기물상회",
+      "address": "경상남도 진주시 일반성면 창촌리 637",
+      "roadAddress": "경상남도 진주시 일반성면 동부로1993번길 17-1",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-23"
+    },
+    {
+      "name": "경호슈퍼",
+      "address": "경상남도 진주시 상평동 216-51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-25"
+    },
+    {
+      "name": "MPM마트",
+      "address": "경상남도 진주시 평거동 191-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-28"
+    },
+    {
+      "name": "진양슈퍼",
+      "address": "경상남도 진주시 가좌동 1432-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-09-18"
+    },
+    {
+      "name": "구멍가게",
+      "address": "경상남도 진주시 주약동 141-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-09-19"
+    },
+    {
+      "name": "삼계슈퍼",
+      "address": "경상남도 진주시 내동면 삼계리 919-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-09-24"
+    },
+    {
+      "name": "대경슈퍼",
+      "address": "경상남도 진주시 평거동 136-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-04"
+    },
+    {
+      "name": "줄줄이마트",
+      "address": "경상남도 진주시 금산면 장사리 963-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-14"
+    },
+    {
+      "name": "화이트편의점 24시",
+      "address": "경상남도 진주시 수정동 24-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-27"
+    },
+    {
+      "name": "레이디24시편의점",
+      "address": "경상남도 진주시 인사동 120-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-30"
+    },
+    {
+      "name": "다정슈퍼",
+      "address": "경상남도 진주시 하대동 344-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-04"
+    },
+    {
+      "name": "대학슈퍼",
+      "address": "경상남도 진주시 상봉동 1105-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-04"
+    },
+    {
+      "name": "울트라마트가호점",
+      "address": "경상남도 진주시 호탄동 579-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-11"
+    },
+    {
+      "name": "오렌지마트",
+      "address": "경상남도 진주시 강남동 130-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-17"
+    },
+    {
+      "name": "호탄할인마트",
+      "address": "경상남도 진주시 호탄동 636-5",
+      "roadAddress": "경상남도 진주시 호탄길22번길 3  (호탄동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-25"
+    },
+    {
+      "name": "정아슈퍼",
+      "address": "경상남도 진주시 상봉동 834-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-01"
+    },
+    {
+      "name": "KC마트이현점",
+      "address": "경상남도 진주시 이현동 21-3",
+      "roadAddress": "경상남도 진주시 신안로 165  (이현동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-17"
+    },
+    {
+      "name": "365DC문구마트",
+      "address": "경상남도 진주시 상대동 301-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-12"
+    },
+    {
+      "name": "LG25진주장대점",
+      "address": "경상남도 진주시 장대동 106-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-16"
+    },
+    {
+      "name": "(주)서원유통 탑마트 주약점",
+      "address": "경상남도 진주시 주약동 776-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-19"
+    },
+    {
+      "name": "호탄할인마트",
+      "address": "경상남도 진주시 호탄동 636-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호탄할인마트",
+      "address": "경상남도 진주시 호탄동 636-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼전슈퍼",
+      "address": "경상남도 진주시 봉래동 38-143",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-03"
+    },
+    {
+      "name": "LG25진주호탄점",
+      "address": "경상남도 진주시 호탄동 611-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-03"
+    },
+    {
+      "name": "현대할인마트",
+      "address": "경상남도 진주시 상대동 486",
+      "roadAddress": "경상남도 진주시 모덕로 183  (상대동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-03"
+    },
+    {
+      "name": "조은할인마트",
+      "address": "경상남도 진주시 신안동 708-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-03"
+    },
+    {
+      "name": "미래24시",
+      "address": "경상남도 진주시 유곡동 79-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-05"
+    },
+    {
+      "name": "오렌지마트",
+      "address": "경상남도 진주시 상대동 615-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-06"
+    },
+    {
+      "name": "도원슈퍼",
+      "address": "경상남도 진주시 상봉동 855-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-07"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경상남도 진주시 상평동 198-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-13"
+    },
+    {
+      "name": "평화마트",
+      "address": "경상남도 진주시 이현동 9-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-13"
+    },
+    {
+      "name": "상대할인마트",
+      "address": "경상남도 진주시 상대동 248-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-15"
+    },
+    {
+      "name": "보람휴게마트",
+      "address": "경상남도 진주시 칠암동 503-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-26"
+    },
+    {
+      "name": "지수마트",
+      "address": "경상남도 진주시 지수면 승산리 442-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-09"
+    },
+    {
+      "name": "사봉상회",
+      "address": "경상남도 진주시 사봉면 사곡리 1002",
+      "roadAddress": "경상남도 진주시 사봉면 사군로 91",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-09"
+    },
+    {
+      "name": "훼미리마트진주초전점",
+      "address": "경상남도 진주시 초전동 803-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-10"
+    },
+    {
+      "name": "칠암상회",
+      "address": "경상남도 진주시 강남동 7-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-10"
+    },
+    {
+      "name": "엘지25진주본성점",
+      "address": "경상남도 진주시 본성동 1-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-24"
+    },
+    {
+      "name": "(주)엘지통신진주마레제",
+      "address": "경상남도 진주시 평안동 195",
+      "roadAddress": "경상남도 진주시 진주대로 1095  (평안동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-26"
+    },
+    {
+      "name": "록키슈퍼",
+      "address": "경상남도 진주시 평거동 755-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-05"
+    },
+    {
+      "name": "신안 25",
+      "address": "경상남도 진주시 신안동 10-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-05"
+    },
+    {
+      "name": "한스마트신안점",
+      "address": "경상남도 진주시 신안동 447-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-08"
+    },
+    {
+      "name": "에이플러스유통",
+      "address": "경상남도 진주시 하대동 348-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-17"
+    },
+    {
+      "name": "나동상회",
+      "address": "경상남도 진주시 내동면 삼계리 806",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-01"
+    },
+    {
+      "name": "훼미리마트진주금산점",
+      "address": "경상남도 진주시 금산면 장사리 962-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-01"
+    },
+    {
+      "name": "마트뱅크",
+      "address": "경상남도 진주시 하대동 75-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-13"
+    },
+    {
+      "name": "k.c마트",
+      "address": "경상남도 진주시 금산면 중천리 333-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-16"
+    },
+    {
+      "name": "마트뱅크",
+      "address": "경상남도 진주시 가좌동 639-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-16"
+    },
+    {
+      "name": "명신할인마트",
+      "address": "경상남도 진주시 평거동 191-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-21"
+    },
+    {
+      "name": "모닝마트",
+      "address": "경상남도 진주시 신안동 431-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-21"
+    },
+    {
+      "name": "보현슈퍼",
+      "address": "경상남도 진주시 하대동 72",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-26"
+    },
+    {
+      "name": "태공고추방앗간",
+      "address": "경상남도 진주시 인사동 178-53",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-26"
+    },
+    {
+      "name": "엘리트할인마트",
+      "address": "경상남도 진주시 하대동 135-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-26"
+    },
+    {
+      "name": "리더마트",
+      "address": "경상남도 진주시 상봉동 923-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-28"
+    },
+    {
+      "name": "서울상회",
+      "address": "경상남도 진주시 상봉동 800-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-28"
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "경상남도 진주시 판문동 312-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-28"
+    },
+    {
+      "name": "모닝마트",
+      "address": "경상남도 진주시 하대동 112-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-28"
+    },
+    {
+      "name": "거목",
+      "address": "경상남도 진주시 평거동 301-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-03"
+    },
+    {
+      "name": "경남상회",
+      "address": "경상남도 진주시 칠암동 211-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-03"
+    },
+    {
+      "name": "LG25진주한보점",
+      "address": "경상남도 진주시 평거동 191-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-11"
+    },
+    {
+      "name": "모드니마트",
+      "address": "경상남도 진주시 신안동 461-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-13"
+    },
+    {
+      "name": "판문슈퍼",
+      "address": "경상남도 진주시 판문동 256-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-21"
+    },
+    {
+      "name": "재화꽃집",
+      "address": "경상남도 진주시 수정동 17-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-28"
+    },
+    {
+      "name": "동성슈퍼마켓",
+      "address": "경상남도 진주시 강남동 195-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-20"
+    },
+    {
+      "name": "하이마트 21",
+      "address": "경상남도 진주시 이현동 14-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-02"
+    },
+    {
+      "name": "성지24시",
+      "address": "경상남도 진주시 봉곡동 12-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-04"
+    },
+    {
+      "name": "금진산업",
+      "address": "경상남도 진주시 장대동 106-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-08"
+    },
+    {
+      "name": "상봉할인마트",
+      "address": "경상남도 진주시 상봉동 1450-42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-10"
+    },
+    {
+      "name": "남한슈퍼",
+      "address": "경상남도 진주시 칠암동 491-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-11"
+    },
+    {
+      "name": "현대마트",
+      "address": "경상남도 진주시 봉곡동 20-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-14"
+    },
+    {
+      "name": "자유할인마트",
+      "address": "경상남도 진주시 하대동 319-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-16"
+    },
+    {
+      "name": "수곡농협 원당지소",
+      "address": "경상남도 진주시 수곡면 원내리 341-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-17"
+    },
+    {
+      "name": "수곡농협",
+      "address": "경상남도 진주시 수곡면 대천리 117-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-17"
+    },
+    {
+      "name": "행복할인마트",
+      "address": "경상남도 진주시 상봉동 1074-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-22"
+    },
+    {
+      "name": "동양마트",
+      "address": "경상남도 진주시 장대동 99-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-28"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경상남도 진주시 이현동 240",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-01"
+    },
+    {
+      "name": "대아편의점",
+      "address": "경상남도 진주시 인사동 143-126",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-01"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "경상남도 진주시 봉래동 88-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-01"
+    },
+    {
+      "name": "오복슈퍼",
+      "address": "경상남도 진주시 강남동 113-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-09"
+    },
+    {
+      "name": "LG25진주개양점",
+      "address": "경상남도 진주시 가좌동 639-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-13"
+    },
+    {
+      "name": "하와이스토아",
+      "address": "경상남도 진주시 일반성면 창촌리 81-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-13"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "경상남도 진주시 하대동 108-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-19"
+    },
+    {
+      "name": "한솔할인마트",
+      "address": "경상남도 진주시 상대동 290-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-21"
+    },
+    {
+      "name": "은빛마을할인마트",
+      "address": "경상남도 진주시 주약동 360-2 한보은빛마을상가103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-02"
+    },
+    {
+      "name": "월아상회",
+      "address": "경상남도 진주시 진성면 동산리 496-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-10"
+    },
+    {
+      "name": "도매유통벽산동신점",
+      "address": "경상남도 진주시 평거동 397-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-18"
+    },
+    {
+      "name": "한영할인마트",
+      "address": "경상남도 진주시 호탄동 620-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-18"
+    },
+    {
+      "name": "이현슈퍼",
+      "address": "경상남도 진주시 이현동 24-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-18"
+    },
+    {
+      "name": "현대플러스마트",
+      "address": "경상남도 진주시 금산면 장사리 765-1    현대아이파크상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-25"
+    },
+    {
+      "name": "삼현슈퍼",
+      "address": "경상남도 진주시 상평동 216-113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-25"
+    },
+    {
+      "name": "화진할인마트",
+      "address": "경상남도 진주시 문산읍 삼곡리 1350-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-30"
+    },
+    {
+      "name": "임마누예",
+      "address": "경상남도 진주시 금산면 속사리 436-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-30"
+    },
+    {
+      "name": "공단매점",
+      "address": "경상남도 진주시 상대동 312-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-01"
+    },
+    {
+      "name": "와와 109",
+      "address": "경상남도 진주시 평거동 759-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-06"
+    },
+    {
+      "name": "명신할인마트",
+      "address": "경상남도 진주시 금산면 장사리 963-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-24"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "경상남도 진주시 평안동 201",
+      "roadAddress": "경상남도 진주시 진주대로1079번길 4  (평안동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-01"
+    },
+    {
+      "name": "훼미리마트계동점",
+      "address": "경상남도 진주시 평안동 210",
+      "roadAddress": "경상남도 진주시 촉석로185번길 12-1  (평안동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-08"
+    },
+    {
+      "name": "현대dc마트",
+      "address": "경상남도 진주시 하대동 101 하대현대상가 b-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-21"
+    },
+    {
+      "name": "행복연쇄점",
+      "address": "경상남도 진주시 장대동 3-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-21"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경상남도 진주시 망경동 25-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-25"
+    },
+    {
+      "name": "한진슈퍼",
+      "address": "경상남도 진주시 상대동 289-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-25"
+    },
+    {
+      "name": "훼미리마트미래점",
+      "address": "경상남도 진주시 강남동 180",
+      "roadAddress": "경상남도 진주시 진주대로943번길 3  (강남동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-01"
+    },
+    {
+      "name": "남해슈퍼",
+      "address": "경상남도 진주시 본성동 18-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-08"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "경상남도 진주시 신안동 443-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-08"
+    },
+    {
+      "name": "협진슈퍼",
+      "address": "경상남도 진주시 장대동 107-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-12"
+    },
+    {
+      "name": "신안할인마트",
+      "address": "경상남도 진주시 신안동 5-84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-17"
+    },
+    {
+      "name": "우리마트금산점",
+      "address": "경상남도 진주시 금산면 장사리 953-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-03"
+    },
+    {
+      "name": "썬-마트",
+      "address": "경상남도 진주시 초전동 834-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-22"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "경상남도 진주시 평안동 210",
+      "roadAddress": "경상남도 진주시 촉석로185번길 12-1  (평안동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-18"
+    },
+    {
+      "name": "진주할인마트 24시",
+      "address": "경상남도 진주시 칠암동 488-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-04"
+    },
+    {
+      "name": "동성동 13-4",
+      "address": "경상남도 진주시 동성동 13-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-04"
+    },
+    {
+      "name": "털보네연쇄점",
+      "address": "경상남도 진주시 칠암동 491-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-06"
+    },
+    {
+      "name": "흥한할인마트",
+      "address": "경상남도 진주시 금산면 장사리 225-1    금산흥한임대 상가1층108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-06"
+    },
+    {
+      "name": "금호슈퍼",
+      "address": "경상남도 진주시 금산면 중천리 2-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-06"
+    },
+    {
+      "name": "봉곡동 467-3",
+      "address": "경상남도 진주시 봉곡동 467-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-13"
+    },
+    {
+      "name": "대도슈퍼",
+      "address": "경상남도 진주시 평거동 727-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-17"
+    },
+    {
+      "name": "제일통신",
+      "address": "경상남도 진주시 중안동 13-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-21"
+    },
+    {
+      "name": "세븐스토아",
+      "address": "경상남도 진주시 신안동 32-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-25"
+    },
+    {
+      "name": "대림슈퍼",
+      "address": "경상남도 진주시 하대동 100 하대대림아파트상가1,2호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-02-16"
+    },
+    {
+      "name": "비봉자전거",
+      "address": "경상남도 진주시 평안동 65-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-03"
+    },
+    {
+      "name": "플러스마트",
+      "address": "경상남도 진주시 칠암동 507-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-03"
+    },
+    {
+      "name": "june25",
+      "address": "경상남도 진주시 수정동 15-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "촉석마트",
+      "address": "경상남도 진주시 상평동 219-91",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-14"
+    },
+    {
+      "name": "썬마트",
+      "address": "경상남도 진주시 옥봉동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-14"
+    },
+    {
+      "name": "굿모닝마트",
+      "address": "경상남도 진주시 상평동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-14"
+    },
+    {
+      "name": "훼미리마트 진주계동점",
+      "address": "경상남도 진주시 평안동 210",
+      "roadAddress": "경상남도 진주시 촉석로185번길 12-1  (평안동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-18"
+    },
+    {
+      "name": "(주)신세계이마트진주점",
+      "address": "경상남도 진주시 인사동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남산할인마트",
+      "address": "경상남도 진주시 일반성면 창촌리 84-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-02"
+    },
+    {
+      "name": "(주)지에스리테일",
+      "address": "경상남도 진주시 상대동 197",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-02"
+    },
+    {
+      "name": "(주)지에스리테일",
+      "address": "경상남도 진주시 상대동 197",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-02"
+    },
+    {
+      "name": "(주)지에스리테일 진주평거점",
+      "address": "경상남도 진주시 평거동 204-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "경상남도 진주시 문산읍 소문리 816-2 한양빌라 나동 1~3호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-07"
+    },
+    {
+      "name": "대흥상회",
+      "address": "경상남도 진주시 본성동 15-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-15"
+    },
+    {
+      "name": "파워할인유통",
+      "address": "경상남도 진주시 상평동 196-16 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-19"
+    },
+    {
+      "name": "협진슈퍼",
+      "address": "경상남도 진주시 장대동 107-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-21"
+    },
+    {
+      "name": "달동네슈퍼",
+      "address": "경상남도 진주시 상봉동 1106-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-22"
+    },
+    {
+      "name": "GS25신안주공점",
+      "address": "경상남도 진주시 신안동 707-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-29"
+    },
+    {
+      "name": "대영철물 농자재상사",
+      "address": "경상남도 진주시 문산읍 삼곡리 1182-178",
+      "roadAddress": "경상남도 진주시 문산읍 월아산로 1051",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-30"
+    },
+    {
+      "name": "훼미리마트 진주호탄점",
+      "address": "경상남도 진주시 호탄동 606-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-02"
+    },
+    {
+      "name": "킹스D.C클럽",
+      "address": "경상남도 진주시 금곡면 두문리 599-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-09"
+    },
+    {
+      "name": "홀-세일마트",
+      "address": "경상남도 진주시 봉곡동 445-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-12"
+    },
+    {
+      "name": "플러스할인마트",
+      "address": "경상남도 진주시 하대동 138-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-25"
+    },
+    {
+      "name": "GS25 진주칠암점",
+      "address": "경상남도 진주시 칠암동 448",
+      "roadAddress": "경상남도 진주시 동진로 29  (칠암동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-01"
+    },
+    {
+      "name": "GS25 진주상평점",
+      "address": "경상남도 진주시 상평동 219-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-18"
+    },
+    {
+      "name": "오렌지마트",
+      "address": "경상남도 진주시 신안동 455-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-18"
+    },
+    {
+      "name": "오렌지마트",
+      "address": "경상남도 진주시 신안동 455-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강주슈퍼",
+      "address": "경상남도 진주시 정촌면 예하리 909-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-21"
+    },
+    {
+      "name": "진양농협하나로마트",
+      "address": "경상남도 진주시 일반성면 창촌리 728-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-22"
+    },
+    {
+      "name": "영진상사",
+      "address": "경상남도 진주시 금산면 장사리 765-1 현대아이파크상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데슈퍼",
+      "address": "경상남도 진주시 하대동 114-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린편의점",
+      "address": "경상남도 진주시 문산읍 상문리 69-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영진할인마트",
+      "address": "경상남도 진주시 남성동 281-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25 진주주약점",
+      "address": "경상남도 진주시 주약동 156-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-19"
+    },
+    {
+      "name": "놀이터슈퍼",
+      "address": "경상남도 진주시 상평동 206-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-19"
+    },
+    {
+      "name": "A+할인마트",
+      "address": "경상남도 진주시 하대동 348-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-26"
+    },
+    {
+      "name": "GS25진주자유점",
+      "address": "경상남도 진주시 상대동 247-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-28"
+    },
+    {
+      "name": "탑플러스마트",
+      "address": "경상남도 진주시 옥봉동 187-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-03"
+    },
+    {
+      "name": "훼미리마트 진주하대점",
+      "address": "경상남도 진주시 하대동 322-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-04"
+    },
+    {
+      "name": "아랫들마트",
+      "address": "경상남도 진주시 상평동 311-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-05"
+    },
+    {
+      "name": "행복마트",
+      "address": "경상남도 진주시 상대동 247-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-05"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "경상남도 진주시 신안동 442-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-11"
+    },
+    {
+      "name": "플러스마트 인사점",
+      "address": "경상남도 진주시 인사동 112-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-17"
+    },
+    {
+      "name": "세원상회",
+      "address": "경상남도 진주시 상평동 207-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-22"
+    },
+    {
+      "name": "다인슈퍼",
+      "address": "경상남도 진주시 장대동 93-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-26"
+    },
+    {
+      "name": "봉래할인마트",
+      "address": "경상남도 진주시 봉래동 88-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-26"
+    },
+    {
+      "name": "봉래할인마트",
+      "address": "경상남도 진주시 봉래동 88-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대림스토아",
+      "address": "경상남도 진주시 초전동 702-22 대림아파트  상가동 201호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-26"
+    },
+    {
+      "name": "훼미리마트진주동문점",
+      "address": "경상남도 진주시 강남동 127",
+      "roadAddress": "경상남도 진주시 망경로298번길 4  (강남동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-09-02"
+    },
+    {
+      "name": "OK마트",
+      "address": "경상남도 진주시 강남동 298",
+      "roadAddress": "경상남도 진주시 진주대로941번길 11  (강남동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-09-06"
+    },
+    {
+      "name": "스타 편의점",
+      "address": "경상남도 진주시 대안동 17-11 지하전체 및 1층 일부",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-09-06"
+    },
+    {
+      "name": "OK슈퍼마켓",
+      "address": "경상남도 진주시 하대동 343-113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-09-07"
+    },
+    {
+      "name": "해피마트",
+      "address": "경상남도 진주시 가좌동 (2)택지개발내 3BL 주공아파트상가 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-09-13"
+    },
+    {
+      "name": "진주시청 균형개발과",
+      "address": "경상남도 진주시 상대동 284",
+      "roadAddress": "경상남도 진주시 동진로 155 (상대동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-09-13"
+    },
+    {
+      "name": "현대할인마트",
+      "address": "경상남도 진주시 초전동 823-2 현대아파트상가 1층 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-09-20"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "경상남도 진주시 인사동 144-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-09-21"
+    },
+    {
+      "name": "그린편의점",
+      "address": "경상남도 진주시 문산읍 상문리 69-3 그린빌라 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대할인마트",
+      "address": "경상남도 진주시 상대동 486,487",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-10-21"
+    },
+    {
+      "name": "크로바할인마트",
+      "address": "경상남도 진주시 망경동 95-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-10-26"
+    },
+    {
+      "name": "크로바할인마트",
+      "address": "경상남도 진주시 망경동 95-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "국제24시편의점",
+      "address": "경상남도 진주시 봉곡동 485-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-10-27"
+    },
+    {
+      "name": "성남마트",
+      "address": "경상남도 진주시 동성동 14-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-10-27"
+    },
+    {
+      "name": "모모편의마트",
+      "address": "경상남도 진주시 칠암동 520-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-02"
+    },
+    {
+      "name": "훼미리마트 진주평거점",
+      "address": "경상남도 진주시 평거동 200-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-03"
+    },
+    {
+      "name": "쎄이마트",
+      "address": "경상남도 진주시 상봉동 753-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-07"
+    },
+    {
+      "name": "로데오편의점",
+      "address": "경상남도 진주시 대안동 15-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-08"
+    },
+    {
+      "name": "킹스할인마트",
+      "address": "경상남도 진주시 칠암동 277-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-08"
+    },
+    {
+      "name": "길슈퍼",
+      "address": "경상남도 진주시 진성면 상촌리 148-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-09"
+    },
+    {
+      "name": "도윤편의점",
+      "address": "경상남도 진주시 상봉동 855-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-11"
+    },
+    {
+      "name": "우리상사",
+      "address": "경상남도 진주시 신안동 795-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-14"
+    },
+    {
+      "name": "진성하나마트",
+      "address": "경상남도 진주시 진성면 상촌리 145",
+      "roadAddress": "경상남도 진주시 진성면 동부로 1353",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-15"
+    },
+    {
+      "name": "(주)제이유 백화점",
+      "address": "경상남도 진주시 평거동 749-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-22"
+    },
+    {
+      "name": "(주)제이유 백화점",
+      "address": "경상남도 진주시 하대동 345-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-22"
+    },
+    {
+      "name": "웰마트",
+      "address": "경상남도 진주시 상평동 306-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-12-13"
+    },
+    {
+      "name": "행복슈퍼",
+      "address": "경상남도 진주시 가좌동 1848",
+      "roadAddress": "경상남도 진주시 진주대로404번길 11  (가좌동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-12-28"
+    },
+    {
+      "name": "홀세일마트",
+      "address": "경상남도 진주시 하대동 116-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-12-29"
+    },
+    {
+      "name": "주공할인마트",
+      "address": "경상남도 진주시 가좌동 가좌2택지사업지구내 1단지주상가  101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-12-29"
+    },
+    {
+      "name": "그린빌마트",
+      "address": "경상남도 진주시 가좌동 가좌2택지개발지구1BL주공APT분산상가 101~102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "천마편의점",
+      "address": "경상남도 진주시 가좌동 1840",
+      "roadAddress": "경상남도 진주시 진주대로404번길 3  (가좌동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-05"
+    },
+    {
+      "name": "수현마트",
+      "address": "경상남도 진주시 상대동 529-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-19"
+    },
+    {
+      "name": "태화상회",
+      "address": "경상남도 진주시 인사동 10-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-20"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경상남도 진주시 상봉동 1043-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-24"
+    },
+    {
+      "name": "유일할인마트",
+      "address": "경상남도 진주시 동성동 11-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-25"
+    },
+    {
+      "name": "미니스톱 진주정암점",
+      "address": "경상남도 진주시 주약동 79-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-26"
+    },
+    {
+      "name": "울트라마트",
+      "address": "경상남도 진주시 호탄동 579-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-02-07"
+    },
+    {
+      "name": "덕천슈퍼",
+      "address": "경상남도 진주시 장대동 130-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-02-08"
+    },
+    {
+      "name": "365DC마트",
+      "address": "경상남도 진주시 신안동 448-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-02-13"
+    },
+    {
+      "name": "대신건재",
+      "address": "경상남도 진주시 상봉동 1040-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-02-13"
+    },
+    {
+      "name": "훼미리마트 신안미성점",
+      "address": "경상남도 진주시 신안동 763-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-02-14"
+    },
+    {
+      "name": "훼미리마트 신안미성점",
+      "address": "경상남도 진주시 신안동 763-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-02-14"
+    },
+    {
+      "name": "보광훼미리마트 진주제일점",
+      "address": "경상남도 진주시 하대동 300-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-31"
+    },
+    {
+      "name": "크로바슈퍼",
+      "address": "경상남도 진주시 하대동 343-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-07"
+    },
+    {
+      "name": "보광훼미리마트",
+      "address": "경상남도 진주시 평거동 202-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-08"
+    },
+    {
+      "name": "우리들마트",
+      "address": "경상남도 진주시 상봉동 909-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-08"
+    },
+    {
+      "name": "현대연쇄점",
+      "address": "경상남도 진주시 장대동 136-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-09"
+    },
+    {
+      "name": "행복할인마트",
+      "address": "경상남도 진주시 상봉동 1074-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-09"
+    },
+    {
+      "name": "조은마트",
+      "address": "경상남도 진주시 가좌동 1871",
+      "roadAddress": "경상남도 진주시 진주대로404번길 21  (가좌동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-15"
+    },
+    {
+      "name": "진주마트",
+      "address": "경상남도 진주시 가좌동 1850",
+      "roadAddress": "경상남도 진주시 진주대로404번길 13  (가좌동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-21"
+    },
+    {
+      "name": "곰돌이슈퍼",
+      "address": "경상남도 진주시 신안동 5-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-24"
+    },
+    {
+      "name": "럭키할인마트",
+      "address": "경상남도 진주시 신안동 33-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-11"
+    },
+    {
+      "name": "해바라기마트",
+      "address": "경상남도 진주시 상대동 565",
+      "roadAddress": "경상남도 진주시 선학산길 30  (상대동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-24"
+    },
+    {
+      "name": "흥한할인마트",
+      "address": "경상남도 진주시 금산면 장사리 1000 흥한상가 108호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-26"
+    },
+    {
+      "name": "훼미리마트진주계동2호점",
+      "address": "경상남도 진주시 계동 94",
+      "roadAddress": "경상남도 진주시 촉석로177번길 5  (계동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-05-03"
+    },
+    {
+      "name": "GS25 진주하대점",
+      "address": "경상남도 진주시 하대동 338",
+      "roadAddress": "경상남도 진주시 도동로 232  (하대동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-05-12"
+    },
+    {
+      "name": "또올편의점",
+      "address": "경상남도 진주시 상평동 203-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-05-19"
+    },
+    {
+      "name": "썬마트",
+      "address": "경상남도 진주시 상평동 211-9 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-05-29"
+    },
+    {
+      "name": "동신슈퍼",
+      "address": "경상남도 진주시 상평동 218-4 동신상가 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-05"
+    },
+    {
+      "name": "훼미리마트 진주판문점",
+      "address": "경상남도 진주시 평거동 719-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-07"
+    },
+    {
+      "name": "매일할인마트",
+      "address": "경상남도 진주시 신안동 426-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-14"
+    },
+    {
+      "name": "썬마트",
+      "address": "경상남도 진주시 평거동 770-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-16"
+    },
+    {
+      "name": "영성상회",
+      "address": "경상남도 진주시 상대동 276",
+      "roadAddress": "경상남도 진주시 동진로167번길 8  (상대동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-19"
+    },
+    {
+      "name": "그린편의점",
+      "address": "경상남도 진주시 상대동 202-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-20"
+    },
+    {
+      "name": "평화마트",
+      "address": "경상남도 진주시 이현동 9-13 이현아파트상가 102,103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-26"
+    },
+    {
+      "name": "제이유 25마트",
+      "address": "경상남도 진주시 평거동 749-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-28"
+    },
+    {
+      "name": "제이유 25마트",
+      "address": "경상남도 진주시 평거동 749-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 진주엠비씨점",
+      "address": "경상남도 진주시 호탄동 961-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-03"
+    },
+    {
+      "name": "진솔마트",
+      "address": "경상남도 진주시 집현면 봉강리 249 현대아파트 상가  B-205",
+      "roadAddress": "경상남도 진주시 집현면 진산로 675  (현대아파트 상가  B-205)",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-05"
+    },
+    {
+      "name": "코리아마트",
+      "address": "경상남도 진주시 망경동 434-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-27"
+    },
+    {
+      "name": "훼미리마트 말띠고개점",
+      "address": "경상남도 진주시 초전동 702-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-31"
+    },
+    {
+      "name": "GS25진주천전점",
+      "address": "경상남도 진주시 칠암동 293-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-08"
+    },
+    {
+      "name": "행진마트",
+      "address": "경상남도 진주시 상대동 249-8",
+      "roadAddress": "경상남도 진주시 돗골로 161  (상대동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-21"
+    },
+    {
+      "name": "모나미와은지",
+      "address": "경상남도 진주시 가좌동 480-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호마트",
+      "address": "경상남도 진주시 주약동 407-1 금호아파트 상가 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-05"
+    },
+    {
+      "name": "썬마트신안점",
+      "address": "경상남도 진주시 신안동 582-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-08"
+    },
+    {
+      "name": "탑플러스마트",
+      "address": "경상남도 진주시 금산면 장사리 1078",
+      "roadAddress": "경상남도 진주시 금산면 덕의길 24",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-22"
+    },
+    {
+      "name": "스타마트",
+      "address": "경상남도 진주시 상봉동 1022-47",
+      "roadAddress": "경상남도 진주시 진주성로 133  (상봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-25"
+    },
+    {
+      "name": "제일할인마트",
+      "address": "경상남도 진주시 강남동 177-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-28"
+    },
+    {
+      "name": "들말슈퍼",
+      "address": "경상남도 진주시 평거동 758-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-28"
+    },
+    {
+      "name": "스마일 마트",
+      "address": "경상남도 진주시 상봉동 1451-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-28"
+    },
+    {
+      "name": "훼미리마트진주오거리점",
+      "address": "경상남도 진주시 가좌동 446-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-10-04"
+    },
+    {
+      "name": "한국종합유통 가좌직영점",
+      "address": "경상남도 진주시 가좌동 660",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-10-11"
+    },
+    {
+      "name": "하나슈퍼",
+      "address": "경상남도 진주시 옥봉동 798-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-10-12"
+    },
+    {
+      "name": "상평24시",
+      "address": "경상남도 진주시 상평동 278-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-10-12"
+    },
+    {
+      "name": "우성슈퍼",
+      "address": "경상남도 진주시 신안동 17-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-18"
+    },
+    {
+      "name": "문화상회",
+      "address": "경상남도 진주시 칠암동 504-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-23"
+    },
+    {
+      "name": "근화슈퍼",
+      "address": "경상남도 진주시 상봉동 1063-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-23"
+    },
+    {
+      "name": "대웅슈퍼",
+      "address": "경상남도 진주시 봉곡동 25-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-30"
+    },
+    {
+      "name": "영아슈퍼",
+      "address": "경상남도 진주시 하대동 344-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-09"
+    },
+    {
+      "name": "AM PM마트",
+      "address": "경상남도 진주시 동성동 11-1",
+      "roadAddress": "경상남도 진주시 남강로659번길 14  (동성동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-09"
+    },
+    {
+      "name": "향미맛미",
+      "address": "경상남도 진주시 신안동 18-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-16"
+    },
+    {
+      "name": "남강슈퍼",
+      "address": "경상남도 진주시 강남동 16-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-11"
+    },
+    {
+      "name": "한주할인마트",
+      "address": "경상남도 진주시 이현동 28-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-28"
+    },
+    {
+      "name": "미니스톱편의점",
+      "address": "경상남도 진주시 하대동 126-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-28"
+    },
+    {
+      "name": "KC마트",
+      "address": "경상남도 진주시 금곡면 가봉리 599-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-28"
+    },
+    {
+      "name": "전원24마트",
+      "address": "경상남도 진주시 신안동 707-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-30"
+    },
+    {
+      "name": "홈마트상평점",
+      "address": "경상남도 진주시 상평동 251-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-14"
+    },
+    {
+      "name": "연화미니마트",
+      "address": "경상남도 진주시 신안동 707-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "경상남도 진주시 상대동 768-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-29"
+    },
+    {
+      "name": "금호낚시연쇄점",
+      "address": "경상남도 진주시 금산면 가방리 2-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-04"
+    },
+    {
+      "name": "집현상회",
+      "address": "경상남도 진주시 집현면 봉강리 369-2",
+      "roadAddress": "경상남도 진주시 집현면 진산로 679, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-07"
+    },
+    {
+      "name": "망경할인마트",
+      "address": "경상남도 진주시 망경동 66-4",
+      "roadAddress": "경상남도 진주시 망경남길 64-1  (망경동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-03"
+    },
+    {
+      "name": "k.c마트",
+      "address": "경상남도 진주시 평거동 190",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-12"
+    },
+    {
+      "name": "참마트상봉점",
+      "address": "경상남도 진주시 상봉동 1018-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-12"
+    },
+    {
+      "name": "풍년청과",
+      "address": "경상남도 진주시 금산면 장사리 225-1    금산흥한골든빌 상가105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-17"
+    },
+    {
+      "name": "경상슈퍼",
+      "address": "경상남도 진주시 중안동 107-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-17"
+    },
+    {
+      "name": "큰길슈퍼",
+      "address": "경상남도 진주시 신안동 19-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-21"
+    },
+    {
+      "name": "한보마트",
+      "address": "경상남도 진주시 망경동 253",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명신할인마트",
+      "address": "경상남도 진주시 주약동 111-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-23"
+    },
+    {
+      "name": "훼미리마트의대칠암점",
+      "address": "경상남도 진주시 칠암동 491-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-25"
+    },
+    {
+      "name": "빅세일",
+      "address": "경상남도 진주시 상봉동 615-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "lg25진주평거점",
+      "address": "경상남도 진주시 평거동 786-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-19"
+    },
+    {
+      "name": "k.c마트가좌점",
+      "address": "경상남도 진주시 가좌동 637-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-19"
+    },
+    {
+      "name": "LG 25 편의점",
+      "address": "경상남도 진주시 가좌동 1441-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-21"
+    },
+    {
+      "name": "GS25하대중앙점",
+      "address": "경상남도 진주시 하대동 317-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-10-17"
+    },
+    {
+      "name": "울트라마트신안점",
+      "address": "경상남도 진주시 신안동 796",
+      "roadAddress": "경상남도 진주시 석갑로 83  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-10-26"
+    },
+    {
+      "name": "동성할인마트",
+      "address": "경상남도 진주시 강남동 219",
+      "roadAddress": "경상남도 진주시 진주대로 901  (강남동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "디지털오피스",
+      "address": "경상남도 진주시 상대동 286-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-10-26"
+    },
+    {
+      "name": "훼미리마트진주선학점",
+      "address": "경상남도 진주시 하대동 350-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해피투게더마트",
+      "address": "경상남도 진주시 가좌동 220-64",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-11-03"
+    },
+    {
+      "name": "GS25 진주산업대점  허승조",
+      "address": "경상남도 진주시 칠암동 492-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-11-13"
+    },
+    {
+      "name": "대성상회",
+      "address": "경상남도 진주시 강남동 94",
+      "roadAddress": "경상남도 진주시 강남로291번길 8  (강남동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-11-13"
+    },
+    {
+      "name": "썬마트",
+      "address": "경상남도 진주시 신안동 25-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-11-20"
+    },
+    {
+      "name": "제이유마트",
+      "address": "경상남도 진주시 평거동 749-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-11-20"
+    },
+    {
+      "name": "훼미리마트 경상프라자점",
+      "address": "경상남도 진주시 가좌동 5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-11-28"
+    },
+    {
+      "name": "제일할인마트",
+      "address": "경상남도 진주시 평거동 191-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-11-30"
+    },
+    {
+      "name": "훼미리마트 진주호탄점",
+      "address": "경상남도 진주시 호탄동 606-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-11-30"
+    },
+    {
+      "name": "훼미리마트 상대대복점",
+      "address": "경상남도 진주시 상대동 331-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-05"
+    },
+    {
+      "name": "은혜마트",
+      "address": "경상남도 진주시 이현동 14-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-12"
+    },
+    {
+      "name": "공군교육사",
+      "address": "경상남도 진주시 금산면 속사리 5-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-12"
+    },
+    {
+      "name": "우리마트",
+      "address": "경상남도 진주시 가좌동 562-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-19"
+    },
+    {
+      "name": "훼미리마트진주동문점",
+      "address": "경상남도 진주시 강남동 127",
+      "roadAddress": "경상남도 진주시 망경로298번길 4  (강남동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-20"
+    },
+    {
+      "name": "훼미리마트 경대후문점",
+      "address": "경상남도 진주시 가좌동 1446-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-20"
+    },
+    {
+      "name": "롯데슈퍼",
+      "address": "경상남도 진주시 상평동 207-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-27"
+    },
+    {
+      "name": "GS25 칠암중앙점",
+      "address": "경상남도 진주시 칠암동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-27"
+    },
+    {
+      "name": "귀빈슈퍼",
+      "address": "경상남도 진주시 칠암동 496-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-28"
+    },
+    {
+      "name": "24편한마트",
+      "address": "경상남도 진주시 칠암동 490-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-02"
+    },
+    {
+      "name": "행복가득할인마트",
+      "address": "경상남도 진주시 명석면 우수리 92-1",
+      "roadAddress": "경상남도 진주시 명석면 광제산로 11-17",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-15"
+    },
+    {
+      "name": "미니스톱진주봉곡점",
+      "address": "경상남도 진주시 봉곡동 79",
+      "roadAddress": "경상남도 진주시 비봉로 49  (봉곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-25"
+    },
+    {
+      "name": "LG25산업대점",
+      "address": "경상남도 진주시 칠암동 492-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-28"
+    },
+    {
+      "name": "고성상회",
+      "address": "경상남도 진주시 망경동 23-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-12"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "경상남도 진주시 대안동 20-1",
+      "roadAddress": "경상남도 진주시 진양호로527번길 6-1  (대안동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-10"
+    },
+    {
+      "name": "한솔할인마트",
+      "address": "경상남도 진주시 하대동 606-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-20"
+    },
+    {
+      "name": "숫골휴게소",
+      "address": "경상남도 진주시 이현동 235-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-21"
+    },
+    {
+      "name": "훼미리마트진주백만점",
+      "address": "경상남도 진주시 신안동 463-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-23"
+    },
+    {
+      "name": "강변슈퍼",
+      "address": "경상남도 진주시 신안동 34-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-26"
+    },
+    {
+      "name": "원일슈퍼",
+      "address": "경상남도 진주시 봉래동 38-62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-28"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경상남도 진주시 봉곡동 5-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-02"
+    },
+    {
+      "name": "OK마트",
+      "address": "경상남도 진주시 강남동 298",
+      "roadAddress": "경상남도 진주시 진주대로941번길 11  (강남동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-06"
+    },
+    {
+      "name": "삼현슈퍼",
+      "address": "경상남도 진주시 상평동 198-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-11"
+    },
+    {
+      "name": "신응슈퍼",
+      "address": "경상남도 진주시 신안동 429-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-13"
+    },
+    {
+      "name": "미니스톱 진주학사점",
+      "address": "경상남도 진주시 계동 45",
+      "roadAddress": "경상남도 진주시 진주대로 1113-1  (계동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-16"
+    },
+    {
+      "name": "연암공대점 편의점",
+      "address": "경상남도 진주시 가좌동 644-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-23"
+    },
+    {
+      "name": "삼거리슈퍼마케트",
+      "address": "경상남도 진주시 옥봉동 830",
+      "roadAddress": "경상남도 진주시 진양호로 611  (옥봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-23"
+    },
+    {
+      "name": "주약할인마트",
+      "address": "경상남도 진주시 주약동 354-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-23"
+    },
+    {
+      "name": "LG 25",
+      "address": "경상남도 진주시 계동 86",
+      "roadAddress": "경상남도 진주시 촉석로185번길 5  (계동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-24"
+    },
+    {
+      "name": "훼미리마트진주가좌점",
+      "address": "경상남도 진주시 가좌동 1439-1",
+      "roadAddress": "경상남도 진주시 가좌길 52  (가좌동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-26"
+    },
+    {
+      "name": "LG25 신안점",
+      "address": "경상남도 진주시 평거동 787-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-09"
+    },
+    {
+      "name": "한주할인마트",
+      "address": "경상남도 진주시 호탄동 607-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-15"
+    },
+    {
+      "name": "춘희팬시문구",
+      "address": "경상남도 진주시 하대동 343-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-15"
+    },
+    {
+      "name": "동백슈퍼",
+      "address": "경상남도 진주시 상평동 196-119",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-18"
+    },
+    {
+      "name": "미니스톱진주의료원점",
+      "address": "경상남도 진주시 중안동 3-3",
+      "roadAddress": "경상남도 진주시 촉석로 180  (중안동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-22"
+    },
+    {
+      "name": "미니스톱진주강남점",
+      "address": "경상남도 진주시 강남동 239",
+      "roadAddress": "경상남도 진주시 진주대로 891  (강남동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-07"
+    },
+    {
+      "name": "강남슈퍼",
+      "address": "경상남도 진주시 정촌면 예하리 909-6",
+      "roadAddress": "경상남도 진주시 정촌면 강주길18번길 8",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-29"
+    },
+    {
+      "name": "동산상회",
+      "address": "경상남도 진주시 문산읍 삼곡리 584-100",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-29"
+    },
+    {
+      "name": "신안25시편의점",
+      "address": "경상남도 진주시 신안동 12-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-30"
+    },
+    {
+      "name": "썬-마트슈퍼",
+      "address": "경상남도 진주시 장대동 98-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-05"
+    },
+    {
+      "name": "탑플러스마트",
+      "address": "경상남도 진주시 옥봉동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-05"
+    },
+    {
+      "name": "오렌지마트",
+      "address": "경상남도 진주시 하대동 677-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-09"
+    },
+    {
+      "name": "동언할인마트",
+      "address": "경상남도 진주시 신안동 11-74",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-26"
+    },
+    {
+      "name": "썬마트",
+      "address": "경상남도 진주시 신안동 11-74",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-26"
+    },
+    {
+      "name": "플러스마트",
+      "address": "경상남도 진주시 신안동 27-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-01"
+    },
+    {
+      "name": "진주시청자율회",
+      "address": "경상남도 진주시 상대동 284",
+      "roadAddress": "경상남도 진주시 동진로 155  (상대동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-01"
+    },
+    {
+      "name": "김정옥",
+      "address": "경상남도 진주시 칠암동 507-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-01"
+    },
+    {
+      "name": "스마일할인마트",
+      "address": "경상남도 진주시 상평동 220-130",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-05"
+    },
+    {
+      "name": "푸른상회",
+      "address": "경상남도 진주시 하대동 306-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-26"
+    },
+    {
+      "name": "한국미니스톰 진주봉곡점",
+      "address": "경상남도 진주시 봉곡동 79",
+      "roadAddress": "경상남도 진주시 비봉로 49  (봉곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-26"
+    },
+    {
+      "name": "한국미니스톰강남점",
+      "address": "경상남도 진주시 강남동 239",
+      "roadAddress": "경상남도 진주시 진주대로 891  (강남동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-26"
+    },
+    {
+      "name": "GS25가좌중앙점",
+      "address": "경상남도 진주시 가좌동 448-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-02"
+    },
+    {
+      "name": "GS25진주초전점",
+      "address": "경상남도 진주시 초전동 829-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-07"
+    },
+    {
+      "name": "GS25 진주금산점",
+      "address": "경상남도 진주시 금산면 중천리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-08"
+    },
+    {
+      "name": "금강종합상사",
+      "address": "경상남도 진주시 상평동 226-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-15"
+    },
+    {
+      "name": "GS25경상대정문점",
+      "address": "경상남도 진주시 가좌동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-21"
+    },
+    {
+      "name": "훼미리마트 진주신평점",
+      "address": "경상남도 진주시 평거동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-21"
+    },
+    {
+      "name": "달걀나라24시",
+      "address": "경상남도 진주시 상봉동 747-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-26"
+    },
+    {
+      "name": "엘리트할인마트",
+      "address": "경상남도 진주시 하대동 135-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-28"
+    },
+    {
+      "name": "GS25경상의대점",
+      "address": "경상남도 진주시 칠암동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-29"
+    },
+    {
+      "name": "미래슈퍼",
+      "address": "경상남도 진주시 상평동 199-66",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-30"
+    },
+    {
+      "name": "GS25진주국제점",
+      "address": "경상남도 진주시 문산읍 상문리 산 270",
+      "roadAddress": "경상남도 진주시 문산읍 동부로 965",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-14"
+    },
+    {
+      "name": "삼화휴게실",
+      "address": "경상남도 진주시 상평동 305-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-18"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "경상남도 진주시 상대동 280-38",
+      "roadAddress": "경상남도 진주시 모덕로96번길 7  (상대동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "우리마트",
+      "address": "경상남도 진주시 상대동 204-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-19"
+    },
+    {
+      "name": "OK마트",
+      "address": "경상남도 진주시 장대동 129-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-26"
+    },
+    {
+      "name": "AM P마트",
+      "address": "경상남도 진주시 가좌동 1443-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-26"
+    },
+    {
+      "name": "산청스토아",
+      "address": "경상남도 진주시 봉곡동 441-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-27"
+    },
+    {
+      "name": "대농상회",
+      "address": "경상남도 진주시 신안동 13-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-02"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경상남도 진주시 상봉동 1004-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-05"
+    },
+    {
+      "name": "선샤인24시편의점",
+      "address": "경상남도 진주시 봉곡동 7-1",
+      "roadAddress": "경상남도 진주시 진주대로 1134  (봉곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-08"
+    },
+    {
+      "name": "미니스톱진주호탄점",
+      "address": "경상남도 진주시 호탄동 610-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-08"
+    },
+    {
+      "name": "아카데미슈퍼",
+      "address": "경상남도 진주시 이현동 100-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-10"
+    },
+    {
+      "name": "형제24시편의점",
+      "address": "경상남도 진주시 신안동 13-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-12"
+    },
+    {
+      "name": "미니스톱정암점",
+      "address": "경상남도 진주시 주약동 79-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-19"
+    },
+    {
+      "name": "ok마트",
+      "address": "경상남도 진주시 인사동 156-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-24"
+    },
+    {
+      "name": "남부농협예하지소",
+      "address": "경상남도 진주시 정촌면 예하리 482-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-25"
+    },
+    {
+      "name": "(주)신세계이마트부문진주점",
+      "address": "경상남도 진주시 인사동 3",
+      "roadAddress": "경상남도 진주시 진양호로 477  (인사동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-30"
+    },
+    {
+      "name": "LG25진주터미널점",
+      "address": "경상남도 진주시 장대동 95-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-07"
+    },
+    {
+      "name": "코사마트",
+      "address": "경상남도 진주시 상평동 310-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-14"
+    },
+    {
+      "name": "럭키하이마트",
+      "address": "경상남도 진주시 칠암동 277",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-19"
+    },
+    {
+      "name": "LG25진주교대점",
+      "address": "경상남도 진주시 신안동 435-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-22"
+    },
+    {
+      "name": "영진할인마트",
+      "address": "경상남도 진주시 남성동 281-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-31"
+    },
+    {
+      "name": "오현슈퍼",
+      "address": "경상남도 진주시 하대동 72 상대주공아파트 12동 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-05"
+    },
+    {
+      "name": "복남슈퍼",
+      "address": "경상남도 진주시 하대동 73-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-06"
+    },
+    {
+      "name": "주번",
+      "address": "경상남도 진주시 하대동 313-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-13"
+    },
+    {
+      "name": "성덕상회",
+      "address": "경상남도 진주시 이현동 7-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-13"
+    },
+    {
+      "name": "개인",
+      "address": "경상남도 진주시 일반성면 창촌리 634-1",
+      "roadAddress": "경상남도 진주시 일반성면 동부로1993번길 3-13",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-09"
+    },
+    {
+      "name": "강변슈퍼",
+      "address": "경상남도 진주시 옥봉동 805-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-11"
+    },
+    {
+      "name": "남강슈퍼",
+      "address": "경상남도 진주시 망경동 16-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-11"
+    },
+    {
+      "name": "훼미리마트상대한보점",
+      "address": "경상남도 진주시 상대동 303-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-17"
+    },
+    {
+      "name": "문화유통",
+      "address": "경상남도 진주시 평안동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-17"
+    },
+    {
+      "name": "진마트",
+      "address": "경상남도 진주시 망경동 302-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-19"
+    },
+    {
+      "name": "진마트",
+      "address": "경상남도 진주시 문산읍 소문리 153-57",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-19"
+    },
+    {
+      "name": "현대마트",
+      "address": "경상남도 진주시 하대동 140-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-23"
+    },
+    {
+      "name": "진양하이마트",
+      "address": "경상남도 진주시 금산면 장사리 948-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-24"
+    },
+    {
+      "name": "장터슈퍼",
+      "address": "경상남도 진주시 봉곡동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-24"
+    },
+    {
+      "name": "경동가구종합상사",
+      "address": "경상남도 진주시 장대동 58-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-02"
+    },
+    {
+      "name": "25택시마트",
+      "address": "경상남도 진주시 신안동 19-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-09"
+    },
+    {
+      "name": "새천년할인마트",
+      "address": "경상남도 진주시 주약동 79-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-09"
+    },
+    {
+      "name": "새진주상회",
+      "address": "경상남도 진주시 상대동 289-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-14"
+    },
+    {
+      "name": "유나상사",
+      "address": "경상남도 진주시 수정동 38-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-18"
+    },
+    {
+      "name": "홈플러스(주) 진주점",
+      "address": "경상남도 진주시 상대동 181-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-18"
+    },
+    {
+      "name": "스카이마트문산점",
+      "address": "경상남도 진주시 문산읍 소문리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-18"
+    },
+    {
+      "name": "GS25 진주삼현점",
+      "address": "경상남도 진주시 상대동 302-119",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-28"
+    },
+    {
+      "name": "신용슈퍼",
+      "address": "경상남도 진주시 상평동 198-123",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-08"
+    },
+    {
+      "name": "킹스할인마트",
+      "address": "경상남도 진주시 상대동 308-57",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-12"
+    },
+    {
+      "name": "투투마트",
+      "address": "경상남도 진주시 신안동 19-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-15"
+    },
+    {
+      "name": "GS25평거 중앙점",
+      "address": "경상남도 진주시 평거동 165-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-15"
+    },
+    {
+      "name": "주약할인마트",
+      "address": "경상남도 진주시 주약동 354-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-15"
+    },
+    {
+      "name": "140호상회",
+      "address": "경상남도 진주시 신안동 786-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-20"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "region": "경기도",
+  "regionSlug": "gyeonggi",
+  "district": "포천시",
+  "districtSlug": "pocheon",
+  "updatedAt": "2026-03-26",
+  "totalCount": 4,
+  "stores": [
+    {
+      "name": "국군복지단 포천지원본부(75사단)",
+      "address": "경기도 포천시 이동면 노곡리 855-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2023-09-07"
+    },
+    {
+      "name": "씨유 오남스윗점",
+      "address": "경기도 포천시 소흘읍 송우리 725-6 송천마을뜨란채",
+      "roadAddress": "경기도 포천시 소흘읍 태봉로 227, 215동 803호 (송천마을뜨란채)",
+      "status": "영업/정상",
+      "licenseDate": "2023-12-21"
+    },
+    {
+      "name": "지에스(GS)25 진접광릉내점",
+      "address": "경기도 포천시 내촌면 내리 396-12 삼성 쉐르빌",
+      "roadAddress": "경기도 포천시 내촌면 내촌로 34-26, 108동 202호 (삼성 쉐르빌)",
+      "status": "영업/정상",
+      "licenseDate": "2024-12-26"
+    },
+    {
+      "name": "씨유 진접센트레빌점",
+      "address": "경기도 포천시 내촌면 내리 293-18",
+      "roadAddress": "경기도 포천시 내촌면 내촌로 116, 도은빌라 102호",
+      "status": "영업/정상",
+      "licenseDate": "2023-12-29"
+    }
+  ]
+}

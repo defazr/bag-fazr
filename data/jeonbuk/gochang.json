@@ -1,0 +1,1578 @@
+{
+  "region": "전북특별자치도",
+  "regionSlug": "jeonbuk",
+  "district": "고창군",
+  "districtSlug": "gochang",
+  "updatedAt": "2026-03-26",
+  "totalCount": 224,
+  "stores": [
+    {
+      "name": "쥬단학지업사",
+      "address": "전북특별자치도 고창군 해리면 하련리 193-19",
+      "roadAddress": "전북특별자치도 고창군 해리면 해리중앙로 84-1",
+      "status": "영업/정상",
+      "licenseDate": "2026-03-05"
+    },
+    {
+      "name": "고창부안축협 한우명품관",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 651 고창부안축협한우명품관",
+      "roadAddress": "전북특별자치도 고창군 고창읍 성산1길 13, 고창부안축협한우명품관",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-21"
+    },
+    {
+      "name": "주부마트",
+      "address": "전북특별자치도 고창군 해리면 하련리 189-18 주부마트",
+      "roadAddress": "전북특별자치도 고창군 해리면 해리중앙로 75-2, 주부마트",
+      "status": "영업/정상",
+      "licenseDate": "2014-06-17"
+    },
+    {
+      "name": "풍년지업사",
+      "address": "전북특별자치도 고창군 상하면 하장리 951-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-03"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "전북특별자치도 고창군 성송면 계당리 573-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2014-02-19"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "전북특별자치도 고창군 공음면 칠암리 562-5",
+      "roadAddress": "전북특별자치도 고창군 공음면 참나무정1길 18",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-29"
+    },
+    {
+      "name": "대성상회",
+      "address": "전북특별자치도 고창군 대산면 매산리 201-16 대성할인마트",
+      "roadAddress": "전북특별자치도 고창군 대산면 대산시장길 11, 대성할인마트",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-03"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "전북특별자치도 고창군 무장면 무장리 92-1 만물수펴",
+      "roadAddress": "전북특별자치도 고창군 무장면 무장읍성길 8, 만물수펴",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-29"
+    },
+    {
+      "name": "세븐일레븐 고창군청점",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 193-2",
+      "roadAddress": "전북특별자치도 고창군 고창읍 모양성로 51",
+      "status": "영업/정상",
+      "licenseDate": "2015-12-04"
+    },
+    {
+      "name": "세븐일레븐 고창제일점",
+      "address": "전북특별자치도 고창군 고창읍 월곡리 586 온천마을제일아파트 상가",
+      "roadAddress": "전북특별자치도 고창군 고창읍 월곡로 87, 온천마을제일아파트 상가 101,102호",
+      "status": "영업/정상",
+      "licenseDate": "2015-07-23"
+    },
+    {
+      "name": "유한회사 고창원마트",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 681-75 원마트",
+      "roadAddress": "전북특별자치도 고창군 고창읍 성산8길 28, 원마트",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-16"
+    },
+    {
+      "name": "세븐일레븐웰파크시티점",
+      "address": "전북특별자치도 고창군 고창읍 석정리 783",
+      "roadAddress": "전북특별자치도 고창군 고창읍 석정2로 160, 101호",
+      "status": "영업/정상",
+      "licenseDate": "2021-08-17"
+    },
+    {
+      "name": "신선마트 고창점",
+      "address": "전북특별자치도 고창군 심원면 월산리 183-1",
+      "roadAddress": "전북특별자치도 고창군 심원면 심원로 246",
+      "status": "영업/정상",
+      "licenseDate": "2021-12-27"
+    },
+    {
+      "name": "씨유고창선운사점",
+      "address": "전북특별자치도 고창군 아산면 삼인리 392-18 고창자수박물관",
+      "roadAddress": "전북특별자치도 고창군 아산면 중촌길 4, 고창자수박물관",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-19"
+    },
+    {
+      "name": "이마트24 R고창휴먼시아점",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 671-8 하마평",
+      "roadAddress": "전북특별자치도 고창군 고창읍 성산로 4, 하마평 1동 1층",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-20"
+    },
+    {
+      "name": "씨유 고창구시포점",
+      "address": "전북특별자치도 고창군 상하면 자룡리 523-3 광주마트",
+      "roadAddress": "전북특별자치도 고창군 상하면 진암구시포로 541, 광주마트",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-26"
+    },
+    {
+      "name": "세븐일레븐 고창월곡점",
+      "address": "전북특별자치도 고창군 고창읍 월곡리 833",
+      "roadAddress": "전북특별자치도 고창군 고창읍 중앙로 337, 1층 101호",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-11"
+    },
+    {
+      "name": "이마트24 고창청보리점",
+      "address": "전북특별자치도 고창군 공음면 선동리 55-4 씨앗등휴게소식당",
+      "roadAddress": "전북특별자치도 고창군 공음면 씨앗등로 277, 씨앗등휴게소식당",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-11"
+    },
+    {
+      "name": "현대마트",
+      "address": "전북특별자치도 고창군 심원면 연화리 726-3 현대마트",
+      "roadAddress": "전북특별자치도 고창군 심원면 심원로 214, 현대마트",
+      "status": "영업/정상",
+      "licenseDate": "2026-03-12"
+    },
+    {
+      "name": "나나화장품",
+      "address": "전북특별자치도 고창군 심원면 연화리 699-4",
+      "roadAddress": "전북특별자치도 고창군 심원면 심원로 218-1",
+      "status": "영업/정상",
+      "licenseDate": "2026-03-12"
+    },
+    {
+      "name": "해리농업협동조합 심원지점",
+      "address": "전북특별자치도 고창군 심원면 월산리 801-6 심원농협",
+      "roadAddress": "전북특별자치도 고창군 심원면 심원로 201, 심원농협",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-29"
+    },
+    {
+      "name": "(유)월성",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 867-43 월성디자인",
+      "roadAddress": "전북특별자치도 고창군 고창읍 중거리당산로 144, 월성디자인",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-21"
+    },
+    {
+      "name": "씨유 정읍개나리점",
+      "address": "전북특별자치도 고창군 고창읍 월곡리 665",
+      "roadAddress": "전북특별자치도 고창군 고창읍 월곡10길 7-6",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-06"
+    },
+    {
+      "name": "삼일슈퍼",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 1135 삼일문구",
+      "roadAddress": "전북특별자치도 고창군 고창읍 남구4길 2, 삼일문구",
+      "status": "영업/정상",
+      "licenseDate": "2018-08-20"
+    },
+    {
+      "name": "아시아마트 외국인슈퍼",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 564-9",
+      "roadAddress": "전북특별자치도 고창군 고창읍 시장안길 3",
+      "status": "영업/정상",
+      "licenseDate": "2018-08-20"
+    },
+    {
+      "name": "고창아시아마트",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 324-26 대영공예가구",
+      "roadAddress": "전북특별자치도 고창군 고창읍 천변남로 60, 대영공예가구",
+      "status": "영업/정상",
+      "licenseDate": "2018-11-05"
+    },
+    {
+      "name": "우리동네생활용품점",
+      "address": "전북특별자치도 고창군 고창읍 교촌리 93-8 우리동네생활용품점",
+      "roadAddress": "전북특별자치도 고창군 고창읍 교촌3길 22, 하나마트",
+      "status": "영업/정상",
+      "licenseDate": "2019-01-07"
+    },
+    {
+      "name": "선연기프트",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 616-67 동방빌딩",
+      "roadAddress": "전북특별자치도 고창군 고창읍 중앙로 182, 동방빌딩",
+      "status": "영업/정상",
+      "licenseDate": "2019-02-26"
+    },
+    {
+      "name": "주식회사 직거래장터",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 679-3",
+      "roadAddress": "전북특별자치도 고창군 고창읍 화신2길 26-8",
+      "status": "영업/정상",
+      "licenseDate": "2019-04-25"
+    },
+    {
+      "name": "씨유 고창주공점",
+      "address": "전북특별자치도 고창군 고창읍 월곡리 585-1 주공마트",
+      "roadAddress": "전북특별자치도 고창군 고창읍 월곡1길 45, 씨유",
+      "status": "영업/정상",
+      "licenseDate": "2019-05-14"
+    },
+    {
+      "name": "바다풍경펜션",
+      "address": "전북특별자치도 고창군 상하면 자룡리 529-34",
+      "roadAddress": "전북특별자치도 고창군 상하면 진암구시포로 539-16",
+      "status": "영업/정상",
+      "licenseDate": "2019-07-04"
+    },
+    {
+      "name": "대성농업협동조합",
+      "address": "전북특별자치도 고창군 대산면 매산리 169-5 대성농협",
+      "roadAddress": "전북특별자치도 고창군 대산면 대성로 247, 대성농협",
+      "status": "영업/정상",
+      "licenseDate": "2019-09-25"
+    },
+    {
+      "name": "하이월드",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 334",
+      "roadAddress": "전북특별자치도 고창군 고창읍 남정10길 16, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2020-01-20"
+    },
+    {
+      "name": "씨유 고창 중앙점",
+      "address": "전북특별자치도 고창군 아산면 학전리 940-1",
+      "roadAddress": "전북특별자치도 고창군 아산면 방죽안길 115-3, 씨유",
+      "status": "영업/정상",
+      "licenseDate": "2020-02-19"
+    },
+    {
+      "name": "씨유고창아산점",
+      "address": "전북특별자치도 고창군 아산면 상갑리 337-1 금강철물",
+      "roadAddress": "전북특별자치도 고창군 아산면 녹두로 801, 씨유",
+      "status": "영업/정상",
+      "licenseDate": "2020-03-09"
+    },
+    {
+      "name": "세븐일레븐 고창 해리점",
+      "address": "전북특별자치도 고창군 해리면 하련리 194-6 김동물병원",
+      "roadAddress": "전북특별자치도 고창군 해리면 해리중앙로 86, 세븐일레븐",
+      "status": "영업/정상",
+      "licenseDate": "2020-04-02"
+    },
+    {
+      "name": "씨유 고창 여중점",
+      "address": "전북특별자치도 고창군 고창읍 석교리 8-14",
+      "roadAddress": "전북특별자치도 고창군 고창읍 보릿골로 169",
+      "status": "영업/정상",
+      "licenseDate": "2020-05-06"
+    },
+    {
+      "name": "세븐일레븐 고창 동호해변점",
+      "address": "전북특별자치도 고창군 해리면 동호리 637-1",
+      "roadAddress": "전북특별자치도 고창군 해리면 구동호1길 20",
+      "status": "영업/정상",
+      "licenseDate": "2020-05-11"
+    },
+    {
+      "name": "GS25 고창 터미널점",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 635",
+      "roadAddress": "전북특별자치도 고창군 고창읍 중앙로 195",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-09"
+    },
+    {
+      "name": "씨유 고창부안점",
+      "address": "전북특별자치도 고창군 부안면 중흥리 138-2 삼거리 단란주점",
+      "roadAddress": "전북특별자치도 고창군 부안면 복분자로 908-1, 삼거리 단란주점",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-25"
+    },
+    {
+      "name": "흥덕종합철물건재",
+      "address": "전북특별자치도 고창군 흥덕면 흥덕리 240-12 흥덕종합철물건재사",
+      "roadAddress": "전북특별자치도 고창군 흥덕면 선운대로 3741, 흥덕종합철물건재사",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-22"
+    },
+    {
+      "name": "세븐일레븐 고창 리안채점",
+      "address": "전북특별자치도 고창군 고창읍 덕산리 989 리안채 108동 101호",
+      "roadAddress": "전북특별자치도 고창군 고창읍 보릿골로 57-15 (리안채)",
+      "status": "영업/정상",
+      "licenseDate": "2020-10-28"
+    },
+    {
+      "name": "지에스25 고창삼일점",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 1135 삼일문구",
+      "roadAddress": "전북특별자치도 고창군 고창읍 남구4길 2, 삼일문구",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-29"
+    },
+    {
+      "name": "세븐일레븐 고창은하다리점",
+      "address": "전북특별자치도 고창군 고창읍 교촌리 39-2",
+      "roadAddress": "전북특별자치도 고창군 고창읍 천변북로 165",
+      "status": "영업/정상",
+      "licenseDate": "2022-02-24"
+    },
+    {
+      "name": "주식회사 템앤파크홀딩스",
+      "address": "전북특별자치도 고창군 부안면 용산리 44-46 국민여가캠핑장",
+      "roadAddress": "전북특별자치도 고창군 부안면 복분자로 513, 국민여가캠핑장",
+      "status": "영업/정상",
+      "licenseDate": "2021-02-09"
+    },
+    {
+      "name": "스마트홈",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 619",
+      "roadAddress": "전북특별자치도 고창군 고창읍 중앙로 165",
+      "status": "영업/정상",
+      "licenseDate": "2021-11-29"
+    },
+    {
+      "name": "노을상회",
+      "address": "전북특별자치도 고창군 심원면 고전리 2233",
+      "roadAddress": "전북특별자치도 고창군 심원면 애향갯벌로 159",
+      "status": "영업/정상",
+      "licenseDate": "2022-03-03"
+    },
+    {
+      "name": "세븐일레븐 고창고인돌점",
+      "address": "전북특별자치도 고창군 신림면 무림리 550-14 청송슈퍼",
+      "roadAddress": "전북특별자치도 고창군 신림면 고인돌대로 2422, 청송슈퍼",
+      "status": "영업/정상",
+      "licenseDate": "2022-03-14"
+    },
+    {
+      "name": "대성철물",
+      "address": "전북특별자치도 고창군 해리면 고성리 666",
+      "roadAddress": "전북특별자치도 고창군 해리면 해리중앙로 43-10",
+      "status": "영업/정상",
+      "licenseDate": "2022-03-24"
+    },
+    {
+      "name": "동호추남캠핑슈퍼",
+      "address": "전북특별자치도 고창군 해리면 동호리 619",
+      "roadAddress": "전북특별자치도 고창군 해리면 구동호1길 17-21",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-19"
+    },
+    {
+      "name": "어촌계연쇄점",
+      "address": "전북특별자치도 고창군 심원면 하전리 286",
+      "roadAddress": "전북특별자치도 고창군 심원면 동전길 30-18",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-06"
+    },
+    {
+      "name": "흥덕농협 하나로마트",
+      "address": "전북특별자치도 고창군 흥덕면 흥덕리 249-6 흥덕농협",
+      "roadAddress": "전북특별자치도 고창군 흥덕면 흥덕초등길 3, 흥덕농협",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-18"
+    },
+    {
+      "name": "CU 고창흥덕점",
+      "address": "전북특별자치도 고창군 흥덕면 흥덕리 382-4 금오장모텔",
+      "roadAddress": "전북특별자치도 고창군 흥덕면 서이길 1-1, 금오장모텔",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-21"
+    },
+    {
+      "name": "이마트24 고창파크시티점",
+      "address": "전북특별자치도 고창군 고창읍 석정리 727-1",
+      "roadAddress": "전북특별자치도 고창군 고창읍 석정2로 153, 101호",
+      "status": "영업/정상",
+      "licenseDate": "2025-12-03"
+    },
+    {
+      "name": "지에스25 남고창IC점",
+      "address": "전북특별자치도 고창군 고창읍 덕산리 115-27",
+      "roadAddress": "전북특별자치도 고창군 고창읍 중거리당산로 25",
+      "status": "영업/정상",
+      "licenseDate": "2023-02-17"
+    },
+    {
+      "name": "세븐일레븐 고창읍성점",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 264-2 송가네식당",
+      "roadAddress": "전북특별자치도 고창군 고창읍 중거리당산로 155, 송가네식당 1층",
+      "status": "영업/정상",
+      "licenseDate": "2023-03-29"
+    },
+    {
+      "name": "이마트24 R고창흥덕점",
+      "address": "전북특별자치도 고창군 흥덕면 흥덕리 239-4 흥덕면세마트",
+      "roadAddress": "전북특별자치도 고창군 흥덕면 선운대로 3739, 흥덕면세마트 1층",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-18"
+    },
+    {
+      "name": "씨유 고창고수점",
+      "address": "전북특별자치도 고창군 고수면 봉산리 1700",
+      "roadAddress": "전북특별자치도 고창군 고수면 고인돌대로 1415",
+      "status": "영업/정상",
+      "licenseDate": "2023-06-20"
+    },
+    {
+      "name": "대성건재",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 570-2 대성건축자제백화점",
+      "roadAddress": "전북특별자치도 고창군 고창읍 동리로 14, 대성건축자제백화점",
+      "status": "영업/정상",
+      "licenseDate": "2023-06-20"
+    },
+    {
+      "name": "성화지업사",
+      "address": "전북특별자치도 고창군 흥덕면 흥덕리 238-6",
+      "roadAddress": "전북특별자치도 고창군 흥덕면 선운대로 3734-1",
+      "status": "영업/정상",
+      "licenseDate": "2023-07-25"
+    },
+    {
+      "name": "지에스25 선운산리조트점",
+      "address": "전북특별자치도 고창군 아산면 삼인리 287-4 선운산관광호텔",
+      "roadAddress": "전북특별자치도 고창군 아산면 중촌길 21, 선운산관광호텔",
+      "status": "영업/정상",
+      "licenseDate": "2023-10-30"
+    },
+    {
+      "name": "이마트24 고창병원점",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 663",
+      "roadAddress": "전북특별자치도 고창군 고창읍 화신1길 9",
+      "status": "영업/정상",
+      "licenseDate": "2023-11-16"
+    },
+    {
+      "name": "이마트24 R고창대산점",
+      "address": "전북특별자치도 고창군 대산면 매산리 182-19 대산빅마트",
+      "roadAddress": "전북특별자치도 고창군 대산면 대성로 227, 대산빅마트 104호",
+      "status": "영업/정상",
+      "licenseDate": "2023-12-06"
+    },
+    {
+      "name": "고창시니어클럽(청춘점방)",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 385-13 청춘점방",
+      "roadAddress": "전북특별자치도 고창군 고창읍 중거리당산로 115, 청춘점방",
+      "status": "영업/정상",
+      "licenseDate": "2024-01-23"
+    },
+    {
+      "name": "씨유 고창성송점",
+      "address": "전북특별자치도 고창군 성송면 판정리 35-1",
+      "roadAddress": "전북특별자치도 고창군 성송면 대성로 766, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2024-03-25"
+    },
+    {
+      "name": "대신건재",
+      "address": "전북특별자치도 고창군 고창읍 덕산리 256-2",
+      "roadAddress": "전북특별자치도 고창군 고창읍 보릿골로 57-7",
+      "status": "영업/정상",
+      "licenseDate": "2024-04-05"
+    },
+    {
+      "name": "씨유 고창만돌점",
+      "address": "전북특별자치도 고창군 심원면 만돌리 737-1",
+      "roadAddress": "전북특별자치도 고창군 심원면 애향갯벌로 313",
+      "status": "영업/정상",
+      "licenseDate": "2024-06-21"
+    },
+    {
+      "name": "하이 아시아마트",
+      "address": "전북특별자치도 고창군 대산면 매산리 167-14 서울미용실",
+      "roadAddress": "전북특별자치도 고창군 대산면 대산시장길 22, 1층",
+      "status": "영업/정상",
+      "licenseDate": "2024-07-24"
+    },
+    {
+      "name": "씨유 고창고인돌대로점",
+      "address": "전북특별자치도 고창군 고창읍 성두리 465",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2024-08-05"
+    },
+    {
+      "name": "삼촌네",
+      "address": "전북특별자치도 고창군 고창읍 교촌리 43-35",
+      "roadAddress": "전북특별자치도 고창군 고창읍 중앙로 300, 주1동 1층 101호",
+      "status": "영업/정상",
+      "licenseDate": "2024-09-23"
+    },
+    {
+      "name": "이마트24 고창심원점",
+      "address": "전북특별자치도 고창군 심원면 연화리 734-5 터미널마트",
+      "roadAddress": "전북특별자치도 고창군 심원면 심원로 192, 터미널마트",
+      "status": "영업/정상",
+      "licenseDate": "2024-10-29"
+    },
+    {
+      "name": "씨유 고창보릿골점",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 564-45",
+      "roadAddress": "전북특별자치도 고창군 고창읍 보릿골로 74",
+      "status": "영업/정상",
+      "licenseDate": "2025-01-09"
+    },
+    {
+      "name": "이마트24 고창고수점",
+      "address": "전북특별자치도 고창군 고수면 황산리 266-1 고수종묘농약사",
+      "roadAddress": "전북특별자치도 고창군 고수면 고수로 1, 고수종묘농약사",
+      "status": "영업/정상",
+      "licenseDate": "2025-03-26"
+    },
+    {
+      "name": "씨유고창 현대점",
+      "address": "전북특별자치도 고창군 고창읍 석교리 10-8 성산세탁소",
+      "roadAddress": "전북특별자치도 고창군 고창읍 보릿골로 195-14, 성산세탁소 1층",
+      "status": "영업/정상",
+      "licenseDate": "2025-05-19"
+    },
+    {
+      "name": "이마트24 고창월곡중앙점",
+      "address": "전북특별자치도 고창군 고창읍 교촌리 417",
+      "roadAddress": "전북특별자치도 고창군 고창읍 월곡로 51",
+      "status": "영업/정상",
+      "licenseDate": "2025-06-04"
+    },
+    {
+      "name": "이마트24 고창신림점",
+      "address": "전북특별자치도 고창군 신림면 무림리 79-5 농협하나로마트",
+      "roadAddress": "전북특별자치도 고창군 신림면 신림로 160, 농협하나로마트",
+      "status": "영업/정상",
+      "licenseDate": "2025-08-12"
+    },
+    {
+      "name": "세븐일레븐 공음지점",
+      "address": "전북특별자치도 고창군 공음면 칠암리 560-3 차부철물점",
+      "roadAddress": "전북특별자치도 고창군 공음면 공음길 37, 차부철물점",
+      "status": "영업/정상",
+      "licenseDate": "2025-11-19"
+    },
+    {
+      "name": "씨유 고창공음점",
+      "address": "전북특별자치도 고창군 공음면 칠암리 538 발리산목공예품",
+      "roadAddress": "전북특별자치도 고창군 공음면 참나무정1길 8, 발리산목공예품",
+      "status": "영업/정상",
+      "licenseDate": "2025-11-19"
+    },
+    {
+      "name": "해빛",
+      "address": "전북특별자치도 고창군 신림면 도림리 155 신림건업",
+      "roadAddress": "전북특별자치도 고창군 신림면 효감천로 4-4, 신림건업",
+      "status": "영업/정상",
+      "licenseDate": "2025-12-15"
+    },
+    {
+      "name": "성내마트",
+      "address": "전북특별자치도 고창군 성내면 양계리 598-10 성내슈퍼마켓",
+      "roadAddress": "전북특별자치도 고창군 성내면 시기1길 49, 성내슈퍼마켓",
+      "status": "영업/정상",
+      "licenseDate": "2026-01-28"
+    },
+    {
+      "name": "유남수퍼",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 82-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴욕25시편의점",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 199-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새한슈퍼",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 180-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엄지슈퍼",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 544-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서흥25시편의점",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 291-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성남슈퍼",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 627-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경향슈퍼",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 681-174",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하니마트",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 616-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강호문구",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 1188",
+      "roadAddress": "전북특별자치도 고창군 고창읍 중거리당산로 77",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 두암리 696",
+      "roadAddress": "전북특별자치도 고창군 공음면 두암안길 22-3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 두암리 47",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 신대리 454",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 신대리 197",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 신대리 295",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 구암리 250",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 구암리 599",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 구암리 457",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 구암리 210-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진영종",
+      "address": "전북특별자치도 고창군 공음면 석교리 487",
+      "roadAddress": "전북특별자치도 고창군 공음면 공음석교길 64-2",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 장곡리 387-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 장곡리 462",
+      "roadAddress": "전북특별자치도 고창군 공음면 양동길 25",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 장곡리 14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 장곡리 207-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 칠암리 329",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 칠암리 162-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성일상회",
+      "address": "전북특별자치도 고창군 공음면 칠암리 560-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "공음노래방",
+      "address": "전북특별자치도 고창군 공음면 칠암리 559",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 칠암리 679",
+      "roadAddress": "전북특별자치도 고창군 공음면 연동길 76-2",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장",
+      "address": "전북특별자치도 고창군 공음면 칠암리 761-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 용수리 526",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김기용",
+      "address": "전북특별자치도 고창군 공음면 용수리 687",
+      "roadAddress": "전북특별자치도 고창군 공음면 청천길 37",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 선동리 276",
+      "roadAddress": "전북특별자치도 고창군 공음면 선산청메골4길 21-3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 선동리 15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 선동리 690",
+      "roadAddress": "전북특별자치도 고창군 공음면 원선동길 17",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 선동리 600-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 선동리 477-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 건동리 391",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 건동리 786",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 건동리 319",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 군유리 80",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하군슈퍼",
+      "address": "전북특별자치도 고창군 공음면 군유리 178",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고산슈퍼",
+      "address": "전북특별자치도 고창군 공음면 군유리 207",
+      "roadAddress": "전북특별자치도 고창군 공음면 하군길 42-5",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 예전리 38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 예전리 268",
+      "roadAddress": "전북특별자치도 고창군 공음면 평산길 22",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 예전리 980",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 예전리 554",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 덕암리 313",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 덕암리 909",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 공음면 덕암리 389",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 동사리 27-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 동사리 562",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 치룡리 329",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 신송리 432",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 신송리 224",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 석우리 23",
+      "roadAddress": "전북특별자치도 고창군 흥덕면 석우길 29-3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 하남리 189",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 하남리 202",
+      "roadAddress": "전북특별자치도 고창군 흥덕면 중남길 37",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 용반리 606-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 용반리 400",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 신덕리 166",
+      "roadAddress": "전북특별자치도 고창군 흥덕면 신덕길 24-4",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 신덕리 540",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 신덕리 69",
+      "roadAddress": "전북특별자치도 고창군 흥덕면 상하연길 53-4",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 신덕리 387",
+      "roadAddress": "전북특별자치도 고창군 흥덕면 상하연길 32-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 후포리 516-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 후포리 101",
+      "roadAddress": "전북특별자치도 고창군 흥덕면 후포대촌길 10-3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 후포리 530",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 사포리 98",
+      "roadAddress": "전북특별자치도 고창군 흥덕면 주항길 95-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 사포리 98",
+      "roadAddress": "전북특별자치도 고창군 흥덕면 주항길 95-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 교운리 187-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 오호리 169",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 오호리 284",
+      "roadAddress": "전북특별자치도 고창군 흥덕면 석호길 124-42",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 석교리 168",
+      "roadAddress": "전북특별자치도 고창군 흥덕면 흥덕석교길 16-9",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 사천리 127",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 사천리 69",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 사천리 435",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 제하리 349",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 제하리 136",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 송암리 417",
+      "roadAddress": "전북특별자치도 고창군 흥덕면 송암1길 21-6",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 송암리 381",
+      "roadAddress": "전북특별자치도 고창군 흥덕면 송암2길 10",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 흥덕면 송암리 325",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 신림면 가평리 532",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나로휴게소",
+      "address": "전북특별자치도 고창군 신림면 무림리 11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 신림면 외화리 74",
+      "roadAddress": "전북특별자치도 고창군 신림면 화룡내기길 40-5",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전북특별자치도 고창군 신림면 외화리 421",
+      "roadAddress": "전북특별자치도 고창군 신림면 환산길 121-20",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전북특별자치도 고창군 신림면 벽송리 24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 신림면 외화리 167",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전북특별자치도 고창군 신림면 자포리 254",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "반룡가게",
+      "address": "전북특별자치도 고창군 신림면 반룡리 479",
+      "roadAddress": "전북특별자치도 고창군 신림면 하반룡길 3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 신림면 송용리 136",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 신림면 무림리 455",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을슈퍼",
+      "address": "전북특별자치도 고창군 신림면 가평리 594",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 신림면 부송리 299",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 신림면 신평리 222",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 신림면 법지리 417-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "전북특별자치도 고창군 신림면 법지리 191",
+      "roadAddress": "전북특별자치도 고창군 신림면 법지길 41-6",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수복회관",
+      "address": "전북특별자치도 고창군 신림면 도림리 395",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 부안면 수남리 130",
+      "roadAddress": "전북특별자치도 고창군 부안면 지동1길 12",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 부안면 수남리 378",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장댁",
+      "address": "전북특별자치도 고창군 부안면 검산리 75",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개 인",
+      "address": "전북특별자치도 고창군 부안면 검산리 287",
+      "roadAddress": "전북특별자치도 고창군 부안면 진등길 8",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장댁",
+      "address": "전북특별자치도 고창군 부안면 검산리 452",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장댁",
+      "address": "전북특별자치도 고창군 부안면 수동리 338",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장댁",
+      "address": "전북특별자치도 고창군 부안면 수동리 378",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장댁",
+      "address": "전북특별자치도 고창군 부안면 수동리 659",
+      "roadAddress": "전북특별자치도 고창군 부안면 종산길 38",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장댁",
+      "address": "전북특별자치도 고창군 부안면 수앙리 189",
+      "roadAddress": "전북특별자치도 고창군 부안면 인촌로 838-47",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장댁",
+      "address": "전북특별자치도 고창군 부안면 수앙리 372",
+      "roadAddress": "전북특별자치도 고창군 부안면 수앙반룡길 49",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장댁",
+      "address": "전북특별자치도 고창군 부안면 상암리 620",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 부안면 상암리 482",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 부안면 상암리 643",
+      "roadAddress": "전북특별자치도 고창군 부안면 반월길 96-3",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 부안면 봉암리 519",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장댁",
+      "address": "전북특별자치도 고창군 부안면 봉암리 475-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 부안면 송현리 308",
+      "roadAddress": "전북특별자치도 고창군 부안면 송현신기길 16-21",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 부안면 선운리 509",
+      "roadAddress": "전북특별자치도 고창군 부안면 인촌로 174",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 부안면 용산리 218",
+      "roadAddress": "전북특별자치도 고창군 부안면 용산길 20-1",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 부안면 용산리 46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 부안면 상등리 388",
+      "roadAddress": "전북특별자치도 고창군 부안면 알미장터길 42",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 부안면 상등리 599",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 부안면 상등리 196",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 부안면 사창리 324",
+      "roadAddress": "전북특별자치도 고창군 부안면 사창길 57",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이장집",
+      "address": "전북특별자치도 고창군 부안면 운양리 278",
+      "roadAddress": "전북특별자치도 고창군 부안면 전봉준로 589",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 620-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성창슈퍼",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 192-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25 고창중앙점",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 378-7",
+      "roadAddress": "전북특별자치도 고창군 고창읍 중거리당산로 137",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-19"
+    },
+    {
+      "name": "우리마트",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 576-5",
+      "roadAddress": "전북특별자치도 고창군 고창읍 동리로 46",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-20"
+    },
+    {
+      "name": "GS25 고창타운점",
+      "address": "전북특별자치도 고창군 고창읍 월곡리 621",
+      "roadAddress": "전북특별자치도 고창군 고창읍 월곡14길 2",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-06"
+    },
+    {
+      "name": "동백종합상사",
+      "address": "전북특별자치도 고창군 고창읍 덕산리 230-6",
+      "roadAddress": "전북특별자치도 고창군 고창읍 보릿골로 19",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-07"
+    },
+    {
+      "name": "세븐일레븐 고창청솔점",
+      "address": "전북특별자치도 고창군 고창읍 교촌리 221-8",
+      "roadAddress": "전북특별자치도 고창군 고창읍 모양성로 100",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-20"
+    },
+    {
+      "name": "세븐일레븐고창대산정류소점",
+      "address": "전북특별자치도 고창군 대산면 산정리 3-1",
+      "roadAddress": "전북특별자치도 고창군 대산면 대성로 234",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-28"
+    },
+    {
+      "name": "길마트",
+      "address": "전북특별자치도 고창군 흥덕면 흥덕리 237-10",
+      "roadAddress": "전북특별자치도 고창군 흥덕면 선운대로 3730",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-07"
+    },
+    {
+      "name": "대흥마트",
+      "address": "전북특별자치도 고창군 무장면 무장리 57-1",
+      "roadAddress": "전북특별자치도 고창군 무장면 학천로 4",
+      "status": "영업/정상",
+      "licenseDate": "2025-12-22"
+    },
+    {
+      "name": "우신상회",
+      "address": "전북특별자치도 고창군 무장면 무장리 308-1",
+      "roadAddress": "전북특별자치도 고창군 무장면 무장읍성길 308-1",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-02"
+    },
+    {
+      "name": "(주)와이선운마트",
+      "address": "전북특별자치도 고창군 고창읍 교촌리 25-8 와이선운마트",
+      "roadAddress": "전북특별자치도 고창군 고창읍 중앙로 306-4, 와이선운마트",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-28"
+    },
+    {
+      "name": "농부마트",
+      "address": "전북특별자치도 고창군 고창읍 석교리 10-8 성산세탁소",
+      "roadAddress": "전북특별자치도 고창군 고창읍 보릿골로 195-14, 성산세탁소",
+      "status": "영업/정상",
+      "licenseDate": "2015-02-11"
+    },
+    {
+      "name": "알파 고창점",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 204",
+      "roadAddress": "전북특별자치도 고창군 고창읍 중앙로 234",
+      "status": "영업/정상",
+      "licenseDate": "2016-06-13"
+    },
+    {
+      "name": "동호수산",
+      "address": "전북특별자치도 고창군 해리면 동호리 637-1",
+      "roadAddress": "전북특별자치도 고창군 해리면 구동호1길 20",
+      "status": "영업/정상",
+      "licenseDate": "2016-07-01"
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "전북특별자치도 고창군 상하면 자룡리 523",
+      "roadAddress": "전북특별자치도 고창군 상하면 진암구시포로 544",
+      "status": "영업/정상",
+      "licenseDate": "2016-08-05"
+    },
+    {
+      "name": "와이석정 웰마트",
+      "address": "전북특별자치도 고창군 고창읍 석정리 785-4",
+      "roadAddress": "전북특별자치도 고창군 고창읍 석정2로 170",
+      "status": "영업/정상",
+      "licenseDate": "2016-12-16"
+    },
+    {
+      "name": "칠산장어횟집",
+      "address": "전북특별자치도 고창군 해리면 동호리 623 칠산장어횟집",
+      "roadAddress": "전북특별자치도 고창군 해리면 구동호1길 17-15, 칠산장어횟집",
+      "status": "영업/정상",
+      "licenseDate": "2019-06-26"
+    },
+    {
+      "name": "고창동호뚱이네슈퍼",
+      "address": "전북특별자치도 고창군 해리면 동호리 627-12 고창동호뚱이네슈퍼",
+      "roadAddress": "전북특별자치도 고창군 해리면 구동호1길 17-17, 고창동호뚱이네슈퍼",
+      "status": "영업/정상",
+      "licenseDate": "2017-06-26"
+    },
+    {
+      "name": "씨유고창월곡점",
+      "address": "전북특별자치도 고창군 고창읍 교촌리 501",
+      "roadAddress": "전북특별자치도 고창군 고창읍 중앙로 321, 씨유고창월곡점",
+      "status": "영업/정상",
+      "licenseDate": "2017-11-17"
+    },
+    {
+      "name": "GS25고창주공점",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 1222 성산현대아파트 103동",
+      "roadAddress": "전북특별자치도 고창군 고창읍 성산로 19 (고창읍내휴먼시아)",
+      "status": "영업/정상",
+      "licenseDate": "2018-05-23"
+    },
+    {
+      "name": "이마트24 구시포 노을점",
+      "address": "전북특별자치도 고창군 상하면 자룡리 529-5",
+      "roadAddress": "전북특별자치도 고창군 상하면 진암구시포로 539-18",
+      "status": "영업/정상",
+      "licenseDate": "2025-07-25"
+    },
+    {
+      "name": "미니스톱고창청보리점",
+      "address": "전북특별자치도 고창군 무장면 무장리 58-9",
+      "roadAddress": "전북특별자치도 고창군 무장면 청보리로 1558",
+      "status": "영업/정상",
+      "licenseDate": "2018-07-19"
+    },
+    {
+      "name": "고창하나로마트",
+      "address": "전북특별자치도 고창군 고창읍 읍내리 677 농협하나로마트",
+      "roadAddress": "전북특별자치도 고창군 고창읍 성산로 22, 농협하나로마트",
+      "status": "영업/정상",
+      "licenseDate": ""
+    }
+  ]
+}

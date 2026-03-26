@@ -1,0 +1,1725 @@
+{
+  "region": "강원특별자치도",
+  "regionSlug": "gangwon",
+  "district": "양구군",
+  "districtSlug": "yanggu",
+  "updatedAt": "2026-03-26",
+  "totalCount": 245,
+  "stores": [
+    {
+      "name": "김씨매점",
+      "address": "강원특별자치도 양구군 양구읍 수인리  2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-04"
+    },
+    {
+      "name": "양구쉼터",
+      "address": "강원특별자치도 양구군 양구읍 석현리 1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-04"
+    },
+    {
+      "name": "방산자율방범대",
+      "address": "강원특별자치도 양구군 방산면 현리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-04"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 양구읍 상무룡리 (1/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-05"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 동면 팔랑리 (1/4)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-05"
+    },
+    {
+      "name": "부녀회",
+      "address": "강원특별자치도 양구군 국토정중앙면 구암리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-05"
+    },
+    {
+      "name": "비지정",
+      "address": "강원특별자치도 양구군 방산면 장평리 2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-05"
+    },
+    {
+      "name": "금악비지정",
+      "address": "강원특별자치도 양구군 방산면 금악리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-05"
+    },
+    {
+      "name": "송1비지정",
+      "address": "강원특별자치도 양구군 방산면 송현리 (1/ )",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-05"
+    },
+    {
+      "name": "현리비지정",
+      "address": "강원특별자치도 양구군 방산면 현리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-05"
+    },
+    {
+      "name": "장평비지정",
+      "address": "강원특별자치도 양구군 방산면 장평리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-05"
+    },
+    {
+      "name": "광치비지정",
+      "address": "강원특별자치도 양구군 국토정중앙면 가오작리 (2/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-08"
+    },
+    {
+      "name": "새마을상회",
+      "address": "강원특별자치도 양구군 국토정중앙면 용하리 (1/ )",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-18"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 상리 (1/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-08"
+    },
+    {
+      "name": "부녀회",
+      "address": "강원특별자치도 양구군 국토정중앙면 구암리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-18"
+    },
+    {
+      "name": "부녀회",
+      "address": "강원특별자치도 양구군 국토정중앙면 구암리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-18"
+    },
+    {
+      "name": "부녀회",
+      "address": "강원특별자치도 양구군 국토정중앙면 구암리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-18"
+    },
+    {
+      "name": "오1부녀회",
+      "address": "강원특별자치도 양구군 해안면 오유리 (1/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-18"
+    },
+    {
+      "name": "오2부녀회",
+      "address": "강원특별자치도 양구군 해안면 오유리 (2/3)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-18"
+    },
+    {
+      "name": "만대부녀회",
+      "address": "강원특별자치도 양구군 해안면 만대리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-18"
+    },
+    {
+      "name": "세일유통",
+      "address": "강원특별자치도 양구군 양구읍 상리 (4/ )",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-21"
+    },
+    {
+      "name": "교보슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 상리 교보아파트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-25"
+    },
+    {
+      "name": "할렐루야슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 상리 (3/5)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-18"
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "강원특별자치도 양구군 양구읍 상리 (4/ )",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-27"
+    },
+    {
+      "name": "경림유통",
+      "address": "강원특별자치도 양구군 국토정중앙면 가오작리 (경림아파트)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-08"
+    },
+    {
+      "name": "샘마을쉼터",
+      "address": "강원특별자치도 양구군 양구읍 한전리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-08"
+    },
+    {
+      "name": "양구우체국",
+      "address": "강원특별자치도 양구군 양구읍 중리 (1/ )",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-05"
+    },
+    {
+      "name": "24시편의점",
+      "address": "강원특별자치도 양구군 양구읍 중리 (1/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-10"
+    },
+    {
+      "name": "원흥슈퍼",
+      "address": "강원특별자치도 양구군 국토정중앙면 용하리 (1/3)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-15"
+    },
+    {
+      "name": "평남상회",
+      "address": "강원특별자치도 양구군 양구읍 송청리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-17"
+    },
+    {
+      "name": "그린마트",
+      "address": "강원특별자치도 양구군 양구읍 상리 260-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-17"
+    },
+    {
+      "name": "미미상회",
+      "address": "강원특별자치도 양구군 국토정중앙면 적리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-24"
+    },
+    {
+      "name": "동승유통",
+      "address": "강원특별자치도 양구군 양구읍 상리 214",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-26"
+    },
+    {
+      "name": "산림조합연쇄점",
+      "address": "강원특별자치도 양구군 양구읍 상리 336-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-24"
+    },
+    {
+      "name": "피노키오",
+      "address": "강원특별자치도 양구군 양구읍 상리 235 중앙시장",
+      "roadAddress": "강원특별자치도 양구군 양구읍 중앙길 68  (중앙시장)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-20"
+    },
+    {
+      "name": "평남상회",
+      "address": "강원특별자치도 양구군 양구읍 송청리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-10"
+    },
+    {
+      "name": "화목상회",
+      "address": "강원특별자치도 양구군 동면 월운리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-25"
+    },
+    {
+      "name": "영광상회",
+      "address": "강원특별자치도 양구군 동면 팔랑리 (2/4)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-25"
+    },
+    {
+      "name": "정다운슈퍼",
+      "address": "",
+      "roadAddress": "강원특별자치도 양구군 양구읍 비봉로 23, 101호 (신태양빌라)",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-05"
+    },
+    {
+      "name": "세븐일레븐 양구비봉로점",
+      "address": "강원특별자치도 양구군 양구읍 상리 347",
+      "roadAddress": "강원특별자치도 양구군 양구읍 비봉로 64-4",
+      "status": "영업/정상",
+      "licenseDate": "2017-03-13"
+    },
+    {
+      "name": "양구군산림조합(DMZ산림두드림센터)",
+      "address": "강원특별자치도 양구군 양구읍 상리 427-4",
+      "roadAddress": "강원특별자치도 양구군 양구읍 박수근로 367",
+      "status": "영업/정상",
+      "licenseDate": "2017-05-26"
+    },
+    {
+      "name": "미니스톱 양구터미널점",
+      "address": "강원특별자치도 양구군 양구읍 중리 10-20",
+      "roadAddress": "강원특별자치도 양구군 양구읍 관공서로 21-24",
+      "status": "영업/정상",
+      "licenseDate": "2017-08-18"
+    },
+    {
+      "name": "드림디포(미래사)",
+      "address": "강원특별자치도 양구군 양구읍 상리 330-5",
+      "roadAddress": "강원특별자치도 양구군 양구읍 중심로 192-1",
+      "status": "영업/정상",
+      "licenseDate": "2017-09-07"
+    },
+    {
+      "name": "그린식품",
+      "address": "강원특별자치도 양구군 양구읍 상리 235",
+      "roadAddress": "강원특별자치도 양구군 양구읍 중앙길 68, 라2-3동 (중앙시장)",
+      "status": "영업/정상",
+      "licenseDate": "2017-09-26"
+    },
+    {
+      "name": "편의점",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "편의점",
+      "address": "강원특별자치도 양구군 양구읍 상리 227",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "원미슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보미슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "삼양슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "경기상회",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "정다운슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "청자상회",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "삼미슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "중앙사진관",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "대운슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "아방스",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "동덕슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "상5리장",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "잡화상회",
+      "address": "강원특별자치도 양구군 양구읍 하리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "황금슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 상리 (터미널)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "우신슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 중리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "중1리장",
+      "address": "강원특별자치도 양구군 양구읍 중리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "단비슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 중리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "양구슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 중리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "상명슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 중리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "성화비디오",
+      "address": "강원특별자치도 양구군 양구읍 중리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "전우사",
+      "address": "강원특별자치도 양구군 양구읍 중리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "24시편의점",
+      "address": "강원특별자치도 양구군 양구읍 중리 (1/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "서원슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 하리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "제비표페인트",
+      "address": "강원특별자치도 양구군 양구읍 하리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "정원슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 하리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "이용슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 하리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "하3리장",
+      "address": "강원특별자치도 양구군 양구읍 하리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "잡화상회",
+      "address": "강원특별자치도 양구군 양구읍 하리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "부녀회",
+      "address": "강원특별자치도 양구군 국토정중앙면 구암리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "평남상회",
+      "address": "강원특별자치도 양구군 양구읍 송청리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "삼거리상회",
+      "address": "강원특별자치도 양구군 양구읍 송청리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "기사님식당",
+      "address": "강원특별자치도 양구군 양구읍 수인리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "웅진상회",
+      "address": "강원특별자치도 양구군 양구읍 웅진리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 양구읍 석현리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 양구읍 공리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "학조리상회",
+      "address": "강원특별자치도 양구군 양구읍 학조리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "회관상회",
+      "address": "강원특별자치도 양구군 양구읍 학조리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 양구읍 학조리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "양구한과",
+      "address": "강원특별자치도 양구군 양구읍 이리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 양구읍 안대리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 양구읍 안대리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "광명상회",
+      "address": "강원특별자치도 양구군 양구읍 정림리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 양구읍 정림리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "보배슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 정림리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "(주)건영건설",
+      "address": "강원특별자치도 양구군 양구읍 공수리 (2공구)",
+      "roadAddress": "강원특별자치도 양구군 양구읍 박수근로 287",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "샘터상회",
+      "address": "강원특별자치도 양구군 양구읍 고대리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "새마을상회",
+      "address": "강원특별자치도 양구군 국토정중앙면 용하리 (1/ )",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "부녀회",
+      "address": "강원특별자치도 양구군 국토정중앙면 구암리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "노인회",
+      "address": "강원특별자치도 양구군 양구읍 도사리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "부녀회",
+      "address": "강원특별자치도 양구군 국토정중앙면 구암리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "우림건설주식회사",
+      "address": "강원특별자치도 양구군 양구읍 공수리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "태양건설",
+      "address": "강원특별자치도 양구군 양구읍 공수리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 양구읍 공수리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 양구읍 공수리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 양구읍 월명리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "월명리낚시터",
+      "address": "강원특별자치도 양구군 양구읍 월명리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 양구읍 상무룡리 (1/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "고향메기마을",
+      "address": "강원특별자치도 양구군 양구읍 상무룡리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "천일상회",
+      "address": "강원특별자치도 양구군 국토정중앙면 적리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "세탁소",
+      "address": "강원특별자치도 양구군 국토정중앙면 적리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "부녀회",
+      "address": "강원특별자치도 양구군 국토정중앙면 구암리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 가오작리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 가오작리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 야촌리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 야촌리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 야촌리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "부녀회",
+      "address": "강원특별자치도 양구군 국토정중앙면 구암리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 용하리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "청리상회",
+      "address": "강원특별자치도 양구군 국토정중앙면 청리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "남면영업소",
+      "address": "강원특별자치도 양구군 국토정중앙면 청리 (1/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "조양상회",
+      "address": "강원특별자치도 양구군 국토정중앙면 청리 (1/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 청리 (1/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 청리 (2/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 청리 (2/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 청리 (3/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 청리 (4/3)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 송우리 1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 황강리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 도촌리 1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "충남상회",
+      "address": "강원특별자치도 양구군 국토정중앙면 도촌리 1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 도촌리 3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "도촌막국수",
+      "address": "강원특별자치도 양구군 국토정중앙면 도촌리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 도촌리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "마산상회",
+      "address": "강원특별자치도 양구군 국토정중앙면 창리 (1/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "금강산휴게소",
+      "address": "강원특별자치도 양구군 국토정중앙면 창리 (2/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 창리 (2/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "부녀회",
+      "address": "강원특별자치도 양구군 국토정중앙면 구암리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 죽리 (1/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "길흥상회",
+      "address": "강원특별자치도 양구군 국토정중앙면 죽리 (2/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 심포리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "원리횟집",
+      "address": "강원특별자치도 양구군 국토정중앙면 원리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 원리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 두무리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "삼거리상회",
+      "address": "강원특별자치도 양구군 양구읍 송청리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "대암상회",
+      "address": "강원특별자치도 양구군 동면 지석리 (1/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "송이상회",
+      "address": "강원특별자치도 양구군 동면 원당리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "삼형제상회",
+      "address": "강원특별자치도 양구군 동면 원당리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "은행상회",
+      "address": "강원특별자치도 양구군 동면 덕곡리 (1/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "금강상회",
+      "address": "강원특별자치도 양구군 동면 덕곡리 (2/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "장미상회",
+      "address": "강원특별자치도 양구군 동면 임당리 (1/3)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "행복상회",
+      "address": "강원특별자치도 양구군 동면 임당리 (1/5)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "K-마트",
+      "address": "강원특별자치도 양구군 동면 임당리 (2/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 동면 팔랑리 (1/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "종점상회",
+      "address": "강원특별자치도 양구군 동면 팔랑리 (1/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "홍천상회",
+      "address": "강원특별자치도 양구군 동면 팔랑리 (2/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "춘천상회",
+      "address": "강원특별자치도 양구군 동면 팔랑리 (2/4)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "칠성비디오",
+      "address": "강원특별자치도 양구군 동면 팔랑리 (2/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "부안상회",
+      "address": "강원특별자치도 양구군 동면 월운리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 동면 지석리 (1/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 동면 지석리 (2/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 동면 지석리 (2/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "66연대 관사촌(PX)",
+      "address": "강원특별자치도 양구군 동면 원당리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 동면 덕곡리 (2/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "임당대암아파트PX",
+      "address": "강원특별자치도 양구군 동면 임당리 (2/5)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "종점상회",
+      "address": "강원특별자치도 양구군 동면 팔랑리 (1/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "동일상회",
+      "address": "강원특별자치도 양구군 방산면 오미리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 방산면 금악리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "교전상회",
+      "address": "강원특별자치도 양구군 방산면 현리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "백석상회",
+      "address": "강원특별자치도 양구군 방산면 현리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "정복상회",
+      "address": "강원특별자치도 양구군 방산면 현리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "덕성사",
+      "address": "강원특별자치도 양구군 방산면 현리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "새마을상회",
+      "address": "강원특별자치도 양구군 국토정중앙면 용하리 (1/ )",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "도정슈퍼",
+      "address": "강원특별자치도 양구군 방산면 현리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "명통슈퍼",
+      "address": "강원특별자치도 양구군 방산면 장평리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "만물사",
+      "address": "강원특별자치도 양구군 방산면 장평리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "경북상회",
+      "address": "강원특별자치도 양구군 양구읍 상리 (5/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "방산지소연쇄점",
+      "address": "강원특별자치도 양구군 방산면 현리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "전진상회",
+      "address": "강원특별자치도 양구군 방산면 송현리 (1/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "믿음슈퍼",
+      "address": "강원특별자치도 양구군 방산면 송현리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "복된슈퍼",
+      "address": "강원특별자치도 양구군 방산면 송현리 (1/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "대흥사",
+      "address": "강원특별자치도 양구군 방산면 송현리 (1/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "광덕사",
+      "address": "강원특별자치도 양구군 방산면 송현리 (1/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "영일상회",
+      "address": "강원특별자치도 양구군 방산면 송현리 (2/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "고방산상회",
+      "address": "강원특별자치도 양구군 방산면 송현리 (2/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 해안면 현리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 해안면 현리 (3/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 해안면 오유리 (1/3)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 해안면 오유리 (2/4)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 해안면 만대리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "펀치볼주유소",
+      "address": "강원특별자치도 양구군 해안면 후리 725",
+      "roadAddress": "강원특별자치도 양구군 해안면 땅굴로 5",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "서울상회",
+      "address": "강원특별자치도 양구군 해안면 현리 (2/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "세일식품",
+      "address": "강원특별자치도 양구군 해안면 현리 (2/3)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "속초상회",
+      "address": "강원특별자치도 양구군 해안면 현리 (1/3)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "평화상회",
+      "address": "강원특별자치도 양구군 해안면 현리 (2/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "은혜상회",
+      "address": "강원특별자치도 양구군 해안면 현리 (2/3)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "새마을상회",
+      "address": "강원특별자치도 양구군 국토정중앙면 용하리 (1/ )",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 해안면 현리 (3/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "환영슈퍼",
+      "address": "강원특별자치도 양구군 해안면 오유리 (1/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "해안슈퍼",
+      "address": "강원특별자치도 양구군 해안면 오유리 (1/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 해안면 오유리 (2/3)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 해안면 만대리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "새마을상회",
+      "address": "강원특별자치도 양구군 국토정중앙면 용하리 (1/ )",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "해안분소연쇄점",
+      "address": "강원특별자치도 양구군 해안면 현리 (2/3)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "제4땅굴PX",
+      "address": "강원특별자치도 양구군 해안면 현리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "한전상회",
+      "address": "강원특별자치도 양구군 양구읍 한전리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-28"
+    },
+    {
+      "name": "윤아상회",
+      "address": "강원특별자치도 양구군 양구읍 한전리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "양구읍사무소",
+      "address": "강원특별자치도 양구군 양구읍 중리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "경북상회",
+      "address": "강원특별자치도 양구군 양구읍 상리 (5/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 하리 (2/3)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "신처낭회",
+      "address": "강원특별자치도 양구군 양구읍 중리 (1/ )",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 양구읍 상리 (3/ )",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 동면 지석리 (2/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 동면 임당리 (1/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 동면 임당리 (1/4)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "인제상회",
+      "address": "강원특별자치도 양구군 동면 팔랑리 (2/5)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "명진사",
+      "address": "강원특별자치도 양구군 양구읍 중리 (2/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "시장슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 상리 (4/5)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "만물상회",
+      "address": "강원특별자치도 양구군 양구읍 상리 (3/4)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대승상회",
+      "address": "강원특별자치도 양구군 양구읍 상리 (1/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 청리 (1/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "영진사",
+      "address": "강원특별자치도 양구군 국토정중앙면 용하리 (1/3)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "강원특별자치도 양구군 국토정중앙면 용하리 (1/ )",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "반도슈퍼",
+      "address": "강원특별자치도 양구군 국토정중앙면 용하리 (1/ )",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "새마을상회",
+      "address": "강원특별자치도 양구군 국토정중앙면 용하리 (1/ )",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 용하리 (2/ )",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 국토정중앙면 용하리 (2/ )",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "백호세탁소",
+      "address": "강원특별자치도 양구군 국토정중앙면 용하리 백호아파트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "진광상회",
+      "address": "강원특별자치도 양구군 국토정중앙면 구암리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "대월상회",
+      "address": "강원특별자치도 양구군 국토정중앙면 죽리 (1/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "풍년상회",
+      "address": "강원특별자치도 양구군 양구읍 중리 (2/3)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-17"
+    },
+    {
+      "name": "성남상회",
+      "address": "강원특별자치도 양구군 양구읍 상리 (4/2)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-17"
+    },
+    {
+      "name": "경기상회",
+      "address": "강원특별자치도 양구군 양구읍 상리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-17"
+    },
+    {
+      "name": "춘천상회",
+      "address": "강원특별자치도 양구군 동면 팔랑리 (2/4)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-17"
+    },
+    {
+      "name": "우일연쇄점",
+      "address": "강원특별자치도 양구군 동면 임당리 (2/3)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-17"
+    },
+    {
+      "name": "무",
+      "address": "강원특별자치도 양구군 동면 월운리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-17"
+    },
+    {
+      "name": "상리영외PX",
+      "address": "강원특별자치도 양구군 양구읍 상리 상리군인아파트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-17"
+    },
+    {
+      "name": "협신상회",
+      "address": "강원특별자치도 양구군 동면 임당리 (2/5)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-15"
+    },
+    {
+      "name": "영생슈퍼",
+      "address": "강원특별자치도 양구군 양구읍 중리 (2/ )",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-07-19"
+    },
+    {
+      "name": "축협판매장",
+      "address": "강원특별자치도 양구군 양구읍 상리 ( 5/ )",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-01"
+    },
+    {
+      "name": "영덕상회",
+      "address": "강원특별자치도 양구군 양구읍 상리 (3/1)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-04"
+    }
+  ]
+}

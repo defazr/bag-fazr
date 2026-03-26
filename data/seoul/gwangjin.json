@@ -1,0 +1,612 @@
+{
+  "region": "서울특별시",
+  "regionSlug": "seoul",
+  "district": "광진구",
+  "districtSlug": "gwangjin",
+  "updatedAt": "2026-03-26",
+  "totalCount": 86,
+  "stores": [
+    {
+      "name": "만복상회",
+      "address": "서울특별시 광진구 중곡동 233-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-03"
+    },
+    {
+      "name": "소망마트",
+      "address": "서울특별시 광진구 중곡동 239-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-05"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "서울특별시 광진구 중곡동 341-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동일슈퍼",
+      "address": "서울특별시 광진구 중곡동 51-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-05"
+    },
+    {
+      "name": "빙그레슈퍼",
+      "address": "서울특별시 광진구 중곡동 644-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-29"
+    },
+    {
+      "name": "종합전기내용",
+      "address": "서울특별시 광진구 중곡동 640-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-29"
+    },
+    {
+      "name": "우정슈퍼",
+      "address": "서울특별시 광진구 중곡동 254-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-30"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "서울특별시 광진구 중곡동 165-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-30"
+    },
+    {
+      "name": "건어물상회",
+      "address": "서울특별시 광진구 중곡동 230-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일쌀상회",
+      "address": "서울특별시 광진구 중곡동 241-6",
+      "roadAddress": "서울특별시 광진구 능동로47길 37-1  (중곡동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-30"
+    },
+    {
+      "name": "중곡지물포",
+      "address": "서울특별시 광진구 중곡동 241-52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-30"
+    },
+    {
+      "name": "보성종합슈퍼",
+      "address": "서울특별시 광진구 중곡동 242-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-30"
+    },
+    {
+      "name": "세정마트",
+      "address": "서울특별시 광진구 중곡동 231-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-30"
+    },
+    {
+      "name": "남원슈퍼",
+      "address": "서울특별시 광진구 중곡동 256-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-30"
+    },
+    {
+      "name": "신성마트",
+      "address": "서울특별시 광진구 중곡동 646-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-30"
+    },
+    {
+      "name": "신세계식품",
+      "address": "서울특별시 광진구 중곡동 241-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-30"
+    },
+    {
+      "name": "우대마트",
+      "address": "서울특별시 광진구 중곡동 232-60",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-13"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "서울특별시 광진구 중곡동 242-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-28"
+    },
+    {
+      "name": "개미슈퍼",
+      "address": "서울특별시 광진구 중곡동 50-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-02"
+    },
+    {
+      "name": "하나마트",
+      "address": "서울특별시 광진구 중곡동 150-223",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-02"
+    },
+    {
+      "name": "청풍상회",
+      "address": "서울특별시 광진구 중곡동 37-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-02"
+    },
+    {
+      "name": "유성슈퍼",
+      "address": "서울특별시 광진구 중곡동 138-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-02"
+    },
+    {
+      "name": "해민슈퍼",
+      "address": "서울특별시 광진구 중곡동 150-161",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-21"
+    },
+    {
+      "name": "중곡종합슈퍼",
+      "address": "서울특별시 광진구 중곡동 139-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-15"
+    },
+    {
+      "name": "영영슈퍼",
+      "address": "서울특별시 광진구 중곡동 119-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-03"
+    },
+    {
+      "name": "중곡우체국",
+      "address": "서울특별시 광진구 중곡동 43-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-13"
+    },
+    {
+      "name": "칠성슈퍼",
+      "address": "서울특별시 광진구 중곡동 47-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-21"
+    },
+    {
+      "name": "보림마트",
+      "address": "서울특별시 광진구 중곡동 150-207",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-03"
+    },
+    {
+      "name": "중곡하이퍼",
+      "address": "서울특별시 광진구 중곡동 38-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-03"
+    },
+    {
+      "name": "서울마트",
+      "address": "서울특별시 광진구 중곡동 138-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-03"
+    },
+    {
+      "name": "용마슈퍼",
+      "address": "서울특별시 광진구 중곡동 121-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-03"
+    },
+    {
+      "name": "신성뉴마트",
+      "address": "서울특별시 광진구 중곡동 159-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-28"
+    },
+    {
+      "name": "종로상사",
+      "address": "서울특별시 광진구 중곡동 44-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-16"
+    },
+    {
+      "name": "세진슈퍼",
+      "address": "서울특별시 광진구 중곡동 54-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-16"
+    },
+    {
+      "name": "보형사",
+      "address": "서울특별시 광진구 중곡동 220-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-03"
+    },
+    {
+      "name": "중앙철물",
+      "address": "서울특별시 광진구 중곡동 170-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-03"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "서울특별시 광진구 중곡동 169-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-03"
+    },
+    {
+      "name": "유공식품",
+      "address": "서울특별시 광진구 중곡동 194-69",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-04"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "서울특별시 광진구 중곡동 191-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-04"
+    },
+    {
+      "name": "희망사",
+      "address": "서울특별시 광진구 중곡동 174-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-04"
+    },
+    {
+      "name": "금남슈퍼",
+      "address": "서울특별시 광진구 중곡동 542-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-04"
+    },
+    {
+      "name": "풍산슈퍼",
+      "address": "서울특별시 광진구 중곡동 190-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-04"
+    },
+    {
+      "name": "행운슈퍼",
+      "address": "서울특별시 광진구 중곡동 553-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-04"
+    },
+    {
+      "name": "수현슈퍼",
+      "address": "서울특별시 광진구 중곡동 540-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-04"
+    },
+    {
+      "name": "서울상회",
+      "address": "서울특별시 광진구 중곡동 566-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-04"
+    },
+    {
+      "name": "보광슈퍼",
+      "address": "서울특별시 광진구 중곡동 548-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-04"
+    },
+    {
+      "name": "한성식품",
+      "address": "서울특별시 광진구 중곡동 169-87",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-16"
+    },
+    {
+      "name": "흥산슈퍼",
+      "address": "서울특별시 광진구 중곡동 198-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알파와오메가",
+      "address": "서울특별시 광진구 중곡동 192-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-16"
+    },
+    {
+      "name": "대원슈퍼",
+      "address": "서울특별시 광진구 중곡동 18-88",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-04"
+    },
+    {
+      "name": "중곡쌀상회",
+      "address": "서울특별시 광진구 중곡동 91-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-04"
+    },
+    {
+      "name": "광진슈퍼",
+      "address": "서울특별시 광진구 중곡동 93-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-07"
+    },
+    {
+      "name": "장성슈퍼",
+      "address": "서울특별시 광진구 중곡동 62-64",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-04"
+    },
+    {
+      "name": "백악관슈퍼",
+      "address": "서울특별시 광진구 중곡동 112-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-16"
+    },
+    {
+      "name": "대도하이퍼마켓",
+      "address": "서울특별시 광진구 중곡동 23-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-28"
+    },
+    {
+      "name": "성신슈퍼",
+      "address": "서울특별시 광진구 중곡동 503-329",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-04"
+    },
+    {
+      "name": "수빈미니마트",
+      "address": "서울특별시 광진구 중곡동 84-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-04"
+    },
+    {
+      "name": "농협하나로마트",
+      "address": "서울특별시 광진구 중곡동 150-75",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-04"
+    },
+    {
+      "name": "새마을슈퍼",
+      "address": "서울특별시 광진구 중곡동 74-120",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-04"
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "서울특별시 광진구 중곡동 109-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-28"
+    },
+    {
+      "name": "농협식품전문점",
+      "address": "서울특별시 광진구 중곡동 88-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-15"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "서울특별시 광진구 중곡동 106-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-25"
+    },
+    {
+      "name": "벨마트",
+      "address": "서울특별시 광진구 중곡동 75-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-22"
+    },
+    {
+      "name": "중곡공판장",
+      "address": "서울특별시 광진구 중곡동 89-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-01"
+    },
+    {
+      "name": "신양슈",
+      "address": "서울특별시 광진구 중곡동 18-111",
+      "roadAddress": "서울특별시 광진구 용마산로24길 14  (중곡동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-06"
+    },
+    {
+      "name": "금성슈퍼",
+      "address": "서울특별시 광진구 중곡동 73-110",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-04"
+    },
+    {
+      "name": "용곡하이퍼",
+      "address": "서울특별시 광진구 중곡동 18-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-21"
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "서울특별시 광진구 중곡동 296-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "자양슈퍼",
+      "address": "서울특별시 광진구 자양동 775",
+      "roadAddress": "서울특별시 광진구 자양로19길 63  (자양동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-14"
+    },
+    {
+      "name": "광신슈퍼",
+      "address": "서울특별시 광진구 자양동 225-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-16"
+    },
+    {
+      "name": "청양슈퍼",
+      "address": "서울특별시 광진구 자양동 222-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-18"
+    },
+    {
+      "name": "새마을구판장",
+      "address": "서울특별시 광진구 자양동 622-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-18"
+    },
+    {
+      "name": "미복사",
+      "address": "서울특별시 광진구 자양동 609-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-18"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "서울특별시 광진구 자양동 615-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-18"
+    },
+    {
+      "name": "삼성사",
+      "address": "서울특별시 광진구 자양동 660-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-18"
+    },
+    {
+      "name": "LG슈퍼렛",
+      "address": "서울특별시 광진구 자양동 633",
+      "roadAddress": "서울특별시 광진구 뚝섬로55길 39  (자양동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-18"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "서울특별시 광진구 자양동 651-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-18"
+    },
+    {
+      "name": "해제쌀직매장",
+      "address": "서울특별시 광진구 자양동 616-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-07"
+    },
+    {
+      "name": "광진공판장",
+      "address": "서울특별시 광진구 자양동 229-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-03"
+    },
+    {
+      "name": "형제상회",
+      "address": "서울특별시 광진구 자양동 220-107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-08"
+    },
+    {
+      "name": "동양슈퍼마켓",
+      "address": "서울특별시 광진구 중곡동 245-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-02"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "서울특별시 광진구 중곡동 259-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-13"
+    },
+    {
+      "name": "(주)해태유통",
+      "address": "서울특별시 광진구 중곡동 229-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-21"
+    },
+    {
+      "name": "성동마트",
+      "address": "서울특별시 광진구 중곡동 247-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-02"
+    },
+    {
+      "name": "중곡전원마트",
+      "address": "서울특별시 광진구 중곡동 234-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-25"
+    },
+    {
+      "name": "영신마트",
+      "address": "서울특별시 광진구 중곡동 248-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-08"
+    }
+  ]
+}

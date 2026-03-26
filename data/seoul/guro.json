@@ -1,0 +1,38 @@
+{
+  "region": "서울특별시",
+  "regionSlug": "seoul",
+  "district": "구로구",
+  "districtSlug": "guro",
+  "updatedAt": "2026-03-26",
+  "totalCount": 4,
+  "stores": [
+    {
+      "name": "정아슈퍼",
+      "address": "서울특별시 구로구 고척동 134-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-02"
+    },
+    {
+      "name": "웅진상회",
+      "address": "서울특별시 구로구 고척동 145-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-02"
+    },
+    {
+      "name": "코사마트",
+      "address": "서울특별시 구로구 궁동 175-5 다청림101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-24"
+    },
+    {
+      "name": "(주)늘푸른제이에스 탑마트",
+      "address": "서울특별시 구로구 개봉동 359-2",
+      "roadAddress": "서울특별시 구로구 개봉로3길 9, 1층 (개봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-02-04"
+    }
+  ]
+}

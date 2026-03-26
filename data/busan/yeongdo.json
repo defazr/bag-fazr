@@ -1,0 +1,3265 @@
+{
+  "region": "부산광역시",
+  "regionSlug": "busan",
+  "district": "영도구",
+  "districtSlug": "yeongdo",
+  "updatedAt": "2026-03-26",
+  "totalCount": 465,
+  "stores": [
+    {
+      "name": "선술집",
+      "address": "부산광역시 영도구 대평동1가 156",
+      "roadAddress": "부산광역시 영도구 대평로19번길 20  (대평동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "국제슈퍼",
+      "address": "부산광역시 영도구 대평동1가 90",
+      "roadAddress": "부산광역시 영도구 대평로 15  (대평동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대동APT관리소",
+      "address": "부산광역시 영도구 대평동1가 119",
+      "roadAddress": "부산광역시 영도구 대평로19번길 12  (대평동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가대평슈퍼",
+      "address": "부산광역시 영도구 대평동1가 113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충무상회",
+      "address": "부산광역시 영도구 대평동1가 36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이창상회",
+      "address": "부산광역시 영도구 대평동1가 42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "부산광역시 영도구 대평동2가 84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배포",
+      "address": "부산광역시 영도구 대평동2가 38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "부산광역시 영도구 대평동1가 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대동슈퍼",
+      "address": "부산광역시 영도구 대평동1가 104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한나라할인마트대평점",
+      "address": "부산광역시 영도구 대평동1가 96",
+      "roadAddress": "부산광역시 영도구 대평로 17-1  (대평동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "거창상회",
+      "address": "부산광역시 영도구 남항동3가 141-113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남항동사무소",
+      "address": "부산광역시 영도구 남항동1가 59",
+      "roadAddress": "부산광역시 영도구 남항로9번길 1 (남항동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "항구슈퍼마켓",
+      "address": "부산광역시 영도구 남항동1가 59",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부일슈퍼",
+      "address": "부산광역시 영도구 남항동1가 43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구포흑염소",
+      "address": "부산광역시 영도구 남항동1가 178-23",
+      "roadAddress": "부산광역시 영도구 남항로 29  (남항동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남일상회",
+      "address": "부산광역시 영도구 남항동1가 142-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유미상회",
+      "address": "부산광역시 영도구 남항동1가 109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고은상회",
+      "address": "부산광역시 영도구 남항동1가 225",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부식가게",
+      "address": "부산광역시 영도구 남항동2가 75-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "재우슈퍼마켓",
+      "address": "부산광역시 영도구 남항동2가 186-2",
+      "roadAddress": "부산광역시 영도구 남항서로82번길 59-6 (남항동2가)",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-31"
+    },
+    {
+      "name": "부영문구사",
+      "address": "부산광역시 영도구 남항동2가 65",
+      "roadAddress": "부산광역시 영도구 절영로 68  (남항동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "맹호상회",
+      "address": "부산광역시 영도구 남항동3가 29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신한슈퍼마켓",
+      "address": "부산광역시 영도구 남항동3가 32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화랑상회",
+      "address": "부산광역시 영도구 남항동3가 100",
+      "roadAddress": "부산광역시 영도구 절영로94번길 14  (남항동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부식가게",
+      "address": "부산광역시 영도구 남항동3가 46",
+      "roadAddress": "부산광역시 영도구 남항서로82번길 48-25  (남항동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25 남항점",
+      "address": "부산광역시 영도구 남항동1가 63",
+      "roadAddress": "부산광역시 영도구 남항로 13  (남항동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화목슈퍼",
+      "address": "부산광역시 영도구 남항동3가 136-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신한상회",
+      "address": "부산광역시 영도구 남항동3가 79-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북상회",
+      "address": "부산광역시 영도구 남항동3가 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "재성슈퍼",
+      "address": "부산광역시 영도구 남항동2가 71",
+      "roadAddress": "부산광역시 영도구 남항로16번길 23  (남항동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무궁화슈퍼",
+      "address": "부산광역시 영도구 남항동3가 34-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "내원상회",
+      "address": "부산광역시 영도구 남항동1가 165-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남항슈퍼",
+      "address": "부산광역시 영도구 남항동1가 220",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍년왔다슈퍼",
+      "address": "부산광역시 영도구 남항동2가 48",
+      "roadAddress": "부산광역시 영도구 남항로10번길 1  (남항동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양 슈퍼",
+      "address": "부산광역시 영도구 남항동1가 123",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장성상회",
+      "address": "부산광역시 영도구 남항동3가 24",
+      "roadAddress": "부산광역시 영도구 남항서로 59  (남항동3가)",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-31"
+    },
+    {
+      "name": "경북상회",
+      "address": "부산광역시 영도구 남항동1가 15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-31"
+    },
+    {
+      "name": "미영상회",
+      "address": "부산광역시 영도구 남항동1가 185",
+      "roadAddress": "부산광역시 영도구 남항로31번길 5  (남항동1가)",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-31"
+    },
+    {
+      "name": "코인하우스",
+      "address": "부산광역시 영도구 대평동2가 28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-31"
+    },
+    {
+      "name": "상주상회",
+      "address": "부산광역시 영도구 남항동1가 224",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-31"
+    },
+    {
+      "name": "정임슈퍼",
+      "address": "부산광역시 영도구 남항동1가 171-5    6 통7  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영선1동사무소",
+      "address": "부산광역시 영도구 영선동1가 97-3",
+      "roadAddress": "부산광역시 영도구 꿈나무길 25 (영선동1가)",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-31"
+    },
+    {
+      "name": "축협남항판매장",
+      "address": "부산광역시 영도구 영선동2가 1-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해동칼라현상소",
+      "address": "부산광역시 영도구 영선동1가 64-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북상회",
+      "address": "부산광역시 영도구 영선동1가 128",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현아상회",
+      "address": "부산광역시 영도구 영선동1가 35-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영선문방구",
+      "address": "부산광역시 영도구 영선동2가 180-2   4 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정일 식육점",
+      "address": "부산광역시 영도구 영선동2가 5-1   8 통1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상선할인매장",
+      "address": "부산광역시 영도구 영선동2가 43-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인환상회",
+      "address": "부산광역시 영도구 영선동1가 95 3 통4반",
+      "roadAddress": "부산광역시 영도구 영봉길 22  (영선동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나슈퍼",
+      "address": "부산광역시 영도구 영선동2가 208",
+      "roadAddress": "부산광역시 영도구 꿈나무길 148  (영선동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아슈퍼",
+      "address": "부산광역시 영도구 영선동2가 19-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영선슈퍼",
+      "address": "부산광역시 영도구 영선동1가 45-5 2통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼영문구",
+      "address": "부산광역시 영도구 영선동2가 73-1   2 통3 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "울산 슈퍼",
+      "address": "부산광역시 영도구 영선동2가 70 8  통5 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청길 상회",
+      "address": "부산광역시 영도구 영선동2가 65",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "완도상회",
+      "address": "부산광역시 영도구 영선동2가 183-4   5통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강남 슈퍼",
+      "address": "부산광역시 영도구 영선동2가 196-1   5통3 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가 슈퍼",
+      "address": "부산광역시 영도구 영선동1가 115-7",
+      "roadAddress": "부산광역시 영도구 꿈나무길 65 (영선동1가)",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-31"
+    },
+    {
+      "name": "제주슈퍼",
+      "address": "부산광역시 영도구 영선동1가 111-3  4통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "환영공업사",
+      "address": "부산광역시 영도구 영선동1가 42",
+      "roadAddress": "부산광역시 영도구 남항로49번길 48  (영선동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "샘 슈퍼",
+      "address": "부산광역시 영도구 영선동4가 783",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영선2동행정복지센터",
+      "address": "부산광역시 영도구 영선동3가 35-1 영선2동주민센터",
+      "roadAddress": "부산광역시 영도구 영선대로 65, 영선2동주민센터 (영선동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "여명상회",
+      "address": "부산광역시 영도구 영선동3가 25 1통6 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "축협 판매장",
+      "address": "부산광역시 영도구 영선동3가 1 1 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "축협 판매장",
+      "address": "부산광역시 영도구 영선동3가 31",
+      "roadAddress": "부산광역시 영도구 절영로101번길 16-1  (영선동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에이스 마트",
+      "address": "부산광역시 영도구 영선동4가 76-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부광슈퍼",
+      "address": "부산광역시 영도구 영선동4가 13-3  7 통2 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사랑 슈퍼",
+      "address": "부산광역시 영도구 영선동4가 124-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안전카인테리어",
+      "address": "부산광역시 영도구 영선동3가 56-2   2통5 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남양슈퍼",
+      "address": "부산광역시 영도구 영선동3가 104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동명슈퍼",
+      "address": "부산광역시 영도구 영선동4가 181 12통5반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영선문구완구",
+      "address": "부산광역시 영도구 영선동4가 996 19통1 반",
+      "roadAddress": "부산광역시 영도구 절영로 214-1  (영선동4가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명종슈퍼",
+      "address": "부산광역시 영도구 영선동3가 75",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영도슈퍼",
+      "address": "부산광역시 영도구 영선동3가 166-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성지슈퍼",
+      "address": "부산광역시 영도구 영선동4가 1555",
+      "roadAddress": "부산광역시 영도구 향토길 14  (영선동4가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지곡상회",
+      "address": "부산광역시 영도구 영선동4가 1476",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미화당 슈퍼",
+      "address": "부산광역시 영도구 영선동3가 91-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대경 슈퍼",
+      "address": "부산광역시 영도구 영선동3가 115",
+      "roadAddress": "부산광역시 영도구 남항새싹길 14  (영선동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쌍둥이 미용실",
+      "address": "부산광역시 영도구 영선동4가 30 3 통4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영선과일점",
+      "address": "부산광역시 영도구 영선동4가 119 7통3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "부산광역시 영도구 영선동4가 114-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "함양 쌀집",
+      "address": "부산광역시 영도구 영선동4가 161",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초량연탄판매소",
+      "address": "부산광역시 영도구 영선동4가 208 15 통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리쌀상회",
+      "address": "부산광역시 영도구 영선동4가 587 19통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하동 슈퍼",
+      "address": "부산광역시 영도구 영선동4가 992",
+      "roadAddress": "부산광역시 영도구 절영로 212-1  (영선동4가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경전 슈퍼",
+      "address": "부산광역시 영도구 영선동4가 1447 20 통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대원상가 편의점",
+      "address": "부산광역시 영도구 영선동4가 245-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스파 슈퍼",
+      "address": "부산광역시 영도구 영선동4가 245-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍 가게",
+      "address": "부산광역시 영도구 영선동4가 232-23  16통5 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "학우사",
+      "address": "부산광역시 영도구 영선동3가 119",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영 과일상회",
+      "address": "부산광역시 영도구 영선동4가 1075 23 통1  반",
+      "roadAddress": "부산광역시 영도구 절영로 226  (영선동4가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미화당연쇄점",
+      "address": "부산광역시 영도구 영선동4가 245-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "열린 책방",
+      "address": "부산광역시 영도구 영선동4가 162 18통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신선1동사무소",
+      "address": "부산광역시 영도구 신선동1가 194-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무지개 슈퍼",
+      "address": "부산광역시 영도구 신선동1가 31-1   2 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영미슈퍼",
+      "address": "부산광역시 영도구 신선동1가 133 1 통1반",
+      "roadAddress": "부산광역시 영도구 영도새싹길 18  (신선동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "외나무 슈퍼",
+      "address": "부산광역시 영도구 신선동1가 239-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하남  슈퍼",
+      "address": "부산광역시 영도구 신선동1가 180-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새서울 슈퍼",
+      "address": "부산광역시 영도구 신선동1가 217-1   7 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오륙도 슈퍼",
+      "address": "부산광역시 영도구 신선동1가 219-96   7 통5 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선산 상회",
+      "address": "부산광역시 영도구 신선동1가 261-3    8  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을 슈퍼",
+      "address": "부산광역시 영도구 신선동1가 209",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제 슈퍼",
+      "address": "부산광역시 영도구 신선동1가 266 8  통3 반",
+      "roadAddress": "부산광역시 영도구 중복길 468  (신선동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "근대화 슈퍼",
+      "address": "부산광역시 영도구 신선동1가 13 2통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장집",
+      "address": "부산광역시 영도구 신선동1가 72-17   1 통3 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "부산광역시 영도구 신선동1가 176",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장집",
+      "address": "부산광역시 영도구 신선동1가 27-5   3 통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부식 가게",
+      "address": "부산광역시 영도구 신선동1가 196 6 통2 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키 상회",
+      "address": "부산광역시 영도구 신선동1가 219-18  5 통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청우슈퍼",
+      "address": "부산광역시 영도구 신선동1가 219 8 통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신신 쌀유통",
+      "address": "부산광역시 영도구 신선동1가 26-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신선2동 사무소",
+      "address": "부산광역시 영도구 신선동2가 151-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리 슈퍼",
+      "address": "부산광역시 영도구 신선동2가 127-30   8 통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수정 슈퍼",
+      "address": "부산광역시 영도구 신선동2가 156-182  15 통5 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배가게",
+      "address": "부산광역시 영도구 신선동2가 2 1  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키유통",
+      "address": "부산광역시 영도구 신선동2가 125-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양 슈퍼",
+      "address": "부산광역시 영도구 신선동2가 197-7   3 통2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영강슈퍼",
+      "address": "부산광역시 영도구 신선동2가 129-85   8 통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중복 슈퍼",
+      "address": "부산광역시 영도구 신선동2가 147-2   13 통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영광슈퍼",
+      "address": "부산광역시 영도구 신선동2가 127-30",
+      "roadAddress": "부산광역시 영도구 세갈래길 22  (신선동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "민정슈퍼",
+      "address": "부산광역시 영도구 신선동2가 169 15 통5 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청산슈퍼",
+      "address": "부산광역시 영도구 신선동2가 172-14   11 통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부식가게",
+      "address": "부산광역시 영도구 신선동2가 156-170",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "밀양 쌀 슈퍼",
+      "address": "부산광역시 영도구 신선동2가 94-31  6  통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "부산광역시 영도구 신선동2가 62 4통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초가 슈퍼",
+      "address": "부산광역시 영도구 신선동2가 162-60  15통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상우문구완구",
+      "address": "부산광역시 영도구 신선동2가 195-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대 식육점",
+      "address": "부산광역시 영도구 신선동2가 110-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성 슈퍼",
+      "address": "부산광역시 영도구 신선동2가 132-48   12 통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신선 슈퍼",
+      "address": "부산광역시 영도구 신선동2가 134-29   19통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "부산광역시 영도구 신선동2가 174-5   11통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부산보일러",
+      "address": "부산광역시 영도구 신선동2가 80-4  11 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대 슈퍼",
+      "address": "부산광역시 영도구 신선동2가 94-56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "샛별 슈퍼",
+      "address": "부산광역시 영도구 신선동2가 173",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부산 슈퍼",
+      "address": "부산광역시 영도구 신선동2가 93 7  통6 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영아 슈퍼",
+      "address": "부산광역시 영도구 신선동2가 66-5 4 통3 반",
+      "roadAddress": "부산광역시 영도구 나눔길 62  (신선동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선경유통에스마트",
+      "address": "부산광역시 영도구 신선동2가 180 11통6반",
+      "roadAddress": "부산광역시 영도구 중복길 117  (신선동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신선3동사무소",
+      "address": "부산광역시 영도구 신선동3가 84-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아람피어",
+      "address": "부산광역시 영도구 신선동3가 37-1 3 통1 반",
+      "roadAddress": "부산광역시 영도구 영상길 24  (신선동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태광 전기",
+      "address": "부산광역시 영도구 신선동3가 128-3  2통2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동일슈퍼",
+      "address": "부산광역시 영도구 신선동3가 89 5  통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경남 슈퍼",
+      "address": "부산광역시 영도구 신선동3가 96 6 통5 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제 상회",
+      "address": "부산광역시 영도구 신선동3가 99-1  7통3 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍년슈퍼",
+      "address": "부산광역시 영도구 신선동3가 93-20  7 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "협성 슈퍼",
+      "address": "부산광역시 영도구 신선동3가 104 11통2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성수 슈퍼",
+      "address": "부산광역시 영도구 신선동3가 111-199",
+      "roadAddress": "부산광역시 영도구 영마루길 85  (신선동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부일 슈퍼",
+      "address": "부산광역시 영도구 신선동3가 103-22   12 통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연 쇄 점",
+      "address": "부산광역시 영도구 신선동3가 101-54  9 통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연 쇄 점",
+      "address": "부산광역시 영도구 신선동3가 102-34   10 통5 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연 쇄 점",
+      "address": "부산광역시 영도구 신선동3가 26 3 통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남항 슈퍼",
+      "address": "부산광역시 영도구 신선동3가 131-10  2 통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청도 식육점",
+      "address": "부산광역시 영도구 신선동3가 70-7",
+      "roadAddress": "부산광역시 영도구 하나길 345  (신선동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월남 전기",
+      "address": "부산광역시 영도구 신선동3가 101 8  통2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연 쇄 점",
+      "address": "부산광역시 영도구 신선동3가 101-113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대림 철물",
+      "address": "부산광역시 영도구 신선동3가 129-1    2통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담 배 집",
+      "address": "부산광역시 영도구 신선동3가 101-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연 쇄 점",
+      "address": "부산광역시 영도구 신선동3가 102-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미화당 슈퍼",
+      "address": "부산광역시 영도구 신선동3가 101-56  9 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광우 슈퍼",
+      "address": "부산광역시 영도구 신선동3가 91-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍년할인마트",
+      "address": "부산광역시 영도구 신선동3가 127-4  1 통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "부산광역시 영도구 신선동3가 81-2   4  통5 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉래1동행정복지센터",
+      "address": "부산광역시 영도구 봉래동3가 115-1",
+      "roadAddress": "부산광역시 영도구 대교로6번길 5 (봉래동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성 슈퍼",
+      "address": "부산광역시 영도구 봉래동1가 11-6   1통1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배가게",
+      "address": "부산광역시 영도구 봉래동1가 19-3   1 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영광골든슈퍼",
+      "address": "부산광역시 영도구 봉래동1가 77 1  통4 반",
+      "roadAddress": "부산광역시 영도구 절영로 4  (봉래동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키 슈퍼",
+      "address": "부산광역시 영도구 봉래동1가 115 3  통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배가게",
+      "address": "부산광역시 영도구 봉래동2가 46 6통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배가게",
+      "address": "부산광역시 영도구 봉래동2가 115 13통2 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청도상회",
+      "address": "부산광역시 영도구 봉래동2가 152",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대교 슈퍼",
+      "address": "부산광역시 영도구 봉래동2가 97-13   17 통5 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일문구",
+      "address": "부산광역시 영도구 봉래동3가 82-16  9 통3 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "부산광역시 영도구 봉래동2가 33-3   6 통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북상회",
+      "address": "부산광역시 영도구 봉래동2가 36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명진상회",
+      "address": "부산광역시 영도구 봉래동2가 12 5통1 반",
+      "roadAddress": "부산광역시 영도구 절영로13번길 25  (봉래동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대교슈퍼",
+      "address": "부산광역시 영도구 봉래동1가 43 1  통4  반",
+      "roadAddress": "부산광역시 영도구 태종로73번길 37  (봉래동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신성상회",
+      "address": "부산광역시 영도구 봉래동1가 90-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보성슈퍼",
+      "address": "부산광역시 영도구 봉래동2가 12 5  통1  반",
+      "roadAddress": "부산광역시 영도구 절영로13번길 25  (봉래동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍년슈퍼",
+      "address": "부산광역시 영도구 봉래동2가 12 5  통3  반 대화아파트 302",
+      "roadAddress": "부산광역시 영도구 절영로13번길 25  (봉래동2가,대화아파트 302)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미광슈퍼",
+      "address": "부산광역시 영도구 봉래동3가 111-11   10 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부용슈퍼",
+      "address": "부산광역시 영도구 봉래동3가 7-5    7  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데연쇄점",
+      "address": "부산광역시 영도구 봉래동3가 56 8  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "밀양슈퍼",
+      "address": "부산광역시 영도구 봉래동3가 61 18 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주례상회",
+      "address": "부산광역시 영도구 봉래동3가 139 11 통4  반",
+      "roadAddress": "부산광역시 영도구 대교로2번길 45  (봉래동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동진상사",
+      "address": "부산광역시 영도구 봉래동3가 90-4    10 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가 제림슈퍼",
+      "address": "부산광역시 영도구 봉래동3가 146 11 통4  반",
+      "roadAddress": "부산광역시 영도구 대교로6번길 22-3  (봉래동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)한유통",
+      "address": "부산광역시 영도구 봉래동3가 38-4    17 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남상회",
+      "address": "부산광역시 영도구 봉래동3가 8 7  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남상회",
+      "address": "부산광역시 영도구 봉래동3가 121-4    15 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제상회",
+      "address": "부산광역시 영도구 봉래동3가 17-1    7  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉래지업사",
+      "address": "부산광역시 영도구 봉래동3가 4 7  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영도종합문구",
+      "address": "부산광역시 영도구 봉래동3가 42-6    8  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "할매집",
+      "address": "부산광역시 영도구 봉래동3가 94-8    10 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영도슈퍼",
+      "address": "부산광역시 영도구 봉래동3가 3-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉래3동사무소",
+      "address": "부산광역시 영도구 봉래동4가 45-20   1  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "의령상회",
+      "address": "부산광역시 영도구 봉래동4가 94-5    2  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충무슈퍼",
+      "address": "부산광역시 영도구 봉래동4가 96-2    3  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대구상회",
+      "address": "부산광역시 영도구 봉래동4가 94-7    2  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김해상회",
+      "address": "부산광역시 영도구 봉래동4가 73-6    2  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "부산광역시 영도구 봉래동4가 261 13 통1  반",
+      "roadAddress": "부산광역시 영도구 봉래길 86  (봉래동4가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부산상회",
+      "address": "부산광역시 영도구 봉래동4가 147-2    7  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아리랑가게",
+      "address": "부산광역시 영도구 봉래동4가 190 8  통1  반",
+      "roadAddress": "부산광역시 영도구 아리랑길 93  (봉래동4가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "부산광역시 영도구 봉래동4가 181 12통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신발가게",
+      "address": "부산광역시 영도구 봉래동4가 169-72   7  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "부산광역시 영도구 봉래동4가 172-1    8  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우진건재",
+      "address": "부산광역시 영도구 봉래동4가 249-1    10 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광계슈퍼",
+      "address": "부산광역시 영도구 봉래동4가 205 12 통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉래상회",
+      "address": "부산광역시 영도구 봉래동4가 204-8    9  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "부산광역시 영도구 봉래동4가 124-3    4  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원이상회",
+      "address": "부산광역시 영도구 봉래동4가 134-5    5  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보라슈퍼",
+      "address": "부산광역시 영도구 봉래동4가 123-26   4  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "부산광역시 영도구 봉래동4가 185-1    8  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우림슈퍼",
+      "address": "부산광역시 영도구 봉래동4가 300 12 통5  반",
+      "roadAddress": "부산광역시 영도구 봉래길 94  (봉래동4가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정문슈퍼",
+      "address": "부산광역시 영도구 봉래동4가 260-6    9  통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해성상회",
+      "address": "부산광역시 영도구 봉래동4가 300 12 통1  반",
+      "roadAddress": "부산광역시 영도구 봉래길 94  (봉래동4가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뚱보분식",
+      "address": "부산광역시 영도구 봉래동4가 245-1    10 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉래4동사무소",
+      "address": "부산광역시 영도구 봉래동4가 99-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일반전기용품",
+      "address": "부산광역시 영도구 봉래동4가 152-10   4  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "밀성상회",
+      "address": "부산광역시 영도구 봉래동5가 35 2  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍년상회",
+      "address": "부산광역시 영도구 봉래동5가 137-35   4  통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "부산광역시 영도구 봉래동5가 89 2  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "울진상회",
+      "address": "부산광역시 영도구 봉래동5가 153-17   5  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북상회",
+      "address": "부산광역시 영도구 봉래동5가 62-77   3  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "부산광역시 영도구 봉래동5가 109-17   15 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "부산광역시 영도구 봉래동5가 122-56   16 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광신슈퍼",
+      "address": "부산광역시 영도구 봉래동5가 187 12 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성창슈퍼",
+      "address": "부산광역시 영도구 봉래동5가 118-10   9  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥상회",
+      "address": "부산광역시 영도구 봉래동5가 177-1    12 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "부산광역시 영도구 봉래동5가 82 5  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보리밥집",
+      "address": "부산광역시 영도구 봉래동5가 82 3  통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "부산광역시 영도구 봉래동5가 147 4  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영슈퍼",
+      "address": "부산광역시 영도구 봉래동5가 154 5  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성도슈퍼",
+      "address": "부산광역시 영도구 봉래동5가 132-3    18 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한마음슈퍼",
+      "address": "부산광역시 영도구 봉래동5가 178 9  통1  반",
+      "roadAddress": "부산광역시 영도구 봉래길 164  (봉래동5가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉학슈퍼",
+      "address": "부산광역시 영도구 봉래동5가 99-3    8  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소리슈퍼",
+      "address": "부산광역시 영도구 봉래동5가 122 12 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "부산광역시 영도구 봉래동5가 49-1    1  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다정슈퍼",
+      "address": "부산광역시 영도구 봉래동5가 169 11 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "부산광역시 영도구 봉래동5가 120-33   8  통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한성맨션관리실",
+      "address": "부산광역시 영도구 봉래동5가 45-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "부산광역시 영도구 봉래동5가 79-9    1  통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉래상회",
+      "address": "부산광역시 영도구 봉래동5가 141-8    6  통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장림슈퍼",
+      "address": "부산광역시 영도구 봉래동5가 62-50   3  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오래식육점",
+      "address": "부산광역시 영도구 봉래동5가 152-8    4  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청학1동행정복지센터",
+      "address": "부산광역시 영도구 청학동 360-27 청학1동주민센터",
+      "roadAddress": "부산광역시 영도구 청학서로 78, 청학1동주민센터 (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청학 상회",
+      "address": "부산광역시 영도구 청학동 389-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대륙상회",
+      "address": "부산광역시 영도구 청학동 365-29  4통2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오성상회",
+      "address": "부산광역시 영도구 청학동 336-16   5 통6반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동삼 슈퍼",
+      "address": "부산광역시 영도구 청학동 366-7   6 통5 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고성 쌀집",
+      "address": "부산광역시 영도구 청학동 321-78",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황해 슈퍼",
+      "address": "부산광역시 영도구 청학동 316-8   7 통5 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부국 상회",
+      "address": "부산광역시 영도구 청학동 297",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "울산 슈퍼",
+      "address": "부산광역시 영도구 청학동 386-137",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리 슈퍼",
+      "address": "부산광역시 영도구 청학동 429-6   14 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장댁",
+      "address": "부산광역시 영도구 청학동 391-34  16통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼양 슈퍼",
+      "address": "부산광역시 영도구 청학동 422-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청도 상회",
+      "address": "부산광역시 영도구 청학동 394-25  15통5 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청도 상회",
+      "address": "부산광역시 영도구 청학동 468-156 19 통1 반",
+      "roadAddress": "부산광역시 영도구 해돋이2길 66  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소금 상회",
+      "address": "부산광역시 영도구 청학동 397-348",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대 슈퍼",
+      "address": "부산광역시 영도구 청학동 391-337",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배 가게",
+      "address": "부산광역시 영도구 청학동 391-658  2 통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심 슈퍼",
+      "address": "부산광역시 영도구 청학동 391-180 2 통2 반",
+      "roadAddress": "부산광역시 영도구 하나길 773  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍 가게",
+      "address": "부산광역시 영도구 청학동 389-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "나래 슈퍼",
+      "address": "부산광역시 영도구 청학동 386-163 3 통5  반",
+      "roadAddress": "부산광역시 영도구 청학서로39번길 8  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "82번 식품",
+      "address": "부산광역시 영도구 청학동 386-218",
+      "roadAddress": "부산광역시 영도구 청학서로39번길 7  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미화당알뜰슈퍼",
+      "address": "부산광역시 영도구 청학동 270-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창선 슈퍼",
+      "address": "부산광역시 영도구 청학동 379-24   5통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니 슈퍼",
+      "address": "부산광역시 영도구 청학동 303-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유공 슈퍼",
+      "address": "부산광역시 영도구 청학동 354-741",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청학시장번영회",
+      "address": "부산광역시 영도구 청학동 290-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청 슈퍼",
+      "address": "부산광역시 영도구 청학동 360-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신신 슈퍼",
+      "address": "부산광역시 영도구 청학동 284-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "6.6 슈퍼",
+      "address": "부산광역시 영도구 청학동 283-7   12 통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "부산광역시 영도구 청학동 262-20  12통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "희망 슈퍼",
+      "address": "부산광역시 영도구 청학동 401-42  12 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아리랑부식",
+      "address": "부산광역시 영도구 청학동 266-4   11 통5 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영 슈퍼",
+      "address": "부산광역시 영도구 청학동 427-1  14통4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배 가게",
+      "address": "부산광역시 영도구 청학동 397-30   25통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명 슈퍼",
+      "address": "부산광역시 영도구 청학동 266-17  13통2 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영광 슈퍼",
+      "address": "부산광역시 영도구 청학동 419 17통5 반",
+      "roadAddress": "부산광역시 영도구 청학서로 1  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영재 슈퍼",
+      "address": "부산광역시 영도구 청학동 414-21 15통3  반",
+      "roadAddress": "부산광역시 영도구 청학서로16번길 34-20  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남해 상회",
+      "address": "부산광역시 영도구 청학동 424-11  15통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아리랑 종합슈퍼",
+      "address": "부산광역시 영도구 청학동 386-142",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍년 쌀집",
+      "address": "부산광역시 영도구 청학동 289-1   8 통7 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호 슈퍼",
+      "address": "부산광역시 영도구 청학동 265-21  11통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한진 슈퍼",
+      "address": "부산광역시 영도구 청학동 251-109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영도 슈퍼",
+      "address": "부산광역시 영도구 청학동 415-34  15통5 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데 슈퍼",
+      "address": "부산광역시 영도구 청학동 337-11  5 통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일 연쇄점",
+      "address": "부산광역시 영도구 청학동 358-39  8  통7 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가 슈퍼",
+      "address": "부산광역시 영도구 청학동 420-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한영 슈퍼",
+      "address": "부산광역시 영도구 청학동 394-15  15통5 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통 장 댁",
+      "address": "부산광역시 영도구 청학동 165 4 통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통 장 댁",
+      "address": "부산광역시 영도구 청학동 400",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장흥 슈퍼",
+      "address": "부산광역시 영도구 청학동 448",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청동 슈퍼",
+      "address": "부산광역시 영도구 청학동 62-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청동 슈퍼",
+      "address": "부산광역시 영도구 청학동 126",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상은 슈퍼",
+      "address": "부산광역시 영도구 청학동 47-34  23 통3 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "밀양 상회",
+      "address": "부산광역시 영도구 청학동 120-85  18통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "함안 슈퍼",
+      "address": "부산광역시 영도구 청학동 145-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김해 슈퍼",
+      "address": "부산광역시 영도구 청학동 37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진양상회",
+      "address": "부산광역시 영도구 청학동 37 23 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동남 슈퍼",
+      "address": "부산광역시 영도구 청학동 106-2   24통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광희 슈퍼",
+      "address": "부산광역시 영도구 청학동 117",
+      "roadAddress": "부산광역시 영도구 태종로384번길 17  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배 가게",
+      "address": "부산광역시 영도구 청학동 88-21   28 통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창신 슈퍼",
+      "address": "부산광역시 영도구 청학동 442-22   10 통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통 장 댁",
+      "address": "부산광역시 영도구 청학동 465 10통2 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을 슈퍼",
+      "address": "부산광역시 영도구 청학동 산 54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창신 슈퍼",
+      "address": "부산광역시 영도구 청학동 148",
+      "roadAddress": "부산광역시 영도구 와치로53번길 27-1  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은행 슈퍼",
+      "address": "부산광역시 영도구 청학동 457-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일동상회",
+      "address": "부산광역시 영도구 청학동 69-58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배 가게",
+      "address": "부산광역시 영도구 청학동 39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평화 슈퍼",
+      "address": "부산광역시 영도구 청학동 99",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "밀성상회",
+      "address": "부산광역시 영도구 청학동 57-28  29 통3 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오뚜기 슈퍼",
+      "address": "부산광역시 영도구 청학동 96-116 27통2  반",
+      "roadAddress": "부산광역시 영도구 청학남로47번길 38-2  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청운 슈퍼",
+      "address": "부산광역시 영도구 청학동 460-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화신슈퍼",
+      "address": "부산광역시 영도구 청학동 135",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경산 슈퍼",
+      "address": "부산광역시 영도구 청학동 산 54 32 통3 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키마을 슈퍼",
+      "address": "부산광역시 영도구 청학동 149",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오뚜기 슈퍼",
+      "address": "부산광역시 영도구 청학동 149",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일신 슈퍼",
+      "address": "부산광역시 영도구 청학동 85",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한라 슈퍼",
+      "address": "부산광역시 영도구 청학동 42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하남 슈퍼",
+      "address": "부산광역시 영도구 청학동 459-17   8 통3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "함양 상회",
+      "address": "부산광역시 영도구 청학동 152",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼양 슈퍼",
+      "address": "부산광역시 영도구 청학동 244-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리 문방구",
+      "address": "부산광역시 영도구 청학동 252-78",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에덴 문방구",
+      "address": "부산광역시 영도구 청학동 402-254",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "골목 상회",
+      "address": "부산광역시 영도구 청학동 402-88  5 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키 슈퍼",
+      "address": "부산광역시 영도구 청학동 407-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을문고",
+      "address": "부산광역시 영도구 청학동 7-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청도 슈퍼",
+      "address": "부산광역시 영도구 청학동 23-4   22 통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청명 슈퍼",
+      "address": "부산광역시 영도구 청학동 21-61",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통 장 댁",
+      "address": "부산광역시 영도구 청학동 46-4  23통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "학원 상회",
+      "address": "부산광역시 영도구 청학동 83-11  31 통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배 가게",
+      "address": "부산광역시 영도구 청학동 산 54 32통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오륙도 슈퍼",
+      "address": "부산광역시 영도구 청학동 155-12   17통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오성 슈퍼",
+      "address": "부산광역시 영도구 청학동 145-52",
+      "roadAddress": "부산광역시 영도구 청학동로 25  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "올림픽 슈퍼",
+      "address": "부산광역시 영도구 청학동 99",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양 슈퍼",
+      "address": "부산광역시 영도구 청학동 460-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "축협 영도지소",
+      "address": "부산광역시 영도구 청학동 105-3   24통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청학 슈퍼",
+      "address": "부산광역시 영도구 청학동 145-15  16통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영도반도석유",
+      "address": "부산광역시 영도구 청학동 29-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동삼1동행정복지센터",
+      "address": "부산광역시 영도구 동삼동 510-23 동삼1동주민센터",
+      "roadAddress": "부산광역시 영도구 중리로 44-1, 동삼1동주민센터 (동삼동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부산식육점",
+      "address": "부산광역시 영도구 동삼동 510 절영A 상가102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)상우회",
+      "address": "부산광역시 영도구 동삼동 268-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대우쌀전문점",
+      "address": "부산광역시 영도구 동삼동 510-30  조은빌딩",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영진 슈퍼",
+      "address": "부산광역시 영도구 동삼동 240-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대우 슈퍼",
+      "address": "부산광역시 영도구 동삼동 231-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "혜성 반점",
+      "address": "부산광역시 영도구 동삼동 231-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우정 슈퍼",
+      "address": "부산광역시 영도구 동삼동 323-61  13통3 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "국제 식품",
+      "address": "부산광역시 영도구 동삼동 322-8   14통1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양 슈퍼마켓",
+      "address": "부산광역시 영도구 동삼동 322-118 14통2  반",
+      "roadAddress": "부산광역시 영도구 동삼남로31번길 35  (동삼동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제 식품",
+      "address": "부산광역시 영도구 동삼동 322-67  16 통3 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이웃 슈퍼",
+      "address": "부산광역시 영도구 동삼동 322-94",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동삼 슈퍼",
+      "address": "부산광역시 영도구 동삼동 323-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상리 상회",
+      "address": "부산광역시 영도구 동삼동 358-2  23통3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "포항 상회",
+      "address": "부산광역시 영도구 동삼동 358-12",
+      "roadAddress": "부산광역시 영도구 동삼로28번길 5  (동삼동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청송 슈퍼",
+      "address": "부산광역시 영도구 동삼동 363-24  26 통2 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한산슈퍼",
+      "address": "부산광역시 영도구 동삼동 307 27통3 반",
+      "roadAddress": "부산광역시 영도구 태종로 617-26  (동삼동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "근대화 체인",
+      "address": "부산광역시 영도구 동삼동 541-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남 슈퍼",
+      "address": "부산광역시 영도구 동삼동 493",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조양상가슈퍼",
+      "address": "부산광역시 영도구 동삼동 656 상가 205호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼창 쌀상회",
+      "address": "부산광역시 영도구 동삼동 363-38  38통1  반 삼창아파트 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경전 슈퍼",
+      "address": "부산광역시 영도구 동삼동 266-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상가 서원유통",
+      "address": "부산광역시 영도구 동삼동 1124-2  49 통4 반 반도보라 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한바다 슈퍼",
+      "address": "부산광역시 영도구 동삼동 213-11  37통3 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "육일 슈퍼",
+      "address": "부산광역시 영도구 동삼동 229-78",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼창 그린슈퍼",
+      "address": "부산광역시 영도구 동삼동 679-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미화당 새동삼3호",
+      "address": "부산광역시 영도구 동삼동 227-91",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종점상회",
+      "address": "부산광역시 영도구 동삼동 600-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유나 슈퍼마켓",
+      "address": "부산광역시 영도구 동삼동 227-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "토마토 슈퍼",
+      "address": "부산광역시 영도구 동삼동 1124-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미화당 도개공",
+      "address": "부산광역시 영도구 동삼동 101-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥 동백 슈퍼",
+      "address": "부산광역시 영도구 동삼동 247-2  22통7  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호슈퍼",
+      "address": "부산광역시 영도구 동삼동 680-12  에덴금호타운 112호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG슈퍼렛(상가)",
+      "address": "부산광역시 영도구 동삼동 510-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "함지공 슈퍼",
+      "address": "부산광역시 영도구 동삼동 1124-1   상가 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태종 슈퍼",
+      "address": "부산광역시 영도구 동삼동 970-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진주 상회",
+      "address": "부산광역시 영도구 동삼동 1035-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영화 철물점",
+      "address": "부산광역시 영도구 동삼동 867-5   8 통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동삼 상회",
+      "address": "부산광역시 영도구 동삼동 998-4   11통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물 상회",
+      "address": "부산광역시 영도구 동삼동 811-16 7 통1반",
+      "roadAddress": "부산광역시 영도구 본산로 5  (동삼동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "윤기 슈퍼",
+      "address": "부산광역시 영도구 동삼동 781 4통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "샛별 문구",
+      "address": "부산광역시 영도구 동삼동 995-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "극동 상회",
+      "address": "부산광역시 영도구 동삼동 832-7    7 통2 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미화당슈퍼",
+      "address": "부산광역시 영도구 동삼동 761 6 통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만경 슈퍼",
+      "address": "부산광역시 영도구 동삼동 740 2 통4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해변 상회",
+      "address": "부산광역시 영도구 동삼동 1035-11   12통3 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태종 슈퍼마켓",
+      "address": "부산광역시 영도구 동삼동 812 7 통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보배 분구",
+      "address": "부산광역시 영도구 동삼동 970-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동삼3동사무소",
+      "address": "부산광역시 영도구 동삼동 1123-9",
+      "roadAddress": "부산광역시 영도구 상리로 39 (동삼동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니  슈퍼",
+      "address": "부산광역시 영도구 동삼동 207-59 1  통3 반",
+      "roadAddress": "부산광역시 영도구 태종로 503-23  (동삼동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "로즈 슈퍼",
+      "address": "부산광역시 영도구 동삼동 219-95 3 통5 반",
+      "roadAddress": "부산광역시 영도구 동삼서로 61-3  (동삼동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한도 슈퍼",
+      "address": "부산광역시 영도구 동삼동 229-6  5 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼한 슈퍼",
+      "address": "부산광역시 영도구 동삼동 221-127  5 통2 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한나라 J마트",
+      "address": "부산광역시 영도구 동삼동 423 6  통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소망 철물",
+      "address": "부산광역시 영도구 동삼동 325-52  6통2 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "계령 스파슈퍼",
+      "address": "부산광역시 영도구 동삼동 1121-1    1단지 상가내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미화당 자매 체인",
+      "address": "부산광역시 영도구 동삼동 1123 2단지 상가내",
+      "roadAddress": "부산광역시 영도구 상리로 41  (동삼동,2단지 상가내)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미화당 슈퍼",
+      "address": "부산광역시 영도구 동삼동 1123 3단지 상가내",
+      "roadAddress": "부산광역시 영도구 상리로 41  (동삼동,3단지 상가내)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "림스치킨",
+      "address": "부산광역시 영도구 동삼동 1123 4단지 상가",
+      "roadAddress": "부산광역시 영도구 상리로 41  (동삼동,4단지 상가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)농심가 동삼점",
+      "address": "부산광역시 영도구 동삼동 1123 3단지 상가내",
+      "roadAddress": "부산광역시 영도구 상리로 41  (동삼동,3단지 상가내)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름 슈퍼",
+      "address": "부산광역시 영도구 동삼동 221-55  2 통5반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대 슈퍼",
+      "address": "부산광역시 영도구 동삼동 200 1통3 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐영도점",
+      "address": "부산광역시 영도구 남항동1가 188-1",
+      "roadAddress": "부산광역시 영도구 남항로 31 (남항동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-24"
+    },
+    {
+      "name": "부전슈퍼",
+      "address": "부산광역시 영도구 남항동3가 112-3",
+      "roadAddress": "부산광역시 영도구 절영로94번길 2 (남항동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-22"
+    },
+    {
+      "name": "삼양할인마트",
+      "address": "부산광역시 영도구 영선동1가 68-8 3 통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "탑 마트",
+      "address": "부산광역시 영도구 영선동4가 186-46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영선할인마트",
+      "address": "부산광역시 영도구 영선동4가 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅 슈퍼",
+      "address": "부산광역시 영도구 영선동4가 159-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배집",
+      "address": "부산광역시 영도구 영선동3가 142",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성 풍 관",
+      "address": "부산광역시 영도구 청학동 391-638  1 통4 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청학2동사무소",
+      "address": "부산광역시 영도구 청학동 53-20",
+      "roadAddress": "부산광역시 영도구 태종로 394  (청학동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "부산광역시 영도구 청학동 114-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배가게",
+      "address": "부산광역시 영도구 청학동 12-26   1 통6 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태아 슈퍼",
+      "address": "부산광역시 영도구 청학동 99-122  26통1 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태림 슈퍼",
+      "address": "부산광역시 영도구 청학동 62-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종점 상회",
+      "address": "부산광역시 영도구 청학동 27-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼양 슈퍼",
+      "address": "부산광역시 영도구 동삼동 278-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "함양상회",
+      "address": "부산광역시 영도구 동삼동 325-155 12통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "벽산상가",
+      "address": "부산광역시 영도구 동삼동 216-57",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조양문구",
+      "address": "부산광역시 영도구 동삼동 656",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미화당절영슈퍼",
+      "address": "부산광역시 영도구 동삼동 323-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "부산광역시 영도구 동삼동 510-2    절영상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥상회",
+      "address": "부산광역시 영도구 대교동1가 30-1",
+      "roadAddress": "부산광역시 영도구 태종로 56-1 (대교동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼광슈퍼",
+      "address": "부산광역시 영도구 대교동1가 183",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "근대화슈퍼",
+      "address": "부산광역시 영도구 대평동1가 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍신슈퍼",
+      "address": "부산광역시 영도구 대교동2가 13",
+      "roadAddress": "부산광역시 영도구 태종로89번길 15  (대교동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태평상회",
+      "address": "부산광역시 영도구 대교동2가 97",
+      "roadAddress": "부산광역시 영도구 태종로95번길 8  (대교동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "8.15슈퍼",
+      "address": "부산광역시 영도구 대교동2가 182",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조은전화사",
+      "address": "부산광역시 영도구 대교동2가 162",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태극당제과",
+      "address": "부산광역시 영도구 대평동2가 143",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영일APT관리소",
+      "address": "부산광역시 영도구 대교동2가 131",
+      "roadAddress": "부산광역시 영도구 태종로 92  (대교동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)한유통영도대평점",
+      "address": "부산광역시 영도구 대교동1가 843",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키영슈퍼",
+      "address": "부산광역시 영도구 대평동1가 11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부광슈퍼",
+      "address": "부산광역시 영도구 대평동1가 122",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진주슈퍼",
+      "address": "부산광역시 영도구 대평동1가 40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼정전자대리점",
+      "address": "부산광역시 영도구 대평동1가 105-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고성슈퍼",
+      "address": "부산광역시 영도구 대평동2가 160",
+      "roadAddress": "부산광역시 영도구 대평로42번길 1  (대평동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한나라 J마트",
+      "address": "부산광역시 영도구 동삼동 328 16 통1  반",
+      "roadAddress": "부산광역시 영도구 동삼로 45  (동삼동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심도개공 슈퍼",
+      "address": "부산광역시 영도구 동삼동 510-2    56 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영도종합스토아",
+      "address": "부산광역시 영도구 동삼동 429-64   8  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "부산광역시 영도구 동삼동 510-1317 66 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청정원할인마트",
+      "address": "부산광역시 영도구 동삼동 625-7    해동빌라",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하동상회",
+      "address": "부산광역시 영도구 동삼동 225-72   18 통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상우회할인마트",
+      "address": "부산광역시 영도구 동삼동 808 4  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한나라 J마트",
+      "address": "부산광역시 영도구 동삼동 265 48 통6  반",
+      "roadAddress": "부산광역시 영도구 동삼동로 10  (동삼동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매일문구",
+      "address": "부산광역시 영도구 동삼동 271-4    21 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미화당중리점",
+      "address": "부산광역시 영도구 동삼동 588-20   31 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화진식품",
+      "address": "부산광역시 영도구 동삼동 392-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "밀크 C-마트",
+      "address": "부산광역시 영도구 동삼동 231-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동사무소",
+      "address": "부산광역시 영도구 동삼동 813",
+      "roadAddress": "부산광역시 영도구 본산남길 5  (동삼동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥슈퍼",
+      "address": "부산광역시 영도구 동삼동 715-2    1  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북슈퍼",
+      "address": "부산광역시 영도구 동삼동 808 4  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대호상회",
+      "address": "부산광역시 영도구 동삼동 709-2    3  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하리슈퍼",
+      "address": "부산광역시 영도구 동삼동 774-2    4  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영한상회",
+      "address": "부산광역시 영도구 동삼동 822-5    6  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "함양쌀상회",
+      "address": "부산광역시 영도구 동삼동 884-4    7  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대동상회",
+      "address": "부산광역시 영도구 동삼동 851-1    8  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "부산광역시 영도구 동삼동 869-9    10 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "부산광역시 영도구 동삼동 995 11 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태종슈퍼",
+      "address": "부산광역시 영도구 동삼동 1047-1    12 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울 상회",
+      "address": "부산광역시 영도구 동삼동 983-9   12 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선화 슈퍼",
+      "address": "부산광역시 영도구 동삼동 830-12  7  통2 반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "J할인마트",
+      "address": "부산광역시 영도구 동삼동 510-2 도개공동삼절영아파트209-902",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-26"
+    }
+  ]
+}

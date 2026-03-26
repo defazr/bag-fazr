@@ -1,0 +1,31 @@
+{
+  "region": "충청북도",
+  "regionSlug": "chungbuk",
+  "district": "충주시",
+  "districtSlug": "chungju",
+  "updatedAt": "2026-03-26",
+  "totalCount": 3,
+  "stores": [
+    {
+      "name": "주덕읍사무소",
+      "address": "충청북도 충주시 주덕읍 신양리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-01"
+    },
+    {
+      "name": "상모면사무소",
+      "address": "충청북도 충주시 수안보면 온천리 100",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-01"
+    },
+    {
+      "name": "개인(박원규)",
+      "address": "충청북도 충주시 신니면 광월리 688-1",
+      "roadAddress": "충청북도 충주시 신니면 수월3길 25",
+      "status": "영업/정상",
+      "licenseDate": ""
+    }
+  ]
+}

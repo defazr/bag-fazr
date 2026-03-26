@@ -1,0 +1,6723 @@
+{
+  "region": "경기도",
+  "regionSlug": "gyeonggi",
+  "district": "의정부시",
+  "districtSlug": "uijeongbu",
+  "updatedAt": "2026-03-26",
+  "totalCount": 959,
+  "stores": [
+    {
+      "name": "지에스(GS)25 뉴의정시티점",
+      "address": "경기도 의정부시 장암동 412 수락 리버시티2단지",
+      "roadAddress": "경기도 의정부시 누원로 52, 101,102호 (장암동, 수락 리버시티2단지)",
+      "status": "영업/정상",
+      "licenseDate": "2026-03-13"
+    },
+    {
+      "name": "주식회사 지에스더프레시의정부용현점",
+      "address": "경기도 의정부시 용현동 547-13 송산주공아파트",
+      "roadAddress": "경기도 의정부시 부용로 235, 송산주공아파트 1층 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2026-03-16"
+    },
+    {
+      "name": "씨유 의정부시민공원점",
+      "address": "경기도 의정부시 의정부동 216-1",
+      "roadAddress": "경기도 의정부시 태평로166번길 13, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "씨유 의정부한전점",
+      "address": "경기도 의정부시 의정부동 8-20",
+      "roadAddress": "경기도 의정부시 태평로146번길 12 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "이마트24 의정부오거리점",
+      "address": "경기도 의정부시 의정부동 134-9",
+      "roadAddress": "경기도 의정부시 태평로45번길 10, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2026-03-03"
+    },
+    {
+      "name": "세진슈퍼",
+      "address": "경기도 의정부시 가능동 636",
+      "roadAddress": "경기도 의정부시 신촌로75번길 75 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2026-03-03"
+    },
+    {
+      "name": "삼육슈퍼",
+      "address": "경기도 의정부시 의정부동 391",
+      "roadAddress": "경기도 의정부시 경의로146번길 45  (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼동알뜰매장",
+      "address": "경기도 의정부시 가능동 691-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다래슈퍼",
+      "address": "경기도 의정부시 호원동 463-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대마트",
+      "address": "경기도 의정부시 호원동 467 현대a 단지내상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리마트",
+      "address": "경기도 의정부시 용현동 241-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "경기도 의정부시 신곡동 722-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지나슈퍼",
+      "address": "경기도 의정부시 금오동 286-86",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오거리슈퍼",
+      "address": "경기도 의정부시 의정부동 738-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엔젤마트",
+      "address": "경기도 의정부시 가능동 727",
+      "roadAddress": "경기도 의정부시 가능로50번길 15  (가능동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정운마트",
+      "address": "경기도 의정부시 신곡동 727-1    풍림한국a 분산상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이(주)의정부역점",
+      "address": "경기도 의정부시 의정부동 442-12   광장타워 109호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25의정호원점",
+      "address": "경기도 의정부시 호원동 418",
+      "roadAddress": "경기도 의정부시 회룡로 137  (호원동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "플러스할인마트",
+      "address": "경기도 의정부시 가능동 846-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성화마트",
+      "address": "경기도 의정부시 의정부동 235-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "싱싱마트",
+      "address": "경기도 의정부시 신곡동 409-53",
+      "roadAddress": "경기도 의정부시 동일로506번길 53  (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25의정해궁점",
+      "address": "경기도 의정부시 의정부동 592-5    청송빌딩",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린할인마트",
+      "address": "경기도 의정부시 호원동 309-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 의정부이롬점",
+      "address": "경기도 의정부시 금오동 80-13   이롬프라자",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성하이마트",
+      "address": "경기도 의정부시 신곡동 767-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 의정부대정점",
+      "address": "경기도 의정부시 의정부동 486-7    ,8 대정프라자",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐 의정부본점",
+      "address": "경기도 의정부시 의정부동 442-12",
+      "roadAddress": "경기도 의정부시 시민로 83, 109호 (의정부동, 광장타워)",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-06"
+    },
+    {
+      "name": "GS25금오종합점",
+      "address": "경기도 의정부시 민락동 692-1",
+      "roadAddress": "경기도 의정부시 오목로 171 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-21"
+    },
+    {
+      "name": "GS25금오2단지",
+      "address": "경기도 의정부시 금오동 292-11",
+      "roadAddress": "경기도 의정부시 하금로 41, 203동 403호 (금오동, 금오동신도브레뉴아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-26"
+    },
+    {
+      "name": "세븐일레븐 의정부 신곡서해점",
+      "address": "경기도 의정부시 신곡동 725-3",
+      "roadAddress": "경기도 의정부시 회룡로 221, 514동 501호 (신곡동, 장암주공아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-26"
+    },
+    {
+      "name": "세븐일레븐 의정부한라점",
+      "address": "경기도 의정부시 의정부동 220-110",
+      "roadAddress": "경기도 의정부시 호국로 1303, 112호 (의정부동, 한라비발디루트1층)",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-11"
+    },
+    {
+      "name": "세븐일레븐 의정부가능3호점",
+      "address": "경기도 의정부시 가능동 700-2",
+      "roadAddress": "경기도 의정부시 호국로 1117, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-11"
+    },
+    {
+      "name": "세븐일레븐 의정부녹양2호점",
+      "address": "경기도 의정부시 녹양동 382-14",
+      "roadAddress": "경기도 의정부시 진등로 19 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-11"
+    },
+    {
+      "name": "세븐일레븐 의정부축석길점",
+      "address": "경기도 의정부시 금오동 463-13",
+      "roadAddress": "경기도 의정부시 호국로 1430, 101호 (금오동, 다우림프라자)",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-18"
+    },
+    {
+      "name": "오렌지마트",
+      "address": "경기도 의정부시 금오동 60-16",
+      "roadAddress": "경기도 의정부시 천보로 265, 1층 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-05-07"
+    },
+    {
+      "name": "헤븐마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 호국로1309번길 56 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-05-08"
+    },
+    {
+      "name": "GS25 호원개나리점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 전좌로 204, 102동 2305호 (호원동, 호원미도아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2014-05-26"
+    },
+    {
+      "name": "365PLUS의정부우미",
+      "address": "",
+      "roadAddress": "경기도 의정부시 용민로7번길 89, 101동 1005호 (용현동, 건영캐스빌아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2014-06-11"
+    },
+    {
+      "name": "청호유통(주)의정부점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 평화로 479 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-17"
+    },
+    {
+      "name": "신곡지영유통",
+      "address": "",
+      "roadAddress": "경기도 의정부시 추동로91번길 6-15 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-22"
+    },
+    {
+      "name": "우리마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 용민로7번길 54 (용현동, 건영아파트지하 101,102호)",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-22"
+    },
+    {
+      "name": "신세계마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 직곡로7번길 20 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-08-14"
+    },
+    {
+      "name": "세븐일레븐 의정부낙양점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 오목로225번길 79-62 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-08-28"
+    },
+    {
+      "name": "이마트에브리데이 의정부민락점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 승지로 29 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-09-18"
+    },
+    {
+      "name": "위드미의정가능점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 신흥로 369 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-10-15"
+    },
+    {
+      "name": "자연마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 의정로 127 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-10-28"
+    },
+    {
+      "name": "GS25 의정가락",
+      "address": "",
+      "roadAddress": "경기도 의정부시 의정로22번길 16, 가동 101호 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-11-13"
+    },
+    {
+      "name": "안양슈퍼",
+      "address": "",
+      "roadAddress": "경기도 의정부시 가능로50번길 35 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-20"
+    },
+    {
+      "name": "씨유 푸우삼촌점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 신흥로232번길 5-31, 106호 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-11-20"
+    },
+    {
+      "name": "대신철물",
+      "address": "경기도 의정부시 용현동 270-52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나로마트",
+      "address": "경기도 의정부시 가능동 699",
+      "roadAddress": "경기도 의정부시 호국로1123번길 29  (가능동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해동상회",
+      "address": "경기도 의정부시 의정부동 375-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사마트 24시편의점",
+      "address": "경기도 의정부시 신곡동 757-2    광장골드상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원플러스24",
+      "address": "경기도 의정부시 의정부동 200-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다래홈마트",
+      "address": "경기도 의정부시 용현동 547-13",
+      "roadAddress": "경기도 의정부시 부용로 235  (용현동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데쇼핑(주)롯데슈퍼의정부점",
+      "address": "경기도 의정부시 호원동 325-1",
+      "roadAddress": "경기도 의정부시 호동로 53  (호원동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현우마트",
+      "address": "경기도 의정부시 가능동 729-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고산상회",
+      "address": "경기도 의정부시 고산동 454-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)한유통의정부가능점",
+      "address": "경기도 의정부시 가능동 647-27",
+      "roadAddress": "경기도 의정부시 가능로 101-1  (가능동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "후레쉬",
+      "address": "경기도 의정부시 신곡동 69-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이터미널점",
+      "address": "경기도 의정부시 의정부동 34-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "후레쉬한미마트",
+      "address": "경기도 의정부시 가능동 683-46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미래마트",
+      "address": "경기도 의정부시 의정부동 304-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동화20시",
+      "address": "경기도 의정부시 호원동 366-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대자연이 주는것",
+      "address": "경기도 의정부시 가능동 635-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성화마트",
+      "address": "경기도 의정부시 녹양동 83-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "준마트",
+      "address": "경기도 의정부시 의정부동 569 재훈빌라",
+      "roadAddress": "경기도 의정부시 경의로75번길 54  (의정부동,재훈빌라)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "365PLUS의정부시민점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 둔야로33번길 13, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-12-09"
+    },
+    {
+      "name": "GS25 호암타운점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 호암로 19 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-12-23"
+    },
+    {
+      "name": "씨유 의정부한주점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 평화로 324, 101호 (호원동, 한주프라자)",
+      "status": "영업/정상",
+      "licenseDate": "2014-12-31"
+    },
+    {
+      "name": "GS25 호원풍림점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 백석로 44, 101호 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-02-10"
+    },
+    {
+      "name": "세븐일레븐 용현신도점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 용현로 62 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-03-10"
+    },
+    {
+      "name": "다래홈마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 금신로296번길 40, 102호 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-03-17"
+    },
+    {
+      "name": "세븐일레븐의정부법원점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 녹양로 36 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-03-20"
+    },
+    {
+      "name": "씨유의정부원도봉산점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 망월로28번길 5 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-03-26"
+    },
+    {
+      "name": "GS25의정가능로점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 가능로74번길 2 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-04-13"
+    },
+    {
+      "name": "씨유용현건영점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 용민로7번길 11, 1층 (용현동, 형제상가B)",
+      "status": "영업/정상",
+      "licenseDate": "2015-04-22"
+    },
+    {
+      "name": "GS25 회룡광장점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 평화로 363-8 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-04-24"
+    },
+    {
+      "name": "(주)코리아세븐의정부일성점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 의정로40번길 12, 101~102호 (의정부동, 일성트루엘 상가동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-05-14"
+    },
+    {
+      "name": "세븐일레븐 의정부망월사점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 평화로 220 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-05-14"
+    },
+    {
+      "name": "행복그린마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 용현로 186 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-05-14"
+    },
+    {
+      "name": "세븐일레븐 의정부국도점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 시민로131번길 15 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-05-14"
+    },
+    {
+      "name": "파스텔슈퍼",
+      "address": "",
+      "roadAddress": "경기도 의정부시 상금로 41-6 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-05-18"
+    },
+    {
+      "name": "GS25 민락타운점",
+      "address": "경기도 의정부시 민락동 840-5",
+      "roadAddress": "경기도 의정부시 오목로225번길 33-11 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-06-12"
+    },
+    {
+      "name": "코끼리마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 의정로40번길 54 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-06-16"
+    },
+    {
+      "name": "씨유의정부골든",
+      "address": "",
+      "roadAddress": "경기도 의정부시 오목로205번길 39, 105호 (민락동, 골든프라자)",
+      "status": "영업/정상",
+      "licenseDate": "2015-06-25"
+    },
+    {
+      "name": "씨유 의정부시장점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 태평로 96, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-06-25"
+    },
+    {
+      "name": "(주)코리아세븐의정부청영점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 호국로1317번길 15, 1층 (의정부동, 청영오피스텔)",
+      "status": "영업/정상",
+      "licenseDate": "2015-08-07"
+    },
+    {
+      "name": "개그스토리마트(의정부중앙점)",
+      "address": "",
+      "roadAddress": "경기도 의정부시 호국로 1290 (의정부동, 정우 오피스텔)",
+      "status": "영업/정상",
+      "licenseDate": "2015-08-26"
+    },
+    {
+      "name": "포천슈퍼",
+      "address": "",
+      "roadAddress": "경기도 의정부시 금신로382번길 6-14 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-09-08"
+    },
+    {
+      "name": "세븐일레븐민락송현점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 송현로82번길 79 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-09-10"
+    },
+    {
+      "name": "세븐일레븐 의정부호원점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 회룡로 107 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-09-11"
+    },
+    {
+      "name": "GS25 녹양휴먼시아점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 체육로 278, 104동 101~102호 (녹양동, 휴먼시아아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2015-09-11"
+    },
+    {
+      "name": "정성마트",
+      "address": "경기도 의정부시 신곡동 430-22",
+      "roadAddress": "경기도 의정부시 동일로510번길 7  (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "천지슈퍼",
+      "address": "경기도 의정부시 용현동 24-15   그랜드아파트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을슈퍼",
+      "address": "경기도 의정부시 신곡동 615-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시민쌀마트",
+      "address": "경기도 의정부시 가능동 751-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 의정부백석점",
+      "address": "경기도 의정부시 의정부동 603",
+      "roadAddress": "경기도 의정부시 호동로 14  (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼",
+      "address": "경기도 의정부시 신곡동 722-1    현대3차상가 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 의정부서부점",
+      "address": "경기도 의정부시 의정부동 485-5",
+      "roadAddress": "경기도 의정부시 둔야로 35  (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "녹양슈퍼",
+      "address": "경기도 의정부시 녹양동 382-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미래마트",
+      "address": "경기도 의정부시 의정부동 549-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신세계슈퍼마켓",
+      "address": "경기도 의정부시 의정부동 232-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐마트",
+      "address": "경기도 의정부시 의정부동 578-12",
+      "roadAddress": "경기도 의정부시 경의로85번길 22-3  (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대홈마트",
+      "address": "경기도 의정부시 녹양동 354-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유원유통",
+      "address": "경기도 의정부시 의정부동 145-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영숙24시편의점",
+      "address": "경기도 의정부시 의정부동 146-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대명마트",
+      "address": "경기도 의정부시 신곡동 671-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나로마트",
+      "address": "경기도 의정부시 용현동 253-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "킹아이스크림",
+      "address": "경기도 의정부시 호원동 327-1 신원아파트",
+      "roadAddress": "경기도 의정부시 회룡로105번길 37, 103호 (호원동, 신원아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2015-09-11"
+    },
+    {
+      "name": "(주)윈플러스마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 평화로 384 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-09-11"
+    },
+    {
+      "name": "세븐일레븐 민락보광점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 용민로 483, 105~106호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-10-02"
+    },
+    {
+      "name": "개나리슈퍼",
+      "address": "",
+      "roadAddress": "경기도 의정부시 동일로521번길 32 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-10-16"
+    },
+    {
+      "name": "(주)꼬끼오금오동지점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 금신로 390, 1층  101호 외7호 (금오동, 금오유니시티)",
+      "status": "영업/정상",
+      "licenseDate": "2015-11-09"
+    },
+    {
+      "name": "씨유(CU) 의정부 용현현대점",
+      "address": "경기도 의정부시 용현동 236-5",
+      "roadAddress": "경기도 의정부시 오목로15번길 12, 1층 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-11-20"
+    },
+    {
+      "name": "위드미의정부쁘띠린점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 평화로552번길 9-9 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-11-20"
+    },
+    {
+      "name": "한아름생활용품",
+      "address": "",
+      "roadAddress": "경기도 의정부시 시민로387번길 20, 1층 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-12-02"
+    },
+    {
+      "name": "세븐일레븐 의정부용현점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 충의로 43 (용현동, 태원빌딩)",
+      "status": "영업/정상",
+      "licenseDate": "2015-12-16"
+    },
+    {
+      "name": "씨유의정부천하제일",
+      "address": "",
+      "roadAddress": "경기도 의정부시 장곡로596번길 15, 1층 102~103호 (신곡동, 우정프라자)",
+      "status": "영업/정상",
+      "licenseDate": "2015-12-28"
+    },
+    {
+      "name": "씨유 의정부드림밸리",
+      "address": "경기도 의정부시 신곡동 760-2",
+      "roadAddress": "경기도 의정부시 장곡로596번길 9, 세명프라자 101호,102호 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-12-25"
+    },
+    {
+      "name": "씨유 의정부건영",
+      "address": "",
+      "roadAddress": "경기도 의정부시 평화로168번길 13, 1층 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-01-05"
+    },
+    {
+      "name": "GS25의정범골점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 신흥로119번길 61, 1층 101,102호 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-01-06"
+    },
+    {
+      "name": "리빙플러스마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 용민로 239, 1층 (낙양동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS장암주공점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 회룡로 252, 101호 (장암동, 장암주공아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2016-01-11"
+    },
+    {
+      "name": "슬기마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 녹양로18번길 47 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-01-15"
+    },
+    {
+      "name": "GS25의정시민로점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 시민로 170 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-01-15"
+    },
+    {
+      "name": "의정부농협 가능하나로마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 가능로 66, 1층 (가능동, 의정부농협가능지점)",
+      "status": "영업/정상",
+      "licenseDate": "2016-01-18"
+    },
+    {
+      "name": "의정부농협고산하나로마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 송산로 997, 1층 (고산동, 의정부농협고산지점)",
+      "status": "영업/정상",
+      "licenseDate": "2016-01-18"
+    },
+    {
+      "name": "365플러스녹양힐스테이트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 녹양로62번길 12, 101호 (녹양동, 녹양힐스테이트아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2016-01-21"
+    },
+    {
+      "name": "CU 에이제이파크회룡역점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 외미로 99, 1층 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-02-01"
+    },
+    {
+      "name": "TWENTYNINE29(투웬티나인29)",
+      "address": "",
+      "roadAddress": "경기도 의정부시 추동로92번길 19-1, 1층 101호 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-02-11"
+    },
+    {
+      "name": "GS25 의정부다온점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 둔야로49번길 47 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-02-22"
+    },
+    {
+      "name": "GS25 의정그랑빌점",
+      "address": "경기도 의정부시 의정부동 217-37",
+      "roadAddress": "경기도 의정부시 태평로 181 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-03-16"
+    },
+    {
+      "name": "롯데쇼핑(주)롯데슈퍼회룡역점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 외미로 99, 1층 11~14호 (호원동, 회룡역환승주차장)",
+      "status": "영업/정상",
+      "licenseDate": "2016-03-22"
+    },
+    {
+      "name": "혜림문고",
+      "address": "경기도 의정부시 신곡동 673-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장안슈퍼",
+      "address": "경기도 의정부시 신곡동 571-80",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세이브마트",
+      "address": "경기도 의정부시 금오동 453-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인트로마트",
+      "address": "경기도 의정부시 금오동 470-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트퍼스트빌",
+      "address": "경기도 의정부시 의정부동 486-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘지할인마트",
+      "address": "경기도 의정부시 신곡동 727-1    풍림a 상가 124호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미도슈퍼",
+      "address": "경기도 의정부시 금오동 283-75",
+      "roadAddress": "경기도 의정부시 거북로6번길 50  (금오동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현이네 슈퍼",
+      "address": "경기도 의정부시 가능동 621-4",
+      "roadAddress": "경기도 의정부시 신촌로29번길 40  (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-08"
+    },
+    {
+      "name": "충남수퍼",
+      "address": "경기도 의정부시 가능동 586-17",
+      "roadAddress": "경기도 의정부시 서부로539번길 63  (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-16"
+    },
+    {
+      "name": "씨유 으뜸1호점",
+      "address": "경기도 의정부시 용현동 545-8",
+      "roadAddress": "경기도 의정부시 부용로213번길 14 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "웰빙할인마트",
+      "address": "경기도 의정부시 의정부동 483-8 효성빌딩 1, 2층",
+      "roadAddress": "경기도 의정부시 둔야로 49 (의정부동,효성빌딩 1, 2층)",
+      "status": "영업/정상",
+      "licenseDate": "2010-02-19"
+    },
+    {
+      "name": "씨유 장암대우점",
+      "address": "경기도 의정부시 장암동 37 의정부 장암1차 푸르지오",
+      "roadAddress": "경기도 의정부시 장곡로226번길 32, 의정부 장암1차 푸르지오 (장암동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-10"
+    },
+    {
+      "name": "세븐일레븐 의정부성호점",
+      "address": "경기도 의정부시 호원1동 442번지 성호아파트상가 101,102호",
+      "roadAddress": "경기도 의정부시 평화로 288, 1층 101,102호 (호원동, 성호아파트 상가동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-29"
+    },
+    {
+      "name": "세븐일레븐 의정부건영점",
+      "address": "경기도 의정부시 호원동 121 건영아파트",
+      "roadAddress": "경기도 의정부시 평화로168번길 10, 건영아파트 상가동 1층 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-01-31"
+    },
+    {
+      "name": "GS25 고산쌍용점",
+      "address": "경기도 의정부시 산곡동 0 쌍용더플래티넘고산엔에이치에프",
+      "roadAddress": "경기도 의정부시 서광로 186, 상가동 1층 103~105호 (산곡동, 쌍용더플래티넘고산엔에이치에프)",
+      "status": "영업/정상",
+      "licenseDate": "2020-02-04"
+    },
+    {
+      "name": "광장편의점",
+      "address": "경기도 의정부시 산곡동 686-2 폴리프라자Ⅱ",
+      "roadAddress": "경기도 의정부시 세석로 24, 폴리프라자Ⅱ 1층 107호 (산곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-02-14"
+    },
+    {
+      "name": "더디씨 신곡점",
+      "address": "경기도 의정부시 신곡동 805-5",
+      "roadAddress": "경기도 의정부시 추동로108번길 17, 1층 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-02-17"
+    },
+    {
+      "name": "세븐일레븐 의정부시청광장점",
+      "address": "경기도 의정부시 의정부동 479-16",
+      "roadAddress": "경기도 의정부시 시민로19번길 32, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-02-20"
+    },
+    {
+      "name": "세븐일레븐 의정부고점",
+      "address": "경기도 의정부시 가능동 368",
+      "roadAddress": "경기도 의정부시 녹양로 47, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-02-25"
+    },
+    {
+      "name": "GS25 민락금강점",
+      "address": "경기도 의정부시 낙양동 709 금강펜테리움",
+      "roadAddress": "경기도 의정부시 용민로 263 (낙양동, 금강펜테리움)",
+      "status": "영업/정상",
+      "licenseDate": "2020-02-27"
+    },
+    {
+      "name": "달달한 아이스크림 할인점",
+      "address": "경기도 의정부시 가능동 96-1 지승메디컬프라자",
+      "roadAddress": "경기도 의정부시 가금로 29, 지승메디컬프라자 103호 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-02-27"
+    },
+    {
+      "name": "씨유 의정부망월사점",
+      "address": "경기도 의정부시 호원동 455-5",
+      "roadAddress": "경기도 의정부시 평화로 220, 1층 113호 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-03-16"
+    },
+    {
+      "name": "(주)코피아",
+      "address": "경기도 의정부시 민락동 792",
+      "roadAddress": "경기도 의정부시 천보로 59, 101호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-03-20"
+    },
+    {
+      "name": "씨유 고산센트레빌점",
+      "address": "경기도 의정부시 산곡동 0 고산센트레빌엔에이치에프",
+      "roadAddress": "경기도 의정부시 서광로 166, 상가동 102,103호 (산곡동, 고산센트레빌엔에이치에프)",
+      "status": "영업/정상",
+      "licenseDate": "2020-03-20"
+    },
+    {
+      "name": "한살림 의정부매장",
+      "address": "경기도 의정부시 금오동 463-11 조광빌딩",
+      "roadAddress": "경기도 의정부시 호국로 1428, 조광빌딩 1층 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-03-25"
+    },
+    {
+      "name": "GS25 가능문화점",
+      "address": "경기도 의정부시 의정부동 417",
+      "roadAddress": "경기도 의정부시 가능로 118, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-04-01"
+    },
+    {
+      "name": "GS25 의정가능점",
+      "address": "경기도 의정부시 가능동 676-2",
+      "roadAddress": "경기도 의정부시 의정로 171, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-04-09"
+    },
+    {
+      "name": "GS25 의정부역점",
+      "address": "경기도 의정부시 의정부동 210-12 성호빌딩",
+      "roadAddress": "경기도 의정부시 평화로 553, 성호빌딩 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-04-16"
+    },
+    {
+      "name": "이마트24 신성벽산점",
+      "address": "경기도 의정부시 신곡동 685 신성벽산아파트",
+      "roadAddress": "경기도 의정부시 능곡로 65, 신성벽산아파트 제상가동 1층 101호 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-04-22"
+    },
+    {
+      "name": "세븐일레븐 의정부꽃동네점",
+      "address": "경기도 의정부시 금오동 289-1",
+      "roadAddress": "경기도 의정부시 하금로 19 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-04-28"
+    },
+    {
+      "name": "태양마트",
+      "address": "경기도 의정부시 민락동 733-2",
+      "roadAddress": "경기도 의정부시 용현로105번길 45 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-04-29"
+    },
+    {
+      "name": "GS25 의정부영광점",
+      "address": "경기도 의정부시 의정부동 583",
+      "roadAddress": "경기도 의정부시 경의로86번길 7 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-05-29"
+    },
+    {
+      "name": "홈플러스(주)",
+      "address": "경기도 의정부시 금오동 475-1",
+      "roadAddress": "경기도 의정부시 청사로 38 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-27"
+    },
+    {
+      "name": "주공마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 효자로 27, 101호 (민락동, 상가)",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-03"
+    },
+    {
+      "name": "플러스마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 오목로15번길 2 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-15"
+    },
+    {
+      "name": "우진마트",
+      "address": "경기도 의정부시 신곡동 615-44",
+      "roadAddress": "경기도 의정부시 경의로177번길 15  (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-10"
+    },
+    {
+      "name": "GS25 의정부럭스점",
+      "address": "경기도 의정부시 의정부동 493-7",
+      "roadAddress": "경기도 의정부시 신흥로239번길 20, 1층 106호 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-17"
+    },
+    {
+      "name": "드림마트",
+      "address": "경기도 의정부시 신곡동 493-3",
+      "roadAddress": "경기도 의정부시 능곡로 42  (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-25"
+    },
+    {
+      "name": "중앙상사",
+      "address": "경기도 의정부시 의정부동 546 101, 102호",
+      "roadAddress": "경기도 의정부시 범골로98번길 103  (의정부동,101, 102호)",
+      "status": "영업/정상",
+      "licenseDate": "2005-02-24"
+    },
+    {
+      "name": "GS25 의정그린빌",
+      "address": "",
+      "roadAddress": "경기도 의정부시 부용로 49, 102호 (금오동, 상가)",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-03"
+    },
+    {
+      "name": "법전빌딩구내매점",
+      "address": "경기도 의정부시 가능동 363-1",
+      "roadAddress": "경기도 의정부시 녹양로34번길 30  (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-05"
+    },
+    {
+      "name": "GS25 가능로드점",
+      "address": "경기도 의정부시 가능동 585-15",
+      "roadAddress": "경기도 의정부시 호국로 1069 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-27"
+    },
+    {
+      "name": "GS25(녹양점)",
+      "address": "경기도 의정부시 녹양동 83-13 태경빌딩 1층",
+      "roadAddress": "경기도 의정부시 비우로 67  (녹양동,태경빌딩 1층)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씨유 의정부법원점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 녹양로18번길 30, 101~104호 (가능동, 금광포란재이너스아파트 상가동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-03-23"
+    },
+    {
+      "name": "이마트24  미리온타워점",
+      "address": "경기도 의정부시 의정부동 15-3 미리온타워",
+      "roadAddress": "경기도 의정부시 호국로 1340, 104,105호 (의정부동, 미리온타워)",
+      "status": "영업/정상",
+      "licenseDate": "2016-04-04"
+    },
+    {
+      "name": "씨유(CU)수락리버씨티점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 누원로 51, 1층 105호 (장암동, 수락리버시티1단지아파트 제상가동 )",
+      "status": "영업/정상",
+      "licenseDate": "2016-04-18"
+    },
+    {
+      "name": "세븐일레븐 민락폴리점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 오목로225번길 177, 1층 109호 (민락동, 폴리프라자)",
+      "status": "영업/정상",
+      "licenseDate": "2016-04-19"
+    },
+    {
+      "name": "지에스25의정반디점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 신촌로63번길 3, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-04-28"
+    },
+    {
+      "name": "GS회룡역점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 외미로 95, 104호 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-04-29"
+    },
+    {
+      "name": "세븐일레븐 민락주공점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 송양로 45, 상가동 101,102호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-05-03"
+    },
+    {
+      "name": "세븐일레븐 의정부보리점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 평화로568번길 27, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-05-09"
+    },
+    {
+      "name": "경기도장애인생산품판매시설",
+      "address": "",
+      "roadAddress": "경기도 의정부시 산단로68번길 152 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-05-11"
+    },
+    {
+      "name": "씨유의정부흥선로",
+      "address": "",
+      "roadAddress": "경기도 의정부시 흥선로 39, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-05-18"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "",
+      "roadAddress": "경기도 의정부시 호국로1183번길 24 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-05-24"
+    },
+    {
+      "name": "원종합유통",
+      "address": "",
+      "roadAddress": "경기도 의정부시 평화로 727, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-06-07"
+    },
+    {
+      "name": "마트 애 달인",
+      "address": "경기도 의정부시 의정부동 541-3",
+      "roadAddress": "경기도 의정부시 범골로 99, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-06-13"
+    },
+    {
+      "name": "GS25 의정신흥로",
+      "address": "",
+      "roadAddress": "경기도 의정부시 신흥로 265, 1층 101호 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-06-15"
+    },
+    {
+      "name": "의정부농협 송양하나로마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 오목로205번길 50 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-06-24"
+    },
+    {
+      "name": "세븐일레븐 의정부행복로점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 행복로 48, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-07-04"
+    },
+    {
+      "name": "이마트24 의정부대거리점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 태평로145번길 24, 1층 102호 (의정부동, 상민빌라)",
+      "status": "영업/정상",
+      "licenseDate": "2016-07-12"
+    },
+    {
+      "name": "프라임 홈마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 용민로 429-39, 상가동동 101~103호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-07-12"
+    },
+    {
+      "name": "GS25의정흥선점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 흥선로 14, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-07-12"
+    },
+    {
+      "name": "GS25 신곡추동점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 추동로 98 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-07-12"
+    },
+    {
+      "name": "씨유의정부휴먼시아",
+      "address": "경기도 의정부시 녹양동 411-1",
+      "roadAddress": "경기도 의정부시 체육로 298-12, 103호 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-08-09"
+    },
+    {
+      "name": "GS25 의정호동점",
+      "address": "경기도 의정부시 호원동 360",
+      "roadAddress": "경기도 의정부시 호동로 50, 106호 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-08-17"
+    },
+    {
+      "name": "아람마트",
+      "address": "경기도 의정부시 민락동 694번지",
+      "roadAddress": "경기도 의정부시 오목로 168, 상가동 지층 1,2,3,4,5호 (민락동, 산들마을아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2016-08-25"
+    },
+    {
+      "name": "씨유의정부서울",
+      "address": "경기도 의정부시 가능동 31-5",
+      "roadAddress": "경기도 의정부시 평화로 685 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-08-29"
+    },
+    {
+      "name": "씨유의정부신일유토빌",
+      "address": "경기도 의정부시 호원동 55-4",
+      "roadAddress": "경기도 의정부시 호암로 256, 1층 102,103호 (호원동, 신일유토빌아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2016-08-31"
+    },
+    {
+      "name": "(주)지에스리테일(장암점)",
+      "address": "경기도 의정부시 신곡동 727-1 풍림a 상가 1호",
+      "roadAddress": "경기도 의정부시 동일로454번길 6, 1층 (신곡동, 풍림,한국아파트 상가)",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-19"
+    },
+    {
+      "name": "GS25 의정레쉬빌",
+      "address": "경기도 의정부시 의정부동 496-3",
+      "roadAddress": "경기도 의정부시 신흥로240번길 26 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-05"
+    },
+    {
+      "name": "세븐일레븐  의정부중앙본점",
+      "address": "경기도 의정부시 의정부동 133-30",
+      "roadAddress": "경기도 의정부시 시민로122번길 11 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2010-03-08"
+    },
+    {
+      "name": "럭키수퍼",
+      "address": "경기도 의정부시 의정부동 417",
+      "roadAddress": "경기도 의정부시 가능로 118  (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-10-06"
+    },
+    {
+      "name": "우리마트",
+      "address": "경기도 의정부시 녹양동 332",
+      "roadAddress": "경기도 의정부시 비우로92번길 7  (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-10"
+    },
+    {
+      "name": "용문상회",
+      "address": "경기도 의정부시 신곡동 609-45",
+      "roadAddress": "경기도 의정부시 경의로 183  (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-11"
+    },
+    {
+      "name": "세븐일레븐 의정부가능로점",
+      "address": "경기도 의정부시 가능동 644-8 퍼니365프라자 106, 107호",
+      "roadAddress": "경기도 의정부시 가능로119번길 17 (가능동,퍼니365프라자 106, 107호)",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-11"
+    },
+    {
+      "name": "휴마트",
+      "address": "경기도 의정부시 낙양동 710",
+      "roadAddress": "경기도 의정부시 오목로 252, 상가101호 (낙양동, 휴스토리)",
+      "status": "영업/정상",
+      "licenseDate": "2016-08-31"
+    },
+    {
+      "name": "의정부푸르미 마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 호국로 1161 (가능동, 꿈에그린푸르미마을 상가)",
+      "status": "영업/정상",
+      "licenseDate": "2016-09-19"
+    },
+    {
+      "name": "이마트24 의정진등로점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 진등로19번길 15 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-09-19"
+    },
+    {
+      "name": "GS25 민락센터점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 용민로 441, 상가동 1층 101,102호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-09-20"
+    },
+    {
+      "name": "씨유 의정부KT점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 신흥로168번길 19, 1층 101호 (의정부동, 신양그린빌라제11차)",
+      "status": "영업/정상",
+      "licenseDate": "2016-09-22"
+    },
+    {
+      "name": "씨유 의정부청사점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 추동로140번길 44, 1층 (신곡동, 한일빌딩)",
+      "status": "영업/정상",
+      "licenseDate": "2016-10-27"
+    },
+    {
+      "name": "GS25 가능우미점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 흥선로41번길 14 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-10-31"
+    },
+    {
+      "name": "엉뚱한 상상",
+      "address": "",
+      "roadAddress": "경기도 의정부시 의정로110번길 39, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-11-01"
+    },
+    {
+      "name": "씨유 의정부폴리점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 용민로 313, 1층 109호 (낙양동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-11-01"
+    },
+    {
+      "name": "씨유(CU) 가능타운점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 흥선로16번길 21 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-11-04"
+    },
+    {
+      "name": "위드미 녹양서부로점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 서부로 707 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-11-09"
+    },
+    {
+      "name": "씨유 의정부동심점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 신촌로39번길 52, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-11-21"
+    },
+    {
+      "name": "이마트24 호원우성점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 평화로 360, 1층 (호원동, 호원3차우성아파트상가)",
+      "status": "영업/정상",
+      "licenseDate": "2016-11-24"
+    },
+    {
+      "name": "세븐일레븐 가능태양점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 흥선로15번길 54 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-11-30"
+    },
+    {
+      "name": "씨유 의정부 쁘띠린",
+      "address": "",
+      "roadAddress": "경기도 의정부시 호국로1298번길 38 (의정부동, 우미쁘띠린)",
+      "status": "영업/정상",
+      "licenseDate": "2016-12-01"
+    },
+    {
+      "name": "이마트24 의정부금오점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 청사로47번길 7-24, 103,104층 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-12-21"
+    },
+    {
+      "name": "씨유 의정부삼현",
+      "address": "",
+      "roadAddress": "경기도 의정부시 송양로 75, 상가동 101,102호 (민락동, 민락센트럴)",
+      "status": "영업/정상",
+      "licenseDate": "2017-01-19"
+    },
+    {
+      "name": "위드미 민락타운점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 오목로225번길 69-3, 1층 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-01-31"
+    },
+    {
+      "name": "GS25 의정한주점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 회룡로138번길 10, 상가동 102,103호 (호원동, 한주5차아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2017-02-03"
+    },
+    {
+      "name": "GS25 의정극동점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 추동로 43, 상가동 119,120호 (신곡동, 극동,동성아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2017-02-15"
+    },
+    {
+      "name": "OK 365금오점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 금신로382번길 36-3 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-02-15"
+    },
+    {
+      "name": "씨스페이스 의정부호원점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 망월로 63, 상가동 1호 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-03-02"
+    },
+    {
+      "name": "지에스25의정한도빌",
+      "address": "",
+      "roadAddress": "경기도 의정부시 신흥로274번길 9 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-03-08"
+    },
+    {
+      "name": "GS25신한대점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 망월로13번길 4, 1층 (호원동, 모아쉐르빌)",
+      "status": "영업/정상",
+      "licenseDate": "2017-03-09"
+    },
+    {
+      "name": "대원식자재",
+      "address": "",
+      "roadAddress": "경기도 의정부시 호국로1346번길 136 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-03-09"
+    },
+    {
+      "name": "이마트24 가능대진점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 신촌로63번길 21 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-03-15"
+    },
+    {
+      "name": "GS25 의정사랑점",
+      "address": "경기도 의정부시 민락동 751-2",
+      "roadAddress": "경기도 의정부시 승지로22번길 10 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-19"
+    },
+    {
+      "name": "영진수퍼",
+      "address": "경기도 의정부시 호원동 119-21",
+      "roadAddress": "경기도 의정부시 망월로 18-16, A동  302호(호원동,홍익빌라)",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-11"
+    },
+    {
+      "name": "노브랜드 의정부민락점",
+      "address": "경기도 의정부시 민락동 706-2",
+      "roadAddress": "경기도 의정부시 용민로 124 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-23"
+    },
+    {
+      "name": "풍년슈퍼",
+      "address": "경기도 의정부시 가능동 669-4",
+      "roadAddress": "경기도 의정부시 가능로39번길 35  (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-15"
+    },
+    {
+      "name": "드림할인마트",
+      "address": "경기도 의정부시 용현동 신도브레뉴a 단지내상가 2층 201호",
+      "roadAddress": "경기도 의정부시 용현로 72, 202호 (용현동, 신도브래뉴@단지내 상가 202호)",
+      "status": "영업/정상",
+      "licenseDate": "2006-02-08"
+    },
+    {
+      "name": "호원가든수퍼",
+      "address": "경기도 의정부시 호원동 322-5 호원가든2차아파트",
+      "roadAddress": "경기도 의정부시 호동로 64, 호원가든2차아파트 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-02-15"
+    },
+    {
+      "name": "창조식자재유통",
+      "address": "경기도 의정부시 금오동 335-3 외 3필지",
+      "roadAddress": "경기도 의정부시 호국로 1419  (금오동,외 3필지)",
+      "status": "영업/정상",
+      "licenseDate": "2006-02-21"
+    },
+    {
+      "name": "우리마트",
+      "address": "경기도 의정부시 용현동 275-13",
+      "roadAddress": "경기도 의정부시 용민로 58 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-06"
+    },
+    {
+      "name": "GS25 민락현대점",
+      "address": "경기도 의정부시 민락동 695-3 민락주공2단지",
+      "roadAddress": "경기도 의정부시 오목로 152, 민락주공2단지 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-22"
+    },
+    {
+      "name": "CU 의정부새싹3호점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 신흥로 194, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-04-03"
+    },
+    {
+      "name": "한라유통 케이마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 추동로 43, 지하층 (신곡동, 극동상가)",
+      "status": "영업/정상",
+      "licenseDate": "2017-04-06"
+    },
+    {
+      "name": "GS25 금오현대점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 부용로 95, 110호 (금오동, 현대프라자)",
+      "status": "영업/정상",
+      "licenseDate": "2017-04-11"
+    },
+    {
+      "name": "씨유 민락스타점",
+      "address": "경기도 의정부시 민락동 808-2",
+      "roadAddress": "경기도 의정부시 오목로225번길 135, 113호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-04-18"
+    },
+    {
+      "name": "위드미 민락제일점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 송현로52번길 5, 101호 (민락동, 이미애빌딩)",
+      "status": "영업/정상",
+      "licenseDate": "2017-04-26"
+    },
+    {
+      "name": "GS25 의정휴먼시아점",
+      "address": "경기도 의정부시 녹양동 401",
+      "roadAddress": "경기도 의정부시 본원로 39, 상가동 104호 (녹양동, 휴먼시아)",
+      "status": "영업/정상",
+      "licenseDate": "2017-04-27"
+    },
+    {
+      "name": "씨유 의정부현대",
+      "address": "",
+      "roadAddress": "경기도 의정부시 오목로 38, 상가동 1층 108호 (용현동, 현대아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2017-05-12"
+    },
+    {
+      "name": "씨유 의정부민락우정점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 오목로225번길 60-15, 1층 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-05-12"
+    },
+    {
+      "name": "GS25 경의초교점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 경의로 145, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-05-15"
+    },
+    {
+      "name": "씨유 가능빌리지",
+      "address": "",
+      "roadAddress": "경기도 의정부시 의정로198번길 31 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-05-18"
+    },
+    {
+      "name": "씨유 의정부르네상스",
+      "address": "",
+      "roadAddress": "경기도 의정부시 평화로 137, 제1동 1층 5호 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-05-25"
+    },
+    {
+      "name": "럭키할인마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 능곡로 6 (신곡동, 주공아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2017-05-26"
+    },
+    {
+      "name": "GS25 의정미도점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 전좌로 204-13 (호원동, 미도아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2017-06-07"
+    },
+    {
+      "name": "GS25 의정부점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 호국로1310번길 21 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-06-07"
+    },
+    {
+      "name": "이미트24 의정부역점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 평화로483번길 12 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-06-08"
+    },
+    {
+      "name": "GS25 의정장암IC점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 동일로 141, 라동 (장암동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-06-12"
+    },
+    {
+      "name": "이마트24 의정부동점",
+      "address": "경기도 의정부시 의정부동 385-1",
+      "roadAddress": "경기도 의정부시 평화로 437, 1층 101호 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-06-28"
+    },
+    {
+      "name": "씨유 의정부새싹1호점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 직곡로7번길 43 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-07-06"
+    },
+    {
+      "name": "노브랜드 의정부녹양점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 체육로 250-34, 1층 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-07-18"
+    },
+    {
+      "name": "위드미 의정부평화로점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 평화로504번길 14 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-07-25"
+    },
+    {
+      "name": "GS25 금오그린빌점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 청사로48번길 26, 상가동 101,102호 (금오동, 주공그린빌)",
+      "status": "영업/정상",
+      "licenseDate": "2017-08-01"
+    },
+    {
+      "name": "GS25 민락월드점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 용민로 198, 110호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-08-01"
+    },
+    {
+      "name": "세븐일레븐 의정부센터점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 범골로145번길 23, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-08-14"
+    },
+    {
+      "name": "지에스(GS)25 의정부시청점",
+      "address": "경기도 의정부시 의정부동 484-7",
+      "roadAddress": "경기도 의정부시 둔야로33번길 14, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-08-25"
+    },
+    {
+      "name": "세븐일레븐 가능동심점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 신촌로53번길 29 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-08-31"
+    },
+    {
+      "name": "세븐일레븐 의정부역공원점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 평화로 546 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-09-05"
+    },
+    {
+      "name": "주사랑마트",
+      "address": "경기도 의정부시 가능동 15-153",
+      "roadAddress": "경기도 의정부시 태평로204번길 29-14  (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-25"
+    },
+    {
+      "name": "GS25 호원신일점",
+      "address": "호원1동",
+      "roadAddress": "경기도 의정부시 호암로 230, 상가2동 102호 (호원동, 신일유토빌아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2006-05-29"
+    },
+    {
+      "name": "씨유 가능공원점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 가능로15번길 11 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "드림마트",
+      "address": "경기도 의정부시 의정부동 288 동화아파트",
+      "roadAddress": "경기도 의정부시 백석로 12, 동화아파트 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-09"
+    },
+    {
+      "name": "스타25시",
+      "address": "경기도 의정부시 민락동 707-1",
+      "roadAddress": "경기도 의정부시 용민로 122  (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-10"
+    },
+    {
+      "name": "세븐일레븐 민락건호점",
+      "address": "경기도 의정부시 민락동 737-6",
+      "roadAddress": "경기도 의정부시 용현로120번길 15, 1층 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-14"
+    },
+    {
+      "name": "샤론수퍼",
+      "address": "경기도 의정부시 신곡동 573-1",
+      "roadAddress": "경기도 의정부시 시민로193번길 39  (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-03"
+    },
+    {
+      "name": "GS25의정호국점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 태평로108번길 19 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-06-21"
+    },
+    {
+      "name": "GS 25시(의정동부점)",
+      "address": "경기도 의정부시 의정부동 136-31",
+      "roadAddress": "경기도 의정부시 시민로122번길 59  (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-08-07"
+    },
+    {
+      "name": "씨유 가능제일점",
+      "address": "경기도 의정부시 가능동 651-8",
+      "roadAddress": "경기도 의정부시 가능로97번길 17 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "이마트24 호원한승점",
+      "address": "경기도 의정부시 호원동 309-27",
+      "roadAddress": "경기도 의정부시 전좌로156번길 50 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-10-10"
+    },
+    {
+      "name": "이마트24 의정부경민점",
+      "address": "경기도 의정부시 가능동 697-29",
+      "roadAddress": "경기도 의정부시 호국로1111번길 9 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-10-18"
+    },
+    {
+      "name": "롯데쇼핑(주)롯데마트 장암점",
+      "address": "경기도 의정부시 장암동 38-10",
+      "roadAddress": "경기도 의정부시 장곡로 224 (장암동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-16"
+    },
+    {
+      "name": "웰빙할인마트",
+      "address": "경기도 의정부시 호원동 464-17",
+      "roadAddress": "경기도 의정부시 평화로 169  (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-20"
+    },
+    {
+      "name": "씨유 의정부역점",
+      "address": "경기도 의정부시 의정부동 499",
+      "roadAddress": "경기도 의정부시 신흥로222번길 5-12 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-24"
+    },
+    {
+      "name": "청광수퍼",
+      "address": "경기도 의정부시 신곡동 122-33 청광빌라 88동 101호",
+      "roadAddress": "경기도 의정부시 추동로108번길 81-15, 88동  101호(신곡동,청광빌라)",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-23"
+    },
+    {
+      "name": "GS25 신곡새말점",
+      "address": "경기도 의정부시 신곡동 122-17",
+      "roadAddress": "경기도 의정부시 추동로108번길 89 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-03"
+    },
+    {
+      "name": "세븐일레븐 녹양누리점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 본원로46번길 21 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-09-13"
+    },
+    {
+      "name": "GS25 의정부소영점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 청사로47번길 26 (금오동, 파크프라자)",
+      "status": "영업/정상",
+      "licenseDate": "2017-09-18"
+    },
+    {
+      "name": "위드미 민락타운점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 오목로225번길 69-3, 1층 101호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-09-21"
+    },
+    {
+      "name": "GS25 의정시티점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 누원로 52, 1층 104호 (장암동, 수락리버시티2단지)",
+      "status": "영업/정상",
+      "licenseDate": "2017-09-21"
+    },
+    {
+      "name": "GS25 뉴녹양역점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 체육로 298-13 (녹양동, 현대프라자)",
+      "status": "영업/정상",
+      "licenseDate": "2017-10-18"
+    },
+    {
+      "name": "GS25 의정부용로점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 부용로203번길 28 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-10-18"
+    },
+    {
+      "name": "GS25 의정평화로점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 평화로322번길 37 (호원동, 한주4차아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2017-10-23"
+    },
+    {
+      "name": "대영마트",
+      "address": "경기도 의정부시 민락동 732-14",
+      "roadAddress": "경기도 의정부시 용현로 103, 1층 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-10-27"
+    },
+    {
+      "name": "세븐일레븐 의정부승원점",
+      "address": "경기도 의정부시 가능동 609-1",
+      "roadAddress": "경기도 의정부시 의정로198번길 57 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-10-31"
+    },
+    {
+      "name": "농민마트",
+      "address": "경기도 의정부시 의정부동 605",
+      "roadAddress": "경기도 의정부시 범골로 76 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-10-31"
+    },
+    {
+      "name": "씨유 민락호반정문점",
+      "address": "경기도 의정부시 민락동 847 호반베르디움1차",
+      "roadAddress": "경기도 의정부시 민락로 211, 124동 1층 105호 (민락동, 호반베르디움1차)",
+      "status": "영업/정상",
+      "licenseDate": "2017-11-08"
+    },
+    {
+      "name": "GS25 뉴의정부용현점",
+      "address": "경기도 의정부시 용현동 39-9",
+      "roadAddress": "경기도 의정부시 오목로 33, 1층 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-11-09"
+    },
+    {
+      "name": "의정슈퍼",
+      "address": "경기도 의정부시 의정부동 359-79",
+      "roadAddress": "경기도 의정부시 시민로158번길 53 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-11-14"
+    },
+    {
+      "name": "세븐일레븐 호원원룸점",
+      "address": "경기도 의정부시 호원동 85-29",
+      "roadAddress": "경기도 의정부시 호암로 141 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-12-27"
+    },
+    {
+      "name": "주식회사 서울개인택시복지법인",
+      "address": "경기도 의정부시 호원동 220-2",
+      "roadAddress": "경기도 의정부시 평화로 75 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-12-27"
+    },
+    {
+      "name": "GS25 의정신세계점",
+      "address": "경기도 의정부시 금오동 473-3 신세계프라자",
+      "roadAddress": "경기도 의정부시 청사로 37, 신세계프라자 108호 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-01-02"
+    },
+    {
+      "name": "이마트에브리데이 신곡풍림점",
+      "address": "경기도 의정부시 신곡동 727-1 풍림,한국아파트",
+      "roadAddress": "경기도 의정부시 동일로454번길 40, 풍림,한국아파트 상가동 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-01-12"
+    },
+    {
+      "name": "GS25 의정부등기소점",
+      "address": "경기도 의정부시 의정부동 559-1 대산빌라",
+      "roadAddress": "경기도 의정부시 범골로146번길 23, 1층 (의정부동, 대산빌라)",
+      "status": "영업/정상",
+      "licenseDate": "2018-01-12"
+    },
+    {
+      "name": "건널목 휴게실",
+      "address": "경기도 의정부시 가능동 34-15",
+      "roadAddress": "경기도 의정부시 평화로 673-13 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-01-24"
+    },
+    {
+      "name": "다올마트",
+      "address": "경기도 의정부시 녹양동 83-60",
+      "roadAddress": "경기도 의정부시 비우로 81, 1층 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-02-01"
+    },
+    {
+      "name": "GS25 송산4단지점",
+      "address": "경기도 의정부시 민락동 757-12 송산주공4단지",
+      "roadAddress": "경기도 의정부시 오목로 74, 송산주공4단지 상가동 104호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-02-01"
+    },
+    {
+      "name": "GS25 신곡은하수점",
+      "address": "경기도 의정부시 신곡동 684 신곡은하수아파트",
+      "roadAddress": "경기도 의정부시 장금로 35, 신곡은하수아파트 상가동동 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-02-01"
+    },
+    {
+      "name": "진이마트",
+      "address": "경기도 의정부시 가능동 614-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스타24 미니수퍼",
+      "address": "경기도 의정부시 의정부동 176-1",
+      "roadAddress": "경기도 의정부시 행복로 10  (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-23"
+    },
+    {
+      "name": "해태마트",
+      "address": "경기도 의정부시 의정부동 439 -23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신명마트",
+      "address": "경기도 의정부시 신곡동 515-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "녹양전기",
+      "address": "경기도 의정부시 녹양동 325-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신성벽산할인마트",
+      "address": "경기도 의정부시 신곡동 685",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은혜마트",
+      "address": "경기도 의정부시 의정부동 537-4",
+      "roadAddress": "경기도 의정부시 범골로107번길 117 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-13"
+    },
+    {
+      "name": "GS25 (의정보람점)",
+      "address": "경기도 의정부시 의정부동 564-8",
+      "roadAddress": "경기도 의정부시 경의로 55 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-09"
+    },
+    {
+      "name": "GS25 의정부현대점",
+      "address": "경기도 의정부시 가능동 607-25",
+      "roadAddress": "경기도 의정부시 신촌로17번길 33 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-02"
+    },
+    {
+      "name": "GS25(의정행복점)",
+      "address": "경기도 의정부시 의정부동 199-1",
+      "roadAddress": "경기도 의정부시 평화로562번길 18 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-12"
+    },
+    {
+      "name": "대우수퍼",
+      "address": "경기도 의정부시 가능동 227-7",
+      "roadAddress": "경기도 의정부시 호국로 1166  (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-04-25"
+    },
+    {
+      "name": "동네마트",
+      "address": "경기도 의정부시 금오동 403-29",
+      "roadAddress": "경기도 의정부시 금신로 396-11  (금오동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씨유 의정부새싹2호점",
+      "address": "경기도 의정부시 의정부동 137-6",
+      "roadAddress": "경기도 의정부시 평화로474번길 19 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-25"
+    },
+    {
+      "name": "씨유 의정부행복점",
+      "address": "경기도 의정부시 의정부동 211-1",
+      "roadAddress": "경기도 의정부시 평화로561번길 11 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-27"
+    },
+    {
+      "name": "위드미 호원안말점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 평화로243번길 29 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-26"
+    },
+    {
+      "name": "이플러스마트",
+      "address": "경기도 의정부시 의정부동 430-17",
+      "roadAddress": "경기도 의정부시 시민로 63 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-03"
+    },
+    {
+      "name": "친환경할인마트",
+      "address": "경기도 의정부시 녹양동 353-3",
+      "roadAddress": "경기도 의정부시 녹양로62번길 11  (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-01-09"
+    },
+    {
+      "name": "씨유 신곡중앙점",
+      "address": "경기도 의정부시 신곡동 483",
+      "roadAddress": "경기도 의정부시 능곡로26번길 19 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "진마트",
+      "address": "경기도 의정부시 의정부동 359-44",
+      "roadAddress": "경기도 의정부시 시민로158번길 35-17 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-03-14"
+    },
+    {
+      "name": "씨유 의정부태형점",
+      "address": "경기도 의정부시 의정부동 580-9",
+      "roadAddress": "경기도 의정부시 경의로85번길 6-3 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "롯데쇼핑(주) 롯데슈퍼녹양점",
+      "address": "경기도 의정부시 녹양동 91-1",
+      "roadAddress": "경기도 의정부시 비우로 111 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-20"
+    },
+    {
+      "name": "진로마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 평화로190번길 22 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-04-07"
+    },
+    {
+      "name": "(주)삼주국민마트",
+      "address": "경기도 의정부시 신곡동 719-2 백상프라자 지하1층",
+      "roadAddress": "경기도 의정부시 발곡로 10  (신곡동,백상프라자 지하1층)",
+      "status": "영업/정상",
+      "licenseDate": "2008-04-30"
+    },
+    {
+      "name": "GS25 의정부제일점",
+      "address": "경기도 의정부시 의정부동 156-3",
+      "roadAddress": "경기도 의정부시 시민로143번길 83  (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-05-08"
+    },
+    {
+      "name": "으뜸상회",
+      "address": "경기도 의정부시 가능동 619-22",
+      "roadAddress": "경기도 의정부시 신촌로39번길 27, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-02-08"
+    },
+    {
+      "name": "GS25 민락유보라점",
+      "address": "경기도 의정부시 낙양동 763 반도유보라 아이비파크",
+      "roadAddress": "경기도 의정부시 용민로 304, 515동 1층 201호 (낙양동, 반도유보라 아이비파크)",
+      "status": "영업/정상",
+      "licenseDate": "2018-02-09"
+    },
+    {
+      "name": "씨유 민락엘레트점",
+      "address": "경기도 의정부시 민락동 890 민락엘레트19단지",
+      "roadAddress": "경기도 의정부시 송양로 94, 상가동 106,107호 (민락동, 민락엘레트19단지)",
+      "status": "영업/정상",
+      "licenseDate": "2018-02-20"
+    },
+    {
+      "name": "씨유 민락행복점",
+      "address": "경기도 의정부시 낙양동 735 양지마을 10단지",
+      "roadAddress": "경기도 의정부시 용민로 373-17, 상가동 1층 102,103호 (낙양동, 양지마을 10단지)",
+      "status": "영업/정상",
+      "licenseDate": "2018-02-21"
+    },
+    {
+      "name": "세븐일레븐 의정부의료원점",
+      "address": "경기도 의정부시 의정부동 434-15",
+      "roadAddress": "경기도 의정부시 신흥로 278, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-03-06"
+    },
+    {
+      "name": "세븐일레븐 의정부시청점",
+      "address": "경기도 의정부시 의정부동 513-1 스타프라자",
+      "roadAddress": "경기도 의정부시 둔야로17번길 23, 스타프라자 104호 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-03-06"
+    },
+    {
+      "name": "세븐일레븐 의정부회룡역점",
+      "address": "경기도 의정부시 호원동 50-17 유타상가",
+      "roadAddress": "경기도 의정부시 외미로 104-12, 유타상가 1층 102호 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-03-08"
+    },
+    {
+      "name": "GS25 금오행정타운점",
+      "address": "경기도 의정부시 금오동 447-8",
+      "roadAddress": "경기도 의정부시 호국로1519번길 20-34, 1층 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-03-14"
+    },
+    {
+      "name": "이마트24 의정부다온점",
+      "address": "경기도 의정부시 의정부동 483-16",
+      "roadAddress": "경기도 의정부시 둔야로45번길 24 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-03-21"
+    },
+    {
+      "name": "씨유 의정금오현대점",
+      "address": "경기도 의정부시 금오동 469-4 현대아이파크아파트",
+      "roadAddress": "경기도 의정부시 부용로 87, 상가동 101,102호 (금오동, 현대아이파크아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2018-04-05"
+    },
+    {
+      "name": "씨유 의정아이원점",
+      "address": "경기도 의정부시 신곡동 755-2 풍림아이원아파트",
+      "roadAddress": "경기도 의정부시 추동로91번길 15, 풍림아이원아파트 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-04-25"
+    },
+    {
+      "name": "GS25 송산1단지점",
+      "address": "경기도 의정부시 용현동 547-11 송산주공아파트",
+      "roadAddress": "경기도 의정부시 부용로219번길 36, 송산주공아파트 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-04-30"
+    },
+    {
+      "name": "세븐일레븐 신곡빌리지점",
+      "address": "경기도 의정부시 신곡동 710-10",
+      "roadAddress": "경기도 의정부시 발곡로31번길 27-8, 1층 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-05-24"
+    },
+    {
+      "name": "GS25 경민대정문점",
+      "address": "경기도 의정부시 가능동 566-27",
+      "roadAddress": "경기도 의정부시 호국로1101번길 41 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-05-30"
+    },
+    {
+      "name": "GS25 장암대우점",
+      "address": "경기도 의정부시 장암동 31-3",
+      "roadAddress": "경기도 의정부시 회룡로192번길 42 (장암동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-06-01"
+    },
+    {
+      "name": "철이네 마트",
+      "address": "경기도 의정부시 금오동 386-12",
+      "roadAddress": "경기도 의정부시 동일로677번길 24 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-06-01"
+    },
+    {
+      "name": "노브랜드 의정부신곡점",
+      "address": "경기도 의정부시 신곡동 781",
+      "roadAddress": "경기도 의정부시 추동로 236 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-06-14"
+    },
+    {
+      "name": "GS25 의정은빛점",
+      "address": "경기도 의정부시 호원동 226-1 31차 진산은빛마을",
+      "roadAddress": "경기도 의정부시 망월로45번길 38, 1층 (호원동, 31차 진산은빛마을)",
+      "status": "영업/정상",
+      "licenseDate": "2018-06-21"
+    },
+    {
+      "name": "세븐일레븐 의정부유성점",
+      "address": "경기도 의정부시 산곡동 522-13",
+      "roadAddress": "경기도 의정부시 송산로 913 (산곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-08"
+    },
+    {
+      "name": "GS25 민락송산점",
+      "address": "경기도 의정부시 민락동 735-3 송산주공아파트",
+      "roadAddress": "경기도 의정부시 효자로 40, 송산주공아파트 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-06-25"
+    },
+    {
+      "name": "환희수퍼",
+      "address": "경기도 의정부시  669",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씨유녹양힐스테이트점",
+      "address": "경기도 의정부시 녹양동 355 녹양힐스테이트",
+      "roadAddress": "경기도 의정부시 녹양로62번길 12 (녹양동, 녹양힐스테이트)",
+      "status": "영업/정상",
+      "licenseDate": "2026-02-10"
+    },
+    {
+      "name": "롯데마그넷의정부점",
+      "address": "경기도 의정부시 용현동 527-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코리아세븐",
+      "address": "경기도 의정부시 호원동 10-42",
+      "roadAddress": "경기도 의정부시 회룡로 107  (호원동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "N - 할인마트",
+      "address": "경기도 의정부시 가능동 604",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씨유 의정부신명점",
+      "address": "경기도 의정부시 신곡동 98",
+      "roadAddress": "경기도 의정부시 능곡로 66 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "(주)지에스리테일GS수퍼 의정부민락점",
+      "address": "경기도 의정부시 민락동 691-1 신안아파트 상가동 지하 101호",
+      "roadAddress": "경기도 의정부시 용현로 143 (민락동, 제상가동지하101호)",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-03"
+    },
+    {
+      "name": "세븐일레븐 가능스토리점",
+      "address": "경기도 의정부시 가능동 207-22",
+      "roadAddress": "경기도 의정부시 태평로214번길 3-6 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-11"
+    },
+    {
+      "name": "케이(k)할인마트",
+      "address": "경기도 의정부시 호원동 468-25",
+      "roadAddress": "경기도 의정부시 평화로 121-1, 1층 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2026-02-20"
+    },
+    {
+      "name": "세븐일레븐 의정부금오점",
+      "address": "경기도 의정부시 금오동 60-8",
+      "roadAddress": "경기도 의정부시 금오로 123, 1층 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-07"
+    },
+    {
+      "name": "e-푸른마트",
+      "address": "경기도 의정부시 녹양동 409 휴먼시아아파트 상가 104동 101호",
+      "roadAddress": "경기도 의정부시 체육로 278, 104동 101호 (녹양동,휴먼시아아파트 상가)",
+      "status": "영업/정상",
+      "licenseDate": "2008-05-08"
+    },
+    {
+      "name": "케이마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 시민로 241 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-05-08"
+    },
+    {
+      "name": "GS25 의정해궁점",
+      "address": "경기도 의정부시 의정부동 592-5",
+      "roadAddress": "경기도 의정부시 경의로 72 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-06-21"
+    },
+    {
+      "name": "GS25 호원에이스점",
+      "address": "경기도 의정부시 호원동 436-1 한주1차아파트",
+      "roadAddress": "경기도 의정부시 평화로290번길 11, 상가동 1층 106, 107호 (호원동, 한주1차아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-30"
+    },
+    {
+      "name": "정운마트",
+      "address": "경기도 의정부시 신곡동 727-1 풍림,한국아파트",
+      "roadAddress": "경기도 의정부시 동일로454번길 6, 풍림,한국아파트 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-10"
+    },
+    {
+      "name": "씨유 의정부가능sk점",
+      "address": "경기도 의정부시 가능동 656-1",
+      "roadAddress": "경기도 의정부시 신촌로 22 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "세븐일레븐 의정부센트럴타워점",
+      "address": "경기도 의정부시 의정부동 494 외 6필지 센트럴타워 1층",
+      "roadAddress": "경기도 의정부시 시민로 80  (의정부동,외 6필지 센트럴타워 1층)",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-30"
+    },
+    {
+      "name": "현대아울렛D.C마트",
+      "address": "경기도 의정부시 녹양동 83-89 지하",
+      "roadAddress": "경기도 의정부시 비우로 95  (녹양동,지하)",
+      "status": "영업/정상",
+      "licenseDate": "2008-07-16"
+    },
+    {
+      "name": "이수할인마트",
+      "address": "경기도 의정부시 가능동 224-16",
+      "roadAddress": "경기도 의정부시 호국로1142번길 11-2  (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-07-18"
+    },
+    {
+      "name": "CU 상록아이파크점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 부용로 172 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "씨유 민락청구점",
+      "address": "경기도 의정부시 민락동 576 민락1차 청구아파트",
+      "roadAddress": "경기도 의정부시 오목로 112, 상가동 1층 109호, 110호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-10-25"
+    },
+    {
+      "name": "씨유 호원롯데점",
+      "address": "경기도 의정부시 호원동 467-8",
+      "roadAddress": "경기도 의정부시 평화로 120 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-19"
+    },
+    {
+      "name": "한빛슈퍼",
+      "address": "경기도 의정부시 의정부동 219-16",
+      "roadAddress": "경기도 의정부시 태평로155번길 35  (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-09-22"
+    },
+    {
+      "name": "GS25 녹양역점",
+      "address": "경기도 의정부시 녹양동 412-3 현대프라자 105호",
+      "roadAddress": "경기도 의정부시 체육로 298-13  (녹양동,현대프라자 105호)",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-01"
+    },
+    {
+      "name": "현대그린마트",
+      "address": "경기도 의정부시 신곡동 725-2 장암현대1차아파트 상가 101호",
+      "roadAddress": "경기도 의정부시 동일로 451-25  (신곡동,장암현대1차아파트 상가 101호)",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-12"
+    },
+    {
+      "name": "세븐일레븐 의정부늘사랑점",
+      "address": "경기도 의정부시 호원동 450 미소프라자 113호",
+      "roadAddress": "경기도 의정부시 평화로 252 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-08"
+    },
+    {
+      "name": "GS25 의정부중앙점",
+      "address": "경기도 의정부시 의정부동 492-12",
+      "roadAddress": "경기도 의정부시 둔야로 20  (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-20"
+    },
+    {
+      "name": "가야홀인원복권방",
+      "address": "경기도 의정부시 녹양동 412-10 105호",
+      "roadAddress": "경기도 의정부시 체육로 306-14, 105호 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-31"
+    },
+    {
+      "name": "럭키할인마트",
+      "address": "경기도 의정부시 호원동 453-1",
+      "roadAddress": "경기도 의정부시 평화로 238 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-06"
+    },
+    {
+      "name": "씨유 의정부한국점",
+      "address": "경기도 의정부시 신곡동 727-1 풍림,한국아파트",
+      "roadAddress": "경기도 의정부시 동일로454번길 40, 풍림,한국아파트 상가동동 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-06-25"
+    },
+    {
+      "name": "알뜰식품점",
+      "address": "경기도 의정부시 가능동 637-8",
+      "roadAddress": "경기도 의정부시 신촌로63번길 30-1 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-07-24"
+    },
+    {
+      "name": "뚜레쥬르",
+      "address": "경기도 의정부시 녹양동 146-14",
+      "roadAddress": "경기도 의정부시 녹양로 59 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-08-03"
+    },
+    {
+      "name": "GS25 녹양타운점",
+      "address": "경기도 의정부시 녹양동 379-5",
+      "roadAddress": "경기도 의정부시 녹양로87번길 38-11, 101호 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-08-08"
+    },
+    {
+      "name": "GS25 의정대로점",
+      "address": "경기도 의정부시 호원동 460-20",
+      "roadAddress": "경기도 의정부시 평화로 180, 1층 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-08-17"
+    },
+    {
+      "name": "휴먼마트",
+      "address": "경기도 의정부시 녹양동 409 휴먼시아",
+      "roadAddress": "경기도 의정부시 체육로 278, 101동 106호 (녹양동, 휴먼시아)",
+      "status": "영업/정상",
+      "licenseDate": "2018-09-11"
+    },
+    {
+      "name": "씨유 의정제일점",
+      "address": "경기도 의정부시 의정부동 160 의정부제일시장",
+      "roadAddress": "경기도 의정부시 태평로73번길 20, 의정부제일시장 가동 7호 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-09-21"
+    },
+    {
+      "name": "미니스톱 의정평화점",
+      "address": "경기도 의정부시 의정부동 137-1",
+      "roadAddress": "경기도 의정부시 평화로484번길 18, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-09-27"
+    },
+    {
+      "name": "(주)신세계 의정부점",
+      "address": "경기도 의정부시 의정부동 168-54 의정부민자역사",
+      "roadAddress": "경기도 의정부시 평화로 525, 의정부민자역사 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-10-15"
+    },
+    {
+      "name": "(주)쿱스토어광주 의정부민락점",
+      "address": "경기도 의정부시 민락동 797-4",
+      "roadAddress": "경기도 의정부시 용민로182번길 36-13 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-10-22"
+    },
+    {
+      "name": "우리동네 할인마트",
+      "address": "경기도 의정부시 가능동 700-8",
+      "roadAddress": "경기도 의정부시 호국로1123번길 11, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-10-22"
+    },
+    {
+      "name": "노브랜드 의정부호원점",
+      "address": "경기도 의정부시 호원동 434-2",
+      "roadAddress": "경기도 의정부시 평화로 325, 1층 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-10-29"
+    },
+    {
+      "name": "케이마트",
+      "address": "경기도 의정부시 신곡동 669 극동,동성아파트",
+      "roadAddress": "경기도 의정부시 추동로 43, 극동,동성아파트 상가동 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-11-01"
+    },
+    {
+      "name": "씨유 의정민락희망점",
+      "address": "경기도 의정부시 낙양동 746 라디언트캐슬",
+      "roadAddress": "경기도 의정부시 용민로 419, 상가동 101,102호 (낙양동, 라디언트캐슬)",
+      "status": "영업/정상",
+      "licenseDate": "2018-11-07"
+    },
+    {
+      "name": "GS25 민락우미린점",
+      "address": "경기도 의정부시 민락동 889 의정부민락우미린더스카이",
+      "roadAddress": "경기도 의정부시 송양로 76, 114~115호 (민락동, 의정부민락우미린더스카이)",
+      "status": "영업/정상",
+      "licenseDate": "2018-11-12"
+    },
+    {
+      "name": "(주)윈플러스마트 남부민락점",
+      "address": "경기도 의정부시 낙양동 745",
+      "roadAddress": "경기도 의정부시 민락로 406 (낙양동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-11-22"
+    },
+    {
+      "name": "로또방",
+      "address": "경기도 의정부시 호원동 366-25",
+      "roadAddress": "경기도 의정부시 범골로 42, 1층 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-12-11"
+    },
+    {
+      "name": "세븐일레븐 의정부신촌점",
+      "address": "경기도 의정부시 가능동 672-22",
+      "roadAddress": "경기도 의정부시 의정로 193, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-12-13"
+    },
+    {
+      "name": "세븐일레븐 의정부푸르지오점",
+      "address": "경기도 의정부시 민락동 734-2",
+      "roadAddress": "경기도 의정부시 용현로105번길 23, 1층 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-12-14"
+    },
+    {
+      "name": "세븐일레븐 의정부가능SK점",
+      "address": "경기도 의정부시 가능동 663-21",
+      "roadAddress": "경기도 의정부시 신촌로6번길 29-24 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-12-14"
+    },
+    {
+      "name": "소라슈퍼",
+      "address": "경기도 의정부시 장암동 14-13 장암2단지주공아파트",
+      "roadAddress": "경기도 의정부시 동일로 395, 장암2단지주공아파트 (장암동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-19"
+    },
+    {
+      "name": "GS25 의정태평점",
+      "address": "경기도 의정부시 의정부동 97-8",
+      "roadAddress": "경기도 의정부시 태평로 24 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-15"
+    },
+    {
+      "name": "서해홈마트",
+      "address": "경기도 의정부시 신곡동 353-43",
+      "roadAddress": "경기도 의정부시 동일로466번길 3 (신곡동, 상가동 1층, 102~103호 )",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-21"
+    },
+    {
+      "name": "이마트24 의정부흥선점",
+      "address": "경기도 의정부시 가능동 722-10",
+      "roadAddress": "경기도 의정부시 흥선로27번길 29, 2층호(가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-03"
+    },
+    {
+      "name": "알파스토어",
+      "address": "경기도 의정부시 의정부동 125-5 미즘",
+      "roadAddress": "경기도 의정부시 태평로 76, 미즘 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-05"
+    },
+    {
+      "name": "정성마트",
+      "address": "경기도 의정부시 신곡동 430-22",
+      "roadAddress": "경기도 의정부시 동일로510번길 7  (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-12"
+    },
+    {
+      "name": "이마트24 의정부가능초점",
+      "address": "경기도 의정부시 가능동 727-23",
+      "roadAddress": "경기도 의정부시 가능로50번길 23-1 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-16"
+    },
+    {
+      "name": "씨유 신곡서해점",
+      "address": "경기도 의정부시 신곡동 362-2",
+      "roadAddress": "경기도 의정부시 동일로466번길 53 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "GS25의정가능점",
+      "address": "경기도 의정부시 가능동 676-2",
+      "roadAddress": "경기도 의정부시 의정로 171 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-06"
+    },
+    {
+      "name": "세븐일레븐 의정부가능행복점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 가능로 51 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-27"
+    },
+    {
+      "name": "세븐일레븐 의정부세하점",
+      "address": "경기도 의정부시 금오동 474-3 107호",
+      "roadAddress": "경기도 의정부시 청사로48번길 19, 107호 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-22"
+    },
+    {
+      "name": "GS25용현브래뉴",
+      "address": "경기도 의정부시 용현동 272-2",
+      "roadAddress": "경기도 의정부시 용민로 49 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-24"
+    },
+    {
+      "name": "진로마트",
+      "address": "경기도 의정부시 의정부동 187-3",
+      "roadAddress": "경기도 의정부시 호국로 1306  (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-15"
+    },
+    {
+      "name": "GS25 뉴의정청사점",
+      "address": "경기도 의정부시 신곡동 760-3 우정프라자",
+      "roadAddress": "경기도 의정부시 장곡로596번길 15, 우정프라자 1층 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-21"
+    },
+    {
+      "name": "오피스넥스 의정부점",
+      "address": "경기도 의정부시 신곡동 761-6 씨티프라자 1층 101호",
+      "roadAddress": "경기도 의정부시 청사로5번길 8-7,  101호 (신곡동,씨티프라자 1층)",
+      "status": "영업/정상",
+      "licenseDate": "2009-11-04"
+    },
+    {
+      "name": "세븐일레븐의정부제일시장점",
+      "address": "경기도 의정부시 의정부동 171-13 17",
+      "roadAddress": "경기도 의정부시 태평로63번길 24  (의정부동,17)",
+      "status": "영업/정상",
+      "licenseDate": "2009-12-22"
+    },
+    {
+      "name": "세븐일레븐 의정부신곡효자점",
+      "address": "경기도 의정부시 신곡동 772-1",
+      "roadAddress": "경기도 의정부시 부용로 185 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-12-28"
+    },
+    {
+      "name": "훼미리마트의정부한전점",
+      "address": "경기도 의정부시 의정부동 8-20",
+      "roadAddress": "경기도 의정부시 태평로146번길 12  (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2010-01-14"
+    },
+    {
+      "name": "세븐일레븐의정부신흥대점",
+      "address": "경기도 의정부시 호원동 459 신일 엘리시움 상가 109호",
+      "roadAddress": "경기도 의정부시 평화로 196 (호원동,신일 엘리시움 상가 109호)",
+      "status": "영업/정상",
+      "licenseDate": "2010-03-23"
+    },
+    {
+      "name": "GS25가능타운점",
+      "address": "경기도 의정부시 가능동 737",
+      "roadAddress": "경기도 의정부시 의정로 140 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-20"
+    },
+    {
+      "name": "세븐일레븐 의정부태평점",
+      "address": "경기도 의정부시 의정부동 216-15",
+      "roadAddress": "경기도 의정부시 태평로 174 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-07"
+    },
+    {
+      "name": "황금마트",
+      "address": "경기도 의정부시 의정부동 8-25",
+      "roadAddress": "경기도 의정부시 태평로138번길 13  (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-25"
+    },
+    {
+      "name": "훼미리마트 의정부서영점",
+      "address": "경기도 의정부시 호원동 247-49 정웅빌딩 101호",
+      "roadAddress": "경기도 의정부시 평화로243번길 39,  101호 (호원동,정웅빌딩)",
+      "status": "영업/정상",
+      "licenseDate": "2010-06-29"
+    },
+    {
+      "name": "씨스페이스 의정부사랑점",
+      "address": "경기도 의정부시 가능동 669-4",
+      "roadAddress": "경기도 의정부시 가능로39번길 35 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-12-26"
+    },
+    {
+      "name": "(주)미가푸드",
+      "address": "경기도 의정부시 의정부동 125-5 미즘",
+      "roadAddress": "경기도 의정부시 태평로 76, 미즘 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-01-03"
+    },
+    {
+      "name": "세븐일레븐 의정부베스트뷰점",
+      "address": "경기도 의정부시 의정부동 138-6",
+      "roadAddress": "경기도 의정부시 평화로 492, 1층 1,2호 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-01-04"
+    },
+    {
+      "name": "농출산물 마트",
+      "address": "경기도 의정부시 민락동 792",
+      "roadAddress": "경기도 의정부시 천보로 59, 101호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-01-15"
+    },
+    {
+      "name": "GS25 신곡그린빌점",
+      "address": "경기도 의정부시 신곡동 755-1 주공그린빌",
+      "roadAddress": "경기도 의정부시 장곡로 514, 상가동 1층 105호 (신곡동, 주공그린빌)",
+      "status": "영업/정상",
+      "licenseDate": "2019-01-18"
+    },
+    {
+      "name": "씨유 의정부광장점",
+      "address": "경기도 의정부시 의정부동 518 우덕빌딩",
+      "roadAddress": "경기도 의정부시 둔야로17번길 35, 우덕빌딩 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-01-25"
+    },
+    {
+      "name": "GS25 녹양행복점",
+      "address": "경기도 의정부시 녹양동 404",
+      "roadAddress": "경기도 의정부시 본원로46번길 16, 상가동 101호 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-02-12"
+    },
+    {
+      "name": "이마트24 의정부중앙역점",
+      "address": "경기도 의정부시 의정부동 187-5 대상센트럴",
+      "roadAddress": "경기도 의정부시 평화로568번길 45, 1층 101호 (의정부동, 대상센트럴)",
+      "status": "영업/정상",
+      "licenseDate": "2019-02-18"
+    },
+    {
+      "name": "현대그린마트",
+      "address": "경기도 의정부시 신곡동 725-2 장암1차현대아파트",
+      "roadAddress": "경기도 의정부시 동일로 451-25, 상가동 (신곡동, 장암1차현대아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2019-02-21"
+    },
+    {
+      "name": "세븐일레븐 의정부베스트뷰점",
+      "address": "경기도 의정부시 의정부동 138-6",
+      "roadAddress": "경기도 의정부시 평화로 492, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-02-26"
+    },
+    {
+      "name": "세븐일레븐 민락노블점",
+      "address": "경기도 의정부시 낙양동 758 민락노블랜드엔에이치에프",
+      "roadAddress": "경기도 의정부시 용민로 374, 민락노블랜드엔에이치에프 1층 (낙양동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-02-26"
+    },
+    {
+      "name": "GS25 의정캐슬점",
+      "address": "경기도 의정부시 의정부동 721 의정부 롯데캐슬 골드파크 1단지",
+      "roadAddress": "경기도 의정부시 범골로63번길 13, 114동 103호 (의정부동, 의정부 롯데캐슬 골드파크 1단지)",
+      "status": "영업/정상",
+      "licenseDate": "2019-02-28"
+    },
+    {
+      "name": "GS25 의정캐슬1단지점",
+      "address": "경기도 의정부시 의정부동 721 의정부 롯데캐슬 골드파크 1단지",
+      "roadAddress": "경기도 의정부시 범골로63번길 13, 113동 108호 (의정부동, 의정부 롯데캐슬 골드파크 1단지)",
+      "status": "영업/정상",
+      "licenseDate": "2019-02-28"
+    },
+    {
+      "name": "GS25 의정중앙초교점",
+      "address": "경기도 의정부시 의정부동 227-21",
+      "roadAddress": "경기도 의정부시 평화로 596 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-03-12"
+    },
+    {
+      "name": "세븐일레븐 신곡사거리점",
+      "address": "경기도 의정부시 신곡동 409-9",
+      "roadAddress": "경기도 의정부시 동일로506번길 62 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-03-15"
+    },
+    {
+      "name": "제이디 전기조명 생활용품",
+      "address": "경기도 의정부시 가능동 675-16",
+      "roadAddress": "경기도 의정부시 의정로 175 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-03-21"
+    },
+    {
+      "name": "GS25 녹양힐스테이트점",
+      "address": "경기도 의정부시 가능동 50 힐스테이트 녹양역",
+      "roadAddress": "경기도 의정부시 가금로34번길 23, 301동 101호 (가능동, 힐스테이트 녹양역)",
+      "status": "영업/정상",
+      "licenseDate": "2019-03-25"
+    },
+    {
+      "name": "GS25 뉴의정능곡점",
+      "address": "경기도 의정부시 신곡동 485-5",
+      "roadAddress": "경기도 의정부시 능곡로26번길 35, 2층 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-03-25"
+    },
+    {
+      "name": "(재)아름다운가게",
+      "address": "경기도 의정부시 신곡동 720-5",
+      "roadAddress": "경기도 의정부시 발곡로 30, 1층 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-04-09"
+    },
+    {
+      "name": "씨유 호원현대점",
+      "address": "경기도 의정부시 호원동 467 아이파크호원동",
+      "roadAddress": "경기도 의정부시 평화로 148, 아이파크호원동 상가동 108호 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-03-21"
+    },
+    {
+      "name": "더불어 마트",
+      "address": "경기도 의정부시 의정부동 362-37",
+      "roadAddress": "경기도 의정부시 태평로24번길 11, 1층 101호 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-04-19"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경기도 의정부시 가능동 610-1",
+      "roadAddress": "경기도 의정부시 의정로198번길 71 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-17"
+    },
+    {
+      "name": "세븐일레븐 의정부호현점",
+      "address": "경기도 의정부시 민락동 747-16",
+      "roadAddress": "경기도 의정부시 승지로10번길 5 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-26"
+    },
+    {
+      "name": "(주)코리아세븐 의정부7호점",
+      "address": "경기도 의정부시 의정부동 407-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-16"
+    },
+    {
+      "name": "GS25 의정희망점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 가능로 152 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-09"
+    },
+    {
+      "name": "송산홈마트",
+      "address": "경기도 의정부시 용현동 547-3 송산주공아파트",
+      "roadAddress": "경기도 의정부시 부용로 233 (용현동, 송산주공아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-02"
+    },
+    {
+      "name": "오렌지마트",
+      "address": "경기도 의정부시 금오동 471-2 106,107,108호",
+      "roadAddress": "경기도 의정부시 부용로95번길 18 (금오동,106,107,108호)",
+      "status": "영업/정상",
+      "licenseDate": "2010-07-26"
+    },
+    {
+      "name": "GS25 장암현대점",
+      "address": "경기도 의정부시 신곡동 722-1 동신,현대아파트",
+      "roadAddress": "경기도 의정부시 장곡로 280-25, 동신,현대아파트 상가동 101호 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-03"
+    },
+    {
+      "name": "씨유 의정부운동장점",
+      "address": "경기도 의정부시 가능동 375-12",
+      "roadAddress": "경기도 의정부시 비우로 18-1 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "씨유 의정부이롬점",
+      "address": "경기도 의정부시 금오동 80-13",
+      "roadAddress": "경기도 의정부시 상금로 33 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "우리할인마트",
+      "address": "경기도 의정부시 민락동 산들마을서광.청구@상가 109,110호",
+      "roadAddress": "경기도 의정부시 오목로 169, 1층 (민락동, 서광청구아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-10"
+    },
+    {
+      "name": "GS25 금오주공점",
+      "address": "경기도 의정부시 신곡동 788-8",
+      "roadAddress": "경기도 의정부시 부용로214번길 14  (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-23"
+    },
+    {
+      "name": "씨유 새말단호박점",
+      "address": "경기도 의정부시 신곡동 107-6",
+      "roadAddress": "경기도 의정부시 금신로296번길 17 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-19"
+    },
+    {
+      "name": "우리마트",
+      "address": "경기도 의정부시 장암동 14-13 주공아파트상가동 108호",
+      "roadAddress": "경기도 의정부시 동일로 395 (장암동,주공아파트상가동 108호)",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-10"
+    },
+    {
+      "name": "홈플러스 익스프레스 의정부호원점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 신흥로 81, 1층 (호원동, 쌍용스윗닷홈)",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-10"
+    },
+    {
+      "name": "홈플러스(주)",
+      "address": "경기도 의정부시 신곡동 720-9",
+      "roadAddress": "경기도 의정부시 신곡로 46-9  (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-10"
+    },
+    {
+      "name": "세븐일레븐 의정부가능5호점",
+      "address": "경기도 의정부시 가능동 591-38",
+      "roadAddress": "경기도 의정부시 호국로 1065  (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-08"
+    },
+    {
+      "name": "세븐일레븐 의정부종합운동장점",
+      "address": "경기도 의정부시 녹양동 384-8",
+      "roadAddress": "경기도 의정부시 진등로19번길 35 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-03"
+    },
+    {
+      "name": "365플러스 의정부가능",
+      "address": "경기도 의정부시 가능동 731-8",
+      "roadAddress": "경기도 의정부시 의정로132번길 58 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-03"
+    },
+    {
+      "name": "공원마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 가능로74번길 29 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-04"
+    },
+    {
+      "name": "다모아슈퍼",
+      "address": "",
+      "roadAddress": "경기도 의정부시 흥선로128번길 25 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-17"
+    },
+    {
+      "name": "토마토 편의점 의정부점",
+      "address": "경기도 의정부시 의정부동 573-1 진빌딩 1층",
+      "roadAddress": "경기도 의정부시 신흥로 194  (의정부동,진빌딩 1층)",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-01"
+    },
+    {
+      "name": "정슈퍼",
+      "address": "경기도 의정부시 용현동 30-7",
+      "roadAddress": "경기도 의정부시 충의로37번길 16-17  (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-08"
+    },
+    {
+      "name": "윤성슈퍼",
+      "address": "경기도 의정부시 금오동 278-6",
+      "roadAddress": "경기도 의정부시 하금로33번길 14  (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-14"
+    },
+    {
+      "name": "(주)엘마트 의정부점",
+      "address": "경기도 의정부시 의정부동 157-7 베스트빌딩1층",
+      "roadAddress": "경기도 의정부시 태평로 95 (의정부동, 베스트빌딩 1층)",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-01"
+    },
+    {
+      "name": "세븐일레븐가능SK점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 신촌로6번길 29-24 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-01"
+    },
+    {
+      "name": "이마트24 의정캐슬점",
+      "address": "경기도 의정부시 의정부동 720 의정부 롯데캐슬 골드파크 2단지",
+      "roadAddress": "경기도 의정부시 범골로63번길 31 (의정부동, 의정부 롯데캐슬 골드파크 2단지)",
+      "status": "영업/정상",
+      "licenseDate": "2019-04-22"
+    },
+    {
+      "name": "환희마트",
+      "address": "경기도 의정부시 가능동 22-66",
+      "roadAddress": "경기도 의정부시 평화로690번길 12-1 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-04-26"
+    },
+    {
+      "name": "세븐일레븐 의정부아트빌점",
+      "address": "경기도 의정부시 의정부동 135-14",
+      "roadAddress": "경기도 의정부시 시민로132번길 32 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-04-26"
+    },
+    {
+      "name": "세븐일레븐 의정부센트럴점",
+      "address": "경기도 의정부시 의정부동 494 센트럴타워 101호",
+      "roadAddress": "경기도 의정부시 시민로 80, 센트럴타워 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-05-02"
+    },
+    {
+      "name": "(주)365식자재 할인마트",
+      "address": "경기도 의정부시 의정부동 414-24",
+      "roadAddress": "경기도 의정부시 신흥로 331 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-05-02"
+    },
+    {
+      "name": "지에스더프레시 의정부신곡점",
+      "address": "경기도 의정부시 신곡동 816 e편한세상 신곡 파크비스타",
+      "roadAddress": "경기도 의정부시 시민로 287, 121동 B301~303호 (신곡동, e편한세상 신곡 파크비스타)",
+      "status": "영업/정상",
+      "licenseDate": "2019-05-09"
+    },
+    {
+      "name": "세븐일레븐 녹양역점",
+      "address": "경기도 의정부시 녹양동 412-1",
+      "roadAddress": "경기도 의정부시 체육로 298-5 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-05-15"
+    },
+    {
+      "name": "씨유 장암대우점",
+      "address": "경기도 의정부시 장암동 37 의정부 장암1차 푸르지오",
+      "roadAddress": "경기도 의정부시 장곡로226번길 32, 의정부 장암1차 푸르지오 105,106호 (장암동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-05-20"
+    },
+    {
+      "name": "씨유 장암현대점",
+      "address": "경기도 의정부시 신곡동 724-2 현대2차아파트",
+      "roadAddress": "경기도 의정부시 신곡로 11, 현대2차아파트 1층 107호 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-06-20"
+    },
+    {
+      "name": "세븐일레븐 금오캐슬점",
+      "address": "경기도 의정부시 금오동 417-2",
+      "roadAddress": "경기도 의정부시 금신로382번길 36-3, 1층 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-07-18"
+    },
+    {
+      "name": "원 종합유통",
+      "address": "경기도 의정부시 가능동 66-16",
+      "roadAddress": "경기도 의정부시 평화로 727 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-07-19"
+    },
+    {
+      "name": "GS25 의정신도드림점",
+      "address": "경기도 의정부시 용현동 291-1 신도브래뉴지역주택조합아파트",
+      "roadAddress": "경기도 의정부시 용현로 86, 신도브래뉴지역주택조합아파트 상가동 2층 202호 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-07-25"
+    },
+    {
+      "name": "씨유 의정신곡주공점",
+      "address": "경기도 의정부시 신곡동 754-1 주공아파트",
+      "roadAddress": "경기도 의정부시 능곡로 6, 주공아파트 상가동 104호 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-08-19"
+    },
+    {
+      "name": "꼬끼오-금오점",
+      "address": "경기도 의정부시 금오동 406-25 금오유니시티",
+      "roadAddress": "경기도 의정부시 금신로 390, 금오유니시티 1층 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-08-21"
+    },
+    {
+      "name": "세븐일레븐 금오초교점",
+      "address": "경기도 의정부시 금오동 217-7",
+      "roadAddress": "경기도 의정부시 중금로 2, 1층 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-08-30"
+    },
+    {
+      "name": "의정부시청 연금매점",
+      "address": "경기도 의정부시 의정부동 326-2 의정부시청",
+      "roadAddress": "경기도 의정부시 시민로 1, 의정부시청 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-09-02"
+    },
+    {
+      "name": "세븐일레븐 의정부파인트리점",
+      "address": "경기도 의정부시 의정부동 214-6",
+      "roadAddress": "경기도 의정부시 태평로 143, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-09-10"
+    },
+    {
+      "name": "씨유 의정부가능로점",
+      "address": "경기도 의정부시 가능동 41-6",
+      "roadAddress": "경기도 의정부시 신촌로 77, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-09-10"
+    },
+    {
+      "name": "GS25 호원사랑점",
+      "address": "경기도 의정부시 호원동 445-5 우성빌딩",
+      "roadAddress": "경기도 의정부시 안말로85번길 20, 우성빌딩 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-09-16"
+    },
+    {
+      "name": "경기알뜰매장",
+      "address": "경기도 의정부시 의정부동 221-17",
+      "roadAddress": "경기도 의정부시 호국로1297번길 23 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-09-19"
+    },
+    {
+      "name": "한아름마트",
+      "address": "경기도 의정부시 의정부동 359-71",
+      "roadAddress": "경기도 의정부시 시민로158번길 35 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-07"
+    },
+    {
+      "name": "씨에스유통(주) 신곡점",
+      "address": "경기도 의정부시 신곡동 559-2",
+      "roadAddress": "경기도 의정부시 동일로 583 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-29"
+    },
+    {
+      "name": "성진슈퍼",
+      "address": "경기도 의정부시 가능동 15-299",
+      "roadAddress": "경기도 의정부시 평화로676번길 33 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-11"
+    },
+    {
+      "name": "CU 의정부호원점",
+      "address": "경기도 의정부시 호원동 442-3",
+      "roadAddress": "경기도 의정부시 평화로 274 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-31"
+    },
+    {
+      "name": "제일상회",
+      "address": "경기도 의정부시 의정부동 160 제일시장 다동 109호",
+      "roadAddress": "경기도 의정부시 태평로73번길 20, 다동 109호 (의정부동,제일시장)",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-09"
+    },
+    {
+      "name": "GS25 신곡으뜸점",
+      "address": "경기도 의정부시 신곡동 707-11",
+      "roadAddress": "경기도 의정부시 발곡로 5  (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2010-04-13"
+    },
+    {
+      "name": "씨유 의정부여성회관점",
+      "address": "경기도 의정부시 의정부동 557",
+      "roadAddress": "경기도 의정부시 범골로 146 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-19"
+    },
+    {
+      "name": "세븐일레븐 금오시티점",
+      "address": "경기도 의정부시 금오동 470-4 성산타워 108호",
+      "roadAddress": "경기도 의정부시 청사로47번길 12, 108호 (금오동,성산타워)",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-19"
+    },
+    {
+      "name": "주식회사 베스트식자재마트민락점",
+      "address": "경기도 의정부시 민락동 615-1",
+      "roadAddress": "경기도 의정부시 용민로 116 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-22"
+    },
+    {
+      "name": "씨유 의정부회룡점",
+      "address": "경기도 의정부시 호원동 274-55",
+      "roadAddress": "경기도 의정부시 안말로 62 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "가락공판장장암점",
+      "address": "경기도 의정부시 장암동 19-4",
+      "roadAddress": "경기도 의정부시 회룡로192번길 32  (장암동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-12"
+    },
+    {
+      "name": "이마트에브리데이 녹양점",
+      "address": "경기도 의정부시 녹양동 388-10 외6지상",
+      "roadAddress": "경기도 의정부시 비우로 57 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-23"
+    },
+    {
+      "name": "GS25 의정리빙점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 신흥로208번길 14 (의정부동,제101호)",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-24"
+    },
+    {
+      "name": "세븐일레븐 의정부5호점",
+      "address": "경기도 의정부시 의정부동 503-3",
+      "roadAddress": "경기도 의정부시 신흥로 223 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-29"
+    },
+    {
+      "name": "세븐일레븐의정부호국로점",
+      "address": "경기도 의정부시 의정부동 192-4 1층",
+      "roadAddress": "경기도 의정부시 호국로1298번길 43 (의정부동,1층)",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-17"
+    },
+    {
+      "name": "GS25 의정장암점",
+      "address": "경기도 의정부시 장암동 17-15",
+      "roadAddress": "경기도 의정부시 회룡로192번길 25 (장암동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-31"
+    },
+    {
+      "name": "래미안마트",
+      "address": "경기도 의정부시 신곡동 삼성래미안아파트  상가 101호",
+      "roadAddress": "경기도 의정부시 장곡로628번길 21 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-03"
+    },
+    {
+      "name": "GS25의정소망",
+      "address": "경기도 의정부시 의정부동 9-18 의정부동 수물모텔",
+      "roadAddress": "경기도 의정부시 시민로122번길 9-18 (의정부동, 의정부동 수물모텔)",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-20"
+    },
+    {
+      "name": "후레쉬마트(신곡점)",
+      "address": "경기도 의정부시 신곡동 669 상가동 106호",
+      "roadAddress": "경기도 의정부시 추동로 45, 106호 (신곡동, 극동동성아파트 상가동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-05"
+    },
+    {
+      "name": "씨유의정부동아점",
+      "address": "경기도 의정부시 장암동 20",
+      "roadAddress": "경기도 의정부시 장곡로 248, 1층 101,102호 (장암동, 상가동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-09"
+    },
+    {
+      "name": "씨유 의정부 궁전점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 범골로145번길 40, 1층 102호 (의정부동, 궁전빌딩)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "CU 의정부범골점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 백석로52번길 52-0 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "씨유 의정부한일점",
+      "address": "경기도 의정부시 신곡동 397-19",
+      "roadAddress": "경기도 의정부시 시민로254번길 18 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "씨유 의정부럭키점",
+      "address": "경기도 의정부시 의정부동 34-1",
+      "roadAddress": "경기도 의정부시 태평로100번길 8 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-08"
+    },
+    {
+      "name": "남양마트",
+      "address": "경기도 의정부시 장암동 14-8",
+      "roadAddress": "경기도 의정부시 동일로 400 (장암동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-14"
+    },
+    {
+      "name": "대한유통",
+      "address": "경기도 의정부시 의정부동 230-63",
+      "roadAddress": "경기도 의정부시 태평로 193 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-14"
+    },
+    {
+      "name": "GS25 의정부SK점",
+      "address": "경기도 의정부시 가능동 671-30 삼일교회",
+      "roadAddress": "경기도 의정부시 신촌로 6, 삼일교회 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-09-30"
+    },
+    {
+      "name": "이마트24 의정부장암현대점",
+      "address": "경기도 의정부시 신곡동 725-2 장암1차현대아파트",
+      "roadAddress": "경기도 의정부시 동일로 451-25, 상가동  101호 (신곡동, 장암1차현대아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2019-09-30"
+    },
+    {
+      "name": "GS25 의정이편한",
+      "address": "경기도 의정부시 가능동 847 e편한세상 녹양역",
+      "roadAddress": "경기도 의정부시 녹양로34번길 47, 제상가동 103호 (가능동, e편한세상 녹양역)",
+      "status": "영업/정상",
+      "licenseDate": "2019-10-08"
+    },
+    {
+      "name": "케이마트",
+      "address": "경기도 의정부시 신곡동 669 극동,동성아파트",
+      "roadAddress": "경기도 의정부시 추동로 43, 극동,동성아파트 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-10-17"
+    },
+    {
+      "name": "GS25 신곡으뜸점",
+      "address": "경기도 의정부시 신곡동 707-11",
+      "roadAddress": "경기도 의정부시 발곡로 5 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-10-23"
+    },
+    {
+      "name": "GS25 의정창원점",
+      "address": "경기도 의정부시 의정부동 567 창원빌딩",
+      "roadAddress": "경기도 의정부시 신흥로 222, 창원빌딩 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-10-23"
+    },
+    {
+      "name": "석천불한증막 사우나",
+      "address": "경기도 의정부시 의정부동 523-8 석천불한증막사우나",
+      "roadAddress": "경기도 의정부시 의정로40번길 21, 석천불한증막사우나 2층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-10-29"
+    },
+    {
+      "name": "뉴사인",
+      "address": "경기도 의정부시 가능동 362-14 대경빌딩",
+      "roadAddress": "경기도 의정부시 서부로 675, 대경빌딩 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-11-05"
+    },
+    {
+      "name": "씨유 의정부브라운스톤점",
+      "address": "경기도 의정부시 가능동 224-191 브라운스톤흥선아파트",
+      "roadAddress": "경기도 의정부시 호국로1142번길 18, 브라운스톤흥선아파트 상가동 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-11-13"
+    },
+    {
+      "name": "주)월드마트",
+      "address": "경기도 의정부시 용현동 391-19 건영아파트",
+      "roadAddress": "경기도 의정부시 용민로7번길 50, 상가동 (용현동, 건영아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2019-11-13"
+    },
+    {
+      "name": "세븐일레븐 의정부공업단지점",
+      "address": "경기도 의정부시 가능동 392-10",
+      "roadAddress": "경기도 의정부시 입석로 10 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-12-04"
+    },
+    {
+      "name": "씨스페이스 의정부신곡점",
+      "address": "경기도 의정부시 신곡동 597-110",
+      "roadAddress": "경기도 의정부시 시민로 200 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-12-11"
+    },
+    {
+      "name": "세븐일레븐 의정부호국로점",
+      "address": "경기도 의정부시 의정부동 192-4",
+      "roadAddress": "경기도 의정부시 호국로1298번길 43 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-12-24"
+    },
+    {
+      "name": "세븐일레븐 의정부역공원점",
+      "address": "경기도 의정부시 의정부동 197-9",
+      "roadAddress": "경기도 의정부시 평화로 546 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-12-31"
+    },
+    {
+      "name": "세븐일레븐 금오사거리점",
+      "address": "경기도 의정부시 금오동 380-46",
+      "roadAddress": "경기도 의정부시 동일로 674, 1층 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-01-03"
+    },
+    {
+      "name": "세븐일레븐 의정부동화점",
+      "address": "경기도 의정부시 의정부동 288 동화아파트",
+      "roadAddress": "경기도 의정부시 백석로 12, 동화아파트 1층 103호 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-01-03"
+    },
+    {
+      "name": "(주)와식자재 마트",
+      "address": "경기도 의정부시 민락동 905-1",
+      "roadAddress": "경기도 의정부시 용민로489번길 26 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-01-09"
+    },
+    {
+      "name": "(주)대복마트",
+      "address": "경기도 의정부시 가능동 706-23",
+      "roadAddress": "경기도 의정부시 호국로 1139-1 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-01-16"
+    },
+    {
+      "name": "씨유 의정부아이콘스타점",
+      "address": "경기도 의정부시 의정부동 22-2 아이콘스타 리버뷰",
+      "roadAddress": "경기도 의정부시 태평로118번길 30 (의정부동, 아이콘스타 리버뷰)",
+      "status": "영업/정상",
+      "licenseDate": "2020-01-16"
+    },
+    {
+      "name": "신정슈퍼",
+      "address": "경기도 의정부시 호원동 250-37",
+      "roadAddress": "경기도 의정부시 평화로243번길 45  (호원동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씨유 의정부익봉점",
+      "address": "경기도 의정부시 신곡동 716-5",
+      "roadAddress": "경기도 의정부시 발곡로 23 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-02"
+    },
+    {
+      "name": "백호상회",
+      "address": "경기도 의정부시 의정부동 148-2",
+      "roadAddress": "경기도 의정부시 시민로143번길 46 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-06"
+    },
+    {
+      "name": "씨유 의정부금오점",
+      "address": "경기도 의정부시 신곡동 765-5",
+      "roadAddress": "경기도 의정부시 장곡로628번길 26 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-27"
+    },
+    {
+      "name": "정현쌀마트",
+      "address": "경기도 의정부시 가능동 707",
+      "roadAddress": "경기도 의정부시 흥선로36번길 19  (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-09"
+    },
+    {
+      "name": "북부슈퍼",
+      "address": "경기도 의정부시 의정부동 236-23",
+      "roadAddress": "경기도 의정부시 가능로125번길 22 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-21"
+    },
+    {
+      "name": "위드미의정부점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 태평로100번길 22 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-27"
+    },
+    {
+      "name": "보광훼미리마트금오세명점",
+      "address": "경기도 의정부시 신곡동 760-2",
+      "roadAddress": "경기도 의정부시 장곡로596번길 9  (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상록마트",
+      "address": "경기도 의정부시 금오동 금오택지개발지구 2-4B/D",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성화마트",
+      "address": "경기도 의정부시 의정부동 235-17",
+      "roadAddress": "경기도 의정부시 평화로 635  (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅애플슈퍼",
+      "address": "318-17",
+      "roadAddress": "경기도 의정부시 신흥로 99 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-20"
+    },
+    {
+      "name": "바다마트",
+      "address": "경기도 의정부시 호원동 462-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "크린오케이",
+      "address": "경기도 의정부시 의정부동 582-2",
+      "roadAddress": "경기도 의정부시 경의로 92 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-15"
+    },
+    {
+      "name": "씨유 의정부호원가든점",
+      "address": "경기도 의정부시 호원동 327-6",
+      "roadAddress": "경기도 의정부시 신흥로 125 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-28"
+    },
+    {
+      "name": "중앙접시",
+      "address": "",
+      "roadAddress": "경기도 의정부시 태평로73번길 20, 다동 46호 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-02"
+    },
+    {
+      "name": "세븐일레븐 의정부태영프라자점",
+      "address": "경기도 의정부시 의정부동 193-1",
+      "roadAddress": "경기도 의정부시 호국로1298번길 55 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-13"
+    },
+    {
+      "name": "베스트올 가능점",
+      "address": "경기도 의정부시 의정부동 7-21",
+      "roadAddress": "경기도 의정부시 태평로 154-1 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-16"
+    },
+    {
+      "name": "대한문구도매센타",
+      "address": "경기도 의정부시 의정부동 99-12",
+      "roadAddress": "경기도 의정부시 경의로 117 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-17"
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "경기도 의정부시 호원동 286-24",
+      "roadAddress": "경기도 의정부시 호암로 216 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-23"
+    },
+    {
+      "name": "세븐일레븐 의정타운점",
+      "address": "경기도 의정부시 의정부동 506-4",
+      "roadAddress": "경기도 의정부시 범골로157번길 25 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-29"
+    },
+    {
+      "name": "두리상회",
+      "address": "경기도 의정부시 가능동 737-13",
+      "roadAddress": "경기도 의정부시 호국로1183번길 39 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-29"
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "",
+      "roadAddress": "경기도 의정부시 호국로 1147 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-13"
+    },
+    {
+      "name": "늘푸른홈마트",
+      "address": "경기도 의정부시 가능동 641-7",
+      "roadAddress": "경기도 의정부시 신흥로 378 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-07"
+    },
+    {
+      "name": "이마트24R 민락본점",
+      "address": "경기도 의정부시 민락동 740-6",
+      "roadAddress": "경기도 의정부시 용현로132번길 18 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-20"
+    },
+    {
+      "name": "이마트에브리데이 용현점",
+      "address": "경기도 의정부시 용현동 29-23",
+      "roadAddress": "경기도 의정부시 오목로35번길 20 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-23"
+    },
+    {
+      "name": "씨유 의정부송산점",
+      "address": "경기도 의정부시 민락동 733-3",
+      "roadAddress": "경기도 의정부시 용현로105번길 37 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "씨유 퍼스트빌점",
+      "address": "경기도 의정부시 의정부동 486-13",
+      "roadAddress": "경기도 의정부시 시민로 29 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "씨유 의정부시청점",
+      "address": "경기도 의정부시 의정부동 540",
+      "roadAddress": "경기도 의정부시 의정로22번길 38 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "씨유 의정부서부점",
+      "address": "경기도 의정부시 의정부동 485-5",
+      "roadAddress": "경기도 의정부시 둔야로 35 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "씨유 의정부신곡점",
+      "address": "경기도 의정부시 신곡동 673-6",
+      "roadAddress": "경기도 의정부시 추동로 13 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-27"
+    },
+    {
+      "name": "이레마트",
+      "address": "경기도 의정부시 가능동 683-18",
+      "roadAddress": "경기도 의정부시 흥선로5번길 16 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "GS25 의정문화점",
+      "address": "경기도 의정부시 신곡동 673",
+      "roadAddress": "경기도 의정부시 추동로 9 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-08-16"
+    },
+    {
+      "name": "광진슈퍼",
+      "address": "경기도 의정부시 가능동 720",
+      "roadAddress": "경기도 의정부시 가능로16번길 31  (가능동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대한할인마트",
+      "address": "경기도 의정부시 가능동 15-25 금용아파트",
+      "roadAddress": "경기도 의정부시 태평로184번길 21-2, 금용아파트 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-02"
+    },
+    {
+      "name": "행복마트",
+      "address": "경기도 의정부시 녹양동 329-3",
+      "roadAddress": "경기도 의정부시 비우로108번길 8-5 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-10"
+    },
+    {
+      "name": "영마트",
+      "address": "경기도 의정부시 금오동 213-10 우진빌라",
+      "roadAddress": "경기도 의정부시 중금로 7 (금오동, 우진빌라)",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-10"
+    },
+    {
+      "name": "Aone마트",
+      "address": "경기도 의정부시 가능동 16-1",
+      "roadAddress": "경기도 의정부시 평화로 658 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-30"
+    },
+    {
+      "name": "오뚜기할인마트",
+      "address": "경기도 의정부시 가능동 650",
+      "roadAddress": "경기도 의정부시 가능로85번길 30 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-19"
+    },
+    {
+      "name": "한국미니스톱 의정부역점",
+      "address": "경기도 의정부시 의정부동 497-12 거성빌딩",
+      "roadAddress": "경기도 의정부시 신흥로232번길 5 (의정부동,거성빌딩)",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-04"
+    },
+    {
+      "name": "한양마트",
+      "address": "경기도 의정부시 가능동 15-357",
+      "roadAddress": "경기도 의정부시 가금로 82 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-03"
+    },
+    {
+      "name": "(주)인선유통",
+      "address": "경기도 의정부시 의정부동 5-1",
+      "roadAddress": "경기도 의정부시 동일로 663 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-20"
+    },
+    {
+      "name": "세븐일레븐(의정부청사점)",
+      "address": "경기도 의정부시 신곡동 765-5",
+      "roadAddress": "경기도 의정부시 장곡로628번길 26 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-05"
+    },
+    {
+      "name": "(주)우리유통",
+      "address": "경기도 의정부시 의정부동 414-24",
+      "roadAddress": "경기도 의정부시 신흥로 331 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-13"
+    },
+    {
+      "name": "GS25금오브래뉴점",
+      "address": "경기도 의정부시 금오동 370",
+      "roadAddress": "경기도 의정부시 호국로 1369 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-15"
+    },
+    {
+      "name": "씨유 의정부행운",
+      "address": "경기도 의정부시 신곡동 686",
+      "roadAddress": "경기도 의정부시 장금로 54 (신곡동, 삼도세라믹아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-25"
+    },
+    {
+      "name": "GS25 의정부신세계점",
+      "address": "경기도 의정부시 의정부동 164-29",
+      "roadAddress": "경기도 의정부시 평화로483번길 30 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-29"
+    },
+    {
+      "name": "베스트올 청룡점",
+      "address": "경기도 의정부시 신곡동 705-10",
+      "roadAddress": "경기도 의정부시 장곡로322번길 20 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-01"
+    },
+    {
+      "name": "세븐일레븐 가능공원점",
+      "address": "경기도 의정부시 가능동 722-16",
+      "roadAddress": "경기도 의정부시 가능로 20-1 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-12-10"
+    },
+    {
+      "name": "GS25 의정백석천점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 범골로 119, 103호 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-12-31"
+    },
+    {
+      "name": "씨유 녹양휴먼프라자",
+      "address": "경기도 의정부시 녹양동 400-22 휴먼프라자 111호",
+      "roadAddress": "경기도 의정부시 녹양로 122 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-15"
+    },
+    {
+      "name": "세븐일레븐 의정부녹양로점",
+      "address": "경기도 의정부시 녹양동 341-6",
+      "roadAddress": "경기도 의정부시 녹양로62번길 96-6 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-04"
+    },
+    {
+      "name": "초록마을 신곡점",
+      "address": "경기도 의정부시 신곡동 673",
+      "roadAddress": "경기도 의정부시 추동로 9 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-26"
+    },
+    {
+      "name": "GS25 의정유토빌점",
+      "address": "경기도 의정부시 호원동 459",
+      "roadAddress": "경기도 의정부시 평화로 196 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-28"
+    },
+    {
+      "name": "주공마트",
+      "address": "경기도 의정부시 신곡동 725-5",
+      "roadAddress": "경기도 의정부시 신곡로 8 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-28"
+    },
+    {
+      "name": "(주)드림할인마트",
+      "address": "경기도 의정부시 신곡동 461",
+      "roadAddress": "경기도 의정부시 능곡로26번길 24 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-07"
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "경기도 의정부시 가능동 77-6",
+      "roadAddress": "경기도 의정부시 가금로 70 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-13"
+    },
+    {
+      "name": "GS수퍼 의정부금오점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 상금로 22 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-04-22"
+    },
+    {
+      "name": "씨유(CU)용현하나로점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 오목로35번길 45 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-24"
+    },
+    {
+      "name": "CU의정부 산들점",
+      "address": "경기도 의정부시 민락동 694",
+      "roadAddress": "경기도 의정부시 오목로 168 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-06-10"
+    },
+    {
+      "name": "씨유 의정부승기점",
+      "address": "경기도 의정부시 호원동 418 거원프라자",
+      "roadAddress": "경기도 의정부시 회룡로 137, 102호 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-06-14"
+    },
+    {
+      "name": "GS25 신곡한일점",
+      "address": "경기도 의정부시 신곡동 393-11",
+      "roadAddress": "경기도 의정부시 시민로 256 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-06-27"
+    },
+    {
+      "name": "용호슈퍼",
+      "address": "경기도 의정부시 용현동 168",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대하이퍼마트",
+      "address": "경기도 의정부시 신곡동 724-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보광훼미리마트 용현건영",
+      "address": "경기도 의정부시 용현동 407-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "줄줄이마트",
+      "address": "경기도 의정부시 의정부동 432-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "속초상회",
+      "address": "경기도 의정부시 의정부동 148-12   제일시장 나동 69호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세진슈퍼",
+      "address": "경기도 의정부시 가능동 636",
+      "roadAddress": "경기도 의정부시 신촌로75번길 75  (가능동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공슈퍼",
+      "address": "경기도 의정부시 금오동 476-1 주공3단지 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니마트",
+      "address": "경기도 의정부시 의정부동 438",
+      "roadAddress": "경기도 의정부시 흥선로154번길 15  (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개구쟁이",
+      "address": "경기도 의정부시 의정부동 557-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명슈퍼",
+      "address": "경기도 의정부시 가능동 362-51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황금마트",
+      "address": "경기도 의정부시 의정부동 8-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키하이마트",
+      "address": "경기도 의정부시 금오동 405-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿타임 편의점",
+      "address": "경기도 의정부시 의정부동 173-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "경기도 의정부시 신곡동 397-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하니마트",
+      "address": "경기도 의정부시 신곡동 90-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데마트 의정부점",
+      "address": "경기도 의정부시 용현동 527-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태현유통 하나로마트",
+      "address": "경기도 의정부시 가능동 648-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선-마트",
+      "address": "경기도 의정부시 용현동 404-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)이마트 의정부점",
+      "address": "경기도 의정부시 민락동 849",
+      "roadAddress": "경기도 의정부시 민락로 210 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-11"
+    },
+    {
+      "name": "코리아세븐의정부녹양키움점",
+      "address": "경기도 의정부시 녹양동 412-7",
+      "roadAddress": "경기도 의정부시 체육로 306-32 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-12"
+    },
+    {
+      "name": "호원홈마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 평화로 147 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-25"
+    },
+    {
+      "name": "제일종합유통",
+      "address": "",
+      "roadAddress": "경기도 의정부시 경의로157번길 9, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-30"
+    },
+    {
+      "name": "GS25 의정부중앙점",
+      "address": "경기도 의정부시 의정부동 492-12",
+      "roadAddress": "경기도 의정부시 둔야로 20 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-08-01"
+    },
+    {
+      "name": "우리농산물마트",
+      "address": "경기도 의정부시 의정부동 566-3",
+      "roadAddress": "경기도 의정부시 신흥로 211 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-08-07"
+    },
+    {
+      "name": "가능DC마트",
+      "address": "경기도 의정부시 가능동 644-8",
+      "roadAddress": "경기도 의정부시 가능로119번길 17 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-08-08"
+    },
+    {
+      "name": "GS25의정산단점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 산단로76번길 115, 101호 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-08-26"
+    },
+    {
+      "name": "GS의정신곡점",
+      "address": "경기도 의정부시 신곡동 352-13",
+      "roadAddress": "경기도 의정부시 동일로 472 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-09-09"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "경기도 의정부시 가능동 591-94",
+      "roadAddress": "경기도 의정부시 호국로1051번길 23 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-09-26"
+    },
+    {
+      "name": "홈플러스익스프레스의정부민락점",
+      "address": "경기도 의정부시 낙양동 106-2",
+      "roadAddress": "경기도 의정부시 용민로 395 (낙양동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-11-22"
+    },
+    {
+      "name": "안동마트",
+      "address": "경기도 의정부시 의정부동 202-14",
+      "roadAddress": "경기도 의정부시 평화로562번길 11 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-12-06"
+    },
+    {
+      "name": "씨유의정부극동점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 시민로317번길 9, 101호 (신곡동, 극동스타클래스 상가동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-12-16"
+    },
+    {
+      "name": "오렌지마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 비우로 110 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-12-16"
+    },
+    {
+      "name": "GS25 의정부용현",
+      "address": "경기도 의정부시 의정부동 439-23 해태프라자",
+      "roadAddress": "경기도 의정부시 신흥로258번길 25, 해태프라자 101호 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-12-28"
+    },
+    {
+      "name": "153마트",
+      "address": "",
+      "roadAddress": "경기도 의정부시 가능로49번길 11 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-01-10"
+    },
+    {
+      "name": "세븐일레븐 축석옹달샘점",
+      "address": "경기도 의정부시 자일동 94-5",
+      "roadAddress": "경기도 의정부시 호국로 1992 (자일동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-01-21"
+    },
+    {
+      "name": "세븐일레븐 민락부용점",
+      "address": "경기도 의정부시 낙양동 712 부용마을 3단지",
+      "roadAddress": "경기도 의정부시 오목로 251 (낙양동, 부용마을 3단지)",
+      "status": "영업/정상",
+      "licenseDate": "2014-02-21"
+    },
+    {
+      "name": "이마트에브리데 신곡점",
+      "address": "경기도 의정부시 신곡동 169번지 8호",
+      "roadAddress": "경기도 의정부시 시민로333번길 14 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-02-27"
+    },
+    {
+      "name": "CU의정부녹양점",
+      "address": "경기도 의정부시 녹양동 336-7",
+      "roadAddress": "경기도 의정부시 녹양로62번길 85 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-12"
+    },
+    {
+      "name": "세븐일레븐 의정부신세계점",
+      "address": "경기도 의정부시 의정부동 437-6",
+      "roadAddress": "경기도 의정부시 흥선로168번길 32 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-29"
+    },
+    {
+      "name": "GS25 의정은빛점",
+      "address": "경기도 의정부시 호원동 226-1 31차 진산은빛마을",
+      "roadAddress": "경기도 의정부시 망월로45번길 38 (호원동, 31차 진산은빛마을)",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-29"
+    },
+    {
+      "name": "제이케이유통",
+      "address": "경기도 의정부시 용현동 391-19 건영아파트",
+      "roadAddress": "경기도 의정부시 용민로7번길 54, 건영아파트 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-29"
+    },
+    {
+      "name": "씨유 으뜸2호점",
+      "address": "경기도 의정부시 신곡동 167-20 극동 스타클래스",
+      "roadAddress": "경기도 의정부시 시민로317번길 9, 극동 스타클래스 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-03"
+    },
+    {
+      "name": "씨유 의정부가온점",
+      "address": "경기도 의정부시 가능동 651-8",
+      "roadAddress": "경기도 의정부시 가능로97번길 17 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-10"
+    },
+    {
+      "name": "씨유 금오중앙점",
+      "address": "경기도 의정부시 금오동 286-4 케이에스씨아파트",
+      "roadAddress": "경기도 의정부시 거북로4번길 29 (금오동, 케이에스씨아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-25"
+    },
+    {
+      "name": "세븐일레븐 의정부백석천점",
+      "address": "경기도 의정부시 의정부동 522 대봉빌라",
+      "roadAddress": "경기도 의정부시 의정로40번길 33, 1층 (의정부동, 대봉빌라)",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-26"
+    },
+    {
+      "name": "GS25 의정부신일점",
+      "address": "경기도 의정부시 신곡동 455-3 신원주택",
+      "roadAddress": "경기도 의정부시 시민로245번길 9 (신곡동, 신원주택)",
+      "status": "영업/정상",
+      "licenseDate": "2021-06-15"
+    },
+    {
+      "name": "GS25 가능타운점",
+      "address": "경기도 의정부시 가능동 737",
+      "roadAddress": "경기도 의정부시 의정로 140 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-06-17"
+    },
+    {
+      "name": "GS25 금오신도점",
+      "address": "경기도 의정부시 금오동 344-17 금오2차 신도브래뉴 업",
+      "roadAddress": "경기도 의정부시 동일로 660, 1층 101호 (금오동, 금오2차 신도브래뉴 업)",
+      "status": "영업/정상",
+      "licenseDate": "2021-06-22"
+    },
+    {
+      "name": "그랜드 마트",
+      "address": "경기도 의정부시 가능동 16-1",
+      "roadAddress": "경기도 의정부시 평화로 658 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-06-22"
+    },
+    {
+      "name": "GS25 의정캐슬2단지",
+      "address": "경기도 의정부시 의정부동 720 의정부 롯데캐슬 골드파크 2단지",
+      "roadAddress": "경기도 의정부시 범골로63번길 31 (의정부동, 의정부 롯데캐슬 골드파크 2단지)",
+      "status": "영업/정상",
+      "licenseDate": "2021-06-22"
+    },
+    {
+      "name": "(주)코리아세븐 의정부경의초점",
+      "address": "경기도 의정부시 의정부동 367-12 금강빌딩",
+      "roadAddress": "경기도 의정부시 태평로10번길 13, 금강빌딩 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-06-23"
+    },
+    {
+      "name": "세븐일레븐 의정부오목점",
+      "address": "경기도 의정부시 민락동 830-4",
+      "roadAddress": "경기도 의정부시 오목로225번길 69-18 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-07"
+    },
+    {
+      "name": "씨유 고산정음1단지점",
+      "address": "경기도 의정부시 고산동 0 정음마을 고산1단지",
+      "roadAddress": "경기도 의정부시 입암로 14, 정음마을 고산1단지 (고산동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-15"
+    },
+    {
+      "name": "씨유 의정고산점",
+      "address": "경기도 의정부시 고산동 0 고산3단지",
+      "roadAddress": "경기도 의정부시 훈민로 13 (고산동, 고산3단지)",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-21"
+    },
+    {
+      "name": "씨유 탑석드림점",
+      "address": "경기도 의정부시 민락동 757-12 송산주공아파트",
+      "roadAddress": "경기도 의정부시 오목로 74, 송산주공아파트 상가동 103~104호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-08-06"
+    },
+    {
+      "name": "세븐일레븐 의정부신도점",
+      "address": "경기도 의정부시 호원동 418-3",
+      "roadAddress": "경기도 의정부시 회룡로 145 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-08-12"
+    },
+    {
+      "name": "동호마트",
+      "address": "경기도 의정부시 가능동 362-162",
+      "roadAddress": "경기도 의정부시 녹양로18번길 15 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-26"
+    },
+    {
+      "name": "지에스(GS)25 의정레쉬빌점",
+      "address": "경기도 의정부시 의정부동 496-3 동양레쉬빌II",
+      "roadAddress": "경기도 의정부시 신흥로240번길 26, 동양레쉬빌II 101호 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-09-28"
+    },
+    {
+      "name": "GS25 의정스테이점",
+      "address": "경기도 의정부시 의정부동 505-3 스테이 유",
+      "roadAddress": "경기도 의정부시 신흥로231번길 17, 1층 101호 (의정부동, 스테이 유)",
+      "status": "영업/정상",
+      "licenseDate": "2021-09-28"
+    },
+    {
+      "name": "지에스(GS)25 뉴고산지석점",
+      "address": "경기도 의정부시 산곡동 686-4",
+      "roadAddress": "경기도 의정부시 세석로 30, 108호 (산곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-10-12"
+    },
+    {
+      "name": "지에스(GS)25 의정중앙로점",
+      "address": "경기도 의정부시 의정부동 193-3",
+      "roadAddress": "경기도 의정부시 행복로 19, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-10-12"
+    },
+    {
+      "name": "세븐일레븐 의정부고산점",
+      "address": "경기도 의정부시 산곡동 290-7 대광로제비앙 더 퍼스트",
+      "roadAddress": "경기도 의정부시 서광로 169, 1층 124호 (산곡동, 대광로제비앙 더 퍼스트)",
+      "status": "영업/정상",
+      "licenseDate": "2021-10-13"
+    },
+    {
+      "name": "영신마트",
+      "address": "경기도 의정부시 호원동 442-4",
+      "roadAddress": "경기도 의정부시 안말로85번길 39, 101, 102, 103, 104호 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-10-19"
+    },
+    {
+      "name": "세븐일레븐 의정부한솔점",
+      "address": "경기도 의정부시 의정부동 97-28",
+      "roadAddress": "경기도 의정부시 시민로156번길 48 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-10-29"
+    },
+    {
+      "name": "지에스25 탑석자이골드점",
+      "address": "경기도 의정부시 용현동 270-45",
+      "roadAddress": "경기도 의정부시 용민로26번길 27 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-11-01"
+    },
+    {
+      "name": "씨유 의정 가능로점",
+      "address": "경기도 의정부시 가능동 640-20",
+      "roadAddress": "경기도 의정부시 신촌로75번길 7 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-11-08"
+    },
+    {
+      "name": "세븐일레븐 의정부동오점",
+      "address": "경기도 의정부시 신곡동 675-1",
+      "roadAddress": "경기도 의정부시 추동로5번길 28 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-12-16"
+    },
+    {
+      "name": "숲스토리 시장점",
+      "address": "경기도 의정부시 의정부동 147-32",
+      "roadAddress": "경기도 의정부시 시민로143번길 26, 지하층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-12-23"
+    },
+    {
+      "name": "숲스토리 본점",
+      "address": "경기도 의정부시 민락동 744-1",
+      "roadAddress": "경기도 의정부시 용민로 98 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-12-23"
+    },
+    {
+      "name": "세븐일레븐 의정부부용점",
+      "address": "경기도 의정부시 민락동 754-12",
+      "roadAddress": "경기도 의정부시 승지로22번길 19 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-01-03"
+    },
+    {
+      "name": "이마트24 신곡주주점",
+      "address": "경기도 의정부시 신곡동 566-41",
+      "roadAddress": "경기도 의정부시 시민로179번길 19 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-01-07"
+    },
+    {
+      "name": "이마트24  의정부삼익점",
+      "address": "경기도 의정부시 의정부동 602-7",
+      "roadAddress": "경기도 의정부시 범골로82번길 52 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-01-07"
+    },
+    {
+      "name": "씨유",
+      "address": "경기도 의정부시 용현동 241",
+      "roadAddress": "경기도 의정부시 오목로35번길 51 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-01-07"
+    },
+    {
+      "name": "아이지에이 마트",
+      "address": "경기도 의정부시 의정부동 96-11",
+      "roadAddress": "경기도 의정부시 시민로156번길 23 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-09-09"
+    },
+    {
+      "name": "롯데프레시 의정부신곡점",
+      "address": "경기도 의정부시 신곡동 96-9",
+      "roadAddress": "경기도 의정부시 금신로 308, 지하층 104,105호 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-01-21"
+    },
+    {
+      "name": "GS25 호원범골점",
+      "address": "경기도 의정부시 호원동 340-1",
+      "roadAddress": "경기도 의정부시 백석로52번길 43, 1층 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-01-24"
+    },
+    {
+      "name": "지에스(GS)25 호원드림점",
+      "address": "경기도 의정부시 호원동 414-2 드림팰리스",
+      "roadAddress": "경기도 의정부시 평화로 395, 102동 101호 (호원동, 드림팰리스)",
+      "status": "영업/정상",
+      "licenseDate": "2022-01-27"
+    },
+    {
+      "name": "세븐일레븐 의정부칠성점",
+      "address": "경기도 의정부시 가능동 753-30",
+      "roadAddress": "경기도 의정부시 시민로53번길 15 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-02-04"
+    },
+    {
+      "name": "(주)코리아세븐 의정부시티점",
+      "address": "경기도 의정부시 의정부동 440-51",
+      "roadAddress": "경기도 의정부시 흥선로154번길 42, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-02-08"
+    },
+    {
+      "name": "세븐일레븐 탑석센트럴 후문점",
+      "address": "경기도 의정부시 용현동 217-21",
+      "roadAddress": "경기도 의정부시 시민로 443, 1층 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-02-25"
+    },
+    {
+      "name": "씨유 고산한신더휴점",
+      "address": "경기도 의정부시 고산동 874 한신더휴고산NHF",
+      "roadAddress": "경기도 의정부시 입암로 13 (고산동, 한신더휴고산NHF)",
+      "status": "영업/정상",
+      "licenseDate": "2022-03-10"
+    },
+    {
+      "name": "이마트24SMART의정부디스페이스점",
+      "address": "경기도 의정부시 가능동 0",
+      "roadAddress": "경기도 의정부시 서부로720번길 16, 108호 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-03-23"
+    },
+    {
+      "name": "세븐일레븐 의정부고산해인점",
+      "address": "경기도 의정부시 고산동 987-5 해인프라자",
+      "roadAddress": "경기도 의정부시 바대논길 21, 해인프라자 1층 106호 (고산동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-03-29"
+    },
+    {
+      "name": "씨유 의정부싱싱점",
+      "address": "경기도 의정부시 의정부동 405-26",
+      "roadAddress": "경기도 의정부시 가능로86번길 18 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-12"
+    },
+    {
+      "name": "GS25 의정극동점",
+      "address": "경기도 의정부시 신곡동 669 극동,동성아파트",
+      "roadAddress": "경기도 의정부시 추동로 43, 극동,동성아파트 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-12"
+    },
+    {
+      "name": "씨유 의정부번영",
+      "address": "경기도 의정부시 가능동 15-136",
+      "roadAddress": "경기도 의정부시 태평로204번길 22, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-19"
+    },
+    {
+      "name": "세븐일레븐 의정부더샵점",
+      "address": "경기도 의정부시 가능동 852 더샵 파크에비뉴",
+      "roadAddress": "경기도 의정부시 호국로1162번길 24, 상가동 108호 (가능동, 더샵 파크에비뉴)",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-20"
+    },
+    {
+      "name": "씨유 의정부희망점",
+      "address": "경기도 의정부시 의정부동 226-1",
+      "roadAddress": "경기도 의정부시 가능로 152, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-22"
+    },
+    {
+      "name": "세븐일레븐 의정부고산으뜸점",
+      "address": "경기도 의정부시 산곡동 686-1 폴리프라자Ⅰ",
+      "roadAddress": "경기도 의정부시 세석로 20, 폴리프라자Ⅰ 1층 104호 (산곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-25"
+    },
+    {
+      "name": "GS25 민락대림점",
+      "address": "경기도 의정부시 민락동 544-26 싱싱홈할인마트",
+      "roadAddress": "경기도 의정부시 오목로 124, 1층 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-05-16"
+    },
+    {
+      "name": "이마트24 의정부흥선점",
+      "address": "경기도 의정부시 가능동 722-10",
+      "roadAddress": "경기도 의정부시 흥선로27번길 29, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-05-31"
+    },
+    {
+      "name": "이마트24 가능타운점",
+      "address": "경기도 의정부시 가능동 687-7",
+      "roadAddress": "경기도 의정부시 가능로7번길 19, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-06-08"
+    },
+    {
+      "name": "(주)코리아세븐 회룡본점",
+      "address": "경기도 의정부시 호원동 6-11",
+      "roadAddress": "경기도 의정부시 백석로52번길 51-22, 1층 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-06-16"
+    },
+    {
+      "name": "씨유 민락오목점",
+      "address": "경기도 의정부시 민락동 696-7",
+      "roadAddress": "경기도 의정부시 용현로 186, 1층 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-06-22"
+    },
+    {
+      "name": "GS25 의정우성점",
+      "address": "경기도 의정부시 장암동 14-27 신곡우성아파트",
+      "roadAddress": "경기도 의정부시 동일로 402, 신곡우성아파트 상가동 1층 (장암동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-01-20"
+    },
+    {
+      "name": "세븐일레븐 의정을지타워점",
+      "address": "경기도 의정부시 금오동 435-1",
+      "roadAddress": "경기도 의정부시 동일로711번길 11 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-06-22"
+    },
+    {
+      "name": "후레쉬마트 광동",
+      "address": "경기도 의정부시 가능동 106-27",
+      "roadAddress": "경기도 의정부시 서부로 693 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-06-28"
+    },
+    {
+      "name": "씨유 탑석자이정문점",
+      "address": "경기도 의정부시 용현동 567 탑석센트럴자이",
+      "roadAddress": "경기도 의정부시 용민로 10, 제1동 107,108호 (용현동, 탑석센트럴자이)",
+      "status": "영업/정상",
+      "licenseDate": "2022-06-30"
+    },
+    {
+      "name": "세븐일레븐 의정부 평화점",
+      "address": "경기도 의정부시 의정부동 237-20",
+      "roadAddress": "경기도 의정부시 평화로 605, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-14"
+    },
+    {
+      "name": "고산편의점",
+      "address": "경기도 의정부시 고산동 510-7",
+      "roadAddress": "경기도 의정부시 송산로999번길 17-5 (고산동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-14"
+    },
+    {
+      "name": "씨유 민락푸르지오점",
+      "address": "경기도 의정부시 낙양동 757 의정부 민락 푸르지오",
+      "roadAddress": "경기도 의정부시 송양로 46, 717동 1층 109호 (낙양동, 의정부 민락 푸르지오)",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-15"
+    },
+    {
+      "name": "씨유 호원우성제일점",
+      "address": "경기도 의정부시 호원동 452-11",
+      "roadAddress": "경기도 의정부시 평화로244번길 26, 1층 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-18"
+    },
+    {
+      "name": "세븐일레븐 의정부다온점",
+      "address": "경기도 의정부시 가능동 745-3 임마누엘교회",
+      "roadAddress": "경기도 의정부시 흥선로92번길 21, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-21"
+    },
+    {
+      "name": "GS25 의정장암역점",
+      "address": "경기도 의정부시 장암동 162-21",
+      "roadAddress": "경기도 의정부시 동일로 124, 1층 (장암동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-25"
+    },
+    {
+      "name": "GS25 의정더드림점",
+      "address": "경기도 의정부시 가능동 16-1",
+      "roadAddress": "경기도 의정부시 평화로 658 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-26"
+    },
+    {
+      "name": "GS25 고산행복점",
+      "address": "경기도 의정부시 산곡동 676 대광로제비앙 더 퍼스트",
+      "roadAddress": "경기도 의정부시 서광로 169, 상가동 (산곡동, 대광로제비앙 더 퍼스트)",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-27"
+    },
+    {
+      "name": "더드림 마트",
+      "address": "경기도 의정부시 용현동 235-8 용현프라자",
+      "roadAddress": "경기도 의정부시 오목로15번길 2, 용현프라자 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-29"
+    },
+    {
+      "name": "이마트24 의정부우성점",
+      "address": "경기도 의정부시 호원동 451 5차우성아파트",
+      "roadAddress": "경기도 의정부시 안말로 88, 5차우성아파트 상가동 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-07-29"
+    },
+    {
+      "name": "(주)그린팜 마트",
+      "address": "경기도 의정부시 용현동 268-3 사랑과평화의교회",
+      "roadAddress": "경기도 의정부시 용민로19번길 30, 지하2층 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-03"
+    },
+    {
+      "name": "GS25 센트럴정문점",
+      "address": "경기도 의정부시 의정부동 380 의정부역 센트럴자이&위브캐슬",
+      "roadAddress": "경기도 의정부시 경의로 132, 111,112호 (의정부동, 의정부역 센트럴자이&위브캐슬)",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-08"
+    },
+    {
+      "name": "세븐일레븐 의정부오목로점",
+      "address": "경기도 의정부시 용현동 231-5",
+      "roadAddress": "경기도 의정부시 오목로 24, 1층 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-22"
+    },
+    {
+      "name": "이마트24 의정부신도푸르지오점",
+      "address": "경기도 의정부시 의정부동 396-3 신도아파트",
+      "roadAddress": "경기도 의정부시 경의로132번길 78, 신도아파트 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-29"
+    },
+    {
+      "name": "(주)코리아세븐 용현보광점",
+      "address": "경기도 의정부시 용현동 402-9",
+      "roadAddress": "경기도 의정부시 시민로 389, 1층 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-06"
+    },
+    {
+      "name": "GS25 의정창원점",
+      "address": "경기도 의정부시 의정부동 567 창원빌딩",
+      "roadAddress": "경기도 의정부시 신흥로 222, 창원빌딩 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-16"
+    },
+    {
+      "name": "세븐일레븐 호원IC점",
+      "address": "경기도 의정부시 의정부동 534-6",
+      "roadAddress": "경기도 의정부시 경의로 11, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-21"
+    },
+    {
+      "name": "씨유 의정부로드점",
+      "address": "경기도 의정부시 가능동 595-39",
+      "roadAddress": "경기도 의정부시 호국로 966, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-26"
+    },
+    {
+      "name": "이마트24 고산파브빌딩점",
+      "address": "경기도 의정부시 고산동 973-8",
+      "roadAddress": "경기도 의정부시 문충로 162, 104,5호 (고산동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-27"
+    },
+    {
+      "name": "GS25 금오퍼스트점",
+      "address": "경기도 의정부시 금오동 117-15",
+      "roadAddress": "경기도 의정부시 금오로 109 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-29"
+    },
+    {
+      "name": "씨유 녹양현대점",
+      "address": "경기도 의정부시 녹양동 83-4",
+      "roadAddress": "경기도 의정부시 비우로 105, 1층 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-30"
+    },
+    {
+      "name": "씨유 신한대학교도서관점",
+      "address": "경기도 의정부시 호원동 산 101-1 신한대학교",
+      "roadAddress": "경기도 의정부시 호암로 95, 신한대학교 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-30"
+    },
+    {
+      "name": "씨유 신한대학교점",
+      "address": "경기도 의정부시 호원동 산 101-1 신한대학교",
+      "roadAddress": "경기도 의정부시 호암로 95, 신한대학교 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-30"
+    },
+    {
+      "name": "연지매장",
+      "address": "경기도 의정부시 신곡동 605-3",
+      "roadAddress": "경기도 의정부시 경의로187번길 19 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-05"
+    },
+    {
+      "name": "씨유 의정부흥선역점",
+      "address": "경기도 의정부시 가능동 743",
+      "roadAddress": "경기도 의정부시 흥선로 84, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-12"
+    },
+    {
+      "name": "코리아세븐 의정부가로수점",
+      "address": "경기도 의정부시 가능동 616-4",
+      "roadAddress": "경기도 의정부시 신촌로 23 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-14"
+    },
+    {
+      "name": "세븐일레븐 의정부승원점",
+      "address": "경기도 의정부시 가능동 609-1",
+      "roadAddress": "경기도 의정부시 의정로198번길 57 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-17"
+    },
+    {
+      "name": "씨유 고산센타점",
+      "address": "경기도 의정부시 산곡동 690-1 센타프라자",
+      "roadAddress": "경기도 의정부시 서광로 135, 센타프라자 (산곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-17"
+    },
+    {
+      "name": "GS25 민락송산점",
+      "address": "경기도 의정부시 민락동 735-3 송산주공아파트",
+      "roadAddress": "경기도 의정부시 효자로 40, 송산주공아파트 상가동 102.103호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-20"
+    },
+    {
+      "name": "GS25 의정북부역점",
+      "address": "경기도 의정부시 의정부동 236-2 삼미빌딩",
+      "roadAddress": "경기도 의정부시 가능로125번길 28, 삼미빌딩 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-21"
+    },
+    {
+      "name": "씨유 고산센텀점",
+      "address": "경기도 의정부시 민락동 927-3 의정부 더리브 센텀스퀘어Ⅱ 지식산업센터",
+      "roadAddress": "경기도 의정부시 배꽃길 7, 의정부 더리브 센텀스퀘어Ⅱ 지식산업센터 2동 107호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-21"
+    },
+    {
+      "name": "(주)코리아세븐 고산듀클래스점",
+      "address": "경기도 의정부시 고산동 996-1",
+      "roadAddress": "경기도 의정부시 문화로 6, 근린생활시설 A 122호 (고산동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-21"
+    },
+    {
+      "name": "우리 농산물 식자재 마트",
+      "address": "경기도 의정부시 낙양동 721-1",
+      "roadAddress": "경기도 의정부시 용민로303번길 18, 지하1층 (낙양동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-24"
+    },
+    {
+      "name": "주식회사 메가식자재마트용현",
+      "address": "경기도 의정부시 용현동 277-5",
+      "roadAddress": "경기도 의정부시 용민로 67 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-26"
+    },
+    {
+      "name": "씨유 의정부장암역점",
+      "address": "경기도 의정부시 장암동 160-2",
+      "roadAddress": "경기도 의정부시 동일로 119, 1층 (장암동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-28"
+    },
+    {
+      "name": "세븐일레븐 고산센텀점",
+      "address": "경기도 의정부시 용현동 567 탑석센트럴자이",
+      "roadAddress": "경기도 의정부시 배꽃길 105, 의정부 더리브 센텀스퀘어Ⅰ 지식산업센터 1동 125호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-03"
+    },
+    {
+      "name": "GS25 의정부역점",
+      "address": "경기도 의정부시 의정부동 210-12 성호빌딩",
+      "roadAddress": "경기도 의정부시 평화로 553, 성호빌딩 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-08"
+    },
+    {
+      "name": "주아킹 고산점",
+      "address": "경기도 의정부시 고산동 949-1",
+      "roadAddress": "경기도 의정부시 홈다리길 3, 1층 101호 (고산동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-16"
+    },
+    {
+      "name": "월드푸드",
+      "address": "경기도 의정부시 의정부동 147-8",
+      "roadAddress": "경기도 의정부시 시민로143번길 22 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-25"
+    },
+    {
+      "name": "씨유 SK엔크린의정부점",
+      "address": "경기도 의정부시 의정부동 609-2",
+      "roadAddress": "경기도 의정부시 경의로 20 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-25"
+    },
+    {
+      "name": "다마요",
+      "address": "경기도 의정부시 용현동 2-2",
+      "roadAddress": "경기도 의정부시 충의로 83 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-25"
+    },
+    {
+      "name": "세븐일레븐 의정부삼흥점",
+      "address": "경기도 의정부시 가능동 7-73 삼층방아간",
+      "roadAddress": "경기도 의정부시 태평로184번길 16 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-12-05"
+    },
+    {
+      "name": "이마트24 고산듀클래스점",
+      "address": "경기도 의정부시 고산동 996-3",
+      "roadAddress": "경기도 의정부시 문충로 74, 비동 118호 (고산동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-12-09"
+    },
+    {
+      "name": "하나할인마트",
+      "address": "경기도 의정부시 신곡동 317-1",
+      "roadAddress": "경기도 의정부시 동일로454번길 19 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-12-14"
+    },
+    {
+      "name": "GS25 의정창원점",
+      "address": "경기도 의정부시 의정부동 567 창원빌딩",
+      "roadAddress": "경기도 의정부시 신흥로 222, 창원빌딩 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-12-15"
+    },
+    {
+      "name": "세븐일레븐 의정부파크점",
+      "address": "경기도 의정부시 의정부동 212-2",
+      "roadAddress": "경기도 의정부시 평화로551번길 13 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-12-21"
+    },
+    {
+      "name": "씨유 뉴고산한신점",
+      "address": "경기도 의정부시 고산동 879 정음마을 고산1단지",
+      "roadAddress": "경기도 의정부시 입암로 14, 정음마을 고산1단지 (고산동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-12-29"
+    },
+    {
+      "name": "이마트24 의정부금오점",
+      "address": "경기도 의정부시 금오동 472-5",
+      "roadAddress": "경기도 의정부시 청사로47번길 7-24 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-01-12"
+    },
+    {
+      "name": "GS25 고산라피니엘점",
+      "address": "경기도 의정부시 산곡동 710 고산 더 라피니엘",
+      "roadAddress": "경기도 의정부시 서광로 101, 상가동 004호 (산곡동, 고산 더 라피니엘)",
+      "status": "영업/정상",
+      "licenseDate": "2023-01-18"
+    },
+    {
+      "name": "이마트24 녹양청구점",
+      "address": "경기도 의정부시 녹양동 146-15 청구아파트",
+      "roadAddress": "경기도 의정부시 녹양로 71-5, 청구아파트 상가동 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-01-30"
+    },
+    {
+      "name": "이마트24 뉴의정부하랑점",
+      "address": "경기도 의정부시 의정부동 137-1",
+      "roadAddress": "경기도 의정부시 평화로484번길 18 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-02-16"
+    },
+    {
+      "name": "(주)코리아세븐 의정부해성점",
+      "address": "경기도 의정부시 의정부동 428-6",
+      "roadAddress": "경기도 의정부시 흥선로138번길 22, 101호 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-03-02"
+    },
+    {
+      "name": "이마트24 의정부신도점",
+      "address": "경기도 의정부시 금오동 344-17 금오2차 신도브래뉴 업",
+      "roadAddress": "경기도 의정부시 동일로 660, 상가동 112호 (금오동, 금오2차 신도브래뉴 업)",
+      "status": "영업/정상",
+      "licenseDate": "2023-03-09"
+    },
+    {
+      "name": "용현할인 마트",
+      "address": "경기도 의정부시 용현동 235-8 용현프라자",
+      "roadAddress": "경기도 의정부시 오목로15번길 2, 용현프라자 지층 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-03-24"
+    },
+    {
+      "name": "씨유 금오천보산점",
+      "address": "경기도 의정부시 금오동 445-5",
+      "roadAddress": "경기도 의정부시 금오로 24, 1층 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-03-27"
+    },
+    {
+      "name": "지에스25(GS25) 고산로드점",
+      "address": "경기도 의정부시 민락동 925-1",
+      "roadAddress": "경기도 의정부시 문충로 326 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-03-31"
+    },
+    {
+      "name": "씨유 민락본점",
+      "address": "경기도 의정부시 민락동 797-5",
+      "roadAddress": "경기도 의정부시 용민로182번길 36-11, 1층 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-04-14"
+    },
+    {
+      "name": "GS25 녹양동일로점",
+      "address": "경기도 의정부시 녹양동 107-20",
+      "roadAddress": "경기도 의정부시 동일로824번길 15, 1층 5호 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-04-21"
+    },
+    {
+      "name": "세븐일레븐 탑석자이점",
+      "address": "경기도 의정부시 용현동 264-12 용현주공아파트",
+      "roadAddress": "경기도 의정부시 용민로 16, 용현주공아파트 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-08"
+    },
+    {
+      "name": "GS25 호원스타일점",
+      "address": "경기도 의정부시 호원동 247-53 휴엘리시안",
+      "roadAddress": "경기도 의정부시 전좌로 4 (호원동, 휴엘리시안)",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-15"
+    },
+    {
+      "name": "CU 의정부녹양점",
+      "address": "경기도 의정부시 녹양동 336-7",
+      "roadAddress": "경기도 의정부시 녹양로62번길 85 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-16"
+    },
+    {
+      "name": "씨유 의정신촌본점",
+      "address": "경기도 의정부시 가능동 603-31",
+      "roadAddress": "경기도 의정부시 신촌로5번길 15, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-23"
+    },
+    {
+      "name": "세븐일레븐 의정부회룡점",
+      "address": "경기도 의정부시 호원동 343",
+      "roadAddress": "경기도 의정부시 백석로68번길 27, 호원프라자 101, 102, 103, 104호 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-25"
+    },
+    {
+      "name": "씨유 호원안말점",
+      "address": "경기도 의정부시 호원동 247-12 진성빌딩",
+      "roadAddress": "경기도 의정부시 안말로58번안길 100, 진성빌딩 1층 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-25"
+    },
+    {
+      "name": "이마트24 의정부추동로점",
+      "address": "경기도 의정부시 신곡동 78-35",
+      "roadAddress": "경기도 의정부시 추동로108번길 14-1, 1층 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-26"
+    },
+    {
+      "name": "지에스(GS)25 호원범골점",
+      "address": "경기도 의정부시 호원동 340-1",
+      "roadAddress": "경기도 의정부시 백석로52번길 43, 1층 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-26"
+    },
+    {
+      "name": "이마트24 의정부빌리지점",
+      "address": "경기도 의정부시 가능동 669-4",
+      "roadAddress": "경기도 의정부시 가능로39번길 35 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-06-07"
+    },
+    {
+      "name": "지에스(GS)25 의정롯데골드점",
+      "address": "경기도 의정부시 가능동 581-1 의정부 롯데캐슬 골드포레",
+      "roadAddress": "경기도 의정부시 안골로 20, 상가동 B104호 (가능동, 의정부 롯데캐슬 골드포레)",
+      "status": "영업/정상",
+      "licenseDate": "2023-06-15"
+    },
+    {
+      "name": "씨유 민락파스탤점",
+      "address": "경기도 의정부시 민락동 804-5",
+      "roadAddress": "경기도 의정부시 천보로 38 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-06-21"
+    },
+    {
+      "name": "이마트24 R의정부중앙점",
+      "address": "경기도 의정부시 의정부동 546 광성빌라",
+      "roadAddress": "경기도 의정부시 범골로98번길 103 (의정부동, 광성빌라)",
+      "status": "영업/정상",
+      "licenseDate": "2023-06-21"
+    },
+    {
+      "name": "씨유 만가대교차로점",
+      "address": "경기도 의정부시 용현동 187-11",
+      "roadAddress": "경기도 의정부시 송산로1161번길 78-2, 1층 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-06-23"
+    },
+    {
+      "name": "세븐일레븐  탑석자이후문점",
+      "address": "경기도 의정부시 용현동 237-5",
+      "roadAddress": "경기도 의정부시 오목로15번길 34 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-07-04"
+    },
+    {
+      "name": "씨유 의정센트럴점",
+      "address": "경기도 의정부시 의정부동 380 의정부역센트럴자이&위브캐슬",
+      "roadAddress": "경기도 의정부시 경의로 132, 상가C동 (의정부동, 의정부역센트럴자이&위브캐슬)",
+      "status": "영업/정상",
+      "licenseDate": "2023-07-04"
+    },
+    {
+      "name": "씨유 뉴의정부사랑점",
+      "address": "경기도 의정부시 의정부동 208-2 이안더메트로",
+      "roadAddress": "경기도 의정부시 평화로567번길 15 (의정부동, 이안더메트로)",
+      "status": "영업/정상",
+      "licenseDate": "2023-07-04"
+    },
+    {
+      "name": "이마트24 의정부호국로점",
+      "address": "경기도 의정부시 의정부동 219-24 상민빌라",
+      "roadAddress": "경기도 의정부시 태평로145번길 24 (의정부동, 상민빌라)",
+      "status": "영업/정상",
+      "licenseDate": "2023-07-13"
+    },
+    {
+      "name": "GS25 민락예스점",
+      "address": "경기도 의정부시 민락동 804 예스타워 포시즌",
+      "roadAddress": "경기도 의정부시 오목로205번길 1, 예스타워 포시즌 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-07-13"
+    },
+    {
+      "name": "씨유 의정부메트로점",
+      "address": "경기도 의정부시 의정부동 145-1",
+      "roadAddress": "경기도 의정부시 태평로 64, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-07-18"
+    },
+    {
+      "name": "씨유 가능공원점",
+      "address": "경기도 의정부시 가능동 684-28",
+      "roadAddress": "경기도 의정부시 가능로15번길 11 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-07-25"
+    },
+    {
+      "name": "지에스25(GS25)민락행운점",
+      "address": "경기도 의정부시 낙양동 749 용암마을16단지",
+      "roadAddress": "경기도 의정부시 용민로 420, 상가동 103호 (낙양동, 용암마을16단지)",
+      "status": "영업/정상",
+      "licenseDate": "2023-08-01"
+    },
+    {
+      "name": "롯데프레시 의정부고산점",
+      "address": "경기도 의정부시 산곡동 676 대광로제비앙 더 퍼스트",
+      "roadAddress": "경기도 의정부시 서광로 169 (산곡동, 대광로제비앙 더 퍼스트)",
+      "status": "영업/정상",
+      "licenseDate": "2023-08-09"
+    },
+    {
+      "name": "세븐일레븐 의정부신곡서해점",
+      "address": "경기도 의정부시 신곡동 330-1",
+      "roadAddress": "경기도 의정부시 동일로454번길 7, 1층 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-08-18"
+    },
+    {
+      "name": "세계로 마트",
+      "address": "경기도 의정부시 호원동 325-1",
+      "roadAddress": "경기도 의정부시 호동로 53 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-08-18"
+    },
+    {
+      "name": "씨유 고산수자인2단지점",
+      "address": "경기도 의정부시 산곡동 725 고산 수자인 디에스티지",
+      "roadAddress": "경기도 의정부시 수암로 25, 상가2동 101호, 102호 (산곡동, 고산 수자인 디에스티지)",
+      "status": "영업/정상",
+      "licenseDate": "2023-08-24"
+    },
+    {
+      "name": "씨유 호원빌리지점",
+      "address": "경기도 의정부시 호원동 379",
+      "roadAddress": "경기도 의정부시 범골로35번길 36, 1층 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-08-24"
+    },
+    {
+      "name": "지에스25 고산한양수자인",
+      "address": "경기도 의정부시 산곡동 709 고산 수자인 디에스티지",
+      "roadAddress": "경기도 의정부시 서광로 121, 상가동 1층 5호 (산곡동, 고산 수자인 디에스티지)",
+      "status": "영업/정상",
+      "licenseDate": "2023-08-28"
+    },
+    {
+      "name": "(주)와식자재몰 가능동지점",
+      "address": "경기도 의정부시 가능동 355-2",
+      "roadAddress": "경기도 의정부시 체육로 30 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-09-06"
+    },
+    {
+      "name": "이마트24 의정부가능로점",
+      "address": "경기도 의정부시 의정부동 227-1",
+      "roadAddress": "경기도 의정부시 가능로 136, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-09-06"
+    },
+    {
+      "name": "부산철물건재",
+      "address": "경기도 의정부시 가능동 697-40",
+      "roadAddress": "경기도 의정부시 호국로1101번길 4-14 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-09-15"
+    },
+    {
+      "name": "주식회사 원마트",
+      "address": "경기도 의정부시 가능동 619",
+      "roadAddress": "경기도 의정부시 신촌로29번길 24, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-09-19"
+    },
+    {
+      "name": "케이마트 가능점",
+      "address": "경기도 의정부시 가능동 648-22",
+      "roadAddress": "경기도 의정부시 신흥로 357, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-09-19"
+    },
+    {
+      "name": "GS25 고산디에스티지점",
+      "address": "경기도 의정부시 산곡동 733 고산 수자인 디에스티지 아트포레",
+      "roadAddress": "경기도 의정부시 문화로 38, 1층 6호 (산곡동, 고산 수자인 디에스티지 아트포레)",
+      "status": "영업/정상",
+      "licenseDate": "2023-09-26"
+    },
+    {
+      "name": "GS25 의정부송산역점",
+      "address": "경기도 의정부시 용현동 9-1",
+      "roadAddress": "경기도 의정부시 충의로57번길 6 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-09-26"
+    },
+    {
+      "name": "크린트레이드 레몬플러스마트",
+      "address": "경기도 의정부시 가능동 677-2",
+      "roadAddress": "경기도 의정부시 의정로 159 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-09-26"
+    },
+    {
+      "name": "GS25 민락뉴시티점",
+      "address": "경기도 의정부시 민락동 847 호반베르디움1차",
+      "roadAddress": "경기도 의정부시 민락로 211 (민락동, 호반베르디움1차)",
+      "status": "영업/정상",
+      "licenseDate": "2023-11-01"
+    },
+    {
+      "name": "블루25 고산한양수자인점",
+      "address": "경기도 의정부시 산곡동 733 고산 수자인 디에스티지 아트포레",
+      "roadAddress": "경기도 의정부시 문화로 38 (산곡동, 고산 수자인 디에스티지 아트포레)",
+      "status": "영업/정상",
+      "licenseDate": "2023-11-09"
+    },
+    {
+      "name": "씨유 의정부신한대점",
+      "address": "경기도 의정부시 호원동 460",
+      "roadAddress": "경기도 의정부시 평화로 190 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-11-09"
+    },
+    {
+      "name": "세븐일레븐 민락주공점",
+      "address": "경기도 의정부시 낙양동 754 양지마을8단지",
+      "roadAddress": "경기도 의정부시 송양로 45 (낙양동, 양지마을8단지)",
+      "status": "영업/정상",
+      "licenseDate": "2023-11-14"
+    },
+    {
+      "name": "GS25 의정한신점",
+      "address": "경기도 의정부시 호원동 332 서왕프라자",
+      "roadAddress": "경기도 의정부시 회룡로105번길 15, 서왕프라자 1층 1호 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-11-30"
+    },
+    {
+      "name": "씨유 호원쌍용점",
+      "address": "경기도 의정부시 호원동 5-20",
+      "roadAddress": "경기도 의정부시 회룡로117번길 47 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-12-11"
+    },
+    {
+      "name": "지에스(GS)25 의여고점",
+      "address": "경기도 의정부시 가능동 653-23 삼성하우징",
+      "roadAddress": "경기도 의정부시 신흥로 367, 102, 103호 (가능동, 삼성하우징)",
+      "status": "영업/정상",
+      "licenseDate": "2023-12-15"
+    },
+    {
+      "name": "GS25 용현트리플점",
+      "address": "경기도 의정부시 용현동 235-71",
+      "roadAddress": "경기도 의정부시 오목로19번길 39 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-01-05"
+    },
+    {
+      "name": "씨스페이시스 의정부시청점",
+      "address": "경기도 의정부시 의정부동 539 가락빌라",
+      "roadAddress": "경기도 의정부시 의정로22번길 16 (의정부동, 가락빌라)",
+      "status": "영업/정상",
+      "licenseDate": "2024-02-01"
+    },
+    {
+      "name": "뉴원 리퍼브 아울렛",
+      "address": "경기도 의정부시 민락동 732-14",
+      "roadAddress": "경기도 의정부시 용현로 103, 1층 102호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-02-15"
+    },
+    {
+      "name": "씨유 의정부중앙역점",
+      "address": "경기도 의정부시 의정부동 187-30",
+      "roadAddress": "경기도 의정부시 평화로568번길 27, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-02-15"
+    },
+    {
+      "name": "씨유 민락꽃내음점",
+      "address": "경기도 의정부시 민락동 822-6",
+      "roadAddress": "경기도 의정부시 오목로225번길 16-2, 1층 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-02-23"
+    },
+    {
+      "name": "씨유 장암주공점",
+      "address": "경기도 의정부시 장암동 17-26 장암2단지주공아파트",
+      "roadAddress": "경기도 의정부시 동일로 397-66, 장암2단지주공아파트 상가동 101호 (장암동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-03-19"
+    },
+    {
+      "name": "씨유 장암삼거리점",
+      "address": "경기도 의정부시 장암동 90-19",
+      "roadAddress": "경기도 의정부시 동일로 205-1 (장암동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-03-21"
+    },
+    {
+      "name": "이마트24 신곡센터점",
+      "address": "경기도 의정부시 신곡동 493-3 벽산프라자",
+      "roadAddress": "경기도 의정부시 능곡로 42, 벽산프라자 1층 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-03-22"
+    },
+    {
+      "name": "GS25 민락초교점",
+      "address": "경기도 의정부시 민락동 692-3",
+      "roadAddress": "경기도 의정부시 용현로159번길 18, 105호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-03-26"
+    },
+    {
+      "name": "주식회사 제일식자재",
+      "address": "경기도 의정부시 용현동 268-3 사랑과평화의교회",
+      "roadAddress": "경기도 의정부시 용민로19번길 30, 사랑과평화의교회 지하 1층 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-04-09"
+    },
+    {
+      "name": "씨유 민락이편한점",
+      "address": "경기도 의정부시 민락동 612-3",
+      "roadAddress": "경기도 의정부시 승지로19번길 21 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-04-09"
+    },
+    {
+      "name": "이마트24 고산라피네트점",
+      "address": "경기도 의정부시 고산동 989-7 고산 라피네트",
+      "roadAddress": "경기도 의정부시 문충로 98, 고산 라피네트 107,108호 (고산동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-04-17"
+    },
+    {
+      "name": "지에스25 의정부청룡점",
+      "address": "경기도 의정부시 신곡동 609-45",
+      "roadAddress": "경기도 의정부시 경의로 183 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-04-17"
+    },
+    {
+      "name": "GS25 의정부신일점",
+      "address": "경기도 의정부시 신곡동 455-3 신원주택",
+      "roadAddress": "경기도 의정부시 시민로245번길 9, 나동 1층 101호 (신곡동, 신원주택)",
+      "status": "영업/정상",
+      "licenseDate": "2024-04-22"
+    },
+    {
+      "name": "이마트에브리데이 의정부호원점",
+      "address": "경기도 의정부시 호원동 459 신일엘리시움",
+      "roadAddress": "경기도 의정부시 평화로 196, 115호 (호원동, 신일엘리시움)",
+      "status": "영업/정상",
+      "licenseDate": "2024-05-14"
+    },
+    {
+      "name": "세븐일레븐 의정부베네스트점",
+      "address": "경기도 의정부시 의정부동 187-3",
+      "roadAddress": "경기도 의정부시 호국로 1306, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-05-27"
+    },
+    {
+      "name": "지에스(GS)25 의정부경의교점",
+      "address": "경기도 의정부시 의정부동 562-15",
+      "roadAddress": "경기도 의정부시 경의로55번길 16, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-06-14"
+    },
+    {
+      "name": "GS25 호원두산점",
+      "address": "경기도 의정부시 호원동 347-1 두산아파트",
+      "roadAddress": "경기도 의정부시 백석로 66, 두산아파트 101,103,104호 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-06-17"
+    },
+    {
+      "name": "지에스25 힐스테이트 의정부점",
+      "address": "경기도 의정부시 의정부동 240-130 힐스테이트 의정부역",
+      "roadAddress": "경기도 의정부시 신흥로 316, 1층 18,19호 (의정부동, 힐스테이트 의정부역)",
+      "status": "영업/정상",
+      "licenseDate": "2024-06-18"
+    },
+    {
+      "name": "씨유 의정부성모제일점",
+      "address": "경기도 의정부시 금오동 60-22",
+      "roadAddress": "경기도 의정부시 천보로 266, 1층 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-06-19"
+    },
+    {
+      "name": "세븐일레븐 의정부고점",
+      "address": "경기도 의정부시 가능동 368",
+      "roadAddress": "경기도 의정부시 녹양로 47 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-06-18"
+    },
+    {
+      "name": "씨유 가능본점",
+      "address": "경기도 의정부시 가능동 616-16",
+      "roadAddress": "경기도 의정부시 신촌로 27, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-06-25"
+    },
+    {
+      "name": "씨유 의정민락현대",
+      "address": "경기도 의정부시 민락동 691-1 산들마을신안·길훈·현대아파트",
+      "roadAddress": "경기도 의정부시 용현로 143, 1층 104호 (민락동, 산들마을신안·길훈·현대아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2024-06-25"
+    },
+    {
+      "name": "지에스더프레시 의정부장암점",
+      "address": "경기도 의정부시 장암동 20-14",
+      "roadAddress": "경기도 의정부시 회룡로 178, B01, B02호 (장암동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-07-02"
+    },
+    {
+      "name": "씨유(CU)L의정부마사회5층점",
+      "address": "경기도 의정부시 가능동 754-21 안산빌딩",
+      "roadAddress": "경기도 의정부시 시민로 45, 안산빌딩 5층 501호 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-07-08"
+    },
+    {
+      "name": "씨유 의정부푸르지오점",
+      "address": "경기도 의정부시 의정부동 394-11",
+      "roadAddress": "경기도 의정부시 경의로132번길 69, 상가동 22,23호 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-07-16"
+    },
+    {
+      "name": "지에스(GS)25 고산리슈빌포레점",
+      "address": "경기도 의정부시 고산동 903 고산리슈빌포레",
+      "roadAddress": "경기도 의정부시 훈민로 13, 상가1동 8,9호 (고산동, 고산리슈빌포레)",
+      "status": "영업/정상",
+      "licenseDate": "2024-07-19"
+    },
+    {
+      "name": "씨유 민락중흥S클래스점",
+      "address": "경기도 의정부시 민락동 803-2",
+      "roadAddress": "경기도 의정부시 민락로 195, 172,173,174호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-07-25"
+    },
+    {
+      "name": "씨유 민락금강점",
+      "address": "경기도 의정부시 낙양동 706-5",
+      "roadAddress": "경기도 의정부시 용민로237번길 74 (낙양동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-08-06"
+    },
+    {
+      "name": "씨유 의정그랑빌점",
+      "address": "경기도 의정부시 의정부동 217-37 한진그랑빌",
+      "roadAddress": "경기도 의정부시 태평로 181, 1층 101호 (의정부동, 한진그랑빌)",
+      "status": "영업/정상",
+      "licenseDate": "2024-09-23"
+    },
+    {
+      "name": "씨유 의정부KT점",
+      "address": "경기도 의정부시 의정부동 586-1 신양빌라",
+      "roadAddress": "경기도 의정부시 신흥로168번길 19, 101호 (의정부동, 신양빌라)",
+      "status": "영업/정상",
+      "licenseDate": "2024-09-24"
+    },
+    {
+      "name": "GS더프레시 의정부센트럴점",
+      "address": "경기도 의정부시 의정부동 724 의정부역센트럴자이&위브캐슬",
+      "roadAddress": "경기도 의정부시 경의로 132, 단지내상가C동 101~105, 115호 (의정부동, 의정부역센트럴자이&위브캐슬)",
+      "status": "영업/정상",
+      "licenseDate": "2024-09-24"
+    },
+    {
+      "name": "GS25 의정대우점",
+      "address": "경기도 의정부시 신곡동 167-1 신곡대우아파트",
+      "roadAddress": "경기도 의정부시 시민로333번길 25, 신곡대우아파트 상가동 204,205호 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-09-30"
+    },
+    {
+      "name": "씨유 나리벡시티점",
+      "address": "경기도 의정부시 금오동 449-1",
+      "roadAddress": "경기도 의정부시 금오로 72, 1층 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-10-17"
+    },
+    {
+      "name": "수메르",
+      "address": "경기도 의정부시 신곡동 769-9",
+      "roadAddress": "경기도 의정부시 부용로185번길 34 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-10-25"
+    },
+    {
+      "name": "지에스(GS)25 의정부장암점",
+      "address": "경기도 의정부시 신곡동 725-2 장암1차현대아파트",
+      "roadAddress": "경기도 의정부시 동일로 451-25, 상가동 101호 (신곡동, 장암1차현대아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2024-10-30"
+    },
+    {
+      "name": "씨유 용현산업단지점",
+      "address": "경기도 의정부시 용현동 524-4",
+      "roadAddress": "경기도 의정부시 산단로76번길 93, 1층 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-11-05"
+    },
+    {
+      "name": "씨유 호원드림점",
+      "address": "경기도 의정부시 호원동 360-13",
+      "roadAddress": "경기도 의정부시 호동로44번길 26 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-11-07"
+    },
+    {
+      "name": "지에스25 신곡파크프라임점",
+      "address": "경기도 의정부시 신곡동 산 65-3",
+      "roadAddress": "경기도 의정부시 동일로466번길 92, 상가동 1층 101,102호 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-11-14"
+    },
+    {
+      "name": "롯데슈퍼 송양2점",
+      "address": "경기도 의정부시 낙양동 755-1",
+      "roadAddress": "경기도 의정부시 송양로 33 (낙양동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-11-18"
+    },
+    {
+      "name": "씨유(CU) 의정부1동점",
+      "address": "경기도 의정부시 의정부동 370-7 효성팰리스",
+      "roadAddress": "경기도 의정부시 경의로118번길 16, 1동 101호 (의정부동, 효성팰리스)",
+      "status": "영업/정상",
+      "licenseDate": "2024-11-18"
+    },
+    {
+      "name": "GS25 의정대원점",
+      "address": "경기도 의정부시 가능동 77-3",
+      "roadAddress": "경기도 의정부시 가금로 68 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-12-02"
+    },
+    {
+      "name": "세븐일레븐 의정부드림점",
+      "address": "경기도 의정부시 신곡동 758-1 드림밸리아파트",
+      "roadAddress": "경기도 의정부시 장곡로596번길 16, 드림밸리아파트 1층 108,109호 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-12-10"
+    },
+    {
+      "name": "빅마트",
+      "address": "경기도 의정부시 의정부동 405-29",
+      "roadAddress": "경기도 의정부시 신흥로329번길 38 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-12-17"
+    },
+    {
+      "name": "씨유 호원한승점",
+      "address": "경기도 의정부시 호원동 309-27",
+      "roadAddress": "경기도 의정부시 전좌로156번길 50, 1층 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-12-26"
+    },
+    {
+      "name": "GS25 민락호반점",
+      "address": "경기도 의정부시 낙양동 760 6단지 호반베르디움",
+      "roadAddress": "경기도 의정부시 송양로 16, 611동 101층 (낙양동, 6단지 호반베르디움)",
+      "status": "영업/정상",
+      "licenseDate": "2025-01-10"
+    },
+    {
+      "name": "씨유 고산우미린점",
+      "address": "경기도 의정부시 산곡동 0",
+      "roadAddress": "경기도 의정부시 문화로 185, 1층 (산곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-01-17"
+    },
+    {
+      "name": "왕대박복권",
+      "address": "경기도 의정부시 장암동 20-9 장암골드프라자",
+      "roadAddress": "경기도 의정부시 회룡로 188, 장암골드프라자 101호 (장암동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-02-11"
+    },
+    {
+      "name": "세븐일레븐 신곡한일점",
+      "address": "경기도 의정부시 신곡동 720-7",
+      "roadAddress": "경기도 의정부시 신곡로 46-21, 1층 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-02-17"
+    },
+    {
+      "name": "씨유신곡본점",
+      "address": "경기도 의정부시 신곡동 566-40",
+      "roadAddress": "경기도 의정부시 시민로179번길 15, 102~3호 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-02-21"
+    },
+    {
+      "name": "지에스(GS)25의정부건영점",
+      "address": "경기도 의정부시 호원동 121 건영아파트 상가동",
+      "roadAddress": "경기도 의정부시 평화로168번길 10, 건영아파트 상가동 105~106호 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-02-21"
+    },
+    {
+      "name": "세븐일레븐 용현송산역점",
+      "address": "경기도 의정부시 용현동 33-6",
+      "roadAddress": "경기도 의정부시 충의로57번길 31, 1층 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-03-04"
+    },
+    {
+      "name": "경원철물, 건재",
+      "address": "경기도 의정부시 고산동 985-10",
+      "roadAddress": "경기도 의정부시 쌀광길 19, 401호 (고산동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-03-06"
+    },
+    {
+      "name": "지에스(GS)25 의정신도타운점",
+      "address": "경기도 의정부시 용현동 290-1 신도10차 파크힐타운",
+      "roadAddress": "경기도 의정부시 용현로 40, 신도10차 파크힐타운 상가동 101호 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-03-10"
+    },
+    {
+      "name": "씨유호원한주점",
+      "address": "경기도 의정부시 호원동 424 한주5차아파트",
+      "roadAddress": "경기도 의정부시 회룡로138번길 10, 한주5차아파트 상가동 102~103호 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-03-10"
+    },
+    {
+      "name": "주식회사 장보는집",
+      "address": "경기도 의정부시 민락동 843-2",
+      "roadAddress": "경기도 의정부시 오목로 217, 105호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-03-21"
+    },
+    {
+      "name": "지에스(GS)25 민락금강점",
+      "address": "경기도 의정부시 낙양동 709 의정부 민락 금강펜테리움아파트",
+      "roadAddress": "경기도 의정부시 용민로 263, 104호 (낙양동, 의정부 민락 금강펜테리움아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2025-03-25"
+    },
+    {
+      "name": "씨유 의정부중앙역점",
+      "address": "경기도 의정부시 의정부동 187-30",
+      "roadAddress": "경기도 의정부시 평화로568번길 27, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-04-01"
+    },
+    {
+      "name": "씨유 고산더샵",
+      "address": "경기도 의정부시 산곡동 760 더샵 리듬시티",
+      "roadAddress": "경기도 의정부시 서광로 54, 5호 (산곡동, 더샵 리듬시티)",
+      "status": "영업/정상",
+      "licenseDate": "2025-04-22"
+    },
+    {
+      "name": "지에스(GS)25 의정휴먼시아점",
+      "address": "경기도 의정부시 녹양동 401 휴먼시아",
+      "roadAddress": "경기도 의정부시 본원로 39, 상가동 104호 (녹양동, 휴먼시아)",
+      "status": "영업/정상",
+      "licenseDate": "2025-05-13"
+    },
+    {
+      "name": "지에스(GS)25의정은빛",
+      "address": "경기도 의정부시 호원동 226-1 31차 진산은빛마을",
+      "roadAddress": "경기도 의정부시 망월로45번길 38, 101,102호 (호원동, 31차 진산은빛마을)",
+      "status": "영업/정상",
+      "licenseDate": "2025-05-23"
+    },
+    {
+      "name": "정바구니",
+      "address": "경기도 의정부시 의정부동 378-1 의정부역 진산&월드메르디앙",
+      "roadAddress": "경기도 의정부시 경의로118번길 32, 1층 105호 (의정부동, 의정부역 진산&월드메르디앙)",
+      "status": "영업/정상",
+      "licenseDate": "2025-06-10"
+    },
+    {
+      "name": "지에스(GS)25의정장암IC점",
+      "address": "경기도 의정부시 장암동 175-3",
+      "roadAddress": "경기도 의정부시 동일로 141, 라동 (장암동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-06-17"
+    },
+    {
+      "name": "주식회사 지에스25의정보람",
+      "address": "경기도 의정부시 의정부동 22-9",
+      "roadAddress": "경기도 의정부시 태평로118번길 22 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-06-18"
+    },
+    {
+      "name": "지에스(GS)25 신한대점",
+      "address": "경기도 의정부시 호원동 119-40",
+      "roadAddress": "경기도 의정부시 망월로13번길 4, 1층 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-06-30"
+    },
+    {
+      "name": "지에스 더 프레시(의정부송산점)",
+      "address": "경기도 의정부시 민락동 733-2",
+      "roadAddress": "경기도 의정부시 용현로105번길 45, 1층 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-07-01"
+    },
+    {
+      "name": "지에스25 뉴의정능곡점",
+      "address": "경기도 의정부시 신곡동 485-5",
+      "roadAddress": "경기도 의정부시 능곡로26번길 35, 2층 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-07-01"
+    },
+    {
+      "name": "씽씽리퍼브마켓",
+      "address": "경기도 의정부시 녹양동 288",
+      "roadAddress": "경기도 의정부시 체육로135번길 19, 1층 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-07-01"
+    },
+    {
+      "name": "지에스25 가능플러스점",
+      "address": "경기도 의정부시 의정부동 230-63",
+      "roadAddress": "경기도 의정부시 태평로 193, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-07-07"
+    },
+    {
+      "name": "지에스더프레시 민락중앙점",
+      "address": "경기도 의정부시 민락동 804-6",
+      "roadAddress": "경기도 의정부시 천보로 44, 1층 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-07-22"
+    },
+    {
+      "name": "(주)우아한형제들 B마트 의정부점",
+      "address": "경기도 의정부시 신곡동 763-1",
+      "roadAddress": "경기도 의정부시 장곡로 620 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-07-28"
+    },
+    {
+      "name": "씨유금오더퍼스트",
+      "address": "경기도 의정부시 금오동 117-15",
+      "roadAddress": "경기도 의정부시 금오로 109 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-07-28"
+    },
+    {
+      "name": "지에스(GS)25 탑석역점",
+      "address": "경기도 의정부시 용현동 24",
+      "roadAddress": "경기도 의정부시 충의로 25 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-07-29"
+    },
+    {
+      "name": "다농마트",
+      "address": "경기도 의정부시 가능동 719-11",
+      "roadAddress": "경기도 의정부시 의정로 127 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-08-01"
+    },
+    {
+      "name": "지에스25의정부송산역점",
+      "address": "경기도 의정부시 용현동 9-1",
+      "roadAddress": "경기도 의정부시 충의로57번길 6, 1층 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-08-05"
+    },
+    {
+      "name": "세븐일레븐 의정부역푸르지오점",
+      "address": "경기도 의정부시 의정부동 756 의정부역 푸르지오 더 센트럴",
+      "roadAddress": "경기도 의정부시 경의로132번길 69 (의정부동, 의정부역 푸르지오 더 센트럴)",
+      "status": "영업/정상",
+      "licenseDate": "2025-08-18"
+    },
+    {
+      "name": "세븐일레븐 의정부시청광장점",
+      "address": "경기도 의정부시 의정부동 479-16",
+      "roadAddress": "경기도 의정부시 시민로19번길 32, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-09-05"
+    },
+    {
+      "name": "지에스(GS)25의정부가능로점",
+      "address": "경기도 의정부시 의정부동 406-27",
+      "roadAddress": "경기도 의정부시 가능로86번길 12, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-09-09"
+    },
+    {
+      "name": "뚝딱할매",
+      "address": "경기도 의정부시 민락동 847 호반베르디움1차",
+      "roadAddress": "경기도 의정부시 민락로 211, 125동 1층 110호 (민락동, 호반베르디움1차)",
+      "status": "영업/정상",
+      "licenseDate": "2025-09-09"
+    },
+    {
+      "name": "씨유 금오초교점",
+      "address": "경기도 의정부시 금오동 217-7",
+      "roadAddress": "경기도 의정부시 중금로 2, 1층 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-09-11"
+    },
+    {
+      "name": "지에스(GS)25 신곡으뜸점",
+      "address": "경기도 의정부시 신곡동 707-11",
+      "roadAddress": "경기도 의정부시 발곡로 5 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-09-16"
+    },
+    {
+      "name": "서용현할인마트",
+      "address": "경기도 의정부시 용현동 235-8 용현프라자",
+      "roadAddress": "경기도 의정부시 오목로15번길 2, 용현프라자 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-09-25"
+    },
+    {
+      "name": "씨유 녹양휴먼시아점",
+      "address": "경기도 의정부시 녹양동 409 휴먼시아",
+      "roadAddress": "경기도 의정부시 체육로 278, 104동 1층 101,102,103호 (녹양동, 휴먼시아)",
+      "status": "영업/정상",
+      "licenseDate": "2025-10-10"
+    },
+    {
+      "name": "드림마트",
+      "address": "경기도 의정부시 녹양동 328",
+      "roadAddress": "경기도 의정부시 비우로 110, 1층 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-10-16"
+    },
+    {
+      "name": "씨유 힐스테이트탑석점",
+      "address": "경기도 의정부시 용현동 389-1",
+      "roadAddress": "경기도 의정부시 산단로 22, 가동 105호 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-10-17"
+    },
+    {
+      "name": "트와이스168",
+      "address": "경기도 의정부시 민락동 803-2",
+      "roadAddress": "경기도 의정부시 민락로 195, 중흥S클래스 D동 168호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-11"
+    },
+    {
+      "name": "씨유 민락제일풍경채점",
+      "address": "경기도 의정부시 민락동 803 민락2지구 제일풍경채 센텀-애비뉴모나코",
+      "roadAddress": "경기도 의정부시 오목로 196, 민락2지구 제일풍경채 센텀-애비뉴모나코 1층 11,12호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-18"
+    },
+    {
+      "name": "씨유 민락중흥클래스점",
+      "address": "경기도 의정부시 민락동 803-2",
+      "roadAddress": "경기도 의정부시 민락로 195, 1층 174호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-18"
+    },
+    {
+      "name": "GS25 민락중흥점",
+      "address": "경기도 의정부시 민락동 803-2",
+      "roadAddress": "경기도 의정부시 민락로 195, 1층 162호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-25"
+    },
+    {
+      "name": "주식회사 뉴다드림마트",
+      "address": "경기도 의정부시 녹양동 328",
+      "roadAddress": "경기도 의정부시 비우로 110, 1층 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-25"
+    },
+    {
+      "name": "GS25 민락폴리점",
+      "address": "경기도 의정부시 민락동 808-4",
+      "roadAddress": "경기도 의정부시 오목로225번길 147, 109호 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-30"
+    },
+    {
+      "name": "세븐일레븐 의정부탑빌딩점",
+      "address": "경기도 의정부시 의정부동 16-1 탑빌딩",
+      "roadAddress": "경기도 의정부시 호국로 1336, 탑빌딩 103호 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-29"
+    },
+    {
+      "name": "씨유 디베뉴스타점",
+      "address": "경기도 의정부시 의정부동 166-4",
+      "roadAddress": "경기도 의정부시 평화로 467, 1층 101.102호 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-07-06"
+    },
+    {
+      "name": "세븐일레븐 고산힐링점",
+      "address": "경기도 의정부시 고산동 0",
+      "roadAddress": "경기도 의정부시 서광로 201, 1층 (고산동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-07-10"
+    },
+    {
+      "name": "GS25 민락용암점",
+      "address": "경기도 의정부시 낙양동 747 용암마을13단지",
+      "roadAddress": "경기도 의정부시 용민로 429-39, 상가동 103호 (낙양동, 용암마을13단지)",
+      "status": "영업/정상",
+      "licenseDate": "2020-07-10"
+    },
+    {
+      "name": "GS25 의정부중앙역점",
+      "address": "경기도 의정부시 의정부동 214-84 남평프라자",
+      "roadAddress": "경기도 의정부시 호국로 1319, 남평프라자 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-07-14"
+    },
+    {
+      "name": "세븐일레븐 의정부벌말점",
+      "address": "경기도 의정부시 의정부동 404",
+      "roadAddress": "경기도 의정부시 가능로74번길 29, 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-07-15"
+    },
+    {
+      "name": "(주)글로벌미래",
+      "address": "경기도 의정부시 가능동 648-22",
+      "roadAddress": "경기도 의정부시 신흥로 357 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-07-17"
+    },
+    {
+      "name": "씨유 참사랑가능점",
+      "address": "경기도 의정부시 의정부동 401-3 한솔그랑빌",
+      "roadAddress": "경기도 의정부시 가능로74번길 2, 101호 (의정부동, 한솔그랑빌)",
+      "status": "영업/정상",
+      "licenseDate": "2020-07-21"
+    },
+    {
+      "name": "이마트24 고산센타점",
+      "address": "경기도 의정부시 산곡동 0",
+      "roadAddress": "경기도 의정부시 서광로 135, 1층 117호 (산곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-07-23"
+    },
+    {
+      "name": "GS25 고산로제비앙점",
+      "address": "경기도 의정부시 산곡동 290-7 대광로제비앙 더 퍼스트",
+      "roadAddress": "경기도 의정부시 서광로 169, 상가동 110.111호 (산곡동, 대광로제비앙 더 퍼스트)",
+      "status": "영업/정상",
+      "licenseDate": "2020-07-24"
+    },
+    {
+      "name": "이마트24 R의정부웰링턴점",
+      "address": "경기도 의정부시 용현동 276-2",
+      "roadAddress": "경기도 의정부시 용민로 64, 상가동 101,102호 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-08-14"
+    },
+    {
+      "name": "씨유 고산정음점",
+      "address": "경기도 의정부시 고산동 0 정음마을 고산2단지",
+      "roadAddress": "경기도 의정부시 정음로 15, 1층 (고산동, 정음마을 고산2단지)",
+      "status": "영업/정상",
+      "licenseDate": "2020-08-25"
+    },
+    {
+      "name": "씨유 녹양동본점",
+      "address": "경기도 의정부시 녹양동 388-1",
+      "roadAddress": "경기도 의정부시 진등로 10, 1층 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-01"
+    },
+    {
+      "name": "세븐일레븐 의정부추동공원점",
+      "address": "경기도 의정부시 신곡동 817 e편한세상 신곡 포레스타뷰",
+      "roadAddress": "경기도 의정부시 금신로 276, 지층 301~304호 (신곡동, e편한세상 신곡 포레스타뷰)",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-08"
+    },
+    {
+      "name": "후레쉬마트",
+      "address": "경기도 의정부시 산곡동 290-7 대광로제비앙 더 퍼스트",
+      "roadAddress": "경기도 의정부시 서광로 169, 상가동 (산곡동, 대광로제비앙 더 퍼스트)",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-22"
+    },
+    {
+      "name": "장보는집 고산점",
+      "address": "경기도 의정부시 산곡동 686-1 폴리프라자Ⅰ",
+      "roadAddress": "경기도 의정부시 세석로 20, 폴리프라자Ⅰ 1층 106호 (산곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-10-30"
+    },
+    {
+      "name": "지에스(GS)25 의정부민락점",
+      "address": "경기도 의정부시 민락동 573-2",
+      "roadAddress": "경기도 의정부시 승지로 29 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-11-05"
+    },
+    {
+      "name": "성모마켓",
+      "address": "경기도 의정부시 금오동 60-16",
+      "roadAddress": "경기도 의정부시 천보로 265, 다동 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-11-10"
+    },
+    {
+      "name": "씨유 호원가든2차점",
+      "address": "경기도 의정부시 호원동 322-5 호원가든2차아파트",
+      "roadAddress": "경기도 의정부시 호동로 70, 호원가든2차아파트 1층 101호 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-11-13"
+    },
+    {
+      "name": "이마트24 의정부제이점",
+      "address": "경기도 의정부시 의정부동 537 대화아트빌라",
+      "roadAddress": "경기도 의정부시 범골로107번길 35-11, 101,102,103호 (의정부동, 대화아트빌라)",
+      "status": "영업/정상",
+      "licenseDate": "2025-11-27"
+    },
+    {
+      "name": "지에스(GS)25 의정은빛점",
+      "address": "경기도 의정부시 호원동 226-1 31차 진산은빛마을",
+      "roadAddress": "경기도 의정부시 망월로45번길 38 (호원동, 31차 진산은빛마을)",
+      "status": "영업/정상",
+      "licenseDate": "2025-12-01"
+    },
+    {
+      "name": "이마트24의정부세무서점",
+      "address": "경기도 의정부시 가능동 832",
+      "roadAddress": "경기도 의정부시 의정로 86, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-12-08"
+    },
+    {
+      "name": "정수네정육마트",
+      "address": "경기도 의정부시 신곡동 356-2",
+      "roadAddress": "경기도 의정부시 동일로466번길 13 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-12-17"
+    },
+    {
+      "name": "주식회사 진로할인마트",
+      "address": "경기도 의정부시 호원동 460-6",
+      "roadAddress": "경기도 의정부시 평화로190번길 22 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-12-24"
+    },
+    {
+      "name": "씨유의정부해뜰점",
+      "address": "경기도 의정부시 금오동 471-2 해피타워, 해피플러스III",
+      "roadAddress": "경기도 의정부시 부용로95번길 18, 해피타워, 해피플러스III 1층 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2026-01-26"
+    },
+    {
+      "name": "주식회사 황금마트",
+      "address": "경기도 의정부시 가능동 677-2",
+      "roadAddress": "경기도 의정부시 의정로 159 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2026-01-27"
+    },
+    {
+      "name": "소도몰 의정부센트럴자이점",
+      "address": "경기도 의정부시 의정부동 724 의정부역센트럴자이&위브캐슬",
+      "roadAddress": "경기도 의정부시 경의로 130, B동 105호 (의정부동, 의정부역센트럴자이&위브캐슬)",
+      "status": "영업/정상",
+      "licenseDate": "2026-02-05"
+    },
+    {
+      "name": "씨유 의정부현대점",
+      "address": "경기도 의정부시 용현동 46 현대아파트",
+      "roadAddress": "경기도 의정부시 오목로 38, 현대아파트 1층 108호 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2026-02-05"
+    },
+    {
+      "name": "장보는집 의정부 민락점",
+      "address": "경기도 의정부시 민락동 843-2",
+      "roadAddress": "경기도 의정부시 오목로 217, 1층 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-10-22"
+    },
+    {
+      "name": "럭키마트",
+      "address": "경기도 의정부시 호원동 453",
+      "roadAddress": "경기도 의정부시 평화로244번길 8 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-28"
+    },
+    {
+      "name": "세븐일레븐 의정부백합공원점",
+      "address": "경기도 의정부시 가능동 650",
+      "roadAddress": "경기도 의정부시 가능로85번길 30, 1층 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-10-06"
+    },
+    {
+      "name": "세븐일레븐 의정부금오9단지점",
+      "address": "경기도 의정부시 신곡동 790 주공아파트",
+      "roadAddress": "경기도 의정부시 부용로 236, 상가동 204,205호 (신곡동, 주공아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2020-10-14"
+    },
+    {
+      "name": "롯데슈퍼 가능역점",
+      "address": "경기도 의정부시 의정부동 235-17 미림프라자",
+      "roadAddress": "경기도 의정부시 평화로 635, 미림프라자 1층 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-10-23"
+    },
+    {
+      "name": "GS25 고산더휴점",
+      "address": "경기도 의정부시 고산동 0 한신더휴고산NHF",
+      "roadAddress": "경기도 의정부시 입암로 13, 상가동 101호 (고산동, 한신더휴고산NHF)",
+      "status": "영업/정상",
+      "licenseDate": "2020-10-27"
+    },
+    {
+      "name": "(주)코리아세븐 의정부회룡점",
+      "address": "경기도 의정부시 호원동 343",
+      "roadAddress": "경기도 의정부시 백석로68번길 27 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-11-03"
+    },
+    {
+      "name": "GS25 의정녹양지점",
+      "address": "경기도 의정부시 녹양동 83-13 태경빌딩",
+      "roadAddress": "경기도 의정부시 비우로 67, 태경빌딩 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-11-09"
+    },
+    {
+      "name": "씨유 민락15단지점",
+      "address": "",
+      "roadAddress": "경기도 의정부시 용민로 442, 상가동 101호 (민락동, 민락센트럴)",
+      "status": "영업/정상",
+      "licenseDate": "2020-11-11"
+    },
+    {
+      "name": "이마트24 의정부하랑점",
+      "address": "경기도 의정부시 의정부동 129-20 포인원캐슬",
+      "roadAddress": "경기도 의정부시 시민로146번길 35, 포인원캐슬 1층 101호 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-11-19"
+    },
+    {
+      "name": "씨유 의정부금오신도점",
+      "address": "경기도 의정부시 금오동 406-25 금오유니시티",
+      "roadAddress": "경기도 의정부시 금신로 390, 금오유니시티 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-11-23"
+    },
+    {
+      "name": "21세기 마트",
+      "address": "경기도 의정부시 녹양동 373 녹양대림아파트",
+      "roadAddress": "경기도 의정부시 체육로 206-6, 녹양대림아파트 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-11-25"
+    },
+    {
+      "name": "이마트24 고산백봉점",
+      "address": "경기도 의정부시 고산동 0 백봉프라자",
+      "roadAddress": "경기도 의정부시 문충로 110, 백봉프라자 105,106호 (고산동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-04"
+    },
+    {
+      "name": "씨유 의정고산점",
+      "address": "경기도 의정부시 고산동 903 고산리슈빌포레",
+      "roadAddress": "경기도 의정부시 훈민로 13, 제상가동2동 1층 1,2호 ~3,4호 (고산동, 고산리슈빌포레)",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-10"
+    },
+    {
+      "name": "GS25 뉴의정부본점",
+      "address": "경기도 의정부시 의정부동 499-6 의정부역 코아루 퍼스트원",
+      "roadAddress": "경기도 의정부시 신흥로222번길 5-30, 의정부역 코아루 퍼스트원 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-14"
+    },
+    {
+      "name": "GS25 의정장암역점",
+      "address": "경기도 의정부시 장암동 162-21",
+      "roadAddress": "경기도 의정부시 동일로 124 (장암동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-17"
+    },
+    {
+      "name": "세븐일레븐 의정부드림점",
+      "address": "경기도 의정부시 신곡동 758-1 드림밸리아파트",
+      "roadAddress": "경기도 의정부시 장곡로596번길 16, 드림밸리아파트 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-29"
+    },
+    {
+      "name": "홈그린 마트",
+      "address": "경기도 의정부시 신곡동 756-6",
+      "roadAddress": "경기도 의정부시 추동로91번길 6-15 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-29"
+    },
+    {
+      "name": "세븐일레븐 의정부을지점",
+      "address": "경기도 의정부시 금오동 441-65 금오동 근린생활시설",
+      "roadAddress": "경기도 의정부시 동일로 732, 금오동 근린생활시설 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-29"
+    },
+    {
+      "name": "씨유 고산노블랜드점",
+      "address": "경기도 의정부시 고산동 0 의정부 고산 대방노블랜드 에듀파크 아파트",
+      "roadAddress": "경기도 의정부시 서광로 210, 상가동 (고산동, 의정부 고산 대방노블랜드 에듀파크 아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2021-01-04"
+    },
+    {
+      "name": "씨유 아이콘스타3차점",
+      "address": "경기도 의정부시 의정부동 98-2",
+      "roadAddress": "경기도 의정부시 태평로 18-2 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-01-07"
+    },
+    {
+      "name": "씨유 고산대방점",
+      "address": "경기도 의정부시 고산동 0 의정부 고산 대방노블랜드 에듀파크 아파트",
+      "roadAddress": "경기도 의정부시 서광로 210, 121동 2층 B214,215호 (고산동, 의정부 고산 대방노블랜드 에듀파크 아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2021-01-07"
+    },
+    {
+      "name": "킹콩L마트",
+      "address": "경기도 의정부시 가능동 70-8",
+      "roadAddress": "경기도 의정부시 가금로 53 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-01-22"
+    },
+    {
+      "name": "코레일유통",
+      "address": "경기도 의정부시 의정부동 168-54 의정부민자역사",
+      "roadAddress": "경기도 의정부시 평화로 525, 의정부민자역사 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-01-26"
+    },
+    {
+      "name": "씨유 민락네이션점",
+      "address": "경기도 의정부시 민락동 877 네이션877",
+      "roadAddress": "경기도 의정부시 새롬안길 7, 네이션877 1층 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-02-05"
+    },
+    {
+      "name": "GS25 경의교차로점",
+      "address": "경기도 의정부시 의정부동 369-7 삼화건물",
+      "roadAddress": "경기도 의정부시 평화로 449, 삼화건물 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-02-08"
+    },
+    {
+      "name": "세븐일레븐 자금동주민센터점",
+      "address": "경기도 의정부시 금오동 286-108",
+      "roadAddress": "경기도 의정부시 거북로 16 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-02-09"
+    },
+    {
+      "name": "씨유 용현세아점",
+      "address": "경기도 의정부시 용현동 393-14",
+      "roadAddress": "경기도 의정부시 시민로387번길 31 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-02-15"
+    },
+    {
+      "name": "GS25 의정오목로점",
+      "address": "경기도 의정부시 용현동 60-2 용현빌딩",
+      "roadAddress": "경기도 의정부시 오목로14번길 16, 용현빌딩 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-04"
+    },
+    {
+      "name": "가능맞이방 편의점",
+      "address": "경기도 의정부시 의정부동 205-10",
+      "roadAddress": "경기도 의정부시 평화로568번길 5-1 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-04"
+    },
+    {
+      "name": "회룡맞이방 편의점",
+      "address": "경기도 의정부시 호원동 50-5 회룡역",
+      "roadAddress": "경기도 의정부시 평화로 363, 회룡역 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-04"
+    },
+    {
+      "name": "녹양맞이방 편의점",
+      "address": "경기도 의정부시 녹양동 96-1 녹양역",
+      "roadAddress": "경기도 의정부시 평화로 757, 녹양역 (녹양동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-04"
+    },
+    {
+      "name": "이마트24 R의정부고산쌍용점",
+      "address": "경기도 의정부시 산곡동 0 쌍용더플래티넘고산엔에이치에프",
+      "roadAddress": "경기도 의정부시 서광로 186 (산곡동, 쌍용더플래티넘고산엔에이치에프)",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-05"
+    },
+    {
+      "name": "싱싱빅마켓",
+      "address": "경기도 의정부시 용현동 6",
+      "roadAddress": "경기도 의정부시 충의로57번길 4 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-08"
+    },
+    {
+      "name": "(주)우리식자재 마트",
+      "address": "경기도 의정부시 가능동 648-22",
+      "roadAddress": "경기도 의정부시 신흥로 357 (가능동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-22"
+    },
+    {
+      "name": "세븐일레븐 의정부블루밍점",
+      "address": "경기도 의정부시 금오동 120-25",
+      "roadAddress": "경기도 의정부시 금오로 91 (금오동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-02"
+    },
+    {
+      "name": "세븐일레븐 의정부용민행복점",
+      "address": "경기도 의정부시 민락동 702-14",
+      "roadAddress": "경기도 의정부시 용현로150번길 17 (민락동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-05"
+    },
+    {
+      "name": "씨유 의정부백석천",
+      "address": "경기도 의정부시 의정부동 602-11",
+      "roadAddress": "경기도 의정부시 호동로 13 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-05"
+    },
+    {
+      "name": "GS25 의정서해점",
+      "address": "경기도 의정부시 신곡동 353-43 서해아파트",
+      "roadAddress": "경기도 의정부시 동일로466번길 5, 서해아파트 (신곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-26"
+    },
+    {
+      "name": "싹쓰리 아이스크림할인점",
+      "address": "경기도 의정부시 호원동 455-5",
+      "roadAddress": "경기도 의정부시 평화로 220 (호원동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-13"
+    },
+    {
+      "name": "진로마트",
+      "address": "경기도 의정부시 의정부동 541-3",
+      "roadAddress": "경기도 의정부시 범골로 99 (의정부동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-15"
+    },
+    {
+      "name": "(주)온더마켓",
+      "address": "경기도 의정부시 고산동 985-13",
+      "roadAddress": "경기도 의정부시 쌀광길 9, 효원주차타워 1층, 2층 (고산동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-20"
+    },
+    {
+      "name": "비엔(BN)마트",
+      "address": "경기도 의정부시 신곡동 98 으뜸마을신명아파트",
+      "roadAddress": "경기도 의정부시 능곡로 70 (신곡동, 으뜸마을신명아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2019-12-26"
+    },
+    {
+      "name": "씨유 남양주양지점",
+      "address": "경기도 의정부시 용현동 78-3",
+      "roadAddress": "경기도 의정부시 송산로1161번길 20 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-01-26"
+    },
+    {
+      "name": "씨유 용현세아점",
+      "address": "경기도 의정부시 용현동 393-14",
+      "roadAddress": "경기도 의정부시 시민로387번길 31, 1층 (용현동)",
+      "status": "영업/정상",
+      "licenseDate": "2026-03-17"
+    }
+  ]
+}

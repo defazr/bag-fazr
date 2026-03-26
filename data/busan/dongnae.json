@@ -1,0 +1,1690 @@
+{
+  "region": "부산광역시",
+  "regionSlug": "busan",
+  "district": "동래구",
+  "districtSlug": "dongnae",
+  "updatedAt": "2026-03-26",
+  "totalCount": 240,
+  "stores": [
+    {
+      "name": "럭키슈퍼",
+      "address": "부산광역시 동래구 명장동 503-148",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "민우상회",
+      "address": "부산광역시 동래구 명장동 516-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명장상회",
+      "address": "부산광역시 동래구 명장동 515-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서원탑훼미리",
+      "address": "부산광역시 동래구 안락동 733-1    2  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제동상회",
+      "address": "부산광역시 동래구 안락동 419-34   9  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "부산광역시 동래구 안락동 427-1    11 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동남슈퍼",
+      "address": "부산광역시 동래구 안락동 437-35   13 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "부산광역시 동래구 안락동 440-20   14 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일상회",
+      "address": "부산광역시 동래구 안락동 492-5    18 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대풍슈퍼",
+      "address": "부산광역시 동래구 안락동 436-9    23 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강원슈퍼",
+      "address": "부산광역시 동래구 안락동 429-44   12 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동화하이마트",
+      "address": "부산광역시 동래구 안락동 431-51 19통",
+      "roadAddress": "부산광역시 동래구 명안로9번길 86  (안락동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동진슈퍼",
+      "address": "부산광역시 동래구 안락동 432-10   19 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안락슈퍼",
+      "address": "부산광역시 동래구 안락동 946-10   9  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가할인마트",
+      "address": "부산광역시 동래구 안락동 425-54   25 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스파슈퍼",
+      "address": "부산광역시 동래구 안락동 443-57   26 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "밀양상회",
+      "address": "부산광역시 동래구 안락동 803-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대철물",
+      "address": "부산광역시 동래구 사직동 74-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신동아슈퍼",
+      "address": "부산광역시 동래구 사직동 93-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한라슈퍼",
+      "address": "부산광역시 동래구 사직동 96-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유정슈퍼",
+      "address": "부산광역시 동래구 사직동 103-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양슈퍼",
+      "address": "부산광역시 동래구 사직동 103-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍년슈퍼",
+      "address": "부산광역시 동래구 사직동 47-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장댁",
+      "address": "부산광역시 동래구 사직동 20-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대문구",
+      "address": "부산광역시 동래구 사직동 43-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "민수슈퍼",
+      "address": "부산광역시 동래구 명장동 22-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "기역슈퍼",
+      "address": "부산광역시 동래구 명장동 506-179",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가마트",
+      "address": "부산광역시 동래구 명장동 512-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동영철물",
+      "address": "부산광역시 동래구 안락동 419-31   9  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성심슈퍼",
+      "address": "부산광역시 동래구 안락동 447-1    17 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가경원슈퍼",
+      "address": "부산광역시 동래구 안락동 441-59   14 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대근슈퍼",
+      "address": "부산광역시 동래구 안락동 633-76   22 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고성식육점",
+      "address": "부산광역시 동래구 안락동 443-1    26 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가울산슈퍼",
+      "address": "부산광역시 동래구 안락동 425-81   25 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엠스토아",
+      "address": "부산광역시 동래구 안락동 721-4    2  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "부산광역시 동래구 안락동 437-9    13 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청록슈퍼",
+      "address": "부산광역시 동래구 안락동 633-44   22 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "예천상회",
+      "address": "부산광역시 동래구 사직동 53-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼익슈퍼",
+      "address": "부산광역시 동래구 사직동 16-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양슈퍼",
+      "address": "부산광역시 동래구 사직동 17-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼양슈퍼",
+      "address": "부산광역시 동래구 사직동 49-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "88슈퍼",
+      "address": "부산광역시 동래구 사직동 620-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무궁화슈퍼",
+      "address": "부산광역시 동래구 사직동 42-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훈이마트",
+      "address": "부산광역시 동래구 사직동 89-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북상회",
+      "address": "부산광역시 동래구 복천동 16-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수정슈퍼",
+      "address": "부산광역시 동래구 칠산동 147-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진주상회",
+      "address": "부산광역시 동래구 명장동 산 78-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "부산광역시 동래구 안락동 554-1    19 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청도슈퍼",
+      "address": "부산광역시 동래구 안락동 441-9    14 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영덕상회",
+      "address": "부산광역시 동래구 안락동 425-7    25 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평화상회",
+      "address": "부산광역시 동래구 안락동 515-3    18 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "피오레슈퍼",
+      "address": "부산광역시 동래구 사직동 662-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-20"
+    },
+    {
+      "name": "사직그린마트",
+      "address": "부산광역시 동래구 사직동 49-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-31"
+    },
+    {
+      "name": "사직슈퍼",
+      "address": "부산광역시 동래구 사직동 70-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "부산광역시 동래구 사직동 48-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서원유통",
+      "address": "부산광역시 동래구 사직동 28-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "축협슈퍼",
+      "address": "부산광역시 동래구 사직동 42-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "로얄쌀슈퍼",
+      "address": "부산광역시 동래구 사직동 634-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공사직슈퍼",
+      "address": "부산광역시 동래구 사직동 87-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문경슈퍼",
+      "address": "부산광역시 동래구 사직동 981-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼정글로리마트",
+      "address": "부산광역시 동래구 사직동 981-100",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한신마트",
+      "address": "부산광역시 동래구 사직동 597",
+      "roadAddress": "부산광역시 동래구 쇠미로81번길 33  (사직동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유진슈퍼",
+      "address": "부산광역시 동래구 칠산동 35-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금성할인마트",
+      "address": "부산광역시 동래구 온천동 1404-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "궁전슈퍼",
+      "address": "부산광역시 동래구 명장동 497-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경동글로리",
+      "address": "부산광역시 동래구 명장동 326-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대명편의마트",
+      "address": "부산광역시 동래구 명장동 524-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문화슈퍼",
+      "address": "부산광역시 동래구 수안동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "24시마트",
+      "address": "부산광역시 동래구 사직동 17-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데슈퍼",
+      "address": "부산광역시 동래구 사직동 31-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동명슈퍼",
+      "address": "부산광역시 동래구 사직동 596-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "야구장슈퍼",
+      "address": "부산광역시 동래구 사직동 92-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정명슈퍼",
+      "address": "부산광역시 동래구 사직동 89-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인영상회",
+      "address": "부산광역시 동래구 칠산동 191-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "부산광역시 동래구 칠산동 94-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배집",
+      "address": "부산광역시 동래구 명장동 29-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼보할인마트",
+      "address": "부산광역시 동래구 명장동 290-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한신슈퍼",
+      "address": "부산광역시 동래구 명장동 506-152",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "부산광역시 동래구 명장동 497-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명진슈퍼",
+      "address": "부산광역시 동래구 명장동 507-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에이할인마트",
+      "address": "부산광역시 동래구 안락동 632-40   22 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "온양상회",
+      "address": "부산광역시 동래구 명륜동 297-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25동래 명륜점",
+      "address": "부산광역시 동래구 명륜동 637-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부국상회",
+      "address": "부산광역시 동래구 명륜동 681-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25동래중앙점",
+      "address": "부산광역시 동래구 명륜동 440-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백조슈퍼",
+      "address": "부산광역시 동래구 명륜동 512-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "똬와슈퍼",
+      "address": "부산광역시 동래구 명륜동 224-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미남슈퍼",
+      "address": "부산광역시 동래구 온천동 1467-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성암마트",
+      "address": "부산광역시 동래구 사직동 53-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "달북슈퍼",
+      "address": "부산광역시 동래구 사직동 581-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백송슈퍼",
+      "address": "부산광역시 동래구 사직동 주공상가-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "라라슈퍼",
+      "address": "부산광역시 동래구 사직동 637-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양슈퍼",
+      "address": "부산광역시 동래구 사직동 27-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "짱마트",
+      "address": "부산광역시 동래구 사직동 124-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성원할인마트",
+      "address": "부산광역시 동래구 명장동 29-66",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금곡슈퍼",
+      "address": "부산광역시 동래구 명장동 29-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월드서점",
+      "address": "부산광역시 동래구 명장동 260-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데슈퍼",
+      "address": "부산광역시 동래구 사직동 58-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "국제슈퍼",
+      "address": "부산광역시 동래구 사직동 58-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한나슈퍼",
+      "address": "부산광역시 동래구 사직동 348-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "목화슈퍼",
+      "address": "부산광역시 동래구 사직동 358-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용인슈퍼",
+      "address": "부산광역시 동래구 명장동 566-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "부산광역시 동래구 안락동 733-1    2  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가화목슈퍼",
+      "address": "부산광역시 동래구 안락동 945-9    9  통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "포항상회",
+      "address": "부산광역시 동래구 안락동 426-56   10 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창념쌀집",
+      "address": "부산광역시 동래구 안락동 440-70   14 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을금고",
+      "address": "부산광역시 동래구 안락동 446-12   16 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배가게",
+      "address": "부산광역시 동래구 안락동 521 18 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대양코사마트",
+      "address": "부산광역시 동래구 안락동 435-3    24 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제주상회",
+      "address": "부산광역시 동래구 안락동 434-14   24 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충북상회",
+      "address": "부산광역시 동래구 안락동 436-6    24 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한성슈퍼",
+      "address": "부산광역시 동래구 안락동 632-1    21 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서원유통탑마트",
+      "address": "부산광역시 동래구 안락동 428-6    11 통",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배가게",
+      "address": "부산광역시 동래구 안락동 802-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명성상회",
+      "address": "부산광역시 동래구 명륜동 222-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "부산광역시 동래구 명륜동 186-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보람상회",
+      "address": "부산광역시 동래구 명륜동 334-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "밀양상회",
+      "address": "부산광역시 동래구 명륜동 385-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진주식당",
+      "address": "부산광역시 동래구 명륜동 478",
+      "roadAddress": "부산광역시 동래구 명륜로112번가길 35  (명륜동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아림슈퍼",
+      "address": "부산광역시 동래구 명륜동 467-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동명슈퍼",
+      "address": "부산광역시 동래구 명륜동 671-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한솔슈퍼",
+      "address": "부산광역시 동래구 명륜동 681-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "부산광역시 동래구 명륜동 643-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼흥건재",
+      "address": "부산광역시 동래구 명륜동 567",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "근대화슈퍼",
+      "address": "부산광역시 동래구 명륜동 562-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "당산연쇄점",
+      "address": "부산광역시 동래구 명륜동 546",
+      "roadAddress": "부산광역시 동래구 충렬대로181번길 47-5  (명륜동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새대동슈퍼",
+      "address": "부산광역시 동래구 명륜동 532-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조일슈퍼",
+      "address": "부산광역시 동래구 명륜동 529-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "부산광역시 동래구 명륜동 553-164",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동해슈퍼",
+      "address": "부산광역시 동래구 명륜동 533-79",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "울산상회",
+      "address": "부산광역시 동래구 명륜동 398-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경주슈퍼",
+      "address": "부산광역시 동래구 사직동 83-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥슈퍼",
+      "address": "부산광역시 동래구 사직동 28-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "근대화슈퍼",
+      "address": "부산광역시 동래구 사직동 91-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창고(악세사리점)",
+      "address": "부산광역시 동래구 사직동 27-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "로얄슈퍼",
+      "address": "부산광역시 동래구 사직동 632-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해운슈퍼",
+      "address": "부산광역시 동래구 사직동 601-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유원슈퍼",
+      "address": "부산광역시 동래구 사직동 632-94",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시영사직슈퍼",
+      "address": "부산광역시 동래구 사직동 612",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가나슈퍼",
+      "address": "부산광역시 동래구 사직동 632-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼보참기름",
+      "address": "부산광역시 동래구 사직동 44-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새시영슈퍼",
+      "address": "부산광역시 동래구 사직동 11-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공우리슈퍼",
+      "address": "부산광역시 동래구 사직동 37-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 62-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상점",
+      "address": "부산광역시 동래구 명장동 145-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 146-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 383-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 143-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 140-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상점",
+      "address": "부산광역시 동래구 명장동 145-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 61-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 466-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 610-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 산 62-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 417-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 63-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 143-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 153-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 138-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세탁소",
+      "address": "부산광역시 동래구 명장동 61-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 150-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상점",
+      "address": "부산광역시 동래구 명장동 145-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 611-1",
+      "roadAddress": "부산광역시 동래구 안락로101번길 35  (명장동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쌀상회",
+      "address": "부산광역시 동래구 명장동 148-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 461-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쌀상회",
+      "address": "부산광역시 동래구 명장동 140-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 140-103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 153-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상점",
+      "address": "부산광역시 동래구 명장동 132-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 147-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상점",
+      "address": "부산광역시 동래구 명장동 135-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 487-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쌀상회",
+      "address": "부산광역시 동래구 명장동 131-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쌀상회",
+      "address": "부산광역시 동래구 명장동 69-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 378-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 144-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 610-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼마켙",
+      "address": "부산광역시 동래구 명장동 73",
+      "roadAddress": "부산광역시 동래구 명장로63번길 24-10  (명장동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가할인마트",
+      "address": "부산광역시 동래구 안락동 450-16   1통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "글로리할인마트",
+      "address": "부산광역시 동래구 안락동 449-22   2  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안락상회",
+      "address": "부산광역시 동래구 안락동 452-18   4  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "의창슈퍼",
+      "address": "부산광역시 동래구 안락동 459-35   6  통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강남슈퍼",
+      "address": "부산광역시 동래구 안락동 1225-1    7  통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "부산광역시 동래구 안락동 463-31   8  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수정슈퍼",
+      "address": "부산광역시 동래구 안락동 152-5    14 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진주쌀상회",
+      "address": "부산광역시 동래구 안락동 153-1    15 통9  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "부산광역시 동래구 안락동 466-23   16 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "희망상회",
+      "address": "부산광역시 동래구 안락동 1227-1    16 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충렬슈퍼",
+      "address": "부산광역시 동래구 안락동 1229-2    17 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경화슈퍼",
+      "address": "부산광역시 동래구 안락동 221-8    19 통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오륙도슈퍼",
+      "address": "부산광역시 동래구 안락동 630-30   20 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성창상회",
+      "address": "부산광역시 동래구 안락동 603-3    23 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안락철물",
+      "address": "부산광역시 동래구 안락동 603-66   23 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한우슈퍼",
+      "address": "부산광역시 동래구 안락동 465-1    27 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영상문구",
+      "address": "부산광역시 동래구 안락동 468-1    28 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성림슈퍼",
+      "address": "부산광역시 동래구 안락동 471-1    28 통6  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼미슈퍼",
+      "address": "부산광역시 동래구 안락동 464-37   31 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "군복지회관",
+      "address": "부산광역시 동래구 안락동 456-1    31 통5  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부산슈퍼",
+      "address": "부산광역시 동래구 명륜동 122-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼렛",
+      "address": "부산광역시 동래구 명륜동 121-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경주상회",
+      "address": "부산광역시 동래구 명륜동 99-99",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장미상회",
+      "address": "부산광역시 동래구 명륜동 100-151",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "교동슈퍼",
+      "address": "부산광역시 동래구 명륜동 101-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키민이슈퍼",
+      "address": "부산광역시 동래구 명륜동 15-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "부산광역시 동래구 명륜동 12-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서원할인마트",
+      "address": "부산광역시 동래구 명륜동 16-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미화당명륜",
+      "address": "부산광역시 동래구 명륜동 7-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은하슈퍼",
+      "address": "부산광역시 동래구 명륜동 97-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "부산광역시 동래구 명륜동 9-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가슈퍼",
+      "address": "부산광역시 동래구 명륜동 32-92",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한신슈퍼",
+      "address": "부산광역시 동래구 명륜동 693-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명륜슈퍼",
+      "address": "부산광역시 동래구 명륜동 65-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명진슈퍼",
+      "address": "부산광역시 동래구 명륜동 174-51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "합천상회",
+      "address": "부산광역시 동래구 명륜동 676-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명륜슈퍼",
+      "address": "부산광역시 동래구 명륜동 175-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데슈퍼",
+      "address": "부산광역시 동래구 명륜동 177-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "로얄슈퍼",
+      "address": "부산광역시 동래구 명륜동 700-85",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스파슈퍼",
+      "address": "부산광역시 동래구 명륜동 700-91",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세인연쇄점",
+      "address": "부산광역시 동래구 명륜동 702-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가",
+      "address": "부산광역시 동래구 명륜동 721",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은성슈퍼",
+      "address": "부산광역시 동래구 명륜동 168-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경은슈퍼",
+      "address": "부산광역시 동래구 복천동 446-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김해슈퍼",
+      "address": "부산광역시 동래구 칠산동 1-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "김천슈퍼",
+      "address": "부산광역시 동래구 칠산동 73-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성관리",
+      "address": "부산광역시 동래구 복천동 500-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세화유통",
+      "address": "부산광역시 동래구 온천동 707",
+      "roadAddress": "부산광역시 동래구 충렬대로107번길 54  (온천동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대호APT",
+      "address": "부산광역시 동래구 명장동 29-106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연희슈퍼",
+      "address": "부산광역시 동래구 명장동 305-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양APT",
+      "address": "부산광역시 동래구 명장동 300-55",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동심상회",
+      "address": "부산광역시 동래구 명장동 326-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아림슈퍼",
+      "address": "부산광역시 동래구 명장동 497-76",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "협진APT",
+      "address": "부산광역시 동래구 명장동 497-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창성슈퍼",
+      "address": "부산광역시 동래구 명장동 산 65-47",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가슈퍼",
+      "address": "부산광역시 동래구 명장동 491-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세원슈퍼",
+      "address": "부산광역시 동래구 명장동 497-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데슈퍼",
+      "address": "부산광역시 동래구 명장동 503-59",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영신슈퍼",
+      "address": "부산광역시 동래구 명장동 506-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "부산광역시 동래구 명장동 508-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "등남슈퍼",
+      "address": "부산광역시 동래구 명장동 518-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한남슈퍼",
+      "address": "부산광역시 동래구 명장동 282-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    }
+  ]
+}

@@ -1,0 +1,6387 @@
+{
+  "region": "경기도",
+  "regionSlug": "gyeonggi",
+  "district": "파주시",
+  "districtSlug": "paju",
+  "updatedAt": "2026-03-26",
+  "totalCount": 911,
+  "stores": [
+    {
+      "name": "주식회사 스프링(SPRING)",
+      "address": "경기도 파주시 와동동 1384 801호",
+      "roadAddress": "경기도 파주시 금바위로 42, 801호 (와동동)",
+      "status": "영업/정상",
+      "licenseDate": "2026-01-06"
+    },
+    {
+      "name": "뜨란채할인마트",
+      "address": "경기도 파주시 금촌동 972번지 주공1단지 주상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미래슈퍼",
+      "address": "경기도 파주시 금촌동 986-5 미라클프라자 109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "AMPM편의점(로데오)",
+      "address": "경기도 파주시 금촌동 988-4 월드프라자 1층 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트(금릉점)",
+      "address": "경기도 파주시 금촌동 988-8 금촌크리닉센터 115",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25(금릉점)",
+      "address": "경기도 파주시 금촌동 989-1 금촌프라자 1층 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오렌지25금촌2호점",
+      "address": "경기도 파주시 금촌동 989-5 굿닥터스빌딩 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홈플러스 익스프레스 금촌점(신우체국)",
+      "address": "경기도 파주시 금촌동 989-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신금촌종합철물",
+      "address": "경기도 파주시 금촌동 989-8 104-1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "썬마트(주공6단지외환은행)",
+      "address": "경기도 파주시 금촌동 989-9 파프테논프라자 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공할인마트(4단지)",
+      "address": "경기도 파주시 금촌동 992 후곡마을 뜨란채분산상가 106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장미할인마트(주공7단지)",
+      "address": "경기도 파주시 금촌동 금촌택지개발지구 2 블럭주상가 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행복한마트",
+      "address": "경기도 파주시 금촌동 992-105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오렌지마트(3단지)",
+      "address": "경기도 파주시 금촌동 주공3단지상가 103~4호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "늘푸른마트",
+      "address": "경기도 파주시 금촌동 주공5단지 분산상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘림마트",
+      "address": "경기도 파주시 금촌동 주공5단지 주상가 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍림그린마트",
+      "address": "경기도 파주시 금촌동 택지개발지구 아이원아파트 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리할인마트(주공6단지)",
+      "address": "경기도 파주시 금촌동 택지개발지구금촌6단지상가102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사마트주공점",
+      "address": "경기도 파주시 금촌동 택지지구내5단지 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "18시편의점",
+      "address": "경기도 파주시 맥금동 722-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신선슈퍼",
+      "address": "경기도 파주시 문산읍 문산리 37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산호아파트",
+      "address": "경기도 파주시 문산읍 당동리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지포스편의점",
+      "address": "경기도 파주시 문산읍 당동리 176-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "힐마트(현대2차)",
+      "address": "경기도 파주시 문산읍 당동리 215외 25필지 파주힐스테이트2차 단지내상가 103~104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "AMPM편의점(문산점)",
+      "address": "경기도 파주시 문산읍 당동리 당동첨단산업단지지원시설용지 2-4-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청자주방",
+      "address": "경기도 파주시 문산읍 10-93 호수상가 101동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-06-23"
+    },
+    {
+      "name": "대흥유통(동문그린시티)",
+      "address": "경기도 파주시 조리읍 대원리 216-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-12"
+    },
+    {
+      "name": "GS25문산당동점",
+      "address": "경기도 파주시 문산읍 당동리 930 6블럭 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-26"
+    },
+    {
+      "name": "그린마트",
+      "address": "경기도 파주시 조리읍 대원리 218 동문상가 1층124호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-20"
+    },
+    {
+      "name": "굿마트(당동점)",
+      "address": "경기도 파주시 문산읍 당동리 914",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-01"
+    },
+    {
+      "name": "한국유통(동문점)",
+      "address": "경기도 파주시 조리읍 대원리 221-8 그린시티동문(아) 상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-07"
+    },
+    {
+      "name": "진로마트",
+      "address": "경기도 파주시 문발동 31-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-07"
+    },
+    {
+      "name": "미니스톰(파주용미점)",
+      "address": "경기도 파주시 광탄면 용미리 157",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-09"
+    },
+    {
+      "name": "미니스톱(파주문산점)",
+      "address": "경기도 파주시 문산읍 문산리 10-47 우리들빌딩1층 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-10"
+    },
+    {
+      "name": "코사마트(금모래2호점)",
+      "address": "경기도 파주시 와동동 205 동문2차단지 내 지층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-10"
+    },
+    {
+      "name": "마을상회",
+      "address": "경기도 파주시 금촌동 71-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-11"
+    },
+    {
+      "name": "미니스톱(문산역점)",
+      "address": "경기도 파주시 문산읍 문산리 19-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-11"
+    },
+    {
+      "name": "(주)고매푸드 감사교육원점",
+      "address": "경기도 파주시 광탄면 기산리 산 139-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-16"
+    },
+    {
+      "name": "e편한마트",
+      "address": "경기도 파주시 문산읍 당동리 873 주공아파트단지 내 상가 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-25"
+    },
+    {
+      "name": "동문홈마트",
+      "address": "경기도 파주시 와동동 205 운정2차동문아파트제상가동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-28"
+    },
+    {
+      "name": "팜스스토어(문산역점)",
+      "address": "경기도 파주시 문산읍 문산리 17-345 1층1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-07"
+    },
+    {
+      "name": "농부마트",
+      "address": "경기도 파주시 월롱면 덕은리 19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-07"
+    },
+    {
+      "name": "대원푸드",
+      "address": "경기도 파주시 상지석동 546-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-09"
+    },
+    {
+      "name": "홈플러스(주) (파주운정점)",
+      "address": "경기도 파주시 와동동 F6-1-10블럭외 1필지 운정메디컬프라자 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-09"
+    },
+    {
+      "name": "술이홀슈퍼(개성병원점)",
+      "address": "경기도 파주시 교하동 593-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-10"
+    },
+    {
+      "name": "크린",
+      "address": "경기도 파주시 금촌동 776-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-14"
+    },
+    {
+      "name": "홈플러스(주)파주문산점",
+      "address": "경기도 파주시 문산읍 당동리 문산첨단산업단지(당동지구) 지원 1-1-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "e-편한마트",
+      "address": "경기도 파주시 문산읍 당동리 주공상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공할인마트",
+      "address": "경기도 파주시 문산읍 당동리 휴먼시아3단지 상가-103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청자주방",
+      "address": "경기도 파주시 문산읍 10-93 호수상가 101동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "경기도 파주시 문산읍 문산리 호수아파트 53번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팝스토어(국민은행)",
+      "address": "경기도 파주시 문산읍 문산리 40399",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해피마트",
+      "address": "경기도 파주시 문산읍 문산리 134-7 신원APT상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "휴먼빌마트",
+      "address": "경기도 파주시 문산읍 문산리 17-32 일신건영휴먼빌아파트단지상가 201",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트(경기북점)",
+      "address": "경기도 파주시 문산읍 문산리 17-366",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐(문산점)",
+      "address": "경기도 파주시 문산읍 문산리 17-38 104-2호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)장보고",
+      "address": "경기도 파주시 문산읍 문산리 40209",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "북파주농협 하나로마트",
+      "address": "경기도 파주시 문산읍 문산리 40242",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐(문산본점)",
+      "address": "경기도 파주시 문산읍 문산리 15373",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유선상회(중앙문구)",
+      "address": "경기도 파주시 문산읍 문산리 61-78",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장안그린마트",
+      "address": "경기도 파주시 문산읍 문산리 25294",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장안마트",
+      "address": "경기도 파주시 문산읍 문산리 69-4 동일빌딩 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "썬24시(로타리)",
+      "address": "경기도 파주시 문산읍 선유리 666-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공마트(선유리)",
+      "address": "경기도 파주시 문산읍 선유리 418 주공상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "SM선유점",
+      "address": "경기도 파주시 문산읍 선유리 430-64",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은혜문구",
+      "address": "경기도 파주시 문산읍 선유리 423-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "ING편의점(선유리)",
+      "address": "경기도 파주시 문산읍 선유리 260-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "자유슈퍼",
+      "address": "경기도 파주시 문산읍 선유리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선유그린마트",
+      "address": "경기도 파주시 문산읍 선유리 1358번지 상가 102~104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙상회(칠정말)",
+      "address": "경기도 파주시 문산읍 선유리 209",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홈플러스(주)(금촌점)",
+      "address": "경기도 파주시 금촌동 989-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-11"
+    },
+    {
+      "name": "광탄city",
+      "address": "경기도 파주시 광탄면 신산리 212",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-21"
+    },
+    {
+      "name": "홍원연수원매점",
+      "address": "경기도 파주시 조리읍 봉일천리 64-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-28"
+    },
+    {
+      "name": "컬투패밀리(파주금촌거북점)",
+      "address": "경기도 파주시 금촌동 947-2 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-29"
+    },
+    {
+      "name": "미니스톱(파주교하점)",
+      "address": "경기도 파주시 교하동 538-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-29"
+    },
+    {
+      "name": "명신상회",
+      "address": "경기도 파주시 광탄면 신산리 227-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-30"
+    },
+    {
+      "name": "세븐일레븐(문산선유점)",
+      "address": "경기도 파주시 문산읍 선유리 1363-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-01"
+    },
+    {
+      "name": "GS25당동스타점",
+      "address": "경기도 파주시 문산읍 당동리 916-4 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-06"
+    },
+    {
+      "name": "한국유통(주공4단지)",
+      "address": "경기도 파주시 금촌동 992 후곡마을뜨란채분산상가 105호,106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-11"
+    },
+    {
+      "name": "중국전통식품(구세무서옆)",
+      "address": "경기도 파주시 금촌동 311-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-11"
+    },
+    {
+      "name": "플러스마켓",
+      "address": "경기도 파주시 문산읍 선유리 950-11 제1동 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-15"
+    },
+    {
+      "name": "대원유통",
+      "address": "경기도 파주시 동패동 66",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-19"
+    },
+    {
+      "name": "샘물할인마트(의료원)",
+      "address": "경기도 파주시 금촌동 791-12 본건물입방향우측점포",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-27"
+    },
+    {
+      "name": "썬24시편의점",
+      "address": "경기도 파주시 문산읍 선유리 433-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-28"
+    },
+    {
+      "name": "도화상사온룡주유소",
+      "address": "경기도 파주시 야동동 622",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-03"
+    },
+    {
+      "name": "하늘청과",
+      "address": "경기도 파주시 아동동 328-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-03"
+    },
+    {
+      "name": "(주)이마트파주점",
+      "address": "경기도 파주시 당하동 195-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-04"
+    },
+    {
+      "name": "골드슈퍼",
+      "address": "경기도 파주시 탄현면 낙하리 6-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-11"
+    },
+    {
+      "name": "삼부할인마트 정육점(해솔5단지)",
+      "address": "경기도 파주시 목동동 해솔마을5단지A12블럭삼부르네상스단지내상가1층101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-11"
+    },
+    {
+      "name": "동문그린마트(동문1차)",
+      "address": "경기도 파주시 와동동 240 동문아파트 제강가동 107호,108호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-11"
+    },
+    {
+      "name": "GS25 금촌사랑점",
+      "address": "경기도 파주시 금촌동 933-14 1층전부",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-12"
+    },
+    {
+      "name": "푸른무지개",
+      "address": "경기도 파주시 문산읍 선유리 420",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트(선유점)",
+      "address": "경기도 파주시 문산읍 선유리 904-2 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사마트(문산점)",
+      "address": "경기도 파주시 문산읍 선유리 947-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연지편의점",
+      "address": "경기도 파주시 문산읍 선유리 955-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿모닝마트(두산위브)",
+      "address": "경기도 파주시 문산읍 선유리 산 70-1 파주두산위브상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "율곡상회",
+      "address": "경기도 파주시 법원읍 가야리 37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25(율곡점)",
+      "address": "경기도 파주시 법원읍 가야리 20852",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼(가야랜드)",
+      "address": "경기도 파주시 법원읍 가야리 327-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대흥상회",
+      "address": "경기도 파주시 법원읍 금곡리 364",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "재환상회",
+      "address": "경기도 파주시 법원읍 대능리 81",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐(법원점)",
+      "address": "경기도 파주시 법원읍 대능리 86-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "천현농협조합 하나로마트",
+      "address": "경기도 파주시 법원읍 법원리 434-2 가동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일킹마트",
+      "address": "경기도 파주시 법원읍 대능리 245-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성제상회",
+      "address": "경기도 파주시 법원읍 대능리 245-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "설원상회",
+      "address": "경기도 파주시 법원읍 대능리 94-102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이",
+      "address": "경기도 파주시 법원읍 대능리 92-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부부식품(동네슈퍼)",
+      "address": "경기도 파주시 법원읍 대능리 92-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트(대능점)",
+      "address": "경기도 파주시 법원읍 대능리 81-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25(파주법원점)",
+      "address": "경기도 파주시 법원읍 대능리 31686",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "생활마트",
+      "address": "경기도 파주시 법원읍 대능리 88-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트(파주법원점)",
+      "address": "경기도 파주시 법원읍 대능리 92-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국유통법원점",
+      "address": "경기도 파주시 법원읍 대능리 32568",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지영상회",
+      "address": "경기도 파주시 법원읍 법원리 424-47",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대마트",
+      "address": "경기도 파주시 법원읍 법원리 423-8호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트(법원읍점)",
+      "address": "경기도 파주시 법원읍 법원리 444-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경기철물",
+      "address": "경기도 파주시 법원읍 법원리 447-52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행복할인마트",
+      "address": "경기도 파주시 법원읍 법원리 524-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동일할인유통(봉일초건너)",
+      "address": "경기도 파주시 조리읍 봉일천리 183-31 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-13"
+    },
+    {
+      "name": "한살림고양파주소비자생협교하매장",
+      "address": "경기도 파주시 동패동 1696-2 3124~3125호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-16"
+    },
+    {
+      "name": "국군복지단벽제지원본부(연풍점)",
+      "address": "경기도 파주시 파주읍 연풍리 (고양시 덕양구 현천동 산19번지)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-17"
+    },
+    {
+      "name": "오렌지마트(교하점)",
+      "address": "경기도 파주시 문발동 602-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-17"
+    },
+    {
+      "name": "K할인마트",
+      "address": "경기도 파주시 교하동 (고양일산서구 구산동 1133)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-18"
+    },
+    {
+      "name": "미니스톱파주마장",
+      "address": "경기도 파주시 광탄면 마장리 413-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-23"
+    },
+    {
+      "name": "동문한아름마트(동문6블럭)",
+      "address": "경기도 파주시 동패동 1687 숲속길마을6단지주상가108호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-24"
+    },
+    {
+      "name": "스마일편의점(검산초등)",
+      "address": "경기도 파주시 검산동 296-7외 1필지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-31"
+    },
+    {
+      "name": "ministore(못난이유원지)",
+      "address": "경기도 파주시 탄현면 법흥리 1652",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-02"
+    },
+    {
+      "name": "오렌지마트(동양브로미)",
+      "address": "경기도 파주시 금릉동 196-3 외 1필지 동양브로미아파트 상가1동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-14"
+    },
+    {
+      "name": "싱싱마켓(태운프라자)",
+      "address": "경기도 파주시 와동동 운정택지지구에프6-16태운프라자104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-21"
+    },
+    {
+      "name": "미니편의점",
+      "address": "경기도 파주시 파평면 덕천리 243-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-22"
+    },
+    {
+      "name": "파주성모병원(구내매점)",
+      "address": "경기도 파주시 탄현면 갈현리 290 파주성모병원 B1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-24"
+    },
+    {
+      "name": "두배로마트(소방서옆)",
+      "address": "경기도 파주시 다율동 987-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-01"
+    },
+    {
+      "name": "훼미리마트파주교육청점",
+      "address": "경기도 파주시 금촌동 786-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-01"
+    },
+    {
+      "name": "오렌지편의점(인삼사우나)",
+      "address": "경기도 파주시 탄현면 갈현리 838-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-01"
+    },
+    {
+      "name": "(주)어린농부딸기가좋아헤이리점",
+      "address": "경기도 파주시 탄현면 법흥리 1652",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-01"
+    },
+    {
+      "name": "GS25 LG이노텍본점(산업단지내)",
+      "address": "경기도 파주시 문산읍 내포리 월롱첨단산업단지6-2-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-01"
+    },
+    {
+      "name": "C마트편의점(씨그네트)",
+      "address": "경기도 파주시 탄현면 법흥리 478",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-01"
+    },
+    {
+      "name": "홈플러스(주)(운정2호점)",
+      "address": "경기도 파주시 교하동 운정택지사업지구 근린생활 지상1층 101, 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-07"
+    },
+    {
+      "name": "나들가게",
+      "address": "경기도 파주시 파평면 덕천리 111-14 111-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-15"
+    },
+    {
+      "name": "웅담상회",
+      "address": "경기도 파주시 법원읍 웅담리 347-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일상회(웅담리)",
+      "address": "경기도 파주시 법원읍 웅담리 354",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "버들슈퍼",
+      "address": "경기도 파주시 법원읍 웅담리 388-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세나상회",
+      "address": "경기도 파주시 아동동 185",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영창슈퍼",
+      "address": "경기도 파주시 아동동 275-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿프랜드새말점",
+      "address": "경기도 파주시 아동동 298-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼원에너지",
+      "address": "경기도 파주시 아동동 322-19 , 322-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대마트(신한실크벨리)",
+      "address": "경기도 파주시 아동동 325-3, 325-20 104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장안슈퍼",
+      "address": "경기도 파주시 아동동 326-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "샘터마트",
+      "address": "경기도 파주시 아동동 326-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "포시즌(구금촌슈퍼)",
+      "address": "경기도 파주시 아동동 334-30 1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충성클럽(2기갑여단)",
+      "address": "경기도 파주시 아동동 38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초원슈퍼",
+      "address": "경기도 파주시 아동동 399-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔팔상회",
+      "address": "경기도 파주시 아동동 46-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "천일슈퍼",
+      "address": "경기도 파주시 아동동 22647",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "K할인마트(아동점)",
+      "address": "경기도 파주시 아동동 33512",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "경기도 파주시 야동동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사계절상회",
+      "address": "경기도 파주시 야동동 131",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태호유통",
+      "address": "경기도 파주시 야동동 131-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한라마트(팜스)",
+      "address": "경기도 파주시 야동동 169-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명성슈퍼",
+      "address": "경기도 파주시 야동동 182-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은주네",
+      "address": "경기도 파주시 야동동 242-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린25시편의점(문산종고)",
+      "address": "경기도 파주시 야동동 257-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다빈슈퍼(제일고은행나무집)",
+      "address": "경기도 파주시 야동동 277",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무궁화슈퍼(새말)",
+      "address": "경기도 파주시 야동동 294-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "야동상회",
+      "address": "경기도 파주시 야동동 345-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대방할인마트(대방1차)",
+      "address": "경기도 파주시 야동동 587",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은봉주유소편의점",
+      "address": "경기도 파주시 야동동 622",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용상미니슈퍼",
+      "address": "경기도 파주시 월롱면 덕은리 251-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용월상회(월롱초교)",
+      "address": "경기도 파주시 월롱면 덕은리 337-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아리랑편의점",
+      "address": "경기도 파주시 문산읍 선유리 416-2 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-19"
+    },
+    {
+      "name": "GS25금촌로타리점",
+      "address": "경기도 파주시 금촌동 938-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-19"
+    },
+    {
+      "name": "미니스톱 파주LCD점",
+      "address": "경기도 파주시 월롱면 덕은리 1287",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-27"
+    },
+    {
+      "name": "훼미리마트 파주LCD6호점",
+      "address": "경기도 파주시 월롱면 덕은리 509-3 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-02"
+    },
+    {
+      "name": "훼미리마트 파주LCD7호점",
+      "address": "경기도 파주시 월롱면 덕은리 1038",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-02"
+    },
+    {
+      "name": "두배로마트(금릉점)",
+      "address": "경기도 파주시 금릉동 437-7 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-02"
+    },
+    {
+      "name": "편의마트",
+      "address": "경기도 파주시 월롱면 덕은리 816-4 제1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-03"
+    },
+    {
+      "name": "싱싱할인마트(휴먼시아6단지)",
+      "address": "경기도 파주시 동패동 운정택지개발지구내 A18-1블럭단지내상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-03"
+    },
+    {
+      "name": "주공할인마트(휴먼시아1단지)",
+      "address": "경기도 파주시 파주읍 파주리 139-3 파주파주단지내상가 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-10"
+    },
+    {
+      "name": "세븐일레븐 파주이노텍점",
+      "address": "경기도 파주시 문산읍 내포리 월롱일반산업단지지원6-2-11블럭",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-12"
+    },
+    {
+      "name": "세븐일레븐 운정휴튼점",
+      "address": "경기도 파주시 와동동 교하신도시A9블럭남양휴튼아파트단지내상사 1층 115호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-12"
+    },
+    {
+      "name": "한빛할인마트(주공8단지)",
+      "address": "경기도 파주시 야당동 A28블럭 한빛마을8단지내상가 101,102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-18"
+    },
+    {
+      "name": "미니스톱(파주야당점)",
+      "address": "경기도 파주시 야당동 288 7,8 호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-23"
+    },
+    {
+      "name": "미림슈퍼",
+      "address": "경기도 파주시 조리읍 봉일천리 237 237-2  미림아파트근린상가 층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-23"
+    },
+    {
+      "name": "세븐일레븐 파주삽다리점(사거리)",
+      "address": "경기도 파주시 동패동 291-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-23"
+    },
+    {
+      "name": "훼미리마트 대능삼거리점",
+      "address": "경기도 파주시 법원읍 대능리 228-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-23"
+    },
+    {
+      "name": "중앙통상",
+      "address": "경기도 파주시 파주읍 봉서리 826-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-23"
+    },
+    {
+      "name": "광탄 편의점",
+      "address": "경기도 파주시 광탄면 신산리 188-118",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-24"
+    },
+    {
+      "name": "(주)이마트 파주운정점",
+      "address": "경기도 파주시 동패동 파주운정지구F2-5블럭",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-24"
+    },
+    {
+      "name": "코사마트 책향기점(15단지)",
+      "address": "경기도 파주시 동패동 1708 교하상록데시앙제상가동 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-29"
+    },
+    {
+      "name": "삼거리상회(엘지로사거리)",
+      "address": "경기도 파주시 월롱면 덕은리 442",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보광훼미리마트 LG로점",
+      "address": "경기도 파주시 월롱면 덕은리 1015",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정다운슈퍼(용산골)",
+      "address": "경기도 파주시 월롱면 덕은리 224-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미소래편의점(덕은점)",
+      "address": "경기도 파주시 월롱면 덕은리 338-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부자마트",
+      "address": "경기도 파주시 월롱면 덕은리 477",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고인돌마트",
+      "address": "경기도 파주시 월롱면 덕은리 509-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐데이편의점",
+      "address": "경기도 파주시 월롱면 덕은리 653",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LCD북문마트",
+      "address": "경기도 파주시 월롱면 덕은리 663-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LCD편의점",
+      "address": "경기도 파주시 월롱면 덕은리 파주 LCD 단지이주자택지지원 A-109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장안슈퍼",
+      "address": "경기도 파주시 월롱면 영태리 129-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "경기도 파주시 월롱면 영태리 775-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대림슈퍼",
+      "address": "경기도 파주시 월롱면 영태리 123-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼표상회",
+      "address": "경기도 파주시 월롱면 영태리 589-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신기상회",
+      "address": "경기도 파주시 월롱면 영태리 388-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "후문상회",
+      "address": "경기도 파주시 월롱면 영태리 327  6/2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿모닝마트(파주여상)",
+      "address": "경기도 파주시 월롱면 영태리 520-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "승명유통",
+      "address": "경기도 파주시 월롱면 영태리 581-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "파주할인마트",
+      "address": "경기도 파주시 월롱면 위전리 321-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월롱농협",
+      "address": "경기도 파주시 월롱면 위전리 423-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월롱24시편의점",
+      "address": "경기도 파주시 월롱면 위전리 430-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에이스마트",
+      "address": "경기도 파주시 파평면 덕천리 289-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하모니마트(적성점)",
+      "address": "경기도 파주시 적성면 구읍리 586-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "예스마트(구삼미쇼핑)",
+      "address": "경기도 파주시 적성면 마지리 38-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진흥마트",
+      "address": "경기도 파주시 적성면 마지리 45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "번창마트",
+      "address": "경기도 파주시 적성면 마지리 16834",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25(적성스타점)",
+      "address": "경기도 파주시 적성면 마지리 46-6 1층우측코너상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "적성마트",
+      "address": "경기도 파주시 적성면 마지리 18323",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "웨이팅 당동점",
+      "address": "경기도 파주시 문산읍 방촌로 1729(SM프리지빌딩102호)",
+      "roadAddress": "경기도 파주시 문산읍 방촌로 1729",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-05"
+    },
+    {
+      "name": "두리편의점",
+      "address": "경기도 파주시 월롱면 능산리 661 LG프라자1층 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-06"
+    },
+    {
+      "name": "GS25문산당동점",
+      "address": "경기도 파주시 문산읍 당동리",
+      "roadAddress": "경기도 파주시 문산읍 당동1로 11, 11(상가동102호)동",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-06"
+    },
+    {
+      "name": "농산물마트",
+      "address": "경기도 파주시 야당동",
+      "roadAddress": "경기도 파주시 와석순환로 67 (야당동, 야당동,운정지구택지개발사업지구(내)C-61층)",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-07"
+    },
+    {
+      "name": "밀레니엄휴게소",
+      "address": "경기도 파주시 문산읍 마정리 1325-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-09"
+    },
+    {
+      "name": "GS25당동스타",
+      "address": "경기도 파주시 문산읍 당동1로 25-18  101",
+      "roadAddress": "경기도 파주시 문산읍 당동1로 25-18",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-13"
+    },
+    {
+      "name": "GS25운정점",
+      "address": "경기도 파주시 동패동 파주시와석순환로133(동패동,1층102호)",
+      "roadAddress": "경기도 파주시 와석순환로 133 (동패동, 동패동,1층102호)",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-22"
+    },
+    {
+      "name": "세븐일레븐 파주운정칸타빌점",
+      "address": "경기도 파주시 야당동 한빛마을캐슬앤칸타빌아파트단지내상가117호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-11-28"
+    },
+    {
+      "name": "대박365슈퍼",
+      "address": "경기도 파주시 파주읍",
+      "roadAddress": "경기도 파주시 파주읍 혜음로 1676",
+      "status": "영업/정상",
+      "licenseDate": "2012-12-06"
+    },
+    {
+      "name": "대박365슈퍼",
+      "address": "",
+      "roadAddress": "경기도 파주시 광탄면 혜음로 1676",
+      "status": "영업/정상",
+      "licenseDate": "2012-12-06"
+    },
+    {
+      "name": "GS25 파주으뜸",
+      "address": "경기도 파주시 금촌동",
+      "roadAddress": "경기도 파주시 후곡로 3 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-12-11"
+    },
+    {
+      "name": "GS슈퍼 파주야당점",
+      "address": "경기도 파주시 야당동 991  한빛마을5단지캐스앤칸타빌 제532가동 111호~116호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-12-11"
+    },
+    {
+      "name": "플러스마트교하점",
+      "address": "",
+      "roadAddress": "경기도 파주시 숲속노을로 275 (문발동, 진원빌딩)",
+      "status": "영업/정상",
+      "licenseDate": "2012-12-21"
+    },
+    {
+      "name": "(주)이마트 파주점",
+      "address": "",
+      "roadAddress": "경기도 파주시 당하길 10 (당하동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-12-26"
+    },
+    {
+      "name": "(주)코리아세븐 파주운정해솔마을점",
+      "address": "경기도 파주시 와동동 해솔마을4단지 벽산우남연리지 상가 -101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-12-28"
+    },
+    {
+      "name": "청미원할인마트",
+      "address": "",
+      "roadAddress": "경기도 파주시 운정로 31 (상지석동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-02"
+    },
+    {
+      "name": "두배로마트 대원점",
+      "address": "경기도 파주시 조리읍 대원리 275-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-04"
+    },
+    {
+      "name": "두배로마트 대원점",
+      "address": "경기도 파주시 조리읍 대원리 275-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-07"
+    },
+    {
+      "name": "CU문발산업단지점",
+      "address": "경기도 파주시 신촌동 101호,102호",
+      "roadAddress": "경기도 파주시 지목로 10 (신촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-08"
+    },
+    {
+      "name": "GS25 새꽃마을",
+      "address": "경기도 파주시 금촌동 상가 104",
+      "roadAddress": "경기도 파주시 새꽃로 지하 35, 104호 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-08"
+    },
+    {
+      "name": "파주연천축협 하나로마트",
+      "address": "경기도 파주시 금촌동 본점- 파주시 문화로 90",
+      "roadAddress": "경기도 파주시 평화로 110 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-08"
+    },
+    {
+      "name": "주식회사 진로유통",
+      "address": "경기도 파주시 문산읍 당동리 899-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-09"
+    },
+    {
+      "name": "깔끔이슈퍼",
+      "address": "경기도 파주시 적성면 식현리 152-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대상회(어유지리)",
+      "address": "경기도 파주시 적성면 어유지리 72-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인화낚시슈퍼(어유지리)",
+      "address": "경기도 파주시 적성면 어유지리 276-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울상회(어유지리)",
+      "address": "경기도 파주시 적성면 어유지리 72",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홈마트",
+      "address": "경기도 파주시 조리읍 뇌조리 416-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25(파주대명점)",
+      "address": "경기도 파주시 조리읍 뇌조리 416-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뇌조슈퍼",
+      "address": "경기도 파주시 조리읍 뇌조리 460-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "능안슈퍼(미호빌라)",
+      "address": "경기도 파주시 조리읍 능안리 211-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개미슈퍼(능안리)",
+      "address": "경기도 파주시 조리읍 능안리 248-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "능안마켓(능안초교)",
+      "address": "경기도 파주시 조리읍 능안리 15738",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국유통(동문그린점)",
+      "address": "경기도 파주시 조리읍 대원리 216-1,2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "경기도 파주시 조리읍 대원리 218",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동문그린마트",
+      "address": "경기도 파주시 조리읍 대원리 218",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수편의점 24시",
+      "address": "경기도 파주시 조리읍 대원리 642-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "경기도 파주시 조리읍 대원리 645-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수편의점(구대원슈퍼)",
+      "address": "경기도 파주시 조리읍 대원리 670",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을상회(대원리)",
+      "address": "경기도 파주시 조리읍 대원리 710-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "죽원상회",
+      "address": "경기도 파주시 조리읍 대원리 723",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한라그린마트",
+      "address": "경기도 파주시 조리읍 대원리 992-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백운마트(등원리)",
+      "address": "경기도 파주시 조리읍 등원리 201-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미암슈퍼",
+      "address": "경기도 파주시 조리읍 등원리 252",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "관사슈퍼",
+      "address": "경기도 파주시 조리읍 등원리 40209",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주희상회",
+      "address": "경기도 파주시 조리읍 등원리 394-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "솔슈퍼",
+      "address": "경기도 파주시 조리읍 등원리 7-9 상가 1층 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "리민상회",
+      "address": "경기도 파주시 조리읍 봉일천리 117-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성호마트",
+      "address": "경기도 파주시 조리읍 봉일천리 125-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성호마트",
+      "address": "경기도 파주시 조리읍 봉일천리 125-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리농산물마트(지산중앞)",
+      "address": "경기도 파주시 와동동 교하신도시A10블럭 가람마을10단지 동양엠파트월드메르디앙",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-02"
+    },
+    {
+      "name": "스토리마트(경찰서옆)",
+      "address": "경기도 파주시 금릉동 쇠재로 128, 104",
+      "roadAddress": "경기도 파주시 쇠재로 128-104 (금능동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-07"
+    },
+    {
+      "name": "씨에스유통(주)운정점",
+      "address": "경기도 파주시 와동동 교하신도시 주차장2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-08"
+    },
+    {
+      "name": "프라임마트",
+      "address": "경기도 파주시 문산읍 사임당로 30(프라임마트)",
+      "roadAddress": "경기도 파주시 문산읍 사임당로 30",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-09"
+    },
+    {
+      "name": "만인의 마트",
+      "address": "경기도 파주시 탄현면 100-9 (웅지로)",
+      "roadAddress": "경기도 파주시 탄현면 웅지로 100-9",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-15"
+    },
+    {
+      "name": "(주)에스엠 적성점",
+      "address": "경기도 파주시 적성면 청송로 1051(.604-14)",
+      "roadAddress": "경기도 파주시 적성면 청송로 1051 (.604-14)",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-17"
+    },
+    {
+      "name": "(주)에스엠 팜스프링점",
+      "address": "경기도 파주시 아동동 190(시청로)",
+      "roadAddress": "경기도 파주시 시청로 190 (아동동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-17"
+    },
+    {
+      "name": "(주)에스엠 봉일천점",
+      "address": "경기도 파주시 조리읍 1026",
+      "roadAddress": "경기도 파주시 조리읍 고봉로 1026",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-17"
+    },
+    {
+      "name": "(주)에스엠 금촌동점(금촌점)",
+      "address": "경기도 파주시 금촌동 (후곡로 14)",
+      "roadAddress": "경기도 파주시 후곡로 14 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-17"
+    },
+    {
+      "name": "(주)에스엠 광탄점",
+      "address": "경기도 파주시 광탄면 (큰여울길 44)",
+      "roadAddress": "경기도 파주시 광탄면 큰여울길 44",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-17"
+    },
+    {
+      "name": "(주)에스엠 문산역점",
+      "address": "경기도 파주시 문산읍 문향로 21-1 (외2필지)",
+      "roadAddress": "경기도 파주시 문산읍 문향로 21-1",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-17"
+    },
+    {
+      "name": "(주)에스엠 문산점",
+      "address": "경기도 파주시 문산읍 문향로39번길 8 (외4필지)",
+      "roadAddress": "경기도 파주시 문산읍 문향로39번길 8",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-17"
+    },
+    {
+      "name": "(주)에스엠 통일동산점",
+      "address": "경기도 파주시 탄현면 사슬벌레로 73번길 51",
+      "roadAddress": "경기도 파주시 탄현면 사슴벌레로73번길 51",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-17"
+    },
+    {
+      "name": "(주)에스엠 파주점",
+      "address": "경기도 파주시 파주읍 우계로 17",
+      "roadAddress": "경기도 파주시 파주읍 우계로 17",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-17"
+    },
+    {
+      "name": "(주)에스엠 법원점",
+      "address": "경기도 파주시 법원읍 법원리 681-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-17"
+    },
+    {
+      "name": "GS25파주운정(벽산한라)",
+      "address": "경기도 파주시 와동동 벽산한라아파트 제2근린시설2동101호, 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-29"
+    },
+    {
+      "name": "세븐일레븐파주고점",
+      "address": "경기도 파주시 파주읍 연풍리 440-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-02"
+    },
+    {
+      "name": "미니스톱 파주봉일천점(미림슈퍼옆)",
+      "address": "경기도 파주시 조리읍 봉일천리 221-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-02"
+    },
+    {
+      "name": "GS25파주금승점(금승사거리)",
+      "address": "경기도 파주시 탄현면 1057",
+      "roadAddress": "경기도 파주시 탄현면 방촌로 1057",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-02"
+    },
+    {
+      "name": "금오전기, 철물(새마을금고옆)",
+      "address": "경기도 파주시 법원읍 대능리 92-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-02"
+    },
+    {
+      "name": "굿모닝마트(송촌토파즈슈퍼)",
+      "address": "경기도 파주시 조리읍 봉일천리 13-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양공구",
+      "address": "경기도 파주시 조리읍 봉일천리 138-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼(시내)",
+      "address": "경기도 파주시 조리읍 봉일천리 141-42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대한상회",
+      "address": "경기도 파주시 조리읍 봉일천리 154-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국유통봉일천점",
+      "address": "경기도 파주시 조리읍 봉일천리 155-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영상회",
+      "address": "경기도 파주시 조리읍 봉일천리 157-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "희영슈퍼",
+      "address": "경기도 파주시 조리읍 봉일천리 170-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무지개슈퍼",
+      "address": "경기도 파주시 조리읍 봉일천리 183-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트(봉일천점)",
+      "address": "경기도 파주시 조리읍 봉일천리 204-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉일상회",
+      "address": "경기도 파주시 조리읍 봉일천리 205-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대25시",
+      "address": "경기도 파주시 조리읍 봉일천리 168-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉일천마트",
+      "address": "경기도 파주시 조리읍 봉일천리 21016",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조리농협",
+      "address": "경기도 파주시 조리읍 봉일천리 210-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트(통일로점)",
+      "address": "경기도 파주시 조리읍 봉일천리 210-56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "윤창슈퍼",
+      "address": "경기도 파주시 조리읍 봉일천리 237-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나유통",
+      "address": "경기도 파주시 조리읍 봉일천리 237-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙할인마트(성호2차)",
+      "address": "경기도 파주시 조리읍 봉일천리 258-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "내산슈퍼",
+      "address": "경기도 파주시 조리읍 봉일천리 262",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국유통(통일로점)",
+      "address": "경기도 파주시 조리읍 봉일천리 262-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "경기도 파주시 조리읍 봉일천리 266",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양상회",
+      "address": "경기도 파주시 조리읍 봉일천리 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홍원매점",
+      "address": "경기도 파주시 조리읍 봉일천리 64-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송암상회",
+      "address": "경기도 파주시 조리읍 봉일천리 27546",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금망상회",
+      "address": "경기도 파주시 조리읍 봉일천리 79-130",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양상회",
+      "address": "경기도 파주시 조리읍 봉일천리 29403",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사마트(공릉점)",
+      "address": "경기도 파주시 조리읍 봉일천리 8-73",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스마일마트(오산리)",
+      "address": "경기도 파주시 조리읍 오산리 377-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "경기도 파주시 조리읍 동문그린시티상가 124호",
+      "roadAddress": "경기도 파주시 조리읍 대원로 56 (동문그린시티상가 124호)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-10"
+    },
+    {
+      "name": "한국유통",
+      "address": "경기도 파주시 문산읍",
+      "roadAddress": "경기도 파주시 문산읍 문산로40번길 49 ((2필지))",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-10"
+    },
+    {
+      "name": "훼미리마트 선유주공점",
+      "address": "경기도 파주시 문산읍",
+      "roadAddress": "경기도 파주시 문산읍 독서울1길 22 (문산선유주공아파트상가 102호)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-12"
+    },
+    {
+      "name": "희망마트(시장 안)",
+      "address": "경기도 파주시 금촌동",
+      "roadAddress": "경기도 파주시 금정로 53 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-12"
+    },
+    {
+      "name": "훼미리마트(파주선유점)",
+      "address": "경기도 파주시 문산읍 선유리 430-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-20"
+    },
+    {
+      "name": "훼미리마트(파주LG기숙사점)",
+      "address": "경기도 파주시 월롱면 덕은리 1250-103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-20"
+    },
+    {
+      "name": "하나슈퍼",
+      "address": "경기도 파주시 광탄면 용미리 756-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-20"
+    },
+    {
+      "name": "(주)다우유통",
+      "address": "",
+      "roadAddress": "경기도 파주시 조리읍 소곡로 6",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-20"
+    },
+    {
+      "name": "씨유(금촌로타리점)",
+      "address": "",
+      "roadAddress": "경기도 파주시 동산길 62 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-20"
+    },
+    {
+      "name": "GS25금촌로타리점",
+      "address": "경기도 파주시 금촌동",
+      "roadAddress": "경기도 파주시 동산8길 25 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "씨유 파주 심학산점",
+      "address": "경기도 파주시 동패동",
+      "roadAddress": "경기도 파주시 교하로 629 (동패동, 동패동,1,2호)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "씨유 파주두일초교점",
+      "address": "경기도 파주시 동패동",
+      "roadAddress": "경기도 파주시 책향기로 239 (동패동, 동팽동, 103,104호)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "씨유 교하센터프라자점",
+      "address": "경기도 파주시 동패동",
+      "roadAddress": "경기도 파주시 청석로 272, 108동 (동패동, 동패동, 센터프라자)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "씨유 월롱초교점",
+      "address": "경기도 파주시 월롱면",
+      "roadAddress": "경기도 파주시 월롱면 월롱초교길 45-60",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "씨유 출판문화점",
+      "address": "경기도 파주시 문발동",
+      "roadAddress": "경기도 파주시 문발로 141 (문발동, 뮤즈빌딩 101호)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "씨유 이채실크빌점",
+      "address": "경기도 파주시 문발동",
+      "roadAddress": "경기도 파주시 회동길 77-3 (문발동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "씨유 파주이채점",
+      "address": "경기도 파주시 문발동",
+      "roadAddress": "경기도 파주시 문발로 233 (문발동, 제은하관동제1층제1호)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "씨유 문산선유점",
+      "address": "경기도 파주시 문산읍",
+      "roadAddress": "경기도 파주시 문산읍 봉미로 32 (1층)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "씨유 파주교하점",
+      "address": "경기도 파주시 동패동 3012 2통교하일번가 104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "씨유 파주LCD2호점",
+      "address": "경기도 파주시 월롱면",
+      "roadAddress": "경기도 파주시 월롱면 휴암로 187",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "LF슈퍼마켓",
+      "address": "경기도 파주시 월롱면 영태리 581-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "씨유 운정행복점(야당보건소앞)",
+      "address": "경기도 파주시 상지석동 991-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "씨유 파주탄현점(농협앞)",
+      "address": "경기도 파주시 탄현면",
+      "roadAddress": "경기도 파주시 탄현면 방촌로 674 (1층상가전체)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "우승상회",
+      "address": "경기도 파주시 조리읍 장곡리 181",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장곡마켓",
+      "address": "경기도 파주시 조리읍 장곡리 202",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협하나로클럽",
+      "address": "경기도 파주시 조리읍 장곡리 463-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장곡슈퍼",
+      "address": "경기도 파주시 조리읍 장곡리 536",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "필승마트",
+      "address": "경기도 파주시 조리읍 장곡리 598-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "K할인마트",
+      "address": "경기도 파주시 조리읍 장곡리 598-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월드마트(하니랜드)",
+      "address": "경기도 파주시 조리읍 장곡리 36281",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "데이앤나이트24시편의점",
+      "address": "경기도 파주시 탄현면 갈현리 260-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대이안나이트편의점",
+      "address": "경기도 파주시 탄현면 갈현리 260-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "웰컴25시편의점",
+      "address": "경기도 파주시 탄현면 갈현리 284-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "탄현농협",
+      "address": "경기도 파주시 탄현면 축현리 492-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "탄현농협갈현지점",
+      "address": "경기도 파주시 탄현면 갈현리 288-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오렌지마트(인삼사우나)",
+      "address": "경기도 파주시 탄현면 갈현리 838-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북슈퍼",
+      "address": "경기도 파주시 탄현면 낙하리 297-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영대25시(금승사거리)",
+      "address": "경기도 파주시 탄현면 금승리 392-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘피엘편의점",
+      "address": "경기도 파주시 탄현면 금승리 488-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두배로마트낙하점",
+      "address": "경기도 파주시 탄현면 금승리 599-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "골드슈퍼",
+      "address": "경기도 파주시 탄현면 낙하리 6-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "갈릴리편의점",
+      "address": "경기도 파주시 탄현면 낙하리 35309",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미소래25시(문지리)",
+      "address": "경기도 파주시 탄현면 문지리 29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태호유통2호점(효자마트)",
+      "address": "경기도 파주시 탄현면 법흥리 1574-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수플러스마트",
+      "address": "경기도 파주시 탄현면 법흥리 1589 효자그린빌단지내상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱(파주성동점)",
+      "address": "경기도 파주시 탄현면 법흥리 1676-12번지 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한성할인마트",
+      "address": "경기도 파주시 탄현면 법흥리 1725-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굳프랜드(법흥리)",
+      "address": "경기도 파주시 탄현면 법흥리 1773-1 통일프라자 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "E.V마트",
+      "address": "경기도 파주시 탄현면 법흥리 1779",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "C 마트(씨그넥틱스)",
+      "address": "경기도 파주시 탄현면 법흥리 478",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 LG이노텍제일점",
+      "address": "경기도 파주시 문산읍 내포리 월롱산업단지2-1-7블럭로트101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-01"
+    },
+    {
+      "name": "GS25파주신산점",
+      "address": "경기도 파주시 광탄면 신산리 344",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-01"
+    },
+    {
+      "name": "대길편의점",
+      "address": "경기도 파주시 와동동 교하신도시NA-1명인빌딩 104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-02"
+    },
+    {
+      "name": "파주발랑점(미니스톱-발랑저수지앞)",
+      "address": "경기도 파주시 광탄면 발랑리 68-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-07"
+    },
+    {
+      "name": "코사마트(자원점)PX마을",
+      "address": "경기도 파주시 아동동 46-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-14"
+    },
+    {
+      "name": "훼미리마트 파주금릉역점",
+      "address": "경기도 파주시 금촌동 956-1 청원센트럴타워 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-14"
+    },
+    {
+      "name": "미니스톱 파주방축점",
+      "address": "경기도 파주시 광탄면 방축리 199-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-21"
+    },
+    {
+      "name": "국군복지단벽제지원본부(선유군마트)",
+      "address": "경기도 파주시 문산읍 선유리 1398",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-28"
+    },
+    {
+      "name": "주공마트(한울3단지내)",
+      "address": "경기도 파주시 교하동 교하신도시택지개발구역내단지상가A17블럭101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-28"
+    },
+    {
+      "name": "신안홈마트(신안2차)",
+      "address": "경기도 파주시 아동동 900 신안실크밸리2차상가동101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-04"
+    },
+    {
+      "name": "GS25금촌행복점",
+      "address": "경기도 파주시 아동동 275-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-05"
+    },
+    {
+      "name": "민들레편의점",
+      "address": "경기도 파주시 월롱면 위전리 173-2 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-06"
+    },
+    {
+      "name": "세븐일레븐 문산당동점",
+      "address": "경기도 파주시 문산읍 당동리 133-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-11"
+    },
+    {
+      "name": "굿모닝힐마트",
+      "address": "경기도 파주시 와동동 가람마을 11단지 상가동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-17"
+    },
+    {
+      "name": "K할인마트(장곡리)",
+      "address": "경기도 파주시 조리읍 장곡리 598-4 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-19"
+    },
+    {
+      "name": "고양파주두레생협 운정점(남양휴튼9단지)",
+      "address": "경기도 파주시 와동동 교하신도시 A9블럭 남양휴튼단지내 근린생활시설A-113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-26"
+    },
+    {
+      "name": "미니스톱(파주당동점)",
+      "address": "경기도 파주시 문산읍 당동리 914-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-28"
+    },
+    {
+      "name": "한국유통(산남교회옆)",
+      "address": "경기도 파주시 산남동 (산남로 124)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-04"
+    },
+    {
+      "name": "세븐일레븐 금촌장미점(장미2차)",
+      "address": "경기도 파주시 금촌동 231-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-14"
+    },
+    {
+      "name": "하모니24파주대능점",
+      "address": "경기도 파주시 법원읍 대능리 94-68",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-14"
+    },
+    {
+      "name": "GS25 LG이노텍3점",
+      "address": "경기도 파주시 문산읍 내포리 1636-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-16"
+    },
+    {
+      "name": "빅세븐편의점",
+      "address": "경기도 파주시 탄현면 법흥리 747-5 1층 3호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유승종합할인마트",
+      "address": "경기도 파주시 탄현면 법흥리 유승앙브와즈 단지내상가 203호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통일동산휴게소",
+      "address": "경기도 파주시 탄현면 성동리 279-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미영상회",
+      "address": "경기도 파주시 탄현면 성동리 17899",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오렌지편의점1호점",
+      "address": "경기도 파주시 탄현면 성동리 663-2 로드빌 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅세븐(모텔점)",
+      "address": "경기도 파주시 탄현면 성동리 663-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오렌지24시편의점(모텔점)",
+      "address": "경기도 파주시 탄현면 성동리 665-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "체리영마트",
+      "address": "경기도 파주시 탄현면 성동리 674-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성동리구판장(마을회관)",
+      "address": "경기도 파주시 탄현면 성동리 30072",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "웅지마트(웅지세무대)",
+      "address": "경기도 파주시 탄현면 축현리 152",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부곡마트",
+      "address": "경기도 파주시 파주읍 부곡리 418-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 (부곡점)",
+      "address": "경기도 파주시 파주읍 부곡리 429-3 지상 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세화상회",
+      "address": "경기도 파주시 파주읍 연풍리 293",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "솔솔마트",
+      "address": "경기도 파주시 파주읍 연풍리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "M25마트",
+      "address": "경기도 파주시 파주읍 연풍리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "WATING편의점",
+      "address": "경기도 파주시 파주읍 연풍리 285-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물상회",
+      "address": "경기도 파주시 파주읍 연풍리 293",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼미쇼핑",
+      "address": "경기도 파주시 파주읍 연풍리  295-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미진상회",
+      "address": "경기도 파주시 파주읍 연풍리 309",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "내마을연쇄점",
+      "address": "경기도 파주시 파주읍 연풍리  316-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)경동(블루마트연풍점)",
+      "address": "경기도 파주시 파주읍 연풍리 405-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트(연풍초교점)",
+      "address": "경기도 파주시 파주읍 연풍리 407-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모닝마트",
+      "address": "경기도 파주시 파주읍 연풍리  483 모닝스카이아파트단지내상가 03호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "25시ing편의점",
+      "address": "경기도 파주시 파주읍 연풍리 74-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신일식품",
+      "address": "경기도 파주시 파주읍 연풍리 294",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "경기도 파주시 파주읍 파주리 129-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "88마트",
+      "address": "경기도 파주시 파주읍 파주리 132번지 4반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 문산당동점(무척조은병원)",
+      "address": "경기도 파주시 문산읍 당동리 905 신축건물1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-02"
+    },
+    {
+      "name": "훼미리마트 적성터미널점",
+      "address": "경기도 파주시 적성면 마지리 62-3 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-06"
+    },
+    {
+      "name": "서원마트",
+      "address": "경기도 파주시 금촌동 서원마을분산상가 103호",
+      "roadAddress": "경기도 파주시 쇠재로 30 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-09"
+    },
+    {
+      "name": "롯데쇼핑(주)롯데슈퍼파주금촌점",
+      "address": "경기도 파주시 금촌동",
+      "roadAddress": "경기도 파주시 로데오로 20 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-09"
+    },
+    {
+      "name": "(주)제이웨이푸드",
+      "address": "경기도 파주시 야당동 교하신도시 ND-8번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-13"
+    },
+    {
+      "name": "우남싱싱마트",
+      "address": "경기도 파주시 동패동 1711",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-19"
+    },
+    {
+      "name": "코리아세븐 파주광탄영장점",
+      "address": "경기도 파주시 광탄면 창만리 보광로 662",
+      "roadAddress": "경기도 파주시 광탄면 보광로 662",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-20"
+    },
+    {
+      "name": "대방마트",
+      "address": "경기도 파주시 야동동 590 대방아파트상가동 101호 2동 상가-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-20"
+    },
+    {
+      "name": "미니스톱(파주향기)점",
+      "address": "경기도 파주시 문발동 610-6 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-26"
+    },
+    {
+      "name": "GS25금촌병원점",
+      "address": "경기도 파주시 금촌동",
+      "roadAddress": "경기도 파주시 중앙로 213 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-28"
+    },
+    {
+      "name": "GS25파주제일",
+      "address": "경기도 파주시 탄현면",
+      "roadAddress": "경기도 파주시 탄현면 약산로 59 (1층)",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-28"
+    },
+    {
+      "name": "모닝마트",
+      "address": "경기도 파주시 파주읍",
+      "roadAddress": "경기도 파주시 파주읍 술이홀로 409-5 ((동광모닝스카이아파트상가동 1층 103호))",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-10"
+    },
+    {
+      "name": "엑스마트",
+      "address": "경기도 파주시 송촌동",
+      "roadAddress": "경기도 파주시 소라지로 182 (송촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-10"
+    },
+    {
+      "name": "하마슈퍼",
+      "address": "경기도 파주시 적성면 자장리 148",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-10"
+    },
+    {
+      "name": "GS한빛센트럴",
+      "address": "경기도 파주시 야당동 교하신도시에이15블럭 한빛마을1단지 한라비발디 센트럴파크",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-10"
+    },
+    {
+      "name": "싱싱홈마트",
+      "address": "경기도 파주시 금촌동 태운빌딩 105,106,107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-10"
+    },
+    {
+      "name": "한국 미니스톱 주식회사 파주운정점",
+      "address": "경기도 파주시 와동동 교하신도시에이7블럭 해솔마을 1단지 두산위브 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-23"
+    },
+    {
+      "name": "세븐일레븐 파주월롱점",
+      "address": "경기도 파주시 월롱면",
+      "roadAddress": "경기도 파주시 월롱면 휴암로 205 (103,104호)",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-23"
+    },
+    {
+      "name": "두원마트",
+      "address": "경기도 파주시 파주읍",
+      "roadAddress": "경기도 파주시 파주읍 주라위2길 8-19",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-23"
+    },
+    {
+      "name": "훼미리마트 파주헤이리점",
+      "address": "경기도 파주시 탄현면 법흥리",
+      "roadAddress": "경기도 파주시 탄현면 헤이리마을길 59-142",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-23"
+    },
+    {
+      "name": "한국유통 법흥점",
+      "address": "경기도 파주시 탄현면 법흥리",
+      "roadAddress": "경기도 파주시 탄현면 하늘소로 112",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-23"
+    },
+    {
+      "name": "대방슈퍼",
+      "address": "경기도 파주시 금촌동",
+      "roadAddress": "경기도 파주시 마음밭길 114 (금촌동, 대방노블랜드아파트상가 106,107호)",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-30"
+    },
+    {
+      "name": "검산마트",
+      "address": "경기도 파주시 검산동 278-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트(본토박이점)",
+      "address": "경기도 파주시 검산동 279-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유승할인마트",
+      "address": "경기도 파주시 검산동 310",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이전유통",
+      "address": "경기도 파주시 검산동 산21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성운상회(마장리)",
+      "address": "경기도 파주시 광탄면 마장리 125-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "S-OIL무궁화주유소(미니스톱마장점)",
+      "address": "경기도 파주시 광탄면 마장리 413-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스마일마트(방축리)",
+      "address": "경기도 파주시 광탄면 방축리 386-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "검전슈퍼",
+      "address": "경기도 파주시 광탄면 방축리 412",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월드마트(분수리)",
+      "address": "경기도 파주시 광탄면 분수리 40452",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구룡슈퍼",
+      "address": "경기도 파주시 광탄면 분수리 233-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "더브러마트(구원마트)",
+      "address": "경기도 파주시 광탄면 신산리 184-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대일할인마트",
+      "address": "경기도 파주시 광탄면 신산리 184-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광탄문구프라자",
+      "address": "경기도 파주시 광탄면 신산리 188-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시티24",
+      "address": "경기도 파주시 광탄면 신산리 212",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고령상회",
+      "address": "경기도 파주시 광탄면 신산리 227",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해피버스",
+      "address": "경기도 파주시 광탄면 신산리 371-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전우상회",
+      "address": "경기도 파주시 광탄면 신산리 305",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대전상회",
+      "address": "경기도 파주시 광탄면 신산리 317-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "웅진상회",
+      "address": "경기도 파주시 광탄면 신산리 154-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광탄병원내편의점",
+      "address": "경기도 파주시 광탄면 신산리 188-118",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양공판장",
+      "address": "경기도 파주시 파주읍 파주리 440",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙상회",
+      "address": "경기도 파주시 파주읍 파주리 441-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "파주농업협동조합",
+      "address": "경기도 파주시 파주읍 파주리 484-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "의성슈퍼(향양리)",
+      "address": "경기도 파주시 파주읍 향양리 357",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스카이편의점",
+      "address": "경기도 파주시 파주읍 향양리 454-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "순흥상회",
+      "address": "경기도 파주시 파평면 눌노리 198",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "믿음슈퍼",
+      "address": "경기도 파주시 파평면 덕천리 111-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강원슈퍼",
+      "address": "경기도 파주시 파평면 덕천리 111",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제상회",
+      "address": "경기도 파주시 파평면 장파리 348-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평화상회",
+      "address": "경기도 파주시 파평면 장파리 370-108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우주상회",
+      "address": "경기도 파주시 파평면 장파리 376",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "H마트(현대1차)",
+      "address": "경기도 파주시 문산읍 당동리 935 파주힐스테이트1차 단지내상가 B동 103-104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "지코스컴퍼니(진흥apt)",
+      "address": "경기도 파주시 문산읍 선유리 663-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "휴먼빌할인마트",
+      "address": "경기도 파주시 문산읍 문산리 문산휴먼빌아파트 상가동 201호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "경동블루마트(당동지점)",
+      "address": "경기도 파주시 문산읍 당동리 세성아파트상가 102-108호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "윙마트",
+      "address": "경기도 파주시 파주읍 부곡리 177-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "건어물슈퍼",
+      "address": "경기도 파주시 파주읍 연풍리 296-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "미니스톱(법원점)",
+      "address": "경기도 파주시 법원읍 대능리 527-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "훼미리마트(파주동원점)",
+      "address": "경기도 파주시 법원읍 가야리 41-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "G&P할인마트",
+      "address": "경기도 파주시 와동동 택지개발지구내 A1블럭 단지내 상가 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "세븐일레븐(공단로점)",
+      "address": "경기도 파주시 교하동 385-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "싱싱마트(삼거리슈퍼)",
+      "address": "경기도 파주시 오도동 15-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "우리자산관리(파주두산위브아파트)",
+      "address": "경기도 파주시 와동동 A7블럭 두산위브아파트 관리사무소",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "씨유 파주본토박이점",
+      "address": "경기도 파주시 검산동",
+      "roadAddress": "경기도 파주시 평화로 346 (검산동, 검산동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "씨유 금촌신안점",
+      "address": "경기도 파주시 아동동",
+      "roadAddress": "경기도 파주시 아동로 40 (아동동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "씨유 금촌동문점",
+      "address": "경기도 파주시 아동동 292-15",
+      "roadAddress": "경기도 파주시 정담길 61 (아동동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "씨유 파주해솔점",
+      "address": "경기도 파주시 와동동 운정지구근린상업용지(F6)5,6해솔프라자 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "씨유 파주법흥점(이주단지내)",
+      "address": "경기도 파주시 탄현면",
+      "roadAddress": "경기도 파주시 탄현면 약산로 64-2",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "씨유 파주유승점(유승앙브와즈 2차)",
+      "address": "경기도 파주시 탄현면",
+      "roadAddress": "경기도 파주시 탄현면 사슴벌레로 45 (유승앙브와즈A단지내상가 109,110호)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "씨유 신운정프라자점",
+      "address": "경기도 파주시 와동동 파주운전지구NB4,5로트신운정프라자 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "씨유 파주운정점",
+      "address": "경기도 파주시 와동동 운정지구근린상업용지(F6)1-12윤정프라자 110",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "씨유 운정르네상스점",
+      "address": "경기도 파주시 와동동 운정신도시NC-2블록 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "씨유 금촌평화점",
+      "address": "경기도 파주시 금촌동",
+      "roadAddress": "경기도 파주시 중앙로 276 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "씨유 문발중앙점",
+      "address": "경기도 파주시 문발동",
+      "roadAddress": "경기도 파주시 꽃창포길 14 (문발동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "훼미리마트 문발제일점",
+      "address": "경기도 파주시 문발동",
+      "roadAddress": "경기도 파주시 책향기로 299 (문발동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-30"
+    },
+    {
+      "name": "LF슈퍼마켓",
+      "address": "경기도 파주시 월롱면 영태리 581-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-31"
+    },
+    {
+      "name": "모아마켓",
+      "address": "경기도 파주시 야당동 운정신도시A16블럭 캐슬앤칸타빌단지내상가2-105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-31"
+    },
+    {
+      "name": "한살림고양파주소비자생협교하매장",
+      "address": "경기도 파주시 동패동 1696-2 3124~3125호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-31"
+    },
+    {
+      "name": "(주)코리아세븐 파주운정르네상스점",
+      "address": "경기도 파주시 목동동 교하신도시해솔마을5단지상가동 101-102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-01"
+    },
+    {
+      "name": "현대25등원점",
+      "address": "경기도 파주시 조리읍",
+      "roadAddress": "경기도 파주시 조리읍 통일로 426-108 (석원빌딩)",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-03"
+    },
+    {
+      "name": "씨유 파주용미리점",
+      "address": "경기도 파주시 광탄면",
+      "roadAddress": "경기도 파주시 광탄면 명봉산로 353 ((1층상가))",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-07"
+    },
+    {
+      "name": "하모니마트(동문점)",
+      "address": "경기도 파주시 조리읍 그린시티동문아파트제상가동",
+      "roadAddress": "경기도 파주시 조리읍 대원로 66-101 (그린시티동문아파트제상가동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-13"
+    },
+    {
+      "name": "두배로마트(목동동)",
+      "address": "경기도 파주시 목동동 파주운정택지개발지구NI-5번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-16"
+    },
+    {
+      "name": "두배로마트(현대2차 정문건너)",
+      "address": "경기도 파주시 목동동 파주운정택지개발지구NI-5번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-20"
+    },
+    {
+      "name": "하이라이프",
+      "address": "경기도 파주시 광탄면 신산리 215-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25(파주광탄점)",
+      "address": "경기도 파주시 광탄면 신산리 371-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광탄할인마트",
+      "address": "경기도 파주시 광탄면 신산리 575-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "칠칠슈퍼(영장리)",
+      "address": "경기도 파주시 광탄면 영장리 313-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풀하우스매점",
+      "address": "경기도 파주시 광탄면 영장리 85-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물상회(광탄)",
+      "address": "경기도 파주시 광탄면 용미리 354-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼(용미리)",
+      "address": "경기도 파주시 광탄면 용미리 파주시 광탄면 용미4리 182-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국슈퍼",
+      "address": "경기도 파주시 광탄면 용미리 806",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사마트_교하점(구현대마트)",
+      "address": "경기도 파주시 교하동 331-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "면할인마트",
+      "address": "경기도 파주시 교하동 335번지 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "교하상회(할인마트)",
+      "address": "경기도 파주시 교하동 352",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "짱슈퍼",
+      "address": "경기도 파주시 교하동 354-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "술이홀매점",
+      "address": "경기도 파주시 교하동 593-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "효성그린마트(9블럭)",
+      "address": "경기도 파주시 교하동 택지개발지구 9블럭 대원효성아파트단지상가 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "복지슈퍼",
+      "address": "경기도 파주시 다율동 133-5 상가 A동 5호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월드유통",
+      "address": "경기도 파주시 다율동 4-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청석슈퍼",
+      "address": "경기도 파주시 다율동 498-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼휴게실",
+      "address": "경기도 파주시 다율동 512-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동문마트(8블록)",
+      "address": "경기도 파주시 다율동 982 교하택지개발지구 8블럭",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개그스토리마트",
+      "address": "경기도 파주시 다율동 991-9 1층상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우남현대슈퍼(우남14블럭)",
+      "address": "경기도 파주시 다율동 교하택지개발지구 14블럭우남아파트상가 A-105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월드왕마트 (월드2차)",
+      "address": "경기도 파주시 다율동 월드2차상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)신세계이마트파주점",
+      "address": "경기도 파주시 당하동 195-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대25시편의점",
+      "address": "경기도 파주시 동패동 1033-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼리미마트삽다리점",
+      "address": "경기도 파주시 동패동 128-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿프랜드",
+      "address": "경기도 파주시 동패동 1347",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿프랜드삽다리점",
+      "address": "경기도 파주시 동패동 1347",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼부르네상스관리사무소(5단지)",
+      "address": "경기도 파주시 와동동 A12블럭 삼부르네상스 아파트관리사무소",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "한국유통(교하3단지)",
+      "address": "경기도 파주시 문발동 562-1 파주비채",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "벽산우남연리지관리사무소",
+      "address": "경기도 파주시 와동동 벽산우남연리지 관리사무소",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "삼부그린마트(7단지)",
+      "address": "경기도 파주시 동패동 교하신도시 A18-2블럭 단지내상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "GS슈퍼(파주운정점)",
+      "address": "경기도 파주시 와동동 교하신도시 근린상업용지 F6-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "굿모닝힐마트",
+      "address": "경기도 파주시 와동동 교하신도시 A11블럭 동문아파트 단지내상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "한국유통(운정본점현대1차)",
+      "address": "경기도 파주시 목동동 2-110 교하현대1차(아) 상가동 지하101-102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "대농마트",
+      "address": "경기도 파주시 야당동 교하신도시 근린생활용지 NC-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "홈플러스익스프레스(파주운정점)",
+      "address": "경기도 파주시 와동동 교하신도시 운정메디칼프라자 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "홈플러스익스프레스(파주교하점)",
+      "address": "경기도 파주시 동패동 1694-2 지상1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "(주)코리아세븐(파주유비파크점)",
+      "address": "경기도 파주시 와동동 590-176",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "세븐일레븐(파주운정대흥점)",
+      "address": "경기도 파주시 와동동 교하신도시 근린상업지 대흥프라자",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "GS25(LGLCD)",
+      "address": "경기도 파주시 월롱면 덕은리 1291-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "GS25(LCD본점)",
+      "address": "경기도 파주시 월롱면 덕은리 1284",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "로뎀편의점",
+      "address": "경기도 파주시 월롱면 도내리 612-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "애플편의점(파주여고)",
+      "address": "경기도 파주시 월롱면 영태리 514-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "GS25(파주첼시점)",
+      "address": "경기도 파주시 탄현면 법흥리 1602-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "선일공구",
+      "address": "경기도 파주시 탄현면 법흥리 1773-102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "미니스톱(파주뇌조점)",
+      "address": "경기도 파주시 조리읍 뇌조리 460-3 가동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "미니스톱(파주금릉점)",
+      "address": "경기도 파주시 금촌동 986-2 광장프라자 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "승덕건재",
+      "address": "경기도 파주시 금촌동 329-190",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "연리지그린마트(우남)",
+      "address": "경기도 파주시 와동동 해솔마을 4단지 벽산우남상가 101-1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-18"
+    },
+    {
+      "name": "열린할인마트(한빛6단지)",
+      "address": "경기도 파주시 야당동 파주신도시A19블럭단지내 상가 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-21"
+    },
+    {
+      "name": "훼미리마트 운정휴먼시아(한빛7단지 건너)",
+      "address": "경기도 파주시 와동동 NG-6신운정프라자2 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-25"
+    },
+    {
+      "name": "K할인마트(SK주유소옆)",
+      "address": "경기도 파주시 월롱면 덕은리 524-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-28"
+    },
+    {
+      "name": "(주)코리아세븐 금촌사거리점",
+      "address": "경기도 파주시 금촌동 50-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-29"
+    },
+    {
+      "name": "운정홈할인마트(한빛7단지)",
+      "address": "경기도 파주시 야당동 운정지구A19-1블록단지내상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-02"
+    },
+    {
+      "name": "코리아세븐 교하동문점(10단지)",
+      "address": "경기도 파주시 동패동 1698 책향기마을10단지 동문굿모닝힐상가 110",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-09"
+    },
+    {
+      "name": "두배로마트(두루치기건너)",
+      "address": "경기도 파주시 월롱면 위전리 296-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-13"
+    },
+    {
+      "name": "대원동문두배로마트",
+      "address": "경기도 파주시 조리읍 문원길 309",
+      "roadAddress": "경기도 파주시 조리읍 문원길 309",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-26"
+    },
+    {
+      "name": "홈플러스(주)익스프레스 파주와동점(지산중앞)",
+      "address": "경기도 파주시 와동동 교하신도시 NB-3 제1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-26"
+    },
+    {
+      "name": "GS금촌로데오점(남부농협앞)",
+      "address": "경기도 파주시 금촌동 문화로 87",
+      "roadAddress": "경기도 파주시 문화로 87 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-26"
+    },
+    {
+      "name": "주공플러스마트(주공5단지)",
+      "address": "경기도 파주시 문산읍 문산선유5단지 휴먼시아상가동 103호,104호",
+      "roadAddress": "경기도 파주시 문산읍 독서울1길 40 (문산선유5단지 휴먼시아상가동 103호,104호)",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-02"
+    },
+    {
+      "name": "훼미리마트 파주중고점(금촌고옆)",
+      "address": "경기도 파주시 금릉동",
+      "roadAddress": "경기도 파주시 쇠재1길 25-2 (금능동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-02"
+    },
+    {
+      "name": "태호유통 문산점",
+      "address": "경기도 파주시 문산읍",
+      "roadAddress": "경기도 파주시 문산읍 방촌로 1626 (희원프라자1층 101호)",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-03"
+    },
+    {
+      "name": "현대할인마트(현대2차)",
+      "address": "경기도 파주시 목동동 교하현대2차아파트상가동 107~109호 상가-107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-05"
+    },
+    {
+      "name": "진로마트(한빛초건너)",
+      "address": "경기도 파주시 야당동 운정교하신도시운정택지개발지구 NF-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-09"
+    },
+    {
+      "name": "신촌마트(유로호텔옆)",
+      "address": "경기도 파주시 신촌동 445-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-17"
+    },
+    {
+      "name": "미니스톱(파주문발)점",
+      "address": "경기도 파주시 신촌동 65-2 외 2필지 제1동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-20"
+    },
+    {
+      "name": "GS25금촌병원점(파주병원앞)",
+      "address": "경기도 파주시 금촌동 중앙로 213",
+      "roadAddress": "경기도 파주시 중앙로 213 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-30"
+    },
+    {
+      "name": "(주)케이엔키즈앤맘 적성지점",
+      "address": "경기도 파주시 적성면 청송로 1002 (,4,7)",
+      "roadAddress": "경기도 파주시 적성면 청송로 1002 ((,4,7))",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-01"
+    },
+    {
+      "name": "진영슈퍼",
+      "address": "경기도 파주시 동패동 149-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월드메르디앙센트럴파크아파트입주자대표회의(7차)",
+      "address": "경기도 파주시 동패동 1690 숲속길마을길 7단지관리동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월드마트(7단지)",
+      "address": "경기도 파주시 동패동 1690 숲속길마을월드메르디앙단지상가1층 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25(웰스피아점)",
+      "address": "경기도 파주시 동패동 1694-3 웰스피아 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국유통(교하점10단지)",
+      "address": "경기도 파주시 동패동 1698 10단지상가 110",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)농협유통 하나로마트(교하점)",
+      "address": "경기도 파주시 동패동 1701 지하1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿모닝마트(12단지)",
+      "address": "경기도 파주시 동패동 1702 진흥효자상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경남할인마트",
+      "address": "경기도 파주시 동패동 1704 상록경남아너스빌A단지상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "애플편의점(두일초교)",
+      "address": "경기도 파주시 동패동 1740-1 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "벽산할인마트",
+      "address": "경기도 파주시 동패동 211-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삽교상회",
+      "address": "경기도 파주시 동패동 284",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트(상지석리)",
+      "address": "경기도 파주시 동패동 284",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트(센터프라자점)",
+      "address": "경기도 파주시 동패동 3011-3  센터프라자 108호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오렌지25마트",
+      "address": "경기도 파주시 동패동 3011-4 아이비타워 1층 112호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "푸름이네마트",
+      "address": "경기도 파주시 동패동 3012-3 트리플메디칼타워 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25(교하이지점)",
+      "address": "경기도 파주시 동패동 3013-1,2 이지타운 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삽다리마트",
+      "address": "경기도 파주시 동패동 306-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "교하슈퍼",
+      "address": "경기도 파주시 동패동 437-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한울할인마트",
+      "address": "경기도 파주시 동패동 택지개발지구내A17-1블럭단지내상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가람할인마트",
+      "address": "경기도 파주시 동패동 택지개발지구A3단지내상가A3블럭 102~104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "파주교하2차아이파트입주자대표회의(현대2차)",
+      "address": "경기도 파주시 목동동 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대25시편의점",
+      "address": "경기도 파주시 목동동 40465",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월드마트(1차)(폐업)",
+      "address": "경기도 파주시 목동동 10-9 교하상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿모닝마트(구벽산할인)",
+      "address": "경기도 파주시 목동동 벽산아파트 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(폐)현대할인마트(현대2차)",
+      "address": "경기도 파주시 목동동 101 현대2차상가 107~109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국유통(검산점)",
+      "address": "경기도 파주시 검산동 105-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "만나유통",
+      "address": "경기도 파주시 금촌동 990-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "바이더웨이(금촌점)",
+      "address": "경기도 파주시 금촌동 254-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "(주)황용유통(엘마트)",
+      "address": "경기도 파주시 금촌동 53-29 현대금촌타워 지하1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "(주)지에스리테일 GS슈퍼(금능점)",
+      "address": "경기도 파주시 금릉동 199-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "하나상사",
+      "address": "경기도 파주시 금촌동 329-119",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "모나미스테이션",
+      "address": "경기도 파주시 금릉동 431-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "휴튼마트",
+      "address": "경기도 파주시 와동동 교하신도시 A9블럭 (남양휴튼 상가)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "드림디포파주종합사무기기",
+      "address": "경기도 파주시 금촌동 43-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "GS25(파주제일점)",
+      "address": "경기도 파주시 탄현면 법흥리 1580-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "마을편의점",
+      "address": "경기도 파주시 탄현면 대동리 242 마을회관",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "GS25(파주대원점)",
+      "address": "경기도 파주시 조리읍 대원리 215-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "훼미리마트(오산제일점)",
+      "address": "경기도 파주시 조리읍 오산리 386-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "황해상회",
+      "address": "경기도 파주시 월롱면 위전리 430-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-01"
+    },
+    {
+      "name": "훼미리마트(문산로터리점)",
+      "address": "경기도 파주시 문산읍 선유리 675-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-01"
+    },
+    {
+      "name": "웨이팅편의점",
+      "address": "경기도 파주시 금촌동 943-26 1층상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-11"
+    },
+    {
+      "name": "서평할인마트",
+      "address": "경기도 파주시 탄현면 금승리 599-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-11"
+    },
+    {
+      "name": "대양매점",
+      "address": "경기도 파주시 적성면 어유지리 75",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-02"
+    },
+    {
+      "name": "우정슈퍼",
+      "address": "경기도 파주시 적성면 마지리 59-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-02"
+    },
+    {
+      "name": "북파주농협적성지점",
+      "address": "경기도 파주시 적성면 마지리 50-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-02"
+    },
+    {
+      "name": "적성마트(덕정지원본부)",
+      "address": "경기도 파주시 적성면 마지리 50-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-03"
+    },
+    {
+      "name": "적암상회",
+      "address": "경기도 파주시 적성면 적암리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-02"
+    },
+    {
+      "name": "두배로마트",
+      "address": "경기도 파주시 와동동 운정택지개발지구A5블럭 가람마을6단지상가101호~105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-03"
+    },
+    {
+      "name": "롯데쇼핑(주) 롯데슈퍼 파주아울렛",
+      "address": "경기도 파주시 문발동 파주출판문화정보국가산업단지 104-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-03"
+    },
+    {
+      "name": "오렌지마트",
+      "address": "경기도 파주시 동패동",
+      "roadAddress": "경기도 파주시 동패로 211-28 (동패동, 서진프라자1층)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-10"
+    },
+    {
+      "name": "GS25금촌역점",
+      "address": "경기도 파주시 금촌동",
+      "roadAddress": "경기도 파주시 새꽃로 194 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-10"
+    },
+    {
+      "name": "미니스톱 파주선유점",
+      "address": "경기도 파주시 문산읍",
+      "roadAddress": "경기도 파주시 문산읍 봉미로 3 (101,101호)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-17"
+    },
+    {
+      "name": "미니스톱 통일동산점",
+      "address": "경기도 파주시 탄현면",
+      "roadAddress": "경기도 파주시 탄현면 사슴벌레로 27 (정아빌딩1층 103,104)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-17"
+    },
+    {
+      "name": "롯데쇼핑(주)롯데슈퍼파주운정점",
+      "address": "경기도 파주시 야당동 파주운정택지개발지구P11 주차용지 1층 근린생활용지일부",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-21"
+    },
+    {
+      "name": "훼미리마트 금촌로터리점",
+      "address": "경기도 파주시 금촌동",
+      "roadAddress": "경기도 파주시 동산길 62 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-24"
+    },
+    {
+      "name": "(주)지에스리테일GS수퍼 파주동패점",
+      "address": "경기도 파주시 동패동 교하신도시 NH-41층,2층일부",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-29"
+    },
+    {
+      "name": "(주)코리아세븐 교하굿모닝힐점",
+      "address": "경기도 파주시 다율동 882 청석마을 동문굿모닝힐 상가동 1층 110/111호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-05-30"
+    },
+    {
+      "name": "진선유통(두배로할인마트)",
+      "address": "경기도 파주시 탄현면 78",
+      "roadAddress": "경기도 파주시 탄현면 여치길 78",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-04"
+    },
+    {
+      "name": "세븐일레븐(파주운정휴먼빌점)",
+      "address": "경기도 파주시 야당동 교하신도시A15-1 한빛마을2단지 휴먼빌래이크펠리스상가 1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-13"
+    },
+    {
+      "name": "훼미리마트 파주동원점",
+      "address": "경기도 파주시 법원읍 가야리 42-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-14"
+    },
+    {
+      "name": "애플24편의점",
+      "address": "경기도 파주시 탄현면",
+      "roadAddress": "경기도 파주시 탄현면 엘씨디로241번길 47-10 (라페스타9동 L102호)",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-19"
+    },
+    {
+      "name": "GS파주대원점",
+      "address": "경기도 파주시 조리읍",
+      "roadAddress": "경기도 파주시 조리읍 대원로 24",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-20"
+    },
+    {
+      "name": "미니스톱 파주선유점",
+      "address": "경기도 파주시 문산읍",
+      "roadAddress": "경기도 파주시 문산읍 봉미로 3 (101,102호)",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-26"
+    },
+    {
+      "name": "아이빌",
+      "address": "경기도 파주시 파주읍 향양리 706-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-26"
+    },
+    {
+      "name": "GS25 출판도시점",
+      "address": "경기도 파주시 문발동",
+      "roadAddress": "경기도 파주시 회동길 145 (문발동, 아시아출판문화정보센터1층)",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-28"
+    },
+    {
+      "name": "미니스톱",
+      "address": "경기도 파주시 금촌동",
+      "roadAddress": "경기도 파주시 마음밭길 94 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-29"
+    },
+    {
+      "name": "훼미리마트운정수자인점",
+      "address": "경기도 파주시 와동동",
+      "roadAddress": "경기도 파주시 가람로 70-107 (와동동, 한양수자인상가동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-29"
+    },
+    {
+      "name": "홈플러스익스프레스",
+      "address": "경기도 파주시 교하동 파주운정택지개발지구근린상업용지F6(1-10,11)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-02"
+    },
+    {
+      "name": "뜰안에편의점",
+      "address": "경기도 파주시 문발동 263-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다농마트(문발)",
+      "address": "경기도 파주시 문발동 278-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문발슈퍼휴게실",
+      "address": "경기도 파주시 문발동 40327",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "파주축협(문발지점)",
+      "address": "경기도 파주시 문발동 40329",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소망슈퍼",
+      "address": "경기도 파주시 문발동 45-8상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "헤르만할인마트",
+      "address": "경기도 파주시 문발동 505-2 헤르만하우스상가 1단지 106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국유통(교하2호점)",
+      "address": "경기도 파주시 문발동 547 노을빛마을주공2단지 101~102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오렌지24시마트(3블럭)",
+      "address": "경기도 파주시 문발동 560 동문3단지 굿모닝힐단지내상가 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사마트(문발점)",
+      "address": "경기도 파주시 문발동 577-1번지 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신교하슈퍼(두일초교)",
+      "address": "경기도 파주시 문발동 600-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수암유통",
+      "address": "경기도 파주시 문발동 603-7 1층상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "웰빙마트(두일초교)",
+      "address": "경기도 파주시 문발동 607-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두배로마트(주공2단지)",
+      "address": "경기도 파주시 문발동 교하택지개발사업지구 2B/L103호,104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "온에어24",
+      "address": "경기도 파주시 문발동 출판단지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "자유슈퍼",
+      "address": "경기도 파주시 산남동 292-1 가동1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일용슈퍼",
+      "address": "경기도 파주시 상지석동 177-80",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상지슈퍼",
+      "address": "경기도 파주시 상지석동 446-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트(푸른마트)",
+      "address": "경기도 파주시 상지석동 447-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "플러스마트(상지석리)",
+      "address": "경기도 파주시 상지석동 587-11 1층상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿프랜드24시편의점",
+      "address": "경기도 파주시 상지석동 691-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿모닝25시(운정)",
+      "address": "경기도 파주시 상지석동 975-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원일마트",
+      "address": "경기도 파주시 상지석동 977",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "벧엘종합주방",
+      "address": "경기도 파주시 상지석동 978-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청미원파주점",
+      "address": "경기도 파주시 상지석동 990-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "철희슈퍼",
+      "address": "경기도 파주시 상지석동 991",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "3182부대",
+      "address": "경기도 파주시 조리읍 오산리 119-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-02"
+    },
+    {
+      "name": "영재산업",
+      "address": "경기도 파주시 조리읍 오산리 98-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-02"
+    },
+    {
+      "name": "피엔아이",
+      "address": "경기도 파주시 조리읍 봉일천리 13-15 송촌토파즈",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-02"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "경기도 파주시 조리읍 봉일천리 168-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-02"
+    },
+    {
+      "name": "25시편의점 마이프랜드",
+      "address": "경기도 파주시 탄현면 금승리 37-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-02"
+    },
+    {
+      "name": "동화진흥",
+      "address": "경기도 파주시 탄현면 성동리 659",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-02"
+    },
+    {
+      "name": "미니스톱(산단점)",
+      "address": "경기도 파주시 탄현면 법흥리 1773-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-02"
+    },
+    {
+      "name": "하나로마트",
+      "address": "경기도 파주시 탄현면 축현리 492-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-02"
+    },
+    {
+      "name": "한승할인",
+      "address": "경기도 파주시 검산동 3-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-02"
+    },
+    {
+      "name": "훼미리마트(유승점)",
+      "address": "경기도 파주시 탄현면 법흥리 1787 유승앙브와즈2단지 상가109호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-02"
+    },
+    {
+      "name": "경기슈퍼",
+      "address": "경기도 파주시 파주읍 향양리 390-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-02"
+    },
+    {
+      "name": "물방울슈퍼",
+      "address": "경기도 파주시 파주읍 연풍리 291-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-01-02"
+    },
+    {
+      "name": "보흥상회",
+      "address": "경기도 파주시 파주읍 파주리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-02"
+    },
+    {
+      "name": "삼화상회",
+      "address": "경기도 파주시 파주읍 연풍리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-02"
+    },
+    {
+      "name": "해피편의점(구영환상회)",
+      "address": "경기도 파주시 파주읍",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-02"
+    },
+    {
+      "name": "은주네",
+      "address": "경기도 파주시 파주읍",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-02"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "경기도 파주시 파주읍 연풍리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-02"
+    },
+    {
+      "name": "북파주농협파평지점",
+      "address": "경기도 파주시 파평면",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-02"
+    },
+    {
+      "name": "파평상회",
+      "address": "경기도 파주시 파평면 눌노리 54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-02"
+    },
+    {
+      "name": "광탄농협하나로마트",
+      "address": "경기도 파주시 광탄면 신산리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-02"
+    },
+    {
+      "name": "굿모닝25시",
+      "address": "경기도 파주시 광탄면 신산리 215-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-02"
+    },
+    {
+      "name": "복권방슈퍼",
+      "address": "경기도 파주시 광탄면 신산리 358-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-02"
+    },
+    {
+      "name": "우진농산물물류센터",
+      "address": "경기도 파주시 광탄면 신산리 154-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-02"
+    },
+    {
+      "name": "포천상회",
+      "address": "경기도 파주시 광탄면 신산리",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-02"
+    },
+    {
+      "name": "썬유통",
+      "address": "경기도 파주시 상지석동",
+      "roadAddress": "경기도 파주시 운정로 68 (상지석동, 101호)",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-20"
+    },
+    {
+      "name": "오렌지마트(산업단지내)",
+      "address": "경기도 파주시 문산읍 문산리 첨단산업단지내 당동4단지 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-20"
+    },
+    {
+      "name": "광탄편의점",
+      "address": "경기도 파주시 광탄면",
+      "roadAddress": "경기도 파주시 광탄면 큰여울길 20-16 (제2동1층편의점)",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-20"
+    },
+    {
+      "name": "샬로트",
+      "address": "경기도 파주시 문산읍 당동리 913-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-08-28"
+    },
+    {
+      "name": "씨유 파주교육청점",
+      "address": "경기도 파주시 금촌동",
+      "roadAddress": "경기도 파주시 금정4길 20 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-05"
+    },
+    {
+      "name": "백광약방",
+      "address": "경기도 파주시 탄현면 축현리 501-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-06"
+    },
+    {
+      "name": "(주)비지에프휴먼넷 파주LCD정문점",
+      "address": "경기도 파주시 월롱면 엘씨디로 (파주LCD파크 101호~102호)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-11"
+    },
+    {
+      "name": "(주)지에스리테일 GS수퍼 파주목동점",
+      "address": "경기도 파주시 목동동 NC4 블럭 1,2층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-12"
+    },
+    {
+      "name": "세븐일레븐 교하전원마을점",
+      "address": "",
+      "roadAddress": "경기도 파주시 산남로 159 (산남동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-20"
+    },
+    {
+      "name": "현대25편의점",
+      "address": "경기도 파주시 산남동 17-8 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-21"
+    },
+    {
+      "name": "씨유 문발공단점",
+      "address": "",
+      "roadAddress": "경기도 파주시 교하로 914 (교하동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-26"
+    },
+    {
+      "name": "씨유 교하삽다리점",
+      "address": "경기도 파주시 동패동 284 동명빌딩106,107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-26"
+    },
+    {
+      "name": "마트",
+      "address": "경기도 파주시 금촌동 332-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-09-26"
+    },
+    {
+      "name": "씨유 봉일천태양점",
+      "address": "경기도 파주시 조리읍 봉일천리 137-2 나동 105호~106호 나-105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-05"
+    },
+    {
+      "name": "GS25금촌2동귀빈점",
+      "address": "경기도 파주시 금촌동 쇄재마을뜨란채분산상가동101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-05"
+    },
+    {
+      "name": "GS25금촌로타리",
+      "address": "",
+      "roadAddress": "경기도 파주시 동산8길 25 (금촌동, 동산8길 25 (금촌동))",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-18"
+    },
+    {
+      "name": "GS25교하당하점",
+      "address": "경기도 파주시 당하동",
+      "roadAddress": "경기도 파주시 천정구로 123 (당하동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-22"
+    },
+    {
+      "name": "GS25",
+      "address": "경기도 파주시 와동동 교하신도시F6-13,108호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-22"
+    },
+    {
+      "name": "GS25문산선유",
+      "address": "경기도 파주시 문산읍 봉미로32(1층)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-22"
+    },
+    {
+      "name": "GS25문산중앙점",
+      "address": "경기도 파주시 문산읍 독산로 42",
+      "roadAddress": "경기도 파주시 문산읍 독산로 42",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-22"
+    },
+    {
+      "name": "마트",
+      "address": "경기도 파주시 금촌동 332-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-22"
+    },
+    {
+      "name": "한국유통",
+      "address": "",
+      "roadAddress": "경기도 파주시 평화로342번길 71 (검산동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-29"
+    },
+    {
+      "name": "씨유파주LCD 5호점",
+      "address": "경기도 파주시 월롱면",
+      "roadAddress": "경기도 파주시 월롱면 엘씨디로8번길 24",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-30"
+    },
+    {
+      "name": "GS25 운정가람",
+      "address": "경기도 파주시 와동동 교하신도시F6-13,108호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-31"
+    },
+    {
+      "name": "나린공방",
+      "address": "경기도 파주시 서패동 191 가동 101호 102동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엑스마트",
+      "address": "경기도 파주시 송촌동 413-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주영슈퍼",
+      "address": "경기도 파주시 신촌동 13-4  가동 6호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하하마트",
+      "address": "경기도 파주시 신촌동 22341",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿모닝마트(1지구)(문발)",
+      "address": "경기도 파주시 신촌동 63-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "경기도 파주시 신촌동 78번지 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "썬마트",
+      "address": "경기도 파주시 야당동 449-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사마트운정역",
+      "address": "경기도 파주시 야당동 296-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신성할인마트",
+      "address": "경기도 파주시 야당동 178-29 신성빌라 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한라홈마트",
+      "address": "경기도 파주시 야당동 15블럭 한라비발디아파트내 상가동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국유통(야당점)",
+      "address": "경기도 파주시 야당동 178-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "G마트(운정역)",
+      "address": "경기도 파주시 야당동 240-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "K할인마트(운정)",
+      "address": "경기도 파주시 야당동 25-8, 상지석리 990-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "썬할인마트(운정)",
+      "address": "경기도 파주시 야당동 40326",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "윤희슈퍼",
+      "address": "경기도 파주시 야당동 45-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대그린마트",
+      "address": "경기도 파주시 야당동 976 자유로아이파크 106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "열린할인마트",
+      "address": "경기도 파주시 야당동 택지개발지구내 A3블럭파주신도시A3블럭 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "휴먼빌그린마트(2단지)",
+      "address": "경기도 파주시 야당동 A15-1블럭 교하신도시 한빛마을 2단지 휴먼빌아파트상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥무역",
+      "address": "경기도 파주시 연다산동 188-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "48시슈퍼",
+      "address": "경기도 파주시 연다산동 377-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "싱싱마트(삼거리슈퍼)",
+      "address": "경기도 파주시 오도동 15-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "와동슈퍼",
+      "address": "경기도 파주시 와동동 420-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "교하할인마트(현대1차)",
+      "address": "경기도 파주시 와동동 603-10 현대상가제지하층 101~102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동문홈마트",
+      "address": "경기도 파주시 와동동 205 동문2차상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "1004편의점",
+      "address": "경기도 파주시 동패동 354-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-02"
+    },
+    {
+      "name": "기쁨농장",
+      "address": "경기도 파주시 동패동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-02"
+    },
+    {
+      "name": "상록슈퍼(15단지)",
+      "address": "경기도 파주시 동패동 책향기마을상록데시앙아파트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-02"
+    },
+    {
+      "name": "교하1차월드메르디앙1차아파트관리사무소",
+      "address": "경기도 파주시 와동동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-02"
+    },
+    {
+      "name": "월드할인마트(7단지)",
+      "address": "경기도 파주시 다율동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-02"
+    },
+    {
+      "name": "주공할인마트(2블럭)",
+      "address": "경기도 파주시 문발동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-02"
+    },
+    {
+      "name": "피엠앤디",
+      "address": "경기도 파주시 동패동 1695-3 미소시티 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-02"
+    },
+    {
+      "name": "현대1차아파트관리실",
+      "address": "경기도 파주시 와동동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-02"
+    },
+    {
+      "name": "현대아이마트",
+      "address": "경기도 파주시 야당동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-02"
+    },
+    {
+      "name": "홈웨이 교하동문점",
+      "address": "경기도 파주시 문발동 동문3단지 상가103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-02"
+    },
+    {
+      "name": "GS25(출판도시점)",
+      "address": "경기도 파주시 문발동 524-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-02"
+    },
+    {
+      "name": "GS금촌점",
+      "address": "경기도 파주시 금촌동 956-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-02"
+    },
+    {
+      "name": "SM해피버스",
+      "address": "경기도 파주시 금촌동 797-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-02"
+    },
+    {
+      "name": "만물상회",
+      "address": "경기도 파주시 금촌동 320",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-02"
+    },
+    {
+      "name": "미래유통",
+      "address": "경기도 파주시 금촌동 774-21 정원빌딩1층1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-02"
+    },
+    {
+      "name": "미니스톱(파주영장점)",
+      "address": "경기도 파주시 광탄면 영장리 165-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-18"
+    },
+    {
+      "name": "미소래25시(칠정말)",
+      "address": "경기도 파주시 문산읍",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-02"
+    },
+    {
+      "name": "1004편의점",
+      "address": "경기도 파주시 월롱면 영태리 581-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-02"
+    },
+    {
+      "name": "LG25",
+      "address": "경기도 파주시 문산읍 문산리 10-119",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-02"
+    },
+    {
+      "name": "퀸마트",
+      "address": "경기도 파주시 문산읍 문산리 17-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-02"
+    },
+    {
+      "name": "충남상회",
+      "address": "경기도 파주시 문산읍 문산리 58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-02"
+    },
+    {
+      "name": "정다운슈퍼",
+      "address": "경기도 파주시 문산읍 선유리 955",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-02"
+    },
+    {
+      "name": "임진각",
+      "address": "경기도 파주시 문산읍 마정리 1325-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-02"
+    },
+    {
+      "name": "율곡(아)관리사무소",
+      "address": "경기도 파주시 문산읍 문산리 33-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-02"
+    },
+    {
+      "name": "해피데이슈퍼편의점",
+      "address": "경기도 파주시 와동동 614-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사마트(동문2차)",
+      "address": "경기도 파주시 와동동 동문2차 지하상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월드마트(1차후문)",
+      "address": "경기도 파주시 와동동 월드상가 1-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해솔마트",
+      "address": "경기도 파주시 와동동 택지개발지구내 A1블럭단지내상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통일촌농산물직판장식당",
+      "address": "경기도 파주시 군내면 백연리 1497",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국유통(금촌점)",
+      "address": "경기도 파주시 금릉동 199-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오렌지25시편의점",
+      "address": "경기도 파주시 금릉동 211-11 메트로프라자 1층 117",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오렌지25편의점(5단지)",
+      "address": "경기도 파주시 금릉동 433-2 동현빌딩 104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두배로마트(금능점)",
+      "address": "경기도 파주시 금릉동 437-7 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금능슈퍼(노인복지관)",
+      "address": "경기도 파주시 금릉동 441-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "경기도 파주시 금릉동 444-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송학슈퍼",
+      "address": "경기도 파주시 금릉동 795-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동문하이퍼마켓",
+      "address": "경기도 파주시 금촌동 11-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유엔아이마트",
+      "address": "경기도 파주시 금촌동 1014 한일우앤아이아파트상가동 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서원할인마트",
+      "address": "경기도 파주시 금촌동 1019 서원마을분산상가 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대하할인마트",
+      "address": "경기도 파주시 금촌동 121-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양마트",
+      "address": "경기도 파주시 금촌동 121-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "K마트",
+      "address": "경기도 파주시 금촌동 228-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "경기도 파주시 금촌동 234-17 두보 APT 단지내상가동 101~102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "위플러스마트(금화초교)",
+      "address": "경기도 파주시 금촌동 237-1외 베스트프라자 1층 104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구주공슈퍼",
+      "address": "경기도 파주시 금촌동 252",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "프리웨이",
+      "address": "경기도 파주시 금촌동 254-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키슈퍼(팜스)",
+      "address": "경기도 파주시 금촌동 283",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팜스할인마트",
+      "address": "경기도 파주시 금촌동 283",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "경기도 파주시 금촌동 291-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물상회",
+      "address": "경기도 파주시 금촌동 320",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태창상회",
+      "address": "경기도 파주시 금촌동 320-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시장슈퍼",
+      "address": "경기도 파주시 문산읍 선유리 430-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-02"
+    },
+    {
+      "name": "서강슈퍼",
+      "address": "경기도 파주시 문산읍 문산리 61",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-02"
+    },
+    {
+      "name": "동네슈퍼",
+      "address": "경기도 파주시 문산읍 문산리 68-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-02"
+    },
+    {
+      "name": "(주)더드림 선유지점",
+      "address": "경기도 파주시 문산읍 선유리 430-64",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-02"
+    },
+    {
+      "name": "영남상회",
+      "address": "경기도 파주시 적성면 마지리 45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-02"
+    },
+    {
+      "name": "적서마트",
+      "address": "경기도 파주시 적성면 식현리 43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-02"
+    },
+    {
+      "name": "고양파주두레생협(금촌점)",
+      "address": "경기도 파주시 금촌동 986-4 파주프라임타워 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-20"
+    },
+    {
+      "name": "유한상사",
+      "address": "경기도 파주시 교하읍",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-02"
+    },
+    {
+      "name": "조은슈퍼",
+      "address": "경기도 파주시 교하읍 (고양시 일산서구 구산동 240-3)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-02"
+    },
+    {
+      "name": "(주)선경문구",
+      "address": "경기도 파주시 교하읍",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-01-02"
+    },
+    {
+      "name": "코사마트(상지석리)",
+      "address": "경기도 파주시 교하읍",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-02"
+    },
+    {
+      "name": "코리아세븐2081호점",
+      "address": "경기도 파주시 동패동 1684-1 트리플메티칼타워 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-21"
+    },
+    {
+      "name": "소문난DC마트",
+      "address": "경기도 파주시 동패동 1695-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-21"
+    },
+    {
+      "name": "애플24시편의점(2호점)",
+      "address": "경기도 파주시 문발동 562-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-01-02"
+    },
+    {
+      "name": "훼미리마트(파주웅담점)",
+      "address": "경기도 파주시 법원읍 웅담리 347-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-30"
+    },
+    {
+      "name": "풍림그린마트",
+      "address": "경기도 파주시 금촌동 1008 풍림아파트상가 107~108호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-01"
+    },
+    {
+      "name": "세븐일레븐(파주광탄점)",
+      "address": "경기도 파주시 광탄면 신산리 226-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-01"
+    },
+    {
+      "name": "공단슈퍼",
+      "address": "경기도 파주시 검산동 475",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-01"
+    },
+    {
+      "name": "태현상사(구오산슈퍼)",
+      "address": "경기도 파주시 조리읍 오산리 305-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-02"
+    },
+    {
+      "name": "한국유통",
+      "address": "경기도 파주시 금촌동 992 주공4단지 상가 105,106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-03"
+    },
+    {
+      "name": "한마트",
+      "address": "경기도 파주시 야당동 486-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-04"
+    },
+    {
+      "name": "진흥마트",
+      "address": "경기도 파주시 문산읍 선유리 1357-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-04"
+    },
+    {
+      "name": "굿모닝마트(12단지)",
+      "address": "경기도 파주시 동패동 1702 진흥효자아파트 상가동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-09"
+    },
+    {
+      "name": "청강슈퍼",
+      "address": "경기도 파주시 금촌동 324",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "썬24시편의점",
+      "address": "경기도 파주시 금촌동 329-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인더라인24시(역전)",
+      "address": "경기도 파주시 금촌동 329-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "24시편의점(금촌역점)",
+      "address": "경기도 파주시 금촌동 329-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인스토어(금촌역)",
+      "address": "경기도 파주시 금촌동 329-7 2필지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "경기도 파주시 금촌동 332-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿프랜드",
+      "address": "경기도 파주시 금촌동 343-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통일편의점",
+      "address": "경기도 파주시 금촌동 369-37 1층 4호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "썬24시(순달교)",
+      "address": "경기도 파주시 금촌동 374-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동명슈퍼(새말)",
+      "address": "경기도 파주시 금촌동 395",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두배로마트",
+      "address": "경기도 파주시 금촌동 410-4  동헌프라자 101 호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국유통(새말점)",
+      "address": "경기도 파주시 금촌동 424-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경신그린마트",
+      "address": "경기도 파주시 금촌동 424-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "예스마트(역전)",
+      "address": "경기도 파주시 금촌동 44-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25(터미널)",
+      "address": "경기도 파주시 금촌동 50-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼(인더라인미래@)",
+      "address": "경기도 파주시 금촌동 51-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "웨이팅서현점(주공점)",
+      "address": "경기도 파주시 금촌동 521-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대마트",
+      "address": "경기도 파주시 금촌동 52-39 지하 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "차전마트",
+      "address": "경기도 파주시 금촌동 52-39 현대금촌타워지하1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부일사",
+      "address": "경기도 파주시 금촌동 50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데24시편의점",
+      "address": "경기도 파주시 금촌동 22798",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰구판장",
+      "address": "경기도 파주시 금촌동 63-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "거북슈퍼",
+      "address": "경기도 파주시 금촌동 64",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용연24시",
+      "address": "경기도 파주시 금촌동 64-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅마트",
+      "address": "경기도 파주시 금촌동 64-60 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "웨이팅편의점(통일점)",
+      "address": "경기도 파주시 금촌동 24869",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금촌마트",
+      "address": "경기도 파주시 금촌동 764-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름할인마트(등기소)",
+      "address": "경기도 파주시 금촌동 764-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱(파주금촌점)",
+      "address": "경기도 파주시 금촌동 765-20 광우프라자 106-2호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명정유(동화경모공원내)",
+      "address": "경기도 파주시 탄현면 법흥리 1791-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-09"
+    },
+    {
+      "name": "바이더웨이(적성점)",
+      "address": "경기도 파주시 적성면 구읍리 649-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-15"
+    },
+    {
+      "name": "성의축산(가람2차아파트)",
+      "address": "경기도 파주시 와동동 운정택지지구 근린상업용지 F6-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-15"
+    },
+    {
+      "name": "플러스마트(한라비발디)",
+      "address": "경기도 파주시 조리읍 대원리 992-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-10"
+    },
+    {
+      "name": "인스토어(휴암로점)",
+      "address": "경기도 파주시 월롱면 덕은리 368-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-17"
+    },
+    {
+      "name": "H마트",
+      "address": "경기도 파주시 금촌동 20-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-30"
+    },
+    {
+      "name": "GS25(LG기숙사점)",
+      "address": "경기도 파주시 월롱면 덕은리 1248-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-30"
+    },
+    {
+      "name": "훼미리마트(법원북문)",
+      "address": "경기도 파주시 법원읍 법원리 520-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-30"
+    },
+    {
+      "name": "경동 블루마트 주내지점",
+      "address": "경기도 파주시 파주읍 파주리 427-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-07"
+    },
+    {
+      "name": "미니스톱(파주운정점)",
+      "address": "경기도 파주시 와동동 교하신도시A7블럭 해솔마을1단지(두산위브상가101호)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-08"
+    },
+    {
+      "name": "강원슈퍼",
+      "address": "경기도 파주시 파주읍 연풍리 285-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-09"
+    },
+    {
+      "name": "크로바유통",
+      "address": "경기도 파주시 동패동 교하신도시 A18블럭 한울마을 휴먼시아5단지 상가111호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-15"
+    },
+    {
+      "name": "세븐일레븐(문산힐스테이트)",
+      "address": "경기도 파주시 문산읍 당동리 935 힐스테이트아파트상가 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-22"
+    },
+    {
+      "name": "선유홈마트(선유3단지)",
+      "address": "경기도 파주시 문산읍 선유리 선유3지구 단지내 상가 101~102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-28"
+    },
+    {
+      "name": "미래유통",
+      "address": "경기도 파주시 조리읍 능안리 235",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-04"
+    },
+    {
+      "name": "미소래25편의점(검산로드점)",
+      "address": "경기도 파주시 검산동 431",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-04"
+    },
+    {
+      "name": "신화마트",
+      "address": "경기도 파주시 문발동 31-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-10"
+    },
+    {
+      "name": "AMPM편의점(로데오)",
+      "address": "경기도 파주시 금촌동 988-4 월드프라자 1층 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-10"
+    },
+    {
+      "name": "선유힐마트(산업단지내)",
+      "address": "경기도 파주시 문산읍 선유리 1368-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-12"
+    },
+    {
+      "name": "H마트(현대1차)",
+      "address": "경기도 파주시 문산읍 당동리 파주1차힐스테이트 상가B동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-13"
+    },
+    {
+      "name": "미니스톱(파주창만점)",
+      "address": "경기도 파주시 광탄면 창만리 372-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-13"
+    },
+    {
+      "name": "훼미리마트(시청점)",
+      "address": "경기도 파주시 금촌동 767-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시청슈퍼",
+      "address": "경기도 파주시 금촌동 769",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "7DAY",
+      "address": "경기도 파주시 금촌동 773-5 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성심철물",
+      "address": "경기도 파주시 금촌동 773-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나유통",
+      "address": "경기도 파주시 금촌동 774-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "희망슈퍼",
+      "address": "경기도 파주시 금촌동 28246",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "경기도 파주시 금촌동 775-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "희망마트(약국앞)",
+      "address": "경기도 파주시 금촌동 776-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사마트(동현)",
+      "address": "경기도 파주시 금촌동 781-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장안마트",
+      "address": "경기도 파주시 금촌동 785-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대관령슈퍼",
+      "address": "경기도 파주시 금촌동 786-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주택슈퍼",
+      "address": "경기도 파주시 금촌동 79",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미래슈퍼",
+      "address": "경기도 파주시 금촌동 790",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트(의료원점)",
+      "address": "경기도 파주시 금촌동 792-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인컴24시편의점",
+      "address": "경기도 파주시 금촌동 793-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미소래25 2호점",
+      "address": "경기도 파주시 금촌동 793-4  유엔비빌딩 109호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백년식품",
+      "address": "경기도 파주시 금촌동 794-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세종마트",
+      "address": "경기도 파주시 금촌동 928-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오렌지마트(금촌초교)",
+      "address": "경기도 파주시 금촌동 930-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "썬할인마트",
+      "address": "경기도 파주시 금촌동 937-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오피스알파파주점",
+      "address": "경기도 파주시 금촌동 937-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나슈퍼",
+      "address": "경기도 파주시 금촌동 938-17 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일킹마트",
+      "address": "경기도 파주시 금촌동 939-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "포시즌주공점",
+      "address": "경기도 파주시 금촌동 943-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐승훈점",
+      "address": "경기도 파주시 금촌동 944-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이(로타리)",
+      "address": "경기도 파주시 금촌동 945-8 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인컴24(구미소래)",
+      "address": "경기도 파주시 금촌동 949-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "Yes슈퍼(로타리)",
+      "address": "경기도 파주시 금촌동 952-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대하마트",
+      "address": "경기도 파주시 금촌동 959-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공할인마트(1단지)",
+      "address": "경기도 파주시 금촌동 972 새꽃마을뜨란채제분산상가동 104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모아마켓",
+      "address": "경기도 파주시 와동동 1338 한라비발디아파트단지내상가 110호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-15"
+    },
+    {
+      "name": "영슈퍼",
+      "address": "경기도 파주시 조리읍 봉일천리 157-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-21"
+    },
+    {
+      "name": "미니스톱 파주운정점",
+      "address": "경기도 파주시 와동동 교하신도시에이7블럭해솔마을1단지두산위브101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-23"
+    },
+    {
+      "name": "CU선유산업단지점",
+      "address": "",
+      "roadAddress": "경기도 파주시 문산읍 우계로 338",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-28"
+    },
+    {
+      "name": "현대25편의점 통일로점",
+      "address": "경기도 파주시 파주읍 통일로 1546 (12)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-29"
+    },
+    {
+      "name": "문산식자재",
+      "address": "경기도 파주시 문산읍 101상가-16 (외호수아파트)",
+      "roadAddress": "경기도 파주시 문산읍 문산로26번길 13",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-04"
+    },
+    {
+      "name": "미니스톱 파주교육청점",
+      "address": "경기도 파주시 금촌동 1층",
+      "roadAddress": "경기도 파주시 금정4길 33 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-18"
+    },
+    {
+      "name": "엘림",
+      "address": "",
+      "roadAddress": "경기도 파주시 쇠재로 133, 106(금촌동,쇠재마을제주상가동)동 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-18"
+    },
+    {
+      "name": "미니스톰 파주교육청점",
+      "address": "",
+      "roadAddress": "경기도 파주시 금정4길 33 (금촌동,1층)동 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-18"
+    },
+    {
+      "name": "세븐일레븐 파주창만점",
+      "address": "경기도 파주시 광탄면",
+      "roadAddress": "경기도 파주시 광탄면 혜음로 1418 (1층)동",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-18"
+    },
+    {
+      "name": "현대25편의점 통일로점",
+      "address": "",
+      "roadAddress": "경기도 파주시 파주읍 통일로 1546 (12)동",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-19"
+    },
+    {
+      "name": "GS25 새꽃천시점",
+      "address": "경기도 파주시 금촌동",
+      "roadAddress": "경기도 파주시 번영로 55, 새꽃마을뜨란채주상가동103호동 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-21"
+    },
+    {
+      "name": "인더라인25시",
+      "address": "",
+      "roadAddress": "경기도 파주시 새꽃로 62 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-02-22"
+    },
+    {
+      "name": "씨유 파주문발점",
+      "address": "경기도 파주시 문발동 31-5 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-06"
+    },
+    {
+      "name": "쵸코마트 적성점",
+      "address": "",
+      "roadAddress": "경기도 파주시 파평면 청송로 1028-1",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-21"
+    },
+    {
+      "name": "주공할인마트",
+      "address": "",
+      "roadAddress": "경기도 파주시 번영로 55 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-21"
+    },
+    {
+      "name": "행복매점",
+      "address": "",
+      "roadAddress": "경기도 파주시 와석순환로 415 (와동동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-28"
+    },
+    {
+      "name": "아이지에이 금촌로데오점",
+      "address": "경기도 파주시 금촌동",
+      "roadAddress": "경기도 파주시 새꽃로 25-101 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-29"
+    },
+    {
+      "name": "플러스마트",
+      "address": "",
+      "roadAddress": "경기도 파주시 교하로 1169 (오도동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-04-01"
+    },
+    {
+      "name": "헤이리미니편의점",
+      "address": "경기도 파주시 탄현면 법흥리 1652-34 헤이리더스텝바람(비)동B42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2013-04-04"
+    },
+    {
+      "name": "GS25교하점",
+      "address": "경기도 파주시 교하동 332-8",
+      "roadAddress": "경기도 파주시 교하로 1393 (교하동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-04-18"
+    },
+    {
+      "name": "금촌상회",
+      "address": "경기도 파주시 금촌동",
+      "roadAddress": "경기도 파주시 시청로 4 (금촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-04-26"
+    },
+    {
+      "name": "주식회사 진로유통봉일천지점",
+      "address": "경기도 파주시 조리읍",
+      "roadAddress": "경기도 파주시 조리읍 소곡로 6",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-01"
+    },
+    {
+      "name": "GS운정동문점",
+      "address": "경기도 파주시 와동동 운정1차동문아파트 지상1층 107호, 108호",
+      "roadAddress": "경기도 파주시 금바위로 100-1 (와동동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-01"
+    },
+    {
+      "name": "코사24시편의점",
+      "address": "경기도 파주시 아동동",
+      "roadAddress": "경기도 파주시 정담길 5 (아동동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-06"
+    },
+    {
+      "name": "교하슈퍼",
+      "address": "경기도 파주시 문발동",
+      "roadAddress": "경기도 파주시 꽃아마길 26 (문발동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-15"
+    },
+    {
+      "name": "모닝마트",
+      "address": "경기도 파주시 월롱면",
+      "roadAddress": "경기도 파주시 월롱면 국사봉길 78-49",
+      "status": "영업/정상",
+      "licenseDate": "2013-06-27"
+    },
+    {
+      "name": "경기철물",
+      "address": "경기도 파주시 적성면 마지리 267-6",
+      "roadAddress": "경기도 파주시 적성면 청송로 900",
+      "status": "영업/정상",
+      "licenseDate": "2025-04-04"
+    }
+  ]
+}

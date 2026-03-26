@@ -1,0 +1,94 @@
+{
+  "region": "광주광역시",
+  "regionSlug": "gwangju",
+  "district": "광산구",
+  "districtSlug": "gwangsan",
+  "updatedAt": "2026-03-26",
+  "totalCount": 12,
+  "stores": [
+    {
+      "name": "광주광역시 장애인생산품판매시설",
+      "address": "광주광역시 광산구 송정동 799-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-02-27"
+    },
+    {
+      "name": "(주)정원로지스",
+      "address": "광주광역시 광산구 수완동 268-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-26"
+    },
+    {
+      "name": "광주교구상사",
+      "address": "광주광역시 광산구 신창동 782-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-04"
+    },
+    {
+      "name": "광주광역시장애인생산품판매시설",
+      "address": "광주광역시 광산구 송정동 799-5 1,2층",
+      "roadAddress": "광주광역시 광산구 광산로 55 (송정동,1,2층)",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-14"
+    },
+    {
+      "name": "(주)정원로지스",
+      "address": "광주광역시 광산구 수완동 268-18",
+      "roadAddress": "광주광역시 광산구 상완길 163  (수완동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-07-01"
+    },
+    {
+      "name": "리빙플러스",
+      "address": "광주광역시 광산구 산정동 941-3",
+      "roadAddress": "광주광역시 광산구 목련로 75 (산정동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-12-03"
+    },
+    {
+      "name": "(주)농협하나로유통광주농산물종합유통센터",
+      "address": "광주광역시 광산구 신가동 1052",
+      "roadAddress": "광주광역시 광산구 임방울대로 261 (신가동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-01"
+    },
+    {
+      "name": "미니스톱 교통 방송점",
+      "address": "광주광역시 광산구 쌍암동 676-1",
+      "roadAddress": "광주광역시 광산구 첨단중앙로182번길 46  (쌍암동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-06"
+    },
+    {
+      "name": "롯데쇼핑 첨단점",
+      "address": "광주광역시 광산구 쌍암동 694-3",
+      "roadAddress": "광주광역시 광산구 첨단강변로99번길 22  (쌍암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화신유통",
+      "address": "광주광역시 광산구 도산동 1288-12",
+      "roadAddress": "광주광역시 광산구 남동길 32 (도산동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-11-05"
+    },
+    {
+      "name": "그린화이트",
+      "address": "광주광역시 광산구 수완동 222-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-19"
+    },
+    {
+      "name": "농협광주농산물종합유통센터",
+      "address": "광주광역시 광산구 신가동 1052",
+      "roadAddress": "광주광역시 광산구 임방울대로 261  (신가동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-01"
+    }
+  ]
+}
