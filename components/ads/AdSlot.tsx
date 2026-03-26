@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 
 interface AdSlotProps {
   slotId: string;
@@ -21,20 +21,31 @@ export default function AdSlot({
 }: AdSlotProps) {
   const adRef = useRef<HTMLModElement>(null);
   const pushed = useRef(false);
+  const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
+    setMounted(true);
+  }, []);
+
+  useEffect(() => {
+    if (!mounted) return;
+    if (!adRef.current) return;
     if (pushed.current) return;
+
     try {
       (window.adsbygoogle = window.adsbygoogle || []).push({});
       pushed.current = true;
-    } catch {
+    } catch (e) {
       // AdSense not loaded yet
     }
-  }, []);
+  }, [mounted]);
+
+  if (!mounted) return null;
 
   return (
     <div className={`ad-container overflow-hidden ${className}`}>
       <ins
+        key={slotId}
         ref={adRef}
         className="adsbygoogle"
         style={{ display: "block" }}
