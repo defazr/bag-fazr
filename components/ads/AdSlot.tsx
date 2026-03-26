@@ -52,7 +52,7 @@ export default function AdSlot({
         data-ad-client="ca-pub-7976139023602789"
         data-ad-slot={slotId}
         data-ad-format={format}
-        data-full-width-responsive="true"
+        data-full-width-responsive="false"
       />
     </div>
   );
