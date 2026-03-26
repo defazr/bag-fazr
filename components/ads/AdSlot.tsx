@@ -43,7 +43,7 @@ export default function AdSlot({
   if (!mounted) return null;
 
   return (
-    <div className={`rounded-xl border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-4 ${className}`}>
+    <div className={className}>
       <ins
         key={slotId}
         ref={adRef}
