@@ -69,7 +69,7 @@ export default function WhyNoBagsPage() {
           </p>
 
           {/* CTA */}
-          <div className="rounded-lg border border-blue-200 dark:border-zinc-800 bg-blue-50 dark:bg-zinc-900 p-5">
+          <div className="rounded-lg border border-gray-200 dark:border-zinc-800 bg-gray-50 dark:bg-zinc-900 p-5">
             <p className="font-bold text-gray-900 dark:text-white">
               종량제 봉투 판매처를 한눈에 찾을 수 있는 곳이 있습니다
             </p>
@@ -80,13 +80,13 @@ export default function WhyNoBagsPage() {
             <div className="mt-3 flex flex-wrap gap-2">
               <Link
                 href="/article/shortage-2026"
-                className="rounded-md bg-blue-600 dark:bg-zinc-800 dark:border dark:border-zinc-700 px-4 py-2 text-sm font-medium text-white hover:bg-blue-700 dark:hover:bg-zinc-700"
+                className="rounded-md bg-gray-900 dark:bg-zinc-800 dark:border dark:border-zinc-700 px-4 py-2 text-sm font-medium text-white hover:bg-gray-800 dark:hover:bg-zinc-700"
               >
                 종량제 봉투 대란 이유 보기 →
               </Link>
               <Link
                 href="/"
-                className="rounded-md border border-blue-300 dark:border-zinc-700 bg-white dark:bg-zinc-900 px-4 py-2 text-sm font-medium text-blue-700 dark:text-zinc-300 hover:bg-blue-50 dark:hover:bg-zinc-800"
+                className="rounded-md border border-gray-300 dark:border-zinc-700 bg-white dark:bg-zinc-900 px-4 py-2 text-sm font-medium text-gray-700 dark:text-zinc-300 hover:bg-gray-100 dark:hover:bg-zinc-800"
               >
                 전국 판매처 찾기 →
               </Link>
@@ -111,19 +111,19 @@ export default function WhyNoBagsPage() {
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
             <Link
               href="/seoul/gangnam"
-              className="rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-3 text-center text-sm font-medium text-gray-700 dark:text-zinc-300 hover:border-blue-300 dark:hover:border-zinc-600"
+              className="rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-3 text-center text-sm font-medium text-gray-700 dark:text-zinc-300 hover:bg-gray-50 dark:hover:border-zinc-600"
             >
               강남구 판매처
             </Link>
             <Link
               href="/gyeonggi/suwon"
-              className="rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-3 text-center text-sm font-medium text-gray-700 dark:text-zinc-300 hover:border-blue-300 dark:hover:border-zinc-600"
+              className="rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-3 text-center text-sm font-medium text-gray-700 dark:text-zinc-300 hover:bg-gray-50 dark:hover:border-zinc-600"
             >
               수원시 판매처
             </Link>
             <Link
               href="/busan/haeundae"
-              className="rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-3 text-center text-sm font-medium text-gray-700 dark:text-zinc-300 hover:border-blue-300 dark:hover:border-zinc-600"
+              className="rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-3 text-center text-sm font-medium text-gray-700 dark:text-zinc-300 hover:bg-gray-50 dark:hover:border-zinc-600"
             >
               해운대구 판매처
             </Link>

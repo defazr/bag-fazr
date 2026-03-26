@@ -20,7 +20,7 @@ export default function NoticeBanner() {
   if (dismissed) return null;
 
   return (
-    <div className="sticky top-0 z-50 h-8 bg-orange-100 dark:bg-orange-900/30 overflow-hidden flex items-center">
+    <div className="sticky top-0 z-50 h-8 bg-orange-100 dark:bg-orange-900/30 border-b border-orange-200 dark:border-orange-800/30 overflow-hidden flex items-center">
       <div className="flex-1 overflow-hidden relative group">
         <p className="text-orange-800 dark:text-orange-300 text-xs whitespace-nowrap animate-ticker group-hover:[animation-play-state:paused]">
           현재 일부 지역은 종량제 봉투 품절이 발생하고 있습니다. 방문 전 재고

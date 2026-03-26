@@ -78,13 +78,13 @@ export default function ShortageArticlePage() {
           </section>
 
           {/* Mid CTA */}
-          <div className="rounded-lg border border-blue-200 dark:border-zinc-800 bg-blue-50 dark:bg-zinc-900 px-4 py-3 text-center">
-            <p className="text-sm text-blue-800 dark:text-zinc-300">
+          <div className="rounded-lg border border-gray-200 dark:border-zinc-800 bg-gray-50 dark:bg-zinc-900 px-4 py-3 text-center">
+            <p className="text-sm text-gray-800 dark:text-zinc-300">
               지금 내 주변 판매처를 확인해보세요
             </p>
             <Link
               href="/seoul/gangnam"
-              className="mt-2 inline-block rounded-md bg-blue-600 dark:bg-zinc-800 dark:border dark:border-zinc-700 px-4 py-2 text-sm font-medium text-white hover:bg-blue-700 dark:hover:bg-zinc-700"
+              className="mt-2 inline-block rounded-md bg-gray-900 dark:bg-zinc-800 dark:border dark:border-zinc-700 px-4 py-2 text-sm font-medium text-white hover:bg-gray-800 dark:hover:bg-zinc-700"
             >
               내 주변 종량제 봉투 판매처 확인하기 →
             </Link>
@@ -126,19 +126,19 @@ export default function ShortageArticlePage() {
             <div className="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-3">
               <Link
                 href="/seoul/gangnam"
-                className="rounded-lg border border-blue-200 dark:border-zinc-800 bg-blue-50 dark:bg-zinc-900 px-4 py-3 text-center text-sm font-medium text-blue-700 dark:text-zinc-300 hover:bg-blue-100 dark:hover:bg-zinc-800"
+                className="rounded-lg border border-gray-200 dark:border-zinc-800 bg-gray-50 dark:bg-zinc-900 px-4 py-3 text-center text-sm font-medium text-gray-700 dark:text-zinc-300 hover:bg-gray-100 dark:hover:bg-zinc-800"
               >
                 강남구 판매처 찾기
               </Link>
               <Link
                 href="/gyeonggi/suwon"
-                className="rounded-lg border border-blue-200 dark:border-zinc-800 bg-blue-50 dark:bg-zinc-900 px-4 py-3 text-center text-sm font-medium text-blue-700 dark:text-zinc-300 hover:bg-blue-100 dark:hover:bg-zinc-800"
+                className="rounded-lg border border-gray-200 dark:border-zinc-800 bg-gray-50 dark:bg-zinc-900 px-4 py-3 text-center text-sm font-medium text-gray-700 dark:text-zinc-300 hover:bg-gray-100 dark:hover:bg-zinc-800"
               >
                 수원시 판매처 찾기
               </Link>
               <Link
                 href="/busan/haeundae"
-                className="rounded-lg border border-blue-200 dark:border-zinc-800 bg-blue-50 dark:bg-zinc-900 px-4 py-3 text-center text-sm font-medium text-blue-700 dark:text-zinc-300 hover:bg-blue-100 dark:hover:bg-zinc-800"
+                className="rounded-lg border border-gray-200 dark:border-zinc-800 bg-gray-50 dark:bg-zinc-900 px-4 py-3 text-center text-sm font-medium text-gray-700 dark:text-zinc-300 hover:bg-gray-100 dark:hover:bg-zinc-800"
               >
                 해운대구 판매처 찾기
               </Link>
@@ -158,7 +158,7 @@ export default function ShortageArticlePage() {
         </div>
 
         {/* 전국 판매처 찾기 CTA */}
-        <div className="mt-10 rounded-lg border border-blue-200 dark:border-zinc-800 bg-blue-50 dark:bg-zinc-900 p-6 text-center">
+        <div className="mt-10 rounded-lg border border-gray-200 dark:border-zinc-800 bg-gray-50 dark:bg-zinc-900 p-6 text-center">
           <p className="font-bold text-gray-900 dark:text-white">
             가까운 종량제 봉투 판매처를 찾고 계신가요?
           </p>
@@ -167,7 +167,7 @@ export default function ShortageArticlePage() {
           </p>
           <Link
             href="/"
-            className="mt-4 inline-block rounded-lg bg-blue-600 dark:bg-zinc-800 dark:border dark:border-zinc-700 px-6 py-2.5 text-sm font-medium text-white hover:bg-blue-700 dark:hover:bg-zinc-700"
+            className="mt-4 inline-block rounded-lg bg-gray-900 dark:bg-zinc-800 dark:border dark:border-zinc-700 px-6 py-2.5 text-sm font-medium text-white hover:bg-gray-800 dark:hover:bg-zinc-700"
           >
             전국 판매처 찾기 →
           </Link>

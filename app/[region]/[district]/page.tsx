@@ -97,51 +97,32 @@ export default async function DistrictPage({ params }: PageProps) {
           <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
             {districtInfo.name} 종량제 봉투 판매처
           </h1>
-          <p className="mt-1 text-gray-600 dark:text-gray-400">
+          <p className="mt-1 text-gray-600 dark:text-zinc-400">
             {regionInfo.name} {districtInfo.name} 종량제 봉투 판매처 정보
           </p>
         </section>
 
-        {/* 데이터 없음 안내 */}
-        <div className="rounded-xl border border-yellow-200 dark:border-yellow-800 bg-yellow-50 dark:bg-yellow-900/20 p-6 text-center">
+        {/* 데이터 없음 안내 + 구매 가능 장소 (통합) */}
+        <div className="rounded-xl border border-yellow-200 dark:border-yellow-500/30 bg-yellow-50 dark:bg-yellow-500/10 p-5">
           <p className="text-lg font-semibold text-yellow-800 dark:text-yellow-200">
             {districtInfo.name}에 등록된 판매처가 없습니다
           </p>
           <p className="mt-2 text-sm text-yellow-700 dark:text-yellow-300">
             공공데이터 기준이며, 실제로는 아래 장소에서 구매 가능합니다.
           </p>
-        </div>
-
-        {/* 실제 구매 가능 장소 안내 */}
-        <div className="mt-4 rounded-xl border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-5">
-          <h2 className="text-base font-bold text-gray-900 dark:text-white mb-3">
-            {districtInfo.name} 종량제 봉투 구매 가능 장소
-          </h2>
-          <ul className="space-y-2 text-sm text-gray-700 dark:text-gray-300">
-            <li className="flex items-center gap-2">
-              <span className="text-green-500">✔</span>
-              편의점 (CU, GS25, 세븐일레븐)
-            </li>
-            <li className="flex items-center gap-2">
-              <span className="text-green-500">✔</span>
-              대형마트 (이마트, 홈플러스, 롯데마트)
-            </li>
-            <li className="flex items-center gap-2">
-              <span className="text-green-500">✔</span>
-              동네 슈퍼마켓
-            </li>
-            <li className="flex items-center gap-2">
-              <span className="text-green-500">✔</span>
-              주민센터
-            </li>
+          <ul className="mt-3 space-y-2 text-sm text-yellow-700 dark:text-yellow-300">
+            <li className="flex items-center gap-2"><span className="text-green-500">✔</span>편의점 (CU, GS25, 세븐일레븐)</li>
+            <li className="flex items-center gap-2"><span className="text-green-500">✔</span>대형마트 (이마트, 홈플러스, 롯데마트)</li>
+            <li className="flex items-center gap-2"><span className="text-green-500">✔</span>동네 슈퍼마켓</li>
+            <li className="flex items-center gap-2"><span className="text-green-500">✔</span>주민센터</li>
           </ul>
-          <p className="mt-3 text-xs text-gray-400 dark:text-gray-500">
+          <p className="mt-3 text-xs text-yellow-600 dark:text-yellow-400">
             품절 시 여러 곳을 확인해보시기 바랍니다.
           </p>
         </div>
 
         {adjacentDistricts.length > 0 && (
-          <section className="mt-8">
+          <section className="mt-10">
             <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-white">
               {regionInfo.name} 인근 지역 판매처
             </h2>
@@ -155,7 +136,7 @@ export default async function DistrictPage({ params }: PageProps) {
                   <span className="font-medium text-gray-900 dark:text-white">
                     {d.district}
                   </span>
-                  <span className="mt-1 text-sm text-gray-500 dark:text-gray-400">
+                  <span className="mt-1 text-sm text-gray-500 dark:text-zinc-400">
                     {d.count}곳
                   </span>
                 </Link>
@@ -205,10 +186,10 @@ export default async function DistrictPage({ params }: PageProps) {
         <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
           {districtInfo.name} 종량제 봉투 파는곳
         </h1>
-        <p className="mt-1 text-gray-600 dark:text-gray-400">
+        <p className="mt-1 text-gray-600 dark:text-zinc-400">
           총 {data.totalCount}곳 · 데이터 갱신일: {data.updatedAt}
         </p>
-        <p className="mt-3 text-sm text-gray-500 dark:text-gray-400 leading-relaxed">
+        <p className="mt-3 text-sm text-gray-500 dark:text-zinc-400 leading-relaxed">
           종량제 봉투는 지역별 가격과 크기가 다르며, 편의점과 마트에서도 구매할
           수 있습니다. 아래에서 {districtInfo.name} 종량제 봉투 판매처를
           확인하세요.
@@ -272,7 +253,7 @@ export default async function DistrictPage({ params }: PageProps) {
         <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-white">
           {districtInfo.name} 종량제 봉투 안내
         </h2>
-        <div className="space-y-3 text-sm text-gray-600 dark:text-gray-400 leading-relaxed">
+        <div className="space-y-3 text-sm text-gray-600 dark:text-zinc-400 leading-relaxed">
           <p>
             종량제 봉투 가격은 지자체마다 다르게 책정됩니다.{" "}
             {districtInfo.name} 기준 일반 가정용 20L 봉투는 약 500~1,000원

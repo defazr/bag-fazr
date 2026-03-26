@@ -39,7 +39,7 @@ export default function HomePage() {
 
   return (
     <>
-      <section className="mt-6 mb-2 text-center">
+      <section className="mt-10 mb-2 text-center">
         <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
           종량제 봉투 판매처 찾기
         </h1>
@@ -105,9 +105,7 @@ export default function HomePage() {
         </Link>
       </section>
 
-      <div className="mt-12 border-t border-gray-200 dark:border-zinc-800 pt-6">
-        <FaqSection faqs={faqs} />
-      </div>
+      <FaqSection faqs={faqs} />
 
       {/* 광고: 하단
       <AdSlot slotId="6518541657" className="my-10" /> */}

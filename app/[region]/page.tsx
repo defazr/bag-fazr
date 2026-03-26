@@ -60,7 +60,7 @@ export default async function RegionPage({ params }: PageProps) {
         <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
           {regionInfo.name} 종량제 봉투 판매처
         </h1>
-        <p className="mt-1 text-gray-600 dark:text-gray-400">
+        <p className="mt-1 text-gray-600 dark:text-zinc-400">
           총 {data.totalCount.toLocaleString()}곳 · 데이터 갱신일:{" "}
           {data.updatedAt}
         </p>

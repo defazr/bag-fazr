@@ -8,7 +8,7 @@ export default function FaqSection({ faqs }: FaqSectionProps) {
   const schema = generateFaqSchema(faqs);
 
   return (
-    <section className="mt-10">
+    <section className="mt-12 border-t border-gray-200 dark:border-zinc-800 pt-10">
       <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-4">자주 묻는 질문</h2>
       <div className="space-y-3">
         {faqs.map((faq, i) => (

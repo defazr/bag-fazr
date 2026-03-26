@@ -47,7 +47,7 @@ export default function StoreList({ stores }: StoreListProps) {
         value={query}
         onChange={(e) => setQuery(e.target.value)}
         placeholder="이 지역 내 판매처 검색 (예: GS25, 마트)"
-        className="w-full rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-2.5 text-sm text-gray-900 dark:text-zinc-100 placeholder-gray-400 dark:placeholder-zinc-500 outline-none focus:border-blue-300 dark:focus:border-zinc-600"
+        className="w-full rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-2.5 text-sm text-gray-900 dark:text-zinc-100 placeholder-gray-400 dark:placeholder-zinc-500 outline-none focus:border-zinc-500 dark:focus:border-zinc-600"
       />
 
       {/* 결과 수 */}
