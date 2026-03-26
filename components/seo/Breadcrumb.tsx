@@ -22,7 +22,7 @@ export default function Breadcrumb({ items }: { items: BreadcrumbItem[] }) {
                 {item.label}
               </Link>
             ) : (
-              <span className="text-gray-900 dark:text-gray-100">{item.label}</span>
+              <span className="text-gray-900 dark:text-white">{item.label}</span>
             )}
           </li>
         ))}

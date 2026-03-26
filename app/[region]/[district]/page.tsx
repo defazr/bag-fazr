@@ -94,7 +94,7 @@ export default async function DistrictPage({ params }: PageProps) {
         />
 
         <section className="mb-6">
-          <h1 className="text-2xl font-bold text-gray-900 dark:text-gray-100">
+          <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
             {districtInfo.name} 종량제 봉투 판매처
           </h1>
           <p className="mt-1 text-gray-600 dark:text-gray-400">
@@ -114,7 +114,7 @@ export default async function DistrictPage({ params }: PageProps) {
 
         {/* 실제 구매 가능 장소 안내 */}
         <div className="mt-4 rounded-xl border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-5">
-          <h2 className="text-base font-bold text-gray-900 dark:text-gray-100 mb-3">
+          <h2 className="text-base font-bold text-gray-900 dark:text-white mb-3">
             {districtInfo.name} 종량제 봉투 구매 가능 장소
           </h2>
           <ul className="space-y-2 text-sm text-gray-700 dark:text-gray-300">
@@ -142,7 +142,7 @@ export default async function DistrictPage({ params }: PageProps) {
 
         {adjacentDistricts.length > 0 && (
           <section className="mt-8">
-            <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-gray-100">
+            <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-white">
               {regionInfo.name} 인근 지역 판매처
             </h2>
             <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
@@ -152,7 +152,7 @@ export default async function DistrictPage({ params }: PageProps) {
                   href={`/${region}/${d.districtSlug}`}
                   className="flex flex-col items-center rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-4 text-center transition hover:border-blue-300 hover:shadow-md duration-200"
                 >
-                  <span className="font-medium text-gray-900 dark:text-gray-100">
+                  <span className="font-medium text-gray-900 dark:text-white">
                     {d.district}
                   </span>
                   <span className="mt-1 text-sm text-gray-500 dark:text-gray-400">
@@ -166,11 +166,11 @@ export default async function DistrictPage({ params }: PageProps) {
 
         <FaqSection faqs={emptyFaqs} />
 
-        <div className="mt-6 flex flex-col sm:flex-row items-center justify-center gap-3">
+        <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-3">
           {adjacentDistricts.length > 0 && (
             <Link
               href={`/${region}/${adjacentDistricts[0].districtSlug}`}
-              className="inline-block rounded-lg bg-blue-600 px-5 py-2.5 text-sm font-medium text-white hover:bg-blue-700"
+              className="inline-block rounded-lg bg-blue-600 dark:bg-zinc-800 dark:border dark:border-zinc-700 px-5 py-2.5 text-sm font-medium text-white hover:bg-blue-700 dark:hover:bg-zinc-700"
             >
               인근 {adjacentDistricts[0].district} 판매처 보기
             </Link>
@@ -202,7 +202,7 @@ export default async function DistrictPage({ params }: PageProps) {
       />
 
       <section className="mb-6">
-        <h1 className="text-2xl font-bold text-gray-900 dark:text-gray-100">
+        <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
           {districtInfo.name} 종량제 봉투 파는곳
         </h1>
         <p className="mt-1 text-gray-600 dark:text-gray-400">
@@ -265,10 +265,10 @@ export default async function DistrictPage({ params }: PageProps) {
 
       {/* 다른 지역 보기 버튼 */}
       {adjacentDistricts.length > 0 && (
-        <div className="mt-6 text-center">
+        <div className="mt-8 text-center">
           <Link
             href={`/${region}`}
-            className="inline-block rounded-lg border border-blue-300 dark:border-blue-700 bg-blue-50 dark:bg-blue-900/20 px-5 py-2.5 text-sm font-medium text-blue-700 dark:text-blue-300 hover:bg-blue-100 dark:hover:bg-blue-900/40"
+            className="inline-block rounded-lg border border-blue-300 dark:border-zinc-700 bg-blue-50 dark:bg-zinc-800 px-5 py-2.5 text-sm font-medium text-blue-700 dark:text-white hover:bg-blue-100 dark:hover:bg-zinc-700"
           >
             가까운 다른 지역 판매처 보기
           </Link>
@@ -277,7 +277,7 @@ export default async function DistrictPage({ params }: PageProps) {
 
       {/* 종량제 봉투 안내 콘텐츠 블록 */}
       <section className="mt-10">
-        <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-gray-100">
+        <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-white">
           {districtInfo.name} 종량제 봉투 안내
         </h2>
         <div className="space-y-3 text-sm text-gray-600 dark:text-gray-400 leading-relaxed">
@@ -302,7 +302,7 @@ export default async function DistrictPage({ params }: PageProps) {
 
       {/* 함께 많이 찾는 정보 */}
       <section className="mt-10">
-        <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-gray-100">
+        <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-white">
           함께 많이 찾는 정보
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
@@ -323,7 +323,7 @@ export default async function DistrictPage({ params }: PageProps) {
 
       {/* 인접 지역 */}
       <section className="mt-10">
-        <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-gray-100">
+        <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-white">
           {regionInfo.name} 다른 지역 판매처
         </h2>
         {adjacentDistricts.length > 0 && (

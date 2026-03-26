@@ -40,7 +40,7 @@ export default function HomePage() {
   return (
     <>
       <section className="mb-8 text-center">
-        <h1 className="text-3xl font-bold text-gray-900 dark:text-gray-100">
+        <h1 className="text-3xl font-bold text-gray-900 dark:text-white">
           종량제 봉투 판매처 찾기
         </h1>
         <p className="mt-2 text-gray-600 dark:text-gray-400">
@@ -55,7 +55,7 @@ export default function HomePage() {
       <AdSlot slotId="8836749083" className="mb-6" /> */}
 
       <section>
-        <h2 className="mb-4 text-xl font-bold text-gray-900 dark:text-gray-100">
+        <h2 className="mb-4 text-xl font-bold text-gray-900 dark:text-white">
           지역별 판매처
         </h2>
         <RegionGrid regions={data.regions} />
@@ -63,14 +63,14 @@ export default function HomePage() {
 
       {/* 최근 이슈 */}
       <section className="mt-10">
-        <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-gray-100">
+        <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-white">
           최근 종량제 봉투 이슈
         </h2>
         <Link
           href="/article/shortage-2026"
           className="block rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-4 hover:border-blue-300 hover:shadow-md duration-200"
         >
-          <p className="font-semibold text-gray-900 dark:text-gray-100">
+          <p className="font-semibold text-gray-900 dark:text-white">
             종량제 봉투 대란 이유 총정리 (2026 최신)
           </p>
           <p className="mt-1 text-sm text-gray-500 dark:text-gray-400">
