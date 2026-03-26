@@ -18,13 +18,13 @@ export default function WhyNoBagsPage() {
 
       <article>
         <header className="mb-8">
-          <h1 className="text-2xl font-bold text-gray-900 leading-tight">
+          <h1 className="text-2xl font-bold text-gray-900 dark:text-white leading-tight">
             종량제 봉투 요즘 왜 없을까? 직접 확인해봤습니다
           </h1>
-          <p className="mt-2 text-sm text-gray-500">2026년 3월 기준</p>
+          <p className="mt-2 text-sm text-gray-500 dark:text-zinc-500">2026년 3월 기준</p>
         </header>
 
-        <div className="space-y-5 text-[15px] text-gray-700 leading-relaxed">
+        <div className="space-y-5 text-[15px] text-gray-700 dark:text-zinc-400 leading-relaxed">
           <p>
             얼마 전 쓰레기를 버리려는데 종량제 봉투가 없었습니다. 집 앞
             편의점에 갔더니 &ldquo;품절&rdquo;이라고 하더군요. 그래서 옆
@@ -37,7 +37,7 @@ export default function WhyNoBagsPage() {
             이런 상황이 된 걸까요?
           </p>
 
-          <h2 className="text-lg font-bold text-gray-900 pt-2">
+          <h2 className="text-lg font-bold text-gray-900 dark:text-white pt-2">
             원인은 나프타였습니다
           </h2>
 
@@ -53,7 +53,7 @@ export default function WhyNoBagsPage() {
             판매하고 있다고 합니다.
           </p>
 
-          <h2 className="text-lg font-bold text-gray-900 pt-2">
+          <h2 className="text-lg font-bold text-gray-900 dark:text-white pt-2">
             그래서 어디서 사야 하나?
           </h2>
 
@@ -69,31 +69,31 @@ export default function WhyNoBagsPage() {
           </p>
 
           {/* CTA */}
-          <div className="rounded-lg border border-blue-200 bg-blue-50 p-5">
-            <p className="font-bold text-gray-900">
+          <div className="rounded-lg border border-blue-200 dark:border-zinc-800 bg-blue-50 dark:bg-zinc-900 p-5">
+            <p className="font-bold text-gray-900 dark:text-white">
               종량제 봉투 판매처를 한눈에 찾을 수 있는 곳이 있습니다
             </p>
-            <p className="mt-1 text-sm text-gray-600">
+            <p className="mt-1 text-sm text-gray-600 dark:text-zinc-400">
               전국 69,000곳 이상의 판매처 정보를 지역별로 정리해둔
               사이트입니다. 가까운 곳부터 확인해보세요.
             </p>
             <div className="mt-3 flex flex-wrap gap-2">
               <Link
                 href="/article/shortage-2026"
-                className="rounded-md bg-blue-600 px-4 py-2 text-sm font-medium text-white hover:bg-blue-700"
+                className="rounded-md bg-blue-600 dark:bg-zinc-800 dark:border dark:border-zinc-700 px-4 py-2 text-sm font-medium text-white hover:bg-blue-700 dark:hover:bg-zinc-700"
               >
                 종량제 봉투 대란 이유 보기 →
               </Link>
               <Link
                 href="/"
-                className="rounded-md border border-blue-300 bg-white px-4 py-2 text-sm font-medium text-blue-700 hover:bg-blue-50"
+                className="rounded-md border border-blue-300 dark:border-zinc-700 bg-white dark:bg-zinc-900 px-4 py-2 text-sm font-medium text-blue-700 dark:text-zinc-300 hover:bg-blue-50 dark:hover:bg-zinc-800"
               >
                 전국 판매처 찾기 →
               </Link>
             </div>
           </div>
 
-          <h2 className="text-lg font-bold text-gray-900 pt-2">
+          <h2 className="text-lg font-bold text-gray-900 dark:text-white pt-2">
             앞으로는 어떻게 될까?
           </h2>
 
@@ -111,19 +111,19 @@ export default function WhyNoBagsPage() {
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
             <Link
               href="/seoul/gangnam"
-              className="rounded-lg border border-gray-200 bg-white px-4 py-3 text-center text-sm font-medium text-gray-700 hover:border-blue-300"
+              className="rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-3 text-center text-sm font-medium text-gray-700 dark:text-zinc-300 hover:border-blue-300 dark:hover:border-zinc-600"
             >
               강남구 판매처
             </Link>
             <Link
               href="/gyeonggi/suwon"
-              className="rounded-lg border border-gray-200 bg-white px-4 py-3 text-center text-sm font-medium text-gray-700 hover:border-blue-300"
+              className="rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-3 text-center text-sm font-medium text-gray-700 dark:text-zinc-300 hover:border-blue-300 dark:hover:border-zinc-600"
             >
               수원시 판매처
             </Link>
             <Link
               href="/busan/haeundae"
-              className="rounded-lg border border-gray-200 bg-white px-4 py-3 text-center text-sm font-medium text-gray-700 hover:border-blue-300"
+              className="rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-3 text-center text-sm font-medium text-gray-700 dark:text-zinc-300 hover:border-blue-300 dark:hover:border-zinc-600"
             >
               해운대구 판매처
             </Link>
@@ -132,7 +132,7 @@ export default function WhyNoBagsPage() {
       </article>
 
       {/* 신뢰 시그널 */}
-      <div className="mt-10 rounded-lg bg-gray-50 px-4 py-3 text-xs text-gray-400">
+      <div className="mt-10 rounded-lg bg-gray-50 dark:bg-zinc-900 px-4 py-3 text-xs text-gray-400 dark:text-zinc-500">
         <p>
           판매처 데이터 출처: 공공데이터포털 (행정안전부 자원환경
           쓰레기종량제봉투판매업)

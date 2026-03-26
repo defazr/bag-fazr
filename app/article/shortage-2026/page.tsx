@@ -37,23 +37,23 @@ export default function ShortageArticlePage() {
 
       <article>
         <header className="mb-8">
-          <h1 className="text-2xl font-bold text-gray-900 leading-tight">
+          <h1 className="text-2xl font-bold text-gray-900 dark:text-white leading-tight">
             종량제 봉투 대란 이유 총정리 (2026 최신)
           </h1>
-          <p className="mt-2 text-sm text-gray-500">2026년 3월 기준</p>
+          <p className="mt-2 text-sm text-gray-500 dark:text-zinc-500">2026년 3월 기준</p>
         </header>
 
         {/* Hook */}
-        <div className="mb-8 rounded-lg border border-red-200 bg-red-50 px-4 py-3">
-          <p className="text-sm text-red-800">
+        <div className="mb-8 rounded-lg border border-red-200 dark:border-red-900 bg-red-50 dark:bg-red-900/20 px-4 py-3">
+          <p className="text-sm text-red-800 dark:text-red-300">
             최근 종량제 봉투를 구하기 어렵다는 이야기가 많습니다. 실제로 일부
             지역에서는 편의점과 마트에서 품절 사례가 발생하고 있습니다.
           </p>
         </div>
 
-        <div className="space-y-6 text-[15px] text-gray-700 leading-relaxed">
+        <div className="space-y-6 text-[15px] text-gray-700 dark:text-zinc-400 leading-relaxed">
           <section>
-            <h2 className="text-lg font-bold text-gray-900 mb-2">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-2">
               왜 종량제 봉투를 못 구하나요?
             </h2>
             <p>
@@ -66,7 +66,7 @@ export default function ShortageArticlePage() {
           </section>
 
           <section>
-            <h2 className="text-lg font-bold text-gray-900 mb-2">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-2">
               원인 1: 나프타 수급 불안
             </h2>
             <p>
@@ -78,20 +78,20 @@ export default function ShortageArticlePage() {
           </section>
 
           {/* Mid CTA */}
-          <div className="rounded-lg border border-blue-200 bg-blue-50 px-4 py-3 text-center">
-            <p className="text-sm text-blue-800">
+          <div className="rounded-lg border border-blue-200 dark:border-zinc-800 bg-blue-50 dark:bg-zinc-900 px-4 py-3 text-center">
+            <p className="text-sm text-blue-800 dark:text-zinc-300">
               지금 내 주변 판매처를 확인해보세요
             </p>
             <Link
               href="/seoul/gangnam"
-              className="mt-2 inline-block rounded-md bg-blue-600 px-4 py-2 text-sm font-medium text-white hover:bg-blue-700"
+              className="mt-2 inline-block rounded-md bg-blue-600 dark:bg-zinc-800 dark:border dark:border-zinc-700 px-4 py-2 text-sm font-medium text-white hover:bg-blue-700 dark:hover:bg-zinc-700"
             >
               내 주변 종량제 봉투 판매처 확인하기 →
             </Link>
           </div>
 
           <section>
-            <h2 className="text-lg font-bold text-gray-900 mb-2">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-2">
               원인 2: 수요 급증
             </h2>
             <p>
@@ -103,7 +103,7 @@ export default function ShortageArticlePage() {
           </section>
 
           <section>
-            <h2 className="text-lg font-bold text-gray-900 mb-2">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-2">
               원인 3: 물류 지연
             </h2>
             <p>
@@ -114,7 +114,7 @@ export default function ShortageArticlePage() {
           </section>
 
           <section>
-            <h2 className="text-lg font-bold text-gray-900 mb-2">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-2">
               지금 종량제 봉투를 사려면?
             </h2>
             <p>
@@ -126,19 +126,19 @@ export default function ShortageArticlePage() {
             <div className="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-3">
               <Link
                 href="/seoul/gangnam"
-                className="rounded-lg border border-blue-200 bg-blue-50 px-4 py-3 text-center text-sm font-medium text-blue-700 hover:bg-blue-100"
+                className="rounded-lg border border-blue-200 dark:border-zinc-800 bg-blue-50 dark:bg-zinc-900 px-4 py-3 text-center text-sm font-medium text-blue-700 dark:text-zinc-300 hover:bg-blue-100 dark:hover:bg-zinc-800"
               >
                 강남구 판매처 찾기
               </Link>
               <Link
                 href="/gyeonggi/suwon"
-                className="rounded-lg border border-blue-200 bg-blue-50 px-4 py-3 text-center text-sm font-medium text-blue-700 hover:bg-blue-100"
+                className="rounded-lg border border-blue-200 dark:border-zinc-800 bg-blue-50 dark:bg-zinc-900 px-4 py-3 text-center text-sm font-medium text-blue-700 dark:text-zinc-300 hover:bg-blue-100 dark:hover:bg-zinc-800"
               >
                 수원시 판매처 찾기
               </Link>
               <Link
                 href="/busan/haeundae"
-                className="rounded-lg border border-blue-200 bg-blue-50 px-4 py-3 text-center text-sm font-medium text-blue-700 hover:bg-blue-100"
+                className="rounded-lg border border-blue-200 dark:border-zinc-800 bg-blue-50 dark:bg-zinc-900 px-4 py-3 text-center text-sm font-medium text-blue-700 dark:text-zinc-300 hover:bg-blue-100 dark:hover:bg-zinc-800"
               >
                 해운대구 판매처 찾기
               </Link>
@@ -146,7 +146,7 @@ export default function ShortageArticlePage() {
           </section>
 
           <section>
-            <h2 className="text-lg font-bold text-gray-900 mb-2">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-2">
               앞으로 전망은?
             </h2>
             <p>
@@ -158,16 +158,16 @@ export default function ShortageArticlePage() {
         </div>
 
         {/* 전국 판매처 찾기 CTA */}
-        <div className="mt-10 rounded-lg border border-blue-200 bg-blue-50 p-6 text-center">
-          <p className="font-bold text-gray-900">
+        <div className="mt-10 rounded-lg border border-blue-200 dark:border-zinc-800 bg-blue-50 dark:bg-zinc-900 p-6 text-center">
+          <p className="font-bold text-gray-900 dark:text-white">
             가까운 종량제 봉투 판매처를 찾고 계신가요?
           </p>
-          <p className="mt-1 text-sm text-gray-600">
+          <p className="mt-1 text-sm text-gray-600 dark:text-zinc-400">
             전국 69,000곳 이상의 판매처 정보를 제공합니다
           </p>
           <Link
             href="/"
-            className="mt-4 inline-block rounded-lg bg-blue-600 px-6 py-2.5 text-sm font-medium text-white hover:bg-blue-700"
+            className="mt-4 inline-block rounded-lg bg-blue-600 dark:bg-zinc-800 dark:border dark:border-zinc-700 px-6 py-2.5 text-sm font-medium text-white hover:bg-blue-700 dark:hover:bg-zinc-700"
           >
             전국 판매처 찾기 →
           </Link>
@@ -177,7 +177,7 @@ export default function ShortageArticlePage() {
       <FaqSection faqs={faqs} />
 
       {/* 신뢰 시그널 */}
-      <div className="mt-10 rounded-lg bg-gray-50 px-4 py-3 text-xs text-gray-400">
+      <div className="mt-10 rounded-lg bg-gray-50 dark:bg-zinc-900 px-4 py-3 text-xs text-gray-400 dark:text-zinc-500">
         <p>
           본 콘텐츠는 공개된 뉴스 및 공공데이터를 바탕으로 작성되었습니다.
           판매처 데이터 출처: 공공데이터포털 (행정안전부)
