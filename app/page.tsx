@@ -3,7 +3,7 @@ import Link from "next/link";
 import { getRegionsData } from "@/lib/data";
 import RegionGrid from "@/components/region/RegionGrid";
 import FaqSection from "@/components/seo/FaqSection";
-import AdSlot from "@/components/ads/AdSlot";
+// import AdSlot from "@/components/ads/AdSlot";
 
 export const revalidate = 86400;
 
@@ -51,8 +51,8 @@ export default function HomePage() {
         </p>
       </section>
 
-      {/* 광고: 상단 */}
-      <AdSlot slotId="8836749083" className="mb-6" />
+      {/* 광고: 상단
+      <AdSlot slotId="8836749083" className="mb-6" /> */}
 
       <section>
         <h2 className="mb-4 text-xl font-bold text-gray-900">
@@ -82,8 +82,8 @@ export default function HomePage() {
 
       <FaqSection faqs={faqs} />
 
-      {/* 광고: 하단 */}
-      <AdSlot slotId="6518541657" className="mt-8" />
+      {/* 광고: 하단
+      <AdSlot slotId="6518541657" className="mt-8" /> */}
     </>
   );
 }

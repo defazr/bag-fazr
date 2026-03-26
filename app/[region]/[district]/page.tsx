@@ -12,7 +12,7 @@ import { getDistrictFaqs } from "@/lib/seo";
 import StoreList from "@/components/store/StoreList";
 import Breadcrumb from "@/components/seo/Breadcrumb";
 import FaqSection from "@/components/seo/FaqSection";
-import AdSlot from "@/components/ads/AdSlot";
+// import AdSlot from "@/components/ads/AdSlot";
 
 export const revalidate = 86400;
 
@@ -241,8 +241,8 @@ export default async function DistrictPage({ params }: PageProps) {
 
       <StoreList stores={data.stores} />
 
-      {/* 광고: 리스트 아래 */}
-      <AdSlot slotId="7831623329" className="mt-6" />
+      {/* 광고: 리스트 아래
+      <AdSlot slotId="7831623329" className="mt-6" /> */}
 
       {data.totalCount < 3 && adjacentDistricts.length > 0 && (
         <section className="mt-6 rounded-lg border border-yellow-200 bg-yellow-50 p-4">
@@ -358,8 +358,8 @@ export default async function DistrictPage({ params }: PageProps) {
         </p>
       </div>
 
-      {/* 광고: 하단 */}
-      <AdSlot slotId="6518541657" className="mt-8" />
+      {/* 광고: 하단
+      <AdSlot slotId="6518541657" className="mt-8" /> */}
     </>
   );
 }
