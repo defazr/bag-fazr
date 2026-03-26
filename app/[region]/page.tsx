@@ -29,7 +29,7 @@ export async function generateMetadata({
 
   const totalCount = data?.totalCount ?? 0;
   return {
-    title: `${regionInfo.name} 종량제 봉투 파는곳 | 가격 | 크기 (2026 최신)`,
+    title: `${regionInfo.name} 종량제 봉투 파는곳 총정리 | 가격 | 크기 (2026)`,
     description: `${regionInfo.name} ${districtCount}개 지역 종량제 봉투 판매처 ${totalCount.toLocaleString()}곳. 가격, 크기, 편의점 구매 정보까지 한눈에.`,
     alternates: {
       canonical: `https://bag.fazr.co.kr/${region}`,

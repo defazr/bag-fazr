@@ -44,7 +44,7 @@ export async function generateMetadata({
   return {
     title:
       count > 0
-        ? `${districtInfo.name} 종량제 봉투 파는곳 | 가격 | 크기 (2026 최신)`
+        ? `${districtInfo.name} 종량제 봉투 파는곳 총정리 | 가격 | 크기 (2026)`
         : `${districtInfo.name} 종량제 봉투 판매처 | 데이터 준비중`,
     description:
       count > 0
@@ -192,20 +192,73 @@ export default async function DistrictPage({ params }: PageProps) {
           </p>
           <div className="mt-2 flex flex-wrap gap-2">
             {adjacentDistricts.map((d) => (
-              <a
+              <Link
                 key={d.districtSlug}
                 href={`/${region}/${d.districtSlug}`}
                 className="rounded-full border border-yellow-300 px-3 py-1 text-sm text-yellow-700 hover:bg-yellow-100"
               >
                 {d.district} ({d.count}곳)
-              </a>
+              </Link>
             ))}
           </div>
         </section>
       )}
 
+      {/* 마이크로 콘텐츠: 재고 안내 */}
+      <div className="mt-8 rounded-lg border border-amber-200 bg-amber-50 px-4 py-3">
+        <p className="text-sm text-amber-800">
+          최근 수요 증가로 일부 판매처는 품절일 수 있습니다. 방문 전 재고를
+          확인하시는 것을 권장합니다.
+        </p>
+      </div>
+
+      {/* 종량제 봉투 안내 콘텐츠 블록 */}
+      <section className="mt-10">
+        <h2 className="mb-3 text-lg font-bold text-gray-900">
+          {districtInfo.name} 종량제 봉투 안내
+        </h2>
+        <div className="space-y-3 text-sm text-gray-600 leading-relaxed">
+          <p>
+            종량제 봉투 가격은 지자체마다 다르게 책정됩니다.{" "}
+            {districtInfo.name} 기준 일반 가정용 20L 봉투는 약 500~1,000원
+            수준이며, 음식물 쓰레기용은 별도 가격이 적용됩니다.
+          </p>
+          <p>
+            봉투 크기는 5L, 10L, 20L, 50L, 100L 등이 있으며, 1~2인 가구는
+            10~20L, 3인 이상 가구는 20~50L을 주로 사용합니다.
+          </p>
+          <p>
+            GS25, CU, 세븐일레븐 등 편의점에서도 종량제 봉투를 구매할 수
+            있습니다. 다만 2026년 나프타 수급 불안으로 일부 매장에서는 재고가
+            부족할 수 있으니, 여러 곳을 확인해보시기 바랍니다.
+          </p>
+        </div>
+      </section>
+
       <FaqSection faqs={faqs} />
 
+      {/* 함께 많이 찾는 정보 */}
+      <section className="mt-10">
+        <h2 className="mb-3 text-lg font-bold text-gray-900">
+          함께 많이 찾는 정보
+        </h2>
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+          <Link
+            href={`/${region}`}
+            className="rounded-lg border border-gray-200 bg-white px-4 py-3 text-sm text-gray-700 hover:border-blue-300 hover:shadow-sm"
+          >
+            {regionInfo.name} 종량제 봉투 가격 안내 →
+          </Link>
+          <Link
+            href={`/${region}`}
+            className="rounded-lg border border-gray-200 bg-white px-4 py-3 text-sm text-gray-700 hover:border-blue-300 hover:shadow-sm"
+          >
+            {regionInfo.name} 종량제 봉투 크기별 판매처 →
+          </Link>
+        </div>
+      </section>
+
+      {/* 인접 지역 */}
       <section className="mt-10">
         <h2 className="mb-3 text-lg font-bold text-gray-900">
           {regionInfo.name} 다른 지역 판매처
@@ -232,6 +285,15 @@ export default async function DistrictPage({ params }: PageProps) {
           </Link>
         </div>
       </section>
+
+      {/* 신뢰 시그널 */}
+      <div className="mt-10 rounded-lg bg-gray-50 px-4 py-3 text-xs text-gray-400">
+        <p>
+          데이터 출처: 공공데이터포털 (행정안전부 자원환경
+          쓰레기종량제봉투판매업) · 갱신일: {data.updatedAt} · 영업 중인
+          판매처만 제공
+        </p>
+      </div>
     </>
   );
 }
