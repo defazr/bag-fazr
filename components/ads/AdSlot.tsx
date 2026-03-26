@@ -43,7 +43,7 @@ export default function AdSlot({
   if (!mounted) return null;
 
   return (
-    <div className={`ad-container overflow-hidden ${className}`}>
+    <div className={`min-h-[100px] ${className}`}>
       <ins
         key={slotId}
         ref={adRef}
