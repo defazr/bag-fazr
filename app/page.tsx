@@ -79,7 +79,7 @@ export default function HomePage() {
       {/* 광고: 상단
       <AdSlot slotId="8836749083" className="my-10" /> */}
 
-      <section className="mt-10">
+      <section id="regions" className="mt-10">
         <h2 className="mb-4 text-lg font-bold text-gray-900 dark:text-white">
           지역별 판매처
         </h2>
@@ -140,12 +140,12 @@ export default function HomePage() {
           <p className="mt-3 text-xs text-gray-400 dark:text-zinc-500">
             ※ 가격은 지역에 따라 다를 수 있습니다
           </p>
-          <Link
-            href="/"
+          <a
+            href="#regions"
             className="mt-3 inline-block rounded-xl border border-gray-200 dark:border-zinc-700 bg-gray-50 dark:bg-zinc-800 px-4 py-2 text-sm font-medium text-gray-700 dark:text-white hover:bg-gray-100 dark:hover:bg-zinc-700 transition"
           >
             지역별 가격 확인하기 →
-          </Link>
+          </a>
         </div>
       </section>
 
