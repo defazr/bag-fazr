@@ -4,7 +4,7 @@
   "district": "여수시",
   "districtSlug": "yeosu",
   "updatedAt": "2026-03-26",
-  "totalCount": 1126,
+  "totalCount": 1099,
   "stores": [
     {
       "name": "오복수퍼",
@@ -2485,20 +2485,6 @@
       "licenseDate": "2000-06-01"
     },
     {
-      "name": "바다부식",
-      "address": "전라남도 여수시 중앙동 178",
-      "roadAddress": "전라남도 여수시 중앙5길 5  (중앙동)",
-      "status": "영업/정상",
-      "licenseDate": "2000-06-01"
-    },
-    {
-      "name": "코리아마트",
-      "address": "전라남도 여수시 중앙동 746",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-06-01"
-    },
-    {
       "name": "동광식품",
       "address": "전라남도 여수시 고소동 한신상가 1-104",
       "roadAddress": "",
@@ -2509,13 +2495,6 @@
       "name": "양지식료품",
       "address": "전라남도 여수시 중앙동 362",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-06-01"
-    },
-    {
-      "name": "라도스페",
-      "address": "전라남도 여수시 고소동 593",
-      "roadAddress": "전라남도 여수시 고소3길 21-1  (고소동)",
       "status": "영업/정상",
       "licenseDate": "2000-06-01"
     },
@@ -2565,13 +2544,6 @@
       "name": "삼거리수퍼",
       "address": "전라남도 여수시 돌산읍 군내리 554 동내마을",
       "roadAddress": "전라남도 여수시 돌산읍 망월대길 1  (동내마을)",
-      "status": "영업/정상",
-      "licenseDate": "2000-06-01"
-    },
-    {
-      "name": "중앙수퍼",
-      "address": "전라남도 여수시 화양면 나진리 478-1",
-      "roadAddress": "전라남도 여수시 화양면 나진길 12-1",
       "status": "영업/정상",
       "licenseDate": "2000-06-01"
     },
@@ -2861,13 +2833,6 @@
       "roadAddress": "전라남도 여수시 시청로 37  (학동)",
       "status": "영업/정상",
       "licenseDate": "2002-02-14"
-    },
-    {
-      "name": "양심상회",
-      "address": "전라남도 여수시 신기동 94-7",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
     },
     {
       "name": "양심상회",
@@ -3304,13 +3269,6 @@
       "licenseDate": ""
     },
     {
-      "name": "호동슈퍼",
-      "address": "전라남도 여수시 안산동 465-21",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "미니스톱여수해경점",
       "address": "전라남도 여수시 문수동 114",
       "roadAddress": "전라남도 여수시 여문문화길 16  (문수동)",
@@ -3328,13 +3286,6 @@
       "name": "엘유통(주)진남시장점",
       "address": "전라남도 여수시 학동 35-1",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "2000원store",
-      "address": "전라남도 여수시 문수동 116",
-      "roadAddress": "전라남도 여수시 문수로 86  (문수동)",
       "status": "영업/정상",
       "licenseDate": ""
     },
@@ -4179,13 +4130,6 @@
       "licenseDate": "2003-08-21"
     },
     {
-      "name": "보람마트",
-      "address": "전라남도 여수시 교동 430",
-      "roadAddress": "전라남도 여수시 중앙로 57  (교동)",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "영편의점",
       "address": "전라남도 여수시 돌산읍 군내리 558-1",
       "roadAddress": "",
@@ -4230,13 +4174,6 @@
     {
       "name": "(유)코아마트",
       "address": "전라남도 여수시 봉산동 100-16",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "선영슈퍼",
-      "address": "전라남도 여수시 봉산동 869-3",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -4445,13 +4382,6 @@
       "licenseDate": "2000-06-01"
     },
     {
-      "name": "신흥슈퍼",
-      "address": "전라남도 여수시 봉산동 250-30",
-      "roadAddress": "전라남도 여수시 봉산남1길 11  (봉산동)",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "뉴마트",
       "address": "전라남도 여수시 봉산동 274-4",
       "roadAddress": "전라남도 여수시 봉산1로 12  (봉산동)",
@@ -4592,22 +4522,8 @@
       "licenseDate": "2003-12-15"
     },
     {
-      "name": "세일슈퍼",
-      "address": "전라남도 여수시 봉산동 554",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "라인마트",
       "address": "전라남도 여수시 국동 산 11-1    라인상가113호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "영편의점",
-      "address": "전라남도 여수시 돌산읍 군내리 558-1",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -4844,13 +4760,6 @@
       "licenseDate": "2000-06-01"
     },
     {
-      "name": "대림사택",
-      "address": "전라남도 여수시 신기동 138",
-      "roadAddress": "전라남도 여수시 망마로 82-10  (신기동)",
-      "status": "영업/정상",
-      "licenseDate": "2000-06-01"
-    },
-    {
       "name": "금호마트",
       "address": "전라남도 여수시 소호동 353 금호아파트상가  1동 1호",
       "roadAddress": "",
@@ -4860,13 +4769,6 @@
     {
       "name": "세븐일레븐 교동점",
       "address": "전라남도 여수시 교동 428-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "동백슈퍼",
-      "address": "전라남도 여수시 문수동 78-1",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -4958,13 +4860,6 @@
     {
       "name": "미니스톱 봉산대교점",
       "address": "전라남도 여수시 봉산동 247-19",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "신월슈퍼",
-      "address": "전라남도 여수시 신월동 74-3",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -5684,20 +5579,6 @@
       "licenseDate": "2006-08-01"
     },
     {
-      "name": "청경할인마트",
-      "address": "전라남도 여수시 미평동 756-7",
-      "roadAddress": "전라남도 여수시 대학로 35  (미평동)",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "청경할인마트",
-      "address": "전라남도 여수시 미평동 756-7",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "미니수퍼",
       "address": "전라남도 여수시 오천동 359-1",
       "roadAddress": "",
@@ -5717,13 +5598,6 @@
       "roadAddress": "전라남도 여수시 오천3길 39 (오천동)",
       "status": "영업/정상",
       "licenseDate": "2006-08-31"
-    },
-    {
-      "name": "만흥상회",
-      "address": "전라남도 여수시 만흥동 1114-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
     },
     {
       "name": "만흥상회",
@@ -5768,13 +5642,6 @@
       "licenseDate": ""
     },
     {
-      "name": "해남슈퍼",
-      "address": "전라남도 여수시 관문동 286-36",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "마을가게",
       "address": "전라남도 여수시 관문동 134-9",
       "roadAddress": "",
@@ -5785,13 +5652,6 @@
       "name": "해양공원편의점",
       "address": "전라남도 여수시 종화동 1209",
       "roadAddress": "전라남도 여수시 이순신광장로 169  (종화동)",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "설이슈퍼",
-      "address": "전라남도 여수시 관문동 938",
-      "roadAddress": "전라남도 여수시 동산5길 2  (관문동)",
       "status": "영업/정상",
       "licenseDate": ""
     },
@@ -5873,23 +5733,9 @@
       "licenseDate": "2000-06-01"
     },
     {
-      "name": "상암슈퍼",
-      "address": "전라남도 여수시 상암동 837",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-06-01"
-    },
-    {
       "name": "마을회관",
       "address": "전라남도 여수시 호명동 1202-2",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-06-01"
-    },
-    {
-      "name": "성인상회",
-      "address": "전라남도 여수시 상암동 1703",
-      "roadAddress": "전라남도 여수시 상암로 623-1  (상암동)",
       "status": "영업/정상",
       "licenseDate": "2000-06-01"
     },
@@ -6286,13 +6132,6 @@
       "licenseDate": "2000-06-01"
     },
     {
-      "name": "해태슈퍼",
-      "address": "전라남도 여수시 묘도동 998-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-06-01"
-    },
-    {
       "name": "은희수퍼",
       "address": "전라남도 여수시 묘도동 1451-5",
       "roadAddress": "",
@@ -6330,13 +6169,6 @@
     {
       "name": "동천수퍼",
       "address": "전라남도 여수시 율촌면 조화리 136-3",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-06-01"
-    },
-    {
-      "name": "팔복지업사",
-      "address": "전라남도 여수시 율촌면 조화리 214-7",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2000-06-01"
@@ -6849,13 +6681,6 @@
       "name": "봉두상회",
       "address": "전라남도 여수시 소라면 봉두리 611",
       "roadAddress": "전라남도 여수시 소라면 당촌길 21-8",
-      "status": "영업/정상",
-      "licenseDate": "2000-06-01"
-    },
-    {
-      "name": "구판장",
-      "address": "전라남도 여수시 소라면 대포리 69",
-      "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2000-06-01"
     },
@@ -7672,13 +7497,6 @@
       "licenseDate": "2000-06-01"
     },
     {
-      "name": "서울마트",
-      "address": "전라남도 여수시 고소동 50-20",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-06-01"
-    },
-    {
       "name": "(주)원유통",
       "address": "전라남도 여수시 고소동 637",
       "roadAddress": "전라남도 여수시 동문로 40  (고소동)",
@@ -7793,13 +7611,6 @@
     {
       "name": "원마트",
       "address": "전라남도 여수시 미평동 670-8",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-06-01"
-    },
-    {
-      "name": "여수마트",
-      "address": "전라남도 여수시 미평동 673-2",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2000-06-01"

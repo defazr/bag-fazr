@@ -27,9 +27,10 @@ export async function generateMetadata({
   const data = getRegionIndex(region);
   const districtCount = data?.districts.length ?? 0;
 
+  const totalCount = data?.totalCount ?? 0;
   return {
-    title: `${regionInfo.name} 종량제 봉투 파는곳 | 구별 판매처 총정리`,
-    description: `${regionInfo.name} ${districtCount}개 지역의 종량제 봉투 판매처를 확인하세요.`,
+    title: `${regionInfo.name} 종량제 봉투 파는곳 | 가격 | 크기 (2026 최신)`,
+    description: `${regionInfo.name} ${districtCount}개 지역 종량제 봉투 판매처 ${totalCount.toLocaleString()}곳. 가격, 크기, 편의점 구매 정보까지 한눈에.`,
     alternates: {
       canonical: `https://bag.fazr.co.kr/${region}`,
     },

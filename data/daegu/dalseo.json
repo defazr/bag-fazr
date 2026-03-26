@@ -4,7 +4,7 @@
   "district": "달서구",
   "districtSlug": "dalseo",
   "updatedAt": "2026-03-26",
-  "totalCount": 1330,
+  "totalCount": 1314,
   "stores": [
     {
       "name": "신우유통 주공점",
@@ -121,13 +121,6 @@
     {
       "name": "빅마트",
       "address": "대구광역시 달서구 대곡동 77",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "참할인마트",
-      "address": "대구광역시 달서구 본리동 62-22",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -537,13 +530,6 @@
       "roadAddress": "대구광역시 달서구 와룡로45길 16 (죽전동)",
       "status": "영업/정상",
       "licenseDate": "2003-12-26"
-    },
-    {
-      "name": "해피홈마트",
-      "address": "대구광역시 달서구 상인동 1452-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2003-02-11"
     },
     {
       "name": "장터슈퍼",
@@ -1344,13 +1330,6 @@
       "licenseDate": "1995-08-14"
     },
     {
-      "name": "빅마트",
-      "address": "대구광역시 달서구 대곡동 77",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1995-12-23"
-    },
-    {
       "name": "성광슈퍼",
       "address": "대구광역시 달서구 상인동 1332-404",
       "roadAddress": "대구광역시 달서구 월곡로27길 71 (상인동)",
@@ -1792,13 +1771,6 @@
       "licenseDate": "1999-05-11"
     },
     {
-      "name": "그린알뜰쇼핑",
-      "address": "대구광역시 달서구 상인동 1442-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1995-05-25"
-    },
-    {
       "name": "대한할인마트",
       "address": "대구광역시 달서구 상인동 362",
       "roadAddress": "",
@@ -2184,13 +2156,6 @@
       "licenseDate": ""
     },
     {
-      "name": "미니스톱 반고개점",
-      "address": "대구광역시 달서구 두류동 840-159",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2006-09-28"
-    },
-    {
       "name": "윌마트",
       "address": "대구광역시 달서구 본동 692-1 1층",
       "roadAddress": "",
@@ -2207,27 +2172,6 @@
     {
       "name": "코사마트 대구유통",
       "address": "대구광역시 달서구 송현동 75-6",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "에이스마트",
-      "address": "대구광역시 달서구 진천동 44-4",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "에이스마트",
-      "address": "대구광역시 달서구 진천동 44-4",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "에이스마트",
-      "address": "대구광역시 달서구 진천동 44-4",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -2277,13 +2221,6 @@
     {
       "name": "쉘마트",
       "address": "대구광역시 달서구 신당동 1677 1층",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "미니스톱 반고개점",
-      "address": "대구광역시 달서구 두류동 840-159",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -3582,13 +3519,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1994-12-26"
-    },
-    {
-      "name": "원플러스마트",
-      "address": "대구광역시 달서구 상인동 1563 비둘기아파트상가 110동 1호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
     },
     {
       "name": "장관마트",
@@ -4935,13 +4865,6 @@
       "licenseDate": "2019-04-15"
     },
     {
-      "name": "지에스(GS)25월배에이스점",
-      "address": "대구광역시 달서구 상인동 257-12",
-      "roadAddress": "대구광역시 달서구 월배로 180, 1층 (상인동)",
-      "status": "영업/정상",
-      "licenseDate": "2019-04-15"
-    },
-    {
       "name": "지에스(GS)25달서월성점",
       "address": "대구광역시 달서구 월성동 1264",
       "roadAddress": "대구광역시 달서구 조암남로 42, 109~110호 (월성동)",
@@ -5129,13 +5052,6 @@
       "roadAddress": "대구광역시 달서구 월곡로 113 (도원동)",
       "status": "영업/정상",
       "licenseDate": "2012-01-11"
-    },
-    {
-      "name": "세븐일레븐 대구구병원점",
-      "address": "대구광역시 달서구 감삼동 100-16",
-      "roadAddress": "대구광역시 달서구 감삼북길 136 (감삼동)",
-      "status": "영업/정상",
-      "licenseDate": "2016-05-30"
     },
     {
       "name": "GS25 월성파크점",
@@ -6009,13 +5925,6 @@
       "name": "씨앤에스 강창점",
       "address": "대구광역시 달서구 호산동 294-4",
       "roadAddress": "대구광역시 달서구 달구벌대로 1009 (호산동)",
-      "status": "영업/정상",
-      "licenseDate": "2012-12-07"
-    },
-    {
-      "name": "대백마트 해맞이점",
-      "address": "대구광역시 달서구 송현동 207-16",
-      "roadAddress": "대구광역시 달서구 월배로 416 (송현동)",
       "status": "영업/정상",
       "licenseDate": "2012-12-07"
     },
@@ -7609,13 +7518,6 @@
       "licenseDate": "2018-03-07"
     },
     {
-      "name": "세븐일레븐대구성서공단센터점",
-      "address": "대구광역시 달서구 월암동 1-143",
-      "roadAddress": "대구광역시 달서구 성서공단로22안길 8 (월암동)",
-      "status": "영업/정상",
-      "licenseDate": "2018-03-07"
-    },
-    {
       "name": "홈마트",
       "address": "대구광역시 달서구 이곡동 1308-1 성서2차서한타운",
       "roadAddress": "대구광역시 달서구 선원로 122, 110동 101호 (이곡동, 성서2차서한타운)",
@@ -9100,13 +9002,6 @@
       "licenseDate": "2017-11-14"
     },
     {
-      "name": "준할인마트",
-      "address": "대구광역시 달서구 죽전동 378-5",
-      "roadAddress": "대구광역시 달서구 와룡로45길 16 (죽전동)",
-      "status": "영업/정상",
-      "licenseDate": "2016-01-15"
-    },
-    {
       "name": "신바람홈마트",
       "address": "대구광역시 달서구 월성동 120",
       "roadAddress": "대구광역시 달서구 조암로6길 20 (월성동, 월성푸르지오아파트)",
@@ -9301,13 +9196,6 @@
       "roadAddress": "대구광역시 달서구 월배로85길 11 (송현동)",
       "status": "영업/정상",
       "licenseDate": "2017-07-26"
-    },
-    {
-      "name": "대백마트 영남점",
-      "address": "",
-      "roadAddress": "대구광역시 달서구 학산남로 13, 상가동 지하1층 001호 (월성동)",
-      "status": "영업/정상",
-      "licenseDate": "2017-10-13"
     },
     {
       "name": "이편한 할인마트",

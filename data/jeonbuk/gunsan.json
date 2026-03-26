@@ -4,7 +4,7 @@
   "district": "군산시",
   "districtSlug": "gunsan",
   "updatedAt": "2026-03-26",
-  "totalCount": 671,
+  "totalCount": 666,
   "stores": [
     {
       "name": "장인영쇠 철물",
@@ -1057,13 +1057,6 @@
       "licenseDate": "2013-10-31"
     },
     {
-      "name": "금호참마트",
-      "address": "",
-      "roadAddress": "전북특별자치도 군산시 한밭안길 1 (나운동)",
-      "status": "영업/정상",
-      "licenseDate": "2013-11-01"
-    },
-    {
       "name": "씨유지곡행복점",
       "address": "",
       "roadAddress": "전북특별자치도 군산시 신평길 25 (지곡동)",
@@ -1391,13 +1384,6 @@
       "roadAddress": "전북특별자치도 군산시 나운로 489 (나운동)",
       "status": "영업/정상",
       "licenseDate": "2014-02-12"
-    },
-    {
-      "name": "씨유군산신관로드점",
-      "address": "",
-      "roadAddress": "전북특별자치도 군산시 대학로 649 (신관동)",
-      "status": "영업/정상",
-      "licenseDate": "2014-02-28"
     },
     {
       "name": "씨유군산신관로드점",
@@ -3297,13 +3283,6 @@
       "licenseDate": "2012-04-10"
     },
     {
-      "name": "롯데쇼핑(주)롯데마트군산점",
-      "address": "",
-      "roadAddress": "전북특별자치도 군산시 수송로 185 (수송동)",
-      "status": "영업/정상",
-      "licenseDate": "2014-05-02"
-    },
-    {
       "name": "사랑편의점",
       "address": "",
       "roadAddress": "전북특별자치도 군산시 백릉안1길 12 (경장동)",
@@ -3428,13 +3407,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1997-05-23"
-    },
-    {
-      "name": "태평양슈퍼",
-      "address": "전북특별자치도 군산시 나포면 옥곤리 451",
-      "roadAddress": "전북특별자치도 군산시 나포면 십자들로 642",
-      "status": "영업/정상",
-      "licenseDate": "1998-01-01"
     },
     {
       "name": "미곡상회",
@@ -4023,13 +3995,6 @@
       "roadAddress": "전북특별자치도 군산시 대야면 석화로 8",
       "status": "영업/정상",
       "licenseDate": "2012-09-13"
-    },
-    {
-      "name": "수마트",
-      "address": "",
-      "roadAddress": "전북특별자치도 군산시 원당길 84 (미룡동)",
-      "status": "영업/정상",
-      "licenseDate": "2012-09-17"
     },
     {
       "name": "수송베스트마트",

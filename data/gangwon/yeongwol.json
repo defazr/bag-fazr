@@ -4,7 +4,7 @@
   "district": "영월군",
   "districtSlug": "yeongwol",
   "updatedAt": "2026-03-26",
-  "totalCount": 345,
+  "totalCount": 343,
   "stores": [
     {
       "name": "봉투판매소",
@@ -842,13 +842,6 @@
     {
       "name": "금용학생사",
       "address": "강원특별자치도 영월군 영월읍 덕포리 3  통",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "수원슈퍼",
-      "address": "강원특별자치도 영월군 영월읍 덕포리 4  통4  반",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -2032,13 +2025,6 @@
     {
       "name": "하동농협연쇄점",
       "address": "강원특별자치도 영월군 김삿갓면 옥동리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "왕검성슈퍼",
-      "address": "강원특별자치도 영월군 영월읍 정양리",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""

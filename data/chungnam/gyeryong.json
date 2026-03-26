@@ -4,7 +4,7 @@
   "district": "계룡시",
   "districtSlug": "gyeryong",
   "updatedAt": "2026-03-26",
-  "totalCount": 91,
+  "totalCount": 86,
   "stores": [
     {
       "name": "지곡가게",
@@ -238,13 +238,6 @@
       "licenseDate": ""
     },
     {
-      "name": "신세계편의점",
-      "address": "충청남도 계룡시 두마면 왕대리 246",
-      "roadAddress": "충청남도 계룡시 두마면 사계로 205",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "신성할인마트",
       "address": "충청남도 계룡시 금암동 신성미소지움단지내상가  105호",
       "roadAddress": "",
@@ -268,27 +261,6 @@
     {
       "name": "으뜸인삼사",
       "address": "충청남도 계룡시 엄사면 엄사리 182-6",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "비사벌유통",
-      "address": "충청남도 계룡시 엄사면 엄사리 384",
-      "roadAddress": "충청남도 계룡시 엄사면 번영3길 43",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "우림할인마트",
-      "address": "충청남도 계룡시 금암동 167-1    우림루미아트 상가 101호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "미소지움할인마트",
-      "address": "충청남도 계룡시 금암동 74 신성2차 105호",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -332,13 +304,6 @@
       "name": "훼미리마트계룡경남점",
       "address": "충청남도 계룡시 엄사면 엄사리 280 경남무궁화아파트 상가동 102.103호",
       "roadAddress": "충청남도 계룡시 엄사면 번영로 43,  102.103호 (경남무궁화아파트 상가동)",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "우림할인마트",
-      "address": "충청남도 계룡시 금암동 167-1    우림루미아트 상가 101호",
-      "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
     },

@@ -4,7 +4,7 @@
   "district": "무안군",
   "districtSlug": "muan",
   "updatedAt": "2026-03-26",
-  "totalCount": 106,
+  "totalCount": 104,
   "stores": [
     {
       "name": "무안읍사무소",
@@ -434,13 +434,6 @@
       "licenseDate": ""
     },
     {
-      "name": "청계상회",
-      "address": "전라남도 무안군 청계면 청계리 252",
-      "roadAddress": "전라남도 무안군 청계면 원청계길 43-8",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "구암상회",
       "address": "전라남도 무안군 청계면 청계리 643-1",
       "roadAddress": "",
@@ -719,13 +712,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
-    },
-    {
-      "name": "삼향면사무소",
-      "address": "전라남도 무안군 삼향읍 임성리 1132-5",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2007-01-01"
     },
     {
       "name": "무안군상하수도사업소",

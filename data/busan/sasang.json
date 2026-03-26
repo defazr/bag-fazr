@@ -4,7 +4,7 @@
   "district": "사상구",
   "districtSlug": "sasang",
   "updatedAt": "2026-03-26",
-  "totalCount": 465,
+  "totalCount": 463,
   "stores": [
     {
       "name": "럭키슈퍼",
@@ -2548,13 +2548,6 @@
       "licenseDate": "1995-03-01"
     },
     {
-      "name": "수복슈퍼",
-      "address": "부산광역시 사상구 학장동 263-11",
-      "roadAddress": "부산광역시 사상구 대동로180번길 19  (학장동)",
-      "status": "영업/정상",
-      "licenseDate": "1995-03-01"
-    },
-    {
       "name": "탑플러스마트",
       "address": "부산광역시 사상구 학장동 574-63",
       "roadAddress": "부산광역시 사상구 대동로 152 (학장동)",
@@ -2852,13 +2845,6 @@
       "name": "영화슈퍼",
       "address": "부산광역시 사상구 괘법동 554-2",
       "roadAddress": "부산광역시 사상구 사상로 177 (괘법동)",
-      "status": "영업/정상",
-      "licenseDate": "2000-08-23"
-    },
-    {
-      "name": "수복슈퍼",
-      "address": "부산광역시 사상구 감전동 107-2",
-      "roadAddress": "부산광역시 사상구 사상로137번길 2-2 (감전동)",
       "status": "영업/정상",
       "licenseDate": "2000-08-23"
     },

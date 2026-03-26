@@ -4,7 +4,7 @@
   "district": "달성군",
   "districtSlug": "dalseong",
   "updatedAt": "2026-03-26",
-  "totalCount": 232,
+  "totalCount": 230,
   "stores": [
     {
       "name": "농협달성농산물종합유통센터",
@@ -987,13 +987,6 @@
       "licenseDate": ""
     },
     {
-      "name": "기세상회",
-      "address": "대구광역시 달성군 옥포면 기세리 610",
-      "roadAddress": "대구광역시 달성군 옥포면 옥포로56길 10",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "송촌리",
       "address": "대구광역시 달성군 옥포면 송촌리",
       "roadAddress": "",
@@ -1552,13 +1545,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1999-10-12"
-    },
-    {
-      "name": "훼밀리마트",
-      "address": "대구광역시 달성군 다사읍 죽곡리 산 56-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-05-16"
     },
     {
       "name": "서재마트",

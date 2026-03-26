@@ -1,0 +1,31 @@
+{
+  "region": "인천광역시",
+  "regionSlug": "incheon",
+  "district": "서구",
+  "districtSlug": "icseogu",
+  "updatedAt": "2026-03-26",
+  "totalCount": 3,
+  "stores": [
+    {
+      "name": "씨유 별내우미린점",
+      "address": "인천광역시 서구 청라동 104-124",
+      "roadAddress": "인천광역시 서구 보석로18번안길 16, 201호 (청라동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-02-18"
+    },
+    {
+      "name": "평강기업",
+      "address": "인천광역시 서구 연희동 684-5",
+      "roadAddress": "인천광역시 서구 연희로14번길 5-1, 1층 102호 (연희동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-11-26"
+    },
+    {
+      "name": "신일상회",
+      "address": "경상남도 의령군 낙서면 전화리 224-9",
+      "roadAddress": "인천광역시 서구 검암로 53, 110동  602호(검암동,풍림아이원2차)",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-24"
+    }
+  ]
+}

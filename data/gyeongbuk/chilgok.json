@@ -4,7 +4,7 @@
   "district": "칠곡군",
   "districtSlug": "chilgok",
   "updatedAt": "2026-03-26",
-  "totalCount": 212,
+  "totalCount": 210,
   "stores": [
     {
       "name": "나이스식자재마트",
@@ -476,13 +476,6 @@
       "licenseDate": "2006-04-06"
     },
     {
-      "name": "007마트",
-      "address": "경상북도 칠곡군 북삼읍 인평리 오태지구 12B1-4L",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2006-04-06"
-    },
-    {
       "name": "CNN 25",
       "address": "경상북도 칠곡군 왜관읍 왜관리 224-5",
       "roadAddress": "경상북도 칠곡군 왜관읍 중앙로 174-1",
@@ -628,13 +621,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2007-03-21"
-    },
-    {
-      "name": "웰빙마트",
-      "address": "경상북도 칠곡군 석적읍 중리 210-6 미소빌",
-      "roadAddress": "경상북도 칠곡군 석적읍 동중리5길 20  (미소빌)",
-      "status": "영업/정상",
-      "licenseDate": "2007-04-04"
     },
     {
       "name": "D마트",

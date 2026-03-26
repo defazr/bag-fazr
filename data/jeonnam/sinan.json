@@ -4,7 +4,7 @@
   "district": "신안군",
   "districtSlug": "sinan",
   "updatedAt": "2026-03-26",
-  "totalCount": 57,
+  "totalCount": 56,
   "stores": [
     {
       "name": "씨유 비금점",
@@ -334,13 +334,6 @@
       "roadAddress": "전라남도 신안군 자은면 자은서부1길 163-101, 라마다프라자호텔&씨원리조트자은도",
       "status": "영업/정상",
       "licenseDate": "2022-09-01"
-    },
-    {
-      "name": "씨유 비금점",
-      "address": "전라남도 신안군 비금면 덕산리 119-40",
-      "roadAddress": "전라남도 신안군 비금면 읍동길 18",
-      "status": "영업/정상",
-      "licenseDate": "2022-10-31"
     },
     {
       "name": "씨유신안안좌점",

@@ -4,7 +4,7 @@
   "district": "진도군",
   "districtSlug": "jindo",
   "updatedAt": "2026-03-26",
-  "totalCount": 387,
+  "totalCount": 385,
   "stores": [
     {
       "name": "독치부인회",
@@ -1197,13 +1197,6 @@
       "licenseDate": ""
     },
     {
-      "name": "진도선구점",
-      "address": "전라남도 진도군 진도읍 쌍정리 94-6",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "정문상회",
       "address": "전라남도 진도군 진도읍 성내리 67-6",
       "roadAddress": "",
@@ -1963,13 +1956,6 @@
       "name": "분토상점",
       "address": "전라남도 진도군 군내면 분토리 988",
       "roadAddress": "전라남도 진도군 군내면 분토길 28",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-03"
-    },
-    {
-      "name": "내동산부녀회",
-      "address": "전라남도 진도군 군내면 분토리 473",
-      "roadAddress": "전라남도 진도군 군내면 내동산길 55-1",
       "status": "영업/정상",
       "licenseDate": "1994-12-03"
     },

@@ -4,7 +4,7 @@
   "district": "가평군",
   "districtSlug": "gapyeong",
   "updatedAt": "2026-03-26",
-  "totalCount": 309,
+  "totalCount": 304,
   "stores": [
     {
       "name": "씨유 가평코아루점",
@@ -987,13 +987,6 @@
       "licenseDate": "2022-10-11"
     },
     {
-      "name": "씨유 가평유명로점",
-      "address": "경기도 가평군 설악면 선촌리 472-4",
-      "roadAddress": "경기도 가평군 설악면 유명로 1710, 1층",
-      "status": "영업/정상",
-      "licenseDate": "2022-10-13"
-    },
-    {
       "name": "이마트24 SMART가평새연점",
       "address": "경기도 가평군 조종면 신상리 475-3",
       "roadAddress": "경기도 가평군 조종면 운악청계로333번길 86, 1층",
@@ -1344,13 +1337,6 @@
       "licenseDate": ""
     },
     {
-      "name": "럭키슈퍼",
-      "address": "경기도 가평군 청평면 청평리 357-25",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "달전7반상회",
       "address": "경기도 가평군 가평읍 달전리 334-3",
       "roadAddress": "",
@@ -1645,13 +1631,6 @@
       "licenseDate": ""
     },
     {
-      "name": "청수슈퍼",
-      "address": "경기도 가평군 청평면 청평리 489-15",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "녹수계곡",
       "address": "경기도 가평군 상면 덕현리 599-22",
       "roadAddress": "",
@@ -1862,13 +1841,6 @@
       "licenseDate": ""
     },
     {
-      "name": "우리상회",
-      "address": "경기도 가평군 상면 임초리 417-4",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "푸른부식",
       "address": "경기도 가평군 가평읍 읍내리 615-9",
       "roadAddress": "",
@@ -1900,13 +1872,6 @@
       "name": "명연상회",
       "address": "경기도 가평군 상면 덕현리 385",
       "roadAddress": "경기도 가평군 상면 광신길 10",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "만물상회",
-      "address": "경기도 가평군 상면 봉수리 263",
-      "roadAddress": "경기도 가평군 상면 봉수로150번길 51-6",
       "status": "영업/정상",
       "licenseDate": ""
     },

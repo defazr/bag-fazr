@@ -4,7 +4,7 @@
   "district": "제주시",
   "districtSlug": "jejusi",
   "updatedAt": "2026-03-26",
-  "totalCount": 202,
+  "totalCount": 201,
   "stores": [
     {
       "name": "대림슈퍼",
@@ -1129,13 +1129,6 @@
     {
       "name": "뉴월드24시편의점",
       "address": "제주특별자치도 제주시 한림읍 한림리 1314-21",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "덕영슈퍼",
-      "address": "제주특별자치도 제주시 한림읍 동명리 1591",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""

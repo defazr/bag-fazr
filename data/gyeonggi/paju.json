@@ -4,7 +4,7 @@
   "district": "파주시",
   "districtSlug": "paju",
   "updatedAt": "2026-03-26",
-  "totalCount": 911,
+  "totalCount": 902,
   "stores": [
     {
       "name": "주식회사 스프링(SPRING)",
@@ -345,13 +345,6 @@
     {
       "name": "주공할인마트",
       "address": "경기도 파주시 문산읍 당동리 휴먼시아3단지 상가-103",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "청자주방",
-      "address": "경기도 파주시 문산읍 10-93 호수상가 101동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1638,13 +1631,6 @@
       "licenseDate": "2013-01-04"
     },
     {
-      "name": "두배로마트 대원점",
-      "address": "경기도 파주시 조리읍 대원리 275-11",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2013-01-07"
-    },
-    {
       "name": "CU문발산업단지점",
       "address": "경기도 파주시 신촌동 101호,102호",
       "roadAddress": "경기도 파주시 지목로 10 (신촌동)",
@@ -1843,13 +1829,6 @@
     {
       "name": "리민상회",
       "address": "경기도 파주시 조리읍 봉일천리 117-9",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "성호마트",
-      "address": "경기도 파주시 조리읍 봉일천리 125-22",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -2466,13 +2445,6 @@
     {
       "name": "두배로마트낙하점",
       "address": "경기도 파주시 탄현면 금승리 599-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "골드슈퍼",
-      "address": "경기도 파주시 탄현면 낙하리 6-23",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -3416,22 +3388,8 @@
       "licenseDate": "2012-07-30"
     },
     {
-      "name": "LF슈퍼마켓",
-      "address": "경기도 파주시 월롱면 영태리 581-50",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2012-07-31"
-    },
-    {
       "name": "모아마켓",
       "address": "경기도 파주시 야당동 운정신도시A16블럭 캐슬앤칸타빌단지내상가2-105",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2012-07-31"
-    },
-    {
-      "name": "한살림고양파주소비자생협교하매장",
-      "address": "경기도 파주시 동패동 1696-2 3124~3125호",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2012-07-31"
@@ -4914,13 +4872,6 @@
       "licenseDate": "2012-10-22"
     },
     {
-      "name": "마트",
-      "address": "경기도 파주시 금촌동 332-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2012-10-22"
-    },
-    {
       "name": "한국유통",
       "address": "",
       "roadAddress": "경기도 파주시 평화로342번길 71 (검산동)",
@@ -5077,13 +5028,6 @@
     {
       "name": "48시슈퍼",
       "address": "경기도 파주시 연다산동 377-38",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "싱싱마트(삼거리슈퍼)",
-      "address": "경기도 파주시 오도동 15-8",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -5448,13 +5392,6 @@
     {
       "name": "미니슈퍼",
       "address": "경기도 파주시 금촌동 291-9",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "만물상회",
-      "address": "경기도 파주시 금촌동 320",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""

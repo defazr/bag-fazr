@@ -4,7 +4,7 @@
   "district": "오산시",
   "districtSlug": "osan",
   "updatedAt": "2026-03-26",
-  "totalCount": 430,
+  "totalCount": 421,
   "stores": [
     {
       "name": "지에스(GS)25 동탄파크점",
@@ -1897,13 +1897,6 @@
       "licenseDate": ""
     },
     {
-      "name": "마포슈퍼",
-      "address": "경기도 오산시 가수동 95",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "대경마트",
       "address": "경기도 오산시 오산동 925-8    대신증권빌딩 1층",
       "roadAddress": "",
@@ -2065,13 +2058,6 @@
       "licenseDate": ""
     },
     {
-      "name": "현대슈퍼",
-      "address": "경기도 오산시 수청동 416-5",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "주공할인마트",
       "address": "경기도 오산시 부산동 779-6    운암 3단지 주공아파트 상가 101",
       "roadAddress": "",
@@ -2109,20 +2095,6 @@
     {
       "name": "공주슈퍼",
       "address": "경기도 오산시 오산동 80-1    이화아파트  B-307",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "훼미리마트 오산역점",
-      "address": "경기도 오산시 오산동 881-4",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "공주슈퍼",
-      "address": "경기도 오산시 오산동 617-10",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -2289,13 +2261,6 @@
       "licenseDate": ""
     },
     {
-      "name": "훼미리마트 오산대점",
-      "address": "경기도 오산시 청학동 29",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "한국유통(오산점)",
       "address": "경기도 오산시 갈곶동 192 한국유통(오산점)",
       "roadAddress": "",
@@ -2408,13 +2373,6 @@
       "licenseDate": ""
     },
     {
-      "name": "LG마트",
-      "address": "경기도 오산시 원동 815-4 운암5단지 상가 가동 101호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "그랜드마트",
       "address": "경기도 오산시 궐동 698-5    우성프라자 1층",
       "roadAddress": "",
@@ -2487,13 +2445,6 @@
     {
       "name": "훼미리마트 궐동청학점",
       "address": "경기도 오산시 궐동 707-6",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "럭키할인마트",
-      "address": "경기도 오산시 은계동 33-2",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -2737,13 +2688,6 @@
       "licenseDate": ""
     },
     {
-      "name": "주부슈퍼",
-      "address": "경기도 오산시 오산동 502-4",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "바이더웨이 오산원동 대림점",
       "address": "경기도 오산시 원동 404-13",
       "roadAddress": "",
@@ -2760,13 +2704,6 @@
     {
       "name": "협동슈퍼",
       "address": "경기도 오산시 오산동 316",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-11-02"
-    },
-    {
-      "name": "미진슈퍼",
-      "address": "경기도 오산시 오산동 291-7",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1994-11-02"

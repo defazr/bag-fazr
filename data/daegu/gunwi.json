@@ -4,7 +4,7 @@
   "district": "군위군",
   "districtSlug": "gunwi",
   "updatedAt": "2026-03-26",
-  "totalCount": 45,
+  "totalCount": 44,
   "stores": [
     {
       "name": "새점상회",
@@ -282,13 +282,6 @@
     {
       "name": "화생상회",
       "address": "대구광역시 군위군 산성면 화본리 1227-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-01-14"
-    },
-    {
-      "name": "삼우상회",
-      "address": "대구광역시 군위군 삼국유사면 학성리 168",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2000-01-14"

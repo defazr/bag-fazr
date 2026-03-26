@@ -4,7 +4,7 @@
   "district": "김해시",
   "districtSlug": "gimhae",
   "updatedAt": "2026-03-26",
-  "totalCount": 1493,
+  "totalCount": 1401,
   "stores": [
     {
       "name": "조은할인마트",
@@ -343,13 +343,6 @@
       "licenseDate": ""
     },
     {
-      "name": "부영할인마트",
-      "address": "경상남도 김해시 삼계동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "그린디씨마트",
       "address": "경상남도 김해시 대청동",
       "roadAddress": "",
@@ -516,13 +509,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2002-12-27"
-    },
-    {
-      "name": "부영친절마트",
-      "address": "경상남도 김해시 무계동 156-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
     },
     {
       "name": "부영친절마트",
@@ -784,13 +770,6 @@
       "licenseDate": ""
     },
     {
-      "name": "그린마트",
-      "address": "경상남도 김해시 내동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "서원탑훼미리",
       "address": "경상남도 김해시 진영읍 진영리 249-77",
       "roadAddress": "경상남도 김해시 진영읍 진영로 160",
@@ -901,13 +880,6 @@
       "roadAddress": "경상남도 김해시 활천로166번길 34  (어방동)",
       "status": "영업/정상",
       "licenseDate": "2003-02-04"
-    },
-    {
-      "name": "양지스토아",
-      "address": "경상남도 김해시 외동 1241-8",
-      "roadAddress": "경상남도 김해시 금관대로1190번길 40-1  (외동)",
-      "status": "영업/정상",
-      "licenseDate": "2003-02-07"
     },
     {
       "name": "히딩크마트",
@@ -1330,13 +1302,6 @@
       "licenseDate": "2003-04-14"
     },
     {
-      "name": "세일마트",
-      "address": "경상남도 김해시 어방동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "진영친절마트",
       "address": "경상남도 김해시 진영읍 진영리",
       "roadAddress": "",
@@ -1563,13 +1528,6 @@
     {
       "name": "서림슈퍼",
       "address": "경상남도 김해시 진영읍 진영리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "좋은친구들",
-      "address": "경상남도 김해시 삼문동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1890,22 +1848,8 @@
       "licenseDate": "2008-03-28"
     },
     {
-      "name": "한국미니스톱(장유대청점)",
-      "address": "경상남도 김해시 대청동 68-7 조이월드 B/D 103",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2008-04-04"
-    },
-    {
       "name": "세종할인마트",
       "address": "경상남도 김해시 삼문동 61-8 104",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2008-04-04"
-    },
-    {
-      "name": "애드마트",
-      "address": "경상남도 김해시 삼방동 29-16",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2008-04-04"
@@ -2058,13 +2002,6 @@
       "licenseDate": "2003-06-20"
     },
     {
-      "name": "삼거리슈퍼",
-      "address": "경상남도 김해시 어방동 325-4",
-      "roadAddress": "경상남도 김해시 활천로166번길 34  (어방동)",
-      "status": "영업/정상",
-      "licenseDate": "2003-06-23"
-    },
-    {
       "name": "애니타임",
       "address": "경상남도 김해시 내동 1121-4 씨티빌103",
       "roadAddress": "경상남도 김해시 경원로55번길 2  (내동,씨티빌103)",
@@ -2212,13 +2149,6 @@
       "licenseDate": ""
     },
     {
-      "name": "모닝25시편의점",
-      "address": "경상남도 김해시 삼방동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "훼미리마트김해삽방점",
       "address": "경상남도 김해시 삼방동",
       "roadAddress": "",
@@ -2228,13 +2158,6 @@
     {
       "name": "씨스페이스김해한빛점",
       "address": "경상남도 김해시 내동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "삼정슈퍼",
-      "address": "경상남도 김해시 삼정동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -2368,13 +2291,6 @@
     {
       "name": "세븐일레븐김해삼방점",
       "address": "경상남도 김해시 삼방동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "뉴웰빙마트",
-      "address": "경상남도 김해시 삼계동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -2751,13 +2667,6 @@
       "licenseDate": ""
     },
     {
-      "name": "동민슈퍼",
-      "address": "경상남도 김해시 내동 150-10",
-      "roadAddress": "경상남도 김해시 금관대로1335번길 9  (내동)",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "Joy Mart",
       "address": "경상남도 김해시 삼문동 564-1",
       "roadAddress": "경상남도 김해시 반룡로 76  (삼문동)",
@@ -2975,13 +2884,6 @@
       "licenseDate": "2001-03-29"
     },
     {
-      "name": "뉴월드마트",
-      "address": "경상남도 김해시 내동 1096-5",
-      "roadAddress": "경상남도 김해시 경원로11번길 5  (내동)",
-      "status": "영업/정상",
-      "licenseDate": "2001-03-29"
-    },
-    {
       "name": "이레마트",
       "address": "경상남도 김해시 대동면 조눌리 203-2",
       "roadAddress": "경상남도 김해시 대동면 동남로 205",
@@ -3029,13 +2931,6 @@
       "roadAddress": "경상남도 김해시 가락로176번길 12  (구산동)",
       "status": "영업/정상",
       "licenseDate": "2001-04-20"
-    },
-    {
-      "name": "하나로슈퍼",
-      "address": "경상남도 김해시 내동 138-1",
-      "roadAddress": "경상남도 김해시 평전로 181  (내동)",
-      "status": "영업/정상",
-      "licenseDate": "2001-04-24"
     },
     {
       "name": "마을구판장",
@@ -3290,20 +3185,6 @@
       "licenseDate": ""
     },
     {
-      "name": "부영그린세탁소",
-      "address": "경상남도 김해시 부곡동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "주공마트",
-      "address": "경상남도 김해시 대청동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "장유무계점",
       "address": "경상남도 김해시 무계동",
       "roadAddress": "",
@@ -3313,13 +3194,6 @@
     {
       "name": "우리마트",
       "address": "경상남도 김해시 부곡동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "그린디씨마트",
-      "address": "경상남도 김해시 대청동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -3444,23 +3318,9 @@
       "licenseDate": ""
     },
     {
-      "name": "빅세일마트",
-      "address": "경상남도 김해시 삼계동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "디씨마트",
       "address": "경상남도 김해시 서상동 33-1",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-05-10"
-    },
-    {
-      "name": "삼거리슈퍼",
-      "address": "경상남도 김해시 어방동 325-4",
-      "roadAddress": "경상남도 김해시 활천로166번길 34  (어방동)",
       "status": "영업/정상",
       "licenseDate": "2001-05-10"
     },
@@ -3470,13 +3330,6 @@
       "roadAddress": "경상남도 김해시 분성로 569  (어방동)",
       "status": "영업/정상",
       "licenseDate": "2001-05-10"
-    },
-    {
-      "name": "라경회관",
-      "address": "경상남도 김해시 진례면 담안리 275-1",
-      "roadAddress": "경상남도 김해시 진례면 고모로 368",
-      "status": "영업/정상",
-      "licenseDate": "2001-05-14"
     },
     {
       "name": "소비자할인매장",
@@ -3510,13 +3363,6 @@
       "name": "서원외동마트",
       "address": "경상남도 김해시 외동 705-1",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-05-24"
-    },
-    {
-      "name": "한림할인마트",
-      "address": "경상남도 김해시 한림면 장방리 336-7",
-      "roadAddress": "경상남도 김해시 한림면 한림로 373-2",
       "status": "영업/정상",
       "licenseDate": "2001-05-24"
     },
@@ -4011,25 +3857,11 @@
       "licenseDate": ""
     },
     {
-      "name": "GS25 김해어방점",
-      "address": "경상남도 김해시 어방동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "장터할인마트",
       "address": "경상남도 김해시 무계동 278",
       "roadAddress": "경상남도 김해시 장유로 312  (무계동)",
       "status": "영업/정상",
       "licenseDate": "2001-07-09"
-    },
-    {
-      "name": "연이슈퍼",
-      "address": "경상남도 김해시 내동 153-9",
-      "roadAddress": "경상남도 김해시 금관대로1325번길 10-6  (내동)",
-      "status": "영업/정상",
-      "licenseDate": "2001-07-14"
     },
     {
       "name": "형제슈퍼",
@@ -4065,13 +3897,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2001-08-06"
-    },
-    {
-      "name": "형제마트",
-      "address": "경상남도 김해시 삼방동 171-8",
-      "roadAddress": "경상남도 김해시 인제로200번길 29  (삼방동)",
-      "status": "영업/정상",
-      "licenseDate": "2001-08-07"
     },
     {
       "name": "서원탑훼밀리마트",
@@ -4242,13 +4067,6 @@
       "licenseDate": "2003-12-09"
     },
     {
-      "name": "SK마트",
-      "address": "경상남도 김해시 어방동 1050-9",
-      "roadAddress": "경상남도 김해시 분성로 569  (어방동)",
-      "status": "영업/정상",
-      "licenseDate": "2003-12-12"
-    },
-    {
       "name": "세일마트",
       "address": "경상남도 김해시 어방동 680 동원아파트상가A동201.202.203",
       "roadAddress": "",
@@ -4282,13 +4100,6 @@
       "roadAddress": "경상남도 김해시 가락로294번길 16, 104동 (구산동,구산주공아파트상가)",
       "status": "영업/정상",
       "licenseDate": "2004-01-03"
-    },
-    {
-      "name": "그린DC마트",
-      "address": "경상남도 김해시 진례면 송정리 263-1",
-      "roadAddress": "경상남도 김해시 진례면 송현로 15-1",
-      "status": "영업/정상",
-      "licenseDate": "2004-01-08"
     },
     {
       "name": "공단휴게소식당",
@@ -4359,13 +4170,6 @@
       "roadAddress": "경상남도 김해시 인제로51번길 54-14  (삼정동)",
       "status": "영업/정상",
       "licenseDate": "2007-09-10"
-    },
-    {
-      "name": "삼양체인",
-      "address": "경상남도 김해시 대성동 63-1",
-      "roadAddress": "경상남도 김해시 가락로 170  (대성동)",
-      "status": "영업/정상",
-      "licenseDate": "2007-09-11"
     },
     {
       "name": "새동네 마트",
@@ -4515,13 +4319,6 @@
       "licenseDate": "2001-10-09"
     },
     {
-      "name": "친절할인마트",
-      "address": "경상남도 김해시 외동 883",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-10-09"
-    },
-    {
       "name": "동김해슈퍼",
       "address": "경상남도 김해시 어방동 1110-10",
       "roadAddress": "경상남도 김해시 인제로 27  (어방동)",
@@ -4550,13 +4347,6 @@
       "licenseDate": "2001-10-22"
     },
     {
-      "name": "오복슈퍼",
-      "address": "경상남도 김해시 외동 669-11",
-      "roadAddress": "경상남도 김해시 평전로93번길 14-5  (외동)",
-      "status": "영업/정상",
-      "licenseDate": "2001-10-22"
-    },
-    {
       "name": "목화슈퍼",
       "address": "경상남도 김해시 외동 694-3",
       "roadAddress": "경상남도 김해시 금관대로1209번길 10  (외동)",
@@ -4567,13 +4357,6 @@
       "name": "친절할인마트",
       "address": "경상남도 김해시 어방동 577 화인상가 102호",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-10-31"
-    },
-    {
-      "name": "삼거리슈퍼",
-      "address": "경상남도 김해시 어방동 325-4",
-      "roadAddress": "경상남도 김해시 활천로166번길 34  (어방동)",
       "status": "영업/정상",
       "licenseDate": "2001-10-31"
     },
@@ -4744,13 +4527,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2004-03-09"
-    },
-    {
-      "name": "파워할인마트",
-      "address": "경상남도 김해시 삼정동 604-7",
-      "roadAddress": "경상남도 김해시 활천로10번길 43  (삼정동)",
-      "status": "영업/정상",
-      "licenseDate": "2004-03-15"
     },
     {
       "name": "부영15차할인마트",
@@ -4942,13 +4718,6 @@
       "licenseDate": ""
     },
     {
-      "name": "삼농유통",
-      "address": "경상남도 김해시 삼방동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "희망슈퍼",
       "address": "경상남도 김해시 지내동",
       "roadAddress": "",
@@ -5052,20 +4821,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
-    },
-    {
-      "name": "에스에스25시",
-      "address": "경상남도 김해시 삼정동 98-12",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "제일슈퍼",
-      "address": "경상남도 김해시 외동 687-6",
-      "roadAddress": "경상남도 김해시 금관대로1213번길 16-4  (외동)",
-      "status": "영업/정상",
-      "licenseDate": "2001-11-20"
     },
     {
       "name": "한유통김해어방점",
@@ -5215,13 +4970,6 @@
       "licenseDate": ""
     },
     {
-      "name": "삼거리슈퍼",
-      "address": "경상남도 김해시 어방동 325-4",
-      "roadAddress": "경상남도 김해시 활천로166번길 34  (어방동)",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "내동마트",
       "address": "경상남도 김해시 내동",
       "roadAddress": "",
@@ -5292,13 +5040,6 @@
       "licenseDate": ""
     },
     {
-      "name": "푸른주공마트",
-      "address": "경상남도 김해시 부곡동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "반도할인마트",
       "address": "경상남도 김해시 전하동",
       "roadAddress": "",
@@ -5329,34 +5070,6 @@
     {
       "name": "공단할인마트",
       "address": "경상남도 김해시 진례면 고모리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "푸른주공마트",
-      "address": "경상남도 김해시 부곡동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "푸른주공마트",
-      "address": "경상남도 김해시 부곡동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "한도마트",
-      "address": "경상남도 김해시 삼정동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "푸른주공마트",
-      "address": "경상남도 김해시 부곡동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -5413,13 +5126,6 @@
     {
       "name": "주촌농협",
       "address": "경상남도 김해시 주촌면 천곡리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "파워24",
-      "address": "경상남도 김해시 동상동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -5516,13 +5222,6 @@
       "licenseDate": ""
     },
     {
-      "name": "세일마트",
-      "address": "경상남도 김해시 어방동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "자유마트",
       "address": "경상남도 김해시 삼문동",
       "roadAddress": "",
@@ -5579,20 +5278,6 @@
       "licenseDate": ""
     },
     {
-      "name": "홀마트",
-      "address": "경상남도 김해시 삼계동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "홀마트",
-      "address": "경상남도 김해시 삼계동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "드림마트",
       "address": "경상남도 김해시 외동",
       "roadAddress": "",
@@ -5614,22 +5299,8 @@
       "licenseDate": ""
     },
     {
-      "name": "내동마트",
-      "address": "경상남도 김해시 내동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "GS 삼방점",
       "address": "경상남도 김해시 삼방동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "내동마트",
-      "address": "경상남도 김해시 내동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -5796,20 +5467,6 @@
       "licenseDate": "2002-01-23"
     },
     {
-      "name": "미강종합슈퍼",
-      "address": "경상남도 김해시 삼방동 167-6",
-      "roadAddress": "경상남도 김해시 인제로200번길 21-17  (삼방동)",
-      "status": "영업/정상",
-      "licenseDate": "2002-01-29"
-    },
-    {
-      "name": "내고향슈퍼",
-      "address": "경상남도 김해시 삼방동 568-8",
-      "roadAddress": "경상남도 김해시 삼안로298번길 2  (삼방동)",
-      "status": "영업/정상",
-      "licenseDate": "2002-01-29"
-    },
-    {
       "name": "세븐마트",
       "address": "경상남도 김해시 어방동 1058-6",
       "roadAddress": "경상남도 김해시 인제로65번길 38  (어방동)",
@@ -5820,13 +5477,6 @@
       "name": "코사마트",
       "address": "경상남도 김해시 삼정동 589-2",
       "roadAddress": "경상남도 김해시 활천로36번길 4  (삼정동)",
-      "status": "영업/정상",
-      "licenseDate": "2002-02-07"
-    },
-    {
-      "name": "동성할인마트",
-      "address": "경상남도 김해시 삼방동 189",
-      "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2002-02-07"
     },
@@ -5859,13 +5509,6 @@
       "licenseDate": "2002-03-04"
     },
     {
-      "name": "친절할인마트",
-      "address": "경상남도 김해시 어방동 1068-3",
-      "roadAddress": "경상남도 김해시 김해대로2567번길 50  (어방동)",
-      "status": "영업/정상",
-      "licenseDate": "2002-03-07"
-    },
-    {
       "name": "영아상회",
       "address": "경상남도 김해시 부원동",
       "roadAddress": "",
@@ -5894,13 +5537,6 @@
       "licenseDate": ""
     },
     {
-      "name": "팬시라이프",
-      "address": "경상남도 김해시 내동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "한겨레초록마을내외점",
       "address": "경상남도 김해시 외동",
       "roadAddress": "",
@@ -5917,13 +5553,6 @@
     {
       "name": "화인마트",
       "address": "경상남도 김해시 흥동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "세종할인마트",
-      "address": "경상남도 김해시 삼문동 61-8 104",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -5959,13 +5588,6 @@
     {
       "name": "울트라마트2호점",
       "address": "경상남도 김해시 외동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "동일마트",
-      "address": "경상남도 김해시 삼방동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -6076,13 +5698,6 @@
       "licenseDate": ""
     },
     {
-      "name": "삼농유통",
-      "address": "경상남도 김해시 삼방동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "한일슈퍼",
       "address": "경상남도 김해시 구산동",
       "roadAddress": "",
@@ -6092,13 +5707,6 @@
     {
       "name": "조눌상회(마을구판장)",
       "address": "경상남도 김해시 대동면 조눌리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "현대슈퍼",
-      "address": "경상남도 김해시 내동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -6188,13 +5796,6 @@
       "licenseDate": "2007-11-26"
     },
     {
-      "name": "장터할인마트",
-      "address": "경상남도 김해시 무계동 278",
-      "roadAddress": "경상남도 김해시 장유로 312  (무계동)",
-      "status": "영업/정상",
-      "licenseDate": "2007-11-29"
-    },
-    {
       "name": "서상마트",
       "address": "경상남도 김해시 서상동 241",
       "roadAddress": "경상남도 김해시 분성로 315  (서상동)",
@@ -6237,32 +5838,11 @@
       "licenseDate": "2007-12-17"
     },
     {
-      "name": "한라비발디e마트",
-      "address": "경상남도 김해시 구산동 576 한라비발디상가 110",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2007-12-20"
-    },
-    {
       "name": "365할인마트",
       "address": "경상남도 김해시 외동 1185-4",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2007-12-21"
-    },
-    {
-      "name": "우리들마트",
-      "address": "경상남도 김해시 삼방동 270",
-      "roadAddress": "경상남도 김해시 삼안로 161  (삼방동)",
-      "status": "영업/정상",
-      "licenseDate": "2007-12-21"
-    },
-    {
-      "name": "삼농유통",
-      "address": "경상남도 김해시 삼방동 673-8",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2007-12-24"
     },
     {
       "name": "애드타임",
@@ -6324,13 +5904,6 @@
       "name": "서림슈퍼",
       "address": "경상남도 김해시 진영읍 진영리 275-236",
       "roadAddress": "경상남도 김해시 진영읍 여래로20번길 36",
-      "status": "영업/정상",
-      "licenseDate": "2002-03-07"
-    },
-    {
-      "name": "한유통김해구산점",
-      "address": "경상남도 김해시 구산동 275-6",
-      "roadAddress": "경상남도 김해시 구산로 38  (구산동)",
       "status": "영업/정상",
       "licenseDate": "2002-03-07"
     },
@@ -6433,13 +6006,6 @@
       "licenseDate": "2002-04-29"
     },
     {
-      "name": "GS25 장유부곡점",
-      "address": "경상남도 김해시 부곡동 809-1 투투스빌딩 1관 105호",
-      "roadAddress": "경상남도 김해시 장유로 180,  105호 (부곡동,투투스빌딩 1관)",
-      "status": "영업/정상",
-      "licenseDate": "2002-05-07"
-    },
-    {
       "name": "부영할인마트",
       "address": "경상남도 김해시 부곡동 809-7 투투스빌딩2관 107,108호",
       "roadAddress": "경상남도 김해시 장유로 194,  107,108호 (부곡동,투투스빌딩2관)",
@@ -6489,22 +6055,8 @@
       "licenseDate": ""
     },
     {
-      "name": "내룡슈퍼",
-      "address": "경상남도 김해시 진영읍 내룡리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "홀-세일마트",
       "address": "경상남도 김해시 주촌면 내삼리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "축산마트",
-      "address": "경상남도 김해시 삼정동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -6615,22 +6167,8 @@
       "licenseDate": ""
     },
     {
-      "name": "창우친절마트",
-      "address": "경상남도 김해시 삼문동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "세배로할인마트",
       "address": "경상남도 김해시 삼문동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "홀마트",
-      "address": "경상남도 김해시 진영읍 여래리",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -6993,20 +6531,6 @@
       "licenseDate": ""
     },
     {
-      "name": "부영그린세탁소",
-      "address": "경상남도 김해시 부곡동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "부영할인마트",
-      "address": "경상남도 김해시 부곡동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "미니슈퍼",
       "address": "경상남도 김해시 외동",
       "roadAddress": "",
@@ -7037,13 +6561,6 @@
     {
       "name": "주공마트",
       "address": "경상남도 김해시 부곡동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "탑훼밀리마트지내점",
-      "address": "경상남도 김해시 지내동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -7131,13 +6648,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2002-07-08"
-    },
-    {
-      "name": "강남만물슈퍼",
-      "address": "경상남도 김해시 내동 154-10",
-      "roadAddress": "경상남도 김해시 금관대로1325번길 18  (내동)",
-      "status": "영업/정상",
-      "licenseDate": "2002-07-10"
     },
     {
       "name": "울트라슈퍼",
@@ -7252,20 +6762,6 @@
       "licenseDate": ""
     },
     {
-      "name": "운동장슈퍼",
-      "address": "경상남도 김해시 외동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "삼정슈퍼",
-      "address": "경상남도 김해시 삼정동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "동양슈퍼",
       "address": "경상남도 김해시 내동",
       "roadAddress": "",
@@ -7287,13 +6783,6 @@
       "licenseDate": ""
     },
     {
-      "name": "한림슈퍼",
-      "address": "경상남도 김해시 내동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "ES마트",
       "address": "경상남도 김해시 어방동",
       "roadAddress": "",
@@ -7303,20 +6792,6 @@
     {
       "name": "채널24시슈퍼",
       "address": "경상남도 김해시 대청동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "대명슈퍼",
-      "address": "경상남도 김해시 대성동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "대명슈퍼",
-      "address": "경상남도 김해시 대성동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -7392,29 +6867,8 @@
       "licenseDate": ""
     },
     {
-      "name": "DC플러스마트",
-      "address": "경상남도 김해시 진영읍 여래리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "푸르지오할인마트",
       "address": "경상남도 김해시 대청동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "동원친절마트",
-      "address": "경상남도 김해시 지내동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "가야마트",
-      "address": "경상남도 김해시 내동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -7462,13 +6916,6 @@
       "licenseDate": ""
     },
     {
-      "name": "은하슈퍼",
-      "address": "경상남도 김해시 삼방동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "홈플러스동김해점",
       "address": "경상남도 김해시 삼방동",
       "roadAddress": "",
@@ -7502,13 +6949,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2002-04-09"
-    },
-    {
-      "name": "강남만물슈퍼",
-      "address": "경상남도 김해시 내동 154-10",
-      "roadAddress": "경상남도 김해시 금관대로1325번길 18  (내동)",
-      "status": "영업/정상",
-      "licenseDate": "2002-09-04"
     },
     {
       "name": "하이마트슈퍼",
@@ -7567,13 +7007,6 @@
       "licenseDate": "2002-09-05"
     },
     {
-      "name": "수연슈퍼",
-      "address": "경상남도 김해시 불암동 78-4",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2002-09-07"
-    },
-    {
       "name": "LG슈퍼",
       "address": "경상남도 김해시 어방동 461-1",
       "roadAddress": "경상남도 김해시 인제로169번길 30  (어방동)",
@@ -7621,20 +7054,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2008-04-11"
-    },
-    {
-      "name": "울트라슈퍼",
-      "address": "경상남도 김해시 삼문동 60-3 젤미부영 11차상가지하 6",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2008-04-15"
-    },
-    {
-      "name": "대박마트",
-      "address": "경상남도 김해시 외동 1409",
-      "roadAddress": "경상남도 김해시 전하로 287-9  (외동)",
-      "status": "영업/정상",
-      "licenseDate": "2008-04-15"
     },
     {
       "name": "리치마트25시",
@@ -7815,13 +7234,6 @@
       "name": "코리아세븐 김해장유율하점",
       "address": "경상남도 김해시 장유면 1352-1 중앙프라자 104호",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2011-05-09"
-    },
-    {
-      "name": "경남종합유통",
-      "address": "경상남도 김해시 진례면 송정리 433-1",
-      "roadAddress": "경상남도 김해시 진례면 진례로233번길 7",
       "status": "영업/정상",
       "licenseDate": "2011-05-09"
     },
@@ -9513,22 +8925,8 @@
       "licenseDate": "2008-05-02"
     },
     {
-      "name": "하손마트",
-      "address": "경상남도 김해시 유하동 448-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2008-05-13"
-    },
-    {
       "name": "성진상회",
       "address": "경상남도 김해시 삼계동 1259-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2008-05-13"
-    },
-    {
-      "name": "목화슈퍼",
-      "address": "경상남도 김해시 외동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2008-05-13"
@@ -9553,34 +8951,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2008-05-26"
-    },
-    {
-      "name": "가야함박마트",
-      "address": "경상남도 김해시 외동 1208-5  1층",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2009-01-19"
-    },
-    {
-      "name": "GS25 김해중앙",
-      "address": "경상남도 김해시 서상동 152-10",
-      "roadAddress": "경상남도 김해시 분성로 322  (서상동)",
-      "status": "영업/정상",
-      "licenseDate": "2008-05-29"
-    },
-    {
-      "name": "논스톱인제점",
-      "address": "경상남도 김해시 어방동 463-2 나라타워프라자 202호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2008-05-30"
-    },
-    {
-      "name": "부영16차마트",
-      "address": "경상남도 김해시 부곡동 881-2 월산마을부영아파트제상가동 101호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2008-05-30"
     },
     {
       "name": "이안마트",
@@ -9800,13 +9170,6 @@
       "licenseDate": "2011-01-07"
     },
     {
-      "name": "맛있는마트",
-      "address": "경상남도 김해시 생림면 봉림리 844",
-      "roadAddress": "경상남도 김해시 생림면 생림대로 874",
-      "status": "영업/정상",
-      "licenseDate": "2011-01-07"
-    },
-    {
       "name": "GS25 삼정스마일점",
       "address": "경상남도 김해시 삼정동 646-9",
       "roadAddress": "경상남도 김해시 김해대로2491번길 38  (삼정동)",
@@ -9952,13 +9315,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2008-09-10"
-    },
-    {
-      "name": "남해슈퍼",
-      "address": "경상남도 김해시 봉황동 198-7",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2008-09-25"
     },
     {
       "name": "GS25장유공단점",

@@ -4,7 +4,7 @@
   "district": "용인시",
   "districtSlug": "yongin",
   "updatedAt": "2026-03-26",
-  "totalCount": 1745,
+  "totalCount": 1688,
   "stores": [
     {
       "name": "마켓브이 기흥점",
@@ -721,13 +721,6 @@
       "licenseDate": ""
     },
     {
-      "name": "명진슈퍼",
-      "address": "경기도 용인시 기흥구 마북동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "롯데슈퍼 보라2점",
       "address": "",
       "roadAddress": "경기도 용인시 기흥구 사은로126번길 29 (보라동)",
@@ -1036,13 +1029,6 @@
       "licenseDate": ""
     },
     {
-      "name": "서울슈퍼",
-      "address": "경기도 용인시 처인구 모현읍 왕산리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "후리마트",
       "address": "경기도 용인시 처인구 모현읍 왕산리",
       "roadAddress": "",
@@ -1088,13 +1074,6 @@
       "name": "솔파슈퍼",
       "address": "경기도 용인시 처인구 역북동 379",
       "roadAddress": "경기도 용인시 처인구 금학로253번길 20  (역북동)",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "소비자유통",
-      "address": "경기도 용인시 처인구 마평동 670-6",
-      "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
     },
@@ -1267,25 +1246,11 @@
       "licenseDate": "2006-03-02"
     },
     {
-      "name": "홈플러스 익스퍼레스 신갈점",
-      "address": "경기도 용인시 기흥구 신갈동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2006-03-02"
-    },
-    {
       "name": "모아마트",
       "address": "경기도 용인시 기흥구 동백동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2006-03-03"
-    },
-    {
-      "name": "모아마트",
-      "address": "경기도 용인시 기흥구 동백동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
     },
     {
       "name": "모아마트",
@@ -1498,13 +1463,6 @@
       "licenseDate": "2016-06-21"
     },
     {
-      "name": "성환슈퍼",
-      "address": "경기도 용인시 처인구 고림동 73 인정피렌체아파트110동505호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "준슈퍼",
       "address": "경기도 용인시 처인구 역북동 475-34",
       "roadAddress": "",
@@ -1631,13 +1589,6 @@
       "licenseDate": ""
     },
     {
-      "name": "대흥슈퍼",
-      "address": "경기도 용인시 처인구 유방동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "삼성지업사",
       "address": "경기도 용인시 처인구 역북동",
       "roadAddress": "",
@@ -1675,13 +1626,6 @@
     {
       "name": "현대상회",
       "address": "경기도 용인시 처인구 포곡읍 삼계리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "현대마트",
-      "address": "경기도 용인시 처인구 포곡읍 전대리",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1827,13 +1771,6 @@
       "licenseDate": "2006-04-14"
     },
     {
-      "name": "월드마트",
-      "address": "경기도 용인시 기흥구 고매동 385-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2006-04-14"
-    },
-    {
       "name": "코아루마트",
       "address": "경기도 용인시 기흥구 동백동 c5-1블럭 상가 102호",
       "roadAddress": "",
@@ -1860,13 +1797,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2006-04-27"
-    },
-    {
-      "name": "서해마트",
-      "address": "경기도 용인시 기흥구 동백동 서해c23-1블럭 서해@상가 104호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2006-05-11"
     },
     {
       "name": "서해그랑블슈퍼",
@@ -2011,13 +1941,6 @@
     {
       "name": "현대슈퍼",
       "address": "경기도 용인시 수지구 죽전동 574 1호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "베스트마트",
-      "address": "경기도 용인시 수지구 상현동 827 금호단지상가 202호",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -2266,20 +2189,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2006-06-19"
-    },
-    {
-      "name": "계룡마트",
-      "address": "경기도 용인시 기흥구 구갈동 604 강남마을 계룡@상가 103호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2006-06-22"
-    },
-    {
-      "name": "서해마트",
-      "address": "경기도 용인시 기흥구 동백동 서해c23-1블럭 서해@상가 104호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2006-06-29"
     },
     {
       "name": "에이원마트",
@@ -2674,13 +2583,6 @@
       "licenseDate": "2006-09-06"
     },
     {
-      "name": "서해마트",
-      "address": "경기도 용인시 기흥구 동백동 서해c23-1블럭 서해@상가 104호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2006-09-11"
-    },
-    {
       "name": "신영마트",
       "address": "경기도 용인시 기흥구 동백동 c8-12블럭 신영프로방스@상가동 101호",
       "roadAddress": "",
@@ -2861,13 +2763,6 @@
       "roadAddress": "경기도 용인시 기흥구 용구대로2469번길 20, 101호 (보정동, 죽전자이2차 상가)",
       "status": "영업/정상",
       "licenseDate": "2016-10-27"
-    },
-    {
-      "name": "씨유 용인상하점",
-      "address": "",
-      "roadAddress": "경기도 용인시 기흥구 언동로 214-2, 가동 101호 (상하동)",
-      "status": "영업/정상",
-      "licenseDate": "2016-11-03"
     },
     {
       "name": "씨유 기흥고매점",
@@ -3213,13 +3108,6 @@
       "licenseDate": "2007-02-05"
     },
     {
-      "name": "신안 365 마트",
-      "address": "경기도 용인시 기흥구 신갈동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2007-02-12"
-    },
-    {
       "name": "롯데케슬마트",
       "address": "경기도 용인시 기흥구 중동 동백지구 C7-2",
       "roadAddress": "",
@@ -3232,13 +3120,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2007-03-09"
-    },
-    {
-      "name": "새천년마트",
-      "address": "경기도 용인시 기흥구 신갈동 703 새천년그린빌상가  104호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2007-03-20"
     },
     {
       "name": "성원마트",
@@ -3444,13 +3325,6 @@
       "licenseDate": ""
     },
     {
-      "name": "한아름슈퍼",
-      "address": "경기도 용인시 수지구 풍덕천동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "고기리노인",
       "address": "경기도 용인시 수지구 고기동",
       "roadAddress": "",
@@ -3633,13 +3507,6 @@
       "licenseDate": "2007-03-22"
     },
     {
-      "name": "싱싱홈마트",
-      "address": "경기도 용인시 기흥구 상하동 621 쌍용아파트 101호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2007-03-30"
-    },
-    {
       "name": "강남마트",
       "address": "경기도 용인시 기흥구 구갈동 566-3",
       "roadAddress": "",
@@ -3708,13 +3575,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2007-05-29"
-    },
-    {
-      "name": "한국유통",
-      "address": "경기도 용인시 기흥구 상하동 163-5",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2007-05-31"
     },
     {
       "name": "세븐일레븐용인연원점",
@@ -3829,13 +3689,6 @@
       "licenseDate": ""
     },
     {
-      "name": "럭키슈퍼렛",
-      "address": "경기도 용인시 수지구 풍덕천동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "엘지25(수지)",
       "address": "경기도 용인시 수지구 풍덕천동",
       "roadAddress": "",
@@ -3901,13 +3754,6 @@
     {
       "name": "영주청과",
       "address": "경기도 용인시 수지구 풍덕천동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "벽산슈퍼",
-      "address": "경기도 용인시 수지구 죽전동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -4032,13 +3878,6 @@
       "licenseDate": ""
     },
     {
-      "name": "동천슈퍼",
-      "address": "경기도 용인시 수지구 동천동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "센텀홈마트",
       "address": "경기도 용인시 처인구 양지읍 남곡리 156-11",
       "roadAddress": "경기도 용인시 처인구 양지읍 남곡로 35",
@@ -4065,13 +3904,6 @@
       "roadAddress": "경기도 용인시 처인구 이동읍 경기동로690번길 2-2, 사동 101호 (윤송빌라)",
       "status": "영업/정상",
       "licenseDate": "2013-11-19"
-    },
-    {
-      "name": "씨유 용인이동화산점",
-      "address": "경기도 용인시 처인구 이동읍 송전리 1통2반 윤송빌라 사동 101호",
-      "roadAddress": "경기도 용인시 처인구 이동읍 경기동로690번길 2-2, 사동 101호 (윤송빌라)",
-      "status": "영업/정상",
-      "licenseDate": "2013-11-20"
     },
     {
       "name": "블루원(원삼지점)",
@@ -4347,13 +4179,6 @@
       "licenseDate": ""
     },
     {
-      "name": "벽산슈퍼",
-      "address": "경기도 용인시 수지구 죽전동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "미니슈퍼",
       "address": "경기도 용인시 수지구 동천동",
       "roadAddress": "",
@@ -4424,13 +4249,6 @@
       "licenseDate": ""
     },
     {
-      "name": "동성마트",
-      "address": "경기도 용인시 수지구 죽전동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "그린마트",
       "address": "경기도 용인시 수지구 죽전동",
       "roadAddress": "",
@@ -4461,13 +4279,6 @@
     {
       "name": "길훈마트",
       "address": "경기도 용인시 수지구 죽전동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "동보슈퍼",
-      "address": "경기도 용인시 수지구 풍덕천동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -4921,13 +4732,6 @@
       "licenseDate": ""
     },
     {
-      "name": "한국유통",
-      "address": "경기도 용인시 수지구 풍덕천동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "싱싱슈퍼",
       "address": "경기도 용인시 수지구 풍덕천동",
       "roadAddress": "",
@@ -4977,13 +4781,6 @@
       "licenseDate": ""
     },
     {
-      "name": "현대마트",
-      "address": "경기도 용인시 수지구 풍덕천동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "한아름공판장",
       "address": "경기도 용인시 수지구 풍덕천동",
       "roadAddress": "",
@@ -5015,13 +4812,6 @@
       "name": "훼미리마트수지벽산점",
       "address": "경기도 용인시 수지구 죽전동 916",
       "roadAddress": "경기도 용인시 수지구 용구대로2801번길 7  (죽전동)",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "수풍상회",
-      "address": "경기도 용인시 수지구 풍덕천동 69-39",
-      "roadAddress": "경기도 용인시 수지구 풍덕천로190번길 22  (풍덕천동)",
       "status": "영업/정상",
       "licenseDate": ""
     },
@@ -5495,13 +5285,6 @@
       "licenseDate": ""
     },
     {
-      "name": "현대홈마트",
-      "address": "경기도 용인시 수지구 상현동 현대9차아이파크상가 101호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "두산마트",
       "address": "경기도 용인시 수지구 상현동 250 두산아파트상가 104호",
       "roadAddress": "",
@@ -5603,20 +5386,6 @@
       "name": "buy the way",
       "address": "경기도 용인시 수지구 풍덕천동 716-1",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "성원마트",
-      "address": "경기도 용인시 수지구 상현동 864 성원아파트상가 104호",
-      "roadAddress": "경기도 용인시 수지구 만현로67번길 19,  104호 (상현동,성원아파트상가)",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "성원마트",
-      "address": "경기도 용인시 수지구 상현동 864 성원아파트상가 104호",
-      "roadAddress": "경기도 용인시 수지구 만현로67번길 19,  104호 (상현동,성원아파트상가)",
       "status": "영업/정상",
       "licenseDate": ""
     },
@@ -6118,13 +5887,6 @@
       "licenseDate": ""
     },
     {
-      "name": "강남마트",
-      "address": "경기도 용인시 수지구 상현동 30 성원아파트 105동 1902호",
-      "roadAddress": "경기도 용인시 수지구 진산로 24, 105동 1902호 (상현동,성원아파트)",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "굿마트",
       "address": "경기도 용인시 수지구 성복동 723 벽산상가 101호",
       "roadAddress": "경기도 용인시 수지구 성복1로 107  (성복동,벽산상가 101호)",
@@ -6531,13 +6293,6 @@
       "licenseDate": ""
     },
     {
-      "name": "(주)코리아세븐용인수지점",
-      "address": "경기도 용인시 수지구 풍덕천동 713-67   요진타워",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "싱싱슈퍼",
       "address": "경기도 용인시 수지구 풍덕천동 1060 신정마을상록아파트7단지상가 101호",
       "roadAddress": "",
@@ -6606,20 +6361,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
-    },
-    {
-      "name": "현대슈퍼",
-      "address": "경기도 용인시 수지구 죽전동 574 1호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "현대슈퍼",
-      "address": "경기도 용인시 수지구 죽전동 574 1호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2004-07-08"
     },
     {
       "name": "수지공판장",
@@ -6881,13 +6622,6 @@
       "licenseDate": ""
     },
     {
-      "name": "안성상회",
-      "address": "경기도 용인시 처인구 백암면 백암리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "씨유(CU) 용인수민점",
       "address": "경기도 용인시 처인구 마평동 738",
       "roadAddress": "경기도 용인시 처인구 금령로 136 (마평동)",
@@ -6910,13 +6644,6 @@
     },
     {
       "name": "청한슈퍼",
-      "address": "경기도 용인시 처인구 포곡읍 둔전리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "중앙슈퍼",
       "address": "경기도 용인시 처인구 포곡읍 둔전리",
       "roadAddress": "",
       "status": "영업/정상",
@@ -7310,13 +7037,6 @@
     {
       "name": "백봉상회",
       "address": "경기도 용인시 처인구 백암면 백봉리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "서울슈퍼",
-      "address": "경기도 용인시 처인구 모현읍 왕산리",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -7819,13 +7539,6 @@
       "licenseDate": ""
     },
     {
-      "name": "우리슈퍼",
-      "address": "경기도 용인시 처인구 포곡읍 전대리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "장미슈퍼",
       "address": "경기도 용인시 처인구 김량장동 344-18",
       "roadAddress": "",
@@ -7840,22 +7553,8 @@
       "licenseDate": ""
     },
     {
-      "name": "새로나슈퍼",
-      "address": "경기도 용인시 처인구 포곡읍 전대리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "대한슈퍼",
       "address": "경기도 용인시 처인구 마평동 717-3",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "소비자유통",
-      "address": "경기도 용인시 처인구 마평동 670-6",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -8687,20 +8386,6 @@
       "licenseDate": ""
     },
     {
-      "name": "한국IGA죽전점",
-      "address": "경기도 용인시 수지구 죽전동 2003-1 애플프라자 104호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "한국IGA죽전점",
-      "address": "경기도 용인시 수지구 죽전동 2003-1 애플프라자 104호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "벽산마트",
       "address": "경기도 용인시 수지구 죽전동 832-1 벽산아파트 2단지상가 101호",
       "roadAddress": "",
@@ -8738,13 +8423,6 @@
     {
       "name": "삼성테스코(주)",
       "address": "경기도 용인시 수지구 상현동 251 SR프라자 지하1층",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "그린슈퍼",
-      "address": "경기도 용인시 수지구 풍덕천동 682-6",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -8955,13 +8633,6 @@
     {
       "name": "고향참장터",
       "address": "경기도 용인시 수지구 신봉동 141-5 아트프라자 107~109",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "LG마트",
-      "address": "경기도 용인시 수지구 성복동 731 LG빌리지6차상가 101호",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -9324,13 +8995,6 @@
       "licenseDate": ""
     },
     {
-      "name": "하나마트",
-      "address": "경기도 용인시 수지구 풍덕천동 679-6",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "수지농수축",
       "address": "경기도 용인시 수지구 동천동 404",
       "roadAddress": "",
@@ -9347,13 +9011,6 @@
     {
       "name": "정평종합철물",
       "address": "경기도 용인시 수지구 상현동 858 만현마을 5단지아이파크상가 101호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "현대마트",
-      "address": "경기도 용인시 수지구 풍덕천동 1014 신정마을 상가 101호",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -9898,13 +9555,6 @@
       "licenseDate": "2009-07-03"
     },
     {
-      "name": "한솔마트",
-      "address": "경기도 용인시 수지구 죽전동 865-3",
-      "roadAddress": "경기도 용인시 수지구 용구대로2771번길 31  (죽전동)",
-      "status": "영업/정상",
-      "licenseDate": "2009-07-10"
-    },
-    {
       "name": "LG마트",
       "address": "경기도 용인시 수지구 상현동 30 성원아파트 상가 B05,B06호",
       "roadAddress": "경기도 용인시 수지구 진산로 24, B05, B06호 (상현동, 성원아파트1차상가 )",
@@ -9952,13 +9602,6 @@
       "roadAddress": "경기도 용인시 수지구 죽전로264번길 30  (죽전동,현대빌라트 302-701)",
       "status": "영업/정상",
       "licenseDate": "2010-10-22"
-    },
-    {
-      "name": "GS25죽전에이스",
-      "address": "경기도 용인시 수지구 죽전동 1188-5 에이스프라자 108호",
-      "roadAddress": "경기도 용인시 수지구 현암로 165,  108호 (죽전동,에이스프라자)",
-      "status": "영업/정상",
-      "licenseDate": "2009-10-22"
     },
     {
       "name": "GS25 죽전에이스",
@@ -10416,13 +10059,6 @@
       "licenseDate": "2016-06-21"
     },
     {
-      "name": "(주)이마트(수지점)",
-      "address": "경기도 용인시 수지구 신봉동",
-      "roadAddress": "경기도 용인시 수지구 수지로 203 (신봉동)",
-      "status": "영업/정상",
-      "licenseDate": "2011-05-18"
-    },
-    {
       "name": "홈플러스(주)익스프레스 용인동천점",
       "address": "경기도 용인시 수지구 동천동 417-5 래미안동천 단지내상가 1블록 제B01호",
       "roadAddress": "",
@@ -10757,13 +10393,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2010-09-28"
-    },
-    {
-      "name": "성원마트",
-      "address": "경기도 용인시 수지구 상현동 864 성원아파트상가 104호",
-      "roadAddress": "경기도 용인시 수지구 만현로67번길 19,  104호 (상현동,성원아파트상가)",
-      "status": "영업/정상",
-      "licenseDate": "2010-09-30"
     },
     {
       "name": "웰빙농수축",
@@ -11319,13 +10948,6 @@
       "licenseDate": ""
     },
     {
-      "name": "롯데할인마트",
-      "address": "경기도 용인시 수지구 상현동 859 만현마을1단지롯데캐슬아파트상가 109,110호",
-      "roadAddress": "경기도 용인시 수지구 만현로 25, 109,110호 (상현동, 만현마을1단지롯데캐슬아파트상가)",
-      "status": "영업/정상",
-      "licenseDate": "2004-07-14"
-    },
-    {
       "name": "샘 마트",
       "address": "경기도 용인시 수지구 동천동 191-2",
       "roadAddress": "",
@@ -11585,13 +11207,6 @@
       "licenseDate": "2004-07-01"
     },
     {
-      "name": "건영공판장",
-      "address": "경기도 용인시 수지구 풍덕천동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2004-07-01"
-    },
-    {
       "name": "현대홈마트",
       "address": "경기도 용인시 수지구 죽전동 죽전지구34블럭 현대4차3단지 상가  106호",
       "roadAddress": "",
@@ -11660,13 +11275,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2004-08-21"
-    },
-    {
-      "name": "홈마트",
-      "address": "경기도 용인시 수지구 풍덕천동 713-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
     },
     {
       "name": "LG마트",
@@ -11779,13 +11387,6 @@
       "roadAddress": "경기도 용인시 수지구 죽전로144번길 11-7, 1층 (죽전동)",
       "status": "영업/정상",
       "licenseDate": "2012-08-27"
-    },
-    {
-      "name": "(주)뉴그랜드마트(2005-19)",
-      "address": "경기도 용인시 수지구 상현동 32-1",
-      "roadAddress": "경기도 용인시 수지구 이현로 107 (상현동)",
-      "status": "영업/정상",
-      "licenseDate": "2012-08-31"
     },
     {
       "name": "지에스수퍼 광교신대점",

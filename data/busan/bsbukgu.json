@@ -1,0 +1,17 @@
+{
+  "region": "부산광역시",
+  "regionSlug": "busan",
+  "district": "북구",
+  "districtSlug": "bsbukgu",
+  "updatedAt": "2026-03-26",
+  "totalCount": 1,
+  "stores": [
+    {
+      "name": "농협부산경남유통하나로클럽부산",
+      "address": "부산광역시 북구 금곡동 1874-3 농협하나로클럽",
+      "roadAddress": "부산광역시 북구 금곡대로 469, 농협하나로클럽 (금곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-28"
+    }
+  ]
+}

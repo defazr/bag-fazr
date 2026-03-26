@@ -2,27 +2,27 @@
   "region": "전라남도",
   "regionSlug": "jeonnam",
   "updatedAt": "2026-03-26",
-  "totalCount": 7117,
+  "totalCount": 6752,
   "districts": [
     {
       "district": "보성군",
       "districtSlug": "boseong",
-      "count": 495
+      "count": 358
     },
     {
       "district": "담양군",
       "districtSlug": "damyang",
-      "count": 298
+      "count": 297
     },
     {
       "district": "강진군",
       "districtSlug": "gangjin",
-      "count": 119
+      "count": 117
     },
     {
       "district": "고흥군",
       "districtSlug": "goheung",
-      "count": 354
+      "count": 353
     },
     {
       "district": "곡성군",
@@ -37,37 +37,37 @@
     {
       "district": "광양시",
       "districtSlug": "gwangyang",
-      "count": 295
+      "count": 294
     },
     {
       "district": "해남군",
       "districtSlug": "haenam",
-      "count": 325
+      "count": 284
     },
     {
       "district": "함평군",
       "districtSlug": "hampyeong",
-      "count": 184
+      "count": 175
     },
     {
       "district": "화순군",
       "districtSlug": "hwasun",
-      "count": 443
+      "count": 438
     },
     {
       "district": "장흥군",
       "districtSlug": "jangheung",
-      "count": 238
+      "count": 237
     },
     {
       "district": "장성군",
       "districtSlug": "jangseong",
-      "count": 265
+      "count": 218
     },
     {
       "district": "진도군",
       "districtSlug": "jindo",
-      "count": 387
+      "count": 385
     },
     {
       "district": "목포시",
@@ -77,22 +77,22 @@
     {
       "district": "무안군",
       "districtSlug": "muan",
-      "count": 106
+      "count": 104
     },
     {
       "district": "나주시",
       "districtSlug": "naju",
-      "count": 463
+      "count": 462
     },
     {
       "district": "신안군",
       "districtSlug": "sinan",
-      "count": 57
+      "count": 56
     },
     {
       "district": "순천시",
       "districtSlug": "suncheon",
-      "count": 476
+      "count": 456
     },
     {
       "district": "완도군",
@@ -102,17 +102,17 @@
     {
       "district": "영암군",
       "districtSlug": "yeongam",
-      "count": 332
+      "count": 277
     },
     {
       "district": "영광군",
       "districtSlug": "yeonggwang",
-      "count": 343
+      "count": 331
     },
     {
       "district": "여수시",
       "districtSlug": "yeosu",
-      "count": 1126
+      "count": 1099
     }
   ]
 }

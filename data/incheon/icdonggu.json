@@ -1,0 +1,17 @@
+{
+  "region": "인천광역시",
+  "regionSlug": "incheon",
+  "district": "동구",
+  "districtSlug": "icdonggu",
+  "updatedAt": "2026-03-26",
+  "totalCount": 1,
+  "stores": [
+    {
+      "name": "(주)신세계마트",
+      "address": "인천광역시 동구 송림동 296-2",
+      "roadAddress": "인천광역시 동구 봉수대로 82  (송림동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-05"
+    }
+  ]
+}

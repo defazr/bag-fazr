@@ -4,7 +4,7 @@
   "district": "화순군",
   "districtSlug": "hwasun",
   "updatedAt": "2026-03-26",
-  "totalCount": 443,
+  "totalCount": 438,
   "stores": [
     {
       "name": "도곡농협로컬푸드직매장",
@@ -26,13 +26,6 @@
       "roadAddress": "전라남도 화순군 화순읍 광덕로 155, 202동  107호(부영2차아파트)",
       "status": "영업/정상",
       "licenseDate": "2000-09-02"
-    },
-    {
-      "name": "도곡농협로컬푸드직매장",
-      "address": "전라남도 화순군 도곡면 효산리 1279-23",
-      "roadAddress": "전라남도 화순군 도곡면 효죽로 3",
-      "status": "영업/정상",
-      "licenseDate": "2021-03-26"
     },
     {
       "name": "대중상회",
@@ -2994,34 +2987,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2000-01-01"
-    },
-    {
-      "name": "동산상회",
-      "address": "전라남도 화순군 한천면 동가리 391-4",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2003-01-02"
-    },
-    {
-      "name": "모산상회",
-      "address": "전라남도 화순군 한천면 모산리 52",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2003-01-02"
-    },
-    {
-      "name": "방울수퍼",
-      "address": "전라남도 화순군 한천면 오음리 산 2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2003-01-02"
-    },
-    {
-      "name": "용암상회",
-      "address": "전라남도 화순군 한천면 한계리 612",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2003-01-02"
     },
     {
       "name": "효산슈퍼",

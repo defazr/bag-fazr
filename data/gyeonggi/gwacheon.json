@@ -4,7 +4,7 @@
   "district": "과천시",
   "districtSlug": "gwacheon",
   "updatedAt": "2026-03-26",
-  "totalCount": 171,
+  "totalCount": 166,
   "stores": [
     {
       "name": "GS25과천비상교육점",
@@ -98,22 +98,8 @@
       "licenseDate": ""
     },
     {
-      "name": "행복슈퍼",
-      "address": "경기도 과천시 중앙동 71 래미안에코팰리스상가 1동 103호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "남태령옛길슈퍼",
       "address": "경기도 과천시 과천동 576-21",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "광창철물",
-      "address": "경기도 과천시 과천동 134-3",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -446,13 +432,6 @@
       "roadAddress": "경기도 과천시 별양상가1로 38 (별양동, 백두상가 403호)",
       "status": "영업/정상",
       "licenseDate": "1996-01-23"
-    },
-    {
-      "name": "우리슈퍼",
-      "address": "경기도 과천시 과천동 686",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1996-01-01"
     },
     {
       "name": "주암1리부녀회",
@@ -803,20 +782,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2007-06-05"
-    },
-    {
-      "name": "광창철물",
-      "address": "경기도 과천시 과천동 134-3",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2007-07-12"
-    },
-    {
-      "name": "광창철물",
-      "address": "경기도 과천시 과천동 134-3",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
     },
     {
       "name": "아이지에이마트",

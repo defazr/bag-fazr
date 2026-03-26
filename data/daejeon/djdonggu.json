@@ -1,0 +1,38 @@
+{
+  "region": "대전광역시",
+  "regionSlug": "daejeon",
+  "district": "동구",
+  "districtSlug": "djdonggu",
+  "updatedAt": "2026-03-26",
+  "totalCount": 4,
+  "stores": [
+    {
+      "name": "(주)동방생활산업 대전점",
+      "address": "대전광역시 동구 중동 318-1    동방마트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-14"
+    },
+    {
+      "name": "유신소방안전공사",
+      "address": "대전광역시 동구 가양동 173-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한솔마트",
+      "address": "대전광역시 동구 가양동 413-11",
+      "roadAddress": "대전광역시 동구 우암로 255  (가양동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-09-06"
+    },
+    {
+      "name": "한국문구도매상사",
+      "address": "대전광역시 동구 삼성동 269-13",
+      "roadAddress": "대전광역시 동구 대전로867번길 51  (삼성동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-12"
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "district": "김천시",
   "districtSlug": "gimcheon",
   "updatedAt": "2026-03-26",
-  "totalCount": 328,
+  "totalCount": 324,
   "stores": [
     {
       "name": "장미유통",
@@ -150,13 +150,6 @@
       "name": "코사마트",
       "address": "경상북도 김천시 신음동 991-1",
       "roadAddress": "경상북도 김천시 시청로 69 (신음동)",
-      "status": "영업/정상",
-      "licenseDate": "2020-09-16"
-    },
-    {
-      "name": "세븐일레븐김천부곡점",
-      "address": "경상북도 김천시 평화동 359-56",
-      "roadAddress": "경상북도 김천시 김천로 32 (평화동)",
       "status": "영업/정상",
       "licenseDate": "2020-09-16"
     },
@@ -735,13 +728,6 @@
       "licenseDate": "2020-09-15"
     },
     {
-      "name": "CU김천교통안전공단점",
-      "address": "경상북도 김천시 율곡동 279",
-      "roadAddress": "경상북도 김천시 혁신6로 20, 1층 103호 (율곡동)",
-      "status": "영업/정상",
-      "licenseDate": "2020-09-15"
-    },
-    {
       "name": "CU덕곡점",
       "address": "경상북도 김천시 부곡동 1356",
       "roadAddress": "경상북도 김천시 부곡맛고을4길 5 (부곡동)",
@@ -985,20 +971,6 @@
       "roadAddress": "경상북도 김천시 평화길 116 (평화동)",
       "status": "영업/정상",
       "licenseDate": "2020-09-21"
-    },
-    {
-      "name": "제일마트",
-      "address": "경상북도 김천시 평화동 255-3",
-      "roadAddress": "경상북도 김천시 평화시장1길 8 (평화동)",
-      "status": "영업/정상",
-      "licenseDate": "2020-09-21"
-    },
-    {
-      "name": "세븐일레븐김천제일병원점",
-      "address": "경상북도 김천시 신음동 471-72",
-      "roadAddress": "경상북도 김천시 신음1길 17 (신음동)",
-      "status": "영업/정상",
-      "licenseDate": "2020-09-22"
     },
     {
       "name": "GS25김천제일점",

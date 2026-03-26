@@ -4,7 +4,7 @@
   "district": "대덕구",
   "districtSlug": "daedeok",
   "updatedAt": "2026-03-26",
-  "totalCount": 617,
+  "totalCount": 607,
   "stores": [
     {
       "name": "대교종합상사",
@@ -201,13 +201,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1999-09-21"
-    },
-    {
-      "name": "정슈퍼",
-      "address": "대전광역시 대덕구 와동 63-4",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-10-13"
     },
     {
       "name": "현대싱싱나라",
@@ -1827,27 +1820,6 @@
       "licenseDate": "1994-12-01"
     },
     {
-      "name": "신동아유통",
-      "address": "대전광역시 대덕구 오정동 635-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-01"
-    },
-    {
-      "name": "까치슈퍼",
-      "address": "대전광역시 대덕구 오정동 323-5",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-01"
-    },
-    {
-      "name": "아는슈퍼",
-      "address": "대전광역시 대덕구 오정동 495-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-01"
-    },
-    {
       "name": "에덴슈퍼",
       "address": "대전광역시 대덕구 오정동 84-3",
       "roadAddress": "",
@@ -1864,27 +1836,6 @@
     {
       "name": "솔밭슈퍼",
       "address": "대전광역시 대덕구 오정동 175-51",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-01"
-    },
-    {
-      "name": "순영마켓",
-      "address": "대전광역시 대덕구 오정동 310-23",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-01"
-    },
-    {
-      "name": "곰돌이슈퍼",
-      "address": "대전광역시 대덕구 오정동 86-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-01"
-    },
-    {
-      "name": "쓰리랑슈퍼",
-      "address": "대전광역시 대덕구 오정동 388-8",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1994-12-01"
@@ -3052,13 +3003,6 @@
       "licenseDate": "1997-06-16"
     },
     {
-      "name": "까치슈퍼",
-      "address": "대전광역시 대덕구 오정동 323-5",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1997-06-16"
-    },
-    {
       "name": "경원슈퍼",
       "address": "대전광역시 대덕구 오정동 381-11",
       "roadAddress": "",
@@ -3484,13 +3428,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1999-10-04"
-    },
-    {
-      "name": "샘물슈퍼",
-      "address": "대전광역시 대덕구 오정동 347-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-12-22"
     },
     {
       "name": "오정도매마트",
@@ -4125,13 +4062,6 @@
     {
       "name": "회덕읍내농협",
       "address": "대전광역시 대덕구 읍내동 336-17",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1995-01-05"
-    },
-    {
-      "name": "회덕상회",
-      "address": "대전광역시 대덕구 읍내동 230-7",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1995-01-05"

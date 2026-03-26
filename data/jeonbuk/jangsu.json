@@ -4,7 +4,7 @@
   "district": "장수군",
   "districtSlug": "jangsu",
   "updatedAt": "2026-03-26",
-  "totalCount": 46,
+  "totalCount": 45,
   "stores": [
     {
       "name": "풀마트",
@@ -320,13 +320,6 @@
       "roadAddress": "전북특별자치도 장수군 장계면 한들로 88",
       "status": "영업/정상",
       "licenseDate": "2025-11-06"
-    },
-    {
-      "name": "이마트24 장수장계점",
-      "address": "전북특별자치도 장수군 장계면 장계리 395-3",
-      "roadAddress": "전북특별자치도 장수군 장계면 장무로 208",
-      "status": "영업/정상",
-      "licenseDate": "2026-03-10"
     }
   ]
 }

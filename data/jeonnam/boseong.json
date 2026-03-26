@@ -4,7 +4,7 @@
   "district": "보성군",
   "districtSlug": "boseong",
   "updatedAt": "2026-03-26",
-  "totalCount": 495,
+  "totalCount": 358,
   "stores": [
     {
       "name": "세븐일레븐 보성예당점",
@@ -103,13 +103,6 @@
       "roadAddress": "전라남도 보성군 보성읍 녹차로 1396",
       "status": "영업/정상",
       "licenseDate": "2022-09-21"
-    },
-    {
-      "name": "지에스25벌교장좌점",
-      "address": "전라남도 보성군 벌교읍 장좌리 605-1",
-      "roadAddress": "전라남도 보성군 벌교읍 채동선로 133-1, 1층",
-      "status": "영업/정상",
-      "licenseDate": "2022-11-15"
     },
     {
       "name": "지에스25벌교장좌점",
@@ -336,13 +329,6 @@
       "licenseDate": "2024-10-28"
     },
     {
-      "name": "세븐일레븐 벌교읍내점",
-      "address": "전라남도 보성군 벌교읍 벌교리 873-6",
-      "roadAddress": "전라남도 보성군 벌교읍 채동선로 253-2",
-      "status": "영업/정상",
-      "licenseDate": "2025-02-28"
-    },
-    {
       "name": "농부식자재마트",
       "address": "전라남도 보성군 벌교읍 장좌리 597-23",
       "roadAddress": "전라남도 보성군 벌교읍 채동선로 134",
@@ -399,13 +385,6 @@
       "licenseDate": ""
     },
     {
-      "name": "구멍가게",
-      "address": "전라남도 보성군 회천면 동율리 만수",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "보성소비자조합",
       "address": "전라남도 보성군 보성읍 보성리 927-12",
       "roadAddress": "",
@@ -415,20 +394,6 @@
     {
       "name": "희망슈퍼",
       "address": "전라남도 보성군 보성읍 보성리 675-20",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "구멍가게",
-      "address": "전라남도 보성군 회천면 동율리 만수",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "구멍가게",
-      "address": "전라남도 보성군 회천면 동율리 만수",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -469,27 +434,6 @@
       "licenseDate": ""
     },
     {
-      "name": "구멍가게",
-      "address": "전라남도 보성군 회천면 동율리 만수",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "구멍가게",
-      "address": "전라남도 보성군 회천면 동율리 만수",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "구멍가게",
-      "address": "전라남도 보성군 회천면 동율리 만수",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "대야리 휴게소",
       "address": "전라남도 보성군 보성읍 대야리 346",
       "roadAddress": "",
@@ -520,13 +464,6 @@
     {
       "name": "송이상회",
       "address": "전라남도 보성군 보성읍 주봉리 227-6",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "구멍가게",
-      "address": "전라남도 보성군 회천면 동율리 만수",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -623,27 +560,6 @@
       "licenseDate": ""
     },
     {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "용정다리가게",
       "address": "전라남도 보성군 미력면 용정리 151",
       "roadAddress": "",
@@ -658,34 +574,6 @@
       "licenseDate": ""
     },
     {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "반룡가게",
       "address": "전라남도 보성군 미력면 반룡리 670",
       "roadAddress": "",
@@ -693,22 +581,8 @@
       "licenseDate": ""
     },
     {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "반룡식당",
       "address": "전라남도 보성군 미력면 초당리 484",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -728,113 +602,8 @@
       "licenseDate": ""
     },
     {
-      "name": "가게",
-      "address": "전라남도 보성군 노동면 거석리 296",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "가게",
-      "address": "전라남도 보성군 노동면 거석리 296",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "구멍가게",
-      "address": "전라남도 보성군 회천면 동율리 만수",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "농협",
       "address": "전라남도 보성군 미력면 도개리 583",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "구멍가게",
-      "address": "전라남도 보성군 회천면 동율리 만수",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -847,13 +616,6 @@
       "licenseDate": ""
     },
     {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "부녀회",
       "address": "전라남도 보성군 조성면 덕산리 감동",
       "roadAddress": "",
@@ -861,22 +623,8 @@
       "licenseDate": ""
     },
     {
-      "name": "가게",
-      "address": "전라남도 보성군 노동면 거석리 296",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "구판장",
       "address": "전라남도 보성군 조성면 용전리 흥촌",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "가게",
-      "address": "전라남도 보성군 노동면 거석리 296",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -903,13 +651,6 @@
       "licenseDate": ""
     },
     {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "통운슈퍼",
       "address": "전라남도 보성군 조성면 조성리 609",
       "roadAddress": "",
@@ -917,176 +658,8 @@
       "licenseDate": ""
     },
     {
-      "name": "구판장",
-      "address": "전라남도 보성군 조성면 용전리 흥촌",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "실로암 슈퍼",
       "address": "전라남도 보성군 조성면 조성리 870-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "가게",
-      "address": "전라남도 보성군 노동면 거석리 296",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1198,13 +771,6 @@
     },
     {
       "name": "부녀회 구판장",
-      "address": "전라남도 보성군 웅치면 대산리 134-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "부녀회 구판장",
       "address": "전라남도 보성군 웅치면 대산리 603-3",
       "roadAddress": "",
       "status": "영업/정상",
@@ -1240,21 +806,7 @@
     },
     {
       "name": "부녀회 구판장",
-      "address": "전라남도 보성군 웅치면 봉산리 409-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "부녀회 구판장",
       "address": "전라남도 보성군 웅치면 유산리 772-3",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "부녀회 구판장",
-      "address": "전라남도 보성군 웅치면 유산리 558",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1289,13 +841,6 @@
     },
     {
       "name": "부녀회",
-      "address": "전라남도 보성군 노동면 감정리 364",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "부녀회",
       "address": "전라남도 보성군 노동면 옥마리 134",
       "roadAddress": "",
       "status": "영업/정상",
@@ -1310,42 +855,7 @@
     },
     {
       "name": "부녀회",
-      "address": "전라남도 보성군 노동면 용호리 584",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "부녀회",
       "address": "전라남도 보성군 노동면 용호리 517",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "부녀회",
-      "address": "전라남도 보성군 노동면 감정리 364",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "부녀회",
-      "address": "전라남도 보성군 노동면 대련리 737",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "부녀회",
-      "address": "전라남도 보성군 노동면 용호리 584",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "부녀회",
-      "address": "전라남도 보성군 노동면 대련리 737",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1491,13 +1001,6 @@
       "licenseDate": ""
     },
     {
-      "name": "중앙슈퍼",
-      "address": "전라남도 보성군 벌교읍 장좌리 97-23",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "영일슈퍼",
       "address": "전라남도 보성군 벌교읍 벌교리 888-1",
       "roadAddress": "",
@@ -1589,13 +1092,6 @@
       "licenseDate": ""
     },
     {
-      "name": "신흥상회",
-      "address": "전라남도 보성군 보성읍 보성리 921-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "동양슈퍼",
       "address": "전라남도 보성군 벌교읍 벌교리 632-14",
       "roadAddress": "",
@@ -1645,20 +1141,6 @@
       "licenseDate": ""
     },
     {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "구판장",
-      "address": "전라남도 보성군 조성면 용전리 흥촌",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "풍차식당",
       "address": "전라남도 보성군 문덕면 죽산리 118-11",
       "roadAddress": "",
@@ -1666,57 +1148,8 @@
       "licenseDate": ""
     },
     {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "주점",
       "address": "전라남도 보성군 문덕면 죽산리 814",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "구판장",
-      "address": "전라남도 보성군 조성면 용전리 흥촌",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "가게",
-      "address": "전라남도 보성군 노동면 거석리 296",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "부녀회",
-      "address": "전라남도 보성군 노동면 용호리 584",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1752,13 +1185,6 @@
     {
       "name": "목화상회",
       "address": "전라남도 보성군 벌교읍 고읍리 611-6",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "영진슈퍼",
-      "address": "전라남도 보성군 보성읍 우산리 306",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1848,85 +1274,8 @@
       "licenseDate": ""
     },
     {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "운림상회",
       "address": "전라남도 보성군 겸백면 운림리 365",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1953,41 +1302,6 @@
       "licenseDate": ""
     },
     {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "상점",
-      "address": "전라남도 보성군 겸백면 용산리 64",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "구판장",
-      "address": "전라남도 보성군 조성면 용전리 흥촌",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "부성상회",
       "address": "전라남도 보성군 회천면 율포리 469",
       "roadAddress": "",
@@ -2009,113 +1323,8 @@
       "licenseDate": ""
     },
     {
-      "name": "마을가게",
-      "address": "전라남도 보성군 회천면 율포리 206",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "칠음슈퍼",
       "address": "전라남도 보성군 율어면 칠음리 68",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "가게",
-      "address": "전라남도 보성군 노동면 거석리 296",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "구멍가게",
-      "address": "전라남도 보성군 회천면 동율리 만수",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "구멍가게",
-      "address": "전라남도 보성군 회천면 동율리 만수",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "구멍가게",
-      "address": "전라남도 보성군 회천면 동율리 만수",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -2135,79 +1344,9 @@
       "licenseDate": ""
     },
     {
-      "name": "구멍가게",
-      "address": "전라남도 보성군 회천면 동율리 만수",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "마을가게",
-      "address": "전라남도 보성군 회천면 율포리 206",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "회천농협 율포농협",
       "address": "전라남도 보성군 회천면 객산리 회천농협 율포농협",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "일흥슈퍼",
-      "address": "전라남도 보성군 보성읍 보성리 857-1",
-      "roadAddress": "전라남도 보성군 보성읍 중앙로 81",
       "status": "영업/정상",
       "licenseDate": ""
     },
@@ -2303,13 +1442,6 @@
       "licenseDate": ""
     },
     {
-      "name": "거북이 슈퍼",
-      "address": "전라남도 보성군 벌교읍 벌교리 865-9",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "개미상회",
       "address": "전라남도 보성군 벌교읍 회정리 538-3",
       "roadAddress": "",
@@ -2387,34 +1519,6 @@
       "licenseDate": ""
     },
     {
-      "name": "가게",
-      "address": "전라남도 보성군 노동면 거석리 296",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "부녀회",
-      "address": "전라남도 보성군 노동면 대련리 737",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "부녀회",
-      "address": "전라남도 보성군 노동면 감정리 364",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "가게",
-      "address": "전라남도 보성군 노동면 거석리 296",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "반장댁",
       "address": "전라남도 보성군 노동면 금호리 418",
       "roadAddress": "",
@@ -2422,50 +1526,8 @@
       "licenseDate": ""
     },
     {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "가게",
-      "address": "전라남도 보성군 노동면 거석리 296",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "가게",
       "address": "전라남도 보성군 노동면 거석리 232",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "전라남도 보성군 회천면 회령리 시장",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "가게",
-      "address": "전라남도 보성군 노동면 거석리 296",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "가게",
-      "address": "전라남도 보성군 노동면 거석리 296",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -2667,13 +1729,6 @@
       "licenseDate": ""
     },
     {
-      "name": "대성의원",
-      "address": "전라남도 보성군 득량면 예당리 917-5",
-      "roadAddress": "전라남도 보성군 벌교읍 채동선로 245",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "송학슈퍼",
       "address": "전라남도 보성군 득량면 송곡리 1054",
       "roadAddress": "",
@@ -2781,13 +1836,6 @@
     {
       "name": "학교매점",
       "address": "전라남도 보성군 벌교읍 벌교리 317",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "중앙슈퍼",
-      "address": "전라남도 보성군 벌교읍 장좌리 97-23",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -3295,13 +2343,6 @@
       "roadAddress": "전라남도 보성군 보성읍 용문길 47",
       "status": "영업/정상",
       "licenseDate": "2015-12-11"
-    },
-    {
-      "name": "낙성상회",
-      "address": "전라남도 보성군 벌교읍 낙성리 546",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2016-03-02"
     },
     {
       "name": "세븐일레븐 보성율포점",

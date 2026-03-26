@@ -1,0 +1,2509 @@
+{
+  "region": "부산광역시",
+  "regionSlug": "busan",
+  "district": "중구",
+  "districtSlug": "bsjunggu",
+  "updatedAt": "2026-03-26",
+  "totalCount": 357,
+  "stores": [
+    {
+      "name": "영주진마트",
+      "address": "",
+      "roadAddress": "부산광역시 중구 임소길 33 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-12"
+    },
+    {
+      "name": "(주)지에스리테일GS25남포제일점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 보수대로 14 (부평동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-12"
+    },
+    {
+      "name": "㈜코리아쎄븐 부산자갈치점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 자갈치로37번길 6 (남포동5가)",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-22"
+    },
+    {
+      "name": "후레쉬마트",
+      "address": "",
+      "roadAddress": "부산광역시 중구 충장대로9번길 30 (중앙동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2013-09-10"
+    },
+    {
+      "name": "스파빅마트",
+      "address": "",
+      "roadAddress": "부산광역시 중구 영주로 24 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-25"
+    },
+    {
+      "name": "한진상회",
+      "address": "",
+      "roadAddress": "부산광역시 중구 충장대로5번길 69-1 (중앙동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2013-10-07"
+    },
+    {
+      "name": "나들가게 영주진마트",
+      "address": "",
+      "roadAddress": "부산광역시 중구 임소길 33 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-10-15"
+    },
+    {
+      "name": "탑마트",
+      "address": "",
+      "roadAddress": "부산광역시 중구 흑교로78번안길 1 (보수동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2013-10-22"
+    },
+    {
+      "name": "GS25 부산코모도점",
+      "address": "부산광역시 중구 대청동1가 37-1",
+      "roadAddress": "부산광역시 중구 대청로 121-1  (대청동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2013-10-30"
+    },
+    {
+      "name": "GS25 중구용두점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 대청로138번길 9 (중앙동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2013-12-02"
+    },
+    {
+      "name": "플러스할인마트",
+      "address": "부산광역시 중구 중앙동2가 89 중앙지하철역 임시상가 3호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2013-12-13"
+    },
+    {
+      "name": "GS25부산세관점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 충장대로9번길 13 (중앙동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2013-12-20"
+    },
+    {
+      "name": "킹마트",
+      "address": "",
+      "roadAddress": "부산광역시 중구 대영로 217 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-12-24"
+    },
+    {
+      "name": "GS25중앙점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 중앙대로 81 (중앙동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2013-12-30"
+    },
+    {
+      "name": "CU 영주스카이점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 영주로 14 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-12-31"
+    },
+    {
+      "name": "브이마트",
+      "address": "",
+      "roadAddress": "부산광역시 중구 보수대로 94 (보수동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2014-01-29"
+    },
+    {
+      "name": "씨유 중구대청코리아점",
+      "address": "부산광역시 중구 대청동4가 85",
+      "roadAddress": "부산광역시 중구 중구로 91 (대청동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2020-06-12"
+    },
+    {
+      "name": "세븐일레븐 부산중앙주경점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 중앙대로 24, 103호 (중앙동6가, 주경빌딩)",
+      "status": "영업/정상",
+      "licenseDate": "2015-12-09"
+    },
+    {
+      "name": "GS25자갈치",
+      "address": "부산광역시 중구 남포동5가 50-2",
+      "roadAddress": "부산광역시 중구 자갈치로47번길 5 (남포동5가)",
+      "status": "영업/정상",
+      "licenseDate": "2014-07-18"
+    },
+    {
+      "name": "롯데쇼핑(주) 롯데마트 광복점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 중앙대로 2 (중앙동7가)",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-22"
+    },
+    {
+      "name": "참마트부평점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 보수대로 16-1 (부평동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2014-10-27"
+    },
+    {
+      "name": "함안상회",
+      "address": "",
+      "roadAddress": "부산광역시 중구 망양로 369 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-11-24"
+    },
+    {
+      "name": "GS25 민주전망대",
+      "address": "부산광역시 중구 영주동 2-310 동남파크상가 8호",
+      "roadAddress": "부산광역시 중구 망양로 457 (영주동,동남파크맨션상가)",
+      "status": "영업/정상",
+      "licenseDate": "2015-05-13"
+    },
+    {
+      "name": "씨유 부산남포점",
+      "address": "부산광역시 중구 남포동2가 12-3",
+      "roadAddress": "부산광역시 중구 남포길 31 (남포동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2022-01-12"
+    },
+    {
+      "name": "블루25대청점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 대청로 105-3 (대청동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2015-10-13"
+    },
+    {
+      "name": "부광슈퍼",
+      "address": "",
+      "roadAddress": "부산광역시 중구 대청북길 16 (대청동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2015-10-19"
+    },
+    {
+      "name": "지에스25 자갈치시장",
+      "address": "",
+      "roadAddress": "부산광역시 중구 자갈치로 74 (남포동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2015-10-26"
+    },
+    {
+      "name": "힐사이드관광호텔",
+      "address": "",
+      "roadAddress": "부산광역시 중구 중구로 160 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-11-24"
+    },
+    {
+      "name": "지에스(GS)25 광복센타점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 구덕로48번길 1 (남포동5가)",
+      "status": "영업/정상",
+      "licenseDate": "2015-11-24"
+    },
+    {
+      "name": "GS25 중부산점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 중앙대로 31 (중앙동6가)",
+      "status": "영업/정상",
+      "licenseDate": "2023-05-30"
+    },
+    {
+      "name": "씨유광복동블루점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 광복로85번길 6-1 (광복동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2016-02-22"
+    },
+    {
+      "name": "대청상회",
+      "address": "",
+      "roadAddress": "부산광역시 중구 망양로 343, 102호 (대청동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2016-04-07"
+    },
+    {
+      "name": "이마트24 부산중앙역점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 중앙대로 56, 102호 (중앙동5가, 북항라움오피스텔)",
+      "status": "영업/정상",
+      "licenseDate": "2016-05-03"
+    },
+    {
+      "name": "씨유 부산부평점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 흑교로 11-1 (부평동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-20"
+    },
+    {
+      "name": "세븐일레븐 부산중구동진점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 보수대로124번길 66 (보수동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2016-06-28"
+    },
+    {
+      "name": "블루25 부평점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 보수대로44번길 9-2 (부평동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2016-08-05"
+    },
+    {
+      "name": "준 편의점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 대청로 132-1 (동광동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2016-08-29"
+    },
+    {
+      "name": "미니스톱 부산 중앙점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 충장대로5번길 12-1 (중앙동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2016-09-12"
+    },
+    {
+      "name": "세븐부산대창점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 중앙대로 129 (대창동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2016-12-14"
+    },
+    {
+      "name": "아이앤지25(부산여객터미널점)",
+      "address": "",
+      "roadAddress": "부산광역시 중구 충장대로 24 (중앙동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2016-12-20"
+    },
+    {
+      "name": "씨유 부산자갈치점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 자갈치로 23, 1층 (남포동6가)",
+      "status": "영업/정상",
+      "licenseDate": "2016-12-22"
+    },
+    {
+      "name": "씨유 부산대청로점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 대청로 127 (동광동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2022-02-09"
+    },
+    {
+      "name": "씨유부산포레호텔점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 구덕로 54-1 (남포동5가)",
+      "status": "영업/정상",
+      "licenseDate": "2017-03-09"
+    },
+    {
+      "name": "신진슈퍼",
+      "address": "",
+      "roadAddress": "부산광역시 중구 남포길 39-2 (남포동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2017-03-29"
+    },
+    {
+      "name": "이마트24 부산보수점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 흑교로45번길 32 (보수동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2017-04-06"
+    },
+    {
+      "name": "씨유 보수원룸점",
+      "address": "부산광역시 중구 보수동2가 63-6",
+      "roadAddress": "부산광역시 중구 보수대로124번길 25-2, 1층 (보수동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2022-01-26"
+    },
+    {
+      "name": "세븐일레븐 중앙센터점",
+      "address": "부산광역시 중구 중앙동4가 78-2",
+      "roadAddress": "부산광역시 중구 충장대로9번길 55, 1층층 (중앙동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2017-06-08"
+    },
+    {
+      "name": "지에스(GS)25 부산영주점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 대영로224번길 11, 1층 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-06-27"
+    },
+    {
+      "name": "씨유(CU)남포대로점(부산중구지역자활센터)",
+      "address": "",
+      "roadAddress": "부산광역시 중구 구덕로 42, 1층 (남포동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2017-07-25"
+    },
+    {
+      "name": "(주)코리아세븐 부산중앙대로점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 중앙대로 147 (대창동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2017-08-11"
+    },
+    {
+      "name": "지에스25보수사거리점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 흑교로 43 (보수동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2017-08-22"
+    },
+    {
+      "name": "씨유 국제시장 사거리점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 대청로 71-1, 101호 (보수동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2021-05-26"
+    },
+    {
+      "name": "블루25",
+      "address": "부산광역시 중구 부평동4가 22-1",
+      "roadAddress": "부산광역시 중구 보수대로44번길 9-2 (부평동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2017-12-21"
+    },
+    {
+      "name": "비엔비 마트",
+      "address": "부산광역시 중구 동광동2가 11-46",
+      "roadAddress": "부산광역시 중구 대청로126번길 34 (동광동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2017-12-29"
+    },
+    {
+      "name": "국제마트",
+      "address": "부산광역시 중구 창선동2가 25",
+      "roadAddress": "부산광역시 중구 국제시장2길 6-3 (창선동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2017-12-29"
+    },
+    {
+      "name": "세븐일레븐 부산중앙2호점",
+      "address": "부산광역시 중구 중앙동3가 15",
+      "roadAddress": "부산광역시 중구 대청로 139-1, 1층 (중앙동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2018-01-11"
+    },
+    {
+      "name": "GS25 부산민주점",
+      "address": "부산광역시 중구 영주동 293-17",
+      "roadAddress": "부산광역시 중구 망양로358번길 1 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-03-19"
+    },
+    {
+      "name": "빅마트",
+      "address": "부산광역시 중구 영주동 161 금호타운",
+      "roadAddress": "부산광역시 중구 영주로 51 (영주동, 금호타운)",
+      "status": "영업/정상",
+      "licenseDate": "2018-03-23"
+    },
+    {
+      "name": "칠성상회",
+      "address": "부산광역시 중구 영주동 74-5",
+      "roadAddress": "부산광역시 중구 동영로93번길 2 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-04-23"
+    },
+    {
+      "name": "씨유 남포브라운점",
+      "address": "부산광역시 중구 부평동2가 51-2 1층",
+      "roadAddress": "부산광역시 중구 보수대로 26, 1층 (부평동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2018-05-15"
+    },
+    {
+      "name": "이마트24부산중앙제일점",
+      "address": "부산광역시 중구 동광동3가 17-2",
+      "roadAddress": "부산광역시 중구 중앙대로41번길 14-1 (동광동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2018-08-23"
+    },
+    {
+      "name": "(주)에스에이엠 부산중앙점",
+      "address": "부산광역시 중구 중앙동4가 89-13",
+      "roadAddress": "부산광역시 중구 충장대로 3 (중앙동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2018-09-06"
+    },
+    {
+      "name": "롯데쇼핑(주)광복점",
+      "address": "부산광역시 중구 중앙동7가 20-1 롯데백화점광복점",
+      "roadAddress": "부산광역시 중구 중앙대로 2, 롯데백화점광복점 (중앙동7가)",
+      "status": "영업/정상",
+      "licenseDate": "2018-10-10"
+    },
+    {
+      "name": "세븐일레븐 부산코모도점",
+      "address": "부산광역시 중구 대청동1가 37-1 코모도에스테이트 108호",
+      "roadAddress": "부산광역시 중구 대청로 121-1, 108호 (대청동1가, 코모도에스테이트)",
+      "status": "영업/정상",
+      "licenseDate": "2023-08-03"
+    },
+    {
+      "name": "GS25 부산터널점",
+      "address": "부산광역시 중구 영주동 142-24 문화빌리지",
+      "roadAddress": "부산광역시 중구 동영로64번길 21 (영주동, 문화빌리지)",
+      "status": "영업/정상",
+      "licenseDate": "2019-03-18"
+    },
+    {
+      "name": "이마트24 부산남포대로점",
+      "address": "부산광역시 중구 남포동6가 83-2",
+      "roadAddress": "부산광역시 중구 구덕로 72, 1층 (남포동6가)",
+      "status": "영업/정상",
+      "licenseDate": "2019-08-07"
+    },
+    {
+      "name": "GS25남포제일점",
+      "address": "부산광역시 중구 부평동2가 45-6",
+      "roadAddress": "부산광역시 중구 보수대로 14, 1층 (부평동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2019-09-30"
+    },
+    {
+      "name": "씨유 중구 이리스점",
+      "address": "부산광역시 중구 중앙동5가 18",
+      "roadAddress": "부산광역시 중구 대교로 141 (중앙동5가)",
+      "status": "영업/정상",
+      "licenseDate": "2019-10-15"
+    },
+    {
+      "name": "GS25 광복센타 점",
+      "address": "부산광역시 중구 남포동5가 2-1",
+      "roadAddress": "부산광역시 중구 구덕로48번길 1 (남포동5가)",
+      "status": "영업/정상",
+      "licenseDate": "2019-12-04"
+    },
+    {
+      "name": "GS25 부산남포점",
+      "address": "부산광역시 중구 남포동2가 19-4",
+      "roadAddress": "부산광역시 중구 남포길 17, 1층 (남포동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2019-12-30"
+    },
+    {
+      "name": "이마트24 만세365병원점",
+      "address": "부산광역시 중구 대청동2가 8-11",
+      "roadAddress": "부산광역시 중구 대청로 105, 1층 (대청동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2020-02-26"
+    },
+    {
+      "name": "세븐일레븐부산중앙퀸즈점",
+      "address": "부산광역시 중구 중앙동4가 56-31",
+      "roadAddress": "부산광역시 중구 중앙대로 97, 1층 (중앙동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2020-03-31"
+    },
+    {
+      "name": "백금당",
+      "address": "부산광역시 중구 부평동1가 29-13",
+      "roadAddress": "부산광역시 중구 중구로29번길 26 (부평동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-10"
+    },
+    {
+      "name": "세븐일레븐 부산중구스카이점",
+      "address": "부산광역시 중구 부평동3가 65-7",
+      "roadAddress": "부산광역시 중구 보수대로44번길 14 (부평동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2022-02-11"
+    },
+    {
+      "name": "행복플러스25",
+      "address": "부산광역시 중구 영주동 534-235",
+      "roadAddress": "부산광역시 중구 동영로 38-1 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-10-19"
+    },
+    {
+      "name": "세븐마트",
+      "address": "부산광역시 중구 남포동5가 2-6",
+      "roadAddress": "부산광역시 중구 구덕로 50, 1층 (남포동5가)",
+      "status": "영업/정상",
+      "licenseDate": "2020-11-09"
+    },
+    {
+      "name": "에스씨(SC)마트 부평점",
+      "address": "부산광역시 중구 부평동4가 52-3",
+      "roadAddress": "부산광역시 중구 보수대로 82 (부평동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2020-12-01"
+    },
+    {
+      "name": "CU부산중구중앙점",
+      "address": "부산광역시 중구 중앙동1가 23-1",
+      "roadAddress": "부산광역시 중구 중앙대로41번길 7, 1층 (중앙동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2021-02-24"
+    },
+    {
+      "name": "중앙전기철물. 소품",
+      "address": "부산광역시 중구 중앙동3가 12-3",
+      "roadAddress": "부산광역시 중구 40계단길 10 (중앙동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-24"
+    },
+    {
+      "name": "씨유부산중앙동점",
+      "address": "부산광역시 중구 중앙동4가 58-1",
+      "roadAddress": "부산광역시 중구 해관로 82, 새중앙빌딩 1층 (중앙동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2021-03-31"
+    },
+    {
+      "name": "씨유부산40계단점",
+      "address": "부산광역시 중구 중앙동3가 12-3",
+      "roadAddress": "부산광역시 중구 40계단길 10, 1층 (중앙동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-12"
+    },
+    {
+      "name": "그린마트",
+      "address": "부산광역시 중구 보수동1가 82-8",
+      "roadAddress": "부산광역시 중구 흑교로 54 (보수동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-14"
+    },
+    {
+      "name": "세븐일레븐 부산대청점",
+      "address": "부산광역시 중구 대청동2가 22-4",
+      "roadAddress": "부산광역시 중구 대청로 90-1 (대청동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2021-04-20"
+    },
+    {
+      "name": "세븐일레븐 (남포광장점)",
+      "address": "부산광역시 중구 부평동1가 47-1",
+      "roadAddress": "부산광역시 중구 비프광장로 19-1 (부평동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2023-09-18"
+    },
+    {
+      "name": "봉래슈퍼마켓",
+      "address": "부산광역시 중구 영주동 640-28 2통2반",
+      "roadAddress": "부산광역시 중구 대영로242번안길 7 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "잡화상",
+      "address": "부산광역시 중구 영주동 525 18통1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "창선담배집",
+      "address": "부산광역시 중구 창선동2가 40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "씨유 중앙크라운점",
+      "address": "부산광역시 중구 중앙동4가 81-19",
+      "roadAddress": "부산광역시 중구 중앙대로116번길 7 (중앙동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2024-09-13"
+    },
+    {
+      "name": "(주)신아환경",
+      "address": "부산광역시 중구 중앙동4가 36-5",
+      "roadAddress": "부산광역시 중구 해관로 61-2 (중앙동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2024-11-05"
+    },
+    {
+      "name": "(주)영진",
+      "address": "부산광역시 중구 보수동3가 70-14",
+      "roadAddress": "부산광역시 중구 대청로 29-2 (보수동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2024-11-06"
+    },
+    {
+      "name": "씨유 부산메리놀점",
+      "address": "부산광역시 중구 동광동5가 19-13",
+      "roadAddress": "부산광역시 중구 샘길 1 (동광동5가)",
+      "status": "영업/정상",
+      "licenseDate": "2024-12-04"
+    },
+    {
+      "name": "지에스(GS)25 부산보수점",
+      "address": "부산광역시 중구 보수동1가 91-3",
+      "roadAddress": "부산광역시 중구 대청로53번길 23 (보수동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2024-12-13"
+    },
+    {
+      "name": "세븐일레븐 부산대청플러스점",
+      "address": "부산광역시 중구 대청동1가 36-3",
+      "roadAddress": "부산광역시 중구 대청로 117, 1층 (대청동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2025-07-24"
+    },
+    {
+      "name": "씨유(CU)중앙대림점",
+      "address": "부산광역시 중구 중앙동4가 78-24",
+      "roadAddress": "부산광역시 중구 중앙대로132번길 7, 1층 (중앙동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2025-09-01"
+    },
+    {
+      "name": "이마트24 부산금호점",
+      "address": "부산광역시 중구 영주동 161 금호타운",
+      "roadAddress": "부산광역시 중구 영주로 51, 상가동 101호 (영주동, 금호타운)",
+      "status": "영업/정상",
+      "licenseDate": "2025-08-26"
+    },
+    {
+      "name": "이마트24 부산광복로점",
+      "address": "부산광역시 중구 부평동2가 53-2",
+      "roadAddress": "부산광역시 중구 광복로 4-1 (부평동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2026-01-12"
+    },
+    {
+      "name": "신생아파트",
+      "address": "부산광역시 중구 신창동2가 22",
+      "roadAddress": "부산광역시 중구 광복로43번길 11  (신창동2가)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "용두산맨션",
+      "address": "부산광역시 중구 신창동1가 4",
+      "roadAddress": "부산광역시 중구 광복중앙로 27  (신창동1가)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "국제비닐",
+      "address": "부산광역시 중구 광복동1가 국제시장1B지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "용두산공원제7호",
+      "address": "부산광역시 중구 광복동2가 29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "동양상회",
+      "address": "부산광역시 중구 신창동1가 30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "신흥상사",
+      "address": "부산광역시 중구 중앙동4가 55-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "부산광역시 중구 대창동1가 23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "화인유통(주)",
+      "address": "부산광역시 중구 중앙동4가 80-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "광복수퍼",
+      "address": "부산광역시 중구 동광동2가 11-66",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "만물상회",
+      "address": "부산광역시 중구 동광동3가 10-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "동광부식",
+      "address": "부산광역시 중구 동광동5가 44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "농심가슈퍼",
+      "address": "부산광역시 중구 동광동5가 18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "성용마트",
+      "address": "부산광역시 중구 보수동1가 37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "애린슈퍼",
+      "address": "부산광역시 중구 보수동1가 33-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "남해슈퍼",
+      "address": "부산광역시 중구 보수동1가 60",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "만물상회",
+      "address": "부산광역시 중구 보수동1가 산3-148",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "LG25대청점",
+      "address": "부산광역시 중구 대청동2가 16-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "새마을금고",
+      "address": "부산광역시 중구 대청동2가 14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "고성슈퍼",
+      "address": "부산광역시 중구 대청동4가 31-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "밀양슈퍼",
+      "address": "부산광역시 중구 대청동4가 72-184",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "금성이용원",
+      "address": "부산광역시 중구 대청동4가 63",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "스파슈퍼",
+      "address": "부산광역시 중구 대청동4가 79-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "대청상회",
+      "address": "부산광역시 중구 대청동4가 2-61",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "부하아케이트",
+      "address": "부산광역시 중구 부평동1가 21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "대하상회",
+      "address": "부산광역시 중구 부평동2가 49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "LG25시 부평점",
+      "address": "부산광역시 중구 부평동1가 35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "부평상회",
+      "address": "부산광역시 중구 부평동2가 37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "부림화원",
+      "address": "부산광역시 중구 부평동3가 16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "유림슈퍼",
+      "address": "부산광역시 중구 부평동3가 59",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "만물상회",
+      "address": "부산광역시 중구 부평동4가 16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "고성슈퍼",
+      "address": "부산광역시 중구 남포동6가 28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "진일상회",
+      "address": "부산광역시 중구 남포동6가 3",
+      "roadAddress": "부산광역시 중구 자갈치로 33  (남포동6가)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "대영선구점",
+      "address": "부산광역시 중구 남포동1가 35",
+      "roadAddress": "부산광역시 중구 용미길9번길 6-1  (남포동1가)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "자갈치슈퍼",
+      "address": "부산광역시 중구 남포동5가 116-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "산청상회",
+      "address": "부산광역시 중구 영주동 534-235",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "거북부식상회",
+      "address": "부산광역시 중구 영주동 291-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "한성할인마트",
+      "address": "부산광역시 중구 영주동 274-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "동주슈퍼",
+      "address": "부산광역시 중구 영주동 106-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "신풍상회",
+      "address": "부산광역시 중구 영주동 73-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "경주상회",
+      "address": "부산광역시 중구 영주동 76-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "주민상회",
+      "address": "부산광역시 중구 영주동 91-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "우주상회",
+      "address": "부산광역시 중구 영주동 산1(7-3)",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "하양상회",
+      "address": "부산광역시 중구 영주동 산1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "스파빅마트",
+      "address": "",
+      "roadAddress": "부산광역시 중구 동광길 91 (동광동5가)",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "남창슈퍼",
+      "address": "부산광역시 중구 동광동4가 18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "풍덕슈퍼",
+      "address": "부산광역시 중구 영주동 60-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-25"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "부산광역시 중구 보수동3가 69",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "대진슈퍼",
+      "address": "부산광역시 중구 보수동2가 18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "부산광역시 중구 보수동1가 14-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-21"
+    },
+    {
+      "name": "축협영주판매장",
+      "address": "부산광역시 중구 영주동 23-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "새마을금고",
+      "address": "부산광역시 중구 영주동 584",
+      "roadAddress": "부산광역시 중구 대영로242번길 8-1  (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "부산광역시 중구 영주동 554-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "신창상회",
+      "address": "부산광역시 중구 창선동1가 7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "국제종합포장",
+      "address": "부산광역시 중구 광복동1가 국제시장1A하37,38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "지에스(GS)25 S부산자갈치역점",
+      "address": "부산광역시 중구 남포동6가 117-1 도시철도 자갈치역",
+      "roadAddress": "부산광역시 중구 구덕로 지하 80, 도시철도 자갈치역 (남포동6가)",
+      "status": "영업/정상",
+      "licenseDate": "2021-06-21"
+    },
+    {
+      "name": "지에스(GS)25 비프광장점",
+      "address": "부산광역시 중구 남포동5가 20-3",
+      "roadAddress": "부산광역시 중구 비프광장로 30 (남포동5가)",
+      "status": "영업/정상",
+      "licenseDate": "2024-03-26"
+    },
+    {
+      "name": "씨유 남포피프광장점",
+      "address": "부산광역시 중구 남포동5가 15-2",
+      "roadAddress": "부산광역시 중구 비프광장로 35, 1층 (남포동5가)",
+      "status": "영업/정상",
+      "licenseDate": "2021-07-14"
+    },
+    {
+      "name": "씨유부산중앙서린점",
+      "address": "부산광역시 중구 중앙동4가 19",
+      "roadAddress": "부산광역시 중구 대교로 157, 103호 (중앙동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2021-10-22"
+    },
+    {
+      "name": "이마트24 보수스탑점",
+      "address": "부산광역시 중구 보수동2가 74-6",
+      "roadAddress": "부산광역시 중구 흑교로 67-2 (보수동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2021-09-28"
+    },
+    {
+      "name": "지에스25 부산중구용두점",
+      "address": "부산광역시 중구 중앙동2가 15-4",
+      "roadAddress": "부산광역시 중구 해관로 36, 1층 (중앙동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2021-09-28"
+    },
+    {
+      "name": "이마트24 부산터널점",
+      "address": "부산광역시 중구 영주동 565-2",
+      "roadAddress": "부산광역시 중구 대영로 224, 1층 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-10-27"
+    },
+    {
+      "name": "세븐일레븐 부산대한통운점",
+      "address": "부산광역시 중구 중앙동6가 2 씨제이대한통운빌딩 102호",
+      "roadAddress": "부산광역시 중구 대교로 119, 씨제이대한통운빌딩 1층 102호 (중앙동6가)",
+      "status": "영업/정상",
+      "licenseDate": "2024-07-30"
+    },
+    {
+      "name": "세븐일레븐 부산중구스마트점",
+      "address": "부산광역시 중구 보수동3가 39-11",
+      "roadAddress": "부산광역시 중구 흑교로71번길 14, 1층 (보수동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2022-02-23"
+    },
+    {
+      "name": "홍조",
+      "address": "부산광역시 중구 신창동4가 34-1 국제시장4공구",
+      "roadAddress": "부산광역시 중구 국제시장2길 19, 국제시장4공구 1층 (신창동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-04"
+    },
+    {
+      "name": "스마일수퍼",
+      "address": "부산광역시 중구 동광동5가 12-86",
+      "roadAddress": "부산광역시 중구 동영로 10 (동광동5가)",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-13"
+    },
+    {
+      "name": "캐시(KC)할인마트",
+      "address": "부산광역시 중구 보수동3가 73-1",
+      "roadAddress": "부산광역시 중구 흑교로45번길 23, 1층 (보수동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2022-08-24"
+    },
+    {
+      "name": "지에스(GS)25 노블리안점",
+      "address": "부산광역시 중구 중앙동4가 23-1 노블리안2",
+      "roadAddress": "부산광역시 중구 중앙대로 80, 노블리안2 105호 (중앙동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-28"
+    },
+    {
+      "name": "지에스(GS)25 자갈치역점",
+      "address": "부산광역시 중구 남포동6가 101-2",
+      "roadAddress": "부산광역시 중구 구덕로84번길 7 (남포동6가)",
+      "status": "영업/정상",
+      "licenseDate": "2023-07-26"
+    },
+    {
+      "name": "세븐일레븐 부산 힐사이드 호텔점",
+      "address": "부산광역시 중구 영주동 743-33",
+      "roadAddress": "부산광역시 중구 중구로 160, 2층 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-21"
+    },
+    {
+      "name": "세븐일레븐 부산자갈치그리핀점",
+      "address": "부산광역시 중구 남포동4가 7",
+      "roadAddress": "부산광역시 중구 자갈치로59번길 6, 102호 (남포동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-24"
+    },
+    {
+      "name": "씨유 광복센터점",
+      "address": "부산광역시 중구 광복동1가 9",
+      "roadAddress": "부산광역시 중구 광복로 79 (광복동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-24"
+    },
+    {
+      "name": "세븐일레븐 부평제일점",
+      "address": "부산광역시 중구 부평동2가 30-5",
+      "roadAddress": "부산광역시 중구 부평2길 3 (부평동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-27"
+    },
+    {
+      "name": "국제시장번영회",
+      "address": "부산광역시 중구 광복동1가 국제시장4A 상3층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "명덕상회",
+      "address": "부산광역시 중구 중앙동6가 51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "광문창상회",
+      "address": "부산광역시 중구 중앙동6가 20-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "농심가중앙슈퍼",
+      "address": "부산광역시 중구 중앙동2가 57",
+      "roadAddress": "부산광역시 중구 중앙대로41번길 12-1  (중앙동2가)",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "미화당중앙점",
+      "address": "부산광역시 중구 중앙동4가 37-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "LG중앙점",
+      "address": "부산광역시 중구 중앙동4가 29-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "럭키수정상회",
+      "address": "부산광역시 중구 중앙동4가 88-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "원호상회",
+      "address": "부산광역시 중구 중앙동4가 84-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "농심가중부슈퍼",
+      "address": "부산광역시 중구 중앙동4가 81",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "일신슈퍼",
+      "address": "부산광역시 중구 중앙동4가 85",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "동남상회",
+      "address": "부산광역시 중구 보수동1가 59",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "새남성슈퍼",
+      "address": "부산광역시 중구 대청동2가 9-12",
+      "roadAddress": "부산광역시 중구 복병산길3번길 11-1 (대청동2가)",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "성주상회",
+      "address": "부산광역시 중구 대청동4가 85-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "부광미니슈퍼",
+      "address": "부산광역시 중구 대청동4가 78-51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "진영슈퍼",
+      "address": "부산광역시 중구 대청동4가 78",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "미화당슈퍼",
+      "address": "부산광역시 중구 대청동4가 76",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "시온슈퍼",
+      "address": "부산광역시 중구 대청동4가 20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "대청상회",
+      "address": "부산광역시 중구 대청동4가 59",
+      "roadAddress": "부산광역시 중구 대청북길39번길 1  (대청동4가)",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "대청스토아",
+      "address": "부산광역시 중구 대청동4가 63-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "근대화슈퍼",
+      "address": "부산광역시 중구 부평동4가 34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "대영수퍼",
+      "address": "부산광역시 중구 부평동2가 15",
+      "roadAddress": "부산광역시 중구 중구로39번길 32 (부평동2가)",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "국제슈퍼",
+      "address": "부산광역시 중구 부평동1가 21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "털보상회",
+      "address": "부산광역시 중구 남포동2가 14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "LG25남포점",
+      "address": "부산광역시 중구 남포동6가 70-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "대청공원관리소",
+      "address": "부산광역시 중구 영주동 218-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "서원유통",
+      "address": "부산광역시 중구 영주동 292-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "보수슈퍼",
+      "address": "부산광역시 중구 보수동1가 63",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "생협슈퍼",
+      "address": "부산광역시 중구 보수동3가 72",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "김해쌀상회",
+      "address": "부산광역시 중구 보수동3가 17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-15"
+    },
+    {
+      "name": "고성슈퍼",
+      "address": "부산광역시 중구 보수동1가 80",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-09-12"
+    },
+    {
+      "name": "대일슈퍼",
+      "address": "부산광역시 중구 영주동 635",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-04"
+    },
+    {
+      "name": "아트슈퍼",
+      "address": "부산광역시 중구 신창동2가 28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-22"
+    },
+    {
+      "name": "현진상회",
+      "address": "부산광역시 중구 신창동3가 9-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-22"
+    },
+    {
+      "name": "대영상회",
+      "address": "부산광역시 중구 중앙동4가 40-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-22"
+    },
+    {
+      "name": "씨스페이스",
+      "address": "부산광역시 중구 중앙동3가 15",
+      "roadAddress": "부산광역시 중구 대청로 139-1  (중앙동3가)",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-14"
+    },
+    {
+      "name": "한진상회",
+      "address": "부산광역시 중구 중앙동4가 76-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-14"
+    },
+    {
+      "name": "서원동광슈퍼",
+      "address": "부산광역시 중구 중앙동4가 40-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-14"
+    },
+    {
+      "name": "동해상회",
+      "address": "부산광역시 중구 동광동3가 34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-29"
+    },
+    {
+      "name": "대청미니",
+      "address": "부산광역시 중구 대청동4가 72",
+      "roadAddress": "부산광역시 중구 대청북길17번길 22, 2층 (대청동4가)",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-14"
+    },
+    {
+      "name": "경북슈퍼",
+      "address": "부산광역시 중구 보수동1가 41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-02-21"
+    },
+    {
+      "name": "대림농축",
+      "address": "부산광역시 중구 보수동1가 41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-29"
+    },
+    {
+      "name": "거북슈퍼",
+      "address": "부산광역시 중구 영주동 450-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "칠성미니슈퍼",
+      "address": "부산광역시 중구 영주동 74-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-14"
+    },
+    {
+      "name": "영주상회",
+      "address": "부산광역시 중구 영주동 277-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-04"
+    },
+    {
+      "name": "럭키동남슈퍼",
+      "address": "부산광역시 중구 영주동 동남파크",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-15"
+    },
+    {
+      "name": "합천상회",
+      "address": "부산광역시 중구 영주동 536-111",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-15"
+    },
+    {
+      "name": "삼성유통",
+      "address": "부산광역시 중구 부평동2가 71-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-14"
+    },
+    {
+      "name": "영주슈퍼",
+      "address": "부산광역시 중구 영주동 574-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-13"
+    },
+    {
+      "name": "영신슈퍼",
+      "address": "부산광역시 중구 중앙동4가 78-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-20"
+    },
+    {
+      "name": "훼미리마트제일점",
+      "address": "부산광역시 중구 중앙동4가 88-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-19"
+    },
+    {
+      "name": "지에스 25 중구용두점",
+      "address": "부산광역시 중구 중앙동2가 15-4",
+      "roadAddress": "부산광역시 중구 해관로 36  (중앙동2가)",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-01"
+    },
+    {
+      "name": "충무상회",
+      "address": "부산광역시 중구 보수동1가 93",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-12"
+    },
+    {
+      "name": "구름슈퍼",
+      "address": "부산광역시 중구 보수동1가 33-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-19"
+    },
+    {
+      "name": "해피마트",
+      "address": "부산광역시 중구 보수동3가 46-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-17"
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "부산광역시 중구 대청동4가 69-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-29"
+    },
+    {
+      "name": "대청연쇄점",
+      "address": "부산광역시 중구 대청동4가 3",
+      "roadAddress": "부산광역시 중구 망양로 343  (대청동4가)",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-28"
+    },
+    {
+      "name": "빅스토아",
+      "address": "부산광역시 중구 대청동2가 9-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-23"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "부산광역시 중구 부평동3가 76-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-04-24"
+    },
+    {
+      "name": "선우상회",
+      "address": "부산광역시 중구 부평동3가 37-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-10"
+    },
+    {
+      "name": "LG25자갈치점",
+      "address": "부산광역시 중구 남포동5가 51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-30"
+    },
+    {
+      "name": "서클K",
+      "address": "부산광역시 중구 남포동2가 32-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-30"
+    },
+    {
+      "name": "삼거리상회",
+      "address": "부산광역시 중구 영주동 354-42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-15"
+    },
+    {
+      "name": "청운상회",
+      "address": "부산광역시 중구 영주동 282-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-10"
+    },
+    {
+      "name": "서원탑훼미리아",
+      "address": "부산광역시 중구 영주동 금호아파트 116",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-08-29"
+    },
+    {
+      "name": "수정상회",
+      "address": "부산광역시 중구 영주동 293-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-11"
+    },
+    {
+      "name": "LG25광복점",
+      "address": "부산광역시 중구 동광동2가 7-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-06"
+    },
+    {
+      "name": "축협할인직매장",
+      "address": "부산광역시 중구 보수동1가 24-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-25"
+    },
+    {
+      "name": "사거리슈퍼",
+      "address": "부산광역시 중구 보수동1가 23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-25"
+    },
+    {
+      "name": "롯데슈퍼",
+      "address": "부산광역시 중구 보수동1가 5-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-18"
+    },
+    {
+      "name": "스파편의점",
+      "address": "부산광역시 중구 대청동2가 22-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-04"
+    },
+    {
+      "name": "LG25부평제일점",
+      "address": "부산광역시 중구 부평동1가 39-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태영상회",
+      "address": "부산광역시 중구 남포동2가 43-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-23"
+    },
+    {
+      "name": "훼미리마트남포점",
+      "address": "부산광역시 중구 남포동4가 3-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-26"
+    },
+    {
+      "name": "정오상회",
+      "address": "부산광역시 중구 남포동6가 42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-07"
+    },
+    {
+      "name": "도아슈퍼마트",
+      "address": "부산광역시 중구 영주동 285-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-15"
+    },
+    {
+      "name": "미일슈퍼",
+      "address": "부산광역시 중구 영주동 282-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-09"
+    },
+    {
+      "name": "부산상회",
+      "address": "부산광역시 중구 영주동 277-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-07"
+    },
+    {
+      "name": "진주상회",
+      "address": "부산광역시 중구 영주동 286-9",
+      "roadAddress": "부산광역시 중구 동영로 59-1 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-12"
+    },
+    {
+      "name": "영주마트",
+      "address": "부산광역시 중구 영주동 648 6통4반",
+      "roadAddress": "부산광역시 중구 중구로188번길 17  (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-23"
+    },
+    {
+      "name": "지에스25 뉴남포역",
+      "address": "부산광역시 중구 중앙동6가 9-1 광복지하도상가",
+      "roadAddress": "부산광역시 중구 중앙대로 지하 17, 광복지하도상가 B1호 (중앙동6가)",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-07"
+    },
+    {
+      "name": "씨유 부산자갈치점",
+      "address": "부산광역시 중구 남포동6가 33",
+      "roadAddress": "부산광역시 중구 자갈치로 23, 1층 (남포동6가)",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-02"
+    },
+    {
+      "name": "(주)에스에이엠 메리놀병원점(GS25)",
+      "address": "부산광역시 중구 대청동4가 12-9 메리놀병원",
+      "roadAddress": "부산광역시 중구 중구로 121, 메리놀병원 1층 (대청동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-28"
+    },
+    {
+      "name": "(주)코리아세븐 부산중앙주경점",
+      "address": "부산광역시 중구 중앙동6가 70-1",
+      "roadAddress": "부산광역시 중구 중앙대로 24, 1층 (중앙동6가)",
+      "status": "영업/정상",
+      "licenseDate": "2022-12-19"
+    },
+    {
+      "name": "지에스(GS)25 신창점",
+      "address": "부산광역시 중구 신창동1가 6-1",
+      "roadAddress": "부산광역시 중구 광복중앙로 21, gs25 신창점 (신창동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2024-06-18"
+    },
+    {
+      "name": "GS25 대창삼성점",
+      "address": "부산광역시 중구 대창동1가 23-13",
+      "roadAddress": "부산광역시 중구 중앙대로 129, 1층 (대창동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2023-02-13"
+    },
+    {
+      "name": "세븐일레븐 부산부평시장점",
+      "address": "부산광역시 중구 부평동2가 62-1",
+      "roadAddress": "부산광역시 중구 중구로29번길 41, 1층 (부평동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2023-08-07"
+    },
+    {
+      "name": "세븐일레븐 부산중앙대로점",
+      "address": "부산광역시 중구 대창동2가 14-4",
+      "roadAddress": "부산광역시 중구 중앙대로 147, 1층 (대창동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2023-07-28"
+    },
+    {
+      "name": "한배로마트",
+      "address": "부산광역시 중구 남포동6가 3 신천지",
+      "roadAddress": "부산광역시 중구 자갈치로 33, 신천지 (남포동6가)",
+      "status": "영업/정상",
+      "licenseDate": "2023-09-12"
+    },
+    {
+      "name": "지에스25부산부평점",
+      "address": "부산광역시 중구 부평동3가 20-3",
+      "roadAddress": "부산광역시 중구 흑교로 29, 1층 (부평동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2023-10-16"
+    },
+    {
+      "name": "GS25보수중앙점",
+      "address": "부산광역시 중구 보수동3가 29-11",
+      "roadAddress": "부산광역시 중구 보수대로106번길 13, 1층 (보수동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2023-11-10"
+    },
+    {
+      "name": "GS25중앙점",
+      "address": "부산광역시 중구 중앙동4가 28-11",
+      "roadAddress": "부산광역시 중구 중앙대로 81 (중앙동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2024-01-12"
+    },
+    {
+      "name": "GS25 부산중앙대로점",
+      "address": "부산광역시 중구 중앙동5가 34",
+      "roadAddress": "부산광역시 중구 중앙대로46번길 5, 1층 (중앙동5가)",
+      "status": "영업/정상",
+      "licenseDate": "2024-02-16"
+    },
+    {
+      "name": "세븐일레븐 부산중구스타점",
+      "address": "부산광역시 중구 부평동2가 58-4",
+      "roadAddress": "부산광역시 중구 중구로23번길 47-1 (부평동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2024-02-27"
+    },
+    {
+      "name": "(주)농협유통 하나로마트 자갈치점",
+      "address": "부산광역시 중구 남포동6가 1",
+      "roadAddress": "부산광역시 중구 구덕로 73 (남포동6가)",
+      "status": "영업/정상",
+      "licenseDate": "2024-03-22"
+    },
+    {
+      "name": "세븐일레븐 부산중구국일점",
+      "address": "부산광역시 중구 중앙동4가 86-3",
+      "roadAddress": "부산광역시 중구 충장대로13번길 14, 107, 108호 (중앙동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2024-04-24"
+    },
+    {
+      "name": "GS25 남포중구로점",
+      "address": "부산광역시 중구 창선동1가 11",
+      "roadAddress": "부산광역시 중구 광복로43번길 10, 1층 (창선동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2024-04-24"
+    },
+    {
+      "name": "씨유 부평달리아점",
+      "address": "부산광역시 중구 부평동4가 11-1",
+      "roadAddress": "부산광역시 중구 흑교로31번길 13 (부평동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2024-07-09"
+    },
+    {
+      "name": "농심가영주슈퍼",
+      "address": "부산광역시 중구 영주동 511-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-30"
+    },
+    {
+      "name": "서원탑훼미리아",
+      "address": "부산광역시 중구 영주동 462-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-28"
+    },
+    {
+      "name": "자유슈퍼",
+      "address": "부산광역시 중구 대창동1가 54-57",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-14"
+    },
+    {
+      "name": "부산슈퍼",
+      "address": "부산광역시 중구 대창동1가 54-67",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-14"
+    },
+    {
+      "name": "하이트마트",
+      "address": "부산광역시 중구 중앙동4가 81-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-15"
+    },
+    {
+      "name": "한국설비",
+      "address": "부산광역시 중구 보수동1가 50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-07"
+    },
+    {
+      "name": "보수매일슈퍼",
+      "address": "부산광역시 중구 보수동1가 62-7 3통6반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-11"
+    },
+    {
+      "name": "무지개슈퍼",
+      "address": "부산광역시 중구 보수동1가 59-355",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-02"
+    },
+    {
+      "name": "밀크C-마트",
+      "address": "부산광역시 중구 보수동1가 61-7 5통2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "부산광역시 중구 보수동1가 60-234",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-20"
+    },
+    {
+      "name": "미화당남포점",
+      "address": "부산광역시 중구 남포동6가 85",
+      "roadAddress": "부산광역시 중구 비프광장로 20  (남포동6가)",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-13"
+    },
+    {
+      "name": "LG25중앙점",
+      "address": "부산광역시 중구 남포동1가 7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-21"
+    },
+    {
+      "name": "아파트상회",
+      "address": "부산광역시 중구 영주동 151-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-02"
+    },
+    {
+      "name": "담배가게",
+      "address": "부산광역시 중구 영주동 529-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-24"
+    },
+    {
+      "name": "훼미리마트중앙동점",
+      "address": "부산광역시 중구 중앙동3가 12-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-22"
+    },
+    {
+      "name": "보광상회",
+      "address": "부산광역시 중구 대청동1가 33-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-11"
+    },
+    {
+      "name": "정길상회",
+      "address": "부산광역시 중구 대청동1가 9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-11"
+    },
+    {
+      "name": "민주공원관리사업소",
+      "address": "부산광역시 중구 영주동 산10-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-11"
+    },
+    {
+      "name": "24슈퍼",
+      "address": "부산광역시 중구 부평동3가 69-1",
+      "roadAddress": "부산광역시 중구 보수대로36번길 21  (부평동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-11"
+    },
+    {
+      "name": "킴스마트",
+      "address": "부산광역시 중구 부평동2가 70-3",
+      "roadAddress": "부산광역시 중구 중구로39번길 44 (부평동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2021-08-25"
+    },
+    {
+      "name": "희망편의점",
+      "address": "부산광역시 중구 부평동3가 78-4",
+      "roadAddress": "부산광역시 중구 대청로 42  (부평동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-28"
+    },
+    {
+      "name": "풍년상회",
+      "address": "부산광역시 중구 보수동1가 125",
+      "roadAddress": "부산광역시 중구 흑교로46번길 10-1 (보수동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2015-08-25"
+    },
+    {
+      "name": "씨유 부평광복로점",
+      "address": "부산광역시 중구 부평동1가 37-5",
+      "roadAddress": "부산광역시 중구 광복로 22-1 (부평동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-14"
+    },
+    {
+      "name": "영주진마트",
+      "address": "부산광역시 중구 영주동 466-5",
+      "roadAddress": "부산광역시 중구 임소길 33  (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-10"
+    },
+    {
+      "name": "탑플러스마트대청점",
+      "address": "부산광역시 중구 대청동4가 34-2 101호, 102호, 103호, 104호",
+      "roadAddress": "부산광역시 중구 중구로97번길 3 (대청동4가,101호, 102호, 103호, 104호)",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-06"
+    },
+    {
+      "name": "지에스25 자갈치역점",
+      "address": "부산광역시 중구 남포동6가 101-2",
+      "roadAddress": "부산광역시 중구 구덕로84번길 7  (남포동6가)",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-27"
+    },
+    {
+      "name": "세배로알뜰마트",
+      "address": "부산광역시 중구 보수동3가 46-1",
+      "roadAddress": "부산광역시 중구 보수대로 94  (보수동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-02"
+    },
+    {
+      "name": "소비자마트",
+      "address": "부산광역시 중구 중앙동4가 77-3 동산빌딩 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-10-12"
+    },
+    {
+      "name": "미화당슈퍼영주점",
+      "address": "부산광역시 중구 영주동 574-2 1층",
+      "roadAddress": "부산광역시 중구 대영로224번길 5  (영주동,1층)",
+      "status": "영업/정상",
+      "licenseDate": "2009-02-02"
+    },
+    {
+      "name": "혜영슈퍼",
+      "address": "부산광역시 중구 부평동3가 18-2",
+      "roadAddress": "부산광역시 중구 흑교로35번길 3  (부평동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-11"
+    },
+    {
+      "name": "만물상회",
+      "address": "부산광역시 중구 중앙동2가 27-4",
+      "roadAddress": "부산광역시 중구 대청로138번길 11  (중앙동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2009-12-04"
+    },
+    {
+      "name": "21세기마트",
+      "address": "부산광역시 중구 부평동2가 58-4",
+      "roadAddress": "부산광역시 중구 중구로23번길 47-1 (부평동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2009-11-10"
+    },
+    {
+      "name": "재벌마트",
+      "address": "부산광역시 중구 남포동1가 28",
+      "roadAddress": "부산광역시 중구 구덕로 1  (남포동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2010-01-15"
+    },
+    {
+      "name": "중앙두배로마트",
+      "address": "부산광역시 중구 동광동2가 2-3",
+      "roadAddress": "부산광역시 중구 광복로97번길 26  (동광동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2010-03-02"
+    },
+    {
+      "name": "만물상회",
+      "address": "부산광역시 중구 동광동5가 34-16",
+      "roadAddress": "부산광역시 중구 샘길 53  (동광동5가)",
+      "status": "영업/정상",
+      "licenseDate": "2010-03-11"
+    },
+    {
+      "name": "계단마트",
+      "address": "부산광역시 중구 중앙동4가 37-6",
+      "roadAddress": "부산광역시 중구 40계단길 3  (중앙동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2010-03-24"
+    },
+    {
+      "name": "대천마트",
+      "address": "부산광역시 중구 영주동 53-1",
+      "roadAddress": "부산광역시 중구 초량중로5번길 3 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2010-04-21"
+    },
+    {
+      "name": "한국미니스톱 부산부평점",
+      "address": "부산광역시 중구 부평동3가 20-3",
+      "roadAddress": "부산광역시 중구 흑교로 29  (부평동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2010-04-22"
+    },
+    {
+      "name": "미화당슈퍼",
+      "address": "부산광역시 중구 영주동 574-2",
+      "roadAddress": "부산광역시 중구 대영로224번길 5  (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2010-05-03"
+    },
+    {
+      "name": "풍성한마트",
+      "address": "부산광역시 중구 영주동 60-48",
+      "roadAddress": "부산광역시 중구 초량상로 5 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2010-05-06"
+    },
+    {
+      "name": "훼미리마트중앙대림점",
+      "address": "부산광역시 중구 중앙동4가 78-24 건물1층 101",
+      "roadAddress": "부산광역시 중구 중앙대로132번길 7  (중앙동4가,건물1층 101)",
+      "status": "영업/정상",
+      "licenseDate": "2010-05-25"
+    },
+    {
+      "name": "(주)바이더웨이 부산중앙점",
+      "address": "부산광역시 중구 중앙동3가 15",
+      "roadAddress": "부산광역시 중구 대청로 139-1 (중앙동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2010-06-08"
+    },
+    {
+      "name": "세븐일레븐 부산피프광장점",
+      "address": "부산광역시 중구 남포동5가 11-4",
+      "roadAddress": "부산광역시 중구 비프광장로 39 (남포동5가)",
+      "status": "영업/정상",
+      "licenseDate": "2010-06-08"
+    },
+    {
+      "name": "두배로마트",
+      "address": "부산광역시 중구 대청동4가 63-1 선우빌라 B동 101호",
+      "roadAddress": "부산광역시 중구 대청북길17번길 43, B동 101호 (대청동4가,선우빌라)",
+      "status": "영업/정상",
+      "licenseDate": "2010-06-11"
+    },
+    {
+      "name": "GS25 부평희망점",
+      "address": "부산광역시 중구 부평동2가 35-3",
+      "roadAddress": "부산광역시 중구 보수대로24번길 9-1  (부평동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2010-06-22"
+    },
+    {
+      "name": "나드리마트",
+      "address": "부산광역시 중구 중앙동6가 20-27",
+      "roadAddress": "부산광역시 중구 중앙대로 37-1  (중앙동6가)",
+      "status": "영업/정상",
+      "licenseDate": "2010-07-19"
+    },
+    {
+      "name": "1번가스토어",
+      "address": "부산광역시 중구 광복동1가 36-2",
+      "roadAddress": "부산광역시 중구 광복로 95-1  (광복동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2010-07-28"
+    },
+    {
+      "name": "온누리마트",
+      "address": "부산광역시 중구 대청동4가 79-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-08-25"
+    },
+    {
+      "name": "Blue 25(블루25)광복점",
+      "address": "부산광역시 중구 광복동1가 20-1",
+      "roadAddress": "부산광역시 중구 광복로97번안길 11-1 (광복동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2010-09-16"
+    },
+    {
+      "name": "하프타임 해바라기점",
+      "address": "부산광역시 중구 중앙동3가 12-3",
+      "roadAddress": "부산광역시 중구 40계단길 10  (중앙동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2010-09-17"
+    },
+    {
+      "name": "서원탑할인마트",
+      "address": "부산광역시 중구 동광동4가 23-1",
+      "roadAddress": "부산광역시 중구 대청로 127 (동광동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2010-09-24"
+    },
+    {
+      "name": "슈퍼센터",
+      "address": "부산광역시 중구 부평동4가 52-3 상가1층",
+      "roadAddress": "부산광역시 중구 보수대로 82 (부평동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2010-10-21"
+    },
+    {
+      "name": "또도마트",
+      "address": "부산광역시 중구 중앙동4가 86-3 국일빌딩 115호",
+      "roadAddress": "부산광역시 중구 충장대로13번길 14,  115호 (중앙동4가,국일빌딩)",
+      "status": "영업/정상",
+      "licenseDate": "2010-11-25"
+    },
+    {
+      "name": "탑 할인마트",
+      "address": "부산광역시 중구 동광동4가 23-1",
+      "roadAddress": "부산광역시 중구 대청로 127  (동광동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-28"
+    },
+    {
+      "name": "더풀샵부평점",
+      "address": "부산광역시 중구 부평동1가 2-28 외 1필지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-03"
+    },
+    {
+      "name": "후레시원 편의점",
+      "address": "부산광역시 중구 대청동3가 9-3",
+      "roadAddress": "부산광역시 중구 대청로 85-1  (대청동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-04"
+    },
+    {
+      "name": "아름다운편의점",
+      "address": "부산광역시 중구 부평동3가 79-5",
+      "roadAddress": "부산광역시 중구 보수대로44번길 30  (부평동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-10"
+    },
+    {
+      "name": "빅마트",
+      "address": "부산광역시 중구 영주동 161 금호타운상가 101, 102, 103, 108, 109호",
+      "roadAddress": "부산광역시 중구 영주로 51 (영주동, 금호타운(상가동 101호))",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-21"
+    },
+    {
+      "name": "GS25신창점",
+      "address": "부산광역시 중구 신창동1가 6-1",
+      "roadAddress": "부산광역시 중구 광복중앙로 19-1 (신창동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-04"
+    },
+    {
+      "name": "(주)한양할인마트",
+      "address": "부산광역시 중구 보수동2가 48-1",
+      "roadAddress": "부산광역시 중구 흑교로 81 (보수동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-12"
+    },
+    {
+      "name": "포시즌중앙점",
+      "address": "부산광역시 중구 중앙동2가 49-45",
+      "roadAddress": "부산광역시 중구 대청로 138  (중앙동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-23"
+    },
+    {
+      "name": "파워C마트",
+      "address": "부산광역시 중구 보수동2가 77-13",
+      "roadAddress": "부산광역시 중구 보수대로118번길 41-1  (보수동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-25"
+    },
+    {
+      "name": "씨스페이스 중앙제일점",
+      "address": "부산광역시 중구 동광동3가 17-2",
+      "roadAddress": "부산광역시 중구 중앙대로41번길 14-1 (동광동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-01"
+    },
+    {
+      "name": "GS25광복로점",
+      "address": "부산광역시 중구 광복동1가 45 하모니빌딩 101호",
+      "roadAddress": "부산광역시 중구 광복로 88,  101호 (광복동1가,하모니빌딩)",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-27"
+    },
+    {
+      "name": "GS25시부평옥천점",
+      "address": "부산광역시 중구 부평동4가 22-1",
+      "roadAddress": "부산광역시 중구 보수대로44번길 9-2  (부평동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-30"
+    },
+    {
+      "name": "빅세일마트",
+      "address": "부산광역시 중구 보수동3가 72-7",
+      "roadAddress": "부산광역시 중구 흑교로45번길 21  (보수동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-01"
+    },
+    {
+      "name": "(주)코리아세븐 부산중앙대로점",
+      "address": "부산광역시 중구 대창동2가 14-4",
+      "roadAddress": "부산광역시 중구 중앙대로 147  (대창동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-01"
+    },
+    {
+      "name": "남해할인마트",
+      "address": "부산광역시 중구 보수동1가 77-1",
+      "roadAddress": "부산광역시 중구 흑교로60번길 6  (보수동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-03"
+    },
+    {
+      "name": "행복플러스25",
+      "address": "부산광역시 중구 영주동 58-12",
+      "roadAddress": "부산광역시 중구 대영로 221  (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-03"
+    },
+    {
+      "name": "영주진마트",
+      "address": "부산광역시 중구 영주동 466-5 1층",
+      "roadAddress": "부산광역시 중구 임소길 33  (영주동,1층)",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-01"
+    },
+    {
+      "name": "(주)코리아세븐 부산대청점",
+      "address": "부산광역시 중구 대청동2가 22-4",
+      "roadAddress": "부산광역시 중구 대청로 90-1  (대청동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-15"
+    },
+    {
+      "name": "축협알뜰편의점",
+      "address": "부산광역시 중구 영주동 29-2",
+      "roadAddress": "부산광역시 중구 초량중로6번길 17, 1층 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-15"
+    },
+    {
+      "name": "GS25광복센터",
+      "address": "부산광역시 중구 남포동5가 2-1",
+      "roadAddress": "부산광역시 중구 구덕로48번길 1 (남포동5가)",
+      "status": "영업/정상",
+      "licenseDate": "2009-11-05"
+    },
+    {
+      "name": "빅세일마트",
+      "address": "부산광역시 중구 부평동2가 16",
+      "roadAddress": "부산광역시 중구 부평1길 48 (부평동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2016-03-18"
+    },
+    {
+      "name": "삼성유통",
+      "address": "부산광역시 중구 부평동2가 77",
+      "roadAddress": "부산광역시 중구 흑교로 34, 1층 13호 (부평동2가, 부평상가)",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-11"
+    },
+    {
+      "name": "씨유 보수중앙점",
+      "address": "부산광역시 중구 보수동3가 69-1",
+      "roadAddress": "부산광역시 중구 흑교로45번길 12 (보수동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-06"
+    },
+    {
+      "name": "씨유 자갈치점",
+      "address": "부산광역시 중구 남포동4가 30",
+      "roadAddress": "부산광역시 중구 자갈치해안로 61 (남포동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2012-02-06"
+    },
+    {
+      "name": "(주)두배로유통 중앙점",
+      "address": "부산광역시 중구 중앙동4가 37-16",
+      "roadAddress": "부산광역시 중구 중앙대로81번길 9 (중앙동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2012-03-07"
+    },
+    {
+      "name": "보은상회",
+      "address": "부산광역시 중구 영주동 536-110",
+      "roadAddress": "부산광역시 중구 동영로22번길 3 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-04-13"
+    },
+    {
+      "name": "부평슈퍼",
+      "address": "부산광역시 중구 부평동2가 48-1",
+      "roadAddress": "부산광역시 중구 광복로6번길 8 (부평동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2012-06-13"
+    },
+    {
+      "name": "농축산마트(영주점)",
+      "address": "",
+      "roadAddress": "부산광역시 중구 영주로 52 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-25"
+    },
+    {
+      "name": "GS25 동아햇살점",
+      "address": "부산광역시 중구 영주2동",
+      "roadAddress": "부산광역시 중구 영주로 73 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-07-31"
+    },
+    {
+      "name": "K할인마트",
+      "address": "부산광역시 중구 중앙동2가 49-2",
+      "roadAddress": "부산광역시 중구 해관로 41, 1층 (중앙동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2012-10-30"
+    },
+    {
+      "name": "GS25대한통운점",
+      "address": "부산광역시 중구 중앙동6가 2",
+      "roadAddress": "부산광역시 중구 대교로 119 (중앙동6가)",
+      "status": "영업/정상",
+      "licenseDate": "2013-01-21"
+    },
+    {
+      "name": "탑세일마트",
+      "address": "",
+      "roadAddress": "부산광역시 중구 영주로 52 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-25"
+    },
+    {
+      "name": "CU부산영주동점",
+      "address": "",
+      "roadAddress": "부산광역시 중구 대영로 221 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-26"
+    },
+    {
+      "name": "한국마트",
+      "address": "",
+      "roadAddress": "부산광역시 중구 영주로 24 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-04-02"
+    },
+    {
+      "name": "씨유 남포포차거리점",
+      "address": "부산광역시 중구 남포동6가 98-1",
+      "roadAddress": "부산광역시 중구 비프광장로 14 (남포동6가)",
+      "status": "영업/정상",
+      "licenseDate": "2016-12-27"
+    },
+    {
+      "name": "S마트",
+      "address": "",
+      "roadAddress": "부산광역시 중구 보수대로 142, 102호 (보수동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-06"
+    },
+    {
+      "name": "다람이 호두과자",
+      "address": "",
+      "roadAddress": "부산광역시 중구 중구로24번길 11-1 (신창동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-08"
+    },
+    {
+      "name": "이마트24 중구영주점",
+      "address": "부산광역시 중구 영주동 74-23",
+      "roadAddress": "부산광역시 중구 동영로 101 (영주동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-03-28"
+    },
+    {
+      "name": "제일상회",
+      "address": "",
+      "roadAddress": "부산광역시 중구 남포길 25-4 (남포동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2013-07-02"
+    }
+  ]
+}

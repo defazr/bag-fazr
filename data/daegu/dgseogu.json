@@ -1,0 +1,3174 @@
+{
+  "region": "대구광역시",
+  "regionSlug": "daegu",
+  "district": "서구",
+  "districtSlug": "dgseogu",
+  "updatedAt": "2026-03-26",
+  "totalCount": 452,
+  "stores": [
+    {
+      "name": "대경할인마트",
+      "address": "대구광역시 서구 평리동 1498-17",
+      "roadAddress": "대구광역시 서구 국채보상로39길 11  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-28"
+    },
+    {
+      "name": "한진마트",
+      "address": "대구광역시 서구 비산동 434-599",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유성수퍼",
+      "address": "대구광역시 서구 비산동 1104-62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-03"
+    },
+    {
+      "name": "엘지25시 남평리점",
+      "address": "대구광역시 서구 내당동 245-1",
+      "roadAddress": "대구광역시 서구 서대구로 51  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-03"
+    },
+    {
+      "name": "푸드24시",
+      "address": "대구광역시 서구 내당동 194-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-17"
+    },
+    {
+      "name": "성원유통",
+      "address": "대구광역시 서구 중리동 714-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-28"
+    },
+    {
+      "name": "자원스토아",
+      "address": "대구광역시 서구 평리동 1098-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-07"
+    },
+    {
+      "name": "C&S편의점",
+      "address": "대구광역시 서구 비산동 443-6",
+      "roadAddress": "대구광역시 서구 달서로 127  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-18"
+    },
+    {
+      "name": "달성할인마트",
+      "address": "대구광역시 서구 평리동 1215-13",
+      "roadAddress": "대구광역시 서구 국채보상로56길 10  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-21"
+    },
+    {
+      "name": "개미문구사",
+      "address": "대구광역시 서구 평리동 1100-9",
+      "roadAddress": "대구광역시 서구 통학로24길 5  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-18"
+    },
+    {
+      "name": "행복수퍼",
+      "address": "대구광역시 서구 평리동 1412-5",
+      "roadAddress": "대구광역시 서구 서대구로17길 10  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-27"
+    },
+    {
+      "name": "양지마트",
+      "address": "대구광역시 서구 비산동 1037-10",
+      "roadAddress": "대구광역시 서구 달서천로61길 31  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-03"
+    },
+    {
+      "name": "멀티24시편의점",
+      "address": "대구광역시 서구 내당동 890-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-04"
+    },
+    {
+      "name": "알뜰할인매장",
+      "address": "대구광역시 서구 평리동 1209-29",
+      "roadAddress": "대구광역시 서구 평리로73길 43  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-05"
+    },
+    {
+      "name": "경북양곡",
+      "address": "대구광역시 서구 비산동 1032-4",
+      "roadAddress": "대구광역시 서구 달서천로61길 38  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-11"
+    },
+    {
+      "name": "미니슈퍼상사",
+      "address": "대구광역시 서구 평리동 1039-2",
+      "roadAddress": "대구광역시 서구 문화로 260  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-17"
+    },
+    {
+      "name": "멀티24편의점",
+      "address": "대구광역시 서구 비산동 510-7",
+      "roadAddress": "대구광역시 서구 달서로 169-1  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-15"
+    },
+    {
+      "name": "서울할인마트",
+      "address": "대구광역시 서구 평리동 1107-1",
+      "roadAddress": "대구광역시 서구 국채보상로60길 31  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-24"
+    },
+    {
+      "name": "꼬레아24시",
+      "address": "대구광역시 서구 비산동 328-9",
+      "roadAddress": "대구광역시 서구 달서로 101  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-26"
+    },
+    {
+      "name": "거봉마트",
+      "address": "대구광역시 서구 평리동 762-1",
+      "roadAddress": "대구광역시 서구 북비산로61길 2  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-07"
+    },
+    {
+      "name": "청도수퍼",
+      "address": "대구광역시 서구 중리동 38-11",
+      "roadAddress": "대구광역시 서구 서대구로25길 20  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-14"
+    },
+    {
+      "name": "하나로마트",
+      "address": "대구광역시 서구 내당동 29-1",
+      "roadAddress": "대구광역시 서구 통학로7길 29  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-16"
+    },
+    {
+      "name": "퍼펙트마트",
+      "address": "대구광역시 서구 중리동 721-4",
+      "roadAddress": "대구광역시 서구 달구벌대로329길 59  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-22"
+    },
+    {
+      "name": "심상세",
+      "address": "대구광역시 서구 평리동 680-7",
+      "roadAddress": "대구광역시 서구 문화로49길 13-1  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-22"
+    },
+    {
+      "name": "성주할인마트",
+      "address": "대구광역시 서구 비산동 740-5",
+      "roadAddress": "대구광역시 서구 북비산로61길 45  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-06"
+    },
+    {
+      "name": "의성슈퍼 1호점",
+      "address": "대구광역시 서구 평리동 1033-1",
+      "roadAddress": "대구광역시 서구 문화로 214  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-13"
+    },
+    {
+      "name": "홈마트",
+      "address": "대구광역시 서구 비산동 79-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-18"
+    },
+    {
+      "name": "태양할인마트",
+      "address": "대구광역시 서구 평리동 1313-18",
+      "roadAddress": "대구광역시 서구 국채보상로48길 63-1  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-21"
+    },
+    {
+      "name": "LG25중리세한점",
+      "address": "대구광역시 서구 중리동 1057-1",
+      "roadAddress": "대구광역시 서구 와룡로 382  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-02"
+    },
+    {
+      "name": "윌마트",
+      "address": "대구광역시 서구 평리동 1131-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-17"
+    },
+    {
+      "name": "고령수퍼",
+      "address": "대구광역시 서구 평리동 1090-36",
+      "roadAddress": "대구광역시 서구 국채보상로45길 10  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-21"
+    },
+    {
+      "name": "대백마트",
+      "address": "대구광역시 서구 비산동 366-11",
+      "roadAddress": "대구광역시 서구 달서로25길 21  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-29"
+    },
+    {
+      "name": "원광수퍼",
+      "address": "대구광역시 서구 평리동 1348-1",
+      "roadAddress": "대구광역시 서구 국채보상로46길 39  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-12"
+    },
+    {
+      "name": "영동수퍼",
+      "address": "대구광역시 서구 내당동 62-7",
+      "roadAddress": "대구광역시 서구 달구벌대로 1855  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-13"
+    },
+    {
+      "name": "제이유마트",
+      "address": "대구광역시 서구 내당동 885-3",
+      "roadAddress": "대구광역시 서구 달구벌대로 1889  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-22"
+    },
+    {
+      "name": "목화종합장식",
+      "address": "대구광역시 서구 평리동 1541-9",
+      "roadAddress": "대구광역시 서구 국채보상로31길 11  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-28"
+    },
+    {
+      "name": "평리후생관",
+      "address": "대구광역시 서구 평리동 1541-14",
+      "roadAddress": "대구광역시 서구 국채보상로31길 1  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-06"
+    },
+    {
+      "name": "멀티24시편의점",
+      "address": "대구광역시 서구 평리동 663-1",
+      "roadAddress": "대구광역시 서구 북비산로 268  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-03"
+    },
+    {
+      "name": "풍곡식육점",
+      "address": "대구광역시 서구 원대동3가 1434-29",
+      "roadAddress": "대구광역시 서구 달서로54길 12  (원대동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-08"
+    },
+    {
+      "name": "K마트",
+      "address": "대구광역시 서구 비산동 171-57",
+      "roadAddress": "대구광역시 서구 달서로12길 66  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-05"
+    },
+    {
+      "name": "경남소비센타",
+      "address": "대구광역시 서구 평리동 1370-7",
+      "roadAddress": "대구광역시 서구 국채보상로46길 14  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-13"
+    },
+    {
+      "name": "경산슈퍼",
+      "address": "대구광역시 서구 평리동 1485-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-25"
+    },
+    {
+      "name": "신우슈퍼",
+      "address": "대구광역시 서구 평리동 1492-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경산슈퍼",
+      "address": "대구광역시 서구 평리동 1485-1",
+      "roadAddress": "대구광역시 서구 문화로 154  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 비산북부점",
+      "address": "대구광역시 서구 비산동 1240-17",
+      "roadAddress": "대구광역시 서구 달서천로57길 31  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-02"
+    },
+    {
+      "name": "셀마트(서부점)",
+      "address": "대구광역시 서구 비산동 171-57",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트광장만남점",
+      "address": "대구광역시 서구 내당동 458-52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-04"
+    },
+    {
+      "name": "Good day 24 구평리점",
+      "address": "대구광역시 서구 평리동 1408 평리청구타운상가 103동 103호",
+      "roadAddress": "대구광역시 서구 서대구로 77, 103동 103호 (평리동,평리청구타운상가)",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-20"
+    },
+    {
+      "name": "골드마트",
+      "address": "대구광역시 서구 내당동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-28"
+    },
+    {
+      "name": "미니스톱 서대구IC점",
+      "address": "대구광역시 서구 이현동 288-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-04"
+    },
+    {
+      "name": "미니스톱서대구점",
+      "address": "대구광역시 서구 중리동 1082-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-07"
+    },
+    {
+      "name": "신우체인2호",
+      "address": "대구광역시 서구 중리동 46-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-13"
+    },
+    {
+      "name": "참할인마트",
+      "address": "대구광역시 서구 비산동 393-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-18"
+    },
+    {
+      "name": "안동슈퍼",
+      "address": "대구광역시 서구 내당동 898-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-21"
+    },
+    {
+      "name": "LG25북비산점",
+      "address": "대구광역시 서구 비산동 548-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-27"
+    },
+    {
+      "name": "훼미리마트평리점",
+      "address": "대구광역시 서구 평리동 786-46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이 대구청구점",
+      "address": "대구광역시 서구 평리동 1406-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대백마트(경상점)",
+      "address": "대구광역시 서구 비산동 305",
+      "roadAddress": "대구광역시 서구 달서로 75  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-15"
+    },
+    {
+      "name": "신우유통",
+      "address": "대구광역시 서구 중리동 1165-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우요통",
+      "address": "대구광역시 서구 비산동 215-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통(서부점)",
+      "address": "대구광역시 서구 비산동 358-80",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "달구벌슈퍼",
+      "address": "대구광역시 서구 중리동 1165-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-18"
+    },
+    {
+      "name": "대우슈퍼",
+      "address": "대구광역시 서구 중리동 1092-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "X마트",
+      "address": "대구광역시 서구 비산동 1310-1    1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-28"
+    },
+    {
+      "name": "훼미리마트북부점",
+      "address": "대구광역시 서구 비산동 883-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-30"
+    },
+    {
+      "name": "삼익유통",
+      "address": "대구광역시 서구 평리동 1337-1    상가2호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-08"
+    },
+    {
+      "name": "광장마트",
+      "address": "대구광역시 서구 내당동 463-5    광장타운단지내상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-08"
+    },
+    {
+      "name": "신대경할인마트",
+      "address": "대구광역시 서구 평리동 1199-1",
+      "roadAddress": "대구광역시 서구 국채보상로52길 53  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-08"
+    },
+    {
+      "name": "새길비디오(슈퍼)",
+      "address": "대구광역시 서구 비산동 1163",
+      "roadAddress": "대구광역시 서구 달서천로65길 12  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-21"
+    },
+    {
+      "name": "코사마트(서도점)",
+      "address": "대구광역시 서구 평리동 1108-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "골드할인마트",
+      "address": "대구광역시 서구 비산동 317-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "O.K마트",
+      "address": "대구광역시 서구 중리동 111-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-25"
+    },
+    {
+      "name": "신우유통내당4호점",
+      "address": "대구광역시 서구 내당동 463-55",
+      "roadAddress": "대구광역시 서구 서대구로3길 59-26  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-24"
+    },
+    {
+      "name": "영남슈퍼",
+      "address": "대구광역시 서구 비산동 689",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-06-29"
+    },
+    {
+      "name": "한영상회",
+      "address": "대구광역시 서구 평리동 1361-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-07"
+    },
+    {
+      "name": "훼미리마트내당보람점",
+      "address": "대구광역시 서구 내당동 244-7",
+      "roadAddress": "대구광역시 서구 서대구로 40  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-14"
+    },
+    {
+      "name": "용마트",
+      "address": "대구광역시 서구 상리동 33",
+      "roadAddress": "대구광역시 서구 가르뱅이로 74  (상리동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-25"
+    },
+    {
+      "name": "럭키마트",
+      "address": "대구광역시 서구 평리동 1487-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-27"
+    },
+    {
+      "name": "웰마트",
+      "address": "대구광역시 서구 원대동3가 1226-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-03"
+    },
+    {
+      "name": "맑은샘 편의점",
+      "address": "대구광역시 서구 비산동 1760-2",
+      "roadAddress": "대구광역시 서구 염색공단천로 5  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-12"
+    },
+    {
+      "name": "양지슈퍼",
+      "address": "대구광역시 서구 비산동 515-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-18"
+    },
+    {
+      "name": "신우유통 평리점",
+      "address": "대구광역시 서구 평리동 1056-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-29"
+    },
+    {
+      "name": "A+에이플러스마트",
+      "address": "대구광역시 서구 비산동 578-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-29"
+    },
+    {
+      "name": "대한할인마트",
+      "address": "대구광역시 서구 비산동 3-127",
+      "roadAddress": "대구광역시 서구 북비산로74길 27  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제이마트",
+      "address": "대구광역시 서구 평리동 1086-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통 비산4호점",
+      "address": "대구광역시 서구 비산동 249-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "24시 슈퍼",
+      "address": "대구광역시 서구 비산동 158-32",
+      "roadAddress": "대구광역시 서구 달성공원로 3  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "007 삼화",
+      "address": "대구광역시 서구 평리동 1483-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대할인매장",
+      "address": "대구광역시 서구 내당동 892-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "내당할인마트",
+      "address": "대구광역시 서구 내당동 1002-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "늘봄할인마트",
+      "address": "대구광역시 서구 비산동 492-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-18"
+    },
+    {
+      "name": "대경유통",
+      "address": "대구광역시 서구 평리동 1179-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-24"
+    },
+    {
+      "name": "BUY THE WAY 대구이현점",
+      "address": "대구광역시 서구 이현동 42-94",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린할인마트",
+      "address": "대구광역시 서구 비산동 42-115",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신대경마트",
+      "address": "대구광역시 서구 비산동 275-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통(대동점)",
+      "address": "대구광역시 서구 내당동 229-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데슈퍼내당점",
+      "address": "대구광역시 서구 내당동 308-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "Family24",
+      "address": "대구광역시 서구 원대동3가 1361-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금성마트",
+      "address": "대구광역시 서구 원대동3가 1374-6",
+      "roadAddress": "대구광역시 서구 팔달로 194 (원대동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2018-03-08"
+    },
+    {
+      "name": "하이얀마트",
+      "address": "대구광역시 서구 내당동 258-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쿨할인마트",
+      "address": "대구광역시 서구 비산동 275-15",
+      "roadAddress": "대구광역시 서구 달서로12길 15-1  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세이브마트",
+      "address": "대구광역시 서구 평리동 723-21",
+      "roadAddress": "대구광역시 서구 문화로43길 3  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-03"
+    },
+    {
+      "name": "팔공유통",
+      "address": "대구광역시 서구 평리동 628-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 만평점",
+      "address": "대구광역시 서구 비산동 1254-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이내당점",
+      "address": "대구광역시 서구 내당동 354-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "썬빌리지 내당광명점",
+      "address": "대구광역시 서구 내당동 340 광명아파트 상가  6동 7호",
+      "roadAddress": "대구광역시 서구 평리로 214, 6동 7호 (내당동,광명아파트 상가 )",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "썬빌리지24이현점",
+      "address": "대구광역시 서구 평리동 622-8",
+      "roadAddress": "대구광역시 서구 문화로 167  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "달님유통",
+      "address": "대구광역시 서구 평리동 1314-17",
+      "roadAddress": "대구광역시 서구 국채보상로50길 62  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지에스25평리금호점",
+      "address": "대구광역시 서구 평리동 1493-23",
+      "roadAddress": "대구광역시 서구 서대구로 179  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "썬빌리지서구청점",
+      "address": "대구광역시 서구 평리동 1335-6",
+      "roadAddress": "대구광역시 서구 국채보상로 238  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일향슈퍼",
+      "address": "대구광역시 서구 비산동 239-4",
+      "roadAddress": "대구광역시 서구 국채보상로 391  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에이플러스",
+      "address": "대구광역시 서구 비산동 563-4",
+      "roadAddress": "대구광역시 서구 북비산로 319-1  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원마트",
+      "address": "대구광역시 서구 평리동 746-14",
+      "roadAddress": "대구광역시 서구 통학로40길 26  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "디풀러스마트",
+      "address": "대구광역시 서구 평리동 1438-7",
+      "roadAddress": "대구광역시 서구 평리로57길 25  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이 킨스로드점",
+      "address": "대구광역시 서구 중리동 1136-34-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25 내당점",
+      "address": "대구광역시 서구 내당동 11-8 황제맨션 상가 107동 102호",
+      "roadAddress": "대구광역시 서구 통학로 46, 107동 102호 (내당동,황제맨션 상가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)나이스마트광장점",
+      "address": "대구광역시 서구 내당동 463-62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-14"
+    },
+    {
+      "name": "타임25편의점",
+      "address": "대구광역시 서구 내당동 63-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-15"
+    },
+    {
+      "name": "홀마트",
+      "address": "대구광역시 서구 내당동 918-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-17"
+    },
+    {
+      "name": "코사마트 형제농산물",
+      "address": "대구광역시 서구 평리동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "퍼팩트마트",
+      "address": "대구광역시 서구 평리동 1085",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제이유백화점(주)",
+      "address": "대구광역시 서구 평리동 869-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씨앤에스편의점",
+      "address": "대구광역시 서구 내당동 424-1",
+      "roadAddress": "대구광역시 서구 달구벌대로329길 78  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "콜마트",
+      "address": "대구광역시 서구 내당동 923-181",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씨앤에쓰비산점",
+      "address": "대구광역시 서구 비산동 1840-1",
+      "roadAddress": "대구광역시 서구 서대구로 303-10  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "멀티24시",
+      "address": "대구광역시 서구 비산동 510-7",
+      "roadAddress": "대구광역시 서구 달서로 169-1  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통남창점",
+      "address": "대구광역시 서구 중리동 1088-1",
+      "roadAddress": "대구광역시 서구 당산로69길 15  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이 대구공단점",
+      "address": "대구광역시 서구 비산동 1821-2",
+      "roadAddress": "대구광역시 서구 염색공단로5길 27  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경동마트",
+      "address": "대구광역시 서구 내당동 251-1",
+      "roadAddress": "대구광역시 서구 평리로54길 9  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통 평리5호점",
+      "address": "대구광역시 서구 평리동 1542-1",
+      "roadAddress": "대구광역시 서구 당산로 380  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "K할인마트",
+      "address": "대구광역시 서구 평리동 606-8",
+      "roadAddress": "대구광역시 서구 문화로33길 24  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대백마트대평리점",
+      "address": "대구광역시 서구 평리동 676-7",
+      "roadAddress": "대구광역시 서구 문화로49길 25  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신진마트",
+      "address": "대구광역시 서구 중리동 41-19",
+      "roadAddress": "대구광역시 서구 국채보상로36길 11  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성신상회",
+      "address": "대구광역시 서구 비산동 1856-4",
+      "roadAddress": "대구광역시 서구 서대구로 291  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "파인마트평리점",
+      "address": "대구광역시 서구 평리동 1114-6",
+      "roadAddress": "대구광역시 서구 통학로 74-14  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "멀티24시",
+      "address": "대구광역시 서구 평리동 617-5",
+      "roadAddress": "대구광역시 서구 서대구로 199  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한솔유통",
+      "address": "대구광역시 서구 비산동 449-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "햇빛촌마트",
+      "address": "대구광역시 서구 평리동 1042-5 12통5반",
+      "roadAddress": "대구광역시 서구 문화로 255-17  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "멀티24시",
+      "address": "대구광역시 서구 비산동 338-2",
+      "roadAddress": "대구광역시 서구 국채보상로 348  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통 성명점",
+      "address": "대구광역시 서구 비산동 522-24",
+      "roadAddress": "대구광역시 서구 문화로67길 19  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소비자알뜰마트",
+      "address": "대구광역시 서구 내당동 357-11",
+      "roadAddress": "대구광역시 서구 서대구로5길 71  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "셀마트",
+      "address": "대구광역시 서구 원대동3가 1431-6",
+      "roadAddress": "대구광역시 서구 달서로 262  (원대동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트서대구공단점",
+      "address": "대구광역시 서구 이현동 45-235",
+      "roadAddress": "대구광역시 서구 국채보상로 15  (이현동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부민슈퍼",
+      "address": "대구광역시 서구 평리동 600-21",
+      "roadAddress": "대구광역시 서구 당산로88길 30  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동네마트",
+      "address": "대구광역시 서구 평리동 1090-36",
+      "roadAddress": "대구광역시 서구 국채보상로45길 10  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나유통",
+      "address": "대구광역시 서구 평리동 622-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명동슈퍼",
+      "address": "대구광역시 서구 내당동 427-16",
+      "roadAddress": "대구광역시 서구 당산로41동길 37  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사할인마트",
+      "address": "대구광역시 서구 중리동 707-19",
+      "roadAddress": "대구광역시 서구 달구벌대로329길 127  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씨엔에스24만평점",
+      "address": "대구광역시 서구 비산동 1232-1",
+      "roadAddress": "대구광역시 서구 팔달로 122  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광장마트",
+      "address": "대구광역시 서구 내당동 463-5 광장타운단지내 상가3동1층약국호",
+      "roadAddress": "대구광역시 서구 달구벌대로 1707  (내당동,광장타운단지내 상가3동1층약국호)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "위천청과마트",
+      "address": "대구광역시 서구 평리동 1363-4",
+      "roadAddress": "대구광역시 서구 국채보상로46길 64  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일마트",
+      "address": "대구광역시 서구 평리동 1127-63",
+      "roadAddress": "대구광역시 서구 국채보상로66길 9  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대일슈퍼",
+      "address": "대구광역시 서구 원대동3가 1416-3",
+      "roadAddress": "대구광역시 서구 달서로 259  (원대동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대구마트",
+      "address": "대구광역시 서구 비산동 366-11",
+      "roadAddress": "대구광역시 서구 달서로25길 21  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통",
+      "address": "대구광역시 서구 평리동 659-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-19"
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "대구광역시 서구 평리동 680-1",
+      "roadAddress": "대구광역시 서구 문화로47길 16  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)신세계마트 비산점",
+      "address": "대구광역시 서구 비산동 1612-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)이랜드리테일홈에버",
+      "address": "대구광역시 서구 내당동 65-8",
+      "roadAddress": "대구광역시 서구 달구벌대로 1821  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리마트",
+      "address": "대구광역시 서구 이현동 42-171",
+      "roadAddress": "대구광역시 서구 문화로23길 37  (이현동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통삼거리점",
+      "address": "대구광역시 서구 평리동 810-12",
+      "roadAddress": "대구광역시 서구 통학로28길 37  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아이플러스마트",
+      "address": "대구광역시 서구 평리동 1186-6",
+      "roadAddress": "대구광역시 서구 국채보상로 290  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 중리점",
+      "address": "대구광역시 서구 중리동 1156-6",
+      "roadAddress": "대구광역시 서구 와룡로 324-1  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통 진달래점",
+      "address": "대구광역시 서구 중리동 78-1",
+      "roadAddress": "대구광역시 서구 국채보상로36길 43  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "거부슈퍼",
+      "address": "대구광역시 서구 내당동 412-18",
+      "roadAddress": "대구광역시 서구 달구벌대로329길 110  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "멀티24시 밤고개점",
+      "address": "대구광역시 서구 내당동 890-5",
+      "roadAddress": "대구광역시 서구 달구벌대로375길 1-1  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사마트 서남점",
+      "address": "대구광역시 서구 내당동 424-1",
+      "roadAddress": "대구광역시 서구 달구벌대로329길 78  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대마트",
+      "address": "대구광역시 서구 중리동 112-1 상가5호",
+      "roadAddress": "대구광역시 서구 서대구로15길 35  (중리동,상가5호)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풀마트",
+      "address": "대구광역시 서구 평리동 869-4",
+      "roadAddress": "대구광역시 서구 문화로 279  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리마트",
+      "address": "대구광역시 서구 비산동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새동네슈퍼",
+      "address": "대구광역시 서구 비산동 839-7",
+      "roadAddress": "대구광역시 서구 서대구로54길 12  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "푸드24시 공단점",
+      "address": "대구광역시 서구 비산동 3169-4",
+      "roadAddress": "대구광역시 서구 염색공단로 116  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트두류1가점",
+      "address": "대구광역시 서구 내당동 1290 두류1번가 E열 2.3호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "퀸공원24시마트",
+      "address": "대구광역시 서구 중리동 1136-145",
+      "roadAddress": "대구광역시 서구 평리로35길 6-13  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "멀티24시편의점",
+      "address": "대구광역시 서구 평리동 617-5",
+      "roadAddress": "대구광역시 서구 서대구로 199  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25편의점",
+      "address": "대구광역시 서구 평리동 1031-1",
+      "roadAddress": "대구광역시 서구 서대구로 194  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백광상회",
+      "address": "대구광역시 서구 이현동 42-367",
+      "roadAddress": "대구광역시 서구 국채보상로7길 58  (이현동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙마트",
+      "address": "대구광역시 서구 평리동 1350-9",
+      "roadAddress": "대구광역시 서구 국채보상로48길 46  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "늘봄슈퍼",
+      "address": "대구광역시 서구 원대동1가 55-8",
+      "roadAddress": "대구광역시 서구 고성로 122  (원대동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장수마트",
+      "address": "대구광역시 서구 비산동 1253-3",
+      "roadAddress": "대구광역시 서구 서대구로 360-1  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "OK할인마트",
+      "address": "대구광역시 서구 비산동 446-11",
+      "roadAddress": "대구광역시 서구 달서로25길 16  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통",
+      "address": "대구광역시 서구 중리동 1088-1",
+      "roadAddress": "대구광역시 서구 당산로69길 15  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원할인마트",
+      "address": "대구광역시 서구 평리동 1527-18",
+      "roadAddress": "대구광역시 서구 국채보상로 189  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명동슈퍼",
+      "address": "대구광역시 서구 평리동 1198-28",
+      "roadAddress": "대구광역시 서구 통학로13길 16  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마트프라임",
+      "address": "대구광역시 서구 평리동 1408-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대영마트",
+      "address": "대구광역시 서구 평리동 1193-17",
+      "roadAddress": "대구광역시 서구 평리로73길 22  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선코리아",
+      "address": "대구광역시 서구 중리동 33-6",
+      "roadAddress": "대구광역시 서구 국채보상로 178  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나마트",
+      "address": "대구광역시 서구 비산동 579-1",
+      "roadAddress": "대구광역시 서구 달서로39길 2  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새하나로마트",
+      "address": "대구광역시 서구 평리동 1491-3",
+      "roadAddress": "대구광역시 서구 서대구로 195  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세이브마트",
+      "address": "대구광역시 서구 비산동 202-24",
+      "roadAddress": "대구광역시 서구 달서로14길 24  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "솔로몬문구",
+      "address": "",
+      "roadAddress": "대구광역시 서구 서대구로7길 11 (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-12-27"
+    },
+    {
+      "name": "영광슈퍼",
+      "address": "대구광역시 서구 비산동 14-2",
+      "roadAddress": "대구광역시 서구 북비산로75길 18  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿타임24시이현점",
+      "address": "대구광역시 서구 이현동 42-479",
+      "roadAddress": "대구광역시 서구 와룡로 447  (이현동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대할인마트",
+      "address": "대구광역시 서구 비산동 538-44",
+      "roadAddress": "대구광역시 서구 통학로40길 62  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대경할인마트",
+      "address": "대구광역시 서구 평리동 1498-7",
+      "roadAddress": "대구광역시 서구 서대구로31길 20-12  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리마트",
+      "address": "대구광역시 서구 평리동 1311-17",
+      "roadAddress": "대구광역시 서구 평리로 339  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱서구평리점",
+      "address": "대구광역시 서구 평리동 1086-6",
+      "roadAddress": "대구광역시 서구 서대구로 166  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홈마트",
+      "address": "대구광역시 서구 내당동 886-17",
+      "roadAddress": "대구광역시 서구 달구벌대로375길 25  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홈마트",
+      "address": "대구광역시 서구 비산동 1033-38",
+      "roadAddress": "대구광역시 서구 고성로 12  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국미니스톱",
+      "address": "대구광역시 서구 평리동 1086-6",
+      "roadAddress": "대구광역시 서구 서대구로 166  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅코아마트",
+      "address": "대구광역시 서구 내당동 230-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씨앤에스",
+      "address": "대구광역시 서구 비산동 1367",
+      "roadAddress": "대구광역시 서구 서대구로 318-1  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에이플러스마트",
+      "address": "대구광역시 서구 비산동 578-39",
+      "roadAddress": "대구광역시 서구 달서로39길 12-1  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "늘푸른홈마트",
+      "address": "대구광역시 서구 내당동 355-62",
+      "roadAddress": "대구광역시 서구 서대구로3길 66  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대평할인마트",
+      "address": "대구광역시 서구 평리동 674-5",
+      "roadAddress": "대구광역시 서구 북비산로 232  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나슈퍼",
+      "address": "대구광역시 서구 평리동 600-21",
+      "roadAddress": "대구광역시 서구 당산로88길 30  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-18"
+    },
+    {
+      "name": "월드마트",
+      "address": "대구광역시 서구 비산동 503-11",
+      "roadAddress": "대구광역시 서구 달서로30길 7  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-18"
+    },
+    {
+      "name": "마트23",
+      "address": "대구광역시 서구 평리동 1035-5",
+      "roadAddress": "대구광역시 서구 문화로 242  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-24"
+    },
+    {
+      "name": "OK마트",
+      "address": "대구광역시 서구 원대동3가 1374-16",
+      "roadAddress": "대구광역시 서구 팔달로 188  (원대동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-24"
+    },
+    {
+      "name": "OK마트",
+      "address": "대구광역시 서구 비산동 63",
+      "roadAddress": "대구광역시 서구 북비산로 360  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-24"
+    },
+    {
+      "name": "신우유통",
+      "address": "대구광역시 서구 비산동 215-23",
+      "roadAddress": "대구광역시 서구 국채보상로78길 40-2  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-31"
+    },
+    {
+      "name": "푸른문구사",
+      "address": "대구광역시 서구 평리동 1070-30",
+      "roadAddress": "대구광역시 서구 통학로31길 8  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-08-06"
+    },
+    {
+      "name": "우리마트",
+      "address": "대구광역시 서구 내당동 463-55",
+      "roadAddress": "대구광역시 서구 서대구로3길 59-26  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-08-06"
+    },
+    {
+      "name": "예천유통",
+      "address": "대구광역시 서구 평리동 1501-32",
+      "roadAddress": "대구광역시 서구 당산로82길 25  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-31"
+    },
+    {
+      "name": "대백마트평리점",
+      "address": "대구광역시 서구 평리동 1186-6",
+      "roadAddress": "대구광역시 서구 국채보상로 290  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-14"
+    },
+    {
+      "name": "칠성할인마트",
+      "address": "대구광역시 서구 비산동 138-23",
+      "roadAddress": "대구광역시 서구 국채보상로81길 30-1  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-14"
+    },
+    {
+      "name": "비타민25",
+      "address": "대구광역시 서구 내당동 218-22",
+      "roadAddress": "대구광역시 서구 달구벌대로361길 7  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-17"
+    },
+    {
+      "name": "바이더웨이이현점",
+      "address": "대구광역시 서구 이현동 42-94",
+      "roadAddress": "대구광역시 서구 문화로17길 38  (이현동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-17"
+    },
+    {
+      "name": "광명슈퍼",
+      "address": "대구광역시 서구 내당동 340",
+      "roadAddress": "대구광역시 서구 평리로 214  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-01"
+    },
+    {
+      "name": "경북마트",
+      "address": "대구광역시 서구 비산동 1822",
+      "roadAddress": "대구광역시 서구 서대구로63안길 18  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-01"
+    },
+    {
+      "name": "원마트중리점",
+      "address": "대구광역시 서구 중리동 707-12",
+      "roadAddress": "대구광역시 서구 당산로53길 57  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-11"
+    },
+    {
+      "name": "ys25시",
+      "address": "대구광역시 서구 평리동 573-2 연세요양병원 1층",
+      "roadAddress": "대구광역시 서구 북비산로 156  (평리동,연세요양병원 1층)",
+      "status": "영업/정상",
+      "licenseDate": "2007-11-20"
+    },
+    {
+      "name": "우리마트",
+      "address": "대구광역시 서구 비산동 1283-48",
+      "roadAddress": "대구광역시 서구 달서천로49길 28-1  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-11-21"
+    },
+    {
+      "name": "신대경할인마트",
+      "address": "대구광역시 서구 원대동3가 1276-2",
+      "roadAddress": "대구광역시 서구 고성로15길 15-6  (원대동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-07"
+    },
+    {
+      "name": "창미문구사",
+      "address": "대구광역시 서구 비산동 1474",
+      "roadAddress": "대구광역시 서구 서대구로63길 28-10  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-07"
+    },
+    {
+      "name": "(주)신세계마트이마트비산점",
+      "address": "대구광역시 서구 비산동 1612-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-26"
+    },
+    {
+      "name": "신대경할인마트",
+      "address": "대구광역시 서구 비산동 275-3",
+      "roadAddress": "대구광역시 서구 국채보상로78길 52-2  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-27"
+    },
+    {
+      "name": "훼미리마켓두류1번가점",
+      "address": "대구광역시 서구 내당동 1290 두류1번가 E열 2.3호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-28"
+    },
+    {
+      "name": "일심수퍼",
+      "address": "대구광역시 서구 비산동 795-9",
+      "roadAddress": "대구광역시 서구 통학로45길 4  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원할인마트",
+      "address": "대구광역시 서구 원대동3가 1267-1",
+      "roadAddress": "대구광역시 서구 옥산로4길 14  (원대동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선산슈퍼",
+      "address": "대구광역시 서구 비산동 945-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-08"
+    },
+    {
+      "name": "안동과일수퍼",
+      "address": "대구광역시 서구 내당동 890-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-09"
+    },
+    {
+      "name": "의성수퍼",
+      "address": "대구광역시 서구 비산동 1025-168",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대백마트(이현점)",
+      "address": "대구광역시 서구 평리동 606-4",
+      "roadAddress": "대구광역시 서구 문화로33길 30  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서구상회",
+      "address": "대구광역시 서구 평리동 1538-2",
+      "roadAddress": "대구광역시 서구 국채보상로31길 16  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-16"
+    },
+    {
+      "name": "대경수퍼",
+      "address": "대구광역시 서구 원대동1가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-28"
+    },
+    {
+      "name": "신우유통명곡1호점",
+      "address": "대구광역시 서구 비산동 20-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-05"
+    },
+    {
+      "name": "광장마트",
+      "address": "대구광역시 서구 내당동 463-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일수퍼",
+      "address": "대구광역시 서구 비산동 1235-1",
+      "roadAddress": "대구광역시 서구 달서천로57안길 12-1  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-23"
+    },
+    {
+      "name": "매일할인마트",
+      "address": "대구광역시 서구 평리동 1507-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-03"
+    },
+    {
+      "name": "영남수퍼",
+      "address": "대구광역시 서구 평리동 1420-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-25"
+    },
+    {
+      "name": "영일수퍼",
+      "address": "대구광역시 서구 이현동 42-124",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-27"
+    },
+    {
+      "name": "(주)코리아세븐 대구비산점",
+      "address": "대구광역시 서구 비산동 434-32",
+      "roadAddress": "대구광역시 서구 달서로 126  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아파트매점",
+      "address": "대구광역시 서구 비산동 733",
+      "roadAddress": "대구광역시 서구 북비산로61길 34  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "24시수퍼",
+      "address": "대구광역시 서구 비산동 158-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-14"
+    },
+    {
+      "name": "드림할인마트",
+      "address": "대구광역시 서구 원대동3가 1459-52",
+      "roadAddress": "대구광역시 서구 고성로17길 9  (원대동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-15"
+    },
+    {
+      "name": "군위수퍼",
+      "address": "대구광역시 서구 비산동 1229-1",
+      "roadAddress": "대구광역시 서구 팔달로 134  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-15"
+    },
+    {
+      "name": "대구수퍼",
+      "address": "대구광역시 서구 내당동 907-50",
+      "roadAddress": "대구광역시 서구 달구벌대로373길 18-11  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-24"
+    },
+    {
+      "name": "GS25대구평리점",
+      "address": "대구광역시 서구 평리동 1031-1",
+      "roadAddress": "대구광역시 서구 서대구로 194  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-01-31"
+    },
+    {
+      "name": "롯데할인마트",
+      "address": "대구광역시 서구 평리동 1541-13",
+      "roadAddress": "대구광역시 서구 국채보상로 145-10  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-02-13"
+    },
+    {
+      "name": "원마트",
+      "address": "대구광역시 서구 평리동 1314-17 진성상가 1,2호",
+      "roadAddress": "대구광역시 서구 국채보상로50길 62  (평리동,진성상가 1,2호)",
+      "status": "영업/정상",
+      "licenseDate": "2008-02-13"
+    },
+    {
+      "name": "한영슈퍼",
+      "address": "대구광역시 서구 평리동 1357-18 1동 104호",
+      "roadAddress": "대구광역시 서구 국채보상로46길 73  (평리동,1동 104호)",
+      "status": "영업/정상",
+      "licenseDate": "2008-02-20"
+    },
+    {
+      "name": "코리아마트",
+      "address": "대구광역시 서구 원대동3가 1361-9",
+      "roadAddress": "대구광역시 서구 팔달로 208  (원대동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2008-02-28"
+    },
+    {
+      "name": "웰빙할인마트",
+      "address": "대구광역시 서구 평리동 782-5",
+      "roadAddress": "대구광역시 서구 북비산로58길 21-1  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-03-12"
+    },
+    {
+      "name": "대구마트",
+      "address": "대구광역시 서구 중리동 703-6",
+      "roadAddress": "대구광역시 서구 평리로 164  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-03-17"
+    },
+    {
+      "name": "코사마트내당1호점",
+      "address": "대구광역시 서구 내당동 360-8",
+      "roadAddress": "대구광역시 서구 당산로 248  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-03-19"
+    },
+    {
+      "name": "정우슈퍼",
+      "address": "대구광역시 서구 원대동3가 1459-31",
+      "roadAddress": "대구광역시 서구 고성로 99-12  (원대동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2008-03-19"
+    },
+    {
+      "name": "원마트",
+      "address": "대구광역시 서구 비산동 1199-6",
+      "roadAddress": "대구광역시 서구 고성로 20  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-03-20"
+    },
+    {
+      "name": "컬투패밀리마트",
+      "address": "대구광역시 서구 비산동 1041-5",
+      "roadAddress": "대구광역시 서구 팔달로 170-1  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-03-20"
+    },
+    {
+      "name": "신바람홈마트",
+      "address": "대구광역시 서구 내당동 10-1",
+      "roadAddress": "대구광역시 서구 통학로 54  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-04-08"
+    },
+    {
+      "name": "새경일서점",
+      "address": "대구광역시 서구 원대동1가 650",
+      "roadAddress": "대구광역시 서구 달서천로76길 10-1  (원대동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2008-04-08"
+    },
+    {
+      "name": "홈마트",
+      "address": "대구광역시 서구 비산동 286-8",
+      "roadAddress": "대구광역시 서구 국채보상로76길 52-2  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-04-16"
+    },
+    {
+      "name": "365동아마트",
+      "address": "대구광역시 서구 비산동 366-11",
+      "roadAddress": "대구광역시 서구 달서로25길 21  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-04-16"
+    },
+    {
+      "name": "이정마트",
+      "address": "대구광역시 서구 평리동 611-1",
+      "roadAddress": "대구광역시 서구 서대구로45길 31  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-05-08"
+    },
+    {
+      "name": "*㈜신세계이마트비산점",
+      "address": "대구광역시 서구 비산동 1610-3",
+      "roadAddress": "대구광역시 서구 팔달로 54 (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2010-07-27"
+    },
+    {
+      "name": "창미서점",
+      "address": "대구광역시 서구 비산동 1474",
+      "roadAddress": "대구광역시 서구 서대구로63길 28-10  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-23"
+    },
+    {
+      "name": "달구벌낚시수퍼",
+      "address": "대구광역시 서구 이현동 189-1",
+      "roadAddress": "대구광역시 서구 북비산로 81  (이현동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-30"
+    },
+    {
+      "name": "종무할인마트",
+      "address": "대구광역시 서구 평리동 1315-21",
+      "roadAddress": "대구광역시 서구 국채보상로48길 57  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-30"
+    },
+    {
+      "name": "신세계수퍼",
+      "address": "대구광역시 서구 이현동 42-104",
+      "roadAddress": "대구광역시 서구 와룡로100길 27-1  (이현동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-30"
+    },
+    {
+      "name": "경북전통마당수퍼",
+      "address": "대구광역시 서구 비산동 1025-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-02"
+    },
+    {
+      "name": "정은수퍼",
+      "address": "대구광역시 서구 비산동 86-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-02"
+    },
+    {
+      "name": "김천축산할인마트",
+      "address": "대구광역시 서구 비산동 557-1",
+      "roadAddress": "대구광역시 서구 달서로39길 5  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-03"
+    },
+    {
+      "name": "대경서부점",
+      "address": "대구광역시 서구 비산동 90-66",
+      "roadAddress": "대구광역시 서구 달서로30길 15-2  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-13"
+    },
+    {
+      "name": "가람기획",
+      "address": "대구광역시 서구 평리동 502-11",
+      "roadAddress": "대구광역시 서구 북비산로 225  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-18"
+    },
+    {
+      "name": "(주)장풍",
+      "address": "대구광역시 서구 비산동 475-2",
+      "roadAddress": "대구광역시 서구 문화로 322  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-24"
+    },
+    {
+      "name": "무궁화수퍼",
+      "address": "대구광역시 서구 비산동 158-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-05"
+    },
+    {
+      "name": "서진마트",
+      "address": "대구광역시 서구 평리동 624-6",
+      "roadAddress": "대구광역시 서구 문화로37길 17  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-19"
+    },
+    {
+      "name": "LG25내당제일점",
+      "address": "대구광역시 서구 내당동 218-22",
+      "roadAddress": "대구광역시 서구 달구벌대로361길 7  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-25"
+    },
+    {
+      "name": "경북마트",
+      "address": "대구광역시 서구 평리동 660-7",
+      "roadAddress": "대구광역시 서구 통학로40길 25  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-07"
+    },
+    {
+      "name": "대성식육점",
+      "address": "대구광역시 서구 비산동 778-30",
+      "roadAddress": "대구광역시 서구 통학로48길 33  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-09"
+    },
+    {
+      "name": "에이플러스",
+      "address": "대구광역시 서구 평리동 1335-6",
+      "roadAddress": "대구광역시 서구 국채보상로 238  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-15"
+    },
+    {
+      "name": "제일수퍼",
+      "address": "대구광역시 서구 평리동 1044-25",
+      "roadAddress": "대구광역시 서구 통학로 170  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-06"
+    },
+    {
+      "name": "(주)코리아세븐",
+      "address": "대구광역시 서구 평리동 1413-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-13"
+    },
+    {
+      "name": "코사마트매일수퍼",
+      "address": "대구광역시 서구 중리동 701-1",
+      "roadAddress": "대구광역시 서구 평리로 142  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-12"
+    },
+    {
+      "name": "홈마트",
+      "address": "대구광역시 서구 평리동 786-13",
+      "roadAddress": "대구광역시 서구 문화로63길 9  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-05-20"
+    },
+    {
+      "name": "이플러스마트",
+      "address": "대구광역시 서구 평리동 1067-8",
+      "roadAddress": "대구광역시 서구 통학로 147-1  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-05-20"
+    },
+    {
+      "name": "홈마트",
+      "address": "대구광역시 서구 평리동 1041-4",
+      "roadAddress": "대구광역시 서구 문화로 278  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-05-22"
+    },
+    {
+      "name": "ok마트",
+      "address": "대구광역시 서구 평리동 1117-8",
+      "roadAddress": "대구광역시 서구 통학로 90  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-30"
+    },
+    {
+      "name": "우리마트",
+      "address": "대구광역시 서구 비산동 1283-48 3통5반",
+      "roadAddress": "대구광역시 서구 달서천로49길 28-1  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-07-01"
+    },
+    {
+      "name": "미니마트",
+      "address": "대구광역시 서구 내당동 21-19",
+      "roadAddress": "대구광역시 서구 평리로 358-1  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-07-15"
+    },
+    {
+      "name": "베스트24시",
+      "address": "대구광역시 서구 평리동 663-11",
+      "roadAddress": "대구광역시 서구 북비산로 272  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-07-25"
+    },
+    {
+      "name": "GS25염색공단점",
+      "address": "대구광역시 서구 비산동 1760",
+      "roadAddress": "대구광역시 서구 염색공단천로3길 1  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-05"
+    },
+    {
+      "name": "짱24시",
+      "address": "대구광역시 서구 비산동 505-2",
+      "roadAddress": "대구광역시 서구 달서로 162  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-13"
+    },
+    {
+      "name": "만평슈퍼",
+      "address": "대구광역시 서구 비산동 1305-5",
+      "roadAddress": "대구광역시 서구 서대구로 351  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-22"
+    },
+    {
+      "name": "무지개유통북비산점",
+      "address": "대구광역시 서구 비산동 3-127",
+      "roadAddress": "대구광역시 서구 북비산로74길 27  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-09-03"
+    },
+    {
+      "name": "편의점사랑",
+      "address": "대구광역시 서구 비산동 154-17",
+      "roadAddress": "대구광역시 서구 국채보상로 431  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-09-03"
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "대구광역시 서구 평리동 284-18",
+      "roadAddress": "대구광역시 서구 북비산로37길 10-77  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-09-22"
+    },
+    {
+      "name": "멀티24",
+      "address": "대구광역시 서구 비산동 510-7",
+      "roadAddress": "대구광역시 서구 달서로 169-1  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-09-23"
+    },
+    {
+      "name": "영신슈퍼",
+      "address": "대구광역시 서구 평리동 1219-7",
+      "roadAddress": "대구광역시 서구 국채보상로50길 5  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-01"
+    },
+    {
+      "name": "이 플러스마트",
+      "address": "대구광역시 서구 평리동 1067-8",
+      "roadAddress": "대구광역시 서구 통학로 147-1  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-01"
+    },
+    {
+      "name": "대광슈퍼",
+      "address": "대구광역시 서구 비산동 584-35",
+      "roadAddress": "대구광역시 서구 달서로39길 6-17  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-01"
+    },
+    {
+      "name": "(주)코리아세븐",
+      "address": "대구광역시 서구 평리동 1362-5",
+      "roadAddress": "대구광역시 서구 서대구로 74  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-21"
+    },
+    {
+      "name": "세양수퍼",
+      "address": "대구광역시 서구 비산동 1283-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-28"
+    },
+    {
+      "name": "신우유통내당1호점",
+      "address": "대구광역시 서구 내당동 463-55",
+      "roadAddress": "대구광역시 서구 서대구로3길 59-26  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-28"
+    },
+    {
+      "name": "(주)코리아세븐",
+      "address": "대구광역시 서구 내당동 239-18",
+      "roadAddress": "대구광역시 서구 서대구로10길 7  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-04"
+    },
+    {
+      "name": "24시편의점",
+      "address": "대구광역시 서구 원대동3가 1361-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-23"
+    },
+    {
+      "name": "의성슈퍼",
+      "address": "대구광역시 서구 중리동 34-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "의성양곡",
+      "address": "대구광역시 서구 중리동 34-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-05"
+    },
+    {
+      "name": "알뜰수퍼",
+      "address": "대구광역시 서구 평리동 720-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-05"
+    },
+    {
+      "name": "뉴플러스할인마트",
+      "address": "대구광역시 서구 원대동3가 1461-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-06"
+    },
+    {
+      "name": "월마트코리아(주)비산점",
+      "address": "대구광역시 서구 비산동 1612-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-08"
+    },
+    {
+      "name": "LG25만평점",
+      "address": "대구광역시 서구 비산동 1210-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG편의점",
+      "address": "대구광역시 서구 평리동 1334-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-21"
+    },
+    {
+      "name": "청마유통",
+      "address": "대구광역시 서구 내당동 29-1",
+      "roadAddress": "대구광역시 서구 통학로7길 29  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-15"
+    },
+    {
+      "name": "합천슈퍼",
+      "address": "대구광역시 서구 평리동 1090-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-16"
+    },
+    {
+      "name": "현대할인마트",
+      "address": "대구광역시 서구 내당동 892-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-17"
+    },
+    {
+      "name": "평리슈퍼",
+      "address": "대구광역시 서구 평리동 1046-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-06"
+    },
+    {
+      "name": "싱그런할인마트",
+      "address": "대구광역시 서구 평리동 1067-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-06"
+    },
+    {
+      "name": "황제슈퍼",
+      "address": "대구광역시 서구 내당동 252-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-07"
+    },
+    {
+      "name": "풀 마 트",
+      "address": "대구광역시 서구 비산동 775-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-07"
+    },
+    {
+      "name": "씨엔에스 편의점",
+      "address": "대구광역시 서구 평리동 1310-9",
+      "roadAddress": "대구광역시 서구 평리로 327  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-09"
+    },
+    {
+      "name": "성주유통",
+      "address": "대구광역시 서구 비산동 895-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-09"
+    },
+    {
+      "name": "코사마트의성1호점",
+      "address": "대구광역시 서구 평리동 1031-5",
+      "roadAddress": "대구광역시 서구 국채보상로45길 51  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-13"
+    },
+    {
+      "name": "안계슈퍼",
+      "address": "대구광역시 서구 평리동 618-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-13"
+    },
+    {
+      "name": "코사마트(한남축산물)",
+      "address": "대구광역시 서구 평리동 647-4",
+      "roadAddress": "대구광역시 서구 통학로45길 17  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-06"
+    },
+    {
+      "name": "훼미리마트 평리미광점",
+      "address": "대구광역시 서구 평리동 1361-1",
+      "roadAddress": "대구광역시 서구 서대구로 70  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-06"
+    },
+    {
+      "name": "또와슈퍼",
+      "address": "대구광역시 서구 평리동 1370-7",
+      "roadAddress": "대구광역시 서구 국채보상로46길 14  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-14"
+    },
+    {
+      "name": "홈플러스테스코(주)내당점",
+      "address": "대구광역시 서구 내당동 65-8",
+      "roadAddress": "대구광역시 서구 달구벌대로 1821  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-20"
+    },
+    {
+      "name": "세븐일레븐대구이현공단점",
+      "address": "대구광역시 서구 중리동 1030-19",
+      "roadAddress": "대구광역시 서구 와룡로 377  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-15"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "대구광역시 서구 평리동 654-18",
+      "roadAddress": "대구광역시 서구 북비산로57길 6  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-23"
+    },
+    {
+      "name": "경북농산마트",
+      "address": "대구광역시 서구 평리동 645-1",
+      "roadAddress": "대구광역시 서구 통학로45길 35  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-10-24"
+    },
+    {
+      "name": "매일마트",
+      "address": "대구광역시 서구 평리동 1118-18",
+      "roadAddress": "대구광역시 서구 통학로 106-42  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-03"
+    },
+    {
+      "name": "참마트",
+      "address": "대구광역시 서구 원대동3가 1307-1",
+      "roadAddress": "대구광역시 서구 달서로 282  (원대동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-05"
+    },
+    {
+      "name": "코사마트 진달래점",
+      "address": "대구광역시 서구 중리동 78-1",
+      "roadAddress": "대구광역시 서구 국채보상로36길 43  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-06"
+    },
+    {
+      "name": "오케이마트",
+      "address": "대구광역시 서구 평리동 1117-8",
+      "roadAddress": "대구광역시 서구 통학로 90  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-12"
+    },
+    {
+      "name": "영진코사마트",
+      "address": "대구광역시 서구 비산동 1318",
+      "roadAddress": "대구광역시 서구 달서천로49길 35  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-24"
+    },
+    {
+      "name": "보광훼미리마트 내당보람점",
+      "address": "대구광역시 서구 내당동 244-7",
+      "roadAddress": "대구광역시 서구 서대구로 40  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-04"
+    },
+    {
+      "name": "원마트 평리1호점",
+      "address": "대구광역시 서구 평리동 660-1",
+      "roadAddress": "대구광역시 서구 북비산로 294  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-09"
+    },
+    {
+      "name": "지에스25",
+      "address": "대구광역시 서구 평리동 574-4",
+      "roadAddress": "대구광역시 서구 북비산로 155  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-09"
+    },
+    {
+      "name": "코사마트 일신점",
+      "address": "대구광역시 서구 내당동 245-4",
+      "roadAddress": "대구광역시 서구 서대구로7길 2  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-09"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "대구광역시 서구 내당동 921-13",
+      "roadAddress": "대구광역시 서구 달서로9길 25  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-11"
+    },
+    {
+      "name": "매일슈퍼마켓",
+      "address": "대구광역시 서구 중리동 701-12",
+      "roadAddress": "대구광역시 서구 죽전길 152  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-24"
+    },
+    {
+      "name": "(신)대경유통",
+      "address": "대구광역시 서구 비산동 503-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-13"
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "대구광역시 서구 비산동 350-57",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-16"
+    },
+    {
+      "name": "우성슈퍼",
+      "address": "대구광역시 서구 비산동 941-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-17"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "대구광역시 서구 평리동 1225-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-23"
+    },
+    {
+      "name": "후레쉬마트",
+      "address": "대구광역시 서구 평리동 1431-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-05-24"
+    },
+    {
+      "name": "(주)코리아세븐",
+      "address": "대구광역시 서구 중리동 113-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-04"
+    },
+    {
+      "name": "원슈퍼",
+      "address": "대구광역시 서구 내당동 463-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-07"
+    },
+    {
+      "name": "신우유통원대1호점",
+      "address": "대구광역시 서구 원대동3가 1393-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-07"
+    },
+    {
+      "name": "롯데쇼핑(주)롯데마트서대구점",
+      "address": "대구광역시 서구 내당동 965",
+      "roadAddress": "대구광역시 서구 달서로 42  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-15"
+    },
+    {
+      "name": "영진마트",
+      "address": "대구광역시 서구 평리동 1048-38",
+      "roadAddress": "대구광역시 서구 국채보상로61안길 5  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-18"
+    },
+    {
+      "name": "K-플러스마트",
+      "address": "대구광역시 서구 내당동 355-12",
+      "roadAddress": "대구광역시 서구 서대구로3길 66-6  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-29"
+    },
+    {
+      "name": "동남슈퍼",
+      "address": "대구광역시 서구 평리동 1098-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-11"
+    },
+    {
+      "name": "한샘서점",
+      "address": "대구광역시 서구 평리동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-27"
+    },
+    {
+      "name": "대명편의점",
+      "address": "대구광역시 서구 평리동 640-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-05"
+    },
+    {
+      "name": "궁전할인마트",
+      "address": "대구광역시 서구 비산동 367-15",
+      "roadAddress": "대구광역시 서구 국채보상로67안길 14  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-25"
+    },
+    {
+      "name": "내일유통",
+      "address": "대구광역시 서구 비산동 189-10",
+      "roadAddress": "대구광역시 서구 달서로12길 73  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원마트",
+      "address": "대구광역시 서구 비산동 1308-2",
+      "roadAddress": "대구광역시 서구 달서천로53길 47  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통비산2호점",
+      "address": "대구광역시 서구 비산동 267-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통(한일점)",
+      "address": "대구광역시 서구 비산동 1233-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "007마트(원대시장점)",
+      "address": "대구광역시 서구 원대동3가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일상회",
+      "address": "대구광역시 서구 비산동 396-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-15"
+    },
+    {
+      "name": "명성슈퍼",
+      "address": "대구광역시 서구 내당동 240-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-15"
+    },
+    {
+      "name": "이정연",
+      "address": "대구광역시 서구 비산동 1043",
+      "roadAddress": "대구광역시 서구 팔달로 164  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-19"
+    },
+    {
+      "name": "서부수퍼",
+      "address": "대구광역시 서구 평리동 524-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오리온편의점",
+      "address": "대구광역시 서구 평리동 638-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-26"
+    },
+    {
+      "name": "신우유통서구점",
+      "address": "대구광역시 서구 원대동3가 1381-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-10"
+    },
+    {
+      "name": "공단종합상사",
+      "address": "대구광역시 서구 이현동 42-127",
+      "roadAddress": "대구광역시 서구 북비산로 108  (이현동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-29"
+    },
+    {
+      "name": "오케이마트 평리점",
+      "address": "대구광역시 서구 평리동 1117-8",
+      "roadAddress": "대구광역시 서구 통학로 90  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-30"
+    },
+    {
+      "name": "세경상회",
+      "address": "대구광역시 서구 평리동 1368-6",
+      "roadAddress": "대구광역시 서구 서대구로22길 5  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-30"
+    },
+    {
+      "name": "성미슈퍼",
+      "address": "대구광역시 서구 내당동 1020-5",
+      "roadAddress": "대구광역시 서구 큰장로23길 5  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-30"
+    },
+    {
+      "name": "빙그레슈퍼",
+      "address": "대구광역시 서구 비산동 1214-1",
+      "roadAddress": "대구광역시 서구 서대구로68길 34  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-05"
+    },
+    {
+      "name": "동아문구",
+      "address": "대구광역시 서구 중리동 64-1",
+      "roadAddress": "대구광역시 서구 국채보상로34길 23  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-08"
+    },
+    {
+      "name": "달구벌슈퍼",
+      "address": "대구광역시 서구 중리동 1030-27",
+      "roadAddress": "대구광역시 서구 와룡로 383  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-08"
+    },
+    {
+      "name": "신세계이마트비산점",
+      "address": "대구광역시 서구 비산동 1610-3",
+      "roadAddress": "대구광역시 서구 팔달로 54  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-08"
+    },
+    {
+      "name": "씨스페이스내당점",
+      "address": "대구광역시 서구 내당동 245-1",
+      "roadAddress": "대구광역시 서구 서대구로 51  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-13"
+    },
+    {
+      "name": "빅코아마트",
+      "address": "대구광역시 서구 내당동 229-12",
+      "roadAddress": "대구광역시 서구 평리로62길 40  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-21"
+    },
+    {
+      "name": "홈세일마트",
+      "address": "대구광역시 서구 내당동 229-1",
+      "roadAddress": "대구광역시 서구 서대구로8길 6  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-02-18"
+    },
+    {
+      "name": "남경할인마트",
+      "address": "대구광역시 서구 비산동 660-1",
+      "roadAddress": "대구광역시 서구 통학로50길 67-1  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-02-18"
+    },
+    {
+      "name": "코사마트서도점",
+      "address": "대구광역시 서구 평리동 1108-20",
+      "roadAddress": "대구광역시 서구 통학로18길 17  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-17"
+    },
+    {
+      "name": "씨엔에스24",
+      "address": "대구광역시 서구 내당동 251-15",
+      "roadAddress": "대구광역시 서구 서대구로11길 9  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-23"
+    },
+    {
+      "name": "와이에스25시",
+      "address": "대구광역시 서구 평리동 573-2",
+      "roadAddress": "대구광역시 서구 북비산로 156  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-20"
+    },
+    {
+      "name": "현대유통",
+      "address": "대구광역시 서구 평리동 1217-1",
+      "roadAddress": "대구광역시 서구 국채보상로 262  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-20"
+    },
+    {
+      "name": "내당대로점",
+      "address": "대구광역시 서구 내당동 220-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-20"
+    },
+    {
+      "name": "씨엔에스이현점",
+      "address": "대구광역시 서구 평리동 622-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-30"
+    },
+    {
+      "name": "샘마트",
+      "address": "대구광역시 서구 평리동 1034-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-15"
+    },
+    {
+      "name": "대구축협가맹점(내당점)",
+      "address": "대구광역시 서구 내당동 356-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-17"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "대구광역시 서구 비산동 1009-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-17"
+    },
+    {
+      "name": "씨엔에스편의점(내당제일점)",
+      "address": "대구광역시 서구 내당동 249-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-23"
+    },
+    {
+      "name": "푸드24시편의점",
+      "address": "대구광역시 서구 내당동 410-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-06"
+    },
+    {
+      "name": "홈할인마트",
+      "address": "대구광역시 서구 평리동 422-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-13"
+    },
+    {
+      "name": "LG25 평리이현점",
+      "address": "대구광역시 서구 평리동 574-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-19"
+    },
+    {
+      "name": "코사마트 중평점",
+      "address": "대구광역시 서구 평리동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-22"
+    },
+    {
+      "name": "한일마트",
+      "address": "대구광역시 서구 평리동 864",
+      "roadAddress": "대구광역시 서구 통학로 181-1  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-25"
+    },
+    {
+      "name": "씨엔에스 내당광명점",
+      "address": "대구광역시 서구 내당동 340 광명아파트 상가 6동7호",
+      "roadAddress": "대구광역시 서구 평리로 214  (내당동,광명아파트 상가 6동7호)",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-27"
+    },
+    {
+      "name": "대구할인마트",
+      "address": "대구광역시 서구 비산동 416-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-04"
+    },
+    {
+      "name": "24시멀티편의마트",
+      "address": "대구광역시 서구 내당동 429-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대명플러스마트",
+      "address": "대구광역시 서구 비산동 277-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-14"
+    },
+    {
+      "name": "007마트만평점",
+      "address": "대구광역시 서구 비산동 1240-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-17"
+    },
+    {
+      "name": "(주)코리아세븐",
+      "address": "대구광역시 서구 비산동 434-444",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-07"
+    },
+    {
+      "name": "(주)서원유통 탑마트대구점",
+      "address": "대구광역시 서구 내당동 65-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "탑마트 대구점",
+      "address": "대구광역시 서구 내당동 65-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-28"
+    },
+    {
+      "name": "C.M 비디오마트",
+      "address": "대구광역시 서구 평리동 1541-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-28"
+    },
+    {
+      "name": "LG25 서구평리점",
+      "address": "대구광역시 서구 평리동 1117-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-02"
+    },
+    {
+      "name": "현대마트",
+      "address": "대구광역시 서구 비산동 20-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-02"
+    },
+    {
+      "name": "신우유통(동서점)",
+      "address": "대구광역시 서구 평리동 1411-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-04"
+    },
+    {
+      "name": "김포슈퍼",
+      "address": "대구광역시 서구 평리동 1193-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-10"
+    },
+    {
+      "name": "영할인마트",
+      "address": "대구광역시 서구 비산동 215-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-20"
+    },
+    {
+      "name": "대경마트",
+      "address": "대구광역시 서구 평리동 1046-10",
+      "roadAddress": "대구광역시 서구 문화로 300-1  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-06"
+    },
+    {
+      "name": "신우유통삼익점",
+      "address": "대구광역시 서구 내당동 245-4",
+      "roadAddress": "대구광역시 서구 서대구로7길 2  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-22"
+    },
+    {
+      "name": "대백마트내당점",
+      "address": "대구광역시 서구 내당동 242-1",
+      "roadAddress": "대구광역시 서구 서대구로 60  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-22"
+    },
+    {
+      "name": "그린마트",
+      "address": "대구광역시 서구 비산동 595",
+      "roadAddress": "대구광역시 서구 달서로43길 18  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-11"
+    },
+    {
+      "name": "신우유통 상중리점",
+      "address": "대구광역시 서구 중리동 1092",
+      "roadAddress": "대구광역시 서구 당산로67길 19  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-12"
+    },
+    {
+      "name": "신세계소비센터",
+      "address": "대구광역시 서구 평리동 1140-7",
+      "roadAddress": "대구광역시 서구 통학로20길 30  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-18"
+    },
+    {
+      "name": "우리마트평리점",
+      "address": "대구광역시 서구 평리동 1311-17",
+      "roadAddress": "대구광역시 서구 평리로 339  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-01"
+    },
+    {
+      "name": "내고장할인마트",
+      "address": "대구광역시 서구 평리동 622-19",
+      "roadAddress": "대구광역시 서구 문화로 173  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-01"
+    },
+    {
+      "name": "흠플러스익스프레스대구중리점",
+      "address": "대구광역시 서구 중리동 26-1",
+      "roadAddress": "대구광역시 서구 국채보상로34길 12  (중리동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-23"
+    },
+    {
+      "name": "우방할인마트",
+      "address": "대구광역시 서구 비산동 331-36",
+      "roadAddress": "대구광역시 서구 통학로24길 60  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-27"
+    },
+    {
+      "name": "홀마트",
+      "address": "대구광역시 서구 내당동 918-24",
+      "roadAddress": "대구광역시 서구 달서로5길 24  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-31"
+    },
+    {
+      "name": "참마트",
+      "address": "대구광역시 서구 내당동 228-3",
+      "roadAddress": "대구광역시 서구 서대구로8길 12  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-15"
+    },
+    {
+      "name": "명성슈퍼",
+      "address": "대구광역시 서구 내당동 240-7",
+      "roadAddress": "대구광역시 서구 평리로 322-1  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-18"
+    },
+    {
+      "name": "현대할인마트",
+      "address": "대구광역시 서구 내당동 892-3",
+      "roadAddress": "대구광역시 서구 달구벌대로377길 7-1  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-21"
+    },
+    {
+      "name": "드림마트",
+      "address": "대구광역시 서구 비산동 1717-2",
+      "roadAddress": "대구광역시 서구 염색공단천로 2  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-11-05"
+    },
+    {
+      "name": "한솔유통",
+      "address": "대구광역시 서구 비산동 255-14",
+      "roadAddress": "대구광역시 서구 국채보상로76길 20-1  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-11-17"
+    },
+    {
+      "name": "훼미리마트 대평지점",
+      "address": "대구광역시 서구 평리동 1079-20",
+      "roadAddress": "대구광역시 서구 서대구로36길 25  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-12-11"
+    },
+    {
+      "name": "홈24시",
+      "address": "대구광역시 서구 비산동 288-21",
+      "roadAddress": "대구광역시 서구 평리로 415  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-12-16"
+    },
+    {
+      "name": "매화슈퍼",
+      "address": "대구광역시 서구 비산동 1233-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-27"
+    },
+    {
+      "name": "호미슈퍼",
+      "address": "대구광역시 서구 평리동 1112-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-27"
+    },
+    {
+      "name": "대백철물",
+      "address": "대구광역시 서구 원대동3가 1309-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-03"
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "대구광역시 서구 평리동 611-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-10"
+    },
+    {
+      "name": "대구유통",
+      "address": "대구광역시 서구 비산동 434-231",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-16"
+    },
+    {
+      "name": "영양슈퍼",
+      "address": "대구광역시 서구 평리동 637-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-14"
+    },
+    {
+      "name": "영 할인마트",
+      "address": "대구광역시 서구 평리동 806-52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-23"
+    },
+    {
+      "name": "홈 세일마트",
+      "address": "대구광역시 서구 중리동 40-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-09-03"
+    },
+    {
+      "name": "대영할인매장",
+      "address": "대구광역시 서구 비산동 291-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-09-08"
+    },
+    {
+      "name": "신우유통",
+      "address": "대구광역시 서구 평리동 1224-6",
+      "roadAddress": "대구광역시 서구 국채보상로50길 49  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-09-16"
+    },
+    {
+      "name": "훼미리마트비산제일점",
+      "address": "대구광역시 서구 비산동 389-5",
+      "roadAddress": "대구광역시 서구 국채보상로 369  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-02"
+    },
+    {
+      "name": "신우유통내당점",
+      "address": "대구광역시 서구 내당동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-08"
+    },
+    {
+      "name": "멀티24시편의점",
+      "address": "대구광역시 서구 평리동 1114-16",
+      "roadAddress": "대구광역시 서구 평리로 375  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-08"
+    },
+    {
+      "name": "K플러스편의점",
+      "address": "대구광역시 서구 내당동 896-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-14"
+    },
+    {
+      "name": "훼미리마트 퀸스로드점",
+      "address": "대구광역시 서구 중리동 1136-39 3호",
+      "roadAddress": "대구광역시 서구 평리로35길 28-14  (중리동,3호)",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-27"
+    },
+    {
+      "name": "영진수퍼",
+      "address": "대구광역시 서구 평리동 681-13",
+      "roadAddress": "대구광역시 서구 문화로47길 8  (평리동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-03"
+    },
+    {
+      "name": "셀마트",
+      "address": "대구광역시 서구 내당동 307-1",
+      "roadAddress": "대구광역시 서구 평리로50길 29  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-05"
+    },
+    {
+      "name": "광명수퍼",
+      "address": "대구광역시 서구 내당동 340 광명@상가 30-7호",
+      "roadAddress": "대구광역시 서구 평리로 214  (내당동,광명@상가 30-7호)",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-25"
+    },
+    {
+      "name": "훼미리마트감삼공원점",
+      "address": "대구광역시 서구 내당동 354-27",
+      "roadAddress": "대구광역시 서구 서대구로3길 52  (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-01"
+    },
+    {
+      "name": "꼬레아 24시 편의점",
+      "address": "대구광역시 서구 비산동 328-9",
+      "roadAddress": "대구광역시 서구 달서로 101  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-17"
+    },
+    {
+      "name": "성주할인마트",
+      "address": "대구광역시 서구 비산동 533-2",
+      "roadAddress": "대구광역시 서구 달서로36길 7  (비산동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-26"
+    },
+    {
+      "name": "대경마트",
+      "address": "대구광역시 서구 내당동 297-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-30"
+    },
+    {
+      "name": "한아름마트",
+      "address": "대구광역시 서구 내당동 429-32",
+      "roadAddress": "대구광역시 서구 당산로 227 (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-05-19"
+    },
+    {
+      "name": "(주)세종푸드",
+      "address": "대구광역시 서구 중리동 1037",
+      "roadAddress": "대구광역시 서구 와룡로 367 (중리동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-11-05"
+    },
+    {
+      "name": "삼육오푸드",
+      "address": "",
+      "roadAddress": "대구광역시 서구 와룡로 367, 1층 111호 (중리동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-09-14"
+    },
+    {
+      "name": "홈플러스스토어즈(주)",
+      "address": "대구광역시 서구 내당동 65-6",
+      "roadAddress": "대구광역시 서구 달구벌대로 1821 (내당동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-11-18"
+    }
+  ]
+}

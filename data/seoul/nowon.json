@@ -4,7 +4,7 @@
   "district": "노원구",
   "districtSlug": "nowon",
   "updatedAt": "2026-03-26",
-  "totalCount": 91,
+  "totalCount": 89,
   "stores": [
     {
       "name": "중앙세탁소",
@@ -343,13 +343,6 @@
       "licenseDate": "1998-09-25"
     },
     {
-      "name": "훼미리마트",
-      "address": "서울특별시 노원구 공릉동 435-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-03-21"
-    },
-    {
       "name": "성은슈퍼",
       "address": "서울특별시 노원구 공릉동 375-11",
       "roadAddress": "",
@@ -390,13 +383,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1999-12-23"
-    },
-    {
-      "name": "소망하이퍼",
-      "address": "서울특별시 노원구 공릉동 383-12",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-01-01"
     },
     {
       "name": "불암하이퍼",

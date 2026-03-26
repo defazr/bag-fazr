@@ -4,7 +4,7 @@
   "district": "담양군",
   "districtSlug": "damyang",
   "updatedAt": "2026-03-26",
-  "totalCount": 298,
+  "totalCount": 297,
   "stores": [
     {
       "name": "담양슈퍼",
@@ -2063,13 +2063,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1999-06-10"
-    },
-    {
-      "name": "가마골관리사무소",
-      "address": "전라남도 담양군 용면 용연리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-10-05"
     },
     {
       "name": "(주)북부환경",

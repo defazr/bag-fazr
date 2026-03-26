@@ -1,0 +1,1970 @@
+{
+  "region": "울산광역시",
+  "regionSlug": "ulsan",
+  "district": "중구",
+  "districtSlug": "usjunggu",
+  "updatedAt": "2026-03-26",
+  "totalCount": 280,
+  "stores": [
+    {
+      "name": "부산상회",
+      "address": "울산광역시 중구 유곡동 128-14",
+      "roadAddress": "울산광역시 중구 평동1길 8  (유곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "패밀리마트 번영점",
+      "address": "울산광역시 중구 옥교동 132-14",
+      "roadAddress": "울산광역시 중구 옥골샘4길 1  (옥교동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "푸드 25시",
+      "address": "울산광역시 중구 교동 335-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리들 태화점",
+      "address": "울산광역시 중구 태화동 474-1",
+      "roadAddress": "울산광역시 중구 태화로 194  (태화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스쿨편의점",
+      "address": "울산광역시 중구 태화동 775-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세화마트",
+      "address": "울산광역시 중구 우정동 431-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청구슈퍼(성안슈퍼)",
+      "address": "울산광역시 중구 성안동 성안2지구 10블럭6노트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한솔마트",
+      "address": "울산광역시 중구 성안동 853-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부산슈퍼",
+      "address": "울산광역시 중구 학성동 465-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리들 슈퍼",
+      "address": "울산광역시 중구 반구동 56-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리들 중울산점",
+      "address": "울산광역시 중구 옥교동 161-6",
+      "roadAddress": "울산광역시 중구 옥골샘4길 21  (옥교동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남운아파트 관리소",
+      "address": "울산광역시 중구 우정동 430-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신원슈퍼",
+      "address": "울산광역시 중구 반구동 237-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "베스트프랜드 학성로점",
+      "address": "울산광역시 중구 성남동 226-6",
+      "roadAddress": "울산광역시 중구 학성로 72  (성남동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "포천슈퍼마켓",
+      "address": "울산광역시 중구 태화동 706-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백양마트",
+      "address": "울산광역시 중구 성안동 823-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "OK마트",
+      "address": "울산광역시 중구 태화동 38-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성슈퍼",
+      "address": "울산광역시 중구 반구동 270-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새봄문구사",
+      "address": "울산광역시 중구 반구동 453-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "21세기마트",
+      "address": "울산광역시 중구 남외동 8-9",
+      "roadAddress": "울산광역시 중구 병영성4길 36-3  (남외동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대스토아",
+      "address": "울산광역시 중구 반구동 41-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월성슈퍼",
+      "address": "울산광역시 중구 학성동 192-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새천년슈퍼",
+      "address": "울산광역시 중구 동동 616",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대철물슈퍼",
+      "address": "울산광역시 중구 성안동 성안2지구 24B8N",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "21세기마트",
+      "address": "울산광역시 중구 남외동 386-27",
+      "roadAddress": "울산광역시 중구 곽남6길 35  (남외동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성마트",
+      "address": "울산광역시 중구 약사동 162-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성림슈퍼",
+      "address": "울산광역시 중구 학성동 154-10",
+      "roadAddress": "울산광역시 중구 옥교12길 111  (학성동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "초록마트",
+      "address": "울산광역시 중구 태화동 906-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선복식품",
+      "address": "울산광역시 중구 복산동 331",
+      "roadAddress": "울산광역시 중구 손골2길 17-3  (복산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서광철물",
+      "address": "울산광역시 중구 우정동 274-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "25시슈퍼",
+      "address": "울산광역시 중구 우정동 283-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금영마트",
+      "address": "울산광역시 중구 성안동 25B6N",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알라딘팬시문구점",
+      "address": "울산광역시 중구 성안동 853-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "울산광역시 중구 다운동 787-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-06"
+    },
+    {
+      "name": "스마일마트",
+      "address": "울산광역시 중구 복산동 450-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아리랑슈퍼",
+      "address": "울산광역시 중구 학성동 202-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세원마트",
+      "address": "울산광역시 중구 남외동 1011-4",
+      "roadAddress": "울산광역시 중구 해오름2길 58-11  (남외동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "또아슈퍼",
+      "address": "울산광역시 중구 성안동 869-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신진철물",
+      "address": "울산광역시 중구 남외동 416-26",
+      "roadAddress": "울산광역시 중구 곽남6길 7  (남외동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "의령상사",
+      "address": "울산광역시 중구 반구동 599-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정풍전산",
+      "address": "울산광역시 중구 반구동 583-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥식품",
+      "address": "울산광역시 중구 복산동 189-8",
+      "roadAddress": "울산광역시 중구 도화골8길 2  (복산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성지마트",
+      "address": "울산광역시 중구 남외동 6-16 플러스빌라 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아슈퍼",
+      "address": "울산광역시 중구 학성동 126-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스마일 24시편의점",
+      "address": "울산광역시 중구 성안동 410-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우정슈퍼",
+      "address": "울산광역시 중구 학성동 86-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문화슈퍼",
+      "address": "울산광역시 중구 반구동 25-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경주슈퍼",
+      "address": "울산광역시 중구 반구동 599-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에브리데이 24시 편의점",
+      "address": "울산광역시 중구 반구동 54-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태화상회",
+      "address": "울산광역시 중구 반구동 48-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG유통",
+      "address": "울산광역시 중구 교동 166 금강타워 102호",
+      "roadAddress": "울산광역시 중구 우정길 14,  102호 (교동,금강타워)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅마트",
+      "address": "울산광역시 중구 태화동 900-6",
+      "roadAddress": "울산광역시 중구 명난로 22  (태화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모닝마트성남다우",
+      "address": "울산광역시 중구 성남동 57-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주.엘지유통태화점",
+      "address": "울산광역시 중구 태화동 37-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성테스코(주)홈플러스 울산점",
+      "address": "울산광역시 중구 복산동 100",
+      "roadAddress": "울산광역시 중구 번영로 475  (복산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대미니슈퍼",
+      "address": "울산광역시 중구 북정동 70-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월마트코리아 울산중앙점",
+      "address": "울산광역시 중구 학성동 349-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동경매일유통",
+      "address": "울산광역시 중구 학성동 200-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "울산광역시 중구 동동 573",
+      "roadAddress": "울산광역시 중구 병영11길 24  (동동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대백화점 성남점",
+      "address": "울산광역시 중구 성남동 249-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리들 학성점",
+      "address": "울산광역시 중구 학성동 468-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대도칠기슈퍼",
+      "address": "울산광역시 중구 학산동 71-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행운슈퍼",
+      "address": "울산광역시 중구 성안동 65B8-1N",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채널큐24시편의점",
+      "address": "울산광역시 중구 남외동 416-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼마켓",
+      "address": "울산광역시 중구 학성동 377-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "D/C마트",
+      "address": "울산광역시 중구 태화동 710-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양스토아",
+      "address": "울산광역시 중구 우정동 385 선경APT 상가 1319",
+      "roadAddress": "울산광역시 중구 우정3길 9  (우정동,선경APT 상가 1319)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양스토아",
+      "address": "울산광역시 중구 성안동 24B1N",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오렌지마켓다운점",
+      "address": "울산광역시 중구 다운동 535-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "드림월드",
+      "address": "울산광역시 중구 성안동 788-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "근대화체인",
+      "address": "울산광역시 중구 남외동 383-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대궁상회",
+      "address": "울산광역시 중구 학산동 98-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린탑마트",
+      "address": "울산광역시 중구 동동 470-6 현대골든타워상가101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경남스토아",
+      "address": "울산광역시 중구 남외동 34-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐-일레븐",
+      "address": "울산광역시 중구 성남동 257--1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "울산광역시 중구 우정동 286-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상록스토아",
+      "address": "울산광역시 중구 북정동 33-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "울산냉동설비",
+      "address": "울산광역시 중구 우정동 137-3",
+      "roadAddress": "울산광역시 중구 당산1길 13  (우정동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-14"
+    },
+    {
+      "name": "울산종합냉동설비",
+      "address": "울산광역시 중구 우정동 137-3",
+      "roadAddress": "울산광역시 중구 당산1길 13  (우정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성상회",
+      "address": "울산광역시 중구 옥교동 115-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성상회",
+      "address": "울산광역시 중구 옥교동 155-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모닝마트해피스토아점",
+      "address": "울산광역시 중구 성남동 190-94",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-20"
+    },
+    {
+      "name": "모닝마트옥교점",
+      "address": "울산광역시 중구 옥교동 95-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모닝마트옥교점",
+      "address": "울산광역시 중구 옥교동 95-20",
+      "roadAddress": "울산광역시 중구 젊음의거리 86  (옥교동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-25"
+    },
+    {
+      "name": "훼미리마트 성안점",
+      "address": "울산광역시 중구 성안동 411-1 성안2지구 11B11L 제희빌딩 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-09-05"
+    },
+    {
+      "name": "하나슈퍼",
+      "address": "울산광역시 중구 반구동 740-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원24시마트",
+      "address": "울산광역시 중구 반구동 447-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)울산중앙시장",
+      "address": "울산광역시 중구 옥교동 중앙시장4층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보영슈퍼",
+      "address": "울산광역시 중구 성안동 857-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양마트(주)울산옥교점",
+      "address": "울산광역시 중구 옥교동 255-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "솔이네슈퍼",
+      "address": "울산광역시 중구 다운동 573-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "베스트프랜드 학성로점",
+      "address": "울산광역시 중구 성남동 226-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해피타임슈퍼",
+      "address": "울산광역시 중구 반구동 60-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신용슈퍼",
+      "address": "울산광역시 중구 반구동 442-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태화세일유통",
+      "address": "울산광역시 중구 태화동 964-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리들 편의점24시",
+      "address": "울산광역시 중구 복산동 191-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매일마트",
+      "address": "울산광역시 중구 동동 470-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "트윈스24시",
+      "address": "울산광역시 중구 학산동 149-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송정슈퍼",
+      "address": "울산광역시 중구 학산동 124-2",
+      "roadAddress": "울산광역시 중구 옥골샘3길 22  (학산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양할인마트",
+      "address": "울산광역시 중구 남외동 1008-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화랑문구",
+      "address": "울산광역시 중구 복산동 574",
+      "roadAddress": "울산광역시 중구 장춘로 153-2  (복산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)신세계마트",
+      "address": "울산광역시 중구 남외동 385-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시온마트",
+      "address": "울산광역시 중구 반구동 787-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백합슈퍼",
+      "address": "울산광역시 중구 복산동 464-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "울산광역시 중구 성남동 257-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세블일레븐",
+      "address": "울산광역시 중구 성남동 286-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린탑마트",
+      "address": "울산광역시 중구 동동 470-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유명스토아",
+      "address": "울산광역시 중구 반구동 670",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북슈퍼",
+      "address": "울산광역시 중구 남외동 549-78",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세원빅마트",
+      "address": "울산광역시 중구 학성동 200-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대거슈퍼",
+      "address": "울산광역시 중구 반구동 783-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세화매일유통",
+      "address": "울산광역시 중구 서동 35-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)엘지유통 태화점",
+      "address": "울산광역시 중구 태화동 37-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연이네슈퍼",
+      "address": "울산광역시 중구 교동 219-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세원빅마트",
+      "address": "울산광역시 중구 남외동 485-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양스토아",
+      "address": "울산광역시 중구 우정동 385",
+      "roadAddress": "울산광역시 중구 우정3길 9  (우정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대알뜰마트",
+      "address": "울산광역시 중구 반구동 876-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대구유통",
+      "address": "울산광역시 중구 반구동 789-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "울산광역시 중구 다운동 816-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "울산광역시 중구 학성동 377-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한솔마트",
+      "address": "울산광역시 중구 복산동 607-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "로얄슈퍼",
+      "address": "울산광역시 중구 태화동 714-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진관마트",
+      "address": "울산광역시 중구 다운동 768",
+      "roadAddress": "울산광역시 중구 다운6길 16  (다운동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "복산슈퍼",
+      "address": "울산광역시 중구 복산동 40-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성안슈퍼",
+      "address": "울산광역시 중구 성안동 10블럭   6롯트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일신스토아",
+      "address": "울산광역시 중구 교동 402-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에브리데이편의점",
+      "address": "울산광역시 중구 교동 400-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-01"
+    },
+    {
+      "name": "한진슈퍼",
+      "address": "울산광역시 중구 교동 285-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-01"
+    },
+    {
+      "name": "경변천지마트",
+      "address": "울산광역시 중구 반구동 789-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-04"
+    },
+    {
+      "name": "청림스토아",
+      "address": "울산광역시 중구 우정동 272-37",
+      "roadAddress": "울산광역시 중구 우암길 14  (우정동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-07"
+    },
+    {
+      "name": "성안슈퍼",
+      "address": "울산광역시 중구 성안동 10B 6N",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-08"
+    },
+    {
+      "name": "하나식육점",
+      "address": "울산광역시 중구 우정동 389-14",
+      "roadAddress": "울산광역시 중구 우정3길 18  (우정동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-16"
+    },
+    {
+      "name": "유림마트",
+      "address": "울산광역시 중구 옥교동 97-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-22"
+    },
+    {
+      "name": "수지마트",
+      "address": "울산광역시 중구 태화동 937-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우정슈퍼",
+      "address": "울산광역시 중구 우정동 268-38",
+      "roadAddress": "울산광역시 중구 강정길 39  (우정동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-29"
+    },
+    {
+      "name": "한성슈퍼",
+      "address": "울산광역시 중구 다운동 564-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 병영점",
+      "address": "울산광역시 중구 남외동 243-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-03"
+    },
+    {
+      "name": "이준마트",
+      "address": "울산광역시 중구 태화동 832-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-04"
+    },
+    {
+      "name": "거창미니슈퍼",
+      "address": "울산광역시 중구 반구동 49-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-07"
+    },
+    {
+      "name": "(주)현대DSF현대백화점",
+      "address": "울산광역시 중구 성남동 249-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "윈한양마트",
+      "address": "울산광역시 중구 반구동 284-8",
+      "roadAddress": "울산광역시 중구 반구정15길 41 (반구동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-01-23"
+    },
+    {
+      "name": "기와주유소",
+      "address": "울산광역시 중구 반구동 599-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-25"
+    },
+    {
+      "name": "에브리데이 성남점",
+      "address": "울산광역시 중구 교동 205-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-25"
+    },
+    {
+      "name": "행복슈퍼",
+      "address": "울산광역시 중구 반구동 724-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-01"
+    },
+    {
+      "name": "DC 할인마트",
+      "address": "울산광역시 중구 다운동 564-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-03"
+    },
+    {
+      "name": "강변마켓",
+      "address": "울산광역시 중구 태화동 산 26 강변맨션상가 101호",
+      "roadAddress": "울산광역시 중구 신기11길 10-10  (태화동,강변맨션상가 101호)",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-05"
+    },
+    {
+      "name": "철이식육점",
+      "address": "울산광역시 중구 복산동 186-2 남운럭키상가 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-09"
+    },
+    {
+      "name": "한솔마트",
+      "address": "울산광역시 중구 복산동 186-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-12"
+    },
+    {
+      "name": "홍일할인마트",
+      "address": "울산광역시 중구 동동 116-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-24"
+    },
+    {
+      "name": "천우마트",
+      "address": "울산광역시 중구 교동 405-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-14"
+    },
+    {
+      "name": "성지마트",
+      "address": "울산광역시 중구 복산동 188-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-14"
+    },
+    {
+      "name": "세화매일유통",
+      "address": "울산광역시 중구 서동 278",
+      "roadAddress": "울산광역시 중구 병영로 43  (서동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-16"
+    },
+    {
+      "name": "씨엠마트",
+      "address": "울산광역시 중구 태화동 778-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-20"
+    },
+    {
+      "name": "짱",
+      "address": "울산광역시 중구 우정동 272-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-26"
+    },
+    {
+      "name": "고은슈퍼",
+      "address": "울산광역시 중구 우정동 268-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-26"
+    },
+    {
+      "name": "세원마트",
+      "address": "울산광역시 중구 남외동 1011-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-28"
+    },
+    {
+      "name": "매일마트",
+      "address": "울산광역시 중구 서동 423",
+      "roadAddress": "울산광역시 중구 병영성길 59  (서동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-29"
+    },
+    {
+      "name": "썬빌리지",
+      "address": "울산광역시 중구 학산동 90-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-29"
+    },
+    {
+      "name": "우리들마트",
+      "address": "울산광역시 중구 복산동 30-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-19"
+    },
+    {
+      "name": "대지슈퍼",
+      "address": "울산광역시 중구 반구동 783-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-19"
+    },
+    {
+      "name": "트윈스 24",
+      "address": "울산광역시 중구 학산동 149-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-25"
+    },
+    {
+      "name": "썬빌리지",
+      "address": "울산광역시 중구 다운동 551-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-25"
+    },
+    {
+      "name": "교동미니슈퍼",
+      "address": "울산광역시 중구 교동 405-55",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-31"
+    },
+    {
+      "name": "행운할인마트",
+      "address": "울산광역시 중구 교동 239-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-15"
+    },
+    {
+      "name": "매일마트",
+      "address": "울산광역시 중구 서동 57-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-15"
+    },
+    {
+      "name": "썬빌리지",
+      "address": "울산광역시 중구 태화동 765-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-24"
+    },
+    {
+      "name": "21세기마트",
+      "address": "울산광역시 중구 남외동 8-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-14"
+    },
+    {
+      "name": "진영마트",
+      "address": "울산광역시 중구 성남동 191-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-10"
+    },
+    {
+      "name": "키모마트",
+      "address": "울산광역시 중구 성안동 852-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-13"
+    },
+    {
+      "name": "에브리데이 우정점",
+      "address": "울산광역시 중구 우정동 283-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-20"
+    },
+    {
+      "name": "한국미니슈퍼",
+      "address": "울산광역시 중구 교동 388-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-20"
+    },
+    {
+      "name": "LG25 울산병영점",
+      "address": "울산광역시 중구 남외동 432-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-20"
+    },
+    {
+      "name": "미니스톱 울산인산병원점",
+      "address": "울산광역시 중구 남외동 514-2 트레져프라자 102호",
+      "roadAddress": "울산광역시 중구 남외2길 50, 102호 (남외동, 트레져프라자)",
+      "status": "영업/정상",
+      "licenseDate": "2013-12-31"
+    },
+    {
+      "name": "월마트",
+      "address": "울산광역시 중구 남외동 275",
+      "roadAddress": "울산광역시 중구 병영로 21 (남외동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-01-14"
+    },
+    {
+      "name": "씨유병영중부점",
+      "address": "울산광역시 중구 남외동 421-9",
+      "roadAddress": "울산광역시 중구 곽남5길 1 (남외동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-01-27"
+    },
+    {
+      "name": "LG탑마트",
+      "address": "울산광역시 중구 성남동 85-7",
+      "roadAddress": "울산광역시 중구 새즈믄해거리 27 (성남동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-10"
+    },
+    {
+      "name": "한솔마트",
+      "address": "울산광역시 중구 복산동 184-1",
+      "roadAddress": "울산광역시 중구 단장1길 1 (복산동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-01-15"
+    },
+    {
+      "name": "모닝마트 102호 성남점",
+      "address": "울산광역시 중구 성남동 219-13",
+      "roadAddress": "울산광역시 중구 만남의거리 24 (성남동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-01-08"
+    },
+    {
+      "name": "한국미니스톱울산반구점",
+      "address": "울산광역시 중구 반구동 582-4",
+      "roadAddress": "울산광역시 중구 화합로 344 (반구동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-02-20"
+    },
+    {
+      "name": "GS25학성러브",
+      "address": "울산광역시 중구 학산동 71-15",
+      "roadAddress": "울산광역시 중구 학성로 145 (학산동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-31"
+    },
+    {
+      "name": "이안엑소디움마트",
+      "address": "울산광역시 중구 옥교동 84-7",
+      "roadAddress": "울산광역시 중구 젊음의3거리 7 (옥교동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-04-02"
+    },
+    {
+      "name": "세계로마트",
+      "address": "울산광역시 중구 우정동 138",
+      "roadAddress": "울산광역시 중구 당산4길 61  (우정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금성슈퍼",
+      "address": "울산광역시 중구 반구동 742",
+      "roadAddress": "울산광역시 중구 서원10길 12-2  (반구동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화니슈퍼",
+      "address": "울산광역시 중구 반구동 54-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "생생마트",
+      "address": "울산광역시 중구 서동 57-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매일마트",
+      "address": "울산광역시 중구 유곡동 111-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세계로마트",
+      "address": "울산광역시 중구 복산동 330-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "OK 할인마트",
+      "address": "울산광역시 중구 우정동 381-10",
+      "roadAddress": "울산광역시 중구 우정3길 12  (우정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아슈퍼",
+      "address": "울산광역시 중구 태화동 941-5",
+      "roadAddress": "울산광역시 중구 태화로 16-1  (태화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이준마트",
+      "address": "울산광역시 중구 태화동 832-8",
+      "roadAddress": "울산광역시 중구 명정9길 18  (태화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "복슈퍼",
+      "address": "울산광역시 중구 교동 164-5",
+      "roadAddress": "울산광역시 중구 향교2길 24  (교동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부원철물",
+      "address": "울산광역시 중구 남외동 389-6",
+      "roadAddress": "울산광역시 중구 곽남5길 21  (남외동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "울산광역시 중구 태화동 28-1",
+      "roadAddress": "울산광역시 중구 화진4길 47  (태화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창신슈퍼",
+      "address": "울산광역시 중구 반구동 246-8",
+      "roadAddress": "울산광역시 중구 구교로 182  (반구동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에브리데이중앙점",
+      "address": "울산광역시 중구 옥교동 307-10",
+      "roadAddress": "울산광역시 중구 옥교6길 8  (옥교동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세화매일유통",
+      "address": "울산광역시 중구 복산동 647-4",
+      "roadAddress": "울산광역시 중구 손골4길 7  (복산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "울산광역시 중구 반구동 99-3",
+      "roadAddress": "울산광역시 중구 화합로 419-1  (반구동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세화마트",
+      "address": "울산광역시 중구 태화동 444-12",
+      "roadAddress": "울산광역시 중구 신기1길 17  (태화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한빛마트",
+      "address": "울산광역시 중구 복산동 607-20",
+      "roadAddress": "울산광역시 중구 옥교동길 27  (복산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "심플할인마트",
+      "address": "울산광역시 중구 다운동 757-1",
+      "roadAddress": "울산광역시 중구 다운로 156  (다운동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시티마트",
+      "address": "울산광역시 중구 반구동 615-3",
+      "roadAddress": "울산광역시 중구 반구정4길 16  (반구동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양스토아",
+      "address": "울산광역시 중구 태화동 474-3",
+      "roadAddress": "울산광역시 중구 신기4길 6  (태화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아름스토아",
+      "address": "울산광역시 중구 태화동 732-7",
+      "roadAddress": "울산광역시 중구 오산7길 13  (태화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경주유통",
+      "address": "울산광역시 중구 우정동 273-14",
+      "roadAddress": "울산광역시 중구 우암1길 22  (우정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영남슈퍼",
+      "address": "울산광역시 중구 반구동 590-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세림마트",
+      "address": "울산광역시 중구 남외동 466-6",
+      "roadAddress": "울산광역시 중구 해오름5길 49  (남외동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "울산광역시 중구 태화동 446-7",
+      "roadAddress": "울산광역시 중구 신기7길 13  (태화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "복양슈퍼",
+      "address": "울산광역시 중구 복산동 658-16",
+      "roadAddress": "울산광역시 중구 손골9길 29-2  (복산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그랜드스토아",
+      "address": "울산광역시 중구 반구동 696",
+      "roadAddress": "울산광역시 중구 반구정14길 67  (반구동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "울산광역시 중구 복산동 500-1",
+      "roadAddress": "울산광역시 중구 학성4길 38  (복산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그랜드스토아",
+      "address": "울산광역시 중구 반구동 290-13",
+      "roadAddress": "울산광역시 중구 반구정9길 23  (반구동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "로얄식품",
+      "address": "울산광역시 중구 태화동 714-13",
+      "roadAddress": "울산광역시 중구 오산9길 4  (태화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에브리데이미소점",
+      "address": "울산광역시 중구 학성동 431-11",
+      "roadAddress": "울산광역시 중구 학성4길 65  (학성동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영남슈퍼",
+      "address": "울산광역시 중구 옥교동 302-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양마트",
+      "address": "울산광역시 중구 태화동 771-12",
+      "roadAddress": "울산광역시 중구 오산2길 28-2  (태화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG 25시",
+      "address": "울산광역시 중구 옥교동 83-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팍스마켓(복산점)",
+      "address": "울산광역시 중구 복산동 35-8",
+      "roadAddress": "울산광역시 중구 서원6길 17  (복산동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-11"
+    },
+    {
+      "name": "동경매일유통",
+      "address": "울산광역시 중구 동동 470-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성원스토아",
+      "address": "울산광역시 중구 태화동 841-14",
+      "roadAddress": "울산광역시 중구 일중로 40  (태화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행복스토아",
+      "address": "울산광역시 중구 태화동 814-1",
+      "roadAddress": "울산광역시 중구 명정9길 16  (태화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세화매일유통",
+      "address": "울산광역시 중구 서동 35-2",
+      "roadAddress": "울산광역시 중구 동천4길 32  (서동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "울산광역시 중구 태화동 36-1",
+      "roadAddress": "울산광역시 중구 화진5길 7  (태화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "필마트",
+      "address": "울산광역시 중구 서동 38-3",
+      "roadAddress": "울산광역시 중구 동천2길 14  (서동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청결슈퍼",
+      "address": "울산광역시 중구 반구동 770-24",
+      "roadAddress": "울산광역시 중구 내황2길 17  (반구동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "울산광역시 중구 남외동 62-17",
+      "roadAddress": "울산광역시 중구 곽남13길 38  (남외동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "거창미니슈퍼",
+      "address": "울산광역시 중구 반구동 49-14",
+      "roadAddress": "울산광역시 중구 구교8길 33  (반구동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아름슈퍼",
+      "address": "울산광역시 중구 교동 245-45",
+      "roadAddress": "울산광역시 중구 초은길 13  (교동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "울산슈퍼",
+      "address": "울산광역시 중구 학성동 379-2",
+      "roadAddress": "울산광역시 중구 학성4길 63  (학성동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안동상회",
+      "address": "울산광역시 중구 반구동 453-12",
+      "roadAddress": "울산광역시 중구 반구정15길 22  (반구동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양지슈퍼",
+      "address": "울산광역시 중구 반구동 671-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데상회",
+      "address": "울산광역시 중구 학산동 107-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세일세일마트",
+      "address": "울산광역시 중구 복산동 559-1",
+      "roadAddress": "울산광역시 중구 옥교동길 73  (복산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동덕편리마트",
+      "address": "울산광역시 중구 복산동 327-5",
+      "roadAddress": "울산광역시 중구 손골5길 25  (복산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새복산유통",
+      "address": "울산광역시 중구 북정동 142-1 한진연립지하  101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경남식품",
+      "address": "울산광역시 중구 복산동 445-6",
+      "roadAddress": "울산광역시 중구 푸름길 35  (복산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북철물",
+      "address": "울산광역시 중구 복산동 189-9",
+      "roadAddress": "울산광역시 중구 도화골8길 4  (복산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "노현상회",
+      "address": "울산광역시 중구 복산동 60-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "북정마트",
+      "address": "울산광역시 중구 북정동 116-16",
+      "roadAddress": "울산광역시 중구 도서관길 51  (북정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "계림슈퍼",
+      "address": "울산광역시 중구 학산동 61-7",
+      "roadAddress": "울산광역시 중구 구역전1길 27  (학산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일신스토아",
+      "address": "울산광역시 중구 교동 402-19",
+      "roadAddress": "울산광역시 중구 옹수골길 53  (교동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유림마트",
+      "address": "울산광역시 중구 우정동 416-11",
+      "roadAddress": "울산광역시 중구 명륜로 103-1  (우정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동화부식",
+      "address": "울산광역시 중구 태화동 412-2 동부상가 지하 110호",
+      "roadAddress": "울산광역시 중구 신기12길 38  (태화동,동부상가 지하 110호)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "울산광역시 중구 태화동 123-7 세운상가 1층 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국유통",
+      "address": "울산광역시 중구 남외동 346",
+      "roadAddress": "울산광역시 중구 곽남14길 19  (남외동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙쌀상회",
+      "address": "울산광역시 중구 남외동 529-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태화할인마트",
+      "address": "울산광역시 중구 태화동 736-20",
+      "roadAddress": "울산광역시 중구 명난로 114  (태화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서초마트",
+      "address": "울산광역시 중구 약사동 8B 4N",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스파할인마트",
+      "address": "울산광역시 중구 우정동 430",
+      "roadAddress": "울산광역시 중구 우정5길 31  (우정동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-12"
+    },
+    {
+      "name": "무진슈퍼",
+      "address": "울산광역시 중구 반구동 284-8",
+      "roadAddress": "울산광역시 중구 반구정15길 41  (반구동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-12"
+    },
+    {
+      "name": "원진슈퍼",
+      "address": "울산광역시 중구 학성동 377-14",
+      "roadAddress": "울산광역시 중구 학성로 189  (학성동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-14"
+    },
+    {
+      "name": "빈이네슈퍼",
+      "address": "울산광역시 중구 교동 219-19",
+      "roadAddress": "울산광역시 중구 향교1길 8-13  (교동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "울산광역시 중구 반구동 876-1",
+      "roadAddress": "울산광역시 중구 반구정17길 48  (반구동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평화스토아",
+      "address": "울산광역시 중구 우정동 428-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협 하나로마트",
+      "address": "울산광역시 중구 태화동 473-1",
+      "roadAddress": "울산광역시 중구 태화로 186  (태화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "로타리슈퍼",
+      "address": "울산광역시 중구 남외동 437-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린스토아",
+      "address": "울산광역시 중구 약사동 865-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "샤넬화장품",
+      "address": "울산광역시 중구 복산동 189-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-20"
+    },
+    {
+      "name": "LG 25시",
+      "address": "울산광역시 중구 남외동 432-4",
+      "roadAddress": "울산광역시 중구 곽남길 8  (남외동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "필그린마트",
+      "address": "울산광역시 중구 반구동 593-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "푸른유통2호점",
+      "address": "울산광역시 중구 다운동 780-3",
+      "roadAddress": "울산광역시 중구 다운로 119  (다운동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동천개발",
+      "address": "울산광역시 중구 약사동 777-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울마트",
+      "address": "울산광역시 중구 복산동 361-40",
+      "roadAddress": "울산광역시 중구 계변로 96  (복산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새봄문구사",
+      "address": "울산광역시 중구 반구동 453-1",
+      "roadAddress": "울산광역시 중구 반구정4길 64  (반구동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아마트",
+      "address": "울산광역시 중구 다운동 702",
+      "roadAddress": "울산광역시 중구 다운로 175  (다운동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청하슈퍼",
+      "address": "울산광역시 중구 우정동 426-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "N 편의점",
+      "address": "울산광역시 중구 성남동 252-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원스탑",
+      "address": "울산광역시 중구 서동 35-11",
+      "roadAddress": "울산광역시 중구 동천4길 56  (서동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평화마트",
+      "address": "울산광역시 중구 성남동 190-239",
+      "roadAddress": "울산광역시 중구 중앙3길 6  (성남동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리들 우정점",
+      "address": "울산광역시 중구 우정동 286-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리들 옥교점",
+      "address": "울산광역시 중구 옥교동 241",
+      "roadAddress": "울산광역시 중구 문화의거리 44  (옥교동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영남슈퍼",
+      "address": "울산광역시 중구 복산동 35-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅마트",
+      "address": "울산광역시 중구 서동 146-1",
+      "roadAddress": "울산광역시 중구 병영성7길 21  (서동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "두강슈퍼",
+      "address": "울산광역시 중구 서동 34-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "SK글로벌(주) SK정원주유소",
+      "address": "울산광역시 중구 유곡동 235-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경변천지마트",
+      "address": "울산광역시 중구 반구동 789-20",
+      "roadAddress": "울산광역시 중구 내황10길 42  (반구동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "병영농업협동조함 동동지점",
+      "address": "울산광역시 중구 동동 745",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대흥마트",
+      "address": "울산광역시 중구 태화동 892-14",
+      "roadAddress": "울산광역시 중구 난곡3길 13  (태화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화진스토아",
+      "address": "울산광역시 중구 학산동 12-19",
+      "roadAddress": "울산광역시 중구 옥교2길 56  (학산동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-20"
+    },
+    {
+      "name": "(주)영진환경",
+      "address": "울산광역시 중구 반구동 894-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-27"
+    },
+    {
+      "name": "명덕슈퍼",
+      "address": "울산광역시 중구 학산동 5-10",
+      "roadAddress": "울산광역시 중구 옥교8길 15-1  (학산동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-13"
+    }
+  ]
+}

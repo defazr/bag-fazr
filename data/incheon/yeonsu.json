@@ -4,7 +4,7 @@
   "district": "연수구",
   "districtSlug": "yeonsu",
   "updatedAt": "2026-03-26",
-  "totalCount": 332,
+  "totalCount": 326,
   "stores": [
     {
       "name": "전원슈퍼",
@@ -2135,13 +2135,6 @@
       "licenseDate": "2005-05-18"
     },
     {
-      "name": "용담슈퍼",
-      "address": "인천광역시 연수구 청학동 454",
-      "roadAddress": "인천광역시 연수구 용담로 25  (청학동)",
-      "status": "영업/정상",
-      "licenseDate": "2005-01-11"
-    },
-    {
       "name": "럭키마트",
       "address": "인천광역시 연수구 옥련동 626",
       "roadAddress": "인천광역시 연수구 능허대로79번길 30  (옥련동)",
@@ -2177,13 +2170,6 @@
       "licenseDate": "2006-06-12"
     },
     {
-      "name": "아름유통",
-      "address": "인천광역시 연수구 옥련동 344-1",
-      "roadAddress": "인천광역시 연수구 한나루로180번길 20  (옥련동)",
-      "status": "영업/정상",
-      "licenseDate": "2009-01-07"
-    },
-    {
       "name": "한남체인대동점",
       "address": "인천광역시 연수구 연수동 619-7",
       "roadAddress": "인천광역시 연수구 샘말로88번길 19  (연수동)",
@@ -2203,13 +2189,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2008-04-25"
-    },
-    {
-      "name": "동남슈퍼",
-      "address": "인천광역시 연수구 연수동 536",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2008-07-31"
     },
     {
       "name": "하얀마트",
@@ -2247,13 +2226,6 @@
       "licenseDate": "2008-11-20"
     },
     {
-      "name": "세븐일레븐",
-      "address": "인천광역시 연수구 옥련동 552-7",
-      "roadAddress": "인천광역시 연수구 능허대로 209-1  (옥련동)",
-      "status": "영업/정상",
-      "licenseDate": "2008-11-07"
-    },
-    {
       "name": "동원슈퍼",
       "address": "인천광역시 연수구 옥련동 344-88",
       "roadAddress": "",
@@ -2268,25 +2240,11 @@
       "licenseDate": "2009-02-27"
     },
     {
-      "name": "뉴서울슈퍼",
-      "address": "인천광역시 연수구 선학동 352",
-      "roadAddress": "인천광역시 연수구 선학로 101  (선학동)",
-      "status": "영업/정상",
-      "licenseDate": "2009-08-17"
-    },
-    {
       "name": "시영슈퍼",
       "address": "인천광역시 연수구 연수동 582-2 연수시영1차아파트 208동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2009-05-18"
-    },
-    {
-      "name": "선학하이퍼",
-      "address": "인천광역시 연수구 선학동 364-1",
-      "roadAddress": "인천광역시 연수구 학나래로29번길 2-3  (선학동)",
-      "status": "영업/정상",
-      "licenseDate": "2009-01-22"
     },
     {
       "name": "미니스톱",

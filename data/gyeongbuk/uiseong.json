@@ -4,7 +4,7 @@
   "district": "의성군",
   "districtSlug": "uiseong",
   "updatedAt": "2026-03-26",
-  "totalCount": 206,
+  "totalCount": 202,
   "stores": [
     {
       "name": "이마트24 의성봉양점",
@@ -1214,34 +1214,6 @@
       "name": "단밀농협",
       "address": "경상북도 의성군 단밀면 속암리 95",
       "roadAddress": "경상북도 의성군 단밀면 주속길 106",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "만물상회",
-      "address": "경상북도 의성군 단밀면 속암리 171",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "팔등슈퍼",
-      "address": "경상북도 의성군 단밀면 주선리 448",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "낙정백화점",
-      "address": "경상북도 의성군 단밀면 낙정리 593",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "낙정정류장",
-      "address": "경상북도 의성군 단밀면 낙정리 596",
-      "roadAddress": "경상북도 의성군 단밀면 도안로 825",
       "status": "영업/정상",
       "licenseDate": ""
     },

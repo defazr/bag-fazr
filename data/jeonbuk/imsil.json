@@ -4,7 +4,7 @@
   "district": "임실군",
   "districtSlug": "imsil",
   "updatedAt": "2026-03-26",
-  "totalCount": 230,
+  "totalCount": 219,
   "stores": [
     {
       "name": "운암편의점",
@@ -343,13 +343,6 @@
       "licenseDate": ""
     },
     {
-      "name": "강진슈퍼",
-      "address": "전북특별자치도 임실군 강진면 갈담리 290",
-      "roadAddress": "전북특별자치도 임실군 강진면 갈담2길 4-9",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "반도상회",
       "address": "전북특별자치도 임실군 강진면 갈담리 377-16",
       "roadAddress": "",
@@ -394,27 +387,6 @@
     {
       "name": "음식점",
       "address": "전북특별자치도 임실군 운암면 마암리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "음식점",
-      "address": "전북특별자치도 임실군 운암면 마암리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "음식점",
-      "address": "전북특별자치도 임실군 운암면 운암리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "음식점",
-      "address": "전북특별자치도 임실군 운암면 운암리",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -492,13 +464,6 @@
     {
       "name": "대성슈퍼",
       "address": "전북특별자치도 임실군 오수면 오수리 371-14",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "근영슈퍼",
-      "address": "전북특별자치도 임실군 오수면 오수리 345-6",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -812,13 +777,6 @@
       "licenseDate": ""
     },
     {
-      "name": "마을회관",
-      "address": "전북특별자치도 임실군 오수면 오암리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "개인",
       "address": "전북특별자치도 임실군 강진면 백련리 359",
       "roadAddress": "",
@@ -889,13 +847,6 @@
       "licenseDate": ""
     },
     {
-      "name": "개인",
-      "address": "전북특별자치도 임실군 신평면 용암리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "그랜드마트",
       "address": "전북특별자치도 임실군 오수면 오수리 387-27",
       "roadAddress": "",
@@ -947,20 +898,6 @@
     {
       "name": "정자쉼터",
       "address": "전북특별자치도 임실군 성수면 월평리 360",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "현대슈퍼",
-      "address": "전북특별자치도 임실군 신평면 원천리 237",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "제일슈퍼",
-      "address": "전북특별자치도 임실군 강진면 갈담리 508-3",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1197,13 +1134,6 @@
       "licenseDate": "2013-11-05"
     },
     {
-      "name": "청웅슈퍼",
-      "address": "전북특별자치도 임실군 청웅면 구고리 414-6",
-      "roadAddress": "전북특별자치도 임실군 청웅면 구고6길 65",
-      "status": "영업/정상",
-      "licenseDate": "2013-11-21"
-    },
-    {
       "name": "신영지업사",
       "address": "전북특별자치도 임실군 임실읍 이도리 233-1",
       "roadAddress": "전북특별자치도 임실군 임실읍 운수로 26, 7동",
@@ -1370,13 +1300,6 @@
       "roadAddress": "전북특별자치도 임실군 임실읍 봉황로 140",
       "status": "영업/정상",
       "licenseDate": "2021-07-15"
-    },
-    {
-      "name": "천일상회",
-      "address": "전북특별자치도 임실군 덕치면 일중리 101-1",
-      "roadAddress": "전북특별자치도 임실군 덕치면 인덕로 1122",
-      "status": "영업/정상",
-      "licenseDate": "2020-04-23"
     },
     {
       "name": "세븐일레븐 전북임실점",

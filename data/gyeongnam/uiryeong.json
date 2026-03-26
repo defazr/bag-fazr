@@ -4,7 +4,7 @@
   "district": "의령군",
   "districtSlug": "uiryeong",
   "updatedAt": "2026-03-26",
-  "totalCount": 196,
+  "totalCount": 194,
   "stores": [
     {
       "name": "마을(이장)",
@@ -483,13 +483,6 @@
       "licenseDate": "1995-07-20"
     },
     {
-      "name": "대의상회",
-      "address": "경상남도 의령군 대의면 마쌍리 구성 622",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "이팔상회",
       "address": "경상남도 의령군 칠곡면 신포리 424",
       "roadAddress": "경상남도 의령군 칠곡면 칠곡로 56",
@@ -598,13 +591,6 @@
       "name": "내조구판장",
       "address": "경상남도 의령군 칠곡면 내조리 16",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1996-11-18"
-    },
-    {
-      "name": "이팔상회",
-      "address": "경상남도 의령군 칠곡면 신포리 424",
-      "roadAddress": "경상남도 의령군 칠곡면 칠곡로 56",
       "status": "영업/정상",
       "licenseDate": "1996-11-18"
     },

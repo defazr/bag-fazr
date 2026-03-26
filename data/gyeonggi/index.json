@@ -2,17 +2,17 @@
   "region": "경기도",
   "regionSlug": "gyeonggi",
   "updatedAt": "2026-03-26",
-  "totalCount": 15751,
+  "totalCount": 15262,
   "districts": [
     {
       "district": "안산시",
       "districtSlug": "ansan",
-      "count": 1037
+      "count": 996
     },
     {
       "district": "안성시",
       "districtSlug": "anseong",
-      "count": 618
+      "count": 416
     },
     {
       "district": "안양시",
@@ -27,12 +27,12 @@
     {
       "district": "동두천시",
       "districtSlug": "dongducheon",
-      "count": 362
+      "count": 352
     },
     {
       "district": "가평군",
       "districtSlug": "gapyeong",
-      "count": 309
+      "count": 304
     },
     {
       "district": "광주시",
@@ -42,42 +42,42 @@
     {
       "district": "김포시",
       "districtSlug": "gimpo",
-      "count": 1248
+      "count": 1241
     },
     {
       "district": "고양시",
       "districtSlug": "goyang",
-      "count": 1828
+      "count": 1808
     },
     {
       "district": "군포시",
       "districtSlug": "gunpo",
-      "count": 442
+      "count": 434
     },
     {
       "district": "구리시",
       "districtSlug": "guri",
-      "count": 250
+      "count": 247
     },
     {
       "district": "과천시",
       "districtSlug": "gwacheon",
-      "count": 171
+      "count": 166
     },
     {
       "district": "광명시",
       "districtSlug": "gwangmyeong",
-      "count": 311
+      "count": 305
     },
     {
       "district": "하남시",
       "districtSlug": "hanam",
-      "count": 25
+      "count": 23
     },
     {
       "district": "화성시",
       "districtSlug": "hwaseong",
-      "count": 1767
+      "count": 1747
     },
     {
       "district": "이천시",
@@ -87,17 +87,17 @@
     {
       "district": "남양주시",
       "districtSlug": "namyangju",
-      "count": 918
+      "count": 908
     },
     {
       "district": "오산시",
       "districtSlug": "osan",
-      "count": 430
+      "count": 421
     },
     {
       "district": "파주시",
       "districtSlug": "paju",
-      "count": 911
+      "count": 902
     },
     {
       "district": "포천시",
@@ -107,7 +107,7 @@
     {
       "district": "평택시",
       "districtSlug": "pyeongtaek",
-      "count": 1193
+      "count": 1151
     },
     {
       "district": "성남시",
@@ -127,7 +127,7 @@
     {
       "district": "의정부시",
       "districtSlug": "uijeongbu",
-      "count": 959
+      "count": 953
     },
     {
       "district": "의왕시",
@@ -142,12 +142,12 @@
     {
       "district": "양평군",
       "districtSlug": "yangpyeong",
-      "count": 234
+      "count": 227
     },
     {
       "district": "여주시",
       "districtSlug": "yeoju",
-      "count": 605
+      "count": 585
     },
     {
       "district": "연천군",
@@ -157,7 +157,7 @@
     {
       "district": "용인시",
       "districtSlug": "yongin",
-      "count": 1745
+      "count": 1688
     }
   ]
 }

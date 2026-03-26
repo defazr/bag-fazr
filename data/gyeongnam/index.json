@@ -2,22 +2,22 @@
   "region": "경상남도",
   "regionSlug": "gyeongnam",
   "updatedAt": "2026-03-26",
-  "totalCount": 4946,
+  "totalCount": 4768,
   "districts": [
     {
       "district": "창녕군",
       "districtSlug": "changnyeong",
-      "count": 116
+      "count": 113
     },
     {
       "district": "창원시",
       "districtSlug": "changwon",
-      "count": 433
+      "count": 430
     },
     {
       "district": "거창군",
       "districtSlug": "geochang",
-      "count": 189
+      "count": 188
     },
     {
       "district": "거제시",
@@ -27,7 +27,7 @@
     {
       "district": "김해시",
       "districtSlug": "gimhae",
-      "count": 1493
+      "count": 1401
     },
     {
       "district": "고성군",
@@ -42,7 +42,7 @@
     {
       "district": "함안군",
       "districtSlug": "haman",
-      "count": 134
+      "count": 133
     },
     {
       "district": "함양군",
@@ -57,7 +57,7 @@
     {
       "district": "진주시",
       "districtSlug": "jinju",
-      "count": 596
+      "count": 567
     },
     {
       "district": "밀양시",
@@ -67,12 +67,12 @@
     {
       "district": "남해군",
       "districtSlug": "namhae",
-      "count": 275
+      "count": 256
     },
     {
       "district": "사천시",
       "districtSlug": "sacheon",
-      "count": 111
+      "count": 99
     },
     {
       "district": "산청군",
@@ -87,12 +87,12 @@
     {
       "district": "의령군",
       "districtSlug": "uiryeong",
-      "count": 196
+      "count": 194
     },
     {
       "district": "양산시",
       "districtSlug": "yangsan",
-      "count": 803
+      "count": 787
     }
   ]
 }

@@ -4,7 +4,7 @@
   "district": "남원시",
   "districtSlug": "namwon",
   "updatedAt": "2026-03-26",
-  "totalCount": 357,
+  "totalCount": 340,
   "stores": [
     {
       "name": "동면슈퍼",
@@ -33,13 +33,6 @@
       "roadAddress": "전북특별자치도 남원시 인월면 인월1길 56",
       "status": "영업/정상",
       "licenseDate": ""
-    },
-    {
-      "name": "한일슈퍼",
-      "address": "전북특별자치도 남원시 인월면 인월리 252-1",
-      "roadAddress": "전북특별자치도 남원시 인월면 인월로 65-3",
-      "status": "영업/정상",
-      "licenseDate": "2000-02-09"
     },
     {
       "name": "한일슈퍼",
@@ -616,13 +609,6 @@
       "licenseDate": "2000-02-10"
     },
     {
-      "name": "중앙슈퍼",
-      "address": "전북특별자치도 남원시 노암동 597-25",
-      "roadAddress": "전북특별자치도 남원시 여수2길 25  (노암동)",
-      "status": "영업/정상",
-      "licenseDate": "2000-02-10"
-    },
-    {
       "name": "지산상회",
       "address": "전북특별자치도 남원시 쌍교동 85-8",
       "roadAddress": "전북특별자치도 남원시 남문로 484  (쌍교동)",
@@ -742,13 +728,6 @@
       "licenseDate": "2000-02-09"
     },
     {
-      "name": "중앙슈퍼",
-      "address": "전북특별자치도 남원시 노암동 597-25",
-      "roadAddress": "전북특별자치도 남원시 여수2길 25  (노암동)",
-      "status": "영업/정상",
-      "licenseDate": "2000-02-09"
-    },
-    {
       "name": "금남슈퍼",
       "address": "전북특별자치도 남원시 노암동 612-1",
       "roadAddress": "",
@@ -794,13 +773,6 @@
       "name": "아리랑슈퍼",
       "address": "전북특별자치도 남원시 노암동 597-36",
       "roadAddress": "전북특별자치도 남원시 여수길 32-30  (노암동)",
-      "status": "영업/정상",
-      "licenseDate": "2000-02-09"
-    },
-    {
-      "name": "주공슈퍼",
-      "address": "전북특별자치도 남원시 노암동 275",
-      "roadAddress": "전북특별자치도 남원시 노송로 1255-9  (노암동)",
       "status": "영업/정상",
       "licenseDate": "2000-02-09"
     },
@@ -1232,13 +1204,6 @@
       "licenseDate": "2000-02-15"
     },
     {
-      "name": "서남슈퍼",
-      "address": "전북특별자치도 남원시 광치동 632-4",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-02-15"
-    },
-    {
       "name": "SM슈퍼",
       "address": "전북특별자치도 남원시 광치동 634-4",
       "roadAddress": "전북특별자치도 남원시 율치길 19  (광치동)",
@@ -1246,23 +1211,9 @@
       "licenseDate": "2000-02-15"
     },
     {
-      "name": "늘푸른슈퍼",
-      "address": "전북특별자치도 남원시 광치동 708-12",
-      "roadAddress": "전북특별자치도 남원시 솔터길 92-4  (광치동)",
-      "status": "영업/정상",
-      "licenseDate": "2000-02-15"
-    },
-    {
       "name": "율치슈퍼",
       "address": "전북특별자치도 남원시 광치동 605-3",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-02-15"
-    },
-    {
-      "name": "성실슈퍼",
-      "address": "전북특별자치도 남원시 향교동 1051-2",
-      "roadAddress": "전북특별자치도 남원시 옥정1길 131  (향교동)",
       "status": "영업/정상",
       "licenseDate": "2000-02-15"
     },
@@ -1508,13 +1459,6 @@
       "name": "축협판매장",
       "address": "전북특별자치도 남원시 도통동 535-1",
       "roadAddress": "전북특별자치도 남원시 시청로 52  (도통동)",
-      "status": "영업/정상",
-      "licenseDate": "2000-02-15"
-    },
-    {
-      "name": "우리슈퍼",
-      "address": "전북특별자치도 남원시 도통동 498-3",
-      "roadAddress": "전북특별자치도 남원시 용중1길 30  (도통동)",
       "status": "영업/정상",
       "licenseDate": "2000-02-15"
     },
@@ -1799,37 +1743,9 @@
       "licenseDate": "2000-02-10"
     },
     {
-      "name": "연초판매소",
-      "address": "전북특별자치도 남원시 수지면 유암리 217",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-02-10"
-    },
-    {
-      "name": "연초판매소",
-      "address": "전북특별자치도 남원시 수지면 유암리 217",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-02-10"
-    },
-    {
-      "name": "연초판매소",
-      "address": "전북특별자치도 남원시 수지면 유암리 217",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-02-10"
-    },
-    {
       "name": "갈촌리장",
       "address": "전북특별자치도 남원시 수지면 유암리 364",
       "roadAddress": "전북특별자치도 남원시 수지면 갈촌길 23",
-      "status": "영업/정상",
-      "licenseDate": "2000-02-10"
-    },
-    {
-      "name": "농협연쇄점",
-      "address": "전북특별자치도 남원시 주생면 제천리 71-7",
-      "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2000-02-10"
     },
@@ -1997,13 +1913,6 @@
     {
       "name": "영촌구판장",
       "address": "전북특별자치도 남원시 주생면 영천리 484",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-02-12"
-    },
-    {
-      "name": "농협연쇄점",
-      "address": "전북특별자치도 남원시 주생면 제천리 71-7",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2000-02-12"
@@ -2366,13 +2275,6 @@
       "licenseDate": "2000-02-09"
     },
     {
-      "name": "구판장",
-      "address": "전북특별자치도 남원시 덕과면 고정리 706",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-02-10"
-    },
-    {
       "name": "식련구판장",
       "address": "전북특별자치도 남원시 산동면 식련리 357",
       "roadAddress": "",
@@ -2394,13 +2296,6 @@
       "licenseDate": ""
     },
     {
-      "name": "구판장",
-      "address": "전북특별자치도 남원시 덕과면 고정리 706",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-02-10"
-    },
-    {
       "name": "산동상회",
       "address": "전북특별자치도 남원시 산동면 태평리 184",
       "roadAddress": "",
@@ -2410,13 +2305,6 @@
     {
       "name": "대촌이장댁",
       "address": "전북특별자치도 남원시 산동면 대기리 861",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-02-10"
-    },
-    {
-      "name": "구판장",
-      "address": "전북특별자치도 남원시 덕과면 고정리 706",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2000-02-10"
@@ -2474,13 +2362,6 @@
       "name": "인월청과",
       "address": "전북특별자치도 남원시 인월면 인월리 236-1",
       "roadAddress": "전북특별자치도 남원시 인월면 인월남길 4",
-      "status": "영업/정상",
-      "licenseDate": "2000-02-09"
-    },
-    {
-      "name": "만물슈퍼",
-      "address": "전북특별자치도 남원시 향교동 280",
-      "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2000-02-09"
     },

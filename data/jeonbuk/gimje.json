@@ -4,7 +4,7 @@
   "district": "김제시",
   "districtSlug": "gimje",
   "updatedAt": "2026-03-26",
-  "totalCount": 80,
+  "totalCount": 79,
   "stores": [
     {
       "name": "터미널슈퍼",
@@ -124,13 +124,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
-    },
-    {
-      "name": "정읍상회",
-      "address": "전북특별자치도 김제시 검산동 707",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1998-10-19"
     },
     {
       "name": "부영마트",

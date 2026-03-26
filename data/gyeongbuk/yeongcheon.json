@@ -4,7 +4,7 @@
   "district": "영천시",
   "districtSlug": "yeongcheon",
   "updatedAt": "2026-03-26",
-  "totalCount": 495,
+  "totalCount": 488,
   "stores": [
     {
       "name": "3",
@@ -163,27 +163,6 @@
     {
       "name": "청호아파트103동관리실",
       "address": "경상북도 영천시 망정동 177-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-01"
-    },
-    {
-      "name": "청호아파트103동관리실",
-      "address": "경상북도 영천시 망정동 177-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-01"
-    },
-    {
-      "name": "청호아파트103동관리실",
-      "address": "경상북도 영천시 망정동 177-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-01"
-    },
-    {
-      "name": "청구1관리실",
-      "address": "경상북도 영천시 야사동 350-1",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1994-12-01"
@@ -994,13 +973,6 @@
       "licenseDate": "1994-12-01"
     },
     {
-      "name": "매일슈퍼",
-      "address": "경상북도 영천시 성내동 237-5",
-      "roadAddress": "경상북도 영천시 수원지길 49  (성내동)",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-01"
-    },
-    {
       "name": "새마을슈퍼",
       "address": "경상북도 영천시 성내동 245",
       "roadAddress": "",
@@ -1237,13 +1209,6 @@
       "roadAddress": "경상북도 영천시 포은로 85  (언하동)",
       "status": "영업/정상",
       "licenseDate": "2000-02-29"
-    },
-    {
-      "name": "행복슈퍼",
-      "address": "경상북도 영천시 문외동 9-48",
-      "roadAddress": "경상북도 영천시 무궁화길 74-1  (문외동)",
-      "status": "영업/정상",
-      "licenseDate": "2000-03-25"
     },
     {
       "name": "칠성종합쇼핑",
@@ -1932,13 +1897,6 @@
       "licenseDate": "1994-12-01"
     },
     {
-      "name": "작산상회",
-      "address": "경상북도 영천시 작산동 88",
-      "roadAddress": "경상북도 영천시 범어1길 17  (작산동)",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-01"
-    },
-    {
       "name": "삼거리상회",
       "address": "경상북도 영천시 채신동 340-2",
       "roadAddress": "",
@@ -2166,13 +2124,6 @@
       "name": "리장댁",
       "address": "경상북도 영천시 청통면 신덕리 723",
       "roadAddress": "경상북도 영천시 청통면 성골길 111-21",
-      "status": "영업/정상",
-      "licenseDate": "1995-03-14"
-    },
-    {
-      "name": "리장댁",
-      "address": "경상북도 영천시 청통면 죽정리 123",
-      "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1995-03-14"
     },

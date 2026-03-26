@@ -4,7 +4,7 @@
   "district": "옹진군",
   "districtSlug": "ongjin",
   "updatedAt": "2026-03-26",
-  "totalCount": 77,
+  "totalCount": 76,
   "stores": [
     {
       "name": "선창식당",
@@ -422,13 +422,6 @@
     {
       "name": "부두상회",
       "address": "인천광역시 옹진군 북도면 신도리 506-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "한빛마트",
-      "address": "인천광역시 옹진군 영흥면 외리 909-10",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""

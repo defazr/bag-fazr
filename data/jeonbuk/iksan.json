@@ -4,7 +4,7 @@
   "district": "익산시",
   "districtSlug": "iksan",
   "updatedAt": "2026-03-26",
-  "totalCount": 321,
+  "totalCount": 318,
   "stores": [
     {
       "name": "OK24시편의점",
@@ -548,13 +548,6 @@
     {
       "name": "보라매슈퍼",
       "address": "전북특별자치도 익산시 주현동 한양아파트상가",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "번영슈퍼",
-      "address": "전북특별자치도 익산시 모현동1가 234-25",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1736,13 +1729,6 @@
       "licenseDate": ""
     },
     {
-      "name": "익산슈퍼",
-      "address": "전북특별자치도 익산시 인화동2가 92-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "이리농업협동조합",
       "address": "전북특별자치도 익산시 인화동2가 95-1",
       "roadAddress": "",
@@ -1962,13 +1948,6 @@
     {
       "name": "우리상회",
       "address": "전북특별자치도 익산시 갈산동 323-13",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "승민슈퍼",
-      "address": "전북특별자치도 익산시 마동 348-7",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""

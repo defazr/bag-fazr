@@ -4,7 +4,7 @@
   "district": "보령시",
   "districtSlug": "boryeong",
   "updatedAt": "2026-03-26",
-  "totalCount": 584,
+  "totalCount": 582,
   "stores": [
     {
       "name": "이일재",
@@ -2884,13 +2884,6 @@
       "licenseDate": ""
     },
     {
-      "name": "웅천지물포",
-      "address": "충청남도 보령시 웅천읍 대창리 348-4",
-      "roadAddress": "충청남도 보령시 웅천읍 장터중앙길 107",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "현진슈퍼",
       "address": "충청남도 보령시 대천동 183",
       "roadAddress": "",
@@ -3083,13 +3076,6 @@
       "name": "와바24시편의점",
       "address": "충청남도 보령시 죽정동 대우 102동 903호",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "건우슈퍼",
-      "address": "충청남도 보령시 내항동 472-1",
-      "roadAddress": "충청남도 보령시 여상길 45  (내항동)",
       "status": "영업/정상",
       "licenseDate": ""
     },

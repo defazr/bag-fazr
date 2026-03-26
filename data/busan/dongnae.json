@@ -4,7 +4,7 @@
   "district": "동래구",
   "districtSlug": "dongnae",
   "updatedAt": "2026-03-26",
-  "totalCount": 240,
+  "totalCount": 239,
   "stores": [
     {
       "name": "럭키슈퍼",
@@ -1045,13 +1045,6 @@
     {
       "name": "슈퍼마켙",
       "address": "부산광역시 동래구 명장동 140-18",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "상점",
-      "address": "부산광역시 동래구 명장동 145-9",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""

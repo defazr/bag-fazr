@@ -4,7 +4,7 @@
   "district": "완주군",
   "districtSlug": "wanju",
   "updatedAt": "2026-03-26",
-  "totalCount": 319,
+  "totalCount": 316,
   "stores": [
     {
       "name": "세븐일레븐 삼례퍼스트점",
@@ -672,13 +672,6 @@
       "licenseDate": "2017-07-10"
     },
     {
-      "name": "완주로컬푸드 협동조합",
-      "address": "",
-      "roadAddress": "전북특별자치도 완주군 구이면 모악산길 95",
-      "status": "영업/정상",
-      "licenseDate": "2017-07-20"
-    },
-    {
       "name": "CU화심로드점",
       "address": "전북특별자치도 완주군 소양면 화심리 123-2",
       "roadAddress": "전북특별자치도 완주군 소양면 상관소양로 1112, 1층",
@@ -1181,13 +1174,6 @@
       "roadAddress": "전북특별자치도 완주군 봉동읍 봉동로 808",
       "status": "영업/정상",
       "licenseDate": "2021-03-15"
-    },
-    {
-      "name": "숲내음",
-      "address": "전북특별자치도 완주군 상관면 죽림리 628-8",
-      "roadAddress": "전북특별자치도 완주군 상관면 죽림편백길 143-2",
-      "status": "영업/정상",
-      "licenseDate": "2021-03-30"
     },
     {
       "name": "육일철물",
@@ -1935,13 +1921,6 @@
       "name": "세븐일레븐봉동아리랑휴게소점",
       "address": "",
       "roadAddress": "전북특별자치도 완주군 봉동읍 봉동로 712",
-      "status": "영업/정상",
-      "licenseDate": "2013-09-26"
-    },
-    {
-      "name": "씨유완주고산점",
-      "address": "",
-      "roadAddress": "전북특별자치도 완주군 고산면 읍내1길 3",
       "status": "영업/정상",
       "licenseDate": "2013-09-26"
     },

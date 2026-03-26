@@ -1,91 +1,91 @@
 {
   "updatedAt": "2026-03-26",
-  "totalCount": 72236,
+  "totalCount": 69615,
   "regions": [
     {
       "region": "서울특별시",
       "regionSlug": "seoul",
-      "count": 13523
+      "count": 3124
     },
     {
       "region": "부산광역시",
       "regionSlug": "busan",
-      "count": 2696
+      "count": 4190
     },
     {
       "region": "대구광역시",
       "regionSlug": "daegu",
-      "count": 2100
+      "count": 4792
     },
     {
       "region": "인천광역시",
       "regionSlug": "incheon",
-      "count": 1123
+      "count": 1146
     },
     {
       "region": "광주광역시",
       "regionSlug": "gwangju",
-      "count": 12
+      "count": 2530
     },
     {
       "region": "대전광역시",
       "regionSlug": "daejeon",
-      "count": 913
+      "count": 2230
     },
     {
       "region": "울산광역시",
       "regionSlug": "ulsan",
-      "count": 0
+      "count": 1397
     },
     {
       "region": "세종특별자치시",
       "regionSlug": "sejong",
-      "count": 0
+      "count": 173
     },
     {
       "region": "경기도",
       "regionSlug": "gyeonggi",
-      "count": 15751
+      "count": 15262
     },
     {
       "region": "강원특별자치도",
       "regionSlug": "gangwon",
-      "count": 3942
+      "count": 3815
     },
     {
       "region": "충청북도",
       "regionSlug": "chungbuk",
-      "count": 2547
+      "count": 2372
     },
     {
       "region": "충청남도",
       "regionSlug": "chungnam",
-      "count": 4884
+      "count": 4824
     },
     {
       "region": "전북특별자치도",
       "regionSlug": "jeonbuk",
-      "count": 5370
+      "count": 5200
     },
     {
       "region": "전라남도",
       "regionSlug": "jeonnam",
-      "count": 7117
+      "count": 6752
     },
     {
       "region": "경상북도",
       "regionSlug": "gyeongbuk",
-      "count": 6484
+      "count": 6223
     },
     {
       "region": "경상남도",
       "regionSlug": "gyeongnam",
-      "count": 4946
+      "count": 4768
     },
     {
       "region": "제주특별자치도",
       "regionSlug": "jeju",
-      "count": 828
+      "count": 817
     }
   ]
 }

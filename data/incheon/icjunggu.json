@@ -1,0 +1,584 @@
+{
+  "region": "인천광역시",
+  "regionSlug": "incheon",
+  "district": "중구",
+  "districtSlug": "icjunggu",
+  "updatedAt": "2026-03-26",
+  "totalCount": 82,
+  "stores": [
+    {
+      "name": "(주)롯데마트 항동점",
+      "address": "인천광역시 중구 항동7가 76-2",
+      "roadAddress": "인천광역시 중구 서해대로209번길 2  (항동7가)",
+      "status": "영업/정상",
+      "licenseDate": "2007-08-27"
+    },
+    {
+      "name": "대인슈퍼",
+      "address": "인천광역시 중구 중앙동4가 2-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "송도미니마트",
+      "address": "인천광역시 중구 답동 36 12통1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "바이더웨이신포만남점",
+      "address": "인천광역시 중구 사동 28-18 4통3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "답동슈퍼",
+      "address": "인천광역시 중구 답동 19 11통3반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "신흥식품",
+      "address": "인천광역시 중구 답동 11 10통2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "럭키상회",
+      "address": "인천광역시 중구 항동7가 65",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "인천상회",
+      "address": "인천광역시 중구 항동7가 87-2번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "성한할인공판장",
+      "address": "인천광역시 중구 항동7가 27-37번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "대창마트",
+      "address": "인천광역시 중구 항동7가 58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-26"
+    },
+    {
+      "name": "연흥슈퍼",
+      "address": "인천광역시 중구 항동7가 65",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "라이프마트",
+      "address": "인천광역시 중구 항동7가 58-98번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "신화마트",
+      "address": "인천광역시 중구 신흥동2가 4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "대원상회",
+      "address": "인천광역시 중구 선화동 30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "김천상회",
+      "address": "인천광역시 중구 선화동 22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "가정지업사",
+      "address": "인천광역시 중구 선화동 29-7번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "신흥유통",
+      "address": "인천광역시 중구 신흥동2가 22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "성진상회",
+      "address": "인천광역시 중구 신흥동3가 18-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "대성문구",
+      "address": "인천광역시 중구 신흥동3가 18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "도원슈퍼",
+      "address": "인천광역시 중구 도원동 18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "우성슈퍼",
+      "address": "인천광역시 중구 도원동 30-46번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "사철과일",
+      "address": "인천광역시 중구 도원동 21-101번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "성원슈퍼",
+      "address": "인천광역시 중구 도원동 18-66번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "공원슈퍼",
+      "address": "인천광역시 중구 율목동 245-34번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "충남슈퍼",
+      "address": "인천광역시 중구 율목동 236-8번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "인천광역시 중구 율목동 247-13번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "유동슈퍼",
+      "address": "인천광역시 중구 유동 27-1번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "율목슈퍼",
+      "address": "인천광역시 중구 율목동 196",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "인천광역시 중구 율목동 42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "삼보슈퍼",
+      "address": "인천광역시 중구 율목동 53-1번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "진주식품",
+      "address": "인천광역시 중구 용동 203",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "인천광역시 중구 경동 194-1번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "단골상회",
+      "address": "인천광역시 중구 내동 12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "풍미슈퍼",
+      "address": "인천광역시 중구 내동 212",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "썬마트",
+      "address": "인천광역시 중구 전동 15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "미도슈퍼",
+      "address": "인천광역시 중구 송학동3가 7통12반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-31"
+    },
+    {
+      "name": "해양사",
+      "address": "인천광역시 중구 항동7가 60",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-29"
+    },
+    {
+      "name": "만물상회",
+      "address": "인천광역시 중구 항동7가 60",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-13"
+    },
+    {
+      "name": "해양센타",
+      "address": "인천광역시 중구 항동7가 60",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-21"
+    },
+    {
+      "name": "삼익슈퍼",
+      "address": "인천광역시 중구 신흥동2가 54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-22"
+    },
+    {
+      "name": "담배소매점",
+      "address": "인천광역시 중구 인현동 8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-17"
+    },
+    {
+      "name": "영광슈퍼",
+      "address": "인천광역시 중구 해안동1가 1-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해촌",
+      "address": "인천광역시 중구 항동7가 60 해양센터206호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "요식업조합앞",
+      "address": "인천광역시 중구 중앙동2가 20-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "기상대슈퍼",
+      "address": "인천광역시 중구 송학동3가 3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배가게",
+      "address": "인천광역시 중구 송월동1가 9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장원슈퍼",
+      "address": "인천광역시 중구 송월동1가 11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송월슈퍼",
+      "address": "인천광역시 중구 송월동1가 10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송월식품",
+      "address": "인천광역시 중구 송월동1가 4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니마트",
+      "address": "인천광역시 중구 송월동3가 16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대마트",
+      "address": "인천광역시 중구 도원동 28-65번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-16"
+    },
+    {
+      "name": "새로나슈퍼",
+      "address": "인천광역시 중구 송월동3가 3-92 13통2반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-05"
+    },
+    {
+      "name": "동현슈퍼",
+      "address": "인천광역시 중구 내동 155-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-05"
+    },
+    {
+      "name": "공항슈퍼",
+      "address": "인천광역시 중구 운서동 2172-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-18"
+    },
+    {
+      "name": "신나라슈퍼",
+      "address": "인천광역시 중구 중산동 1002-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-04"
+    },
+    {
+      "name": "사철과일",
+      "address": "인천광역시 중구 도원동 21-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-23"
+    },
+    {
+      "name": "새로나슈퍼",
+      "address": "인천광역시 중구 경동 121-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-04"
+    },
+    {
+      "name": "동인천슈퍼",
+      "address": "인천광역시 중구 인현동 1-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-17"
+    },
+    {
+      "name": "엑스포마트",
+      "address": "인천광역시 중구 중앙동4가 1-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-17"
+    },
+    {
+      "name": "우성슈퍼",
+      "address": "인천광역시 중구 도원동 30-46",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-27"
+    },
+    {
+      "name": "대왕종합상사",
+      "address": "인천광역시 중구 중산동 1329-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-06"
+    },
+    {
+      "name": "주영상사",
+      "address": "인천광역시 중구 도원동 21-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-06"
+    },
+    {
+      "name": "담수상회",
+      "address": "인천광역시 중구 항동1가 2-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대인슈퍼",
+      "address": "인천광역시 중구 경동 2-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연백슈퍼",
+      "address": "인천광역시 중구 경동 2-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "맘모스비디오",
+      "address": "인천광역시 중구 경동 6-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥상사",
+      "address": "인천광역시 중구 관동1가 3-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-04"
+    },
+    {
+      "name": "삼일지업사",
+      "address": "인천광역시 중구 신포동 12-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-25"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "인천광역시 중구 신흥동3가 35-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-06"
+    },
+    {
+      "name": "럭키중앙슈퍼",
+      "address": "인천광역시 중구 선화동 1-10 1/1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-02"
+    },
+    {
+      "name": "훼밀리마트신흥점",
+      "address": "인천광역시 중구 신흥동3가 31-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-04"
+    },
+    {
+      "name": "햇살마트",
+      "address": "인천광역시 중구 도원동 38-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-07"
+    },
+    {
+      "name": "현대할인마트",
+      "address": "인천광역시 중구 신흥동3가 7-326 현대상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-15"
+    },
+    {
+      "name": "24시종합마트",
+      "address": "인천광역시 중구 신흥동3가 30-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-05"
+    },
+    {
+      "name": "랑슈퍼",
+      "address": "인천광역시 중구 율목동 231-79",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-24"
+    },
+    {
+      "name": "소망마트",
+      "address": "인천광역시 중구 답동 37-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-23"
+    },
+    {
+      "name": "연안할인공판장",
+      "address": "인천광역시 중구 항동7가 58-3번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-10"
+    },
+    {
+      "name": "신포마트",
+      "address": "인천광역시 중구 신포동 35-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-21"
+    },
+    {
+      "name": "롯데마트",
+      "address": "인천광역시 중구 항동7가 76-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-08-31"
+    },
+    {
+      "name": "율목할인마트",
+      "address": "인천광역시 중구 유동 30-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-18"
+    },
+    {
+      "name": "터줏골마트",
+      "address": "인천광역시 중구 중앙동1가 6통1반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-07-08"
+    },
+    {
+      "name": "으뜸상회",
+      "address": "인천광역시 중구 신흥동2가 22-74",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-02-27"
+    }
+  ]
+}

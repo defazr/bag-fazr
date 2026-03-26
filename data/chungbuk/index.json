@@ -2,17 +2,17 @@
   "region": "충청북도",
   "regionSlug": "chungbuk",
   "updatedAt": "2026-03-26",
-  "totalCount": 2547,
+  "totalCount": 2372,
   "districts": [
     {
       "district": "보은군",
       "districtSlug": "boeun",
-      "count": 175
+      "count": 167
     },
     {
       "district": "청주시",
       "districtSlug": "cheongju",
-      "count": 1011
+      "count": 973
     },
     {
       "district": "충주시",
@@ -22,7 +22,7 @@
     {
       "district": "단양군",
       "districtSlug": "danyang",
-      "count": 121
+      "count": 119
     },
     {
       "district": "음성군",
@@ -37,27 +37,27 @@
     {
       "district": "제천시",
       "districtSlug": "jecheon",
-      "count": 704
+      "count": 591
     },
     {
       "district": "증평군",
       "districtSlug": "jeungpyeong",
-      "count": 172
+      "count": 169
     },
     {
       "district": "진천군",
       "districtSlug": "jincheon",
-      "count": 125
+      "count": 116
     },
     {
       "district": "옥천군",
       "districtSlug": "okcheon",
-      "count": 121
+      "count": 120
     },
     {
       "district": "영동군",
       "districtSlug": "yeongdong",
-      "count": 13
+      "count": 12
     }
   ]
 }

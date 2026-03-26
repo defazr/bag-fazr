@@ -4,7 +4,7 @@
   "district": "상주시",
   "districtSlug": "sangju",
   "updatedAt": "2026-03-26",
-  "totalCount": 109,
+  "totalCount": 102,
   "stores": [
     {
       "name": "능암1리",
@@ -140,13 +140,6 @@
       "licenseDate": ""
     },
     {
-      "name": "태광종합장식",
-      "address": "경상북도 상주시 남성동 12-22",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "성주봉자연휴양림",
       "address": "경상북도 상주시 은척면 남곡리 산 50",
       "roadAddress": "경상북도 상주시 은척면 성주봉로 3",
@@ -184,13 +177,6 @@
     {
       "name": "일호상회",
       "address": "경상북도 상주시 은척면 봉중리 383-12",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "황령슈퍼",
-      "address": "경상북도 상주시 은척면 봉중리 386-6",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -420,13 +406,6 @@
       "licenseDate": "2018-02-01"
     },
     {
-      "name": "CU 상주화서점",
-      "address": "경상북도 상주시 화서면 신봉리 170-7",
-      "roadAddress": "경상북도 상주시 화서면 화령로 19",
-      "status": "영업/정상",
-      "licenseDate": "2018-05-23"
-    },
-    {
       "name": "웰마트",
       "address": "경상북도 상주시 화서면 신봉리 153-11",
       "roadAddress": "경상북도 상주시 화서면 화령로 10",
@@ -623,13 +602,6 @@
       "licenseDate": "2018-11-07"
     },
     {
-      "name": "미니스톱 상주복룡점",
-      "address": "경상북도 상주시 복룡동 283",
-      "roadAddress": "경상북도 상주시 삼백로 260 (복룡동)",
-      "status": "영업/정상",
-      "licenseDate": "2019-01-05"
-    },
-    {
       "name": "상주식자재마트",
       "address": "경상북도 상주시 복룡동 326 상주식자재마트",
       "roadAddress": "경상북도 상주시 복룡1길 30-14, 상주식자재마트 (복룡동)",
@@ -700,25 +672,11 @@
       "licenseDate": "2015-04-06"
     },
     {
-      "name": "CU 상주경북대리점",
-      "address": "경상북도 상주시 가장동 685",
-      "roadAddress": "경상북도 상주시 경상대로 2560-17 (가장동)",
-      "status": "영업/정상",
-      "licenseDate": "2016-11-03"
-    },
-    {
       "name": "GSV 편의점",
       "address": "경상북도 상주시 신봉동 513-6",
       "roadAddress": "경상북도 상주시 경상대로 2824-12 (신봉동)",
       "status": "영업/정상",
       "licenseDate": "2016-10-27"
-    },
-    {
-      "name": "세븐일레븐 상주신봉점",
-      "address": "경상북도 상주시 신봉동 603-1 명지3차아파트",
-      "roadAddress": "경상북도 상주시 경상대로 2749-10 (신봉동, 명지3차아파트)",
-      "status": "영업/정상",
-      "licenseDate": "2017-05-22"
     },
     {
       "name": "주)엠마트",
@@ -754,13 +712,6 @@
       "roadAddress": "경상북도 상주시 중동면 오상1길 25",
       "status": "영업/정상",
       "licenseDate": "2001-01-01"
-    },
-    {
-      "name": "싱싱마트",
-      "address": "경상북도 상주시 공검면 양정리 16-14",
-      "roadAddress": "경상북도 상주시 공검면 비재로 1349-1",
-      "status": "영업/정상",
-      "licenseDate": "2014-08-14"
     },
     {
       "name": "삼호산업개발(주)",

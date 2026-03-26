@@ -4,7 +4,7 @@
   "district": "무주군",
   "districtSlug": "muju",
   "updatedAt": "2026-03-26",
-  "totalCount": 186,
+  "totalCount": 175,
   "stores": [
     {
       "name": "이마트24",
@@ -210,13 +210,6 @@
       "licenseDate": "1995-01-21"
     },
     {
-      "name": "현대슈퍼",
-      "address": "전북특별자치도 무주군 무주읍 읍내리 994",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1995-01-21"
-    },
-    {
       "name": "무주제일건재",
       "address": "전북특별자치도 무주군 무주읍 읍내리 954",
       "roadAddress": "",
@@ -373,13 +366,6 @@
     {
       "name": "적상농협 연쇄점",
       "address": "전북특별자치도 무주군 적상면 사천리 323-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1995-01-21"
-    },
-    {
-      "name": "금강상회",
-      "address": "전북특별자치도 무주군 무주읍 용포리 486",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1995-01-21"
@@ -546,13 +532,6 @@
       "licenseDate": "1995-01-21"
     },
     {
-      "name": "마산상회",
-      "address": "전북특별자치도 무주군 안성면 장기리 1308-45",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1995-01-21"
-    },
-    {
       "name": "전옥분",
       "address": "전북특별자치도 무주군 안성면 장기리 1306-16",
       "roadAddress": "",
@@ -570,13 +549,6 @@
       "name": "한농상회",
       "address": "전북특별자치도 무주군 안성면 장기리 1511-46",
       "roadAddress": "전북특별자치도 무주군 안성면 칠연로 40-7",
-      "status": "영업/정상",
-      "licenseDate": "1995-01-21"
-    },
-    {
-      "name": "현대슈퍼",
-      "address": "전북특별자치도 무주군 무주읍 읍내리 994",
-      "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1995-01-21"
     },
@@ -604,13 +576,6 @@
     {
       "name": "달동네슈퍼",
       "address": "전북특별자치도 무주군 안성면 사전리 1330",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1995-01-21"
-    },
-    {
-      "name": "중앙상회",
-      "address": "전북특별자치도 무주군 설천면 소천리 1043-14",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1995-01-21"
@@ -686,13 +651,6 @@
       "licenseDate": "1995-01-21"
     },
     {
-      "name": "중앙상회",
-      "address": "전북특별자치도 무주군 설천면 소천리 1043-14",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1995-01-21"
-    },
-    {
       "name": "축협연쇄점",
       "address": "전북특별자치도 무주군 설천면 장덕리 178",
       "roadAddress": "",
@@ -730,13 +688,6 @@
     {
       "name": "신풍상회",
       "address": "전북특별자치도 무주군 설천면 기곡리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1995-01-21"
-    },
-    {
-      "name": "형제상회",
-      "address": "전북특별자치도 무주군 무주읍 읍내리 876-10",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1995-01-21"
@@ -1092,13 +1043,6 @@
       "licenseDate": "2022-09-16"
     },
     {
-      "name": "세븐일레븐 무주향교점",
-      "address": "전북특별자치도 무주군 무주읍 읍내리 118-13",
-      "roadAddress": "전북특별자치도 무주군 무주읍 단천로 145",
-      "status": "영업/정상",
-      "licenseDate": "2022-10-17"
-    },
-    {
       "name": "씨유 무주구천동점",
       "address": "전북특별자치도 무주군 설천면 삼공리 524-3",
       "roadAddress": "전북특별자치도 무주군 설천면 구천동1로 150",
@@ -1132,27 +1076,6 @@
       "roadAddress": "전북특별자치도 무주군 무주읍 당산강변로 240, 104호 (리버캐슬)",
       "status": "영업/정상",
       "licenseDate": "2023-02-06"
-    },
-    {
-      "name": "구천동농협 무풍지점",
-      "address": "전북특별자치도 무주군 설천면 소천리 904-34 구천동농협",
-      "roadAddress": "전북특별자치도 무주군 설천면 삼도봉로 6, 구천동농협",
-      "status": "영업/정상",
-      "licenseDate": "2023-07-10"
-    },
-    {
-      "name": "구천동농협 무풍지점",
-      "address": "전북특별자치도 무주군 설천면 소천리 904-34 구천동농협",
-      "roadAddress": "전북특별자치도 무주군 설천면 삼도봉로 6, 구천동농협",
-      "status": "영업/정상",
-      "licenseDate": "2023-07-10"
-    },
-    {
-      "name": "구천동농협 무풍지점",
-      "address": "전북특별자치도 무주군 설천면 소천리 904-34 구천동농협",
-      "roadAddress": "전북특별자치도 무주군 설천면 삼도봉로 6, 구천동농협",
-      "status": "영업/정상",
-      "licenseDate": "2023-07-10"
     },
     {
       "name": "구천동농협 무풍지점",

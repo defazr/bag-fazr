@@ -2,47 +2,47 @@
   "region": "부산광역시",
   "regionSlug": "busan",
   "updatedAt": "2026-03-26",
-  "totalCount": 2696,
+  "totalCount": 4190,
   "districts": [
     {
       "district": "북구",
       "districtSlug": "bsbukgu",
-      "count": 0
+      "count": 1
     },
     {
       "district": "동구",
       "districtSlug": "bsdonggu",
-      "count": 0
+      "count": 612
     },
     {
       "district": "강서구",
       "districtSlug": "bsgangseo",
-      "count": 0
+      "count": 138
     },
     {
       "district": "중구",
       "districtSlug": "bsjunggu",
-      "count": 0
+      "count": 357
     },
     {
       "district": "남구",
       "districtSlug": "bsnamgu",
-      "count": 0
+      "count": 503
     },
     {
       "district": "서구",
       "districtSlug": "bsseogu",
-      "count": 0
+      "count": 2
     },
     {
       "district": "부산진구",
       "districtSlug": "busanjin",
-      "count": 381
+      "count": 321
     },
     {
       "district": "동래구",
       "districtSlug": "dongnae",
-      "count": 240
+      "count": 239
     },
     {
       "district": "금정구",
@@ -57,22 +57,22 @@
     {
       "district": "해운대구",
       "districtSlug": "haeundae",
-      "count": 338
+      "count": 337
     },
     {
       "district": "사하구",
       "districtSlug": "saha",
-      "count": 162
+      "count": 155
     },
     {
       "district": "사상구",
       "districtSlug": "sasang",
-      "count": 465
+      "count": 463
     },
     {
       "district": "수영구",
       "districtSlug": "suyeong",
-      "count": 540
+      "count": 492
     },
     {
       "district": "영도구",

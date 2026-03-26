@@ -4,7 +4,7 @@
   "district": "순천시",
   "districtSlug": "suncheon",
   "updatedAt": "2026-03-26",
-  "totalCount": 476,
+  "totalCount": 456,
   "stores": [
     {
       "name": "광주지방법원 순천지원",
@@ -506,13 +506,6 @@
     {
       "name": "앤트25시",
       "address": "전라남도 순천시 인제동 99-5",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "주택슈퍼",
-      "address": "전라남도 순천시 남정동 550-11",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1106,13 +1099,6 @@
       "licenseDate": ""
     },
     {
-      "name": "부덕슈퍼",
-      "address": "전라남도 순천시 주암면 광천리 775",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "농협연쇄점",
       "address": "전라남도 순천시 주암면 광천리 185",
       "roadAddress": "전라남도 순천시 주암면 주석로 5",
@@ -1199,13 +1185,6 @@
     {
       "name": "코사마트덕진점",
       "address": "전라남도 순천시 생목동 50-7",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "블루마트",
-      "address": "전라남도 순천시 가곡동 1001-9",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1428,13 +1407,6 @@
       "licenseDate": ""
     },
     {
-      "name": "승주우체국",
-      "address": "전라남도 순천시 승주읍 평중리 50-5",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "월등 우체국",
       "address": "전라남도 순천시 월등면 대평리",
       "roadAddress": "",
@@ -1645,22 +1617,8 @@
       "licenseDate": ""
     },
     {
-      "name": "향림슈퍼",
-      "address": "전라남도 순천시 석현동 469",
-      "roadAddress": "전라남도 순천시 석현안길 22  (석현동)",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "코도롱유통(주)연향점",
       "address": "전라남도 순천시 연향동 1370-16",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "삼각슈퍼",
-      "address": "전라남도 순천시 장천동 49-1",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1682,13 +1640,6 @@
     {
       "name": "주공마트",
       "address": "전라남도 순천시 조례동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "정유통",
-      "address": "전라남도 순천시 조례동 1659-1",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1876,29 +1827,8 @@
       "licenseDate": ""
     },
     {
-      "name": "현대설비",
-      "address": "전라남도 순천시 주암면 창촌리 253-6",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "세븐 마트",
       "address": "전라남도 순천시 해룡면 상삼리 부영 7차 상가",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "신영편의점",
-      "address": "전라남도 순천시 가곡동 202",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "라온마트",
-      "address": "전라남도 순천시 영동 49-1",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -2044,44 +1974,9 @@
       "licenseDate": ""
     },
     {
-      "name": "남암판매소",
-      "address": "전라남도 순천시 승주읍 월계리 455",
-      "roadAddress": "전라남도 순천시 승주읍 남암길 60",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "황전우체국",
-      "address": "전라남도 순천시 황전면 괴목리 8-4",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "월등우체국",
       "address": "전라남도 순천시 월등면 대평리 268",
       "roadAddress": "전라남도 순천시 월등면 월평1길 105",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "별량우체국",
-      "address": "전라남도 순천시 별량면 동송리 435-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "농협상사지소",
-      "address": "전라남도 순천시 상사면 흘산리 379-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "상사조절지댐매점",
-      "address": "전라남도 순천시 상사면 용계리 610-2",
-      "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
     },
@@ -2401,13 +2296,6 @@
       "licenseDate": ""
     },
     {
-      "name": "믿음슈퍼",
-      "address": "전라남도 순천시 연향동 1363-11",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "중앙슈퍼",
       "address": "전라남도 순천시 중앙동 110-3",
       "roadAddress": "",
@@ -2628,13 +2516,6 @@
       "name": "신흥슈퍼",
       "address": "전라남도 순천시 승주읍 서평리 425-7",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "농협연쇄점",
-      "address": "전라남도 순천시 주암면 광천리 185",
-      "roadAddress": "전라남도 순천시 주암면 주석로 5",
       "status": "영업/정상",
       "licenseDate": ""
     },
@@ -2940,22 +2821,8 @@
       "licenseDate": ""
     },
     {
-      "name": "믿음슈퍼",
-      "address": "전라남도 순천시 연향동 1363-11",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "수정슈퍼",
       "address": "전라남도 순천시 조곡동 394",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "믿음슈퍼",
-      "address": "전라남도 순천시 연향동 1363-11",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -3131,13 +2998,6 @@
     {
       "name": "왕지슈퍼",
       "address": "전라남도 순천시 조례동 605-57",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "삼산슈퍼",
-      "address": "전라남도 순천시 매곡동 50-67",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""

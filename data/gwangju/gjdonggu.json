@@ -1,0 +1,4000 @@
+{
+  "region": "광주광역시",
+  "regionSlug": "gwangju",
+  "district": "동구",
+  "districtSlug": "gjdonggu",
+  "updatedAt": "2026-03-26",
+  "totalCount": 570,
+  "stores": [
+    {
+      "name": "방글방글수퍼",
+      "address": "광주광역시 동구 학동 525-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "삼학수퍼",
+      "address": "광주광역시 동구 학동 37-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "수복수퍼",
+      "address": "광주광역시 동구 학동 939-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "웰빙마트",
+      "address": "광주광역시 동구 학동 270 현대아파트상가 105호 106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-08"
+    },
+    {
+      "name": "알곡수퍼",
+      "address": "광주광역시 동구 학동 880-523",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "알뜰소비자쇼핑",
+      "address": "광주광역시 동구 학동 898-89",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "알뜰수퍼",
+      "address": "광주광역시 동구 학동 46-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "영수퍼",
+      "address": "광주광역시 동구 학동 646-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "윤안수퍼",
+      "address": "광주광역시 동구 학동 880-366",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "진도수퍼",
+      "address": "광주광역시 동구 학동 81-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "특미상회",
+      "address": "광주광역시 동구 학동 55-57",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "현대수퍼",
+      "address": "광주광역시 동구 학동 916-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "호남지업사",
+      "address": "광주광역시 동구 학동 55-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "DC마트",
+      "address": "광주광역시 동구 학동 891-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "동국수퍼",
+      "address": "광주광역시 동구 학동 520-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "진선미",
+      "address": "광주광역시 동구 학동 637-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "새마을동구부녀회",
+      "address": "광주광역시 동구 학동 24-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "라인종합마트",
+      "address": "광주광역시 동구 운림동 5-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "목화수퍼",
+      "address": "광주광역시 동구 학동 873-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "서림쇼핑",
+      "address": "광주광역시 동구 운림동 603",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "아남마트",
+      "address": "광주광역시 동구 학동 676-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "코스코마트학동점",
+      "address": "광주광역시 동구 학동 719-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "태광상회",
+      "address": "광주광역시 동구 운림동 74-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "평화마트",
+      "address": "광주광역시 동구 학동 768",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "한마음슈퍼식육",
+      "address": "광주광역시 동구 운림동 628",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "에덴마트",
+      "address": "광주광역시 동구 학동 현대아파트상가 105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "고흥마트",
+      "address": "광주광역시 동구 학동 218-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "라인종합2차",
+      "address": "광주광역시 동구 학동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "대아할인마트",
+      "address": "광주광역시 동구 소태동 480-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "럭키수퍼",
+      "address": "광주광역시 동구 용산동 282-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "별수퍼",
+      "address": "광주광역시 동구 소태동 595",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "삼호수퍼",
+      "address": "광주광역시 동구 소태동 715",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "수정수퍼",
+      "address": "광주광역시 동구 소태동 717-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "용산수퍼",
+      "address": "광주광역시 동구 용산동 261-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "으뜸수퍼",
+      "address": "광주광역시 동구 소태동 678-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "코스코마켓지원점",
+      "address": "광주광역시 동구 소태동 532-68",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "행운수퍼",
+      "address": "광주광역시 동구 소태동 653-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "현대수퍼",
+      "address": "광주광역시 동구 소태동 650",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "호반수퍼",
+      "address": "광주광역시 동구 용산동 147-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "매일수퍼",
+      "address": "광주광역시 동구 소태동 706-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "선수퍼",
+      "address": "광주광역시 동구 소태동 562-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "전일수퍼",
+      "address": "광주광역시 동구 소태동 688",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "대광수퍼",
+      "address": "광주광역시 동구 소태동 602-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "삼원슈퍼",
+      "address": "광주광역시 동구 황금동 23-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-15"
+    },
+    {
+      "name": "영암수퍼",
+      "address": "광주광역시 동구 계림동 490-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-09"
+    },
+    {
+      "name": "지원수퍼",
+      "address": "광주광역시 동구 소태동 536-21 5통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-02"
+    },
+    {
+      "name": "미니스톱구시청점",
+      "address": "광주광역시 동구 광산동 62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-02"
+    },
+    {
+      "name": "광일상회",
+      "address": "광주광역시 동구 학동 55-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-02"
+    },
+    {
+      "name": "성심종합상사",
+      "address": "광주광역시 동구 지산동 232-73",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-02"
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "광주광역시 동구 금남로5가 89-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-02"
+    },
+    {
+      "name": "완도수퍼",
+      "address": "광주광역시 동구 계림동 239-90",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-02"
+    },
+    {
+      "name": "이화수퍼",
+      "address": "광주광역시 동구 학동 168",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-02"
+    },
+    {
+      "name": "무등수퍼",
+      "address": "광주광역시 동구 학동 631-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-02"
+    },
+    {
+      "name": "지아마트",
+      "address": "광주광역시 동구 황금동 69",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-02"
+    },
+    {
+      "name": "청호수퍼",
+      "address": "광주광역시 동구 서석동 419-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-06"
+    },
+    {
+      "name": "정도마트",
+      "address": "광주광역시 동구 학동 633-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-09"
+    },
+    {
+      "name": "이화수퍼",
+      "address": "광주광역시 동구 지산동 315-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-19"
+    },
+    {
+      "name": "행복수퍼",
+      "address": "광주광역시 동구 대인동 182-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-05"
+    },
+    {
+      "name": "금호수퍼",
+      "address": "광주광역시 동구 계림동 288-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-21"
+    },
+    {
+      "name": "동서수퍼",
+      "address": "광주광역시 동구 계림동 241-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-27"
+    },
+    {
+      "name": "와이마트킴스",
+      "address": "광주광역시 동구 금남로1가 19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-12"
+    },
+    {
+      "name": "신화니",
+      "address": "광주광역시 동구 충장로4가 14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-12"
+    },
+    {
+      "name": "뉴모닝마트",
+      "address": "광주광역시 동구 지산동 703-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-12"
+    },
+    {
+      "name": "이지마트",
+      "address": "광주광역시 동구 충장로1가 1-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-12"
+    },
+    {
+      "name": "한아름마트",
+      "address": "광주광역시 동구 대인동 308-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-12"
+    },
+    {
+      "name": "미니마트",
+      "address": "광주광역시 동구 계림동 429-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-12"
+    },
+    {
+      "name": "훼미리마트조선대점",
+      "address": "광주광역시 동구 지산동 510-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-07"
+    },
+    {
+      "name": "마운틴마트",
+      "address": "광주광역시 동구 지산동 711-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-03"
+    },
+    {
+      "name": "미니스톱그랜드점",
+      "address": "광주광역시 동구 광산동 86-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-03"
+    },
+    {
+      "name": "세라믹복지마트",
+      "address": "광주광역시 동구 학동 750-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-03"
+    },
+    {
+      "name": "세븐일레븐장동점",
+      "address": "광주광역시 동구 장동 79-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-31"
+    },
+    {
+      "name": "싱싱청과마트",
+      "address": "광주광역시 동구 산수동 539-86",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-14"
+    },
+    {
+      "name": "빛고을매점",
+      "address": "광주광역시 동구 계림동 288-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-14"
+    },
+    {
+      "name": "인성수산",
+      "address": "광주광역시 동구 산수동 510-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-10"
+    },
+    {
+      "name": "조은수퍼",
+      "address": "광주광역시 동구 학동 890-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-10"
+    },
+    {
+      "name": "운곡송미니마트",
+      "address": "광주광역시 동구 운림동 303",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-02"
+    },
+    {
+      "name": "코끼리문구할인마트",
+      "address": "광주광역시 동구 소태동 593",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-10"
+    },
+    {
+      "name": "전여고서점",
+      "address": "광주광역시 동구 장동 31-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "생활용품종합마트",
+      "address": "광주광역시 동구 금동 54-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-10"
+    },
+    {
+      "name": "한아름 DC마트",
+      "address": "광주광역시 동구 지산동 227-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-10"
+    },
+    {
+      "name": "세븐일레븐 조선대점",
+      "address": "광주광역시 동구 지산동 503-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-21"
+    },
+    {
+      "name": "영마트",
+      "address": "광주광역시 동구 장동 53-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-21"
+    },
+    {
+      "name": "해성마트",
+      "address": "광주광역시 동구 계림동 284-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-17"
+    },
+    {
+      "name": "광주수퍼",
+      "address": "광주광역시 동구 대인동 83-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-17"
+    },
+    {
+      "name": "조대24시편의점",
+      "address": "광주광역시 동구 지산동 476",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-17"
+    },
+    {
+      "name": "동명그린마트",
+      "address": "광주광역시 동구 동명동 140-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무등수퍼",
+      "address": "광주광역시 동구 계림동 478-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울미니마트",
+      "address": "광주광역시 동구 금남로5가 74-8 3통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개미수퍼",
+      "address": "광주광역시 동구 소태동 573-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "먹는것이최고야",
+      "address": "광주광역시 동구 장동 101-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "도울마트",
+      "address": "광주광역시 동구 학동 901-103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개미수퍼",
+      "address": "광주광역시 동구 계림동 69-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "메가마트",
+      "address": "광주광역시 동구 대의동 39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-10"
+    },
+    {
+      "name": "미니스톱빛고을점",
+      "address": "광주광역시 동구 광산동 23-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "거상유통",
+      "address": "광주광역시 동구 동명동 139-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호마트",
+      "address": "광주광역시 동구 소태동 717-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대영수퍼문구",
+      "address": "광주광역시 동구 산수동 552-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-16"
+    },
+    {
+      "name": "세븐일레븐학운점",
+      "address": "광주광역시 동구 학동 766-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한빛마트",
+      "address": "광주광역시 동구 소태동 909-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐계림점",
+      "address": "광주광역시 동구 계림동 553-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대인할인마트",
+      "address": "광주광역시 동구 대인동 323-11 우경빌딩1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-01"
+    },
+    {
+      "name": "도울마트",
+      "address": "광주광역시 동구 학동 735-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영광마트",
+      "address": "광주광역시 동구 소태동 566-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스토어산수점",
+      "address": "광주광역시 동구 산수동 559-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕성상회",
+      "address": "광주광역시 동구 호남동 35-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충장인업사",
+      "address": "광주광역시 동구 남동 112-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물마트",
+      "address": "광주광역시 동구 학동 734-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다모아마트",
+      "address": "광주광역시 동구 학동 92-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼호수퍼",
+      "address": "광주광역시 동구 계림동 539-37",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영선수퍼",
+      "address": "광주광역시 동구 남동 116-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "참마트",
+      "address": "광주광역시 동구 학동 633-3 정도프라자1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "깐돌이네수퍼",
+      "address": "광주광역시 동구 지산동 167-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광장편의점",
+      "address": "광주광역시 동구 동명동 240-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-06"
+    },
+    {
+      "name": "한빛마트지원점",
+      "address": "광주광역시 동구 소태동 565-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-06"
+    },
+    {
+      "name": "법원편의점",
+      "address": "광주광역시 동구 지산동 715-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-21"
+    },
+    {
+      "name": "광성수퍼",
+      "address": "광주광역시 동구 금남로5가 73",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-11"
+    },
+    {
+      "name": "금호마트",
+      "address": "광주광역시 동구 학동 261-1 상가 102, 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-13"
+    },
+    {
+      "name": "미니스톱서석점",
+      "address": "광주광역시 동구 서석동 97-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-19"
+    },
+    {
+      "name": "굿모닝마트",
+      "address": "광주광역시 동구 소태동 717-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-08"
+    },
+    {
+      "name": "훼미리마트대인점",
+      "address": "광주광역시 동구 대인동 323-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-22"
+    },
+    {
+      "name": "새로이마트",
+      "address": "광주광역시 동구 지산동 511-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-10"
+    },
+    {
+      "name": "A플러스마트",
+      "address": "광주광역시 동구 소태동 706-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-19"
+    },
+    {
+      "name": "뉴스코마켓산수점",
+      "address": "광주광역시 동구 산수동 533-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-26"
+    },
+    {
+      "name": "동신슈퍼",
+      "address": "광주광역시 동구 학동 901-312",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-06-26"
+    },
+    {
+      "name": "로데오백화점",
+      "address": "광주광역시 동구 계림동 485-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-18"
+    },
+    {
+      "name": "코리아세븐",
+      "address": "광주광역시 동구 호남동 37-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-10-13"
+    },
+    {
+      "name": "뉴스코마트서석점",
+      "address": "광주광역시 동구 서석동 46-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-16"
+    },
+    {
+      "name": "황금부식",
+      "address": "광주광역시 동구 황금동 86-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-02"
+    },
+    {
+      "name": "마운틴마트학동점",
+      "address": "광주광역시 동구 학동 750-75",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-07"
+    },
+    {
+      "name": "훼미리마트조대미대점",
+      "address": "광주광역시 동구 서석동 419-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-23"
+    },
+    {
+      "name": "남광주마트",
+      "address": "광주광역시 동구 학동 85-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-16"
+    },
+    {
+      "name": "도울마트",
+      "address": "광주광역시 동구 산수동 532-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-09-04"
+    },
+    {
+      "name": "싱싱청과물",
+      "address": "광주광역시 동구 지산동 174-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-27"
+    },
+    {
+      "name": "투데이24시편의점",
+      "address": "광주광역시 동구 계림동 556-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-10"
+    },
+    {
+      "name": "남원슈퍼",
+      "address": "광주광역시 동구 계림동 492-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-11"
+    },
+    {
+      "name": "코사마트산수점",
+      "address": "광주광역시 동구 산수동 553-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-24"
+    },
+    {
+      "name": "미니스톱소태점",
+      "address": "광주광역시 동구 소태동 722-70",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-19"
+    },
+    {
+      "name": "세븐일레븐지산점",
+      "address": "광주광역시 동구 지산동 462",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-11-28"
+    },
+    {
+      "name": "지산행복마트",
+      "address": "광주광역시 동구 지산동 703-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-12"
+    },
+    {
+      "name": "토토 로또사랑방",
+      "address": "광주광역시 동구 산수동 526-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-31"
+    },
+    {
+      "name": "GS25광주장동점",
+      "address": "광주광역시 동구 장동 84-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-15"
+    },
+    {
+      "name": "서울슈퍼",
+      "address": "광주광역시 동구 충장로1가 19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-18"
+    },
+    {
+      "name": "대경슈퍼",
+      "address": "광주광역시 동구 산수동 532-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-12-23"
+    },
+    {
+      "name": "월드마트",
+      "address": "광주광역시 동구 산수동 559-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-08"
+    },
+    {
+      "name": "해피휴게실(슈퍼)",
+      "address": "광주광역시 동구 서석동 46-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-16"
+    },
+    {
+      "name": "미니스톱 두암주공점",
+      "address": "광주광역시 동구 산수동 681-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 광주교대점",
+      "address": "광주광역시 동구 계림동 1092-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마운틴마트계림점",
+      "address": "광주광역시 동구 계림동 483-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-02"
+    },
+    {
+      "name": "누리네미곡상회",
+      "address": "광주광역시 동구 산수동 380-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-15"
+    },
+    {
+      "name": "코리아세븐대인점",
+      "address": "광주광역시 동구 대인동 323-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-07"
+    },
+    {
+      "name": "삼일슈퍼",
+      "address": "광주광역시 동구 금동 87-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-18"
+    },
+    {
+      "name": "희망마트",
+      "address": "광주광역시 동구 산수동 543-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-02-24"
+    },
+    {
+      "name": "푸른슈퍼",
+      "address": "광주광역시 동구 동명동 63",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-05"
+    },
+    {
+      "name": "훼미리마트조대후문점",
+      "address": "광주광역시 동구 지산동 520-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-08"
+    },
+    {
+      "name": "푸른마트",
+      "address": "광주광역시 동구 지산동 710-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-26"
+    },
+    {
+      "name": "선들마트",
+      "address": "광주광역시 동구 지산동 405-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-03-31"
+    },
+    {
+      "name": "굿모닝24시편의점",
+      "address": "광주광역시 동구 계림동 537-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-01"
+    },
+    {
+      "name": "하늘과땅(주)",
+      "address": "광주광역시 동구 계림동 464-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-02"
+    },
+    {
+      "name": "OK슈퍼",
+      "address": "광주광역시 동구 동명동 243-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-17"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "광주광역시 동구 궁동 68-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-07"
+    },
+    {
+      "name": "DAY365편의점",
+      "address": "광주광역시 동구 소태동 651-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-14"
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "광주광역시 동구 금남로1가 11-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-14"
+    },
+    {
+      "name": "부성수퍼",
+      "address": "광주광역시 동구 황금동 88",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-09"
+    },
+    {
+      "name": "마운틴마트",
+      "address": "광주광역시 동구 소태동 206",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-18"
+    },
+    {
+      "name": "미니스톱전대의대점",
+      "address": "광주광역시 동구 남동 69",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-26"
+    },
+    {
+      "name": "꼬마슈퍼",
+      "address": "광주광역시 동구 학동 937-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-06-27"
+    },
+    {
+      "name": "남일상회",
+      "address": "광주광역시 동구 용산동 282-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-08"
+    },
+    {
+      "name": "훼미리마트금남2호점",
+      "address": "광주광역시 동구 금남로3가 1-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-18"
+    },
+    {
+      "name": "느티슈퍼",
+      "address": "광주광역시 동구 지산동 262-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-04"
+    },
+    {
+      "name": "무아사",
+      "address": "광주광역시 동구 광산동 46-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-25"
+    },
+    {
+      "name": "코스코마트",
+      "address": "광주광역시 동구 계림동 228-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-08"
+    },
+    {
+      "name": "빛고을수퍼",
+      "address": "광주광역시 동구 금남로5가 151-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-26"
+    },
+    {
+      "name": "훼미리마트금동점",
+      "address": "광주광역시 동구 금동 102-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-09-22"
+    },
+    {
+      "name": "대성그린마트",
+      "address": "광주광역시 동구 산수동 380-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-29"
+    },
+    {
+      "name": "DC마트",
+      "address": "광주광역시 동구 동명동 242-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-04"
+    },
+    {
+      "name": "양영슈퍼",
+      "address": "광주광역시 동구 광산동 7-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-09"
+    },
+    {
+      "name": "가나수퍼",
+      "address": "광주광역시 동구 계림동 242-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-16"
+    },
+    {
+      "name": "해피마트",
+      "address": "광주광역시 동구 충장로5가 59-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-27"
+    },
+    {
+      "name": "대금유통",
+      "address": "광주광역시 동구 충장로3가 1-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-11"
+    },
+    {
+      "name": "오거리편의점",
+      "address": "광주광역시 동구 산수동 540-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-03"
+    },
+    {
+      "name": "알리바이",
+      "address": "광주광역시 동구 용산동 283-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-10"
+    },
+    {
+      "name": "코스코계림점",
+      "address": "광주광역시 동구 계림동 578-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-15"
+    },
+    {
+      "name": "모아할인마트",
+      "address": "광주광역시 동구 소태동 501 모아@ 상가1층 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-19"
+    },
+    {
+      "name": "마트로소태점",
+      "address": "광주광역시 동구 소태동 512-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-19"
+    },
+    {
+      "name": "세븐일레븐 시청점",
+      "address": "광주광역시 동구 계림동 844-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백림마트",
+      "address": "광주광역시 동구 계림동 1613-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일븐 시청점",
+      "address": "광주광역시 동구 계림동 844-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "둥지마트",
+      "address": "광주광역시 동구 계림동 1157-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱교대점",
+      "address": "광주광역시 동구 계림동 1092-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대마트",
+      "address": "광주광역시 동구 서석동 27-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-12"
+    },
+    {
+      "name": "동구청구내식당",
+      "address": "광주광역시 동구 서석동 31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-30"
+    },
+    {
+      "name": "불로꽃마트24시",
+      "address": "광주광역시 동구 불로동 79",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-06"
+    },
+    {
+      "name": "제일수퍼",
+      "address": "광주광역시 동구 대인동 183-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-13"
+    },
+    {
+      "name": "성례상회",
+      "address": "광주광역시 동구 산수동 554-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-20"
+    },
+    {
+      "name": "무등마트",
+      "address": "광주광역시 동구 황금동 5-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-25"
+    },
+    {
+      "name": "라인수퍼",
+      "address": "광주광역시 동구 운림동 583",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-26"
+    },
+    {
+      "name": "노다지마트",
+      "address": "광주광역시 동구 학동 875-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-12"
+    },
+    {
+      "name": "미니스톱광주공원점",
+      "address": "광주광역시 동구 호남동 16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-27"
+    },
+    {
+      "name": "우리수퍼",
+      "address": "광주광역시 동구 계림동 497-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-18"
+    },
+    {
+      "name": "채널큐24시편의점(충장로점)",
+      "address": "광주광역시 동구 불로동 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-22"
+    },
+    {
+      "name": "고려수퍼",
+      "address": "광주광역시 동구 불로동 43-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-06"
+    },
+    {
+      "name": "무등슈퍼",
+      "address": "광주광역시 동구 금동 79",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-07"
+    },
+    {
+      "name": "참조은마트",
+      "address": "광주광역시 동구 산수동 513-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-20"
+    },
+    {
+      "name": "조가비미니마트",
+      "address": "광주광역시 동구 지산동 379-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-04"
+    },
+    {
+      "name": "훼미리마트도청역점",
+      "address": "광주광역시 동구 광산동 16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-29"
+    },
+    {
+      "name": "로터스24시슈퍼",
+      "address": "광주광역시 동구 금동 50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-07"
+    },
+    {
+      "name": "대성종합마트",
+      "address": "광주광역시 동구 산수동 91-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-02"
+    },
+    {
+      "name": "정민(주)",
+      "address": "광주광역시 동구 산수동 539-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-02"
+    },
+    {
+      "name": "호남마트",
+      "address": "광주광역시 동구 학동 46-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-17"
+    },
+    {
+      "name": "킴스킴스",
+      "address": "광주광역시 동구 지산동 487-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-16"
+    },
+    {
+      "name": "미니스톱조선대점",
+      "address": "광주광역시 동구 동명동 118-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-07-10"
+    },
+    {
+      "name": "베스트독서실매점",
+      "address": "광주광역시 동구 학동 901-451",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-22"
+    },
+    {
+      "name": "천지마트",
+      "address": "광주광역시 동구 계림동 464-8 464-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-04"
+    },
+    {
+      "name": "세븐일레븐경마장점",
+      "address": "광주광역시 동구 계림동 293-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-19"
+    },
+    {
+      "name": "농장다리수퍼",
+      "address": "광주광역시 동구 지산동 654-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "PX연금마트",
+      "address": "광주광역시 동구 소태동 717-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴스코마켓소태점",
+      "address": "광주광역시 동구 소태동 445-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유진수퍼",
+      "address": "광주광역시 동구 지산동 507-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동구직거래장터",
+      "address": "광주광역시 동구 서석동 91-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱황금파레스점",
+      "address": "광주광역시 동구 황금동 11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱대인점",
+      "address": "광주광역시 동구 대인동 20-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원해유통마트",
+      "address": "광주광역시 동구 장동 31-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-06-22"
+    },
+    {
+      "name": "시나브로종합유통화니",
+      "address": "광주광역시 동구 충장로4가 14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조대정문점",
+      "address": "광주광역시 동구 서석동 23-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선물의 집",
+      "address": "광주광역시 동구 소태동 570-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "완도슈퍼",
+      "address": "광주광역시 동구 서석동 23-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용호슈퍼",
+      "address": "광주광역시 동구 서석동 428-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충장수퍼",
+      "address": "광주광역시 동구 충장로3가 12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "21세기편의점",
+      "address": "광주광역시 동구 학동 637-110",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-02-24"
+    },
+    {
+      "name": "대동수퍼",
+      "address": "광주광역시 동구 지산동 267-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼호수퍼",
+      "address": "광주광역시 동구 계림동 505-771",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)참마트",
+      "address": "광주광역시 동구 운림동 599",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "나라종합화장지",
+      "address": "광주광역시 동구 계림동 518-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-02"
+    },
+    {
+      "name": "코스코파워마트",
+      "address": "광주광역시 동구 소태동 445-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-06"
+    },
+    {
+      "name": "희망수퍼",
+      "address": "광주광역시 동구 남동 112-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-06"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "광주광역시 동구 대인동 25-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-28"
+    },
+    {
+      "name": "동산슈퍼",
+      "address": "광주광역시 동구 용산동 177 동산타워슈퍼 1-1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-20"
+    },
+    {
+      "name": "코사마트소태점",
+      "address": "광주광역시 동구 소태동 526-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-24"
+    },
+    {
+      "name": "하나로플러스마트",
+      "address": "광주광역시 동구 산수동 523-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-20"
+    },
+    {
+      "name": "제일상회",
+      "address": "광주광역시 동구 대인동 307-45",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-10-25"
+    },
+    {
+      "name": "우리마트",
+      "address": "광주광역시 동구 산수동 549-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-12"
+    },
+    {
+      "name": "게임마트식당",
+      "address": "광주광역시 동구 대인동 23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-18"
+    },
+    {
+      "name": "충장할인마트",
+      "address": "광주광역시 동구 대인동 175-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-25"
+    },
+    {
+      "name": "KT전남본부매장",
+      "address": "광주광역시 동구 서석동 31-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-11-15"
+    },
+    {
+      "name": "법조타운휴게실",
+      "address": "광주광역시 동구 지산동 715-2 법조타운 내 1층 114호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-15"
+    },
+    {
+      "name": "대인상회",
+      "address": "광주광역시 동구 계림동 467-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-12-30"
+    },
+    {
+      "name": "줄리아나마트",
+      "address": "광주광역시 동구 충장로3가 11-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-23"
+    },
+    {
+      "name": "코사마트",
+      "address": "광주광역시 동구 불로동 64-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-05-12"
+    },
+    {
+      "name": "애드존24시편의점",
+      "address": "광주광역시 동구 동명동 161-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-11-21"
+    },
+    {
+      "name": "동우양산",
+      "address": "광주광역시 동구 계림동 487-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-03"
+    },
+    {
+      "name": "코사마트삼성점",
+      "address": "광주광역시 동구 지산동 313-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-19"
+    },
+    {
+      "name": "친절슈퍼",
+      "address": "광주광역시 동구 산수동 424-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-01-25"
+    },
+    {
+      "name": "세븐일레븐광주산수점",
+      "address": "광주광역시 동구 산수동 526-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-02-04"
+    },
+    {
+      "name": "신양상회",
+      "address": "광주광역시 동구 학동 639-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-02-11"
+    },
+    {
+      "name": "종로마트교대점",
+      "address": "광주광역시 동구 계림동 1113-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-02"
+    },
+    {
+      "name": "거석식육점",
+      "address": "광주광역시 동구 계림동 63-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지원수퍼",
+      "address": "광주광역시 동구 계림동 586-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리수퍼",
+      "address": "광주광역시 동구 대인동 136-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한미후레쉬마트",
+      "address": "광주광역시 동구 대인동 190-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "킨마트",
+      "address": "광주광역시 동구 충장로2가 1-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장안수퍼",
+      "address": "광주광역시 동구 계림동 504-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모닝마트동명점",
+      "address": "광주광역시 동구 동명동 218-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린종합마트",
+      "address": "광주광역시 동구 지산동 694-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행복마켓",
+      "address": "광주광역시 동구 궁동 54-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물상회",
+      "address": "광주광역시 동구 대인동 327-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금능수퍼",
+      "address": "광주광역시 동구 산수동 479-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에이원마트",
+      "address": "광주광역시 동구 지산동 694-73",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰수퍼",
+      "address": "광주광역시 동구 동명동 167-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새향사",
+      "address": "광주광역시 동구 계림동 572-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신망애수퍼",
+      "address": "광주광역시 동구 학동 63-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소영수퍼",
+      "address": "광주광역시 동구 계림동 558-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "광주광역시 동구 운림동 203",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리수퍼",
+      "address": "광주광역시 동구 동명동 197-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다운다운물류유통",
+      "address": "광주광역시 동구 산수동 540-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-28"
+    },
+    {
+      "name": "새천년마트",
+      "address": "광주광역시 동구 서석동 28-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마이웨이25시편의점",
+      "address": "광주광역시 동구 계림동 505-109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "재형수퍼",
+      "address": "광주광역시 동구 계림동 581-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산수마트",
+      "address": "광주광역시 동구 산수동 508-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-04-29"
+    },
+    {
+      "name": "송원상회",
+      "address": "광주광역시 동구 금남로1가 15-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐구시청점",
+      "address": "광주광역시 동구 광산동 81",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-18"
+    },
+    {
+      "name": "J-마트",
+      "address": "광주광역시 동구 운림동 670-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-06"
+    },
+    {
+      "name": "DC생활용품마트",
+      "address": "광주광역시 동구 산수동 522-65",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-04-25"
+    },
+    {
+      "name": "자영슈퍼",
+      "address": "광주광역시 동구 대인동 54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-05-27"
+    },
+    {
+      "name": "GS25 광주산수점",
+      "address": "광주광역시 동구 산수동 518-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-10"
+    },
+    {
+      "name": "보령슈퍼",
+      "address": "광주광역시 동구 계림동 1338-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-08-09"
+    },
+    {
+      "name": "빛고을상회",
+      "address": "광주광역시 동구 호남동 30-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-10-10"
+    },
+    {
+      "name": "서울수퍼",
+      "address": "광주광역시 동구 동명동 118-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-10-11"
+    },
+    {
+      "name": "화동코너",
+      "address": "광주광역시 동구 대인동 163",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-10-31"
+    },
+    {
+      "name": "훼미리마트광주용산점",
+      "address": "광주광역시 동구 용산동 270-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-12-28"
+    },
+    {
+      "name": "뉴스코마트지산점",
+      "address": "광주광역시 동구 지산동 317-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-12-28"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "광주광역시 동구 금남로2가 15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-04"
+    },
+    {
+      "name": "세븐일레븐롯데점",
+      "address": "광주광역시 동구 금남로5가 74-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-01-17"
+    },
+    {
+      "name": "세븐일레븐광주메가박스점",
+      "address": "광주광역시 동구 불로동 1-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-02-13"
+    },
+    {
+      "name": "동산로얄수퍼",
+      "address": "광주광역시 동구 산수동 12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-13"
+    },
+    {
+      "name": "한마음슈퍼",
+      "address": "광주광역시 동구 지산동 667-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-13"
+    },
+    {
+      "name": "미니스톱황금점",
+      "address": "광주광역시 동구 황금동 91-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-17"
+    },
+    {
+      "name": "21세기문구",
+      "address": "광주광역시 동구 충장로5가 100-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-27"
+    },
+    {
+      "name": "흥일마트",
+      "address": "광주광역시 동구 호남동 3-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-27"
+    },
+    {
+      "name": "한빛마트",
+      "address": "광주광역시 동구 산수동 550-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-31"
+    },
+    {
+      "name": "마운틴마트",
+      "address": "광주광역시 동구 산수동 568-1 두암타운상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-10"
+    },
+    {
+      "name": "코사마트대인점",
+      "address": "광주광역시 동구 계림동 470-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-04-11"
+    },
+    {
+      "name": "홈마트",
+      "address": "광주광역시 동구 지산동 507-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-05-01"
+    },
+    {
+      "name": "에이원마트",
+      "address": "광주광역시 동구 지산동 694-47",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-05-22"
+    },
+    {
+      "name": "동산마트",
+      "address": "광주광역시 동구 산수동 538-42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-27"
+    },
+    {
+      "name": "푸른유통",
+      "address": "광주광역시 동구 계림동 293-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-09"
+    },
+    {
+      "name": "세계마트",
+      "address": "광주광역시 동구 황금동 23-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-02"
+    },
+    {
+      "name": "미니스톱계림점",
+      "address": "광주광역시 동구 계림동 558-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-02"
+    },
+    {
+      "name": "마트로 지산점",
+      "address": "광주광역시 동구 지산동 314-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙편의점",
+      "address": "광주광역시 동구 궁동 7-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-12"
+    },
+    {
+      "name": "그린마트",
+      "address": "광주광역시 동구 충장로5가 510-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-16"
+    },
+    {
+      "name": "금잔디수퍼",
+      "address": "광주광역시 동구 황금동 43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "남원상회",
+      "address": "광주광역시 동구 대인동 308-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "동네수퍼",
+      "address": "광주광역시 동구 충장로5가 100",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-01"
+    },
+    {
+      "name": "동진슈퍼",
+      "address": "광주광역시 동구 충장로5가 60-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "무등복지구판장",
+      "address": "광주광역시 동구 대인동 319-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "무등슈퍼",
+      "address": "광주광역시 동구 충장로1가 24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "보고종합상사",
+      "address": "광주광역시 동구 금남로2가 7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "미니스톱대의점",
+      "address": "광주광역시 동구 대의동 10-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "복권박스",
+      "address": "광주광역시 동구 대인동 313-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "부성24시편의점",
+      "address": "광주광역시 동구 황금동 88",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "빛고을상회",
+      "address": "광주광역시 동구 충장로5가 80-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "서광슈퍼",
+      "address": "광주광역시 동구 불로동 38-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "서울미니마트",
+      "address": "광주광역시 동구 금남로5가 74-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "서울상회",
+      "address": "광주광역시 동구 대인동 311-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "대교슈퍼",
+      "address": "광주광역시 동구 수기동 28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "수미슈퍼",
+      "address": "광주광역시 동구 금남로2가 2-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "순창슈퍼",
+      "address": "광주광역시 동구 충장로4가 2-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "아람마트",
+      "address": "광주광역시 동구 대인동 317-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "에덴슈퍼",
+      "address": "광주광역시 동구 불로동 1-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "오륙도슈퍼",
+      "address": "광주광역시 동구 대인동 312-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "용문상회",
+      "address": "광주광역시 동구 수기동 6-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "대인수퍼",
+      "address": "광주광역시 동구 대인동 313-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-06-27"
+    },
+    {
+      "name": "동방상회",
+      "address": "광주광역시 동구 계림동 250-93",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-06"
+    },
+    {
+      "name": "24시편의점",
+      "address": "광주광역시 동구 호남동 35-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-12"
+    },
+    {
+      "name": "아모레슈퍼",
+      "address": "광주광역시 동구 산수동 513-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-18"
+    },
+    {
+      "name": "훼미리마트동명중앙점",
+      "address": "광주광역시 동구 동명동 154-73",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-19"
+    },
+    {
+      "name": "해광할인마트",
+      "address": "광주광역시 동구 산수동 240-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-19"
+    },
+    {
+      "name": "GS25광주조선대점",
+      "address": "광주광역시 동구 동명동 123-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-24"
+    },
+    {
+      "name": "실미상회",
+      "address": "광주광역시 동구 학동 76-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-05"
+    },
+    {
+      "name": "산수그린마트",
+      "address": "광주광역시 동구 산수동 520-47",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-05-22"
+    },
+    {
+      "name": "모노",
+      "address": "광주광역시 동구 충장로4가 27-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-19"
+    },
+    {
+      "name": "웰빙마트",
+      "address": "광주광역시 동구 계림동 561-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-26"
+    },
+    {
+      "name": "나이스슈퍼",
+      "address": "광주광역시 동구 광산동 76",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-10-09"
+    },
+    {
+      "name": "조선학숙",
+      "address": "광주광역시 동구 학동 513",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-10-17"
+    },
+    {
+      "name": "해피데이편의점",
+      "address": "광주광역시 동구 충장로1가 8-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-11-02"
+    },
+    {
+      "name": "마트클럽진주점",
+      "address": "광주광역시 동구 계림동 486-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-11-15"
+    },
+    {
+      "name": "만복이네영암마트",
+      "address": "광주광역시 동구 산수동 568-1 두암타운상가 206",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-07"
+    },
+    {
+      "name": "고려병원매점",
+      "address": "광주광역시 동구 계림동 288-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-14"
+    },
+    {
+      "name": "세븐일레븐광주증심사역점",
+      "address": "광주광역시 동구 학동 870-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-12-26"
+    },
+    {
+      "name": "훼미리마트 광주동명점",
+      "address": "광주광역시 동구 동명동 200-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-09"
+    },
+    {
+      "name": "미니스톱 대인점",
+      "address": "광주광역시 동구 대인동 20-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-29"
+    },
+    {
+      "name": "금호마트",
+      "address": "광주광역시 동구 계림동 85-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-30"
+    },
+    {
+      "name": "훼미리마트금남행복점",
+      "address": "광주광역시 동구 금남로5가 27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-01-31"
+    },
+    {
+      "name": "미니마트",
+      "address": "광주광역시 동구 장동 12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-01"
+    },
+    {
+      "name": "효인편의마트",
+      "address": "광주광역시 동구 대의동 76-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-09"
+    },
+    {
+      "name": "로뎀할인마트",
+      "address": "광주광역시 동구 남동 79",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-02-20"
+    },
+    {
+      "name": "DC홈마트",
+      "address": "광주광역시 동구 지산동 187-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-02"
+    },
+    {
+      "name": "월드마트",
+      "address": "광주광역시 동구 대인동 321-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "은하슈퍼",
+      "address": "광주광역시 동구 대인동 100-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "일등슈퍼",
+      "address": "광주광역시 동구 장동 103-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "청운슈퍼",
+      "address": "광주광역시 동구 불로동 185-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "세븐일레븐대인점",
+      "address": "광주광역시 동구 대인동 323-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "푸른슈퍼",
+      "address": "광주광역시 동구 호남동 5-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "한미쇼핑",
+      "address": "광주광역시 동구 충장로5가 11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "광주광역시 동구 충장로4가 58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "해남슈퍼",
+      "address": "광주광역시 동구 대인동 321-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "현대상회",
+      "address": "광주광역시 동구 수기동 81",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "호남슈퍼",
+      "address": "광주광역시 동구 장동 84-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "호남상회",
+      "address": "광주광역시 동구 대인동 327-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "화정상회",
+      "address": "광주광역시 동구 대인동 15-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "황금마트",
+      "address": "광주광역시 동구 황금동 21-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "플러스마트",
+      "address": "광주광역시 동구 금남로2가 31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "은미마트",
+      "address": "광주광역시 동구 대인동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "금동청과",
+      "address": "광주광역시 동구 금동 200",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "광주광역시 동구 대인동 323-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "세원슈퍼",
+      "address": "광주광역시 동구 황금동 20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "훼미리마트용산점",
+      "address": "광주광역시 동구 용산동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "빅25시",
+      "address": "광주광역시 동구 대인동 324-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "동광슈퍼",
+      "address": "광주광역시 동구 동명동 218-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "동명슈퍼",
+      "address": "광주광역시 동구 동명동 163-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "코사&뉴마트(마트클럽)",
+      "address": "광주광역시 동구 동명동 182-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-07-18"
+    },
+    {
+      "name": "만물상회",
+      "address": "광주광역시 동구 동명동 12-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "은성수퍼",
+      "address": "광주광역시 동구 동명동 68-53",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "DC홈마트",
+      "address": "광주광역시 동구 계림동 15-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-09"
+    },
+    {
+      "name": "조대할인마트",
+      "address": "광주광역시 동구 서석동 423-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-20"
+    },
+    {
+      "name": "세븐일레븐동명점",
+      "address": "광주광역시 동구 동명동 125-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-23"
+    },
+    {
+      "name": "세븐일레븐광주산수중앙점",
+      "address": "광주광역시 동구 산수동 517-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-26"
+    },
+    {
+      "name": "코사마트 지산점",
+      "address": "광주광역시 동구 지산동 443-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-01"
+    },
+    {
+      "name": "훼미리마트광주법원점",
+      "address": "광주광역시 동구 지산동 714-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-03"
+    },
+    {
+      "name": "장터할인마트 지산점",
+      "address": "광주광역시 동구 지산동 232-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-07"
+    },
+    {
+      "name": "여수마트",
+      "address": "광주광역시 동구 산수동 511-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-28"
+    },
+    {
+      "name": "평화수퍼",
+      "address": "광주광역시 동구 남동 131-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-05-31"
+    },
+    {
+      "name": "광덕종합유통",
+      "address": "광주광역시 동구 계림동 389-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-09"
+    },
+    {
+      "name": "월드마트",
+      "address": "광주광역시 동구 서석동 424",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-09"
+    },
+    {
+      "name": "세븐일레븐장동2호점",
+      "address": "광주광역시 동구 장동 86-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-23"
+    },
+    {
+      "name": "광신슈퍼",
+      "address": "광주광역시 동구 학동 618-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-08-22"
+    },
+    {
+      "name": "이지수퍼",
+      "address": "광주광역시 동구 충장로3가 32-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-08-23"
+    },
+    {
+      "name": "코사마트조대점",
+      "address": "광주광역시 동구 서석동 21-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-04"
+    },
+    {
+      "name": "GS25광주대의점",
+      "address": "광주광역시 동구 대의동 28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-27"
+    },
+    {
+      "name": "나이스할인마트",
+      "address": "광주광역시 동구 지산동 711-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-05-06"
+    },
+    {
+      "name": "삼정산업",
+      "address": "광주광역시 동구 계림동 1133-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-11-27"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "광주광역시 동구 황금동 12-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-03"
+    },
+    {
+      "name": "동구노인복지회관",
+      "address": "광주광역시 동구 동명동 154-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-07"
+    },
+    {
+      "name": "세븐일레븐광주동명중앙점",
+      "address": "광주광역시 동구 동명동 141-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-07"
+    },
+    {
+      "name": "홈플러스계림점",
+      "address": "광주광역시 동구 계림동 505-900",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-11"
+    },
+    {
+      "name": "DC마트",
+      "address": "광주광역시 동구 산수동 510-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-13"
+    },
+    {
+      "name": "노다지수퍼",
+      "address": "광주광역시 동구 금남로5가 166",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-14"
+    },
+    {
+      "name": "금호장례식장매점",
+      "address": "광주광역시 동구 학동 868-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-28"
+    },
+    {
+      "name": "인성마트",
+      "address": "광주광역시 동구 산수동 510-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-01-03"
+    },
+    {
+      "name": "푸른슈퍼2",
+      "address": "광주광역시 동구 동명동 230-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "한국음식업중앙회",
+      "address": "광주광역시 동구 장동 58-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "해성슈퍼",
+      "address": "광주광역시 동구 동명동 115",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "현대편의마트",
+      "address": "광주광역시 동구 동명동 7-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "참마트",
+      "address": "광주광역시 동구 동명동 139-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "한빛마트",
+      "address": "광주광역시 동구 동명동 167-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "고속수퍼",
+      "address": "광주광역시 동구 계림동 501-881",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "광고문구",
+      "address": "광주광역시 동구 계림동 290-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "광명상회",
+      "address": "광주광역시 동구 계림동 521-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "광주산업(광주비니루)",
+      "address": "광주광역시 동구 계림동 483-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "금영슈퍼",
+      "address": "광주광역시 동구 계림동 211-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "나라보일러철물점",
+      "address": "광주광역시 동구 계림동 66-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "광주광역시 동구 계림동 485",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "동네슈퍼",
+      "address": "광주광역시 동구 계림동 8-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "동문마트",
+      "address": "광주광역시 동구 계림동 387-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "광주광역시 동구 계림동 505-690",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "무등슈퍼",
+      "address": "광주광역시 동구 계림동 299-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "미즈프라자",
+      "address": "광주광역시 동구 계림동 386-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "삼양수퍼",
+      "address": "광주광역시 동구 계림동 537-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "성공청과슈퍼",
+      "address": "광주광역시 동구 계림동 556-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "시청슈퍼",
+      "address": "광주광역시 동구 계림동 505-105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "신토불이",
+      "address": "광주광역시 동구 계림동 536-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "쌍둥이슈퍼",
+      "address": "광주광역시 동구 계림동 505-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "완도상회",
+      "address": "광주광역시 동구 계림동 519-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "은성수퍼",
+      "address": "광주광역시 동구 계림동 505-846",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "유정수퍼",
+      "address": "광주광역시 동구 계림동 505-809",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "청운슈퍼",
+      "address": "광주광역시 동구 동명동 200-188",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "훼미리마트 광주학동점",
+      "address": "광주광역시 동구 학동 618-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-01-03"
+    },
+    {
+      "name": "영생수퍼",
+      "address": "광주광역시 동구 궁동 52-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-01-29"
+    },
+    {
+      "name": "에스마트",
+      "address": "광주광역시 동구 산수동 84 상가1층 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-04-08"
+    },
+    {
+      "name": "현대마트",
+      "address": "광주광역시 동구 소태동 650",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-04-24"
+    },
+    {
+      "name": "행운마트",
+      "address": "광주광역시 동구 계림동 287-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-10"
+    },
+    {
+      "name": "산밭들마트",
+      "address": "광주광역시 동구 학동 618-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-19"
+    },
+    {
+      "name": "훼미리마트 금남오가점",
+      "address": "광주광역시 동구 금남로5가 37-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-19"
+    },
+    {
+      "name": "훼미리마트 금동미래점",
+      "address": "광주광역시 동구 금동 211-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-19"
+    },
+    {
+      "name": "훼미리마트광주충파점",
+      "address": "광주광역시 동구 금남로4가 75-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-07-01"
+    },
+    {
+      "name": "미키문구",
+      "address": "광주광역시 동구 계림동 573-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-13"
+    },
+    {
+      "name": "우리마트",
+      "address": "광주광역시 동구 동명동 140-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-05"
+    },
+    {
+      "name": "세븐일레븐동산점",
+      "address": "광주광역시 동구 지산동 691-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-11"
+    },
+    {
+      "name": "파워마트",
+      "address": "광주광역시 동구 소태동 445-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-12"
+    },
+    {
+      "name": "구성로H마트",
+      "address": "광주광역시 동구 대인동 311-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-25"
+    },
+    {
+      "name": "한일상회",
+      "address": "광주광역시 동구 운림동 835-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-28"
+    },
+    {
+      "name": "광주마켓",
+      "address": "광주광역시 동구 계림동 1596-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-12"
+    },
+    {
+      "name": "삼호슈퍼",
+      "address": "광주광역시 동구 소태동 717-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-19"
+    },
+    {
+      "name": "실미마트",
+      "address": "광주광역시 동구 학동 55-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-02-17"
+    },
+    {
+      "name": "은광프라자",
+      "address": "광주광역시 동구 계림동 564-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "장성수퍼",
+      "address": "광주광역시 동구 계림동 535-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "한국소비자유통",
+      "address": "광주광역시 동구 계림동 505-361",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "제일수퍼",
+      "address": "광주광역시 동구 계림동 196",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "호남할인마트",
+      "address": "광주광역시 동구 계림동 520-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "열린마트",
+      "address": "광주광역시 동구 계림동 253-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "우정수퍼",
+      "address": "광주광역시 동구 계림동 85-160",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "빛고을장례식당",
+      "address": "광주광역시 동구 계림동 288-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "동문양곡상회",
+      "address": "광주광역시 동구 계림동 387-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "장미수퍼",
+      "address": "광주광역시 동구 계림동 285-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "로은마트",
+      "address": "광주광역시 동구 계림동 557-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "조광수퍼",
+      "address": "광주광역시 동구 계림동 215-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "거성유통(축산)",
+      "address": "광주광역시 동구 계림동 250-64",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "개미마트",
+      "address": "광주광역시 동구 계림동 558-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "대우수퍼",
+      "address": "광주광역시 동구 산수동 524-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "동아쇼핑",
+      "address": "광주광역시 동구 산수동 522-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "동진수퍼",
+      "address": "광주광역시 동구 산수동 547-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "만물상회",
+      "address": "광주광역시 동구 산수동 378-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "산수수퍼",
+      "address": "광주광역시 동구 산수동 558-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "산수수퍼",
+      "address": "광주광역시 동구 산수동 426-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "산수종합마트",
+      "address": "광주광역시 동구 산수동 550-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "샘골마트",
+      "address": "광주광역시 동구 산수동 539-81",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "신성하이수퍼",
+      "address": "광주광역시 동구 산수동 495-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "광명마트",
+      "address": "광주광역시 동구 산수동 97-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "양희수퍼",
+      "address": "광주광역시 동구 산수동 371-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "일이일",
+      "address": "광주광역시 동구 불로동 12-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-25"
+    },
+    {
+      "name": "새롬마트",
+      "address": "광주광역시 동구 계림동 537-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-30"
+    },
+    {
+      "name": "도울복권",
+      "address": "광주광역시 동구 궁동 61-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-21"
+    },
+    {
+      "name": "이탈빈피자빈",
+      "address": "광주광역시 동구 계림동 100-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-13"
+    },
+    {
+      "name": "(주)신세계이마트동광주점",
+      "address": "광주광역시 동구 계림동 100-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-14"
+    },
+    {
+      "name": "행운마트",
+      "address": "광주광역시 동구 지산동 379-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-18"
+    },
+    {
+      "name": "(주)오피스서플라이 21세기",
+      "address": "광주광역시 동구 충장로5가 102-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-04"
+    },
+    {
+      "name": "24마트",
+      "address": "광주광역시 동구 계림동 253-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-12"
+    },
+    {
+      "name": "은혜마트",
+      "address": "광주광역시 동구 서석동 423-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-29"
+    },
+    {
+      "name": "(주)이편한마트",
+      "address": "광주광역시 동구 학동 737-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-29"
+    },
+    {
+      "name": "세븐일레븐 대인점",
+      "address": "광주광역시 동구 대인동 323-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-29"
+    },
+    {
+      "name": "세븐일레븐광주학동점",
+      "address": "광주광역시 동구 학동 1004-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-30"
+    },
+    {
+      "name": "빛고을마트",
+      "address": "광주광역시 동구 계림동 1668-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-21"
+    },
+    {
+      "name": "대강수퍼",
+      "address": "광주광역시 동구 계림동 688-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-27"
+    },
+    {
+      "name": "우리수퍼",
+      "address": "광주광역시 동구 계림동 771-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-27"
+    },
+    {
+      "name": "영화슈퍼",
+      "address": "광주광역시 동구 계림동 884-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-03"
+    },
+    {
+      "name": "아름상회",
+      "address": "광주광역시 동구 계림동 969-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-03"
+    },
+    {
+      "name": "세븐일레븐시청점",
+      "address": "광주광역시 동구 계림동 844-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-13"
+    },
+    {
+      "name": "서울상회",
+      "address": "광주광역시 동구 계림동 632-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-13"
+    },
+    {
+      "name": "보령수퍼",
+      "address": "광주광역시 동구 계림동 1338-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-13"
+    },
+    {
+      "name": "해남수퍼",
+      "address": "광주광역시 동구 계림동 1371-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-13"
+    },
+    {
+      "name": "풍향종합마트",
+      "address": "광주광역시 동구 계림동 1437-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-07-03"
+    },
+    {
+      "name": "미니스톱광주교대점",
+      "address": "광주광역시 동구 계림동 1092-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-07-29"
+    },
+    {
+      "name": "나산할인마트",
+      "address": "광주광역시 동구 계림동 1504-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-12-20"
+    },
+    {
+      "name": "위생수퍼",
+      "address": "광주광역시 동구 산수동 493-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "장원수퍼",
+      "address": "광주광역시 동구 산수동 109-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "청수수퍼",
+      "address": "광주광역시 동구 산수동 559-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "행복수퍼",
+      "address": "광주광역시 동구 산수동 111-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "화니수퍼",
+      "address": "광주광역시 동구 산수동 555-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "화순수퍼",
+      "address": "광주광역시 동구 산수동 557-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "S스토아마트",
+      "address": "광주광역시 동구 산수동 559-49",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "덕성수퍼",
+      "address": "광주광역시 동구 산수동 546-57",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "예향수퍼",
+      "address": "광주광역시 동구 산수동 546-57",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "거성스파",
+      "address": "광주광역시 동구 지산동 461-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "남평상회",
+      "address": "광주광역시 동구 지산동 691-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "내고향장터",
+      "address": "광주광역시 동구 지산동 709-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "대성청과수퍼",
+      "address": "광주광역시 동구 지산동 717-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "동산수퍼",
+      "address": "광주광역시 동구 지산동 714-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "동산수퍼",
+      "address": "광주광역시 동구 지산동 691-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "동서수퍼",
+      "address": "광주광역시 동구 지산동 515-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "새마을수퍼",
+      "address": "광주광역시 동구 지산동 711-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "신일제모사",
+      "address": "광주광역시 동구 지산동 475-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "으뜸문구사",
+      "address": "광주광역시 동구 지산동 487-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "조양수퍼",
+      "address": "광주광역시 동구 지산동 654-34",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "축산물판매장(맨션앞)",
+      "address": "광주광역시 동구 지산동 750-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "축산물판매장(카센터)",
+      "address": "광주광역시 동구 지산동 711-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "한일수퍼",
+      "address": "광주광역시 동구 지산동 708-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "OK마트지산점",
+      "address": "광주광역시 동구 지산동 691-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "덕림상회",
+      "address": "광주광역시 동구 지산동 750-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "행복DC생활용품백화점",
+      "address": "광주광역시 동구 계림동 1112-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-13"
+    },
+    {
+      "name": "송도마트",
+      "address": "광주광역시 동구 계림동 1471-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-09-17"
+    },
+    {
+      "name": "SM마트",
+      "address": "광주광역시 동구 계림동 1219-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-17"
+    },
+    {
+      "name": "(주)보광훼미리마트풍향금호점",
+      "address": "광주광역시 동구 계림동 1113-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-18"
+    },
+    {
+      "name": "알리바이 두암타운점",
+      "address": "광주광역시 동구 산수동 685-0",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-10"
+    },
+    {
+      "name": "두암그린마트",
+      "address": "광주광역시 동구 산수동 688-0 주공아파트 상가동 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-16"
+    },
+    {
+      "name": "태광수퍼",
+      "address": "광주광역시 동구 지산동 709-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "삼삼삼마트",
+      "address": "광주광역시 동구 지산동 705-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "경진수퍼",
+      "address": "광주광역시 동구 서석동 33-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "구시청마트",
+      "address": "광주광역시 동구 금동 27-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "금동수퍼",
+      "address": "광주광역시 동구 금동 185-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "남일수퍼",
+      "address": "광주광역시 동구 남동 99-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "만물수퍼",
+      "address": "광주광역시 동구 남동 167-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "부흥상회",
+      "address": "광주광역시 동구 서석동 126-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "양언마트",
+      "address": "광주광역시 동구 서석동 98-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "우리수퍼",
+      "address": "광주광역시 동구 남동 132-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "우일수퍼",
+      "address": "광주광역시 동구 금동 157-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "우정수퍼",
+      "address": "광주광역시 동구 남동 60-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "웅진수퍼",
+      "address": "광주광역시 동구 서석동 469-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "올더웨이금동점",
+      "address": "광주광역시 동구 금동 185-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "투데이24시편의점",
+      "address": "광주광역시 동구 서석동 466-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "OK마트",
+      "address": "광주광역시 동구 남동 7-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "미니스톱구시청2호점",
+      "address": "광주광역시 동구 광산동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "영창수퍼",
+      "address": "광주광역시 동구 금동 150-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "광수퍼",
+      "address": "광주광역시 동구 학동 1004-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "광주축협하나로마트",
+      "address": "광주광역시 동구 학동 46-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "그린마트",
+      "address": "광주광역시 동구 학동 901-80",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "애경상회",
+      "address": "광주광역시 동구 학동 898-64",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "대흥수퍼",
+      "address": "광주광역시 동구 학동 55-40",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "만물수퍼",
+      "address": "광주광역시 동구 학동 637-136",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "새천년수퍼",
+      "address": "광주광역시 동구 학동 631-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "롯데쇼핑(주)광주점",
+      "address": "광주광역시 동구 대인동 7-1 롯데백화점 광주점",
+      "roadAddress": "광주광역시 동구 독립로 268 (대인동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-11-29"
+    },
+    {
+      "name": "광덕종합유통",
+      "address": "광주광역시 동구 계림동 389-6",
+      "roadAddress": "광주광역시 동구 동계천로 63  (계림동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-29"
+    },
+    {
+      "name": "광덕종합유통",
+      "address": "광주광역시 동구 계림동 389-6",
+      "roadAddress": "광주광역시 동구 동계천로 63 (계림동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-07-10"
+    },
+    {
+      "name": "유한회사 남광주식자재",
+      "address": "광주광역시 동구 학동 85-13",
+      "roadAddress": "광주광역시 동구 양림로 110 (학동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-03-15"
+    },
+    {
+      "name": "참마트",
+      "address": "광주광역시 동구 동명동 139-11",
+      "roadAddress": "광주광역시 동구 백서로 217 (동명동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-12-20"
+    },
+    {
+      "name": "(주)부지런한사람들행암점 용산지점",
+      "address": "광주광역시 동구 용산동 297",
+      "roadAddress": "광주광역시 동구 남문로621번길 1 (용산동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-02-13"
+    },
+    {
+      "name": "미니스톱 중흥미래점",
+      "address": "광주광역시 동구 계림동 844",
+      "roadAddress": "광주광역시 동구 무등로 304 (계림동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-14"
+    },
+    {
+      "name": "(주)이마트동광주점",
+      "address": "광주광역시 동구 계림동 100-11",
+      "roadAddress": "광주광역시 동구 중앙로 358  (계림동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-16"
+    },
+    {
+      "name": "세븐일레븐 나주부영점",
+      "address": "광주광역시 동구 지산동 722-27",
+      "roadAddress": "광주광역시 동구 동명로 79 (지산동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-03-27"
+    },
+    {
+      "name": "양지상회",
+      "address": "전라남도 광양시 중동 270-7",
+      "roadAddress": "광주광역시 동구 밤실로116번길 12-1 (산수동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-12-03"
+    },
+    {
+      "name": "그린종합슈퍼",
+      "address": "전라남도 광양시 광영동 258-3",
+      "roadAddress": "광주광역시 동구 필문대로263번길 17-5 (지산동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-04-29"
+    }
+  ]
+}

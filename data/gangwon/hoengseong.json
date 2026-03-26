@@ -4,7 +4,7 @@
   "district": "횡성군",
   "districtSlug": "hoengseong",
   "updatedAt": "2026-03-26",
-  "totalCount": 150,
+  "totalCount": 129,
   "stores": [
     {
       "name": "세븐일레븐 원주원흥행복점",
@@ -644,20 +644,6 @@
       "licenseDate": "1999-10-30"
     },
     {
-      "name": "두곡마을슈퍼",
-      "address": "강원특별자치도 횡성군 우천면 두곡리 470",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-10-30"
-    },
-    {
-      "name": "용둔막국수매점",
-      "address": "강원특별자치도 횡성군 우천면 산전리 268-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-10-30"
-    },
-    {
       "name": "매화산주유소매점",
       "address": "강원특별자치도 횡성군 우천면 오원리 518-3",
       "roadAddress": "강원특별자치도 횡성군 우천면 전재로 281",
@@ -679,57 +665,8 @@
       "licenseDate": "1999-10-30"
     },
     {
-      "name": "하대리구판장",
-      "address": "강원특별자치도 횡성군 우천면 하대리 417-18",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-10-30"
-    },
-    {
-      "name": "웃거리구판장",
-      "address": "강원특별자치도 횡성군 안흥면 안흥리 122-6",
-      "roadAddress": "강원특별자치도 횡성군 안흥면 강변로 22-1",
-      "status": "영업/정상",
-      "licenseDate": "1999-10-30"
-    },
-    {
-      "name": "다복상회",
-      "address": "강원특별자치도 횡성군 안흥면 가천리 36",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-10-30"
-    },
-    {
-      "name": "상안가게",
-      "address": "강원특별자치도 횡성군 안흥면 상안리 116",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-10-30"
-    },
-    {
-      "name": "지구상회",
-      "address": "강원특별자치도 횡성군 안흥면 지구리 625",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-10-30"
-    },
-    {
-      "name": "선미상회",
-      "address": "강원특별자치도 횡성군 안흥면 소사리 1149",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-10-30"
-    },
-    {
       "name": "소사상회",
       "address": "강원특별자치도 횡성군 안흥면 소사리 1351",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-10-30"
-    },
-    {
-      "name": "태로상회",
-      "address": "강원특별자치도 횡성군 둔내면 현천리 863",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1999-10-30"
@@ -744,27 +681,6 @@
     {
       "name": "심봉경",
       "address": "강원특별자치도 횡성군 둔내면 두원리 201",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-10-30"
-    },
-    {
-      "name": "용성유통",
-      "address": "강원특별자치도 횡성군 둔내면 두원리 632-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-10-30"
-    },
-    {
-      "name": "고흥유통",
-      "address": "강원특별자치도 횡성군 둔내면 자포곡리 407",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-10-30"
-    },
-    {
-      "name": "석문가게",
-      "address": "강원특별자치도 횡성군 둔내면 석문리 442",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1999-10-30"
@@ -854,13 +770,6 @@
       "licenseDate": "2001-03-08"
     },
     {
-      "name": "학생문구사",
-      "address": "강원특별자치도 횡성군 횡성읍 교항리 10",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-06-30"
-    },
-    {
       "name": "플러스마트",
       "address": "강원특별자치도 횡성군 횡성읍 북천리 115-51",
       "roadAddress": "",
@@ -903,27 +812,6 @@
       "licenseDate": "2001-12-17"
     },
     {
-      "name": "삽교상회",
-      "address": "강원특별자치도 횡성군 둔내면 삽교리 935",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-10-30"
-    },
-    {
-      "name": "마암상회",
-      "address": "강원특별자치도 횡성군 둔내면 마암리 150",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-10-30"
-    },
-    {
-      "name": "화동가게",
-      "address": "강원특별자치도 횡성군 둔내면 화동리 162",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-10-30"
-    },
-    {
       "name": "구방상회",
       "address": "강원특별자치도 횡성군 갑천면 구방리",
       "roadAddress": "",
@@ -931,44 +819,9 @@
       "licenseDate": "1999-10-30"
     },
     {
-      "name": "하대상회",
-      "address": "강원특별자치도 횡성군 갑천면 하대리 976",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-10-30"
-    },
-    {
-      "name": "갑천농협하나로마트추동분점",
-      "address": "강원특별자치도 횡성군 갑천면 추동리 211-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-10-30"
-    },
-    {
-      "name": "속실상회",
-      "address": "강원특별자치도 횡성군 청일면 속실리 산 1",
-      "roadAddress": "강원특별자치도 횡성군 청일면 봉명로 60",
-      "status": "영업/정상",
-      "licenseDate": "1999-10-30"
-    },
-    {
       "name": "개인",
       "address": "강원특별자치도 횡성군 청일면 춘당리 875",
       "roadAddress": "강원특별자치도 횡성군 청일면 청정로 1295",
-      "status": "영업/정상",
-      "licenseDate": "1999-10-30"
-    },
-    {
-      "name": "봉덕상회",
-      "address": "강원특별자치도 횡성군 청일면 갑천리 282",
-      "roadAddress": "강원특별자치도 횡성군 청일면 봉덕로299번길 35",
-      "status": "영업/정상",
-      "licenseDate": "1999-10-30"
-    },
-    {
-      "name": "마을회관상회",
-      "address": "강원특별자치도 횡성군 서원면 옥계리 641",
-      "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1999-10-30"
     },

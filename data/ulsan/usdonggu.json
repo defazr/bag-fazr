@@ -1,0 +1,1088 @@
+{
+  "region": "울산광역시",
+  "regionSlug": "ulsan",
+  "district": "동구",
+  "districtSlug": "usdonggu",
+  "updatedAt": "2026-03-26",
+  "totalCount": 154,
+  "stores": [
+    {
+      "name": "벽산우진마트",
+      "address": "울산광역시 동구 화정동 242",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-06"
+    },
+    {
+      "name": "은빛마트",
+      "address": "울산광역시 동구 전하동 651-8",
+      "roadAddress": "울산광역시 동구 진성3길 19  (전하동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-10"
+    },
+    {
+      "name": "엘벳엘슈퍼",
+      "address": "울산광역시 동구 전하동 675-1",
+      "roadAddress": "울산광역시 동구 진성5길 65  (전하동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-20"
+    },
+    {
+      "name": "협이마트",
+      "address": "울산광역시 동구 방어동 477-31",
+      "roadAddress": "울산광역시 동구 화진4가길 28  (방어동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-20"
+    },
+    {
+      "name": "문현목재철물",
+      "address": "울산광역시 동구 방어동 480-39",
+      "roadAddress": "울산광역시 동구 월봉6가길 36  (방어동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-10-20"
+    },
+    {
+      "name": "은정슈퍼",
+      "address": "울산광역시 동구 전하동 649-3",
+      "roadAddress": "울산광역시 동구 진성12길 104  (전하동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-01"
+    },
+    {
+      "name": "빙그레할인마트",
+      "address": "울산광역시 동구 방어동 화암지구 89B 8N",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-11-28"
+    },
+    {
+      "name": "스파슈퍼",
+      "address": "울산광역시 동구 전하동 672-8",
+      "roadAddress": "울산광역시 동구 진성5길 91  (전하동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-15"
+    },
+    {
+      "name": "산록슈퍼",
+      "address": "울산광역시 동구 전하동 764-14",
+      "roadAddress": "울산광역시 동구 봉수로 313  (전하동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-21"
+    },
+    {
+      "name": "미근당스토아",
+      "address": "울산광역시 동구 화정동 648-15",
+      "roadAddress": "울산광역시 동구 화정5길 6  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-30"
+    },
+    {
+      "name": "통일슈퍼",
+      "address": "울산광역시 동구 방어동 130-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-09-29"
+    },
+    {
+      "name": "송이슈퍼",
+      "address": "울산광역시 동구 화정동 876-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-12-10"
+    },
+    {
+      "name": "영남유통",
+      "address": "울산광역시 동구 서부동 113-104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-09"
+    },
+    {
+      "name": "이천슈퍼",
+      "address": "울산광역시 동구 서부동 244-7 세운상가 113호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-09"
+    },
+    {
+      "name": "통영건어물",
+      "address": "울산광역시 동구 화정동 866-1",
+      "roadAddress": "울산광역시 동구 월봉10길 19  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-25"
+    },
+    {
+      "name": "호성전기철물",
+      "address": "울산광역시 동구 화정동 850-12",
+      "roadAddress": "울산광역시 동구 양지5길 59  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-04"
+    },
+    {
+      "name": "영주농산물",
+      "address": "울산광역시 동구 화정동 639-46",
+      "roadAddress": "울산광역시 동구 화정8길 33  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-04"
+    },
+    {
+      "name": "유마트",
+      "address": "울산광역시 동구 일산동 462-11",
+      "roadAddress": "울산광역시 동구 번덕1길 38-1  (일산동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-23"
+    },
+    {
+      "name": "한듬마트",
+      "address": "울산광역시 동구 화정동 146-14",
+      "roadAddress": "울산광역시 동구 대송8길 66  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-01"
+    },
+    {
+      "name": "영마트",
+      "address": "울산광역시 동구 전하동 450-3 전하시장내",
+      "roadAddress": "울산광역시 동구 녹수1길 6  (전하동,전하시장내)",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-19"
+    },
+    {
+      "name": "선희슈퍼",
+      "address": "울산광역시 동구 화정동 168-1",
+      "roadAddress": "울산광역시 동구 대송10길 18  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-29"
+    },
+    {
+      "name": "정림스토아",
+      "address": "울산광역시 동구 방어동 문현3B 1N 정림아파트 302",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-19"
+    },
+    {
+      "name": "대성식품",
+      "address": "울산광역시 동구 전하동 619-9",
+      "roadAddress": "울산광역시 동구 진성10길 143  (전하동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-02"
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "울산광역시 동구 일산동 578-1",
+      "roadAddress": "울산광역시 동구 번덕7가길 14  (일산동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-02"
+    },
+    {
+      "name": "경주슈퍼",
+      "address": "울산광역시 동구 화정동 152-28",
+      "roadAddress": "울산광역시 동구 대송7길 56  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-11"
+    },
+    {
+      "name": "한남유통",
+      "address": "울산광역시 동구 화정동 867-16",
+      "roadAddress": "울산광역시 동구 월봉10길 31  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-17"
+    },
+    {
+      "name": "대림주유소",
+      "address": "울산광역시 동구 방어동 931-5",
+      "roadAddress": "울산광역시 동구 방어진순환도로 496  (방어동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-24"
+    },
+    {
+      "name": "동구환경(주)",
+      "address": "울산광역시 동구 방어동 921-3",
+      "roadAddress": "울산광역시 동구 화진2가길 19  (방어동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-30"
+    },
+    {
+      "name": "상태마트",
+      "address": "울산광역시 동구 화정동 871-1",
+      "roadAddress": "울산광역시 동구 월봉8길 48  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-30"
+    },
+    {
+      "name": "옥이마트",
+      "address": "울산광역시 동구 화정동 871-12",
+      "roadAddress": "울산광역시 동구 월봉12길 59  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-30"
+    },
+    {
+      "name": "소미슈퍼",
+      "address": "울산광역시 동구 화정동 653-31",
+      "roadAddress": "울산광역시 동구 화진5길 12  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-30"
+    },
+    {
+      "name": "일산슈퍼",
+      "address": "울산광역시 동구 일산동 575-1",
+      "roadAddress": "울산광역시 동구 번덕로 23-1  (일산동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-11"
+    },
+    {
+      "name": "모계쉼터",
+      "address": "울산광역시 동구 주전동 90-10",
+      "roadAddress": "울산광역시 동구 주전해안길 2  (주전동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-18"
+    },
+    {
+      "name": "방어진슈퍼",
+      "address": "울산광역시 동구 방어동 198-4",
+      "roadAddress": "울산광역시 동구 내진길 48  (방어동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-18"
+    },
+    {
+      "name": "천호슈퍼",
+      "address": "울산광역시 동구 화정동 640-30",
+      "roadAddress": "울산광역시 동구 화정8길 18  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-21"
+    },
+    {
+      "name": "민이슈퍼",
+      "address": "울산광역시 동구 일산동 572-18",
+      "roadAddress": "울산광역시 동구 번덕4길 73  (일산동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-21"
+    },
+    {
+      "name": "신진슈퍼",
+      "address": "울산광역시 동구 방어동 907-7",
+      "roadAddress": "울산광역시 동구 월봉12길 94  (방어동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-26"
+    },
+    {
+      "name": "남목슈퍼",
+      "address": "울산광역시 동구 동부동 667-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-14"
+    },
+    {
+      "name": "화정슈퍼",
+      "address": "울산광역시 동구 화정동 654-7",
+      "roadAddress": "울산광역시 동구 화진5길 11  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-06"
+    },
+    {
+      "name": "월드마트",
+      "address": "울산광역시 동구 서부동 1지구 2-3N",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-21"
+    },
+    {
+      "name": "동서슈퍼",
+      "address": "울산광역시 동구 일산동 533-1",
+      "roadAddress": "울산광역시 동구 학문로 25  (일산동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-27"
+    },
+    {
+      "name": "일산환경",
+      "address": "울산광역시 동구 전하동 544-51",
+      "roadAddress": "울산광역시 동구 전하로 2  (전하동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-18"
+    },
+    {
+      "name": "공주슈퍼",
+      "address": "울산광역시 동구 주전동 738-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-25"
+    },
+    {
+      "name": "홈플러스마트",
+      "address": "울산광역시 동구 일산동 455-5",
+      "roadAddress": "울산광역시 동구 대송로 12  (일산동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-04"
+    },
+    {
+      "name": "문현마트",
+      "address": "울산광역시 동구 방어동 문현 한라50B 12N",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-07"
+    },
+    {
+      "name": "화정상회",
+      "address": "울산광역시 동구 화정동 641-6",
+      "roadAddress": "울산광역시 동구 화정2길 13  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-20"
+    },
+    {
+      "name": "현대할인마켓",
+      "address": "울산광역시 동구 화정동 851  현대상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-27"
+    },
+    {
+      "name": "빅토리아마트",
+      "address": "울산광역시 동구 방어동 광운빌라 A동 1202호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-27"
+    },
+    {
+      "name": "동진슈퍼",
+      "address": "울산광역시 동구 화정동 859-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-23"
+    },
+    {
+      "name": "장미슈퍼",
+      "address": "울산광역시 동구 화정동 858-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-03"
+    },
+    {
+      "name": "킴스쇼핑스토아",
+      "address": "울산광역시 동구 화정동 856-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-30"
+    },
+    {
+      "name": "신화정",
+      "address": "울산광역시 동구 화정동 601-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-12"
+    },
+    {
+      "name": "하나마트",
+      "address": "울산광역시 동구 화정동 636-21",
+      "roadAddress": "울산광역시 동구 화정4길 63  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-25"
+    },
+    {
+      "name": "성우슈퍼",
+      "address": "울산광역시 동구 전하동 635-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-29"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "울산광역시 동구 일산동 530-25",
+      "roadAddress": "울산광역시 동구 번덕9길 105  (일산동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-29"
+    },
+    {
+      "name": "서부패밀리문구점",
+      "address": "울산광역시 동구 서부동 257-4 서부패밀리아파트 117동앞",
+      "roadAddress": "울산광역시 동구 서부길 25  (서부동,서부패밀리아파트 117동앞)",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-14"
+    },
+    {
+      "name": "따따봉슈퍼",
+      "address": "울산광역시 동구 방어동 306-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-25"
+    },
+    {
+      "name": "강동슈퍼",
+      "address": "울산광역시 동구 일산동 207",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-28"
+    },
+    {
+      "name": "부일스토아",
+      "address": "울산광역시 동구 전하동 686-2",
+      "roadAddress": "울산광역시 동구 진성13길 17  (전하동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-16"
+    },
+    {
+      "name": "삼성슈퍼",
+      "address": "울산광역시 동구 전하동 544-276",
+      "roadAddress": "울산광역시 동구 녹수8길 27  (전하동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-06"
+    },
+    {
+      "name": "송정마트",
+      "address": "울산광역시 동구 방어동 916-3",
+      "roadAddress": "울산광역시 동구 월봉10길 100  (방어동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-15"
+    },
+    {
+      "name": "석산프라자슈퍼",
+      "address": "울산광역시 동구 동부동 408-2",
+      "roadAddress": "울산광역시 동구 옥류로 78  (동부동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-27"
+    },
+    {
+      "name": "한솔슈퍼",
+      "address": "울산광역시 동구 화정동 867-29",
+      "roadAddress": "울산광역시 동구 월봉11길 36  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-15"
+    },
+    {
+      "name": "새천년마트",
+      "address": "울산광역시 동구 방어동 918-7",
+      "roadAddress": "울산광역시 동구 월봉3길 27  (방어동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-17"
+    },
+    {
+      "name": "보성슈퍼",
+      "address": "울산광역시 동구 전하동 649-2",
+      "roadAddress": "울산광역시 동구 진성3길 37  (전하동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-19"
+    },
+    {
+      "name": "엔젤화장품",
+      "address": "울산광역시 동구 화정동 861-1",
+      "roadAddress": "울산광역시 동구 월봉10길 9  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-25"
+    },
+    {
+      "name": "다래슈퍼",
+      "address": "울산광역시 동구 화정동 860-16",
+      "roadAddress": "울산광역시 동구 월봉10길 7  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-09"
+    },
+    {
+      "name": "늘푸른마트",
+      "address": "울산광역시 동구 서부동 510-22",
+      "roadAddress": "울산광역시 동구 남목4길 1  (서부동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-17"
+    },
+    {
+      "name": "하니슈퍼",
+      "address": "울산광역시 동구 일산동 555-36 4통6반",
+      "roadAddress": "울산광역시 동구 번덕4가길 16  (일산동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-17"
+    },
+    {
+      "name": "근대화슈퍼",
+      "address": "울산광역시 동구 화정동 646-12",
+      "roadAddress": "울산광역시 동구 화정6길 41  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-28"
+    },
+    {
+      "name": "훼미리마트",
+      "address": "울산광역시 동구 방어동 217-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-28"
+    },
+    {
+      "name": "동남슈퍼",
+      "address": "울산광역시 동구 화정동 174-8",
+      "roadAddress": "울산광역시 동구 대학길 29  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-20"
+    },
+    {
+      "name": "고성슈퍼",
+      "address": "울산광역시 동구 화정동 636-8",
+      "roadAddress": "울산광역시 동구 화정1길 35  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-24"
+    },
+    {
+      "name": "신데렐라미용실",
+      "address": "울산광역시 동구 방어동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-05"
+    },
+    {
+      "name": "등대슈퍼",
+      "address": "울산광역시 동구 방어동 124-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-05"
+    },
+    {
+      "name": "안동슈퍼",
+      "address": "울산광역시 동구 방어동 150-6",
+      "roadAddress": "울산광역시 동구 내진1길 10-6  (방어동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-11"
+    },
+    {
+      "name": "우주마트",
+      "address": "울산광역시 동구 전하동 753-18",
+      "roadAddress": "울산광역시 동구 산록2길 35  (전하동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-22"
+    },
+    {
+      "name": "현대중공업복지회관",
+      "address": "울산광역시 동구 전하동 1",
+      "roadAddress": "울산광역시 동구 방어진순환도로 1000  (전하동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-28"
+    },
+    {
+      "name": "월마트",
+      "address": "울산광역시 동구 화정동 주공아파트앞",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-28"
+    },
+    {
+      "name": "경주슈퍼",
+      "address": "울산광역시 동구 화정동 140-30",
+      "roadAddress": "울산광역시 동구 대송5길 63  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-22"
+    },
+    {
+      "name": "씨티마트",
+      "address": "울산광역시 동구 화정동 159-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-22"
+    },
+    {
+      "name": "남경슈퍼",
+      "address": "울산광역시 동구 화정동 162",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-04"
+    },
+    {
+      "name": "일산A슈퍼",
+      "address": "울산광역시 동구 전하동 628-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-06"
+    },
+    {
+      "name": "영천슈퍼",
+      "address": "울산광역시 동구 전하동 300-85",
+      "roadAddress": "울산광역시 동구 바드래1길 27  (전하동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-08"
+    },
+    {
+      "name": "한아름APT슈퍼마켓",
+      "address": "울산광역시 동구 서부동 284-1 한아름APT102동 303호",
+      "roadAddress": "울산광역시 동구 방어진순환도로 1045  (서부동,한아름APT102동 303호)",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-08"
+    },
+    {
+      "name": "동부문구사",
+      "address": "울산광역시 동구 동부동 667-1",
+      "roadAddress": "울산광역시 동구 남목20길 32  (동부동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-02"
+    },
+    {
+      "name": "도남마트",
+      "address": "울산광역시 동구 전하동 750-12",
+      "roadAddress": "울산광역시 동구 봉수로 331  (전하동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-13"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "울산광역시 동구 화정동 137-24",
+      "roadAddress": "울산광역시 동구 대송5길 3  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-06-20"
+    },
+    {
+      "name": "충북슈퍼",
+      "address": "울산광역시 동구 방어동 925-12",
+      "roadAddress": "울산광역시 동구 방어진순환도로 495  (방어동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-28"
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "울산광역시 동구 방어동 928-10",
+      "roadAddress": "울산광역시 동구 월봉2길 10  (방어동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-28"
+    },
+    {
+      "name": "신광슈퍼",
+      "address": "울산광역시 동구 서부동 290-6 신광그린 1710",
+      "roadAddress": "울산광역시 동구 방어진순환도로 1099  (서부동,신광그린 1710)",
+      "status": "영업/정상",
+      "licenseDate": "1995-09-12"
+    },
+    {
+      "name": "동화슈퍼",
+      "address": "울산광역시 동구 화정동 851-5 현대아파트 상가동 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-12"
+    },
+    {
+      "name": "미포부식",
+      "address": "울산광역시 동구 서부동 591",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-01-30"
+    },
+    {
+      "name": "진주슈퍼",
+      "address": "울산광역시 동구 화정동 851-2",
+      "roadAddress": "울산광역시 동구 봉수로 104  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-02-08"
+    },
+    {
+      "name": "현대한마음스토아",
+      "address": "울산광역시 동구 전하동 550-42 한마음 현대a 1502",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-09"
+    },
+    {
+      "name": "늘푸른유통",
+      "address": "울산광역시 동구 전하동 768 늘푸른a 102-1406",
+      "roadAddress": "울산광역시 동구 산록길 68  (전하동,늘푸른a 102-1406)",
+      "status": "영업/정상",
+      "licenseDate": "1996-02-09"
+    },
+    {
+      "name": "한라타워관리실",
+      "address": "울산광역시 동구 전하동 393-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-02-24"
+    },
+    {
+      "name": "현대패밀리동부아파트관리소",
+      "address": "울산광역시 동구 동부동 150",
+      "roadAddress": "울산광역시 동구 안산로 50  (동부동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-09"
+    },
+    {
+      "name": "정우슈퍼",
+      "address": "울산광역시 동구 방어동 907-5",
+      "roadAddress": "울산광역시 동구 월봉11길 87  (방어동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-01"
+    },
+    {
+      "name": "화암미니슈퍼",
+      "address": "울산광역시 동구 방어동 934-29",
+      "roadAddress": "울산광역시 동구 북진1길 54  (방어동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-01"
+    },
+    {
+      "name": "과일상회",
+      "address": "울산광역시 동구 방어동 380-15",
+      "roadAddress": "울산광역시 동구 꽃바위로 312  (방어동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-01"
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "울산광역시 동구 방어동 922-30",
+      "roadAddress": "울산광역시 동구 화진2길 11  (방어동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-01"
+    },
+    {
+      "name": "양지슈퍼",
+      "address": "울산광역시 동구 방어동 281-6",
+      "roadAddress": "울산광역시 동구 상진4길 26-1  (방어동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-04-01"
+    },
+    {
+      "name": "수정슈퍼",
+      "address": "울산광역시 동구 화정동 636-30",
+      "roadAddress": "울산광역시 동구 화정4길 85  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-10-09"
+    },
+    {
+      "name": "동울산슈퍼",
+      "address": "울산광역시 동구 화정동 642-18",
+      "roadAddress": "울산광역시 동구 화정7길 4  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-11-20"
+    },
+    {
+      "name": "번덕슈퍼",
+      "address": "울산광역시 동구 일산동 539-17",
+      "roadAddress": "울산광역시 동구 번덕3가길 6  (일산동)",
+      "status": "영업/정상",
+      "licenseDate": "1996-12-30"
+    },
+    {
+      "name": "광명슈퍼",
+      "address": "울산광역시 동구 화정동 851-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-02-08"
+    },
+    {
+      "name": "대영마트",
+      "address": "울산광역시 동구 화정동 662-37",
+      "roadAddress": "울산광역시 동구 화진4가길 20-16  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-13"
+    },
+    {
+      "name": "일진슈퍼",
+      "address": "울산광역시 동구 전하동 646-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-15"
+    },
+    {
+      "name": "동울산슈퍼마켓",
+      "address": "울산광역시 동구 화정동 137-25",
+      "roadAddress": "울산광역시 동구 대송5길 1  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-16"
+    },
+    {
+      "name": "용우건어물",
+      "address": "울산광역시 동구 화정동 166-6",
+      "roadAddress": "울산광역시 동구 대송8길 20  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-16"
+    },
+    {
+      "name": "월드유통",
+      "address": "울산광역시 동구 방어동 554-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-05"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "울산광역시 동구 일산동 579-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-03-05"
+    },
+    {
+      "name": "민이슈퍼",
+      "address": "울산광역시 동구 전하동 664-3",
+      "roadAddress": "울산광역시 동구 진성12길 80  (전하동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-03"
+    },
+    {
+      "name": "해동슈퍼",
+      "address": "울산광역시 동구 화정동 656-34",
+      "roadAddress": "울산광역시 동구 화진1길 77  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-08"
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "울산광역시 동구 화정동 640-1",
+      "roadAddress": "울산광역시 동구 화정8길 45  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-08"
+    },
+    {
+      "name": "이화슈퍼",
+      "address": "울산광역시 동구 전하동 665",
+      "roadAddress": "울산광역시 동구 진성10길 77  (전하동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-05-13"
+    },
+    {
+      "name": "엘지25 울산남목점",
+      "address": "울산광역시 동구 동부동 201-122",
+      "roadAddress": "울산광역시 동구 동해안로 28  (동부동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-06-17"
+    },
+    {
+      "name": "만석슈퍼",
+      "address": "울산광역시 동구 화정동 652-19",
+      "roadAddress": "울산광역시 동구 화진6길 10  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-07-29"
+    },
+    {
+      "name": "농심가 할인마트",
+      "address": "울산광역시 동구 전하동 300-85",
+      "roadAddress": "울산광역시 동구 바드래1길 27  (전하동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-19"
+    },
+    {
+      "name": "해운마트",
+      "address": "울산광역시 동구 동부동 398",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-30"
+    },
+    {
+      "name": "드림마트",
+      "address": "울산광역시 동구 방어동 문현지구 74B 7N",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-30"
+    },
+    {
+      "name": "은하APT",
+      "address": "울산광역시 동구 전하동 393-3",
+      "roadAddress": "울산광역시 동구 진성6길 155-4  (전하동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-27"
+    },
+    {
+      "name": "미포슈퍼",
+      "address": "울산광역시 동구 서부동 591",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-28"
+    },
+    {
+      "name": "오성건어물",
+      "address": "울산광역시 동구 화정동 171-4",
+      "roadAddress": "울산광역시 동구 대송8길 6  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-26"
+    },
+    {
+      "name": "대원슈퍼",
+      "address": "울산광역시 동구 화정동 156-1",
+      "roadAddress": "울산광역시 동구 대송3길 72  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-26"
+    },
+    {
+      "name": "삼양슈퍼",
+      "address": "울산광역시 동구 일산동 575-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-20"
+    },
+    {
+      "name": "동울산슈퍼",
+      "address": "울산광역시 동구 화정동 137-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-20"
+    },
+    {
+      "name": "왕손건어물",
+      "address": "울산광역시 동구 화정동 171-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-12-26"
+    },
+    {
+      "name": "일산슈퍼",
+      "address": "울산광역시 동구 전하동 646-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-01-15"
+    },
+    {
+      "name": "영남유통",
+      "address": "울산광역시 동구 화정동 165-1",
+      "roadAddress": "울산광역시 동구 대송2길 28  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-01-13"
+    },
+    {
+      "name": "서영슈퍼",
+      "address": "울산광역시 동구 서부동 서영골든APT상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-12"
+    },
+    {
+      "name": "우리동네마트",
+      "address": "울산광역시 동구 방어동 922-16",
+      "roadAddress": "울산광역시 동구 화진2가길 10  (방어동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-03-24"
+    },
+    {
+      "name": "덕성스토아",
+      "address": "울산광역시 동구 방어동 문현지구 41B 11N",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-04-08"
+    },
+    {
+      "name": "LG슈퍼렛",
+      "address": "울산광역시 동구 화정동 601-39",
+      "roadAddress": "울산광역시 동구 대송로 72  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-22"
+    },
+    {
+      "name": "윤나슈퍼",
+      "address": "울산광역시 동구 방어동 211-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-14"
+    },
+    {
+      "name": "세정슈퍼마켓",
+      "address": "울산광역시 동구 일산동 573-1",
+      "roadAddress": "울산광역시 동구 번덕9길 56  (일산동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-22"
+    },
+    {
+      "name": "금창슈퍼",
+      "address": "울산광역시 동구 화정동 601-1",
+      "roadAddress": "울산광역시 동구 대송12길 62  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-05-27"
+    },
+    {
+      "name": "신세계마트",
+      "address": "울산광역시 동구 전하동 746-3",
+      "roadAddress": "울산광역시 동구 산록10길 6  (전하동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-02"
+    },
+    {
+      "name": "화암비취마트",
+      "address": "울산광역시 동구 방어동 문현지구 177B 3N",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-09"
+    },
+    {
+      "name": "해양슈퍼",
+      "address": "울산광역시 동구 전하동 544-161",
+      "roadAddress": "울산광역시 동구 녹수길 58  (전하동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-22"
+    },
+    {
+      "name": "대진슈퍼",
+      "address": "울산광역시 동구 일산동 461-1",
+      "roadAddress": "울산광역시 동구 대송로 31  (일산동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-11"
+    },
+    {
+      "name": "태양슈퍼마켓",
+      "address": "울산광역시 동구 일산동 573-23",
+      "roadAddress": "울산광역시 동구 번덕로 14  (일산동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-12"
+    },
+    {
+      "name": "아성한아름슈퍼",
+      "address": "울산광역시 동구 동부동 350-1 상가 1-1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-17"
+    },
+    {
+      "name": "백암슈퍼",
+      "address": "울산광역시 동구 동부동 672 상가 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-17"
+    },
+    {
+      "name": "만물25시 편의점",
+      "address": "울산광역시 동구 일산동 534-2",
+      "roadAddress": "울산광역시 동구 학문로 9  (일산동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-30"
+    },
+    {
+      "name": "호남식품",
+      "address": "울산광역시 동구 방어동 371-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-06-30"
+    },
+    {
+      "name": "시티25슈퍼",
+      "address": "울산광역시 동구 방어동 105B 8N",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-13"
+    },
+    {
+      "name": "병영상회",
+      "address": "울산광역시 동구 방어동 250-2",
+      "roadAddress": "울산광역시 동구 상진길 60  (방어동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-13"
+    },
+    {
+      "name": "정화슈퍼",
+      "address": "울산광역시 동구 전하동 300-266",
+      "roadAddress": "울산광역시 동구 바드래1길 5  (전하동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-23"
+    },
+    {
+      "name": "한빛마트",
+      "address": "울산광역시 동구 전하동 624",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-29"
+    },
+    {
+      "name": "현대비치유통",
+      "address": "울산광역시 동구 방어동 505-8",
+      "roadAddress": "울산광역시 동구 화문로 76  (방어동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-07-31"
+    },
+    {
+      "name": "대광슈퍼",
+      "address": "울산광역시 동구 일산동 461-7",
+      "roadAddress": "울산광역시 동구 번덕1길 52  (일산동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-03"
+    },
+    {
+      "name": "사거리슈퍼",
+      "address": "울산광역시 동구 일산동 534-27",
+      "roadAddress": "울산광역시 동구 번덕2길 10  (일산동)",
+      "status": "영업/정상",
+      "licenseDate": "1998-08-03"
+    }
+  ]
+}

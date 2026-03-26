@@ -2,17 +2,17 @@
   "region": "제주특별자치도",
   "regionSlug": "jeju",
   "updatedAt": "2026-03-26",
-  "totalCount": 828,
+  "totalCount": 817,
   "districts": [
     {
       "district": "제주시",
       "districtSlug": "jejusi",
-      "count": 202
+      "count": 201
     },
     {
       "district": "서귀포시",
       "districtSlug": "seogwipo",
-      "count": 626
+      "count": 616
     }
   ]
 }

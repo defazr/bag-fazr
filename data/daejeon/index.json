@@ -2,32 +2,32 @@
   "region": "대전광역시",
   "regionSlug": "daejeon",
   "updatedAt": "2026-03-26",
-  "totalCount": 913,
+  "totalCount": 2230,
   "districts": [
     {
       "district": "대덕구",
       "districtSlug": "daedeok",
-      "count": 617
+      "count": 607
     },
     {
       "district": "동구",
       "districtSlug": "djdonggu",
-      "count": 0
+      "count": 4
     },
     {
       "district": "중구",
       "districtSlug": "djjunggu",
-      "count": 0
+      "count": 1324
     },
     {
       "district": "서구",
       "districtSlug": "djseogu",
-      "count": 0
+      "count": 11
     },
     {
       "district": "유성구",
       "districtSlug": "yuseong",
-      "count": 296
+      "count": 284
     }
   ]
 }

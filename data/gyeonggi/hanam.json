@@ -4,7 +4,7 @@
   "district": "하남시",
   "districtSlug": "hanam",
   "updatedAt": "2026-03-26",
-  "totalCount": 25,
+  "totalCount": 23,
   "stores": [
     {
       "name": "지에스(GS)25 남양주본점",
@@ -91,13 +91,6 @@
       "licenseDate": "2000-09-26"
     },
     {
-      "name": "한아름마트",
-      "address": "경기도 하남시 덕풍동 435-0053 덕풍하이퍼 맞은편",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-09-26"
-    },
-    {
       "name": "영슈퍼",
       "address": "경기도 하남시 풍산동 산 40-0009 육교밑",
       "roadAddress": "",
@@ -121,13 +114,6 @@
     {
       "name": "하나마트",
       "address": "경기도 하남시 덕풍동 432-0020 영천탕옆",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-09-26"
-    },
-    {
-      "name": "훼미리마트하남점",
-      "address": "경기도 하남시 창우동 520 은행상가내",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2000-09-26"

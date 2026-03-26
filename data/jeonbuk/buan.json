@@ -4,7 +4,7 @@
   "district": "부안군",
   "districtSlug": "buan",
   "updatedAt": "2026-03-26",
-  "totalCount": 279,
+  "totalCount": 270,
   "stores": [
     {
       "name": "수락상회",
@@ -322,29 +322,8 @@
       "licenseDate": "1995-10-16"
     },
     {
-      "name": "대초상회",
-      "address": "전북특별자치도 부안군 행안면 대초리 58-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1995-01-05"
-    },
-    {
-      "name": "남산슈퍼",
-      "address": "전북특별자치도 부안군 행안면 대초리 95-4",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1995-01-05"
-    },
-    {
       "name": "행안농협",
       "address": "전북특별자치도 부안군 행안면 삼간리 1541",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1995-01-05"
-    },
-    {
-      "name": "삼산상회",
-      "address": "전북특별자치도 부안군 행안면 신기리 6-2",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1995-01-05"
@@ -917,13 +896,6 @@
       "licenseDate": ""
     },
     {
-      "name": "복권앤편의점",
-      "address": "전북특별자치도 부안군 부안읍 동중리 131-6",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2005-07-04"
-    },
-    {
       "name": "훼미리마트(싱싱24시마트)",
       "address": "전북특별자치도 부안군 변산면 격포리 282-54",
       "roadAddress": "",
@@ -1085,13 +1057,6 @@
       "licenseDate": "2007-06-08"
     },
     {
-      "name": "코끼리마트",
-      "address": "전북특별자치도 부안군 부안읍 봉덕리 816-6",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2007-06-08"
-    },
-    {
       "name": "진양슈퍼",
       "address": "전북특별자치도 부안군 계화면 계화리 278",
       "roadAddress": "",
@@ -1188,20 +1153,6 @@
       "roadAddress": "전북특별자치도 부안군 부안읍 용계길 13",
       "status": "영업/정상",
       "licenseDate": "2009-06-09"
-    },
-    {
-      "name": "부안건어물",
-      "address": "전북특별자치도 부안군 부안읍 봉덕리 579-4",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2009-08-28"
-    },
-    {
-      "name": "변산농업협동조합위도지소",
-      "address": "전북특별자치도 부안군 위도면 진리 235",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2009-10-20"
     },
     {
       "name": "터미널매점",
@@ -1582,13 +1533,6 @@
       "licenseDate": "2020-08-27"
     },
     {
-      "name": "줄포효마트(주)가남",
-      "address": "전북특별자치도 부안군 줄포면 줄포리 726-6",
-      "roadAddress": "전북특별자치도 부안군 줄포면 부안로 880-1",
-      "status": "영업/정상",
-      "licenseDate": "2020-11-19"
-    },
-    {
       "name": "유한회사 탑마트",
       "address": "전북특별자치도 부안군 부안읍 봉덕리 779",
       "roadAddress": "전북특별자치도 부안군 부안읍 석정로 252, H.K빌딩",
@@ -1657,13 +1601,6 @@
       "roadAddress": "전북특별자치도 부안군 줄포면 줄포중앙로 88",
       "status": "영업/정상",
       "licenseDate": "2021-10-08"
-    },
-    {
-      "name": "동부주유소",
-      "address": "전북특별자치도 부안군 부안읍 선은리 656-5",
-      "roadAddress": "전북특별자치도 부안군 부안읍 석정로 87",
-      "status": "영업/정상",
-      "licenseDate": "2021-10-29"
     },
     {
       "name": "유성지업사",

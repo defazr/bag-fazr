@@ -4,7 +4,7 @@
   "district": "창녕군",
   "districtSlug": "changnyeong",
   "updatedAt": "2026-03-26",
-  "totalCount": 116,
+  "totalCount": 113,
   "stores": [
     {
       "name": "동포미니슈퍼",
@@ -448,13 +448,6 @@
       "licenseDate": ""
     },
     {
-      "name": "롯데슈퍼",
-      "address": "경상남도 창녕군 부곡면 거문리 686",
-      "roadAddress": "경상남도 창녕군 부곡면 거문1길 40",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "직교상회",
       "address": "경상남도 창녕군 창녕읍 직교리 61",
       "roadAddress": "",
@@ -492,13 +485,6 @@
     {
       "name": "대진슈퍼",
       "address": "경상남도 창녕군 창녕읍 교리 279-5",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "제일슈퍼",
-      "address": "경상남도 창녕군 창녕읍 교상리 59-1",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -787,13 +773,6 @@
       "name": "장마건어물상회",
       "address": "경상남도 창녕군 장마면 강리 804-2",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "관조할인마트",
-      "address": "경상남도 창녕군 창녕읍 술정리 331",
-      "roadAddress": "경상남도 창녕군 창녕읍 군청길 25",
       "status": "영업/정상",
       "licenseDate": ""
     },

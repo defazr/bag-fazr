@@ -44,11 +44,11 @@ export async function generateMetadata({
   return {
     title:
       count > 0
-        ? `${districtInfo.name} 종량제 봉투 파는곳 ${count}곳 (2026 최신)`
+        ? `${districtInfo.name} 종량제 봉투 파는곳 | 가격 | 크기 (2026 최신)`
         : `${districtInfo.name} 종량제 봉투 판매처 | 데이터 준비중`,
     description:
       count > 0
-        ? `${districtInfo.name}에서 종량제 봉투를 구매할 수 있는 판매처 ${count}곳을 확인하세요. 영업 중인 곳만 제공합니다.`
+        ? `${districtInfo.name} 종량제 봉투 판매처 ${count}곳. 가격, 크기, 편의점 구매 가능 여부까지. 영업 중인 곳만 제공합니다.`
         : `${districtInfo.name} 종량제 봉투 판매처 정보를 준비하고 있습니다. ${regionInfo.name}의 다른 지역 판매처를 먼저 확인해보세요.`,
     alternates: {
       canonical: `https://bag.fazr.co.kr/${region}/${district}`,
@@ -171,10 +171,15 @@ export default async function DistrictPage({ params }: PageProps) {
 
       <section className="mb-6">
         <h1 className="text-2xl font-bold text-gray-900">
-          {districtInfo.name} 종량제 봉투 판매처
+          {districtInfo.name} 종량제 봉투 파는곳
         </h1>
         <p className="mt-1 text-gray-600">
           총 {data.totalCount}곳 · 데이터 갱신일: {data.updatedAt}
+        </p>
+        <p className="mt-3 text-sm text-gray-500 leading-relaxed">
+          종량제 봉투는 지역별 가격과 크기가 다르며, 편의점과 마트에서도 구매할
+          수 있습니다. 아래에서 {districtInfo.name} 종량제 봉투 판매처를
+          확인하세요.
         </p>
       </section>
 
@@ -201,24 +206,32 @@ export default async function DistrictPage({ params }: PageProps) {
 
       <FaqSection faqs={faqs} />
 
-      {adjacentDistricts.length > 0 && (
-        <section className="mt-10">
-          <h2 className="mb-3 text-lg font-bold text-gray-900">
-            {regionInfo.name} 다른 지역 판매처
-          </h2>
+      <section className="mt-10">
+        <h2 className="mb-3 text-lg font-bold text-gray-900">
+          {regionInfo.name} 다른 지역 판매처
+        </h2>
+        {adjacentDistricts.length > 0 && (
           <div className="flex flex-wrap gap-2">
             {adjacentDistricts.map((d) => (
-              <a
+              <Link
                 key={d.districtSlug}
                 href={`/${region}/${d.districtSlug}`}
                 className="rounded-full border border-gray-200 px-3 py-1 text-sm text-gray-600 hover:border-blue-300 hover:text-blue-600"
               >
                 {d.district} ({d.count}곳)
-              </a>
+              </Link>
             ))}
           </div>
-        </section>
-      )}
+        )}
+        <div className="mt-4">
+          <Link
+            href={`/${region}`}
+            className="inline-block text-sm text-blue-600 hover:underline"
+          >
+            {regionInfo.name} 전체 판매처 보기 →
+          </Link>
+        </div>
+      </section>
     </>
   );
 }

@@ -4,7 +4,7 @@
   "district": "포항시",
   "districtSlug": "pohang",
   "updatedAt": "2026-03-26",
-  "totalCount": 579,
+  "totalCount": 511,
   "stores": [
     {
       "name": "올림픽슈퍼",
@@ -331,13 +331,6 @@
     {
       "name": "수영수퍼",
       "address": "경상북도 포항시 남구 송도동 494-29",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-09-05"
-    },
-    {
-      "name": "제일슈퍼",
-      "address": "경상북도 포항시 남구 송도동 산 1 9  통1  반",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2000-09-05"
@@ -700,13 +693,6 @@
       "licenseDate": "2000-09-05"
     },
     {
-      "name": "코사마트(서부)",
-      "address": "경상북도 포항시 남구 송도동 396-25",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-09-05"
-    },
-    {
       "name": "아름종합마트",
       "address": "경상북도 포항시 남구 송도동 414-1",
       "roadAddress": "",
@@ -943,13 +929,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
-    },
-    {
-      "name": "세일마트",
-      "address": "경상북도 포항시 북구 죽도동 74-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-01-02"
     },
     {
       "name": "쌍미슈퍼",
@@ -1246,29 +1225,8 @@
       "licenseDate": "1994-12-11"
     },
     {
-      "name": "형제상회",
-      "address": "경상북도 포항시 북구 송라면 중산리 607",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-03"
-    },
-    {
       "name": "경남상회",
       "address": "경상북도 포항시 북구 송라면 중산리 544",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-03"
-    },
-    {
-      "name": "25시 편의점",
-      "address": "경상북도 포항시 북구 송라면 중산리 528",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-03"
-    },
-    {
-      "name": "대구상회",
-      "address": "경상북도 포항시 북구 송라면 중산리 590",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1994-12-03"
@@ -1330,20 +1288,6 @@
       "licenseDate": "2002-12-17"
     },
     {
-      "name": "홈마트",
-      "address": "경상북도 포항시 북구 장성동 866-302",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "에이스마트",
-      "address": "경상북도 포항시 북구 장성동 1352-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "한양마트",
       "address": "경상북도 포항시 북구 장성동 955 대방한양상가",
       "roadAddress": "",
@@ -1358,43 +1302,8 @@
       "licenseDate": ""
     },
     {
-      "name": "삼보수퍼",
-      "address": "경상북도 포항시 북구 장성동 866-186",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "보성마트",
       "address": "경상북도 포항시 북구 장성동 1342 보성상가",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "장성수퍼",
-      "address": "경상북도 포항시 북구 장성동 866-191",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "신장성수퍼",
-      "address": "경상북도 포항시 북구 장성동 866-123",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "충주마트",
-      "address": "경상북도 포항시 북구 장성동 866-14",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "대동수퍼",
-      "address": "경상북도 포항시 북구 장성동 1245",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1414,13 +1323,6 @@
       "licenseDate": ""
     },
     {
-      "name": "현마트",
-      "address": "경상북도 포항시 북구 장성동 866-26",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "월드마트",
       "address": "경상북도 포항시 북구 장성동 동지구39블럭1롯트현대상가",
       "roadAddress": "",
@@ -1433,20 +1335,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
-    },
-    {
-      "name": "마을구판장",
-      "address": "경상북도 포항시 북구 송라면 대전리 301",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-03"
-    },
-    {
-      "name": "마을구판장",
-      "address": "경상북도 포항시 북구 송라면 대전리 301",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-03"
     },
     {
       "name": "마을구판장",
@@ -1533,13 +1421,6 @@
       "licenseDate": "1995-10-10"
     },
     {
-      "name": "리마트",
-      "address": "경상북도 포항시 북구 두호동 1074",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1995-10-20"
-    },
-    {
       "name": "로터리슈퍼",
       "address": "경상북도 포항시 북구 흥해읍 성내리 39-17",
       "roadAddress": "",
@@ -1603,13 +1484,6 @@
       "licenseDate": "1995-12-10"
     },
     {
-      "name": "희망슈퍼",
-      "address": "경상북도 포항시 북구 두호동 205-10",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1995-12-10"
-    },
-    {
       "name": "세화슈퍼",
       "address": "경상북도 포항시 북구 흥해읍 중성리 48-1",
       "roadAddress": "",
@@ -1633,13 +1507,6 @@
     {
       "name": "일성상회",
       "address": "경상북도 포항시 북구 흥해읍 용한리 103",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1995-12-10"
-    },
-    {
-      "name": "마을구판장",
-      "address": "경상북도 포항시 북구 송라면 대전리 301",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1995-12-10"
@@ -1764,13 +1631,6 @@
       "licenseDate": ""
     },
     {
-      "name": "담배소매",
-      "address": "경상북도 포항시 북구 청하면 덕천리 208",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "현대종합금속사원아파트매점",
       "address": "경상북도 포항시 북구 청하면 덕성리 441-16",
       "roadAddress": "",
@@ -1820,29 +1680,8 @@
       "licenseDate": ""
     },
     {
-      "name": "담배소매",
-      "address": "경상북도 포항시 북구 청하면 덕천리 208",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "운정수퍼",
       "address": "경상북도 포항시 북구 청하면 이가리 70",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "담배소매",
-      "address": "경상북도 포항시 북구 청하면 덕천리 208",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "담배소매",
-      "address": "경상북도 포항시 북구 청하면 덕천리 208",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1906,13 +1745,6 @@
     {
       "name": "세창수퍼",
       "address": "경상북도 포항시 북구 죽도동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1995-12-08"
-    },
-    {
-      "name": "희망슈퍼",
-      "address": "경상북도 포항시 북구 두호동 205-10",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1995-12-08"
@@ -2016,20 +1848,6 @@
       "licenseDate": "1995-06-20"
     },
     {
-      "name": "대명수퍼",
-      "address": "경상북도 포항시 북구 죽도동 622-20",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1995-05-03"
-    },
-    {
-      "name": "신라수퍼",
-      "address": "경상북도 포항시 북구 죽도동 601-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1995-03-10"
-    },
-    {
       "name": "금강수퍼",
       "address": "경상북도 포항시 북구 죽도동 611-7",
       "roadAddress": "",
@@ -2079,13 +1897,6 @@
       "licenseDate": "1995-12-08"
     },
     {
-      "name": "세일마트",
-      "address": "경상북도 포항시 북구 죽도동 74-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1996-01-05"
-    },
-    {
       "name": "새마을부녀회",
       "address": "경상북도 포항시 북구 청하면 고현리 320",
       "roadAddress": "",
@@ -2107,22 +1918,8 @@
       "licenseDate": ""
     },
     {
-      "name": "구멍가게",
-      "address": "경상북도 포항시 북구 동빈1가 64-6",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "안정수퍼",
       "address": "경상북도 포항시 북구 청하면 월포리 304-3",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "구멍가게",
-      "address": "경상북도 포항시 북구 동빈1가 64-6",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -2142,25 +1939,11 @@
       "licenseDate": "1996-03-04"
     },
     {
-      "name": "세창수퍼",
-      "address": "경상북도 포항시 북구 죽도동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1996-02-12"
-    },
-    {
       "name": "명성수퍼",
       "address": "경상북도 포항시 북구 죽도동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1996-03-10"
-    },
-    {
-      "name": "리마트",
-      "address": "경상북도 포항시 북구 두호동 1074",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1996-04-20"
     },
     {
       "name": "교보마트",
@@ -2203,13 +1986,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1996-07-04"
-    },
-    {
-      "name": "사랑수퍼",
-      "address": "경상북도 포항시 북구 죽도동 104-16",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1996-06-20"
     },
     {
       "name": "사랑수퍼",
@@ -2308,76 +2084,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1996-03-26"
-    },
-    {
-      "name": "동민유통",
-      "address": "경상북도 포항시 북구 장성동 866",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1996-01-01"
-    },
-    {
-      "name": "장성수퍼",
-      "address": "경상북도 포항시 북구 장성동 866-191",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1996-01-01"
-    },
-    {
-      "name": "신장성수퍼",
-      "address": "경상북도 포항시 북구 장성동 866-123",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1996-01-01"
-    },
-    {
-      "name": "대하유통",
-      "address": "경상북도 포항시 북구 학산동 91-3",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1996-01-01"
-    },
-    {
-      "name": "충주마트",
-      "address": "경상북도 포항시 북구 장성동 866-14",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1996-01-01"
-    },
-    {
-      "name": "대동수퍼",
-      "address": "경상북도 포항시 북구 장성동 1245",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1996-01-01"
-    },
-    {
-      "name": "시영수퍼",
-      "address": "경상북도 포항시 북구 장성동 1369",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1996-01-01"
-    },
-    {
-      "name": "월드마트",
-      "address": "경상북도 포항시 북구 학잠동 56-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1996-01-01"
-    },
-    {
-      "name": "대명종합유통",
-      "address": "경상북도 포항시 북구 장성동 1356-10",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1996-01-01"
-    },
-    {
-      "name": "대림유통",
-      "address": "경상북도 포항시 북구 장성동 서지구 93B1L",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1996-01-01"
     },
     {
       "name": "코사마트",
@@ -2562,20 +2268,6 @@
       "licenseDate": "1997-08-03"
     },
     {
-      "name": "솔밭슈퍼",
-      "address": "경상북도 포항시 북구 송라면 지경리 395",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1997-09-03"
-    },
-    {
-      "name": "하이퍼마트",
-      "address": "경상북도 포항시 북구 죽도동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1997-10-02"
-    },
-    {
       "name": "하이퍼마트",
       "address": "경상북도 포항시 북구 죽도동",
       "roadAddress": "",
@@ -2637,13 +2329,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1997-06-23"
-    },
-    {
-      "name": "그랜드수퍼",
-      "address": "경상북도 포항시 북구 죽도동 212-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1997-04-18"
     },
     {
       "name": "오거리냉면",
@@ -2716,13 +2401,6 @@
       "licenseDate": "1995-12-08"
     },
     {
-      "name": "계원상회(신)",
-      "address": "경상북도 포항시 남구 장기면 계원리 348",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1995-12-08"
-    },
-    {
       "name": "용암이용소",
       "address": "경상북도 포항시 남구 장기면 금곡리 305",
       "roadAddress": "",
@@ -2744,13 +2422,6 @@
       "licenseDate": "1995-12-08"
     },
     {
-      "name": "담배집",
-      "address": "경상북도 포항시 남구 장기면 수성리 100",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1995-12-08"
-    },
-    {
       "name": "신성수퍼",
       "address": "경상북도 포항시 남구 장기면 임중리 231",
       "roadAddress": "",
@@ -2760,13 +2431,6 @@
     {
       "name": "시장슈퍼",
       "address": "경상북도 포항시 남구 송도동 440-6",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1995-12-08"
-    },
-    {
-      "name": "담배집",
-      "address": "경상북도 포항시 남구 장기면 수성리 100",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1995-12-08"
@@ -2954,13 +2618,6 @@
       "licenseDate": "1999-12-15"
     },
     {
-      "name": "고향수퍼",
-      "address": "경상북도 포항시 북구 죽도동 649-17",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-07-03"
-    },
-    {
       "name": "조사리 구판장",
       "address": "경상북도 포항시 북구  62",
       "roadAddress": "",
@@ -2973,20 +2630,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1999-12-02"
-    },
-    {
-      "name": "한아름수퍼",
-      "address": "경상북도 포항시 북구 죽도동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-05-21"
-    },
-    {
-      "name": "화신수퍼",
-      "address": "경상북도 포항시 북구 죽도동 649-30",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-08-25"
     },
     {
       "name": "그린할인마트",
@@ -3171,13 +2814,6 @@
       "licenseDate": ""
     },
     {
-      "name": "신일슈퍼",
-      "address": "경상북도 포항시 남구 해도동 510-25",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "대각2리 상점",
       "address": "경상북도 포항시 남구 대송면 대각리 106-8",
       "roadAddress": "",
@@ -3222,13 +2858,6 @@
     {
       "name": "일광마트",
       "address": "경상북도 포항시 남구 대송면 제내리 1034",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "회관상점",
-      "address": "경상북도 포항시 남구 대송면 공수리 225",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -3297,13 +2926,6 @@
       "licenseDate": "2000-07-07"
     },
     {
-      "name": "동아마트",
-      "address": "경상북도 포항시 북구 두호동 1022",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "다정유통",
       "address": "경상북도 포항시 북구 대신동 69-6",
       "roadAddress": "",
@@ -3318,36 +2940,8 @@
       "licenseDate": ""
     },
     {
-      "name": "경주슈퍼",
-      "address": "경상북도 포항시 북구 대신동 67-4",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "한스마트",
       "address": "경상북도 포항시 북구 대신동 62-25",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "세일마트",
-      "address": "경상북도 포항시 북구 죽도동 74-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "봉국슈퍼",
-      "address": "경상북도 포항시 북구 대신동 64-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "고려종합유통",
-      "address": "경상북도 포항시 북구 대신동 1-13",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -3362,13 +2956,6 @@
     {
       "name": "마더스슈퍼",
       "address": "경상북도 포항시 북구 동빈1가 69-16",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "구멍가게",
-      "address": "경상북도 포항시 북구 동빈1가 64-6",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -3437,13 +3024,6 @@
       "licenseDate": "2000-04-07"
     },
     {
-      "name": "해변수퍼",
-      "address": "경상북도 포항시 남구 장기면 계원리 356",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-07-12"
-    },
-    {
       "name": "청송슈퍼",
       "address": "경상북도 포항시 남구 대도동 636",
       "roadAddress": "",
@@ -3467,13 +3047,6 @@
     {
       "name": "동해유통",
       "address": "경상북도 포항시 남구 대도동 634-3",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-08-09"
-    },
-    {
-      "name": "서울유통",
-      "address": "경상북도 포항시 남구 대도동 627-11",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2000-08-09"
@@ -3528,13 +3101,6 @@
       "licenseDate": "2000-08-09"
     },
     {
-      "name": "지영슈퍼",
-      "address": "경상북도 포항시 남구 송도동 311-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-08-09"
-    },
-    {
       "name": "충남슈퍼",
       "address": "경상북도 포항시 남구 대도동 174-1",
       "roadAddress": "",
@@ -3575,13 +3141,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1997-10-28"
-    },
-    {
-      "name": "수영수퍼",
-      "address": "경상북도 포항시 남구 송도동 494-29",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
     },
     {
       "name": "만물슈퍼",
@@ -3691,13 +3250,6 @@
     {
       "name": "동해종합슈퍼",
       "address": "경상북도 포항시 북구 학산동 83-4",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "대하유통",
-      "address": "경상북도 포항시 북구 학산동 91-3",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -3822,13 +3374,6 @@
       "licenseDate": "2000-09-05"
     },
     {
-      "name": "코사마트(서부)",
-      "address": "경상북도 포항시 남구 송도동 396-25",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-09-05"
-    },
-    {
       "name": "축협송도지점",
       "address": "경상북도 포항시 남구 송도동 485-16",
       "roadAddress": "",
@@ -3838,13 +3383,6 @@
     {
       "name": "문예서점",
       "address": "경상북도 포항시 남구 송도동 440-19",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-09-05"
-    },
-    {
-      "name": "시장슈퍼",
-      "address": "경상북도 포항시 남구 송도동 440-6",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2000-09-05"
@@ -3892,13 +3430,6 @@
       "licenseDate": "2000-06-15"
     },
     {
-      "name": "킴스마트",
-      "address": "경상북도 포항시 북구 죽도동 713-4",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-09-19"
-    },
-    {
       "name": "미니마트",
       "address": "경상북도 포항시 북구 죽도동 75-14",
       "roadAddress": "",
@@ -3925,13 +3456,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
-    },
-    {
-      "name": "현대마트",
-      "address": "경상북도 포항시 북구 두호동 1055 주공1차상가",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1999-08-24"
     },
     {
       "name": "새싹유통",

@@ -4,7 +4,7 @@
   "district": "홍천군",
   "districtSlug": "hongcheon",
   "updatedAt": "2026-03-26",
-  "totalCount": 266,
+  "totalCount": 259,
   "stores": [
     {
       "name": "봉은상호",
@@ -665,13 +665,6 @@
       "licenseDate": "1994-12-10"
     },
     {
-      "name": "선일유통",
-      "address": "강원특별자치도 홍천군 홍천읍 연봉리 465-7",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "까치슈퍼",
       "address": "강원특별자치도 홍천군 홍천읍 연봉리 461-2",
       "roadAddress": "",
@@ -696,13 +689,6 @@
       "name": "수복슈퍼",
       "address": "강원특별자치도 홍천군 두촌면 자은리 934",
       "roadAddress": "강원특별자치도 홍천군 두촌면 자은로 321-26",
-      "status": "영업/정상",
-      "licenseDate": "1994-11-30"
-    },
-    {
-      "name": "금강슈퍼",
-      "address": "강원특별자치도 홍천군 두촌면 자은리 817-1",
-      "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1994-11-30"
     },
@@ -1568,13 +1554,6 @@
       "licenseDate": "2000-09-16"
     },
     {
-      "name": "형제마트",
-      "address": "강원특별자치도 홍천군 서석면 풍암리 216-26",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-05-18"
-    },
-    {
       "name": "서봉사마을관리휴양지",
       "address": "강원특별자치도 홍천군 서석면 검산리 마을관리휴양지",
       "roadAddress": "",
@@ -1650,20 +1629,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2000-06-28"
-    },
-    {
-      "name": "매일슈퍼",
-      "address": "강원특별자치도 홍천군 홍천읍 진리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2006-08-01"
-    },
-    {
-      "name": "남산유통",
-      "address": "강원특별자치도 홍천군 홍천읍 연봉리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2007-01-02"
     },
     {
       "name": "삼호마트",
@@ -1771,13 +1736,6 @@
       "licenseDate": "2007-01-02"
     },
     {
-      "name": "대성상회",
-      "address": "강원특별자치도 홍천군 홍천읍 신장대리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "동네24시편의점",
       "address": "강원특별자치도 홍천군 홍천읍 진리",
       "roadAddress": "",
@@ -1808,13 +1766,6 @@
     {
       "name": "매일슈퍼",
       "address": "강원특별자치도 홍천군 홍천읍 연봉리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "매일슈퍼",
-      "address": "강원특별자치도 홍천군 홍천읍 진리",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""

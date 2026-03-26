@@ -4,7 +4,7 @@
   "district": "강진군",
   "districtSlug": "gangjin",
   "updatedAt": "2026-03-26",
-  "totalCount": 119,
+  "totalCount": 117,
   "stores": [
     {
       "name": "모란마트",
@@ -290,13 +290,6 @@
       "name": "종합슈퍼",
       "address": "전라남도 강진군 강진읍 동성리 332",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "서울상사",
-      "address": "전라남도 강진군 강진읍 동성리 222",
-      "roadAddress": "전라남도 강진군 강진읍 중앙로 143-1",
       "status": "영업/정상",
       "licenseDate": ""
     },
@@ -817,13 +810,6 @@
       "roadAddress": "전라남도 강진군 칠량면 칠량로 83",
       "status": "영업/정상",
       "licenseDate": "2022-06-23"
-    },
-    {
-      "name": "GS25강진칠량점",
-      "address": "전라남도 강진군 칠량면 영동리 1068-8",
-      "roadAddress": "전라남도 강진군 칠량면 칠량로 77",
-      "status": "영업/정상",
-      "licenseDate": "2022-07-27"
     },
     {
       "name": "GS25강진칠량점",

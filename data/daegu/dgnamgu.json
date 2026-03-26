@@ -1,0 +1,80 @@
+{
+  "region": "대구광역시",
+  "regionSlug": "daegu",
+  "district": "남구",
+  "districtSlug": "dgnamgu",
+  "updatedAt": "2026-03-26",
+  "totalCount": 10,
+  "stores": [
+    {
+      "name": "뉴마트",
+      "address": "",
+      "roadAddress": "대구광역시 남구 큰골길 111, 203호 (대명동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-04-20"
+    },
+    {
+      "name": "OK마트",
+      "address": "대구광역시 남구 대명동 1678-5",
+      "roadAddress": "대구광역시 남구 현충로25길 5 (대명동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-11-22"
+    },
+    {
+      "name": "윌마트",
+      "address": "대구광역시 남구 대명동 3036-41   1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "퍼펙트마트",
+      "address": "",
+      "roadAddress": "대구광역시 남구 대명서로 151, 1동 1층 103,105호 (대명동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-02-13"
+    },
+    {
+      "name": "원마트",
+      "address": "",
+      "roadAddress": "대구광역시 남구 대명서로 152 (대명동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-06-15"
+    },
+    {
+      "name": "달성군청 복지위생과",
+      "address": "대구광역시 남구 대명동 1583",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-17"
+    },
+    {
+      "name": "웰빙천냥하우스",
+      "address": "대구광역시 남구 대명동 1141-2",
+      "roadAddress": "대구광역시 남구 월배로 474, 지하층 (대명동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-04-16"
+    },
+    {
+      "name": "빅세일마트",
+      "address": "대구광역시 남구 대명동 3036-41",
+      "roadAddress": "대구광역시 남구 성당로 180 (대명동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-04-20"
+    },
+    {
+      "name": "참마트(성당시장점)",
+      "address": "대구광역시 남구 대명동 3036-5",
+      "roadAddress": "대구광역시 남구 대경길 8 (대명동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-01-07"
+    },
+    {
+      "name": "대백마트 성당점",
+      "address": "대구광역시 남구 대명동 3024-15",
+      "roadAddress": "대구광역시 남구 성당시장길 108-3 (대명동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-10-24"
+    }
+  ]
+}

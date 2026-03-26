@@ -1,0 +1,3391 @@
+{
+  "region": "대구광역시",
+  "regionSlug": "daegu",
+  "district": "중구",
+  "districtSlug": "dgjunggu",
+  "updatedAt": "2026-03-26",
+  "totalCount": 483,
+  "stores": [
+    {
+      "name": "황실마트",
+      "address": "대구광역시 중구 남산동 2466-94",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동산슈퍼",
+      "address": "대구광역시 중구 대신동 99",
+      "roadAddress": "대구광역시 중구 달성로 71  (대신동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)코리아세븐",
+      "address": "대구광역시 중구 삼덕동2가 3-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "대구광역시 중구 남산동 2110-5",
+      "roadAddress": "대구광역시 중구 중앙대로 269  (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통",
+      "address": "대구광역시 중구 남산동 2117-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태평마트",
+      "address": "대구광역시 중구 태평로1가 23-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나로마트",
+      "address": "대구광역시 중구 남산동 2486-1",
+      "roadAddress": "대구광역시 중구 남산로7길 50 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대봉 홈마트",
+      "address": "대구광역시 중구 대봉동 173-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수창마트",
+      "address": "대구광역시 중구 수창동 65-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "도원상회",
+      "address": "대구광역시 중구 도원동 3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나유통",
+      "address": "대구광역시 중구 동인동1가 294-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옥토마트",
+      "address": "대구광역시 중구 전동 17-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트공평공원점",
+      "address": "대구광역시 중구 공평동 14-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "M 마트",
+      "address": "대구광역시 중구 대신동 179-8",
+      "roadAddress": "대구광역시 중구 달성공원로 4 (대신동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수창수퍼",
+      "address": "대구광역시 중구 수창동 38-3",
+      "roadAddress": "대구광역시 중구 서성로20길 28 (수창동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북상회",
+      "address": "대구광역시 중구 삼덕동3가 40-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상주수퍼",
+      "address": "대구광역시 중구 남산동 232-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평화수퍼",
+      "address": "대구광역시 중구 삼덕동1가 49-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "라이프수퍼",
+      "address": "대구광역시 중구 태평로1가 1-187",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "탑마트",
+      "address": "대구광역시 중구 남산동 2636-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코리아 25시",
+      "address": "대구광역시 중구 남산동 2409-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무궁화마트",
+      "address": "대구광역시 중구 포정동 16",
+      "roadAddress": "대구광역시 중구 경상감영길 111  (포정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물상회",
+      "address": "대구광역시 중구 대신동 266-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)코리아세븐대구동인2호점",
+      "address": "대구광역시 중구 동인동1가 288-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)코리아세븐대구동인점",
+      "address": "대구광역시 중구 동인동2가 221",
+      "roadAddress": "대구광역시 중구 국채보상로 694  (동인동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태평양수퍼",
+      "address": "대구광역시 중구 남산동 2998-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "꽃동네수퍼",
+      "address": "대구광역시 중구 남산동 644",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)대구백화점 대백프라자",
+      "address": "대구광역시 중구 대봉동 214",
+      "roadAddress": "대구광역시 중구 명덕로 333  (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)대구백화점",
+      "address": "대구광역시 중구 동성로2가 174",
+      "roadAddress": "대구광역시 중구 동성로 30  (동성로2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동일양곡",
+      "address": "대구광역시 중구 동인동1가 116",
+      "roadAddress": "대구광역시 중구 태평로 225 (동인동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "대구광역시 중구 동인동2가 239",
+      "roadAddress": "대구광역시 중구 국채보상로140길 26  (동인동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경남양곡",
+      "address": "대구광역시 중구 동인동1가 116",
+      "roadAddress": "대구광역시 중구 태평로 225 (동인동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경인슈퍼",
+      "address": "대구광역시 중구 동인동1가 116",
+      "roadAddress": "대구광역시 중구 태평로 225 (동인동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광신문구",
+      "address": "대구광역시 중구 동인동2가 111-2",
+      "roadAddress": "대구광역시 중구 동덕로 178 (동인동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모아슈퍼",
+      "address": "대구광역시 중구 동인동1가 204-7",
+      "roadAddress": "대구광역시 중구 공평로20길 51-34 (동인동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북광유",
+      "address": "대구광역시 중구 동인동2가 25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "24시간LG스타풍국점",
+      "address": "대구광역시 중구 동인동1가 377",
+      "roadAddress": "대구광역시 중구 태평로 257  (동인동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "흥구석유LG스타동인점",
+      "address": "대구광역시 중구 동인동1가 357",
+      "roadAddress": "대구광역시 중구 동덕로38길 5  (동인동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "본전상회",
+      "address": "대구광역시 중구 동인동4가 480-3",
+      "roadAddress": "대구광역시 중구 국채보상로150길 15-9 (동인동4가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영화슈퍼",
+      "address": "대구광역시 중구 동인동4가 120-10",
+      "roadAddress": "대구광역시 중구 국채보상로 701 (동인동4가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동부메가마트",
+      "address": "대구광역시 중구 동인동4가 469-2",
+      "roadAddress": "대구광역시 중구 국채보상로151길 8 (동인동4가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주)보광훼미리마트",
+      "address": "대구광역시 중구 동인동4가 445-5",
+      "roadAddress": "대구광역시 중구 국채보상로 735 (동인동4가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "생필유통",
+      "address": "대구광역시 중구 동인동4가 191",
+      "roadAddress": "대구광역시 중구 국채보상로140길 13  (동인동4가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "21c슈퍼",
+      "address": "대구광역시 중구 삼덕동2가 299",
+      "roadAddress": "대구광역시 중구 달구벌대로 2203  (삼덕동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "준마트",
+      "address": "대구광역시 중구 남산동 2121-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문화슈퍼",
+      "address": "대구광역시 중구 동문동 1-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양마트(주)",
+      "address": "대구광역시 중구 태평로1가 1-187  태평라이프상가1층 5호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "대구광역시 중구 태평로1가 44-1   대구역지하상가  15, 22호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원앤원편의점",
+      "address": "대구광역시 중구 대봉동 185-40",
+      "roadAddress": "대구광역시 중구 명덕로 315  (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홍산슈퍼",
+      "address": "대구광역시 중구 남산동 2213-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "도동수퍼",
+      "address": "대구광역시 중구 종로1가 86-1",
+      "roadAddress": "대구광역시 중구 중앙대로81길 64  (종로1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)동양마트(삼덕점)",
+      "address": "대구광역시 중구 삼덕동1가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25 대구종로점",
+      "address": "대구광역시 중구 종로1가 34-2",
+      "roadAddress": "대구광역시 중구 국채보상로 552  (종로1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "K 할인마트",
+      "address": "대구광역시 중구 봉산동 172-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "C앤S 동인점",
+      "address": "대구광역시 중구 동인동4가 382-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "재건상회",
+      "address": "대구광역시 중구 대신동 265-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "건우식품",
+      "address": "대구광역시 중구 대신동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼진마트",
+      "address": "대구광역시 중구 동인동1가 96-1",
+      "roadAddress": "대구광역시 중구 국채보상로131길 69 (동인동1가)",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-24"
+    },
+    {
+      "name": "의성수퍼",
+      "address": "대구광역시 중구 삼덕동3가 354-7",
+      "roadAddress": "대구광역시 중구 달구벌대로445길 9 (삼덕동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-29"
+    },
+    {
+      "name": "훼미리마트봉산점",
+      "address": "대구광역시 중구 대봉동 715-21",
+      "roadAddress": "대구광역시 중구 달구벌대로 2162 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-07-31"
+    },
+    {
+      "name": "성주수퍼",
+      "address": "대구광역시 중구 대봉동 100-11",
+      "roadAddress": "대구광역시 중구 대봉로 219 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-18"
+    },
+    {
+      "name": "가정슈퍼",
+      "address": "대구광역시 중구 동인동3가 272-11",
+      "roadAddress": "대구광역시 중구 국채보상로143길 60 (동인동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "사거리수퍼",
+      "address": "대구광역시 중구 대봉동 13-9",
+      "roadAddress": "대구광역시 중구 달구벌대로446길 6 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-09-06"
+    },
+    {
+      "name": "(주)한유통 경대병원점",
+      "address": "대구광역시 중구 삼덕동2가 45",
+      "roadAddress": "대구광역시 중구 동덕로 141  (삼덕동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "OK25시",
+      "address": "대구광역시 중구 대봉동 19-30",
+      "roadAddress": "대구광역시 중구 달구벌대로440길 23 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-09-29"
+    },
+    {
+      "name": "제일쇼핑",
+      "address": "대구광역시 중구 동인동4가 454-7",
+      "roadAddress": "대구광역시 중구 국채보상로149길 10-1 (동인동4가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명성슈퍼",
+      "address": "대구광역시 중구 동인동1가 284-1",
+      "roadAddress": "대구광역시 중구 공평로20길 54 (동인동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동인유통",
+      "address": "대구광역시 중구 동인동2가 221",
+      "roadAddress": "대구광역시 중구 국채보상로 694  (동인동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진주슈퍼",
+      "address": "대구광역시 중구 동인동1가 33-1",
+      "roadAddress": "대구광역시 중구 국채보상로131길 55 (동인동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태광할인마트",
+      "address": "대구광역시 중구 동인동4가 4",
+      "roadAddress": "대구광역시 중구 동덕로36길 48  (동인동4가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼보문구사",
+      "address": "대구광역시 중구 동인동4가 121",
+      "roadAddress": "대구광역시 중구 국채보상로139길 16  (동인동4가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청솔할인마트",
+      "address": "대구광역시 중구 동인동4가 259-1",
+      "roadAddress": "대구광역시 중구 동덕로30길 65 (동인동4가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동인마트",
+      "address": "대구광역시 중구 동인동2가 62-7",
+      "roadAddress": "대구광역시 중구 경상감영길 288 (동인동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경일사",
+      "address": "대구광역시 중구 동인동1가 57-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼양양품",
+      "address": "대구광역시 중구 동인동3가 20-19",
+      "roadAddress": "대구광역시 중구 동덕로36길 55 (동인동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모정약국",
+      "address": "대구광역시 중구 동인동3가 88",
+      "roadAddress": "대구광역시 중구 동덕로36길 57 (동인동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동인할인슈퍼",
+      "address": "대구광역시 중구 동인동3가 207-4",
+      "roadAddress": "대구광역시 중구 국채보상로149길 37 (동인동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동진약국",
+      "address": "대구광역시 중구 동인동3가 229-6",
+      "roadAddress": "대구광역시 중구 국채보상로149길 55 (동인동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "점보세탁소",
+      "address": "대구광역시 중구 동인동3가 234-4",
+      "roadAddress": "대구광역시 중구 동덕로38길 105 (동인동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대지슈퍼",
+      "address": "대구광역시 중구 동인동3가 371-5",
+      "roadAddress": "대구광역시 중구 국채보상로149길 102-1 (동인동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "맨션슈퍼",
+      "address": "대구광역시 중구 동인동3가 192-78",
+      "roadAddress": "대구광역시 중구 동덕로38길 108 (동인동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동서쇼핑",
+      "address": "대구광역시 중구 동인동3가 3-1",
+      "roadAddress": "대구광역시 중구 동덕로36길 39 (동인동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동남슈퍼",
+      "address": "대구광역시 중구 동인동3가 343",
+      "roadAddress": "대구광역시 중구 국채보상로143길 74  (동인동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "16페밀리슈퍼",
+      "address": "대구광역시 중구 동인동3가 271-150",
+      "roadAddress": "대구광역시 중구 태평로51길 6 (동인동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한진할인마트",
+      "address": "대구광역시 중구 동인동3가 360-2",
+      "roadAddress": "대구광역시 중구 국채보상로143길 76 (동인동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안동수퍼",
+      "address": "대구광역시 중구 대봉동 31-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-02"
+    },
+    {
+      "name": "참 마트",
+      "address": "대구광역시 중구 남산동 2479-11",
+      "roadAddress": "대구광역시 중구 남산로13길 53 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-08"
+    },
+    {
+      "name": "참마트",
+      "address": "대구광역시 중구 삼덕동3가 364-18",
+      "roadAddress": "대구광역시 중구 달구벌대로 2219 (삼덕동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-20"
+    },
+    {
+      "name": "영천수퍼",
+      "address": "대구광역시 중구 대봉동 138-1",
+      "roadAddress": "대구광역시 중구 대봉로 215 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-20"
+    },
+    {
+      "name": "영천수퍼",
+      "address": "대구광역시 중구 대봉동 717-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-20"
+    },
+    {
+      "name": "한아름마트",
+      "address": "대구광역시 중구 대봉동 590-281",
+      "roadAddress": "대구광역시 중구 명륜로22안길 28 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-30"
+    },
+    {
+      "name": "LA24시편의점",
+      "address": "대구광역시 중구 동인동3가 271-142",
+      "roadAddress": "대구광역시 중구 태평로 266 (동인동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2003-10-30"
+    },
+    {
+      "name": "신우유통 남산1호점",
+      "address": "대구광역시 중구 남산동 2117-7",
+      "roadAddress": "대구광역시 중구 남산로6길 81 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-01"
+    },
+    {
+      "name": "스마일마트",
+      "address": "대구광역시 중구 동인동3가 192-71",
+      "roadAddress": "대구광역시 중구 국채보상로143길 46 (동인동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-06"
+    },
+    {
+      "name": "바이더웨이 종로점",
+      "address": "대구광역시 중구 종로1가 31-2",
+      "roadAddress": "대구광역시 중구 국채보상로 551 (종로1가)",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-06"
+    },
+    {
+      "name": "LG25 대백남문점",
+      "address": "대구광역시 중구 공평동 31-1",
+      "roadAddress": "대구광역시 중구 동성로6길 15 (공평동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-06"
+    },
+    {
+      "name": "중앙마트",
+      "address": "대구광역시 중구 남일동 114-4",
+      "roadAddress": "대구광역시 중구 중앙대로 400-2 (남일동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-07"
+    },
+    {
+      "name": "필 할인마트",
+      "address": "대구광역시 중구 대봉동 55-95",
+      "roadAddress": "대구광역시 중구 대봉로 236 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-07"
+    },
+    {
+      "name": "혜성상회",
+      "address": "대구광역시 중구 시장북로 2-25",
+      "roadAddress": "대구광역시 중구 국채보상로101길 61 (시장북로)",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-24"
+    },
+    {
+      "name": "OK 21",
+      "address": "대구광역시 중구 태평로2가 1-50",
+      "roadAddress": "대구광역시 중구 태평로 135 (태평로2가)",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-29"
+    },
+    {
+      "name": "제일수퍼",
+      "address": "대구광역시 중구 봉산동 230-74",
+      "roadAddress": "대구광역시 중구 명륜로23길 36 (봉산동)",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-29"
+    },
+    {
+      "name": "진성슈퍼",
+      "address": "대구광역시 중구 동인동3가 271-82",
+      "roadAddress": "대구광역시 중구 태평로 283-7 (동인동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2003-12-10"
+    },
+    {
+      "name": "대봉수퍼",
+      "address": "대구광역시 중구 대봉동 25-11",
+      "roadAddress": "대구광역시 중구 동덕로14길 7 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-03"
+    },
+    {
+      "name": "유림수퍼",
+      "address": "대구광역시 중구 공평동 57-11",
+      "roadAddress": "대구광역시 중구 동성로3길 63 (공평동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-13"
+    },
+    {
+      "name": "공평마트",
+      "address": "대구광역시 중구 공평동 63",
+      "roadAddress": "대구광역시 중구 동성로3길 62  (공평동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-13"
+    },
+    {
+      "name": "금광상회",
+      "address": "대구광역시 중구 동인동3가 271-153",
+      "roadAddress": "대구광역시 중구 태평로 265 (동인동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름상회",
+      "address": "대구광역시 중구 삼덕동2가 139-13",
+      "roadAddress": "대구광역시 중구 공평로 26-11 (삼덕동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼덕슈퍼",
+      "address": "대구광역시 중구 삼덕동1가 38-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "흥덕상회",
+      "address": "대구광역시 중구 삼덕동1가 38-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한성상회",
+      "address": "대구광역시 중구 삼덕동2가 192-4",
+      "roadAddress": "대구광역시 중구 달구벌대로 2179 (삼덕동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한유통",
+      "address": "대구광역시 중구 삼덕동2가 101-1",
+      "roadAddress": "대구광역시 중구 동덕로 125 (삼덕동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔도상회",
+      "address": "대구광역시 중구 삼덕동1가 65-4",
+      "roadAddress": "대구광역시 중구 공평로 45-1 (삼덕동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대광슈퍼",
+      "address": "대구광역시 중구 삼덕동2가 275-2",
+      "roadAddress": "대구광역시 중구 달구벌대로 2197-17 (삼덕동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성주슈퍼",
+      "address": "대구광역시 중구 삼덕동2가 140-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25시편의점",
+      "address": "대구광역시 중구 삼덕동1가 8-13",
+      "roadAddress": "대구광역시 중구 동성로5길 20 (삼덕동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개미식품",
+      "address": "대구광역시 중구 삼덕동2가 12-9",
+      "roadAddress": "대구광역시 중구 공평로8길 5 (삼덕동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부곡상회",
+      "address": "대구광역시 중구 삼덕동2가 184",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아르마니슈퍼",
+      "address": "대구광역시 중구 삼덕동1가 53-6",
+      "roadAddress": "대구광역시 중구 동성로4길 30 (삼덕동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼덕슈퍼",
+      "address": "대구광역시 중구 삼덕동2가 187-33",
+      "roadAddress": "대구광역시 중구 달구벌대로 2167 (삼덕동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동진슈퍼",
+      "address": "대구광역시 중구 삼덕동3가 232-4",
+      "roadAddress": "대구광역시 중구 동덕로26길 108 (삼덕동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동남슈퍼",
+      "address": "대구광역시 중구 삼덕동3가 2-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대백슈퍼",
+      "address": "대구광역시 중구 삼덕동3가 2-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아슈퍼",
+      "address": "대구광역시 중구 삼덕동3가 327",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼영슈퍼",
+      "address": "대구광역시 중구 삼덕동3가 168-2",
+      "roadAddress": "대구광역시 중구 국채보상로150길 74 (삼덕동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태광슈퍼",
+      "address": "대구광역시 중구 삼덕동3가 258-5",
+      "roadAddress": "대구광역시 중구 달구벌대로443길 44-20 (삼덕동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전진슈퍼",
+      "address": "대구광역시 중구 삼덕동3가 276-5",
+      "roadAddress": "대구광역시 중구 달구벌대로447길 36 (삼덕동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "학생문구슈퍼",
+      "address": "대구광역시 중구 삼덕동3가 370-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선덕슈퍼",
+      "address": "대구광역시 중구 삼덕동3가 340-4",
+      "roadAddress": "대구광역시 중구 달구벌대로443길 20 (삼덕동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이수창점",
+      "address": "대구광역시 중구 도원동 3-219",
+      "roadAddress": "대구광역시 중구 달성로26길 7 (도원동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-16"
+    },
+    {
+      "name": "상본수퍼",
+      "address": "대구광역시 중구 교동 70-9",
+      "roadAddress": "대구광역시 중구 교동길 72 (교동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-16"
+    },
+    {
+      "name": "성원수퍼",
+      "address": "대구광역시 중구 문화동 1-7",
+      "roadAddress": "대구광역시 중구 교동1길 33 (문화동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-15"
+    },
+    {
+      "name": "LG25 대백점",
+      "address": "대구광역시 중구 공평동 59-4",
+      "roadAddress": "대구광역시 중구 동성로6길 52 (공평동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-15"
+    },
+    {
+      "name": "와글방",
+      "address": "대구광역시 중구 동성로2가 12-1",
+      "roadAddress": "대구광역시 중구 중앙대로 434-20 (동성로2가)",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-15"
+    },
+    {
+      "name": "LG25 중구 공평점",
+      "address": "대구광역시 중구 공평동 13-4",
+      "roadAddress": "대구광역시 중구 국채보상로 622 (공평동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-01-26"
+    },
+    {
+      "name": "햇살마트",
+      "address": "대구광역시 중구 대신동 241-1    대신지하상가 가열 88호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-03"
+    },
+    {
+      "name": "일신유통",
+      "address": "대구광역시 중구 남산동 2220-9",
+      "roadAddress": "대구광역시 중구 남산로4길 28 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-17"
+    },
+    {
+      "name": "미니스톱동성로점",
+      "address": "대구광역시 중구 남일동 109-2",
+      "roadAddress": "대구광역시 중구 중앙대로 394 (남일동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-17"
+    },
+    {
+      "name": "007마트",
+      "address": "대구광역시 중구 남산동 2115-11",
+      "roadAddress": "대구광역시 중구 명덕로35길 17 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-02-19"
+    },
+    {
+      "name": "훼미리마트 삼덕제일점",
+      "address": "대구광역시 중구 공평동 61-1",
+      "roadAddress": "대구광역시 중구 동성로6길 72 (공평동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-10"
+    },
+    {
+      "name": "푸른마트",
+      "address": "대구광역시 중구 남산동 661-7",
+      "roadAddress": "대구광역시 중구 중앙대로 331-1 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-03-22"
+    },
+    {
+      "name": "개미슈퍼",
+      "address": "대구광역시 중구 봉산동 221-3",
+      "roadAddress": "대구광역시 중구 봉산문화길 27 (봉산동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-06"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "대구광역시 중구 대봉동 743-5",
+      "roadAddress": "대구광역시 중구 명륜로 116-1 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-07"
+    },
+    {
+      "name": "건흥철물",
+      "address": "대구광역시 중구 대봉동 89-17",
+      "roadAddress": "대구광역시 중구 대봉로 241 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-12"
+    },
+    {
+      "name": "푸드24 중앙점",
+      "address": "대구광역시 중구 봉산동 128-10",
+      "roadAddress": "대구광역시 중구 봉산문화길 91 (봉산동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-26"
+    },
+    {
+      "name": "장군수퍼",
+      "address": "대구광역시 중구 남산동 242-32",
+      "roadAddress": "대구광역시 중구 재마루1길 31 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-04-29"
+    },
+    {
+      "name": "동진수퍼",
+      "address": "대구광역시 중구 남산동 2654-7",
+      "roadAddress": "대구광역시 중구 남산로17길 13 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-07"
+    },
+    {
+      "name": "가람수퍼",
+      "address": "대구광역시 중구 대봉동 590-254",
+      "roadAddress": "대구광역시 중구 명륜로26길 76 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-12"
+    },
+    {
+      "name": "대길문구사",
+      "address": "대구광역시 중구 삼덕동3가 274-2",
+      "roadAddress": "대구광역시 중구 동덕로26길 102-20 (삼덕동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일알뜰슈퍼",
+      "address": "대구광역시 중구 삼덕동3가 140-1",
+      "roadAddress": "대구광역시 중구 국채보상로150길 58 (삼덕동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "늘푸른소비센타",
+      "address": "대구광역시 중구 삼덕동3가 120-1",
+      "roadAddress": "대구광역시 중구 동덕로30길 90 (삼덕동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙식품",
+      "address": "대구광역시 중구 삼덕동3가 29-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한미식품",
+      "address": "대구광역시 중구 삼덕동1가 61-3",
+      "roadAddress": "대구광역시 중구 동성로5길 83 (삼덕동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통",
+      "address": "대구광역시 중구 삼덕동1가 39-14",
+      "roadAddress": "대구광역시 중구 달구벌대로 2143 (삼덕동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "대구광역시 중구 삼덕동1가 44-2",
+      "roadAddress": "대구광역시 중구 달구벌대로 2155 (삼덕동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼덕슈퍼",
+      "address": "대구광역시 중구 삼덕동3가 260-2",
+      "roadAddress": "대구광역시 중구 달구벌대로445길 41 (삼덕동3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명슈퍼",
+      "address": "대구광역시 중구 삼덕동2가 184",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동성로슈퍼",
+      "address": "대구광역시 중구 삼덕동1가 4-3",
+      "roadAddress": "대구광역시 중구 동성로2길 49-17 (삼덕동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태평APT관리사무실",
+      "address": "대구광역시 중구 태평로1가 23-1",
+      "roadAddress": "대구광역시 중구 태평로 205 (태평로1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "라이프슈퍼",
+      "address": "대구광역시 중구 태평로1가 1-187",
+      "roadAddress": "대구광역시 중구 태평로 177 (태평로1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고령슈퍼",
+      "address": "대구광역시 중구 용덕동 9-5",
+      "roadAddress": "대구광역시 중구 교동1길 18-1 (용덕동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조흥상회",
+      "address": "대구광역시 중구 태평로1가 10-1",
+      "roadAddress": "대구광역시 중구 태평로 184-1 (태평로1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙식품",
+      "address": "대구광역시 중구 교동 33",
+      "roadAddress": "대구광역시 중구 교동길 99-1  (교동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한남상회",
+      "address": "대구광역시 중구 완전동 6-12",
+      "roadAddress": "대구광역시 중구 교동4길 32 (완전동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성원식품",
+      "address": "대구광역시 중구 문화동 1-7",
+      "roadAddress": "대구광역시 중구 교동1길 33 (문화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일상회",
+      "address": "대구광역시 중구 문화동 13-5",
+      "roadAddress": "대구광역시 중구 동성로12길 12 (문화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대화상회",
+      "address": "대구광역시 중구 화전동 1-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "예천상회",
+      "address": "대구광역시 중구 동성로2가 141-9",
+      "roadAddress": "대구광역시 중구 동성로5길 11 (동성로2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마마24시",
+      "address": "대구광역시 중구 사일동 76",
+      "roadAddress": "대구광역시 중구 중앙대로 406-22  (사일동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "대구광역시 중구 남일동 78-5",
+      "roadAddress": "대구광역시 중구 중앙대로 410-1 (남일동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통남산1호점",
+      "address": "대구광역시 중구 남산동 2117-7",
+      "roadAddress": "대구광역시 중구 남산로6길 81 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-05-17"
+    },
+    {
+      "name": "재동식품",
+      "address": "대구광역시 중구 동문동 13-24",
+      "roadAddress": "대구광역시 중구 경상감영길 228 (동문동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-07"
+    },
+    {
+      "name": "태전마트",
+      "address": "대구광역시 중구 대신동 1871",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-11"
+    },
+    {
+      "name": "E-Time24 대구역점",
+      "address": "대구광역시 중구 태평로1가 1-187",
+      "roadAddress": "대구광역시 중구 태평로 177 (태평로1가)",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-11"
+    },
+    {
+      "name": "멀티 24",
+      "address": "대구광역시 중구 봉산동 49-2",
+      "roadAddress": "대구광역시 중구 달구벌대로 2116 (봉산동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-18"
+    },
+    {
+      "name": "남문상회",
+      "address": "대구광역시 중구 남산동 613-24",
+      "roadAddress": "대구광역시 중구 명덕로35길 112 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-03"
+    },
+    {
+      "name": "대성수퍼",
+      "address": "대구광역시 중구 대신동 1-57",
+      "roadAddress": "대구광역시 중구 달성공원로6길 1 (대신동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-05"
+    },
+    {
+      "name": "신우유통",
+      "address": "대구광역시 중구 동인동3가 371-5",
+      "roadAddress": "대구광역시 중구 국채보상로149길 102-1 (동인동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-13"
+    },
+    {
+      "name": "카피마트",
+      "address": "대구광역시 중구 동인동4가 44",
+      "roadAddress": "대구광역시 중구 동덕로36길 90  (동인동4가)",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-26"
+    },
+    {
+      "name": "대신할인마트",
+      "address": "대구광역시 중구 대신동 115-43",
+      "roadAddress": "대구광역시 중구 큰장로 116 (대신동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-07-26"
+    },
+    {
+      "name": "C&S",
+      "address": "대구광역시 중구 덕산동 37-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-02"
+    },
+    {
+      "name": "동서유통",
+      "address": "대구광역시 중구 동인동3가 3-1",
+      "roadAddress": "대구광역시 중구 동덕로36길 39 (동인동3가)",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-02"
+    },
+    {
+      "name": "신우유통수왕점",
+      "address": "대구광역시 중구 달성동 216-1",
+      "roadAddress": "대구광역시 중구 달성로21길 53 (달성동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-12"
+    },
+    {
+      "name": "C&C편의점",
+      "address": "대구광역시 중구 남산동 2107-21",
+      "roadAddress": "대구광역시 중구 중앙대로 268 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-16"
+    },
+    {
+      "name": "건영슈퍼",
+      "address": "대구광역시 중구 태평로2가 38-4",
+      "roadAddress": "대구광역시 중구 태평로 129 (태평로2가)",
+      "status": "영업/정상",
+      "licenseDate": "2004-08-23"
+    },
+    {
+      "name": "프랜드리마트",
+      "address": "대구광역시 중구 문화동 9-14",
+      "roadAddress": "대구광역시 중구 국채보상로123길 16 (문화동)",
+      "status": "영업/정상",
+      "licenseDate": "2004-09-13"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "대구광역시 중구 삼덕동2가 29-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "대구광역시 중구 포정동 52",
+      "roadAddress": "대구광역시 중구 경상감영길 100  (포정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훈마트",
+      "address": "대구광역시 중구 남산동 2271-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수퍼홈스마일",
+      "address": "대구광역시 중구 남산동 156-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사마트 남산점",
+      "address": "대구광역시 중구 남산동 2233-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세이브마트",
+      "address": "대구광역시 중구 대봉동 55-94",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영천상회",
+      "address": "대구광역시 중구 공평동 95-24",
+      "roadAddress": "대구광역시 중구 국채보상로 633-1 (공평동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울식품",
+      "address": "대구광역시 중구 공평동 16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우식품",
+      "address": "대구광역시 중구 공평동 53-4",
+      "roadAddress": "대구광역시 중구 동성로2길 59 (공평동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화신상회",
+      "address": "대구광역시 중구 교동 46-11",
+      "roadAddress": "대구광역시 중구 교동4길 8 (교동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "칠성식품",
+      "address": "대구광역시 중구 문화동 6-1",
+      "roadAddress": "대구광역시 중구 경상감영길 186 (문화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은하상회",
+      "address": "대구광역시 중구 동성로2가 96",
+      "roadAddress": "대구광역시 중구 중앙대로 412-52  (동성로2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동진상회",
+      "address": "대구광역시 중구 완전동 1-27",
+      "roadAddress": "대구광역시 중구 교동길 106-10 (완전동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대일슈토어",
+      "address": "대구광역시 중구 용덕동 7-7",
+      "roadAddress": "대구광역시 중구 동성로 80 (용덕동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코리아마트한일점",
+      "address": "대구광역시 중구 공평동 1-4",
+      "roadAddress": "대구광역시 중구 국채보상로125길 19 (공평동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "돼지상회",
+      "address": "대구광역시 중구 공평동 81-9",
+      "roadAddress": "대구광역시 중구 국채보상로 634 (공평동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "국제상회",
+      "address": "대구광역시 중구 태평로1가 4-2",
+      "roadAddress": "대구광역시 중구 태평로 172-4 (태평로1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지하상가관리사업소",
+      "address": "대구광역시 중구 문화동 11-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "샘물휴게방",
+      "address": "대구광역시 중구 용덕동 2-7",
+      "roadAddress": "대구광역시 중구 교동1길 12 (용덕동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리식품",
+      "address": "대구광역시 중구 교동 78-12",
+      "roadAddress": "대구광역시 중구 교동길 106 (교동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐마트",
+      "address": "대구광역시 중구 포정동 67-3",
+      "roadAddress": "대구광역시 중구 경상감영길 128 (포정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리농산",
+      "address": "대구광역시 중구 공평동 53-1",
+      "roadAddress": "대구광역시 중구 동성로2길 58 (공평동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새한마트",
+      "address": "대구광역시 중구 북성로1가 2-5",
+      "roadAddress": "대구광역시 중구 동성로 86 (북성로1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉산식품",
+      "address": "대구광역시 중구 봉산동 152-1",
+      "roadAddress": "대구광역시 중구 동성로1길 62 (봉산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현주상회",
+      "address": "대구광역시 중구 봉산동 132-17",
+      "roadAddress": "대구광역시 중구 봉산문화길 88 (봉산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부민슈퍼",
+      "address": "대구광역시 중구 봉산동 222-1",
+      "roadAddress": "대구광역시 중구 봉산문화1길 6 (봉산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "C&S편의점",
+      "address": "대구광역시 중구 동성로3가 90-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아플러스마트",
+      "address": "대구광역시 중구 달성동 113-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "벨마트 서문점",
+      "address": "대구광역시 중구 대신동 115 서문시장2지구지하층서가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이대구시청점",
+      "address": "대구광역시 중구 동인동2가 58-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성슈퍼",
+      "address": "대구광역시 중구 남산동 673-16",
+      "roadAddress": "대구광역시 중구 중앙대로 338 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통",
+      "address": "대구광역시 중구 남산동 2434-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 삼덕보성점",
+      "address": "대구광역시 중구 삼덕동3가 364-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양슈퍼",
+      "address": "대구광역시 중구 대봉동 123-23",
+      "roadAddress": "대구광역시 중구 동덕로 15 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)유니브",
+      "address": "대구광역시 중구 봉산동 37-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "썬-마트(반월당점)",
+      "address": "대구광역시 중구 남산동 924-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "C&S편의점",
+      "address": "대구광역시 중구 공평동 58-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "윌마트 삼덕점",
+      "address": "대구광역시 중구 삼덕동2가 284-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조이슈퍼",
+      "address": "대구광역시 중구 봉산동 28-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "파랑새마트",
+      "address": "대구광역시 중구 시장북로 88",
+      "roadAddress": "대구광역시 중구 달성공원로6길 38  (시장북로)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)훼미리마트",
+      "address": "대구광역시 중구 남산동 938-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)보광훼미리마트동성로점",
+      "address": "대구광역시 중구 삼덕동1가 23-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)GS25동성로점",
+      "address": "대구광역시 중구 동성로3가 16-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "공원슈퍼",
+      "address": "대구광역시 중구 동성로2가 70-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "C&S편의점",
+      "address": "대구광역시 중구 남산동 613-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양마트",
+      "address": "대구광역시 중구 봉산동 223-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남산그린할인마트",
+      "address": "대구광역시 중구 남산동 2937-1    남산그린타운상가 106동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "목련슈퍼",
+      "address": "대구광역시 중구 남산동 579-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대구상회",
+      "address": "대구광역시 중구 봉산동 63-7",
+      "roadAddress": "대구광역시 중구 명륜로23길 58 (봉산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "승리문구사",
+      "address": "대구광역시 중구 봉산동 128-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "맛나식품",
+      "address": "대구광역시 중구 덕산동 124-29",
+      "roadAddress": "대구광역시 중구 동성로1길 26 (덕산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연경상회",
+      "address": "대구광역시 중구 봉산동 52-2",
+      "roadAddress": "대구광역시 중구 달구벌대로 2120 (봉산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉산식품",
+      "address": "대구광역시 중구 봉산동 255-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코리아마트",
+      "address": "대구광역시 중구 봉산동 135-13",
+      "roadAddress": "대구광역시 중구 봉산문화1길 13 (봉산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "대구광역시 중구 봉산동 150-1",
+      "roadAddress": "대구광역시 중구 달구벌대로 2127 (봉산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시스레이스한일",
+      "address": "대구광역시 중구 공평동 15-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아르스슈퍼",
+      "address": "대구광역시 중구 덕산동 125-13",
+      "roadAddress": "대구광역시 중구 달구벌대로 2109-23 (덕산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코카유통",
+      "address": "대구광역시 중구 태평로1가 23 상가42",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "천일상회",
+      "address": "대구광역시 중구 포정동 70-1",
+      "roadAddress": "대구광역시 중구 중앙대로 434-2 (포정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "교동슈퍼",
+      "address": "대구광역시 중구 교동 70-9",
+      "roadAddress": "대구광역시 중구 교동길 72 (교동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "대구광역시 중구 북성로1가 91-1",
+      "roadAddress": "대구광역시 중구 동성로 81-3 (북성로1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25대백",
+      "address": "대구광역시 중구 공평동 59-4",
+      "roadAddress": "대구광역시 중구 동성로6길 52 (공평동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일광슈퍼",
+      "address": "대구광역시 중구 봉산동 39-4",
+      "roadAddress": "대구광역시 중구 달구벌대로 2113 (봉산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한전상회",
+      "address": "대구광역시 중구 동문동 9-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "길슈퍼",
+      "address": "대구광역시 중구 완전동 5-20",
+      "roadAddress": "대구광역시 중구 교동2길 37-12 (완전동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25동성로점",
+      "address": "대구광역시 중구 동성로3가 66",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "골목슈퍼",
+      "address": "대구광역시 중구 태평로1가 17-6",
+      "roadAddress": "대구광역시 중구 교동3길 5 (태평로1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "밀레오레마트",
+      "address": "대구광역시 중구 문화동 9-14",
+      "roadAddress": "대구광역시 중구 국채보상로123길 16 (문화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트대구극동점",
+      "address": "대구광역시 중구 북성로1가 12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "네온",
+      "address": "대구광역시 중구 동인동4가 138-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마트사랑",
+      "address": "대구광역시 중구 대봉동 157-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홈마트",
+      "address": "대구광역시 중구 남산동 2937-1    남산그린타운 101동 112호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "콜마트",
+      "address": "대구광역시 중구 남산동 2512-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "대구광역시 중구 남산동 578-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원앤원마트",
+      "address": "대구광역시 중구 대봉동 121-154",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트아름다운미리점",
+      "address": "대구광역시 중구 북성로1가 2-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "메트로편의점",
+      "address": "대구광역시 중구 봉산동 127-1    메트로프라자 H 242호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성채소집",
+      "address": "대구광역시 중구 포정동 21-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "C&S",
+      "address": "대구광역시 중구 남산동 2117-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "콜마트",
+      "address": "대구광역시 중구 대봉동 178-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물기업",
+      "address": "대구광역시 중구 공평동 100-2",
+      "roadAddress": "대구광역시 중구 동성로12길 84 (공평동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호슈퍼",
+      "address": "대구광역시 중구 남성로 19-3",
+      "roadAddress": "대구광역시 중구 중앙대로81길 99 (남성로)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배집",
+      "address": "대구광역시 중구 남성로 117-1",
+      "roadAddress": "대구광역시 중구 남성로 24 (남성로)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우정꽃집",
+      "address": "대구광역시 중구 동산동 559",
+      "roadAddress": "대구광역시 중구 달구벌대로405길 59  (동산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일광담배집",
+      "address": "대구광역시 중구 동산동 802",
+      "roadAddress": "대구광역시 중구 달구벌대로 2019-18  (동산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "대구광역시 중구 동산동 137",
+      "roadAddress": "대구광역시 중구 국채보상로102길 10-8  (동산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대림식품",
+      "address": "대구광역시 중구 종로1가 103-1",
+      "roadAddress": "대구광역시 중구 중앙대로81길 44 (종로1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경산상회",
+      "address": "대구광역시 중구 계산동1가 28-2",
+      "roadAddress": "대구광역시 중구 서성로 31-11 (계산동1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "효성슈퍼",
+      "address": "대구광역시 중구 계산동2가 136",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창신슈퍼",
+      "address": "대구광역시 중구 계산동2가 169-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "25시만화",
+      "address": "대구광역시 중구 동일동 17-3",
+      "roadAddress": "대구광역시 중구 중앙대로81길 26 (동일동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대우슈퍼",
+      "address": "대구광역시 중구 동성로3가 47",
+      "roadAddress": "대구광역시 중구 남성로 52  (동성로3가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "대구광역시 중구 수동 65-1",
+      "roadAddress": "대구광역시 중구 중앙대로81길 79 (수동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "약전슈퍼",
+      "address": "대구광역시 중구 장관동 54",
+      "roadAddress": "대구광역시 중구 달구벌대로415길 35  (장관동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종로마트",
+      "address": "대구광역시 중구 종로2가 58",
+      "roadAddress": "대구광역시 중구 중앙대로77길 22  (종로2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "대구광역시 중구 계산동2가 250-1",
+      "roadAddress": "대구광역시 중구 달구벌대로 2081-24 (계산동2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동산 슈퍼",
+      "address": "대구광역시 중구 동산동 357",
+      "roadAddress": "대구광역시 중구 달구벌대로 2035 (동산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만복상회",
+      "address": "대구광역시 중구 동산동 182",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동일축산물",
+      "address": "대구광역시 중구 동일동 34-2",
+      "roadAddress": "대구광역시 중구 중앙대로81길 3 (동일동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대보슈퍼",
+      "address": "대구광역시 중구 향촌동 63",
+      "roadAddress": "대구광역시 중구 경상감영길 117-7  (향촌동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트24시",
+      "address": "대구광역시 중구 종로1가 60-3",
+      "roadAddress": "대구광역시 중구 종로 46 (종로1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담배집",
+      "address": "대구광역시 중구 종로2가 28",
+      "roadAddress": "대구광역시 중구 종로 33  (종로2가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대원슈퍼",
+      "address": "대구광역시 중구 덕산동 38-1",
+      "roadAddress": "대구광역시 중구 종로 8 (덕산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성수슈퍼",
+      "address": "대구광역시 중구 북성로1가 10-14",
+      "roadAddress": "대구광역시 중구 중앙대로 463 (북성로1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25포정점",
+      "address": "대구광역시 중구 포정동 9-5",
+      "roadAddress": "대구광역시 중구 중앙대로 437 (포정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25금호제일점",
+      "address": "대구광역시 중구 하서동 2-4",
+      "roadAddress": "대구광역시 중구 국채보상로 527 (하서동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25대구종로점",
+      "address": "대구광역시 중구 종로1가 34-2",
+      "roadAddress": "대구광역시 중구 국채보상로 552 (종로1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진정슈퍼",
+      "address": "대구광역시 중구 동일동 8-1",
+      "roadAddress": "대구광역시 중구 중앙대로81길 8 (동일동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리슈퍼",
+      "address": "대구광역시 중구 남성로 2-1",
+      "roadAddress": "대구광역시 중구 중앙대로81길 110 (남성로)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금복상회",
+      "address": "대구광역시 중구 시장북로 10-6",
+      "roadAddress": "대구광역시 중구 국채보상로101길 57 (시장북로)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동해약국",
+      "address": "대구광역시 중구 수창동 51-8",
+      "roadAddress": "대구광역시 중구 달성로22길 69 (수창동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대광슈퍼",
+      "address": "대구광역시 중구 서성로1가 82",
+      "roadAddress": "대구광역시 중구 서성로13길 5  (서성로1가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대명슈퍼",
+      "address": "대구광역시 중구 인교동 268",
+      "roadAddress": "대구광역시 중구 북성로4길 65  (인교동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명동슈퍼",
+      "address": "대구광역시 중구 인교동 96-2",
+      "roadAddress": "대구광역시 중구 북성로4길 6 (인교동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명성상회",
+      "address": "대구광역시 중구 태평로3가 306",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서문슈퍼",
+      "address": "대구광역시 중구 서문로2가 15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서야상회",
+      "address": "대구광역시 중구 서야동 124",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수창약국",
+      "address": "대구광역시 중구 서야동 5-1",
+      "roadAddress": "대구광역시 중구 북성로 21-1 (서야동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "순인통닭",
+      "address": "대구광역시 중구 수창동 169",
+      "roadAddress": "대구광역시 중구 달성로 108  (수창동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영성슈퍼",
+      "address": "대구광역시 중구 수창동 91-9",
+      "roadAddress": "대구광역시 중구 달성로22길 78 (수창동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리문구사",
+      "address": "대구광역시 중구 수창동 61",
+      "roadAddress": "대구광역시 중구 달성로22길 33  (수창동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충남상회",
+      "address": "대구광역시 중구 시장북로 24-1",
+      "roadAddress": "대구광역시 중구 달성로 72-15 (시장북로)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "철수상회",
+      "address": "대구광역시 중구 인교동 201",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태평슈퍼",
+      "address": "대구광역시 중구 태평로3가 182",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한솔슈퍼",
+      "address": "대구광역시 중구 서야동 66",
+      "roadAddress": "대구광역시 중구 북성로 28-3  (서야동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "할매슈퍼",
+      "address": "대구광역시 중구 도원동 3-5",
+      "roadAddress": "대구광역시 중구 태평로 56 (도원동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25",
+      "address": "대구광역시 중구 동산동 18-1",
+      "roadAddress": "대구광역시 중구 국채보상로 487 (동산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "달성홈마트",
+      "address": "대구광역시 중구 달성동 13-25",
+      "roadAddress": "대구광역시 중구 달성로 121 (달성동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "북로슈퍼",
+      "address": "대구광역시 중구 시장북로 31-6",
+      "roadAddress": "대구광역시 중구 서성로13길 77 (시장북로)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청마유통",
+      "address": "대구광역시 중구 달성동 113-14",
+      "roadAddress": "대구광역시 중구 태평로 30 (달성동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서문슈퍼",
+      "address": "대구광역시 중구 대신동 140",
+      "roadAddress": "대구광역시 중구 국채보상로93길 8  (대신동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대신슈퍼",
+      "address": "대구광역시 중구 대신동 272-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "달성슈퍼",
+      "address": "대구광역시 중구 대신동 274-18",
+      "roadAddress": "대구광역시 중구 큰장로24길 14 (대신동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현미슈퍼",
+      "address": "대구광역시 중구 대신동 292-6",
+      "roadAddress": "대구광역시 중구 큰장로24길 44 (대신동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진우슈퍼",
+      "address": "대구광역시 중구 대신동 302-11",
+      "roadAddress": "대구광역시 중구 큰장로24안길 42 (대신동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대진상회",
+      "address": "대구광역시 중구 대신동 시장북로101번지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "플러스원 마트",
+      "address": "대구광역시 중구 대신동 265",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영남슈퍼",
+      "address": "대구광역시 중구 대신동 1636",
+      "roadAddress": "대구광역시 중구 큰장로12길 26  (대신동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명동약국",
+      "address": "대구광역시 중구 대신동 1032",
+      "roadAddress": "대구광역시 중구 큰장로 98-1  (대신동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경동슈퍼",
+      "address": "대구광역시 중구 대신동 68-2",
+      "roadAddress": "대구광역시 중구 달성공원로4길 21 (대신동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "대구광역시 중구 대신동 331-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한일슈퍼",
+      "address": "대구광역시 중구 대신동 1768",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동서만물슈퍼",
+      "address": "대구광역시 중구 대신동 1373",
+      "roadAddress": "대구광역시 중구 달구벌대로387길 8  (대신동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유가상회",
+      "address": "대구광역시 중구 대신동 1705",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대구슈퍼",
+      "address": "대구광역시 중구 대신동 1124",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나유통",
+      "address": "대구광역시 중구 대신동 1894",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "대구광역시 중구 대신동 1454",
+      "roadAddress": "대구광역시 중구 큰장로10길 14  (대신동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대덕슈퍼",
+      "address": "대구광역시 중구 대신동 1951",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "대구광역시 중구 대신동 305-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대광슈퍼",
+      "address": "대구광역시 중구 대신동 312-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "예천슈퍼",
+      "address": "대구광역시 중구 대신동 305-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대신상회",
+      "address": "대구광역시 중구 대신동 1191",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "계성상회",
+      "address": "대구광역시 중구 대신동 893",
+      "roadAddress": "대구광역시 중구 달성로 13  (대신동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명슈퍼",
+      "address": "대구광역시 중구 대신동 1535 광명아파트 B동 101호",
+      "roadAddress": "대구광역시 중구 큰장로 74, B동 101호 (대신동,광명아파트)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "반월슈퍼",
+      "address": "대구광역시 중구 남산동 677-98",
+      "roadAddress": "대구광역시 중구 중앙대로66길 29 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉명슈퍼",
+      "address": "대구광역시 중구 남산동 684-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우정슈퍼",
+      "address": "대구광역시 중구 남산동 735-25",
+      "roadAddress": "대구광역시 중구 명륜로22길 5 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "대구광역시 중구 남산동 726-12",
+      "roadAddress": "대구광역시 중구 명륜로24길 4 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성주양곡상회",
+      "address": "대구광역시 중구 남산동 720-1",
+      "roadAddress": "대구광역시 중구 중앙대로62길 8-3 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "의성지업사",
+      "address": "대구광역시 중구 남산동 698-22",
+      "roadAddress": "대구광역시 중구 명륜로 70 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남문기물",
+      "address": "대구광역시 중구 남산동 611-91",
+      "roadAddress": "대구광역시 중구 중앙대로61길 34-11 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백광슈퍼",
+      "address": "대구광역시 중구 남산동 700-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울식품",
+      "address": "대구광역시 중구 남산동 700-4",
+      "roadAddress": "대구광역시 중구 중앙대로 307-19 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아리랑문구사",
+      "address": "대구광역시 중구 남산동 2109-7",
+      "roadAddress": "대구광역시 중구 2·28길 7 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남영슈퍼",
+      "address": "대구광역시 중구 남산동 605-17",
+      "roadAddress": "대구광역시 중구 중앙대로61길 35 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아슈퍼",
+      "address": "대구광역시 중구 남산동 598-25",
+      "roadAddress": "대구광역시 중구 2·28길 34 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "대구광역시 중구 남산동 703-46",
+      "roadAddress": "대구광역시 중구 중앙대로61길 15-23 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일신상회",
+      "address": "대구광역시 중구 남산동 912-4",
+      "roadAddress": "대구광역시 중구 명륜로23길 95 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진주슈퍼",
+      "address": "대구광역시 중구 남산동 917-12",
+      "roadAddress": "대구광역시 중구 명륜로23길 55 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "샛별슈퍼",
+      "address": "대구광역시 중구 남산동 2005-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데식품",
+      "address": "대구광역시 중구 남산동 2107-18",
+      "roadAddress": "대구광역시 중구 중앙대로58길 20 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성신슈퍼",
+      "address": "대구광역시 중구 남산동 613-24",
+      "roadAddress": "대구광역시 중구 명덕로35길 112 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명슈퍼",
+      "address": "대구광역시 중구 남산동 698-22",
+      "roadAddress": "대구광역시 중구 명륜로 70 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남산양곡",
+      "address": "대구광역시 중구 남산동 600-45",
+      "roadAddress": "대구광역시 중구 명덕로35길 74 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "군위상회",
+      "address": "대구광역시 중구 남산동 687-23",
+      "roadAddress": "대구광역시 중구 명륜로23길 17 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)보광훼미리마트남산점",
+      "address": "대구광역시 중구 남산동 2106-8",
+      "roadAddress": "대구광역시 중구 명덕로 207 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "의성슈퍼",
+      "address": "대구광역시 중구 남산동 915-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "큰고개유통남문복지점",
+      "address": "대구광역시 중구 남산동 698-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통",
+      "address": "대구광역시 중구 남산동 729-1",
+      "roadAddress": "대구광역시 중구 명륜로22길 27 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "반월마트",
+      "address": "대구광역시 중구 남산동 910-16",
+      "roadAddress": "대구광역시 중구 중앙대로 358 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉화슈퍼",
+      "address": "대구광역시 중구 남산동 2108-48",
+      "roadAddress": "대구광역시 중구 중앙대로58길 15 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미르마트",
+      "address": "대구광역시 중구 남산동 735-9",
+      "roadAddress": "대구광역시 중구 명륜로26길 12 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대구축산",
+      "address": "대구광역시 중구 남산동 915-21",
+      "roadAddress": "대구광역시 중구 중앙대로68길 31 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대야할인마트",
+      "address": "대구광역시 중구 남산동 698-50",
+      "roadAddress": "대구광역시 중구 명륜로 64-5 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "민아슈퍼",
+      "address": "대구광역시 중구 남산동 671-39",
+      "roadAddress": "대구광역시 중구 중앙대로66길 7-5 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고령상회",
+      "address": "대구광역시 중구 남산동 464",
+      "roadAddress": "대구광역시 중구 달구벌대로414길 16-18  (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남산슈퍼",
+      "address": "대구광역시 중구 남산동 348-1",
+      "roadAddress": "대구광역시 중구 명륜로 7 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대보슈퍼",
+      "address": "대구광역시 중구 남산동 628-4",
+      "roadAddress": "대구광역시 중구 관덕정길 43 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대원상회",
+      "address": "대구광역시 중구 남산동 663-56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고려수예점",
+      "address": "대구광역시 중구 남산동 669",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진화사",
+      "address": "대구광역시 중구 남산동 698-37",
+      "roadAddress": "대구광역시 중구 명륜로 67 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "대구광역시 중구 남산동 315-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남산슈퍼",
+      "address": "대구광역시 중구 남산동 241-22",
+      "roadAddress": "대구광역시 중구 재마루1길 2 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오산슈퍼",
+      "address": "대구광역시 중구 남산동 190-53",
+      "roadAddress": "대구광역시 중구 남산로12길 83-6 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼",
+      "address": "대구광역시 중구 남산동 127-17",
+      "roadAddress": "대구광역시 중구 남산로12길 45-5 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다인상회",
+      "address": "대구광역시 중구 남산동 150-1",
+      "roadAddress": "대구광역시 중구 달구벌대로 2018-25 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성이용소",
+      "address": "대구광역시 중구 남산동 162-13",
+      "roadAddress": "대구광역시 중구 달구벌대로 2010-4 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남산식육점",
+      "address": "대구광역시 중구 남산동 141-14",
+      "roadAddress": "대구광역시 중구 재마루길 57 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "로타리슈퍼",
+      "address": "대구광역시 중구 남산동 933-16",
+      "roadAddress": "대구광역시 중구 문우관길 53 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남산슈퍼",
+      "address": "대구광역시 중구 남산동 940-13",
+      "roadAddress": "대구광역시 중구 관덕정길 21 (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강원슈퍼",
+      "address": "대구광역시 중구 남산동 444",
+      "roadAddress": "대구광역시 중구 달구벌대로414길 36  (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통",
+      "address": "대구광역시 중구 계산동1가 2424-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송림슈퍼",
+      "address": "대구광역시 중구 계산동1가 2434",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "싱싱나라슈퍼",
+      "address": "대구광역시 중구 계산동1가 2185-58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남산슈퍼",
+      "address": "대구광역시 중구 남산동 108-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "참할인마트",
+      "address": "대구광역시 중구 계산동1가 2479-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우유통",
+      "address": "대구광역시 중구 계산동1가 2621-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "토큰판매소",
+      "address": "대구광역시 중구 계산동1가 106-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대화슈퍼",
+      "address": "대구광역시 중구 계산동1가 2956-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부흥슈퍼",
+      "address": "대구광역시 중구 계산동1가 2989-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대림슈퍼",
+      "address": "대구광역시 중구 계산동1가 2502-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원마트",
+      "address": "대구광역시 중구 계산동1가 2486-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고령상회",
+      "address": "대구광역시 중구 계산동1가 2953-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아슈퍼",
+      "address": "대구광역시 중구 계산동1가 2267-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "대구광역시 중구 계산동1가 2611-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수광슈퍼",
+      "address": "대구광역시 중구 계산동1가 2612-108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평생유통",
+      "address": "대구광역시 중구 계산동1가 2271-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남부슈퍼",
+      "address": "대구광역시 중구 계산동1가 2489-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경북체인",
+      "address": "대구광역시 중구 계산동1가 2482-458",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협판매소",
+      "address": "대구광역시 중구 계산동1가 2482-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대곡양곡",
+      "address": "대구광역시 중구 계산동1가 2482-458",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "까치슈퍼",
+      "address": "대구광역시 중구 계산동1가 2482-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "대구광역시 중구 계산동1가 2483-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕성양곡",
+      "address": "대구광역시 중구 계산동1가 2483-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서부상회",
+      "address": "대구광역시 중구 계산동1가 2962-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남일슈퍼",
+      "address": "대구광역시 중구 계산동1가 93",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대백황실",
+      "address": "대구광역시 중구 계산동1가 2466-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일광슈퍼",
+      "address": "대구광역시 중구 계산동1가 2632-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영남슈퍼",
+      "address": "대구광역시 중구 계산동1가 2989-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영남상회",
+      "address": "대구광역시 중구 계산동1가 2459-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화원유통",
+      "address": "대구광역시 중구 계산동1가 2645-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오복양곡",
+      "address": "대구광역시 중구 계산동1가 2985-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구지상사",
+      "address": "대구광역시 중구 계산동1가 2980-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "도화슈퍼",
+      "address": "대구광역시 중구 계산동1가 2938",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태영상회",
+      "address": "대구광역시 중구 계산동1가 2971-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경주슈퍼",
+      "address": "대구광역시 중구 계산동1가 2930-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대흥슈퍼",
+      "address": "대구광역시 중구 계산동1가 2998-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경산슈퍼",
+      "address": "대구광역시 중구 계산동1가 2523-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영창슈퍼",
+      "address": "대구광역시 중구 계산동1가 2504-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금수슈퍼",
+      "address": "대구광역시 중구 계산동1가 2482-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태웥슈퍼",
+      "address": "대구광역시 중구 계산동1가 2635-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "대구광역시 중구 계산동1가 2466-76",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경일양곡",
+      "address": "대구광역시 중구 계산동1가 2997",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대우양복점",
+      "address": "대구광역시 중구 대봉동 21-27",
+      "roadAddress": "대구광역시 중구 동덕로 84-7 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원일상사",
+      "address": "대구광역시 중구 대봉동 7-18",
+      "roadAddress": "대구광역시 중구 동덕로14길 54 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을슈퍼",
+      "address": "대구광역시 중구 대봉동 214-366",
+      "roadAddress": "대구광역시 중구 명덕로65길 18-11 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대봉양곡",
+      "address": "대구광역시 중구 대봉동 186-18",
+      "roadAddress": "대구광역시 중구 명덕로 309-1 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청운슈퍼",
+      "address": "대구광역시 중구 대봉동 111-1",
+      "roadAddress": "대구광역시 중구 동덕로 33 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대구코아",
+      "address": "대구광역시 중구 대봉동 55-95",
+      "roadAddress": "대구광역시 중구 대봉로 236 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대봉지업사",
+      "address": "대구광역시 중구 대봉동 11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "달성맨션",
+      "address": "대구광역시 중구 대봉동 55-68",
+      "roadAddress": "대구광역시 중구 명륜로 154 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대구맨션관리실",
+      "address": "대구광역시 중구 대봉동 55-61",
+      "roadAddress": "대구광역시 중구 명륜로 158 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대봉슈퍼(A)",
+      "address": "대구광역시 중구 대봉동 39-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유성주유소",
+      "address": "대구광역시 중구 대봉동 186-1",
+      "roadAddress": "대구광역시 중구 동덕로 6 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은진슈퍼",
+      "address": "대구광역시 중구 대봉동 18-4",
+      "roadAddress": "대구광역시 중구 동덕로14길 29 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명성슈퍼",
+      "address": "대구광역시 중구 대봉동 55-61",
+      "roadAddress": "대구광역시 중구 명륜로 158 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "짱구슈퍼",
+      "address": "대구광역시 중구 대봉동 133-1",
+      "roadAddress": "대구광역시 중구 대봉로 210-1 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "SUN24",
+      "address": "대구광역시 중구 대봉동 55-68",
+      "roadAddress": "대구광역시 중구 명륜로 154 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남미슈퍼",
+      "address": "대구광역시 중구 대봉동 43-7",
+      "roadAddress": "대구광역시 중구 대봉로 220-40 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대봉슈퍼(B)",
+      "address": "대구광역시 중구 대봉동 24-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상록플라자",
+      "address": "대구광역시 중구 대봉동 23-3",
+      "roadAddress": "대구광역시 중구 대봉로 260 (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대영슈퍼",
+      "address": "대구광역시 중구 대봉동 131-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대원할인마트",
+      "address": "대구광역시 중구 남산동 2409-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나유통",
+      "address": "대구광역시 중구 전동 17-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대구유통",
+      "address": "대구광역시 중구 남산동 2645-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼리미마트중앙점",
+      "address": "대구광역시 중구 동성로2가 41-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우 24시",
+      "address": "대구광역시 중구 계산동1가 7-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소비자 할인매장",
+      "address": "대구광역시 중구 동인동3가 289-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25 중앙제일점",
+      "address": "대구광역시 중구 동성로3가 7-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성주상회",
+      "address": "대구광역시 중구 남산동 2380-63",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대상사",
+      "address": "대구광역시 중구 동인동4가 302-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "대구광역시 중구 남산동 698",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "예천슈퍼",
+      "address": "대구광역시 중구 계산동1가 305-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동산슈퍼",
+      "address": "대구광역시 중구 동산동 94-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "준-마트",
+      "address": "대구광역시 중구 삼덕동1가 17-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼광상회",
+      "address": "대구광역시 중구 남산동 2502-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "프리죤24",
+      "address": "대구광역시 중구 덕산동 128-26",
+      "roadAddress": "대구광역시 중구 달구벌대로 2109-4  (덕산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린유통",
+      "address": "대구광역시 중구 동인동4가 235",
+      "roadAddress": "대구광역시 중구 국채보상로142길 20-43  (동인동4가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제상회",
+      "address": "대구광역시 중구 대봉동 17-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "패밀리25",
+      "address": "대구광역시 중구 남산동 2107-21",
+      "roadAddress": "대구광역시 중구 중앙대로 268  (남산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "007마트",
+      "address": "대구광역시 중구 남산동 134-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대구홈마트",
+      "address": "대구광역시 중구 남산동 2121-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호마트",
+      "address": "대구광역시 중구 남성로 19-3",
+      "roadAddress": "대구광역시 중구 중앙대로81길 99  (남성로)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "Q 마트",
+      "address": "대구광역시 중구 덕산동 127-25",
+      "roadAddress": "대구광역시 중구 중앙대로 372-1  (덕산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대명유통",
+      "address": "대구광역시 중구 대봉동 748-16",
+      "roadAddress": "대구광역시 중구 명륜로26길 60  (대봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "K-슈퍼",
+      "address": "대구광역시 중구 남산동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동성로슈퍼",
+      "address": "대구광역시 중구 삼덕동1가 4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명약국",
+      "address": "대구광역시 중구 대신동 1535",
+      "roadAddress": "대구광역시 중구 큰장로 74  (대신동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동양마트",
+      "address": "대구광역시 중구 문화동 19-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "안동슈퍼",
+      "address": "대구광역시 중구 북성로1가 10-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세이브 마트",
+      "address": "대구광역시 중구 삼덕동3가 120-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스마일 마트",
+      "address": "대구광역시 중구 동인동3가 192-71",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코코마트",
+      "address": "대구광역시 중구 남산동 2486-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청솔할인마트",
+      "address": "대구광역시 중구 동인동4가 259-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사마트 (대구유통)",
+      "address": "대구광역시 중구 남산동 2645-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "건우식품",
+      "address": "대구광역시 중구 대신동 302-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG25 중앙제일점",
+      "address": "대구광역시 중구 동성로3가 37-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 삼덕 갤러리점",
+      "address": "대구광역시 중구 삼덕동1가 33-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    }
+  ]
+}

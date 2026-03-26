@@ -4,7 +4,7 @@
   "district": "함평군",
   "districtSlug": "hampyeong",
   "updatedAt": "2026-03-26",
-  "totalCount": 184,
+  "totalCount": 175,
   "stores": [
     {
       "name": "마을이장집",
@@ -280,20 +280,6 @@
       "licenseDate": "2016-05-31"
     },
     {
-      "name": "영일상회",
-      "address": "전라남도 함평군 함평읍 기각리 967",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-15"
-    },
-    {
-      "name": "모이세 슈퍼",
-      "address": "전라남도 함평군 함평읍 기각리 918",
-      "roadAddress": "전라남도 함평군 함평읍 중앙길 134",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-15"
-    },
-    {
       "name": "유달슈퍼",
       "address": "전라남도 함평군 함평읍 기각리 914-7",
       "roadAddress": "전라남도 함평군 함평읍 중앙길 150",
@@ -304,13 +290,6 @@
       "name": "중앙수퍼",
       "address": "전라남도 함평군 함평읍 기각리 857",
       "roadAddress": "전라남도 함평군 함평읍 중앙길 181-1",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-15"
-    },
-    {
-      "name": "우정수퍼",
-      "address": "전라남도 함평군 함평읍 함평리 139",
-      "roadAddress": "전라남도 함평군 함평읍 중앙길 209",
       "status": "영업/정상",
       "licenseDate": "1994-12-15"
     },
@@ -332,13 +311,6 @@
       "name": "장동수퍼",
       "address": "전라남도 함평군 함평읍 함평리 157-2",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-15"
-    },
-    {
-      "name": "풍성수퍼",
-      "address": "전라남도 함평군 함평읍 기각리 1031",
-      "roadAddress": "전라남도 함평군 함평읍 중앙길 187-35",
       "status": "영업/정상",
       "licenseDate": "1994-12-15"
     },
@@ -378,13 +350,6 @@
       "licenseDate": "1994-12-15"
     },
     {
-      "name": "알뜰수퍼",
-      "address": "전라남도 함평군 함평읍 내교리 114",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-15"
-    },
-    {
       "name": "함평수퍼",
       "address": "전라남도 함평군 함평읍 내교리 160",
       "roadAddress": "전라남도 함평군 함평읍 영수길 151",
@@ -408,27 +373,6 @@
     {
       "name": "천지식당",
       "address": "전라남도 함평군 함평읍 내교리 118-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-15"
-    },
-    {
-      "name": "무안상회",
-      "address": "전라남도 함평군 함평읍 기각리 982",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-15"
-    },
-    {
-      "name": "신흥수퍼",
-      "address": "전라남도 함평군 함평읍 기각리 1004",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-15"
-    },
-    {
-      "name": "가람수퍼",
-      "address": "전라남도 함평군 함평읍 기각리 1001",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1994-12-15"
@@ -920,13 +864,6 @@
       "name": "지변수퍼",
       "address": "전라남도 함평군 월야면 월악리 854",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-15"
-    },
-    {
-      "name": "나산수퍼",
-      "address": "전라남도 함평군 나산면 삼축리 343-1",
-      "roadAddress": "전라남도 함평군 나산면 나산길 76",
       "status": "영업/정상",
       "licenseDate": "1994-12-15"
     },

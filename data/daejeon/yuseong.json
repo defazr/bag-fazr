@@ -4,7 +4,7 @@
   "district": "유성구",
   "districtSlug": "yuseong",
   "updatedAt": "2026-03-26",
-  "totalCount": 296,
+  "totalCount": 284,
   "stores": [
     {
       "name": "신화물산",
@@ -260,13 +260,6 @@
     },
     {
       "name": "청양슈퍼",
-      "address": "대전광역시 유성구 장대동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "충북상회",
       "address": "대전광역시 유성구 장대동",
       "roadAddress": "",
       "status": "영업/정상",
@@ -693,13 +686,6 @@
       "licenseDate": ""
     },
     {
-      "name": "대덕슈퍼",
-      "address": "대전광역시 유성구 장대동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "로손",
       "address": "대전광역시 유성구 장대동",
       "roadAddress": "",
@@ -729,13 +715,6 @@
     },
     {
       "name": "유성상회",
-      "address": "대전광역시 유성구 장대동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "한아름슈퍼",
       "address": "대전광역시 유성구 장대동",
       "roadAddress": "",
       "status": "영업/정상",
@@ -786,13 +765,6 @@
     {
       "name": "공주슈퍼",
       "address": "대전광역시 유성구 가정동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "한아름슈퍼",
-      "address": "대전광역시 유성구 장대동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -877,13 +849,6 @@
     {
       "name": "구즉농협전민지소",
       "address": "대전광역시 유성구 전민동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "한빛슈퍼",
-      "address": "대전광역시 유성구 어은동 103",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1624,13 +1589,6 @@
       "licenseDate": ""
     },
     {
-      "name": "시장슈퍼",
-      "address": "대전광역시 유성구 원내동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "서일서점388-35",
       "address": "대전광역시 유성구 원내동",
       "roadAddress": "",
@@ -1799,27 +1757,6 @@
       "licenseDate": ""
     },
     {
-      "name": "송강제로마트16-2",
-      "address": "대전광역시 유성구 송강동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "주희슈퍼31-6",
-      "address": "대전광역시 유성구 송강동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "YES편의점195-18",
-      "address": "대전광역시 유성구 송강동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "세븐일레븐",
       "address": "대전광역시 유성구 송강동",
       "roadAddress": "",
@@ -1848,22 +1785,8 @@
       "licenseDate": ""
     },
     {
-      "name": "서일서점388-35",
-      "address": "대전광역시 유성구 원내동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "삼성하이퍼마켓596-6",
       "address": "대전광역시 유성구 구암동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "와와슈퍼551-15",
-      "address": "대전광역시 유성구 봉명동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -2011,13 +1934,6 @@
     {
       "name": "진잠농협학하지소",
       "address": "대전광역시 유성구 원내동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "새마을구판장",
-      "address": "대전광역시 유성구 봉명동",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""

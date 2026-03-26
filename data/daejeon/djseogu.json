@@ -1,0 +1,87 @@
+{
+  "region": "대전광역시",
+  "regionSlug": "daejeon",
+  "district": "서구",
+  "districtSlug": "djseogu",
+  "updatedAt": "2026-03-26",
+  "totalCount": 11,
+  "stores": [
+    {
+      "name": "삼성테스코(주)홈플러스 대전둔산점",
+      "address": "대전광역시 서구 둔산동 1380-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "곰두리대전공판장",
+      "address": "대전광역시 서구 괴정동 6-3    화신빌딩1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-21"
+    },
+    {
+      "name": "세진종합상사",
+      "address": "대전광역시 서구 둔산동 1467",
+      "roadAddress": "대전광역시 서구 둔산중로64번길 26  (둔산동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-09-14"
+    },
+    {
+      "name": "코리아오피스문구도매센터",
+      "address": "대전광역시 서구 탄방동 61-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2006-03-24"
+    },
+    {
+      "name": "곰두리대전공판장",
+      "address": "대전광역시 서구 월평동 241 만년오피스텔 103호",
+      "roadAddress": "대전광역시 서구 월평북로 95  (월평동,만년오피스텔 103호)",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-27"
+    },
+    {
+      "name": "진원유통",
+      "address": "대전광역시 서구 용문동 225-38",
+      "roadAddress": "대전광역시 서구 아랫강변9길 51  (용문동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-12-05"
+    },
+    {
+      "name": "코리아오피스문구센타",
+      "address": "대전광역시 서구 탄방동 61-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2007-11-23"
+    },
+    {
+      "name": "(주)쿱스토어대전충청 괴산자연드림파크점",
+      "address": "대전광역시 서구 탄방동 735 COOP생협한밭센터",
+      "roadAddress": "대전광역시 서구 문예로 7, COOP생협한밭센터 B동 101호 (탄방동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-11-05"
+    },
+    {
+      "name": "세븐일레븐 충남계룡점",
+      "address": "대전광역시 서구 관저동 1148 구봉마을 8단지 809동 1303호",
+      "roadAddress": "대전광역시 서구 관저로 84, 809동 1303호 (관저동, 구봉마을 8단지)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-14"
+    },
+    {
+      "name": "세븐일레븐 계룡신성점",
+      "address": "대전광역시 서구 용문동 272-33 만종빌라 201호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-14"
+    },
+    {
+      "name": "지에스25 계룡이편한점",
+      "address": "대전광역시 서구 도마동 359-20 양지아파트 3동 302호",
+      "roadAddress": "대전광역시 서구 배재로91번길 83, 9동 302호 (도마동, 양지아파트)",
+      "status": "영업/정상",
+      "licenseDate": "2023-09-11"
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "district": "구리시",
   "districtSlug": "guri",
   "updatedAt": "2026-03-26",
-  "totalCount": 250,
+  "totalCount": 247,
   "stores": [
     {
       "name": "세신슈퍼",
@@ -1057,13 +1057,6 @@
       "licenseDate": "2004-09-08"
     },
     {
-      "name": "우리마트",
-      "address": "경기도 구리시 교문동 809-2 구리아파트 상가 107호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2004-06-22"
-    },
-    {
       "name": "원마트",
       "address": "경기도 구리시 교문동 798-1",
       "roadAddress": "경기도 구리시 장자대로1번길 82-6  (교문동)",
@@ -1512,13 +1505,6 @@
       "licenseDate": "2007-11-20"
     },
     {
-      "name": "삼호마트",
-      "address": "경기도 구리시 교문동 752",
-      "roadAddress": "경기도 구리시 안골로8번길 39  (교문동)",
-      "status": "영업/정상",
-      "licenseDate": "2007-11-22"
-    },
-    {
       "name": "구리유통(e-푸른마트)",
       "address": "경기도 구리시 교문동 808",
       "roadAddress": "",
@@ -1608,13 +1594,6 @@
       "roadAddress": "경기도 구리시 체육관로 152  (수택동)",
       "status": "영업/정상",
       "licenseDate": "2007-10-08"
-    },
-    {
-      "name": "남양마트",
-      "address": "경기도 구리시 수택동 551",
-      "roadAddress": "경기도 구리시 경춘로276번길 67-34  (수택동)",
-      "status": "영업/정상",
-      "licenseDate": "2007-11-22"
     },
     {
       "name": "미니슈퍼",

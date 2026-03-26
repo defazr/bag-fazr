@@ -4,7 +4,7 @@
   "district": "울릉군",
   "districtSlug": "ulleung",
   "updatedAt": "2026-03-26",
-  "totalCount": 50,
+  "totalCount": 47,
   "stores": [
     {
       "name": "광창상회",
@@ -294,13 +294,6 @@
       "licenseDate": ""
     },
     {
-      "name": "제일상회",
-      "address": "경상북도 울릉군 북면 천부리 535-9",
-      "roadAddress": "경상북도 울릉군 북면 천부2길 18",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "경주곡물상회",
       "address": "경상북도 울릉군 북면 천부리 528-7",
       "roadAddress": "경상북도 울릉군 북면 천부1길 14",
@@ -338,20 +331,6 @@
     {
       "name": "보성상회",
       "address": "경상북도 울릉군 북면 현포리 572",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "경일상회",
-      "address": "경상북도 울릉군 북면 현포리 518",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "현대슈퍼",
-      "address": "경상북도 울릉군 서면 남양리 609-2",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""

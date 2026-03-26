@@ -4,7 +4,7 @@
   "district": "문경시",
   "districtSlug": "mungyeong",
   "updatedAt": "2026-03-26",
-  "totalCount": 437,
+  "totalCount": 409,
   "stores": [
     {
       "name": "대성슈퍼",
@@ -157,13 +157,6 @@
       "name": "화산1리구판장",
       "address": "경상북도 문경시 농암면 화산리 280",
       "roadAddress": "경상북도 문경시 농암면 중리길 59",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "화산2리",
-      "address": "경상북도 문경시 농암면 화산리 412",
-      "roadAddress": "경상북도 문경시 농암면 삼화실길 89",
       "status": "영업/정상",
       "licenseDate": ""
     },
@@ -436,20 +429,6 @@
     {
       "name": "구판장",
       "address": "경상북도 문경시 흥덕동 482-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "구판장",
-      "address": "경상북도 문경시 흥덕동 482-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "구멍가게",
-      "address": "경상북도 문경시 신기동 925",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -784,20 +763,6 @@
       "licenseDate": ""
     },
     {
-      "name": "대성슈퍼",
-      "address": "경상북도 문경시 모전동 34-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "가게",
-      "address": "경상북도 문경시 유곡동 214-4",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "가게",
       "address": "경상북도 문경시 유곡동 214-4",
       "roadAddress": "",
@@ -854,13 +819,6 @@
       "licenseDate": ""
     },
     {
-      "name": "구멍가게",
-      "address": "경상북도 문경시 신기동 925",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "역전슈퍼",
       "address": "경상북도 문경시 마성면 외어리 833-2",
       "roadAddress": "",
@@ -905,13 +863,6 @@
     {
       "name": "거봉연쇄점",
       "address": "경상북도 문경시 모전동 883-8",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "그린슈퍼",
-      "address": "경상북도 문경시 모전동 75-2",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -975,13 +926,6 @@
     {
       "name": "축협가공원",
       "address": "경상북도 문경시 모전동 106-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "대성슈퍼",
-      "address": "경상북도 문경시 모전동 34-2",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1162,13 +1106,6 @@
       "licenseDate": ""
     },
     {
-      "name": "중앙슈퍼",
-      "address": "경상북도 문경시 마성면 외어리 853-3",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "청우슈퍼",
       "address": "경상북도 문경시 모전동 591-5",
       "roadAddress": "",
@@ -1225,13 +1162,6 @@
       "licenseDate": ""
     },
     {
-      "name": "화신슈퍼",
-      "address": "경상북도 문경시 모전동 85-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "정든슈퍼",
       "address": "경상북도 문경시 점촌동 245-26",
       "roadAddress": "",
@@ -1262,13 +1192,6 @@
     {
       "name": "주민슈퍼",
       "address": "경상북도 문경시 점촌동 148-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "삼보슈퍼",
-      "address": "경상북도 문경시 점촌동 129-3",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1512,27 +1435,6 @@
       "licenseDate": ""
     },
     {
-      "name": "새마을슈퍼",
-      "address": "경상북도 문경시 마성면 외어리 855",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "역전슈퍼",
-      "address": "경상북도 문경시 마성면 외어리 833-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "중앙슈퍼",
-      "address": "경상북도 문경시 마성면 외어리 853-3",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "외어슈퍼",
       "address": "경상북도 문경시 마성면 외어리 833-14",
       "roadAddress": "",
@@ -1710,20 +1612,6 @@
     {
       "name": "문경유통",
       "address": "경상북도 문경시 문경읍 하리 76",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "중앙슈퍼",
-      "address": "경상북도 문경시 마성면 외어리 853-3",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "새마을슈퍼",
-      "address": "경상북도 문경시 마성면 외어리 855",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -2072,13 +1960,6 @@
       "licenseDate": ""
     },
     {
-      "name": "한솔슈퍼",
-      "address": "경상북도 문경시 흥덕동 321-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "대흥슈퍼",
       "address": "경상북도 문경시 문경읍 하리 209-23",
       "roadAddress": "",
@@ -2144,13 +2025,6 @@
     {
       "name": "화성슈퍼",
       "address": "경상북도 문경시 가은읍 왕능리 397-47",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "대동슈퍼",
-      "address": "경상북도 문경시 점촌동 253-4",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -2247,20 +2121,6 @@
       "licenseDate": ""
     },
     {
-      "name": "대구슈퍼",
-      "address": "경상북도 문경시 동로면 적성리 566-4",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "미니슈퍼",
-      "address": "경상북도 문경시 가은읍 왕능리 305",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "백화상회",
       "address": "경상북도 문경시 가은읍 왕능리 304",
       "roadAddress": "",
@@ -2338,13 +2198,6 @@
       "licenseDate": ""
     },
     {
-      "name": "가은집",
-      "address": "경상북도 문경시 마성면 하내리 310",
-      "roadAddress": "경상북도 문경시 마성면 구랑2길 9",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "가은슈퍼",
       "address": "경상북도 문경시 가은읍 왕능리 397-46",
       "roadAddress": "",
@@ -2354,13 +2207,6 @@
     {
       "name": "기사식당",
       "address": "경상북도 문경시 가은읍 왕능리 335-16",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "중앙슈퍼",
-      "address": "경상북도 문경시 마성면 외어리 853-3",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -2404,13 +2250,6 @@
       "name": "달지구멍가게",
       "address": "경상북도 문경시 영순면 달지리 627",
       "roadAddress": "경상북도 문경시 영순면 삼인길 92",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "농협연쇄점",
-      "address": "경상북도 문경시 영순면 의곡리 95",
-      "roadAddress": "경상북도 문경시 영순면 영순로 282",
       "status": "영업/정상",
       "licenseDate": ""
     },
@@ -2576,23 +2415,9 @@
       "licenseDate": ""
     },
     {
-      "name": "학생문구사",
-      "address": "경상북도 문경시 산양면 불암리 239-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "동명상회",
       "address": "경상북도 문경시 산양면 불암리 30",
       "roadAddress": "경상북도 문경시 산양면 불암2길 27",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "학생문구사",
-      "address": "경상북도 문경시 산양면 불암리 239-2",
-      "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
     },
@@ -2641,13 +2466,6 @@
     {
       "name": "반곡2리구판장",
       "address": "경상북도 문경시 산양면 반곡리 659",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "평천1리구판장",
-      "address": "경상북도 문경시 문경읍 평천리 240",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -2891,13 +2709,6 @@
       "licenseDate": ""
     },
     {
-      "name": "약석리구판장",
-      "address": "경상북도 문경시 산북면 약석리 505",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "회룡리구판장",
       "address": "경상북도 문경시 산북면 회룡리 259",
       "roadAddress": "경상북도 문경시 산북면 회룡1길 12",
@@ -3041,13 +2852,6 @@
       "name": "개인",
       "address": "경상북도 문경시 동로면 노은리 383-3",
       "roadAddress": "경상북도 문경시 동로면 노루재길 82-10",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "농협하나로마트",
-      "address": "경상북도 문경시 점촌동 261-1",
-      "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
     },

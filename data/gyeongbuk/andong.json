@@ -4,7 +4,7 @@
   "district": "안동시",
   "districtSlug": "andong",
   "updatedAt": "2026-03-26",
-  "totalCount": 114,
+  "totalCount": 111,
   "stores": [
     {
       "name": "하나로유통",
@@ -378,20 +378,6 @@
       "licenseDate": "2000-06-08"
     },
     {
-      "name": "영심이",
-      "address": "경상북도 안동시 옥야동 292-6",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-07-28"
-    },
-    {
-      "name": "동산편의점",
-      "address": "경상북도 안동시 태화동 204-9",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-07-07"
-    },
-    {
       "name": "해송슈퍼",
       "address": "경상북도 안동시 예안면 정산리 629-8",
       "roadAddress": "",
@@ -467,13 +453,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2002-04-10"
-    },
-    {
-      "name": "삼선슈퍼",
-      "address": "경상북도 안동시 옥야동 306-40",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2002-04-11"
     },
     {
       "name": "아리랑주유소",

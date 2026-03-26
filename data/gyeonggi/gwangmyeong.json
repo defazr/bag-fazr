@@ -4,7 +4,7 @@
   "district": "광명시",
   "districtSlug": "gwangmyeong",
   "updatedAt": "2026-03-26",
-  "totalCount": 311,
+  "totalCount": 305,
   "stores": [
     {
       "name": "이마트24 광명그랜드점",
@@ -1036,13 +1036,6 @@
       "licenseDate": "2023-04-28"
     },
     {
-      "name": "광명농협 학온지점",
-      "address": "경기도 광명시 노온사동 944",
-      "roadAddress": "경기도 광명시 광명로 276 (노온사동)",
-      "status": "영업/정상",
-      "licenseDate": "2023-04-28"
-    },
-    {
       "name": "씨유 광명중앙점",
       "address": "경기도 광명시 광명동 158-544",
       "roadAddress": "경기도 광명시 새터로121번길 27, 1층 (광명동)",
@@ -1820,13 +1813,6 @@
       "licenseDate": "2001-04-17"
     },
     {
-      "name": "해피마트",
-      "address": "경기도 광명시 광명동 57-11",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-04-17"
-    },
-    {
       "name": "할인마트(광명점)",
       "address": "경기도 광명시 광명동 123-10 1층 102",
       "roadAddress": "",
@@ -1876,13 +1862,6 @@
       "licenseDate": "2001-03-29"
     },
     {
-      "name": "소망슈퍼",
-      "address": "경기도 광명시 광명동 200-6 한진상가 B-2114~2115호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-09-26"
-    },
-    {
       "name": "세븐일레븐 1006호점",
       "address": "경기도 광명시 광명동 158-664",
       "roadAddress": "",
@@ -1902,13 +1881,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2001-05-16"
-    },
-    {
-      "name": "진주화",
-      "address": "경기도 광명시 철산동 489-59",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-04-16"
     },
     {
       "name": "동해유통(D 마트)",
@@ -2072,13 +2044,6 @@
       "licenseDate": "2001-10-25"
     },
     {
-      "name": "바이더웨이",
-      "address": "경기도 광명시 철산동 480",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-04-16"
-    },
-    {
       "name": "훼미리마트(철산역점)",
       "address": "경기도 광명시 철산동 272 광명프라자 1층 103호",
       "roadAddress": "",
@@ -2102,13 +2067,6 @@
     {
       "name": "LG25 광명철산점",
       "address": "경기도 광명시 철산동 398 영일빌딩 108-109",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-10-26"
-    },
-    {
-      "name": "훼미리마트(철산역점)",
-      "address": "경기도 광명시 철산동 272 광명프라자 1층 103호",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2001-10-26"

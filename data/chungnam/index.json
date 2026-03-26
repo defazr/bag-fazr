@@ -2,17 +2,17 @@
   "region": "충청남도",
   "regionSlug": "chungnam",
   "updatedAt": "2026-03-26",
-  "totalCount": 4884,
+  "totalCount": 4824,
   "districts": [
     {
       "district": "아산시",
       "districtSlug": "asan",
-      "count": 1193
+      "count": 1179
     },
     {
       "district": "보령시",
       "districtSlug": "boryeong",
-      "count": 584
+      "count": 582
     },
     {
       "district": "부여군",
@@ -22,7 +22,7 @@
     {
       "district": "천안시",
       "districtSlug": "cheonan",
-      "count": 1165
+      "count": 1155
     },
     {
       "district": "청양군",
@@ -37,32 +37,32 @@
     {
       "district": "금산군",
       "districtSlug": "geumsan",
-      "count": 529
+      "count": 516
     },
     {
       "district": "공주시",
       "districtSlug": "gongju",
-      "count": 23
+      "count": 22
     },
     {
       "district": "계룡시",
       "districtSlug": "gyeryong",
-      "count": 91
+      "count": 86
     },
     {
       "district": "홍성군",
       "districtSlug": "hongseong",
-      "count": 209
+      "count": 208
     },
     {
       "district": "논산시",
       "districtSlug": "nonsan",
-      "count": 501
+      "count": 497
     },
     {
       "district": "서천군",
       "districtSlug": "seocheon",
-      "count": 125
+      "count": 121
     },
     {
       "district": "서산시",
@@ -77,7 +77,7 @@
     {
       "district": "예산군",
       "districtSlug": "yesan",
-      "count": 261
+      "count": 255
     }
   ]
 }

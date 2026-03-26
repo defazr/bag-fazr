@@ -4,7 +4,7 @@
   "district": "춘천시",
   "districtSlug": "chuncheon",
   "updatedAt": "2026-03-26",
-  "totalCount": 129,
+  "totalCount": 125,
   "stores": [
     {
       "name": "선우마트",
@@ -840,13 +840,6 @@
       "licenseDate": "2000-09-27"
     },
     {
-      "name": "고탄낚시터",
-      "address": "강원특별자치도 춘천시 사북면 고탄리 50-23",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-09-28"
-    },
-    {
       "name": "현인슈퍼",
       "address": "강원특별자치도 춘천시 우두동 1052",
       "roadAddress": "강원특별자치도 춘천시 영서로2771번길 5  (우두동)",
@@ -887,27 +880,6 @@
       "roadAddress": "강원특별자치도 춘천시 충열로 80 (우두동, 소양아파트)",
       "status": "영업/정상",
       "licenseDate": "2016-06-17"
-    },
-    {
-      "name": "국군복지단춘천지원본부 명월마트",
-      "address": "강원특별자치도 춘천시 신동 688-1",
-      "roadAddress": "강원특별자치도 춘천시 지내고탄로 51-73 (신동)",
-      "status": "영업/정상",
-      "licenseDate": "2020-10-07"
-    },
-    {
-      "name": "국군복지단춘천지원본부 명월마트",
-      "address": "강원특별자치도 춘천시 신동 688-1",
-      "roadAddress": "강원특별자치도 춘천시 지내고탄로 51-73 (신동)",
-      "status": "영업/정상",
-      "licenseDate": "2020-10-07"
-    },
-    {
-      "name": "국군복지단춘천지원본부 명월마트",
-      "address": "강원특별자치도 춘천시 신동 688-1",
-      "roadAddress": "강원특별자치도 춘천시 지내고탄로 51-73 (신동)",
-      "status": "영업/정상",
-      "licenseDate": "2020-10-07"
     }
   ]
 }

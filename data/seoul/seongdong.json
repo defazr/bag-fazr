@@ -4,7 +4,7 @@
   "district": "성동구",
   "districtSlug": "seongdong",
   "updatedAt": "2026-03-26",
-  "totalCount": 7,
+  "totalCount": 5,
   "stores": [
     {
       "name": "노브랜드 남양주화도2점",
@@ -19,20 +19,6 @@
       "roadAddress": "서울특별시 성동구 성수일로 56, 성수동BY센터 8,9,10층 (성수동2가)",
       "status": "영업/정상",
       "licenseDate": "2021-04-21"
-    },
-    {
-      "name": "이마트에브리데이 남양주도곡점",
-      "address": "서울특별시 성동구 성수동2가 301-51 성수동BY센터",
-      "roadAddress": "서울특별시 성동구 성수일로 56, 성수동BY센터 8,9,10층 (성수동2가)",
-      "status": "영업/정상",
-      "licenseDate": "2021-04-23"
-    },
-    {
-      "name": "이마트에브리데이 남양주도곡점",
-      "address": "서울특별시 성동구 성수동2가 301-51 성수동BY센터",
-      "roadAddress": "서울특별시 성동구 성수일로 56, 성수동BY센터 8,9,10층 (성수동2가)",
-      "status": "영업/정상",
-      "licenseDate": "2024-04-30"
     },
     {
       "name": "주식회사 보암",

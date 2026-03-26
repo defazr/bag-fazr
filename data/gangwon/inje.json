@@ -4,7 +4,7 @@
   "district": "인제군",
   "districtSlug": "inje",
   "updatedAt": "2026-03-26",
-  "totalCount": 45,
+  "totalCount": 43,
   "stores": [
     {
       "name": "청우상회",
@@ -70,13 +70,6 @@
       "licenseDate": "2004-11-03"
     },
     {
-      "name": "사랑편의점",
-      "address": "",
-      "roadAddress": "강원특별자치도 인제군 서화면 천도로 132-1",
-      "status": "영업/정상",
-      "licenseDate": "2004-11-08"
-    },
-    {
       "name": "대전철물",
       "address": "",
       "roadAddress": "강원특별자치도 인제군 서화면 천도로 156",
@@ -131,13 +124,6 @@
       "roadAddress": "강원특별자치도 인제군 서화면 천도로 130",
       "status": "영업/정상",
       "licenseDate": "2007-09-27"
-    },
-    {
-      "name": "풍년식품",
-      "address": "",
-      "roadAddress": "강원특별자치도 인제군 서화면 서화길 14-4",
-      "status": "영업/정상",
-      "licenseDate": "2009-02-18"
     },
     {
       "name": "바이더웨이(서화점)",

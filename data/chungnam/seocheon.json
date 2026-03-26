@@ -4,7 +4,7 @@
   "district": "서천군",
   "districtSlug": "seocheon",
   "updatedAt": "2026-03-26",
-  "totalCount": 125,
+  "totalCount": 121,
   "stores": [
     {
       "name": "양화상회",
@@ -35,13 +35,6 @@
       "licenseDate": "1994-12-21"
     },
     {
-      "name": "판교하나로마트",
-      "address": "충청남도 서천군 판교면 현암리 144-4 하나로마트",
-      "roadAddress": "충청남도 서천군 판교면 종판로 897, 하나로마트",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-21"
-    },
-    {
       "name": "연봉리장",
       "address": "충청남도 서천군 한산면 연봉리 147",
       "roadAddress": "",
@@ -66,13 +59,6 @@
       "name": "평화상회",
       "address": "충청남도 서천군 문산면 지원리 511-1 평화상회",
       "roadAddress": "충청남도 서천군 문산면 서문로 1246, 평화상회",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-21"
-    },
-    {
-      "name": "판교하나로마트",
-      "address": "충청남도 서천군 판교면 현암리 144-4 하나로마트",
-      "roadAddress": "충청남도 서천군 판교면 종판로 897, 하나로마트",
       "status": "영업/정상",
       "licenseDate": "1994-12-21"
     },
@@ -581,13 +567,6 @@
       "licenseDate": "2022-08-10"
     },
     {
-      "name": "씨유춘장대점",
-      "address": "충청남도 서천군 서면 도둔리 463-7",
-      "roadAddress": "충청남도 서천군 서면 춘장대길 4",
-      "status": "영업/정상",
-      "licenseDate": "2022-09-01"
-    },
-    {
       "name": "씨유장항점",
       "address": "충청남도 서천군 장항읍 창선1리 220-1",
       "roadAddress": "충청남도 서천군 장항읍 장항로180번길 2, 씨유",
@@ -782,13 +761,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1996-08-29"
-    },
-    {
-      "name": "입력오류",
-      "address": "충청남도 서천군 장항읍 원수리 450-15",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
     },
     {
       "name": "장항축협하나로마트",

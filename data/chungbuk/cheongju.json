@@ -4,7 +4,7 @@
   "district": "청주시",
   "districtSlug": "cheongju",
   "updatedAt": "2026-03-26",
-  "totalCount": 1011,
+  "totalCount": 973,
   "stores": [
     {
       "name": "보성슈퍼",
@@ -672,13 +672,6 @@
       "licenseDate": "2001-10-06"
     },
     {
-      "name": "광명슈퍼",
-      "address": "충청북도 청주시 청원구 우암동 394-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-11-02"
-    },
-    {
       "name": "LA마트",
       "address": "충청북도 청주시 청원구 우암동 49-8 9  통1 반",
       "roadAddress": "",
@@ -882,13 +875,6 @@
       "licenseDate": ""
     },
     {
-      "name": "LA25시편의점",
-      "address": "충청북도 청주시 청원구 내덕동 86-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "학사슈퍼",
       "address": "충청북도 청주시 청원구 내덕동 813-43",
       "roadAddress": "",
@@ -954,13 +940,6 @@
     {
       "name": "북부자동차매매단지내 매점",
       "address": "충청북도 청주시 청원구 주중동 173-9",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "광명슈퍼",
-      "address": "충청북도 청주시 청원구 우암동 394-1",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1162,13 +1141,6 @@
       "licenseDate": ""
     },
     {
-      "name": "후랜드편의점",
-      "address": "충청북도 청주시 청원구 우암동 197-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "웅산건설(주)",
       "address": "충청북도 청주시 청원구 우암동 370-17",
       "roadAddress": "",
@@ -1190,13 +1162,6 @@
       "licenseDate": ""
     },
     {
-      "name": "광명슈퍼",
-      "address": "충청북도 청주시 청원구 우암동 394-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "LA25시 공판장",
       "address": "충청북도 청주시 청원구 내덕동 86-1",
       "roadAddress": "",
@@ -1213,13 +1178,6 @@
     {
       "name": "서울유통하이퍼마켓",
       "address": "충청북도 청주시 청원구 내덕동 161-19",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "놀부유통",
-      "address": "충청북도 청주시 청원구 내덕동 129-2",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1288,13 +1246,6 @@
       "licenseDate": ""
     },
     {
-      "name": "드림마트",
-      "address": "충청북도 청주시 청원구 내덕동 747-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "청림상사",
       "address": "충청북도 청주시 청원구 내덕동 402-49",
       "roadAddress": "",
@@ -1311,13 +1262,6 @@
     {
       "name": "빙그레공판장",
       "address": "충청북도 청주시 청원구 율량동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "청주하이퍼",
-      "address": "충청북도 청주시 청원구 율량동 1825-0",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1416,13 +1360,6 @@
     {
       "name": "월드하이퍼마켓",
       "address": "충청북도 청주시 청원구 우암동 43-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "엔젤마트",
-      "address": "충청북도 청주시 청원구 율량동 850-0",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1785,13 +1722,6 @@
       "licenseDate": "2000-08-01"
     },
     {
-      "name": "덕일하이퍼",
-      "address": "충청북도 청주시 청원구 내덕동 499-17",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-08-01"
-    },
-    {
       "name": "서울유통",
       "address": "충청북도 청주시 청원구 내덕동 161-19",
       "roadAddress": "",
@@ -1832,20 +1762,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2000-10-17"
-    },
-    {
-      "name": "월드컵마트",
-      "address": "충청북도 청주시 청원구 내덕동 480-7",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-11-15"
-    },
-    {
-      "name": "화개장터",
-      "address": "충청북도 청주시 청원구 내덕동 149-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-11-29"
     },
     {
       "name": "코사마트",
@@ -1902,13 +1818,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2000-08-01"
-    },
-    {
-      "name": "소원슈퍼",
-      "address": "충청북도 청주시 청원구 내덕동 414-14",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-05-12"
     },
     {
       "name": "중앙마트",
@@ -2011,13 +1920,6 @@
     {
       "name": "삼일슈퍼",
       "address": "충청북도 청주시 청원구 우암동 54-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-08-01"
-    },
-    {
-      "name": "삼진서점",
-      "address": "충청북도 청주시 청원구 우암동 261-146",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2000-08-01"
@@ -2182,13 +2084,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2000-08-31"
-    },
-    {
-      "name": "한아름슈퍼",
-      "address": "충청북도 청주시 청원구 우암동 408-8",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-08-01"
     },
     {
       "name": "피노키오문구",
@@ -2630,13 +2525,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2000-12-19"
-    },
-    {
-      "name": "원마트",
-      "address": "충청북도 청주시 청원구 율량동 660-70",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-12-27"
     },
     {
       "name": "농수산물백화점",
@@ -3745,13 +3633,6 @@
       "licenseDate": "2000-08-01"
     },
     {
-      "name": "대원슈퍼",
-      "address": "충청북도 청주시 상당구 수동 412-26",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-11-06"
-    },
-    {
       "name": "삼화슈퍼",
       "address": "충청북도 청주시 상당구 남일면 효촌리 25-3",
       "roadAddress": "충청북도 청주시 상당구 남일면 효촌송정1길 6",
@@ -4459,13 +4340,6 @@
       "licenseDate": "2000-11-28"
     },
     {
-      "name": "형제슈퍼",
-      "address": "충청북도 청주시 상당구 금천동 110-34",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-12-08"
-    },
-    {
       "name": "세븐하이퍼마켓",
       "address": "충청북도 청주시 상당구 금천동 1201",
       "roadAddress": "",
@@ -4690,13 +4564,6 @@
       "licenseDate": "2000-08-01"
     },
     {
-      "name": "괴산상회",
-      "address": "충청북도 청주시 상당구 영운동 202-4",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "그린유통",
       "address": "충청북도 청주시 상당구 영운동 38-4",
       "roadAddress": "",
@@ -4907,13 +4774,6 @@
       "licenseDate": "2000-08-01"
     },
     {
-      "name": "대한유통",
-      "address": "충청북도 청주시 상당구 용암동 2108-0",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "현대하이퍼",
       "address": "충청북도 청주시 상당구 용암동 2104-0 현대2차아파트상가 101",
       "roadAddress": "",
@@ -4947,13 +4807,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
-    },
-    {
-      "name": "범양슈퍼",
-      "address": "충청북도 청주시 상당구 남문로1가 114",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-04-24"
     },
     {
       "name": "동산마트",
@@ -5250,20 +5103,6 @@
       "licenseDate": ""
     },
     {
-      "name": "양지슈퍼",
-      "address": "충청북도 청주시 상당구 석교동 98-4",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "현대빙그레공판장",
-      "address": "충청북도 청주시 상당구 금천동 270-0 장자마을현대아파트 상가동 107호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "코리아마트",
       "address": "충청북도 청주시 상당구 석교동 134",
       "roadAddress": "",
@@ -5308,20 +5147,6 @@
     {
       "name": "신용전기슈퍼",
       "address": "충청북도 청주시 상당구 금천동 261-8",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "청주지업사",
-      "address": "충청북도 청주시 상당구 남주동 96-3",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "문화슈퍼",
-      "address": "충청북도 청주시 상당구 문화동 50-16",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -5376,29 +5201,8 @@
       "licenseDate": ""
     },
     {
-      "name": "하나마트",
-      "address": "충청북도 청주시 상당구 북문로2가 50-8",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "청주백화점",
-      "address": "충청북도 청주시 상당구 남문로2가 1-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "남선상회",
       "address": "충청북도 청주시 상당구 서문동 142-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "썬마트",
-      "address": "충청북도 청주시 상당구 석교동 4-3",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -5444,20 +5248,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
-    },
-    {
-      "name": "현대하이퍼",
-      "address": "충청북도 청주시 상당구 탑동 44-0 현대아파트상가 101",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "신용전기슈퍼",
-      "address": "충청북도 청주시 상당구 금천동 261-8",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2002-01-21"
     },
     {
       "name": "소망슈퍼",
@@ -5511,13 +5301,6 @@
     {
       "name": "태산그린마트",
       "address": "충청북도 청주시 상당구 용암동 2076-0 태산그린@상가 102호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "수지슈퍼",
-      "address": "충청북도 청주시 상당구 용암동 1191-0",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -5691,13 +5474,6 @@
       "licenseDate": ""
     },
     {
-      "name": "동양마트(주)북문로점",
-      "address": "충청북도 청주시 상당구 북문로2가 61-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "소비자알뜰판매장",
       "address": "충청북도 청주시 상당구 대성동 1-0",
       "roadAddress": "",
@@ -5747,22 +5523,8 @@
       "licenseDate": ""
     },
     {
-      "name": "KS편의점",
-      "address": "충청북도 청주시 상당구 탑동 155-7",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "재성설비",
       "address": "충청북도 청주시 상당구 탑동 147-4",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "훼미리마트청주상당점",
-      "address": "충청북도 청주시 상당구 북문로2가 77-1",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -5784,13 +5546,6 @@
     {
       "name": "장군도매유통",
       "address": "충청북도 청주시 상당구 금천동 312-0 부영8차상가 1층 102호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "A플러스",
-      "address": "충청북도 청주시 상당구 금천동 427-0",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -5882,13 +5637,6 @@
     {
       "name": "주성슈퍼",
       "address": "충청북도 청주시 상당구 서운동 22-53",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "상당문구사",
-      "address": "충청북도 청주시 상당구 수동 262-7",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -6062,13 +5810,6 @@
       "licenseDate": ""
     },
     {
-      "name": "석탑슈퍼",
-      "address": "충청북도 청주시 상당구 탑동 297-84",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "B&M클럽우수점",
       "address": "충청북도 청주시 상당구 금천동 117-5",
       "roadAddress": "",
@@ -6078,13 +5819,6 @@
     {
       "name": "뉴욕할인마트",
       "address": "충청북도 청주시 상당구 용정동 343-40",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "문화슈퍼",
-      "address": "충청북도 청주시 상당구 문화동 50-16",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""

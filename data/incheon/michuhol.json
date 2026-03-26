@@ -4,7 +4,7 @@
   "district": "미추홀구",
   "districtSlug": "michuhol",
   "updatedAt": "2026-03-26",
-  "totalCount": 87,
+  "totalCount": 84,
   "stores": [
     {
       "name": "현슈퍼",
@@ -378,13 +378,6 @@
       "licenseDate": "2003-04-14"
     },
     {
-      "name": "덕영슈퍼",
-      "address": "인천광역시 미추홀구 숭의동 103-12",
-      "roadAddress": "인천광역시 미추홀구 석정로 107  (숭의동)",
-      "status": "영업/정상",
-      "licenseDate": "2003-12-23"
-    },
-    {
       "name": "GS칼텍스인천금강점",
       "address": "인천광역시 미추홀구 숭의동 353-21",
       "roadAddress": "인천광역시 미추홀구 제물량로4번길 42-31  (숭의동)",
@@ -511,13 +504,6 @@
       "licenseDate": "2008-10-17"
     },
     {
-      "name": "강원식품",
-      "address": "인천광역시 미추홀구 숭의동 431-70",
-      "roadAddress": "인천광역시 미추홀구 샛골로 6  (숭의동)",
-      "status": "영업/정상",
-      "licenseDate": "2008-06-10"
-    },
-    {
       "name": "해와달편의점",
       "address": "인천광역시 미추홀구 숭의동 343-15",
       "roadAddress": "인천광역시 미추홀구 인중로 13  (숭의동)",
@@ -584,13 +570,6 @@
       "name": "인광슈퍼",
       "address": "인천광역시 미추홀구 숭의동 403-21",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-20"
-    },
-    {
-      "name": "정아슈퍼",
-      "address": "인천광역시 미추홀구 숭의동 160-6",
-      "roadAddress": "인천광역시 미추홀구 석정로50번길 21-4  (숭의동)",
       "status": "영업/정상",
       "licenseDate": "1994-12-20"
     },

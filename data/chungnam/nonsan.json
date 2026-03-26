@@ -4,7 +4,7 @@
   "district": "논산시",
   "districtSlug": "nonsan",
   "updatedAt": "2026-03-26",
-  "totalCount": 501,
+  "totalCount": 497,
   "stores": [
     {
       "name": "덕진상회",
@@ -520,13 +520,6 @@
     {
       "name": "취암슈퍼",
       "address": "충청남도 논산시 취암동 539-12",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "신촌상회",
-      "address": "충청남도 논산시 내동 72-3",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1913,13 +1906,6 @@
     {
       "name": "한청마트",
       "address": "충청남도 논산시 반월동 173-7",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "미니슈퍼",
-      "address": "충청남도 논산시 반월동 67-4",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -3376,20 +3362,6 @@
     {
       "name": "대명상회",
       "address": "충청남도 논산시 부적면 신교리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "반송리구판장",
-      "address": "충청남도 논산시 부적면 반송리",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "반송리구판장",
-      "address": "충청남도 논산시 부적면 반송리",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""

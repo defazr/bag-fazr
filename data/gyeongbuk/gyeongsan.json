@@ -4,7 +4,7 @@
   "district": "경산시",
   "districtSlug": "gyeongsan",
   "updatedAt": "2026-03-26",
-  "totalCount": 57,
+  "totalCount": 56,
   "stores": [
     {
       "name": "글로벌 종합식품유통",
@@ -327,13 +327,6 @@
       "roadAddress": "경상북도 경산시 삼풍로4길 14  (삼풍동)",
       "status": "영업/정상",
       "licenseDate": "2007-03-22"
-    },
-    {
-      "name": "썬할인마트(점촌점)",
-      "address": "경상북도 경산시 점촌동 231-1",
-      "roadAddress": "경상북도 경산시 들뫼길 150  (점촌동)",
-      "status": "영업/정상",
-      "licenseDate": ""
     },
     {
       "name": "태왕마트",

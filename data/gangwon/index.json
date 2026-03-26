@@ -2,7 +2,7 @@
   "region": "강원특별자치도",
   "regionSlug": "gangwon",
   "updatedAt": "2026-03-26",
-  "totalCount": 3942,
+  "totalCount": 3815,
   "districts": [
     {
       "district": "철원군",
@@ -12,7 +12,7 @@
     {
       "district": "춘천시",
       "districtSlug": "chuncheon",
-      "count": 129
+      "count": 125
     },
     {
       "district": "동해시",
@@ -22,7 +22,7 @@
     {
       "district": "강릉시",
       "districtSlug": "gangneung",
-      "count": 509
+      "count": 507
     },
     {
       "district": "고성군",
@@ -32,12 +32,12 @@
     {
       "district": "횡성군",
       "districtSlug": "hoengseong",
-      "count": 150
+      "count": 129
     },
     {
       "district": "홍천군",
       "districtSlug": "hongcheon",
-      "count": 266
+      "count": 259
     },
     {
       "district": "화천군",
@@ -47,7 +47,7 @@
     {
       "district": "인제군",
       "districtSlug": "inje",
-      "count": 45
+      "count": 43
     },
     {
       "district": "정선군",
@@ -77,12 +77,12 @@
     {
       "district": "원주시",
       "districtSlug": "wonju",
-      "count": 1585
+      "count": 1536
     },
     {
       "district": "양구군",
       "districtSlug": "yanggu",
-      "count": 245
+      "count": 205
     },
     {
       "district": "양양군",
@@ -92,7 +92,7 @@
     {
       "district": "영월군",
       "districtSlug": "yeongwol",
-      "count": 345
+      "count": 343
     }
   ]
 }

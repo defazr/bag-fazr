@@ -1,0 +1,5295 @@
+{
+  "region": "광주광역시",
+  "regionSlug": "gwangju",
+  "district": "서구",
+  "districtSlug": "gjseogu",
+  "updatedAt": "2026-03-26",
+  "totalCount": 755,
+  "stores": [
+    {
+      "name": "유진할인마트",
+      "address": "광주광역시 서구 양동 5-61",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-16"
+    },
+    {
+      "name": "명성슈퍼",
+      "address": "광주광역시 서구 양동 304-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-19"
+    },
+    {
+      "name": "우진수퍼(1층)",
+      "address": "광주광역시 서구 양동 61-2 우진상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-21"
+    },
+    {
+      "name": "영광슈퍼",
+      "address": "광주광역시 서구 농성동 59-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-09"
+    },
+    {
+      "name": "광천시민매점",
+      "address": "광주광역시 서구 광천동 650-7 시민아파트 A-112",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-23"
+    },
+    {
+      "name": "알짜마트",
+      "address": "광주광역시 서구 광천동 650-90",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-30"
+    },
+    {
+      "name": "피플스24시 편의점",
+      "address": "광주광역시 서구 광천동 234",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-03"
+    },
+    {
+      "name": "CMS마트",
+      "address": "광주광역시 서구 유촌동 852 상가 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-13"
+    },
+    {
+      "name": "농협중앙회공판장",
+      "address": "광주광역시 서구 치평동 1182-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-08"
+    },
+    {
+      "name": "미니스톱상무점",
+      "address": "광주광역시 서구 치평동 1178-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-30"
+    },
+    {
+      "name": "뉴스코마트화정2호점",
+      "address": "광주광역시 서구 쌍촌동 1000-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-16"
+    },
+    {
+      "name": "송원홈마트",
+      "address": "광주광역시 서구 쌍촌동 997-71",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-13"
+    },
+    {
+      "name": "풍년슈퍼",
+      "address": "광주광역시 서구 쌍촌동 977-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-01"
+    },
+    {
+      "name": "(주)열심히 일하는 사람들",
+      "address": "광주광역시 서구 쌍촌동 1248-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-21"
+    },
+    {
+      "name": "파트너문구",
+      "address": "광주광역시 서구 쌍촌동 1324-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-27"
+    },
+    {
+      "name": "명승마트",
+      "address": "광주광역시 서구 쌍촌동 1232-1 광명종합상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-06"
+    },
+    {
+      "name": "리빙마트",
+      "address": "광주광역시 서구 금호동 785 송촌아파트 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신용슈퍼",
+      "address": "광주광역시 서구 화정동 160-70",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-19"
+    },
+    {
+      "name": "보훈할인마트",
+      "address": "광주광역시 서구 화정동 770-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-01"
+    },
+    {
+      "name": "미래마트",
+      "address": "광주광역시 서구 화정동 834-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-15"
+    },
+    {
+      "name": "대회전업사",
+      "address": "광주광역시 서구 화정동 844-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-21"
+    },
+    {
+      "name": "새한마트",
+      "address": "광주광역시 서구 풍암동 호반아파트 107-402",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한신청과식품",
+      "address": "광주광역시 서구 풍암동 1053",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-13"
+    },
+    {
+      "name": "썬마트",
+      "address": "광주광역시 서구 금호동 765-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-29"
+    },
+    {
+      "name": "아이디마트",
+      "address": "광주광역시 서구 금호동 892",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-14"
+    },
+    {
+      "name": "부영마트",
+      "address": "광주광역시 서구 풍암동 1099 신앙상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-19"
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "광주광역시 서구 화정동 799-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-08"
+    },
+    {
+      "name": "채널큐",
+      "address": "광주광역시 서구 금호동 738-1 임신명리상가 101/102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-27"
+    },
+    {
+      "name": "푸른슈퍼",
+      "address": "광주광역시 서구 풍암동 964-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-06"
+    },
+    {
+      "name": "영마트",
+      "address": "광주광역시 서구 금호동 795-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-03"
+    },
+    {
+      "name": "(주)보광훼미리 광주금호점",
+      "address": "광주광역시 서구 금호동 753-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-02"
+    },
+    {
+      "name": "그린마트",
+      "address": "광주광역시 서구 양동 321-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-20"
+    },
+    {
+      "name": "삼익마트",
+      "address": "광주광역시 서구 농성동 422-3삼익아파트상가1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-27"
+    },
+    {
+      "name": "중흥슈퍼",
+      "address": "광주광역시 서구 농성동 20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-20"
+    },
+    {
+      "name": "자현슈퍼",
+      "address": "광주광역시 서구 농성동 651-53",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-09"
+    },
+    {
+      "name": "유석슈퍼",
+      "address": "광주광역시 서구 농성동 641-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-17"
+    },
+    {
+      "name": "청운마트",
+      "address": "광주광역시 서구 농성동 655-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-06"
+    },
+    {
+      "name": "KJ마트",
+      "address": "광주광역시 서구 농성동 628-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-23"
+    },
+    {
+      "name": "미니편의점",
+      "address": "광주광역시 서구 농성동 665-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-14"
+    },
+    {
+      "name": "라이프스타일",
+      "address": "광주광역시 서구 농성동 645-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-06"
+    },
+    {
+      "name": "선마트",
+      "address": "광주광역시 서구 광천동 673-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-11"
+    },
+    {
+      "name": "능주슈퍼",
+      "address": "광주광역시 서구 광천동 596-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-23"
+    },
+    {
+      "name": "경제세탁",
+      "address": "광주광역시 서구 광천동 26-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-30"
+    },
+    {
+      "name": "현대편의점",
+      "address": "광주광역시 서구 광천동 30-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-06"
+    },
+    {
+      "name": "버들마트",
+      "address": "광주광역시 서구 유촌동 874-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-23"
+    },
+    {
+      "name": "에스마트상무점",
+      "address": "광주광역시 서구 유촌동 859-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-05"
+    },
+    {
+      "name": "아이디마트",
+      "address": "광주광역시 서구 유촌동 877-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-22"
+    },
+    {
+      "name": "디씨마트",
+      "address": "광주광역시 서구 유촌동 865-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-29"
+    },
+    {
+      "name": "후레쉬마트",
+      "address": "광주광역시 서구 유촌동 865-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-19"
+    },
+    {
+      "name": "광명마트",
+      "address": "광주광역시 서구 쌍촌동 251-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-17"
+    },
+    {
+      "name": "해태청과슈퍼",
+      "address": "광주광역시 서구 쌍촌동 241-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대주마트",
+      "address": "광주광역시 서구 치평동 1168-11 대주상가103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-17"
+    },
+    {
+      "name": "ABC마트",
+      "address": "광주광역시 서구 치평동 1166-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-06"
+    },
+    {
+      "name": "라인하이마트",
+      "address": "광주광역시 서구 치평동 1174-3 라인동산상가2동 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-17"
+    },
+    {
+      "name": "한국슈퍼",
+      "address": "광주광역시 서구 쌍촌동 282-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-17"
+    },
+    {
+      "name": "틴스타",
+      "address": "광주광역시 서구 쌍촌동 1271-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-18"
+    },
+    {
+      "name": "열심히일하는사람들",
+      "address": "광주광역시 서구 치평동 1182-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-18"
+    },
+    {
+      "name": "금호쌍용서구자치위원회",
+      "address": "광주광역시 서구 치평동 1171-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-02"
+    },
+    {
+      "name": "아세아슈퍼",
+      "address": "광주광역시 서구 쌍촌동 276-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-24"
+    },
+    {
+      "name": "아이디마트",
+      "address": "광주광역시 서구 쌍촌동 956-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-25"
+    },
+    {
+      "name": "싱싱과일슈퍼",
+      "address": "광주광역시 서구 쌍촌동 96 광명서구상가 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-02"
+    },
+    {
+      "name": "구내매점",
+      "address": "광주광역시 서구 치평동 1240-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-06"
+    },
+    {
+      "name": "K마트",
+      "address": "광주광역시 서구 치평동 1168-11 대주서구상가지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-23"
+    },
+    {
+      "name": "한아름마트",
+      "address": "광주광역시 서구 쌍촌동 96 광명상가117",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-29"
+    },
+    {
+      "name": "(시영)뉴스코마켓",
+      "address": "광주광역시 서구 쌍촌동 2동 1228",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-20"
+    },
+    {
+      "name": "쌍촌슈퍼",
+      "address": "광주광역시 서구 쌍촌동 427-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-10"
+    },
+    {
+      "name": "매일슈퍼",
+      "address": "광주광역시 서구 쌍촌동 1195-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-10"
+    },
+    {
+      "name": "부성마트",
+      "address": "광주광역시 서구 쌍촌동 1209-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-20"
+    },
+    {
+      "name": "종합쇼핑슈퍼",
+      "address": "광주광역시 서구 쌍촌동 쌍촌시영상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-10"
+    },
+    {
+      "name": "알뜰편의점",
+      "address": "광주광역시 서구 쌍촌동 1244-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-10"
+    },
+    {
+      "name": "주식회사 두리",
+      "address": "광주광역시 서구 쌍촌동 885-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-11"
+    },
+    {
+      "name": "호반종합마트",
+      "address": "광주광역시 서구 쌍촌동 975-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-20"
+    },
+    {
+      "name": "슈퍼문구",
+      "address": "광주광역시 서구 쌍촌동 1229",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-24"
+    },
+    {
+      "name": "화정김약국",
+      "address": "광주광역시 서구 쌍촌동 452-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-28"
+    },
+    {
+      "name": "국제슈퍼",
+      "address": "광주광역시 서구 화정동 311-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-09"
+    },
+    {
+      "name": "완도식품",
+      "address": "광주광역시 서구 화정동 742-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-02"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "광주광역시 서구 화정동 178-131",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-09"
+    },
+    {
+      "name": "서부코아마트",
+      "address": "광주광역시 서구 화정동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-26"
+    },
+    {
+      "name": "따봉청과슈퍼",
+      "address": "광주광역시 서구 화정동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07"
+    },
+    {
+      "name": "화정DC마트",
+      "address": "광주광역시 서구 화정동 782-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-10"
+    },
+    {
+      "name": "해태청과부식",
+      "address": "광주광역시 서구 내방동 385-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-21"
+    },
+    {
+      "name": "해태마트",
+      "address": "광주광역시 서구 내방동 385-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-15"
+    },
+    {
+      "name": "(주)다솜마트",
+      "address": "광주광역시 서구 화정동 177-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-27"
+    },
+    {
+      "name": "미니스톱화정중앙점",
+      "address": "광주광역시 서구 화정동 783-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-29"
+    },
+    {
+      "name": "늘샘마트",
+      "address": "광주광역시 서구 화정동 177-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-25"
+    },
+    {
+      "name": "금상슈퍼",
+      "address": "광주광역시 서구 내방동 480",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-05"
+    },
+    {
+      "name": "프리타임24시간편의점",
+      "address": "광주광역시 서구 내방동 197-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-28"
+    },
+    {
+      "name": "현주슈퍼",
+      "address": "광주광역시 서구 화정동 766-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-06"
+    },
+    {
+      "name": "미니스톰화정점",
+      "address": "광주광역시 서구 화정동 728-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-15"
+    },
+    {
+      "name": "동양마트 화정점",
+      "address": "광주광역시 서구 화정동 738-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-16"
+    },
+    {
+      "name": "한남체인염주점",
+      "address": "광주광역시 서구 화정동 1185",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-09"
+    },
+    {
+      "name": "금호식품",
+      "address": "광주광역시 서구 화정동 1072",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-24"
+    },
+    {
+      "name": "큐마트(주)",
+      "address": "광주광역시 서구 화정동 1035",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-10"
+    },
+    {
+      "name": "화정농축산소비자유통",
+      "address": "광주광역시 서구 화정동 750-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-11"
+    },
+    {
+      "name": "흥국슈퍼",
+      "address": "광주광역시 서구 화정동 367-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-18"
+    },
+    {
+      "name": "화순상회",
+      "address": "광주광역시 서구 유촌동 807-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "칠성슈퍼",
+      "address": "광주광역시 서구 유촌동 807-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은석슈퍼",
+      "address": "광주광역시 서구 유촌동 807-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종점슈퍼",
+      "address": "광주광역시 서구 유촌동 31-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장동슈퍼",
+      "address": "광주광역시 서구 내방동 779-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선우슈퍼",
+      "address": "광주광역시 서구 내방동 136-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "광주광역시 서구 내방동 130-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "나주슈퍼",
+      "address": "광주광역시 서구 내방동 124-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "극락전자",
+      "address": "광주광역시 서구 유촌동 168-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성도슈퍼",
+      "address": "광주광역시 서구 유촌동 820-52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서광주농협",
+      "address": "광주광역시 서구 유촌동 180-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동남하이퍼마켓",
+      "address": "광주광역시 서구 유촌동 1135",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "흥정한국마트",
+      "address": "광주광역시 서구 내방동 136-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코스코마켓광천점",
+      "address": "광주광역시 서구 내방동 772",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주리슈퍼",
+      "address": "광주광역시 서구 유촌동 76",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유덕상회",
+      "address": "광주광역시 서구 유촌동 164-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일신청과",
+      "address": "광주광역시 서구 내방동 770-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "광주광역시 서구 내방동 131-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미림사",
+      "address": "광주광역시 서구 내방동 124-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광동슈퍼",
+      "address": "광주광역시 서구 쌍촌동 252-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남광주상회",
+      "address": "광주광역시 서구 쌍촌동 286-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쌍촌소비자조합",
+      "address": "광주광역시 서구 쌍촌동 323-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바른손팬시",
+      "address": "광주광역시 서구 쌍촌동 328-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "광주광역시 서구 쌍촌동 331-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코스코마켓",
+      "address": "광주광역시 서구 쌍촌동 952-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "꽃집",
+      "address": "광주광역시 서구 쌍촌동 949-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쌍촌식품",
+      "address": "광주광역시 서구 쌍촌동 955-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상무슈퍼마켓",
+      "address": "광주광역시 서구 쌍촌동 963-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화니스파",
+      "address": "광주광역시 서구 쌍촌동 966-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "기갑상회",
+      "address": "광주광역시 서구 쌍촌동 837-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운천양곡상회",
+      "address": "광주광역시 서구 치평동 198-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥상회",
+      "address": "광주광역시 서구 치평동 202-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대영종합슈퍼",
+      "address": "광주광역시 서구 쌍촌동 961-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "광주광역시 서구 쌍촌동 970-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평화도매상가",
+      "address": "광주광역시 서구 쌍촌동 970-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서광주농협쌍촌점",
+      "address": "광주광역시 서구 쌍촌동 971-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제쌀집",
+      "address": "광주광역시 서구 화정동 334-156",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-11"
+    },
+    {
+      "name": "싱싱청과슈퍼",
+      "address": "광주광역시 서구 화정동 818-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-11"
+    },
+    {
+      "name": "한남화정체인(영유통)",
+      "address": "광주광역시 서구 화정동 820-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-11"
+    },
+    {
+      "name": "무등슈퍼",
+      "address": "광주광역시 서구 화정동 840-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-30"
+    },
+    {
+      "name": "일심종합마트",
+      "address": "광주광역시 서구 화정동 853-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-11"
+    },
+    {
+      "name": "나이스빅마트",
+      "address": "광주광역시 서구 화정동 368-186",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-11"
+    },
+    {
+      "name": "미니스톱염주2호점",
+      "address": "광주광역시 서구 화정동 825-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-11"
+    },
+    {
+      "name": "백두산청과슈퍼",
+      "address": "광주광역시 서구 화정동 853-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-28"
+    },
+    {
+      "name": "벧엘제과점",
+      "address": "광주광역시 서구 화정동 831-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-29"
+    },
+    {
+      "name": "뉴스코마켓 화정점",
+      "address": "광주광역시 서구 화정동 318-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-05"
+    },
+    {
+      "name": "백련구판장",
+      "address": "광주광역시 서구 화정동 920-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-20"
+    },
+    {
+      "name": "미니스톱염주점",
+      "address": "광주광역시 서구 화정동 918-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-22"
+    },
+    {
+      "name": "서광주농협화정지소",
+      "address": "광주광역시 서구 화정동 919-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-02-03"
+    },
+    {
+      "name": "미니스톱염주모아점",
+      "address": "광주광역시 서구 풍암동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-24"
+    },
+    {
+      "name": "금호흑염소",
+      "address": "광주광역시 서구 금호동 739-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-09"
+    },
+    {
+      "name": "동네마트",
+      "address": "광주광역시 서구 금호동 743-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-09"
+    },
+    {
+      "name": "금호슈퍼",
+      "address": "광주광역시 서구 금호동 733-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-10"
+    },
+    {
+      "name": "광주슈퍼",
+      "address": "광주광역시 서구 금호동 734-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-09"
+    },
+    {
+      "name": "모아마트",
+      "address": "광주광역시 서구 금호동 769",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-17"
+    },
+    {
+      "name": "한국마트",
+      "address": "광주광역시 서구 금호동 770 도개공1단지101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-09"
+    },
+    {
+      "name": "백아마트",
+      "address": "광주광역시 서구 금호동 754-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-07"
+    },
+    {
+      "name": "금호콜마트",
+      "address": "광주광역시 서구 풍암동 1130 금호상가 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-04-20"
+    },
+    {
+      "name": "86마트",
+      "address": "광주광역시 서구 금호동 742-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-03-18"
+    },
+    {
+      "name": "풍암호반마트",
+      "address": "광주광역시 서구 금호동 815 풍암2차110호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-05-29"
+    },
+    {
+      "name": "주은마트",
+      "address": "광주광역시 서구 금호동 786 주은서구상가 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-01"
+    },
+    {
+      "name": "모아마트",
+      "address": "광주광역시 서구 풍암동 1101 모아서구상가 106",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-05"
+    },
+    {
+      "name": "현대마트",
+      "address": "광주광역시 서구 풍암동 1096 현대삼환101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-12"
+    },
+    {
+      "name": "남양청과부식슈퍼",
+      "address": "광주광역시 서구 금호동 805-113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-06-12"
+    },
+    {
+      "name": "(주)코리아세븐 풍암점",
+      "address": "광주광역시 서구 풍암동 1090-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-10"
+    },
+    {
+      "name": "햇살마트",
+      "address": "광주광역시 서구 풍암동 904",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-01"
+    },
+    {
+      "name": "부영마트",
+      "address": "광주광역시 서구 금호동 818 부영상가 217-105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-17"
+    },
+    {
+      "name": "대주마트",
+      "address": "광주광역시 서구 금호동 813 대주파크빌상가 125-108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-07"
+    },
+    {
+      "name": "남광슈퍼",
+      "address": "광주광역시 서구 마륵동 793-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-08"
+    },
+    {
+      "name": "대상유통(주)금호라인점",
+      "address": "광주광역시 서구 금호동 733-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-15"
+    },
+    {
+      "name": "마재마트",
+      "address": "광주광역시 서구 금호동 826",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-06"
+    },
+    {
+      "name": "미니스톱풍암점",
+      "address": "광주광역시 서구 풍암동 1114",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-14"
+    },
+    {
+      "name": "녹색편의점",
+      "address": "광주광역시 서구 매월동 948 산업용재유통센터 23-105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-19"
+    },
+    {
+      "name": "우리농.수산물직판장",
+      "address": "광주광역시 서구 금호동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-29"
+    },
+    {
+      "name": "마운틴마트서부점",
+      "address": "광주광역시 서구 농성동 412-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-08"
+    },
+    {
+      "name": "서부종합유통",
+      "address": "광주광역시 서구 농성동 646-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-08"
+    },
+    {
+      "name": "서부마트",
+      "address": "광주광역시 서구 광천동 106-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-08"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "광주광역시 서구 유촌동 76-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-09"
+    },
+    {
+      "name": "쌍둥이DC생활백화점",
+      "address": "광주광역시 서구 내방동 130-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-05"
+    },
+    {
+      "name": "주공슈퍼",
+      "address": "광주광역시 서구 유촌동 871버들마을주공아파트상가104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-14"
+    },
+    {
+      "name": "버들부식청과",
+      "address": "광주광역시 서구 유촌동 871상무주공지하상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-23"
+    },
+    {
+      "name": "한솔마트",
+      "address": "광주광역시 서구 유촌동 871상무주공지하상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-02"
+    },
+    {
+      "name": "푸른마트",
+      "address": "광주광역시 서구 내방동 136-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-20"
+    },
+    {
+      "name": "치평우체국",
+      "address": "광주광역시 서구 치평동 1168-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-02"
+    },
+    {
+      "name": "시민공원매점",
+      "address": "광주광역시 서구 치평동 1162",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-26"
+    },
+    {
+      "name": "현대마트",
+      "address": "광주광역시 서구 쌍촌동 265",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-21"
+    },
+    {
+      "name": "365마트",
+      "address": "광주광역시 서구 쌍촌동 1253-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-29"
+    },
+    {
+      "name": "그린청과슈퍼",
+      "address": "광주광역시 서구 쌍촌동 1250-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-27"
+    },
+    {
+      "name": "용마트",
+      "address": "광주광역시 서구 쌍촌동 564-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-22"
+    },
+    {
+      "name": "장사꾼",
+      "address": "광주광역시 서구 쌍촌동 1233-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-13"
+    },
+    {
+      "name": "뉴스코마트금호점",
+      "address": "광주광역시 서구 쌍촌동 544",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-15"
+    },
+    {
+      "name": "마운틴마트상무점",
+      "address": "광주광역시 서구 쌍촌동 975-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-18"
+    },
+    {
+      "name": "세아마트",
+      "address": "광주광역시 서구 쌍촌동 상무시장내",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-24"
+    },
+    {
+      "name": "파라마트",
+      "address": "광주광역시 서구 화정동 12-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-16"
+    },
+    {
+      "name": "다정슈퍼",
+      "address": "광주광역시 서구 화정동 315-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-31"
+    },
+    {
+      "name": "프리타임",
+      "address": "광주광역시 서구 화정동 768-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-13"
+    },
+    {
+      "name": "양지슈퍼",
+      "address": "광주광역시 서구 화정동 755-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-26"
+    },
+    {
+      "name": "화인스토아",
+      "address": "광주광역시 서구 화정동 723-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-08"
+    },
+    {
+      "name": "월드마트",
+      "address": "광주광역시 서구 화정동 1056",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-24"
+    },
+    {
+      "name": "그린마트",
+      "address": "광주광역시 서구 화정동 758-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-21"
+    },
+    {
+      "name": "대주슈퍼",
+      "address": "광주광역시 서구 화정동 1193",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-03"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "광주광역시 서구 화정동 726-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-03"
+    },
+    {
+      "name": "아리랑마트",
+      "address": "광주광역시 서구 화정동 735-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-09"
+    },
+    {
+      "name": "마운틴마트(화정)",
+      "address": "광주광역시 서구 화정동 727-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-27"
+    },
+    {
+      "name": "뉴스코마켓",
+      "address": "광주광역시 서구 화정동 365",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-07"
+    },
+    {
+      "name": "행복마트",
+      "address": "광주광역시 서구 화정동 811-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-19"
+    },
+    {
+      "name": "백두슈퍼",
+      "address": "광주광역시 서구 화정동 855-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-29"
+    },
+    {
+      "name": "천지고기나라(화정점)",
+      "address": "광주광역시 서구 화정동 334-142",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-29"
+    },
+    {
+      "name": "염주소비자마트",
+      "address": "광주광역시 서구 화정동 838-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-27"
+    },
+    {
+      "name": "화정슈퍼",
+      "address": "광주광역시 서구 화정동 334-136",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-09-09"
+    },
+    {
+      "name": "소망문구슈퍼",
+      "address": "광주광역시 서구 화정동 905-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-31"
+    },
+    {
+      "name": "정직한사람들",
+      "address": "광주광역시 서구 화정동 930-1 라인동산 1-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-18"
+    },
+    {
+      "name": "국민생활관 수영장매점",
+      "address": "광주광역시 서구 화정동 407-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-08-23"
+    },
+    {
+      "name": "A.D마트",
+      "address": "광주광역시 서구 금호동 732-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-02-18"
+    },
+    {
+      "name": "한국마트",
+      "address": "광주광역시 서구 풍암동 1059",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-03-15"
+    },
+    {
+      "name": "마트로",
+      "address": "광주광역시 서구 풍암동 1132",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-04-30"
+    },
+    {
+      "name": "우미마트",
+      "address": "광주광역시 서구 풍암동 1132 우미아파트118동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-03"
+    },
+    {
+      "name": "매월상회",
+      "address": "광주광역시 서구 매월동 375-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-10"
+    },
+    {
+      "name": "도시마트",
+      "address": "광주광역시 서구 금호동 도시공사2차 지하상사",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-05-18"
+    },
+    {
+      "name": "풍암팬시랜드",
+      "address": "광주광역시 서구 풍암동 책지아파트 3블럭 호반단지 118-106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-06-29"
+    },
+    {
+      "name": "호반마트",
+      "address": "광주광역시 서구 풍암동 1048 호반아파트상가 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-07-05"
+    },
+    {
+      "name": "중흥그린마트",
+      "address": "광주광역시 서구 풍암동 1063 파크상가110호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-12"
+    },
+    {
+      "name": "열린마트",
+      "address": "광주광역시 서구 풍암동 1058상가1층102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-20"
+    },
+    {
+      "name": "장터마트",
+      "address": "광주광역시 서구 풍암동 대주파크빌",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-20"
+    },
+    {
+      "name": "중흥마트",
+      "address": "광주광역시 서구 풍암동 1047 중흥2차",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-20"
+    },
+    {
+      "name": "마운틴마재마트",
+      "address": "광주광역시 서구 금호동 787 중흥아파트상가1-102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-10-27"
+    },
+    {
+      "name": "풍암현대마트",
+      "address": "광주광역시 서구 풍암동 남양현대 106-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-11"
+    },
+    {
+      "name": "주은모아슈퍼마트",
+      "address": "광주광역시 서구 풍암동 주은모아상가108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-11-25"
+    },
+    {
+      "name": "제이마트",
+      "address": "광주광역시 서구 풍암동 1074",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1999-12-31"
+    },
+    {
+      "name": "마을슈퍼",
+      "address": "광주광역시 서구 양동 315-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "청명슈퍼",
+      "address": "광주광역시 서구 양동 306-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "고창상회",
+      "address": "광주광역시 서구 양동 5-236",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "광주광역시 서구 양동 245",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "정순집",
+      "address": "광주광역시 서구 양동 245",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "동광슈퍼",
+      "address": "광주광역시 서구 양동 5-249",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "새양동통닭",
+      "address": "광주광역시 서구 양동 340-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "양동상회",
+      "address": "광주광역시 서구 양동 330-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "우영이발관",
+      "address": "광주광역시 서구 양동 336-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "우정상회",
+      "address": "광주광역시 서구 양동 302-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "대림슈퍼",
+      "address": "광주광역시 서구 양동 269-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "이민호",
+      "address": "광주광역시 서구 양동 268-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "광주광역시 서구 양동 304-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1991-12-29"
+    },
+    {
+      "name": "광주슈퍼",
+      "address": "광주광역시 서구 양동 245-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1991-12-29"
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "광주광역시 서구 양동 333-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1991-12-29"
+    },
+    {
+      "name": "축산물판매장",
+      "address": "광주광역시 서구 양동 330-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1991-12-29"
+    },
+    {
+      "name": "함평슈퍼",
+      "address": "광주광역시 서구 양동 5-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1991-12-29"
+    },
+    {
+      "name": "마을슈퍼",
+      "address": "광주광역시 서구 양동 5-309",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1991-12-29"
+    },
+    {
+      "name": "복개상가신협매점",
+      "address": "광주광역시 서구 양동 441",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-16"
+    },
+    {
+      "name": "부곡사",
+      "address": "광주광역시 서구 양동 441 3동 108호",
+      "roadAddress": "광주광역시 서구 천변좌로 226, 3동 108호 (양동)",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-16"
+    },
+    {
+      "name": "안성그릇백화점",
+      "address": "광주광역시 서구 양동 5-77",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-02-16"
+    },
+    {
+      "name": "한전식육점",
+      "address": "광주광역시 서구 양동 307-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-04-18"
+    },
+    {
+      "name": "또또하이퍼마켓",
+      "address": "광주광역시 서구 양동 332-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-04-18"
+    },
+    {
+      "name": "유흥상회",
+      "address": "광주광역시 서구 양동 245-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-08-28"
+    },
+    {
+      "name": "삼여도,소매업",
+      "address": "광주광역시 서구 양동 5-57",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-11-08"
+    },
+    {
+      "name": "해태슈퍼",
+      "address": "광주광역시 서구 양동 302-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-23"
+    },
+    {
+      "name": "광명비닐",
+      "address": "광주광역시 서구 양동 5-253",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-08-23"
+    },
+    {
+      "name": "가든슈퍼",
+      "address": "광주광역시 서구 양동 5-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-20"
+    },
+    {
+      "name": "서울상회",
+      "address": "광주광역시 서구 양동 150-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-20"
+    },
+    {
+      "name": "남선슈퍼",
+      "address": "광주광역시 서구 양동 145-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-20"
+    },
+    {
+      "name": "송광슈퍼",
+      "address": "광주광역시 서구 양동 150-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-10-20"
+    },
+    {
+      "name": "진영슈퍼",
+      "address": "광주광역시 서구 양동 88-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "고려서점",
+      "address": "광주광역시 서구 양동 186-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "도암상회",
+      "address": "광주광역시 서구 양동 43-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "송원안경",
+      "address": "광주광역시 서구 양동 61-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "안순상회",
+      "address": "광주광역시 서구 양동 77-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "삼화비니루",
+      "address": "광주광역시 서구 양동 70-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-05-01"
+    },
+    {
+      "name": "올더웨이",
+      "address": "광주광역시 서구 양동 93-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-02-25"
+    },
+    {
+      "name": "문봉식가게",
+      "address": "광주광역시 서구 양동 438-146",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "현희슈퍼",
+      "address": "광주광역시 서구 양동 438-298",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "덕수슈퍼",
+      "address": "광주광역시 서구 양동 439-99",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "초원파크부녀회",
+      "address": "광주광역시 서구 양동 439-116",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "금수당",
+      "address": "광주광역시 서구 양동 438-214",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "광주광역시 서구 양동 438-92",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "발산쇼핑",
+      "address": "광주광역시 서구 양동 434-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "S마트",
+      "address": "광주광역시 서구 양동 428-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "연초상회",
+      "address": "광주광역시 서구 양동 395-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "유라슈퍼",
+      "address": "광주광역시 서구 양동 423-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "동산아파트부녀회",
+      "address": "광주광역시 서구 양동 420-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "신성슈퍼",
+      "address": "광주광역시 서구 양동 391-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "해태슈퍼",
+      "address": "광주광역시 서구 양동 382-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "영암상회",
+      "address": "광주광역시 서구 양동 376-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "양동복지슈퍼",
+      "address": "광주광역시 서구 양동 385-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "사러가슈퍼",
+      "address": "광주광역시 서구 양동 366-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-29"
+    },
+    {
+      "name": "대명슈퍼",
+      "address": "광주광역시 서구 양동 367-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-29"
+    },
+    {
+      "name": "성심슈퍼",
+      "address": "광주광역시 서구 양동 397-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-29"
+    },
+    {
+      "name": "1통장댁",
+      "address": "광주광역시 서구 양동 438-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-11-29"
+    },
+    {
+      "name": "우정식육점",
+      "address": "광주광역시 서구 양동 456-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "대농쇼핑24시",
+      "address": "광주광역시 서구 양동 428-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "경렬미곡상회",
+      "address": "광주광역시 서구 양동 429-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "동일식육점",
+      "address": "광주광역시 서구 양동 402-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "무등슈퍼",
+      "address": "광주광역시 서구 양동 376-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "12통장댁",
+      "address": "광주광역시 서구 양동 382-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "청풍상회",
+      "address": "광주광역시 서구 양동 358-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "유진건재사",
+      "address": "광주광역시 서구 양동 456-69",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "구멍가게",
+      "address": "광주광역시 서구 양동 438-47",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-16"
+    },
+    {
+      "name": "보성슈퍼",
+      "address": "광주광역시 서구 양동 365",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-16"
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "광주광역시 서구 양동 438-52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "승주슈퍼",
+      "address": "광주광역시 서구 양동 438-55",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "구멍가게",
+      "address": "광주광역시 서구 양동 325-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-03-22"
+    },
+    {
+      "name": "태창슈퍼",
+      "address": "광주광역시 서구 농성동 624-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "민중슈퍼",
+      "address": "광주광역시 서구 농성동 623-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "외출준비미용실",
+      "address": "광주광역시 서구 농성동 94-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "대덕슈퍼",
+      "address": "광주광역시 서구 농성동 105-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "계화수퍼",
+      "address": "광주광역시 서구 농성동 99",
+      "roadAddress": "광주광역시 서구 월산로 175  (농성동)",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "서진슈퍼",
+      "address": "광주광역시 서구 농성동 33-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "연화슈퍼",
+      "address": "광주광역시 서구 농성동 64",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "모아슈퍼",
+      "address": "광주광역시 서구 농성동 1-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "꿈나무문구사",
+      "address": "광주광역시 서구 농성동 331-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-09"
+    },
+    {
+      "name": "숙슈퍼",
+      "address": "광주광역시 서구 농성동 17-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "제준슈퍼",
+      "address": "광주광역시 서구 농성동 70-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "영빈슈퍼",
+      "address": "광주광역시 서구 농성동 365-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "따봉세탁소",
+      "address": "광주광역시 서구 농성동 355-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "세종슈퍼",
+      "address": "광주광역시 서구 농성동 380-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "국민슈퍼",
+      "address": "광주광역시 서구 농성동 423-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "광천소비자조합",
+      "address": "광주광역시 서구 농성동 425-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "농성종합유통",
+      "address": "광주광역시 서구 농성동 346-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "행운상회",
+      "address": "광주광역시 서구 농성동 610-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "신영슈퍼",
+      "address": "광주광역시 서구 농성동 446-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "알뜰소비자조합",
+      "address": "광주광역시 서구 농성동 380-70",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-11-29"
+    },
+    {
+      "name": "능주슈퍼",
+      "address": "광주광역시 서구 농성동 276-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-13"
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "광주광역시 서구 농성동 117",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-04"
+    },
+    {
+      "name": "모은슈퍼",
+      "address": "광주광역시 서구 농성동 390-66",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "부부슈퍼",
+      "address": "광주광역시 서구 농성동 348-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-11"
+    },
+    {
+      "name": "이화슈퍼",
+      "address": "광주광역시 서구 농성동 481-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-12"
+    },
+    {
+      "name": "금호철물",
+      "address": "광주광역시 서구 농성동 131-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "서광건재",
+      "address": "광주광역시 서구 농성동 87-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "칠산슈퍼",
+      "address": "광주광역시 서구 농성동 365-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "평동상회",
+      "address": "광주광역시 서구 농성동 1-59",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "화순상회",
+      "address": "광주광역시 서구 농성동 360-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1994-12-29"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "광주광역시 서구 농성동 323-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-01-16"
+    },
+    {
+      "name": "광농슈퍼",
+      "address": "광주광역시 서구 농성동 470-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1995-10-04"
+    },
+    {
+      "name": "영마트",
+      "address": "광주광역시 서구 농성동 380-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-15"
+    },
+    {
+      "name": "잉꼬슈퍼",
+      "address": "광주광역시 서구 농성동 412-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-05-29"
+    },
+    {
+      "name": "코스코마켓농성점",
+      "address": "광주광역시 서구 농성동 349-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-07-24"
+    },
+    {
+      "name": "마운틴마트",
+      "address": "광주광역시 서구 농성동 412-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-07"
+    },
+    {
+      "name": "현정슈퍼",
+      "address": "광주광역시 서구 농성동 166-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선미문구",
+      "address": "광주광역시 서구 농성동 635-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-12-03"
+    },
+    {
+      "name": "대아슈퍼",
+      "address": "광주광역시 서구 농성동 638-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1996-12-03"
+    },
+    {
+      "name": "농성청과슈퍼",
+      "address": "광주광역시 서구 농성동 640-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울세탁소",
+      "address": "광주광역시 서구 농성동 641-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신진사세탁소",
+      "address": "광주광역시 서구 농성동 652-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장흥부동산",
+      "address": "광주광역시 서구 농성동 658-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화순축협슈퍼",
+      "address": "광주광역시 서구 농성동 661-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서석이발관",
+      "address": "광주광역시 서구 농성동 656-51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현아슈퍼",
+      "address": "광주광역시 서구 농성동 671-53",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광주쌀상회",
+      "address": "광주광역시 서구 농성동 667-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유미멕시칸",
+      "address": "광주광역시 서구 농성동 663-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화니슈퍼",
+      "address": "광주광역시 서구 농성동 666-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남도그린마트",
+      "address": "광주광역시 서구 농성동 654-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진주하이퍼미켓",
+      "address": "광주광역시 서구 농성동 670-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "광주광역시 서구 농성동 651-30",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전남농수산물판매",
+      "address": "광주광역시 서구 농성동 630-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상공슈퍼",
+      "address": "광주광역시 서구 농성동 652-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농성그린마트",
+      "address": "광주광역시 서구 농성동 628-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "옥천슈퍼",
+      "address": "광주광역시 서구 농성동 637-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "광주광역시 서구 농성동 631-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농성상회",
+      "address": "광주광역시 서구 농성동 633-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서석슈퍼",
+      "address": "광주광역시 서구 농성동 654-59",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "광주광역시 서구 농성동 638-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "X-마트",
+      "address": "광주광역시 서구 농성동 638-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농성동우체국",
+      "address": "광주광역시 서구 농성동 648-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오뚜기슈퍼",
+      "address": "광주광역시 서구 농성동 671-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우진상회",
+      "address": "광주광역시 서구 광천동 23-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "로얄슈퍼",
+      "address": "광주광역시 서구 광천동 61-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대망슈퍼",
+      "address": "광주광역시 서구 광천동 95-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영광부동산",
+      "address": "광주광역시 서구 광천동 100-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "골목가게",
+      "address": "광주광역시 서구 광천동 222-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "윈다낚시",
+      "address": "광주광역시 서구 광천동 650-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진주소비자조합",
+      "address": "광주광역시 서구 광천동 651-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가을슈퍼",
+      "address": "광주광역시 서구 광천동 656-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화인슈퍼",
+      "address": "광주광역시 서구 광천동 658-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수경상회",
+      "address": "광주광역시 서구 광천동 684-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영광슈퍼",
+      "address": "광주광역시 서구 광천동 673-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명슈퍼",
+      "address": "광주광역시 서구 광천동 650-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "광주광역시 서구 광천동 650-173",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광천토기",
+      "address": "광주광역시 서구 광천동 650-394",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "순흥슈퍼",
+      "address": "광주광역시 서구 광천동 650-270",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "축산물판매장",
+      "address": "광주광역시 서구 광천동 650-366",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명세탁소",
+      "address": "광주광역시 서구 광천동 89-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소망비디오",
+      "address": "광주광역시 서구 광천동 632-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유머슈퍼",
+      "address": "광주광역시 서구 광천동 599-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진호상회",
+      "address": "광주광역시 서구 광천동 591-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대흥상회",
+      "address": "광주광역시 서구 광천동 75-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신일부동산",
+      "address": "광주광역시 서구 광천동 5-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농축산물판매장",
+      "address": "광주광역시 서구 광천동 583-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "담양슈퍼",
+      "address": "광주광역시 서구 광천동 578-32",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "자매슈퍼",
+      "address": "광주광역시 서구 광천동 58-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만복슈퍼",
+      "address": "광주광역시 서구 광천동 746-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광천미곡상회",
+      "address": "광주광역시 서구 광천동 106-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국슈퍼",
+      "address": "광주광역시 서구 광천동 92-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은진슈퍼",
+      "address": "광주광역시 서구 광천동 582",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "광주광역시 서구 광천동 205-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남일소비자구판장",
+      "address": "광주광역시 서구 광천동 747-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은파슈퍼",
+      "address": "광주광역시 서구 광천동 653-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정이청과",
+      "address": "광주광역시 서구 광천동 674-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아줌마가게",
+      "address": "광주광역시 서구 광천동 616-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광천동사무소",
+      "address": "광주광역시 서구 광천동 69-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서광주농협연쇄점",
+      "address": "광주광역시 서구 광천동 60-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원조함흥냉면",
+      "address": "광주광역시 서구 광천동 98-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동네슈퍼",
+      "address": "광주광역시 서구 광천동 569",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린장식",
+      "address": "광주광역시 서구 광천동 650-323",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성전자대리점",
+      "address": "광주광역시 서구 광천동 98",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강남슈퍼",
+      "address": "광주광역시 서구 광천동 594-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장성상회",
+      "address": "광주광역시 서구 광천동 119-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "LG전자호남대리점",
+      "address": "광주광역시 서구 광천동 84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가나슈퍼",
+      "address": "광주광역시 서구 광천동 234",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만나슈퍼",
+      "address": "광주광역시 서구 광천동 27-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협중앙회",
+      "address": "광주광역시 서구 광천동 42-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영슈퍼",
+      "address": "광주광역시 서구 광천동 581-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광원소비자구판장",
+      "address": "광주광역시 서구 광천동 674-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "기호슈퍼",
+      "address": "광주광역시 서구 광천동 72-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "골목슈퍼",
+      "address": "광주광역시 서구 광천동 29-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아시아광장편의점",
+      "address": "광주광역시 서구 광천동 659-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에덴종합유통",
+      "address": "광주광역시 서구 광천동 583-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰슈퍼",
+      "address": "광주광역시 서구 광천동 662-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매점6호",
+      "address": "광주광역시 서구 광천동 49-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한성슈퍼",
+      "address": "광주광역시 서구 광천동 34-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "함평상회",
+      "address": "광주광역시 서구 광천동 71-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광산상회",
+      "address": "광주광역시 서구 광천동 582",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리상회",
+      "address": "광주광역시 서구 광천동 88-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광천동우체국",
+      "address": "광주광역시 서구 광천동 60-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "복마트",
+      "address": "광주광역시 서구 광천동 118-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대덕상회",
+      "address": "광주광역시 서구 유촌동 512",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은하상회",
+      "address": "광주광역시 서구 유촌동 494-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "도마문구사",
+      "address": "광주광역시 서구 유촌동 234",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "극락사회",
+      "address": "광주광역시 서구 유촌동 476-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "꿈나무문구",
+      "address": "광주광역시 서구 농성동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일신청과",
+      "address": "광주광역시 서구 내방동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 화정중앙점",
+      "address": "광주광역시 서구 화정동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송정슈퍼",
+      "address": "광주광역시 서구 화정동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "ID마트",
+      "address": "광주광역시 서구 유촌동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일마트",
+      "address": "광주광역시 서구 쌍촌동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아이디마트",
+      "address": "광주광역시 서구 금호동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "싱싱과일슈퍼",
+      "address": "광주광역시 서구 쌍촌동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부영마트",
+      "address": "광주광역시 서구 풍암동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무등슈퍼",
+      "address": "광주광역시 서구 화정동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "솔뫼후문",
+      "address": "광주광역시 서구 내방동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코스코마트",
+      "address": "광주광역시 서구 쌍촌동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "완도식품",
+      "address": "광주광역시 서구 화정동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(신)경제세탁",
+      "address": "광주광역시 서구 광천동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에이비시마트",
+      "address": "광주광역시 서구 치평동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "EHDDIDAKXMGHKWJDWJA",
+      "address": "광주광역시 서구 화정동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데쇼핑㈜롯데마트광주점",
+      "address": "광주광역시 서구 풍암동 423-2 월드컵경기장",
+      "roadAddress": "광주광역시 서구 금화로 240, 월드컵경기장 (풍암동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-07-11"
+    },
+    {
+      "name": "새화정슈퍼",
+      "address": "광주광역시 서구 화정동 779-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서광슈퍼",
+      "address": "광주광역시 서구 화정동 782-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청우슈퍼",
+      "address": "광주광역시 서구 화정동 782-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "방글방글상회",
+      "address": "광주광역시 서구 화정동 782-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청경슈퍼",
+      "address": "광주광역시 서구 화정동 778-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼익슈퍼",
+      "address": "광주광역시 서구 화정동 176-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "칠만슈퍼서점",
+      "address": "광주광역시 서구 화정동 178-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "샘터슈퍼",
+      "address": "광주광역시 서구 화정동 160-57",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일등문구사",
+      "address": "광주광역시 서구 화정동 73-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "학생백화점",
+      "address": "광주광역시 서구 화정동 74-1",
+      "roadAddress": "광주광역시 서구 내방로 340-2  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동신상회",
+      "address": "광주광역시 서구 화정동 70-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "봉황상회",
+      "address": "광주광역시 서구 화정동 70-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에덴슈퍼",
+      "address": "광주광역시 서구 화정동 127-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "광주광역시 서구 화정동 740-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "덕영슈퍼",
+      "address": "광주광역시 서구 화정동 591-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하이웨이편의점",
+      "address": "광주광역시 서구 화정동 94-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성산슈퍼",
+      "address": "광주광역시 서구 화정동 98-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스파화정1호점",
+      "address": "광주광역시 서구 화정동 178-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화정부동산",
+      "address": "광주광역시 서구 화정동 777-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서부반찬코너",
+      "address": "광주광역시 서구 화정동 779-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서교문구사",
+      "address": "광주광역시 서구 화정동 72-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼익문구사",
+      "address": "광주광역시 서구 화정동 176-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)세이브스토아",
+      "address": "광주광역시 서구 화정동 780",
+      "roadAddress": "광주광역시 서구 화운로156번길 29  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무등시장슈퍼",
+      "address": "광주광역시 서구 화정동 686-62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무등슈퍼",
+      "address": "광주광역시 서구 화정동 686-62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우정슈퍼",
+      "address": "광주광역시 서구 화정동 160-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "트리피아휴게소",
+      "address": "광주광역시 서구 화정동 12-56",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정호수입품",
+      "address": "광주광역시 서구 화정동 70-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대문구사",
+      "address": "광주광역시 서구 화정동 71-52",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "기원포장",
+      "address": "광주광역시 서구 화정동 23-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호슈퍼",
+      "address": "광주광역시 서구 화정동 28-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "따봉청과슈퍼",
+      "address": "광주광역시 서구 화정동 739-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린슈퍼",
+      "address": "광주광역시 서구 내방동 477-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화원슈퍼",
+      "address": "광주광역시 서구 화정동 768-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황금슈퍼",
+      "address": "광주광역시 서구 화정동 315-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유한회사 수마트",
+      "address": "광주광역시 서구 화정동 937",
+      "roadAddress": "광주광역시 서구 화정로244번길 33 (화정동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-05-16"
+    },
+    {
+      "name": "새샘화장품",
+      "address": "광주광역시 서구 화정동 770-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "광주광역시 서구 화정동 774-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙부식",
+      "address": "광주광역시 서구 화정동 771-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화정슈퍼",
+      "address": "광주광역시 서구 화정동 765-79",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙슈퍼",
+      "address": "광주광역시 서구 화정동 765-79",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주부슈퍼",
+      "address": "광주광역시 서구 화정동 765-81",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화정슈퍼",
+      "address": "광주광역시 서구 화정동 766-38",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "꼬까방",
+      "address": "광주광역시 서구 화정동 730-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청기와슈퍼",
+      "address": "광주광역시 서구 화정동 635 상가3호",
+      "roadAddress": "광주광역시 서구 화정로 233  (화정동,상가3호)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "어머니슈퍼",
+      "address": "광주광역시 서구 화정동 640 상가4호",
+      "roadAddress": "광주광역시 서구 화운로 79  (화정동,상가4호)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서광주소비자마트",
+      "address": "광주광역시 서구 화정동 631-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수진슈퍼",
+      "address": "광주광역시 서구 화정동 1316",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태광슈퍼",
+      "address": "광주광역시 서구 화정동 1308",
+      "roadAddress": "광주광역시 서구 화정로 236  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "광주광역시 서구 화정동 1308 상가3호",
+      "roadAddress": "광주광역시 서구 화정로 236  (화정동,상가3호)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동굴슈퍼",
+      "address": "광주광역시 서구 화정동 1308 상가1호",
+      "roadAddress": "광주광역시 서구 화정로 236  (화정동,상가1호)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한성슈퍼",
+      "address": "광주광역시 서구 화정동 1514",
+      "roadAddress": "광주광역시 서구 군분로147번길 14  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대원슈퍼",
+      "address": "광주광역시 서구 화정동 1567",
+      "roadAddress": "광주광역시 서구 군분로169번길 15-28  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "파스크제과점",
+      "address": "광주광역시 서구 화정동 937",
+      "roadAddress": "광주광역시 서구 화정로244번길 33  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화신슈퍼",
+      "address": "광주광역시 서구 화정동 1452",
+      "roadAddress": "광주광역시 서구 군분로129번길 16  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수정슈퍼",
+      "address": "광주광역시 서구 화정동 1490",
+      "roadAddress": "광주광역시 서구 금화로393번길 31  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쌍둥이슈퍼",
+      "address": "광주광역시 서구 화정동 1417",
+      "roadAddress": "광주광역시 서구 군분로119번길 12  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백수슈퍼",
+      "address": "광주광역시 서구 화정동 1229",
+      "roadAddress": "광주광역시 서구 화운로23번길 14-1  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "곡성슈퍼",
+      "address": "광주광역시 서구 화정동 1225",
+      "roadAddress": "광주광역시 서구 염화로160번길 15-1  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대영슈퍼",
+      "address": "광주광역시 서구 화정동 829-6",
+      "roadAddress": "광주광역시 서구 염화로 155  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "광주광역시 서구 화정동 758-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동은식육점",
+      "address": "광주광역시 서구 화정동 759-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지혜슈퍼",
+      "address": "광주광역시 서구 화정동 759-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동림아울렛(송원사)",
+      "address": "광주광역시 서구 동천동 619",
+      "roadAddress": "광주광역시 서구 하남대로680번길 1 (동천동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-10-12"
+    },
+    {
+      "name": "가동상가슈퍼",
+      "address": "광주광역시 서구 화정동 635 가동상가",
+      "roadAddress": "광주광역시 서구 화정로 233  (화정동,가동상가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신동아슈퍼청과",
+      "address": "광주광역시 서구 화정동 1054",
+      "roadAddress": "광주광역시 서구 월드컵4강로28번길 59  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "88수퍼",
+      "address": "광주광역시 서구 화정동 화정아파트상가 2호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주부구판장",
+      "address": "광주광역시 서구 화정동 766-62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영암쌀집",
+      "address": "광주광역시 서구 화정동 1193",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신동아마트",
+      "address": "광주광역시 서구 화정동 1062",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성신라대리점",
+      "address": "광주광역시 서구 화정동 631-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태양슈퍼",
+      "address": "광주광역시 서구 화정동 1327",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청과상회",
+      "address": "광주광역시 서구 화정동 640",
+      "roadAddress": "광주광역시 서구 화운로 79  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에스카트호남분점",
+      "address": "광주광역시 서구 화정동 1059",
+      "roadAddress": "광주광역시 서구 월드컵4강로28번길 45-2  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남원슈퍼",
+      "address": "광주광역시 서구 화정동 644",
+      "roadAddress": "광주광역시 서구 화정로 217  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명슈퍼",
+      "address": "광주광역시 서구 화정동 1021",
+      "roadAddress": "광주광역시 서구 월드컵4강로28번길 50-17  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화니스파주월2호",
+      "address": "광주광역시 서구 화정동 368-104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "광주광역시 서구 화정동 726-23",
+      "roadAddress": "광주광역시 서구 군분로179번길 13-3  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호유통",
+      "address": "광주광역시 서구 화정동 1072",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호고기나라",
+      "address": "광주광역시 서구 화정동 1266",
+      "roadAddress": "광주광역시 서구 화운로23번길 4-1  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남광주농협영주슈퍼",
+      "address": "광주광역시 서구 화정동 1101",
+      "roadAddress": "광주광역시 서구 월드컵4강로28번길 62  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빛고을슈퍼",
+      "address": "광주광역시 서구 화정동 734-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "축산물판매장",
+      "address": "광주광역시 서구 화정동 746-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "포장마차",
+      "address": "광주광역시 서구 화정동 318-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명세탁소",
+      "address": "광주광역시 서구 화정동 368-114",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장성슈퍼",
+      "address": "광주광역시 서구 화정동 367-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백제@관리실",
+      "address": "광주광역시 서구 화정동 334",
+      "roadAddress": "광주광역시 서구 월드컵4강로116번길 11-1  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수입쇠고기",
+      "address": "광주광역시 서구 화정동 334-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광주청과",
+      "address": "광주광역시 서구 화정동 809-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만복슈퍼",
+      "address": "광주광역시 서구 화정동 808-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "매일방앗간",
+      "address": "광주광역시 서구 화정동 813-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소비자슈퍼",
+      "address": "광주광역시 서구 화정동 816-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대양수입코너",
+      "address": "광주광역시 서구 화정동 827-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소비자연쇄점",
+      "address": "광주광역시 서구 화정동 826-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모다식품",
+      "address": "광주광역시 서구 화정동 825-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "광주광역시 서구 화정동 839-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영광슈퍼",
+      "address": "광주광역시 서구 화정동 837-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남도슈퍼",
+      "address": "광주광역시 서구 화정동 849-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소비자조합",
+      "address": "광주광역시 서구 화정동 844-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "축산물판매장",
+      "address": "광주광역시 서구 광천동 831-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "도청슈퍼",
+      "address": "광주광역시 서구 화정동 830",
+      "roadAddress": "광주광역시 서구 염화로 152  (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화정슈퍼",
+      "address": "광주광역시 서구 화정동 808-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우미슈퍼",
+      "address": "광주광역시 서구 화정동 859-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종합유통센타",
+      "address": "광주광역시 서구 화정동 859-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대스파",
+      "address": "광주광역시 서구 화정동 859-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "염주쇼핑",
+      "address": "광주광역시 서구 화정동 824-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호하이퍼마켓",
+      "address": "광주광역시 서구 화정동 366-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성모슈퍼",
+      "address": "광주광역시 서구 화정동 849-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름청과",
+      "address": "광주광역시 서구 화정동 366-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모아철물",
+      "address": "광주광역시 서구 화정동 860-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대림철물",
+      "address": "광주광역시 서구 화정동 808-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "싱싱 NEW",
+      "address": "광주광역시 서구 화정동 840-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성맨션슈퍼",
+      "address": "광주광역시 서구 화정동 858-1 상가103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키태양슈퍼",
+      "address": "광주광역시 서구 화정동 858-2    상가103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광록비디오",
+      "address": "광주광역시 서구 화정동 858-4    상가2-506",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보람책방",
+      "address": "광주광역시 서구 화정동 858-3    태영상가10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "롯데마트광주점",
+      "address": "광주광역시 서구 풍암동 423-2 월드컵경기장",
+      "roadAddress": "광주광역시 서구 금화로 240, 월드컵경기장 (풍암동)",
+      "status": "영업/정상",
+      "licenseDate": "2006-05-01"
+    },
+    {
+      "name": "염주슈퍼",
+      "address": "광주광역시 서구 화정동 857 주공상가103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "광주광역시 서구 화정동 857 복합상가108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화정프라자슈퍼",
+      "address": "광주광역시 서구 화정동 930-1    상가B-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동산꽃화원",
+      "address": "광주광역시 서구 화정동 930-1    상가128호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국슈퍼염주점",
+      "address": "광주광역시 서구 화정동 928-2    자하9호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모아청과",
+      "address": "광주광역시 서구 화정동 927-2    상가104-102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중흥슈퍼",
+      "address": "광주광역시 서구 화정동 927-1    상가18호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "되살이농산물",
+      "address": "광주광역시 서구 화정동 922-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "축산물판매장",
+      "address": "광주광역시 서구 화정동 915-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월풀빨래장",
+      "address": "광주광역시 서구 화정동 917-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리슈퍼마켓",
+      "address": "광주광역시 서구 화정동 801-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신천세탁소",
+      "address": "광주광역시 서구 화정동 807-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팬시모아문구",
+      "address": "광주광역시 서구 화정동 807-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모아복지매점",
+      "address": "광주광역시 서구 화정동 896-1    1호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호반하이퍼마켓",
+      "address": "광주광역시 서구 화정동 903-2    상가101-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제슈퍼",
+      "address": "광주광역시 서구 화정동 896-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "염주스파화니가맹점",
+      "address": "광주광역시 서구 화정동 915-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스파화니태영가맹점",
+      "address": "광주광역시 서구 화정동 태영아파트상가지하1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "희망슈퍼",
+      "address": "광주광역시 서구 화정동 926-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호슈퍼",
+      "address": "광주광역시 서구 화정동 928-2    상가4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "염주민속집",
+      "address": "광주광역시 서구 화정동 911-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백일만물슈퍼",
+      "address": "광주광역시 서구 화정동 산 161-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영복슈퍼",
+      "address": "광주광역시 서구 화정동 926-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "푸른마트",
+      "address": "광주광역시 서구 화정동 858-4    상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "고흥슈퍼",
+      "address": "광주광역시 서구 화정동 805-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신우신협화정출장",
+      "address": "광주광역시 서구 화정동 919-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바이더웨이24시편의점",
+      "address": "광주광역시 서구 화정동 807-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새미슈퍼",
+      "address": "광주광역시 서구 화정동 806-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무등슈퍼",
+      "address": "광주광역시 서구 화정동 923-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "라인문구",
+      "address": "광주광역시 서구 화정동 930-1    상가106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수정슈퍼문구",
+      "address": "광주광역시 서구 화정동 906-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "염주종합유통",
+      "address": "광주광역시 서구 화정동 919-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우미하이마트",
+      "address": "광주광역시 서구 화정동 440",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서광주우체국",
+      "address": "광주광역시 서구 화정동 896-2",
+      "roadAddress": "광주광역시 서구 월드컵4강로 109 (화정동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씨티라이프",
+      "address": "광주광역시 서구 화정동 807-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "크로바문구",
+      "address": "광주광역시 서구 화정동 443",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영우상회",
+      "address": "광주광역시 서구 벽진동 515-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만회화장품",
+      "address": "광주광역시 서구 금호동 280",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상무화장품",
+      "address": "광주광역시 서구 마륵동 157-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정성슈퍼",
+      "address": "광주광역시 서구 마륵동 172-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경임상회",
+      "address": "광주광역시 서구 마륵동 496-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을구판장",
+      "address": "광주광역시 서구 매월동 440",
+      "roadAddress": "광주광역시 서구 개산길 23-7  (매월동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무등슈퍼",
+      "address": "광주광역시 서구 벽진동 131",
+      "roadAddress": "광주광역시 서구 벽진길 67-11  (벽진동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰구판장",
+      "address": "광주광역시 서구 금호동 734-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용두상회",
+      "address": "광주광역시 서구 용두동 474",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장",
+      "address": "광주광역시 서구 벽진동 345-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장",
+      "address": "광주광역시 서구 벽진동 406-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을상회",
+      "address": "광주광역시 서구 세하동 53",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호하이퍼마켓",
+      "address": "광주광역시 서구 금호동 741-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서창만물상회",
+      "address": "광주광역시 서구 서창동 436-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "형제부식",
+      "address": "광주광역시 서구 금호동 741-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을회관",
+      "address": "광주광역시 서구 벽진동 315",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가정집",
+      "address": "광주광역시 서구 서창동 47",
+      "roadAddress": "광주광역시 서구 사동길 82-8  (서창동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장",
+      "address": "광주광역시 서구 매월동 225",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "백마상회",
+      "address": "광주광역시 서구 세하동 562-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장",
+      "address": "광주광역시 서구 매월동 153",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을상회",
+      "address": "광주광역시 서구 마륵동 280-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "순일상회",
+      "address": "광주광역시 서구 마륵동 165-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화니스파",
+      "address": "광주광역시 서구 금호동 738-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명슈퍼",
+      "address": "광주광역시 서구 마륵동 42-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지현슈퍼",
+      "address": "광주광역시 서구 서창동 433-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시영하이퍼",
+      "address": "광주광역시 서구 서창동 742-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우미호반하이",
+      "address": "광주광역시 서구 서창동 738-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화진종합유통",
+      "address": "광주광역시 서구 서창동 740-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대주그린마트",
+      "address": "광주광역시 서구 금호동 742-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월암슈퍼",
+      "address": "광주광역시 서구 벽진동 486-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미지트",
+      "address": "광주광역시 서구 매월동 461",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화인하이퍼마켓",
+      "address": "광주광역시 서구 금호동 739-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신암슈퍼",
+      "address": "광주광역시 서구 풍암동 215",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "인화슈퍼",
+      "address": "광주광역시 서구 마륵동 47-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "광주광역시 서구 마륵동 170-50",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용호슈퍼",
+      "address": "광주광역시 서구 벽진동 515-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남문슈퍼",
+      "address": "광주광역시 서구 마륵동 167-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호동우체국",
+      "address": "광주광역시 서구 금호동 761-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세하동우체국",
+      "address": "광주광역시 서구 세하동 562-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금부슈퍼",
+      "address": "광주광역시 서구 금호동 770 도개공1단지101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25 동림 호반",
+      "address": "광주광역시 서구 동천동 618-0",
+      "roadAddress": "광주광역시 서구 하남대로680번길 3  (동천동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-11"
+    },
+    {
+      "name": "마트넷",
+      "address": "광주광역시 서구 동천동 515-0 동천마을 3단지 휴먼시아A 복합상가 가-104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-21"
+    },
+    {
+      "name": "훼미리마트 동림 우미점",
+      "address": "광주광역시 서구 동천동 624-0",
+      "roadAddress": "광주광역시 서구 하남대로 692  (동천동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-06"
+    },
+    {
+      "name": "그린탑오피스",
+      "address": "광주광역시 서구 쌍촌동 1321",
+      "roadAddress": "광주광역시 서구 내방로161번길 1 (쌍촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-08-26"
+    },
+    {
+      "name": "주식회사 서니물류",
+      "address": "광주광역시 서구 매월동 952-49 (주)이루도매물류센타",
+      "roadAddress": "광주광역시 서구 매월1로49번길 10 (주)이루도매물류센타 (매월동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-10-01"
+    },
+    {
+      "name": "훼미리마트 동림우미점",
+      "address": "광주광역시 서구 동천동 624-0",
+      "roadAddress": "광주광역시 서구 하남대로 692  (동천동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마트로동림점",
+      "address": "광주광역시 서구 동천동 518-0 빛고을빌딩 1층",
+      "roadAddress": "광주광역시 서구 동천로 16  (동천동,빛고을빌딩 1층)",
+      "status": "영업/정상",
+      "licenseDate": "2006-11-29"
+    },
+    {
+      "name": "푸르젠 동림점",
+      "address": "광주광역시 서구 동천동 529-0",
+      "roadAddress": "광주광역시 서구 동천로18번길 18  (동천동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-06-12"
+    },
+    {
+      "name": "세븐일레븐 동림우림점",
+      "address": "광주광역시 서구 동천동 586-0",
+      "roadAddress": "광주광역시 서구 하남대로 654  (동천동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-08-04"
+    },
+    {
+      "name": "하림유통",
+      "address": "광주광역시 서구 동천동 648-0 우미린상가 1동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-08-04"
+    },
+    {
+      "name": "매니스톱동천주공점",
+      "address": "광주광역시 서구 동천동 704-0",
+      "roadAddress": "광주광역시 서구 동림2지구길 43-6  (동천동)",
+      "status": "영업/정상",
+      "licenseDate": "2010-12-02"
+    },
+    {
+      "name": "동양마트",
+      "address": "광주광역시 서구 동천동 658-0 동천주공상가 102,103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-12"
+    },
+    {
+      "name": "월드마트",
+      "address": "광주광역시 서구 동천동 648-0 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-11"
+    },
+    {
+      "name": "영암마트 동천점",
+      "address": "광주광역시 서구 동천동 515-0 휴먼시아3단지 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-13"
+    },
+    {
+      "name": "종로마트(동림점)",
+      "address": "광주광역시 서구 동천동 502-0 동천마을1단지상가 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-20"
+    },
+    {
+      "name": "세븐일레븐 광주동천호반점",
+      "address": "광주광역시 서구 동천동 600-0",
+      "roadAddress": "광주광역시 서구 유림로98번길 3  (동천동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-09"
+    },
+    {
+      "name": "지엠마트 북부점",
+      "address": "광주광역시 서구 동천동 598-0",
+      "roadAddress": "광주광역시 서구 하남대로680번길 2  (동천동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-16"
+    },
+    {
+      "name": "(주)넥스트오피스디포",
+      "address": "광주광역시 서구 양동 391-11",
+      "roadAddress": "광주광역시 서구 상무대로 1228 (양동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-03-07"
+    },
+    {
+      "name": "명가그릇주방",
+      "address": "광주광역시 서구 양동 441 양동복개상가",
+      "roadAddress": "광주광역시 서구 천변좌로 243, 양동복개상가 (양동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-09-03"
+    },
+    {
+      "name": "양지교육과학",
+      "address": "광주광역시 서구 양동 269-12 양지빌딩",
+      "roadAddress": "광주광역시 서구 경열로 116, 양지빌딩 (양동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-09-11"
+    },
+    {
+      "name": "드림디포풍암점",
+      "address": "광주광역시 서구 풍암동 1119-1 대은빌딩",
+      "roadAddress": "광주광역시 서구 풍암2로 10, 대은빌딩 (풍암동)",
+      "status": "영업/정상",
+      "licenseDate": "2016-11-08"
+    },
+    {
+      "name": "(주)틴스타이한테크",
+      "address": "광주광역시 서구 쌍촌동 1271-2",
+      "roadAddress": "광주광역시 서구 상무민주로 88-1, 3층 3-1호 (쌍촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-08-02"
+    },
+    {
+      "name": "이루푸드",
+      "address": "광주광역시 서구 매월동 952-53",
+      "roadAddress": "광주광역시 서구 매월4로 16 (매월동)",
+      "status": "영업/정상",
+      "licenseDate": "2019-12-18"
+    },
+    {
+      "name": "비타민마트",
+      "address": "광주광역시 서구 농성동 631-34",
+      "roadAddress": "광주광역시 서구 경열로 40, 1층 (농성동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-02-20"
+    },
+    {
+      "name": "알파(쌍촌)",
+      "address": "광주광역시 서구 쌍촌동 986-10",
+      "roadAddress": "광주광역시 서구 상무대로 918-1, 1층 (쌍촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-05-29"
+    },
+    {
+      "name": "서광주농협상무점",
+      "address": "광주광역시 서구 쌍촌동 948-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쌍촌축협연쇄점",
+      "address": "광주광역시 서구 쌍촌동 949-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태광슈퍼",
+      "address": "광주광역시 서구 쌍촌동 947-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화니스파광명점",
+      "address": "광주광역시 서구 쌍촌동 96번지 상가5호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신천하이퍼마켓",
+      "address": "광주광역시 서구 쌍촌동 137-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대마트 쌍촌점",
+      "address": "광주광역시 서구 쌍촌동 265",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상무슈퍼",
+      "address": "광주광역시 서구 치평동 266-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리동네문구",
+      "address": "광주광역시 서구 치평동 우미아파트상가1-4호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모아재일화니마트",
+      "address": "광주광역시 서구 쌍촌동 모아제일아파트상가109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청해식품",
+      "address": "광주광역시 서구 치평동 1159우미아파트상가1-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무지개세탁소",
+      "address": "광주광역시 서구 치평동 1168중흥파크2단지",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우미마트",
+      "address": "광주광역시 서구 치평동 1159우미아파트 상가 지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린종합화장품",
+      "address": "광주광역시 서구 치평동 1166-5상무한국아파트 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남산층",
+      "address": "광주광역시 서구 치평동 1168-1 상무쇼핑프라자",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대식육점",
+      "address": "광주광역시 서구 치평동 1166-1 호반아파트 1-102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "선물나라",
+      "address": "광주광역시 서구 치평동 1174-3 라인동산상가 107",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대종합유통",
+      "address": "광주광역시 서구 쌍촌동 155 현대아파트상가 104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호종합마트",
+      "address": "광주광역시 서구 치평동 1171-5 금호3단지상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해광한신슈퍼",
+      "address": "광주광역시 서구 치평동 1168 한신아파트 상가 103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호반청과슈퍼",
+      "address": "광주광역시 서구 치평동 1166-7호반상가105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대주라인마트",
+      "address": "광주광역시 서구 치평동 1159 대주라인상가108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중흥무등식육점",
+      "address": "광주광역시 서구 치평동 1168-9 중흥아파트 상가 102",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상무쇼핑프라자",
+      "address": "광주광역시 서구 치평동 1168-1상무쇼핑프라자3층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서광문구",
+      "address": "광주광역시 서구 쌍촌동 960-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대그린마트",
+      "address": "광주광역시 서구 쌍촌동 261",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "태평선식",
+      "address": "광주광역시 서구 치평동 1168-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대형마트",
+      "address": "광주광역시 서구 치평동 1161-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아하마트",
+      "address": "광주광역시 서구 치평동 1176-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "학사마트",
+      "address": "광주광역시 서구 쌍촌동 965-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상무1동우체국",
+      "address": "광주광역시 서구 치평동 275-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모아청과슈퍼",
+      "address": "광주광역시 서구 쌍촌동 1282",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대종합마트",
+      "address": "광주광역시 서구 치평동 1166현대아파트지하상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신학구판장",
+      "address": "광주광역시 서구 쌍촌동 1000-43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동화소비자유통",
+      "address": "광주광역시 서구 쌍촌동 993-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영광슈퍼",
+      "address": "광주광역시 서구 쌍촌동 997-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공식품",
+      "address": "광주광역시 서구 쌍촌동 주공3호상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대주상회",
+      "address": "광주광역시 서구 쌍촌동 1233-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중광소비자구판장",
+      "address": "광주광역시 서구 쌍촌동 1232-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "후문슈퍼",
+      "address": "광주광역시 서구 쌍촌동 1247-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "효광슈퍼",
+      "address": "광주광역시 서구 쌍촌동 1221-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운천슈퍼",
+      "address": "광주광역시 서구 쌍촌동 1221-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영주슈퍼",
+      "address": "광주광역시 서구 쌍촌동 1210-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은성소비자구판장",
+      "address": "광주광역시 서구 쌍촌동 1202-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을슈퍼",
+      "address": "광주광역시 서구 쌍촌동 991-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무등슈퍼",
+      "address": "광주광역시 서구 쌍촌동 984-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "광주광역시 서구 쌍촌동 984-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "재성슈퍼",
+      "address": "광주광역시 서구 쌍촌동 983-35",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙세탁소",
+      "address": "광주광역시 서구 쌍촌동 983-29",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을종합슈퍼",
+      "address": "광주광역시 서구 쌍촌동 548-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광성마트",
+      "address": "광주광역시 서구 쌍촌동 1197-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한양슈퍼",
+      "address": "광주광역시 서구 쌍촌동 975-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수정상회",
+      "address": "광주광역시 서구 쌍촌동 894-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개미슈퍼",
+      "address": "광주광역시 서구 쌍촌동 1245-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부일슈퍼",
+      "address": "광주광역시 서구 치평동 258-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호슈퍼",
+      "address": "광주광역시 서구 쌍촌동 278-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "거성슈퍼",
+      "address": "광주광역시 서구 쌍촌동 1229 주공상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원슈퍼",
+      "address": "광주광역시 서구 쌍촌동 1229주공상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼체인",
+      "address": "광주광역시 서구 쌍촌동 1226-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이화종합상사",
+      "address": "광주광역시 서구 쌍촌동 985-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상무소비자조합",
+      "address": "광주광역시 서구 쌍촌동 1200-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰구판장",
+      "address": "광주광역시 서구 쌍촌동 1193-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코스코마트",
+      "address": "광주광역시 서구 쌍촌동 1220-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "s마트호대점",
+      "address": "광주광역시 서구 쌍촌동 985-1",
+      "roadAddress": "광주광역시 서구 상무대로 914  (쌍촌동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "파월복지매점",
+      "address": "광주광역시 서구 쌍촌동 1227-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "풍년슈퍼",
+      "address": "광주광역시 서구 쌍촌동 1244-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제민이네슈퍼",
+      "address": "광주광역시 서구 쌍촌동 1235-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "푸른슈퍼",
+      "address": "광주광역시 서구 쌍촌동 1239-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "엘에스리테일 주식회사",
+      "address": "광주광역시 서구 내방동 577",
+      "roadAddress": "광주광역시 서구 내방로306번길 11, 1층 (내방동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-11-23"
+    },
+    {
+      "name": "치평슈퍼",
+      "address": "광주광역시 서구 쌍촌동 1235-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용산슈퍼마트",
+      "address": "광주광역시 서구 쌍촌동 543-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세계로마트(청아유통)",
+      "address": "광주광역시 서구 쌍촌동 명지아파트상가108",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "블루하우스상무24시편의점",
+      "address": "광주광역시 서구 쌍촌동 1221-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화니마트",
+      "address": "광주광역시 서구 쌍촌동 986-87",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "춘명마트",
+      "address": "광주광역시 서구 쌍촌동 1214-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일신슈퍼",
+      "address": "광주광역시 서구 쌍촌동 452-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원식육슈퍼",
+      "address": "광주광역시 서구 쌍촌동 1229주공상가109호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은혜슈퍼",
+      "address": "광주광역시 서구 화정동 836-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청산슈퍼",
+      "address": "광주광역시 서구 화정동 835-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해뜨는 소비자쇼핑",
+      "address": "광주광역시 서구 화정동 842-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "꼬마사랑",
+      "address": "광주광역시 서구 화정동 403-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "내방식육점",
+      "address": "광주광역시 서구 내방동 492",
+      "roadAddress": "광주광역시 서구 내방로292번길 9-8  (내방동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥슈퍼",
+      "address": "광주광역시 서구 화정동 102-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신세계문구",
+      "address": "광주광역시 서구 화정동 739-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새소비자쇼핑",
+      "address": "광주광역시 서구 내방동 839-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "광주광역시 서구 내방동 839-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "잿등상회",
+      "address": "광주광역시 서구 내방동 840-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무궁화슈퍼",
+      "address": "광주광역시 서구 내방동 840-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "승지슈퍼",
+      "address": "광주광역시 서구 화정동 740-59",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "복지관슈퍼",
+      "address": "광주광역시 서구 화정동 741-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화정축산물판매장",
+      "address": "광주광역시 서구 화정동 741-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "광주광역시 서구 화정동 743-24",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화정슈퍼",
+      "address": "광주광역시 서구 화정동 744-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "축산물슈퍼판매장",
+      "address": "광주광역시 서구 화정동 784-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화정상회",
+      "address": "광주광역시 서구 화정동 784-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알뜰소비자슈퍼",
+      "address": "광주광역시 서구 화정동 785-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평화슈퍼",
+      "address": "광주광역시 서구 화정동 786-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서부상회",
+      "address": "광주광역시 서구 화정동 783-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세이브마트",
+      "address": "전라남도 광양시 중동 1309-3",
+      "roadAddress": "광주광역시 서구 월드컵4강로 9, 4동  108호(화정동,우성아파트)",
+      "status": "영업/정상",
+      "licenseDate": "1999-01-15"
+    },
+    {
+      "name": "신선마트 조성점",
+      "address": "광주광역시 서구 화정동 1712 더샵 염주센트럴파크",
+      "roadAddress": "광주광역시 서구 월드컵4강로 27 (화정동, 더샵 염주센트럴파크)",
+      "status": "영업/정상",
+      "licenseDate": "2025-06-04"
+    }
+  ]
+}

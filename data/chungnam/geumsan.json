@@ -4,7 +4,7 @@
   "district": "금산군",
   "districtSlug": "geumsan",
   "updatedAt": "2026-03-26",
-  "totalCount": 529,
+  "totalCount": 516,
   "stores": [
     {
       "name": "씨유 금산용수목점",
@@ -616,13 +616,6 @@
       "licenseDate": ""
     },
     {
-      "name": "명곡상회",
-      "address": "충청남도 금산군 제원면 명곡리 346",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "훈이상회",
       "address": "충청남도 금산군 제원면 명곡리 497-1",
       "roadAddress": "충청남도 금산군 제원면 바리실2길 11",
@@ -1064,13 +1057,6 @@
       "licenseDate": ""
     },
     {
-      "name": "우리상회",
-      "address": "충청남도 금산군 금산읍 상리 37",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "이장댁",
       "address": "충청남도 금산군 부리면 선원리 456-6 4통",
       "roadAddress": "충청남도 금산군 부리면 선원길 19-1",
@@ -1109,13 +1095,6 @@
       "name": "새마을지도자",
       "address": "충청남도 금산군 부리면 어재리 260-1",
       "roadAddress": "충청남도 금산군 부리면 압수1길 10-2",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "양곡상회",
-      "address": "충청남도 금산군 부리면 양곡리 132-10",
-      "roadAddress": "충청남도 금산군 부리면 현내로 84",
       "status": "영업/정상",
       "licenseDate": ""
     },
@@ -2331,13 +2310,6 @@
       "licenseDate": ""
     },
     {
-      "name": "부암상회",
-      "address": "충청남도 금산군 진산면 부암리 70-8",
-      "roadAddress": "충청남도 금산군 진산면 뜬바우길 10",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "대흥상회",
       "address": "충청남도 금산군 금산읍 아인리 37-7 24통7반",
       "roadAddress": "충청남도 금산군 금산읍 인삼로 30",
@@ -2467,13 +2439,6 @@
       "name": "이장댁",
       "address": "충청남도 금산군 추부면 요광리 658",
       "roadAddress": "충청남도 금산군 추부면 장산길 48",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "희망상회",
-      "address": "충청남도 금산군 추부면 마전리 64",
-      "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
     },
@@ -2635,13 +2600,6 @@
       "name": "남용슈퍼",
       "address": "충청남도 금산군 금산읍 상리 200-4",
       "roadAddress": "충청남도 금산군 금산읍 오리정로 38",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "신진상회",
-      "address": "충청남도 금산군 금산읍 상리 36-33",
-      "roadAddress": "충청남도 금산군 금산읍 비범로 33",
       "status": "영업/정상",
       "licenseDate": ""
     },
@@ -3046,13 +3004,6 @@
     },
     {
       "name": "이장댁",
-      "address": "충청남도 금산군 부리면 어재리 534",
-      "roadAddress": "충청남도 금산군 부리면 어재1길 13",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
       "address": "충청남도 금산군 부리면 현내리 572",
       "roadAddress": "충청남도 금산군 부리면 현내로 66-3",
       "status": "영업/정상",
@@ -3178,20 +3129,6 @@
       "licenseDate": ""
     },
     {
-      "name": "부암상회",
-      "address": "충청남도 금산군 진산면 부암리 70-8",
-      "roadAddress": "충청남도 금산군 진산면 뜬바우길 10",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "금성상회",
-      "address": "충청남도 금산군 제원면 제원리 134-1",
-      "roadAddress": "충청남도 금산군 제원면 금강로 112",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "경북상회",
       "address": "충청남도 금산군 금산읍 중도리 92",
       "roadAddress": "",
@@ -3216,13 +3153,6 @@
       "name": "시장슈퍼",
       "address": "충청남도 금산군 금산읍 하옥리 334",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "남산상회",
-      "address": "충청남도 금산군 금산읍 하옥리 334-4",
-      "roadAddress": "충청남도 금산군 금산읍 비단로 103",
       "status": "영업/정상",
       "licenseDate": ""
     },
@@ -3535,13 +3465,6 @@
       "licenseDate": ""
     },
     {
-      "name": "한성슈퍼",
-      "address": "충청남도 금산군 금산읍 상리 8-23",
-      "roadAddress": "충청남도 금산군 금산읍 군청6길 9",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "한진슈퍼",
       "address": "충청남도 금산군 금산읍 상리 297",
       "roadAddress": "",
@@ -3647,25 +3570,11 @@
       "licenseDate": "2015-04-17"
     },
     {
-      "name": "금산농협",
-      "address": "충청남도 금산군 금산읍 중도리 497-2",
-      "roadAddress": "충청남도 금산군 금산읍 비선길 37",
-      "status": "영업/정상",
-      "licenseDate": "2015-05-14"
-    },
-    {
       "name": "유진슈퍼",
       "address": "충청남도 금산군 진산면 읍내리 561-18",
       "roadAddress": "충청남도 금산군 진산면 읍내로 50",
       "status": "영업/정상",
       "licenseDate": "2015-06-18"
-    },
-    {
-      "name": "숲속마트",
-      "address": "충청남도 금산군 진산면 묵산리 산 87-13",
-      "roadAddress": "충청남도 금산군 진산면 대둔산로 6",
-      "status": "영업/정상",
-      "licenseDate": "2015-08-11"
     },
     {
       "name": "국제철물",

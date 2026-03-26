@@ -4,7 +4,7 @@
   "district": "창원시",
   "districtSlug": "changwon",
   "updatedAt": "2026-03-26",
-  "totalCount": 433,
+  "totalCount": 430,
   "stores": [
     {
       "name": "장유해태슈퍼",
@@ -1778,13 +1778,6 @@
       "licenseDate": "2001-03-31"
     },
     {
-      "name": "성원슈퍼",
-      "address": "경상남도 창원시 의창구 신월동 21-9",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-09-17"
-    },
-    {
       "name": "진북면사무소",
       "address": "경상남도 창원시 마산합포구 진북면 지산리 244-2",
       "roadAddress": "",
@@ -2072,13 +2065,6 @@
       "licenseDate": "2008-03-18"
     },
     {
-      "name": "현동수퍼",
-      "address": "경상남도 창원시 마산합포구 현동 190",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-03-31"
-    },
-    {
       "name": "현동사무소",
       "address": "경상남도 창원시 마산합포구 현동 383-3",
       "roadAddress": "",
@@ -2088,13 +2074,6 @@
     {
       "name": "건화수퍼렛",
       "address": "경상남도 창원시 마산합포구 가포동 508-22",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-03-31"
-    },
-    {
-      "name": "안동상회",
-      "address": "경상남도 창원시 마산합포구 가포동 139",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2001-03-31"

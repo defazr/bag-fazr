@@ -4,7 +4,7 @@
   "district": "동두천시",
   "districtSlug": "dongducheon",
   "updatedAt": "2026-03-26",
-  "totalCount": 362,
+  "totalCount": 352,
   "stores": [
     {
       "name": "현대아이파크할인마트",
@@ -310,13 +310,6 @@
     {
       "name": "현진할인마트",
       "address": "경기도 동두천시 지행동",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "리플레이",
-      "address": "경기도 동두천시 지행동 275-15",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -1295,13 +1288,6 @@
       "licenseDate": "1994-12-19"
     },
     {
-      "name": "선영슈퍼",
-      "address": "경기도 동두천시 생연동 558 10 통4  반",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-19"
-    },
-    {
       "name": "삼거리슈퍼",
       "address": "경기도 동두천시 지행동 339",
       "roadAddress": "",
@@ -1687,20 +1673,6 @@
       "licenseDate": "1996-11-15"
     },
     {
-      "name": "부광슈퍼",
-      "address": "경기도 동두천시 생연동 819-9    12 통2  반",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1996-02-09"
-    },
-    {
-      "name": "명성지물포",
-      "address": "경기도 동두천시 생연동 821-562",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1996-02-09"
-    },
-    {
       "name": "대형슈퍼",
       "address": "경기도 동두천시 생연동 823-66",
       "roadAddress": "",
@@ -2044,13 +2016,6 @@
       "licenseDate": ""
     },
     {
-      "name": "동두천농업협동조합",
-      "address": "경기도 동두천시 생연동 698-11",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "다농산업(주)동두천지점",
       "address": "경기도 동두천시 생연동 392",
       "roadAddress": "",
@@ -2387,22 +2352,8 @@
       "licenseDate": ""
     },
     {
-      "name": "광명슈퍼",
-      "address": "경기도 동두천시 생연동 678-35",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "엘지25동두천파크점",
       "address": "경기도 동두천시 지행동 718",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "신흥슈퍼",
-      "address": "경기도 동두천시 상봉암동 238-8",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -2438,13 +2389,6 @@
     {
       "name": "현대24시",
       "address": "경기도 동두천시 광암동 494 3 통4반",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "신흥슈퍼",
-      "address": "경기도 동두천시 상봉암동 238-8",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -2492,13 +2436,6 @@
       "licenseDate": ""
     },
     {
-      "name": "송내상회",
-      "address": "경기도 동두천시 송내동 492-11",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "lg25동두천효원점",
       "address": "경기도 동두천시 지행동 721 효원월드호텔103",
       "roadAddress": "",
@@ -2508,13 +2445,6 @@
     {
       "name": "에스할인마트",
       "address": "경기도 동두천시 보산동 402-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "에스마트",
-      "address": "경기도 동두천시 생연동 453",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""

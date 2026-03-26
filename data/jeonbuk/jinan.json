@@ -4,7 +4,7 @@
   "district": "진안군",
   "districtSlug": "jinan",
   "updatedAt": "2026-03-26",
-  "totalCount": 130,
+  "totalCount": 127,
   "stores": [
     {
       "name": "롯데쇼핑(주)롯데슈퍼 진안점",
@@ -89,13 +89,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2003-03-26"
-    },
-    {
-      "name": "새안천휴게소",
-      "address": "전북특별자치도 진안군 안천면 노성리 756-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
     },
     {
       "name": "외궁슈퍼",
@@ -187,13 +180,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2007-01-22"
-    },
-    {
-      "name": "진안농협 안천지점 하나로마트",
-      "address": "전북특별자치도 진안군 안천면 노성리 698-3",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2007-03-21"
     },
     {
       "name": "영진마트",
@@ -439,13 +425,6 @@
       "roadAddress": "전북특별자치도 진안군 진안읍 마이산로 154",
       "status": "영업/정상",
       "licenseDate": "2016-02-26"
-    },
-    {
-      "name": "주천현대마트",
-      "address": "전북특별자치도 진안군 주천면 주양리 518",
-      "roadAddress": "전북특별자치도 진안군 주천면 동상주천로 2221-1 (현대마트)",
-      "status": "영업/정상",
-      "licenseDate": "2016-04-19"
     },
     {
       "name": "하나매점",

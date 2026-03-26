@@ -1,0 +1,738 @@
+{
+  "region": "울산광역시",
+  "regionSlug": "ulsan",
+  "district": "북구",
+  "districtSlug": "usbukgu",
+  "updatedAt": "2026-03-26",
+  "totalCount": 104,
+  "stores": [
+    {
+      "name": "대원환경(주)",
+      "address": "울산광역시 북구 효문동 816-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-09-09"
+    },
+    {
+      "name": "성우현대슈퍼마켓",
+      "address": "울산광역시 북구 신천동 346-5 성우현대아파트 상가동 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-12"
+    },
+    {
+      "name": "용강건어물",
+      "address": "울산광역시 북구 신천동 318-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-24"
+    },
+    {
+      "name": "필그린마트",
+      "address": "울산광역시 북구 신천동 334-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세이브할인마트",
+      "address": "울산광역시 북구 호계동 732-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-11"
+    },
+    {
+      "name": "정은미니슈퍼",
+      "address": "울산광역시 북구 호계동 375",
+      "roadAddress": "울산광역시 북구 호계9길 52-2  (호계동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신동슈퍼마켓",
+      "address": "울산광역시 북구 신천동 430-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-21"
+    },
+    {
+      "name": "제일마트",
+      "address": "울산광역시 북구 중산동 1166-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정공마트",
+      "address": "울산광역시 북구 매곡동 422-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-18"
+    },
+    {
+      "name": "통화스토아",
+      "address": "울산광역시 북구 상안동 26-2 쌍용아진아파트 2차 지하상가동 지하슈퍼호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성혜슈퍼",
+      "address": "울산광역시 북구 시례동 96",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대동스토아",
+      "address": "울산광역시 북구 천곡동 940-6    대동상가  A동 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "공단슈퍼",
+      "address": "울산광역시 북구 달천동 209",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금룡상회",
+      "address": "울산광역시 북구 신명동 152-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연암슈퍼",
+      "address": "울산광역시 북구 연암동 841-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성유통",
+      "address": "울산광역시 북구 연암동 411-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한우리스토아",
+      "address": "울산광역시 북구 화봉동 667-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송정슈퍼",
+      "address": "울산광역시 북구 화봉동 436-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-16"
+    },
+    {
+      "name": "대운슈퍼",
+      "address": "울산광역시 북구 양정동 126",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대자동차새마을금고",
+      "address": "울산광역시 북구 양정동 700 사택",
+      "roadAddress": "울산광역시 북구 염포로 700  (양정동,사택)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키양정점",
+      "address": "울산광역시 북구 양정동 535-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-31"
+    },
+    {
+      "name": "한농스토아",
+      "address": "울산광역시 북구 신천동 309-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-13"
+    },
+    {
+      "name": "TOP24",
+      "address": "울산광역시 북구 연암동 375-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-21"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "울산광역시 북구 염포동 194-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-12"
+    },
+    {
+      "name": "쌍용마트",
+      "address": "울산광역시 북구 천곡동 418-8 쌍용아진 3차지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-24"
+    },
+    {
+      "name": "아진슈퍼",
+      "address": "울산광역시 북구 천곡동 3차상가101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-16"
+    },
+    {
+      "name": "시장마트",
+      "address": "울산광역시 북구 호계동 681-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-07"
+    },
+    {
+      "name": "농심가 양정슈퍼",
+      "address": "울산광역시 북구 양정동 500-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-17"
+    },
+    {
+      "name": "새마을마트",
+      "address": "울산광역시 북구 양정동 500-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-20"
+    },
+    {
+      "name": "대박슈퍼",
+      "address": "울산광역시 북구 양정동 551-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-31"
+    },
+    {
+      "name": "쌍용아진슈퍼",
+      "address": "울산광역시 북구 상안동 418-8 쌍용아진아파트 311동 지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅썬마트",
+      "address": "울산광역시 북구 매곡동 548-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-08"
+    },
+    {
+      "name": "대화산업(주)",
+      "address": "울산광역시 북구 화봉동 674-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-06"
+    },
+    {
+      "name": "삼호매일유통",
+      "address": "울산광역시 북구 천곡동 940-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월마트",
+      "address": "울산광역시 북구 중산동 684-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-06"
+    },
+    {
+      "name": "호계마트",
+      "address": "울산광역시 북구 호계동 681-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-08"
+    },
+    {
+      "name": "베스트프랜드편의점",
+      "address": "울산광역시 북구 양정동 624-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-08"
+    },
+    {
+      "name": "태화마트",
+      "address": "울산광역시 북구 연암동 291-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-13"
+    },
+    {
+      "name": "훼미리25",
+      "address": "울산광역시 북구 염포동 138-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-21"
+    },
+    {
+      "name": "효문상회",
+      "address": "울산광역시 북구 효문동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-20"
+    },
+    {
+      "name": "한국까르푸(주)울산점",
+      "address": "울산광역시 북구 상안동 322-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-13"
+    },
+    {
+      "name": "훼미리마트 석영점",
+      "address": "울산광역시 북구 양정동 731-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-07"
+    },
+    {
+      "name": "새시대 슈퍼",
+      "address": "울산광역시 북구 호계동 693-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-11"
+    },
+    {
+      "name": "토비문구사",
+      "address": "울산광역시 북구 화봉동 452",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-21"
+    },
+    {
+      "name": "서원할인마트",
+      "address": "울산광역시 북구 양정동 496-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-22"
+    },
+    {
+      "name": "우리들 호계점",
+      "address": "울산광역시 북구 호계동 730-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-20"
+    },
+    {
+      "name": "한마음 슈퍼",
+      "address": "울산광역시 북구 산하동 956",
+      "roadAddress": "울산광역시 북구 동해안로 1650  (산하동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-28"
+    },
+    {
+      "name": "소라횟집",
+      "address": "울산광역시 북구 산하동 2",
+      "roadAddress": "울산광역시 북구 화암길 43  (산하동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-28"
+    },
+    {
+      "name": "달맞이 횟집",
+      "address": "울산광역시 북구 신명동 39",
+      "roadAddress": "울산광역시 북구 신명길 117  (신명동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-28"
+    },
+    {
+      "name": "선돌횟집",
+      "address": "울산광역시 북구 신명동 54",
+      "roadAddress": "울산광역시 북구 신명길 101  (신명동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-28"
+    },
+    {
+      "name": "수평선회마을",
+      "address": "울산광역시 북구 신명동 29-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-28"
+    },
+    {
+      "name": "플러스마트",
+      "address": "울산광역시 북구 호계동 27B14L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-29"
+    },
+    {
+      "name": "무룡슈퍼",
+      "address": "울산광역시 북구 화봉동 464-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-05"
+    },
+    {
+      "name": "우리마트",
+      "address": "울산광역시 북구 양정동 776-17",
+      "roadAddress": "울산광역시 북구 오치골2길 9  (양정동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-20"
+    },
+    {
+      "name": "강동농협협동조합",
+      "address": "울산광역시 북구 정자동 169-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-20"
+    },
+    {
+      "name": "밀양슈퍼",
+      "address": "울산광역시 북구 양정동 490-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-25"
+    },
+    {
+      "name": "연암슈퍼",
+      "address": "울산광역시 북구 연암동 300-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-30"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "울산광역시 북구 진장동 784-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-09"
+    },
+    {
+      "name": "현대스토아",
+      "address": "울산광역시 북구 양정동 558-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-03"
+    },
+    {
+      "name": "세일세일마트",
+      "address": "울산광역시 북구 양정동 500-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-18"
+    },
+    {
+      "name": "제우스편의점",
+      "address": "울산광역시 북구 연암동 363-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-21"
+    },
+    {
+      "name": "민영마트24시편의점",
+      "address": "울산광역시 북구 호계동 25B 2N",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-25"
+    },
+    {
+      "name": "열린장터",
+      "address": "울산광역시 북구 천곡동 165-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-25"
+    },
+    {
+      "name": "스마일 할인마트",
+      "address": "울산광역시 북구 연암동 363-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-04"
+    },
+    {
+      "name": "세일세일마트",
+      "address": "울산광역시 북구 중산동 621",
+      "roadAddress": "울산광역시 북구 이화5길 23  (중산동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-22"
+    },
+    {
+      "name": "농소농협아진지소",
+      "address": "울산광역시 북구 천곡동 410-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-25"
+    },
+    {
+      "name": "농소농협매곡지소",
+      "address": "울산광역시 북구 매곡동 542-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-25"
+    },
+    {
+      "name": "광포슈퍼",
+      "address": "울산광역시 북구 양정동 536-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-09"
+    },
+    {
+      "name": "푸른슈퍼",
+      "address": "울산광역시 북구 화봉동 463-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-14"
+    },
+    {
+      "name": "SF24시",
+      "address": "울산광역시 북구 호계동 24B1N",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-04"
+    },
+    {
+      "name": "유성유리슈퍼",
+      "address": "울산광역시 북구 염포동 187",
+      "roadAddress": "울산광역시 북구 염포로 653  (염포동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-17"
+    },
+    {
+      "name": "오가네식품",
+      "address": "울산광역시 북구 천곡동 410-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-24"
+    },
+    {
+      "name": "약수공판장",
+      "address": "울산광역시 북구 중산동 904-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-02"
+    },
+    {
+      "name": "벽산유통",
+      "address": "울산광역시 북구 연암동 415",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-07"
+    },
+    {
+      "name": "이화슈퍼",
+      "address": "울산광역시 북구 중산동 1166-45",
+      "roadAddress": "울산광역시 북구 화정4길 16  (중산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아람마트화봉점",
+      "address": "울산광역시 북구 연암동 402-1    지하 1 동비 -01",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-08"
+    },
+    {
+      "name": "OK스마일",
+      "address": "울산광역시 북구 호계동 41B 8L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-12"
+    },
+    {
+      "name": "우정슈퍼",
+      "address": "울산광역시 북구 연암동 411-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-14"
+    },
+    {
+      "name": "365마트",
+      "address": "울산광역시 북구 정자동 31-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-21"
+    },
+    {
+      "name": "한진슈퍼",
+      "address": "울산광역시 북구 천곡동 927-1    한진훼미리아파트 상가동 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-19"
+    },
+    {
+      "name": "동경매일유통",
+      "address": "울산광역시 북구 양정동 621-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-08"
+    },
+    {
+      "name": "세계로마트(명촌점)",
+      "address": "울산광역시 북구 명촌동 126B 1N 평창1차아파트 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-25"
+    },
+    {
+      "name": "스마일마트",
+      "address": "울산광역시 북구 진장동 126b 1n",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-02"
+    },
+    {
+      "name": "무룡상회",
+      "address": "울산광역시 북구 무룡동 935-232",
+      "roadAddress": "울산광역시 북구 달곡1길 4  (무룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-09"
+    },
+    {
+      "name": "구멍가게",
+      "address": "울산광역시 북구 연암동 356-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-12"
+    },
+    {
+      "name": "코끼리마트",
+      "address": "울산광역시 북구 신천동 309-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-15"
+    },
+    {
+      "name": "정자그린슈퍼",
+      "address": "울산광역시 북구 정자동 426-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-23"
+    },
+    {
+      "name": "훼미리마트호계점",
+      "address": "울산광역시 북구 천곡동 410-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-29"
+    },
+    {
+      "name": "개인 포장마차",
+      "address": "울산광역시 북구 명촌동 평창리비에르",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-29"
+    },
+    {
+      "name": "개인 포장마차",
+      "address": "울산광역시 북구 산하동 124-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-29"
+    },
+    {
+      "name": "경진슈퍼",
+      "address": "울산광역시 북구 산하동 996",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "포장마차",
+      "address": "울산광역시 북구 정자동 309-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "M24시 마트",
+      "address": "울산광역시 북구 연암동 380-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-24"
+    },
+    {
+      "name": "OK동아청구할인마트",
+      "address": "울산광역시 북구 화봉동 452",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "프라임 24시 편의점",
+      "address": "울산광역시 북구 상안동 367-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-29"
+    },
+    {
+      "name": "호계슈퍼",
+      "address": "울산광역시 북구 호계동 171-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-04"
+    },
+    {
+      "name": "이화그린슈퍼",
+      "address": "울산광역시 북구 중산동 546-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-21"
+    },
+    {
+      "name": "Q마트",
+      "address": "울산광역시 북구 염포동 1000-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아청구아파트",
+      "address": "울산광역시 북구 화봉동 452",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-07"
+    },
+    {
+      "name": "양정마트",
+      "address": "울산광역시 북구 양정동 439-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-23"
+    },
+    {
+      "name": "세븐-일레븐 울산호게점",
+      "address": "울산광역시 북구 호계동 683-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-23"
+    },
+    {
+      "name": "진장상회",
+      "address": "울산광역시 북구 진장동 464",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-29"
+    },
+    {
+      "name": "대경철물설비",
+      "address": "울산광역시 북구 중산동 1002",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-24"
+    },
+    {
+      "name": "지에스25 경주문무왕릉점",
+      "address": "울산광역시 북구 산하동 509-1 블루마시티 KCC스위첸",
+      "roadAddress": "울산광역시 북구 산하중앙1로 6, 104동 3201호 (산하동, 블루마시티 KCC스위첸)",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-08"
+    }
+  ]
+}

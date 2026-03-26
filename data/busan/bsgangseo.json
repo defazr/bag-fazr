@@ -1,0 +1,976 @@
+{
+  "region": "부산광역시",
+  "regionSlug": "busan",
+  "district": "강서구",
+  "districtSlug": "bsgangseo",
+  "updatedAt": "2026-03-26",
+  "totalCount": 138,
+  "stores": [
+    {
+      "name": "경북상회",
+      "address": "부산광역시 강서구 대저1동 2311-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오봉산수퍼",
+      "address": "부산광역시 강서구 죽림동 750",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용등구멍가게",
+      "address": "부산광역시 강서구 죽림동 672-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "식만상회",
+      "address": "부산광역시 강서구 식만동 721",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "할매추어탕",
+      "address": "부산광역시 강서구 식만동 16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성호상회",
+      "address": "부산광역시 강서구 식만동 122-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장택",
+      "address": "부산광역시 강서구 식만동 832",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "죽동슈퍼",
+      "address": "부산광역시 강서구 죽동동 342",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장댁",
+      "address": "부산광역시 강서구 죽동동 536",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장댁",
+      "address": "부산광역시 강서구 죽동동 84",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금천담배집",
+      "address": "부산광역시 강서구 죽동동 514-693",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남양상회",
+      "address": "부산광역시 강서구 봉림동 454",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지역주민",
+      "address": "부산광역시 강서구 봉림동 551",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신기담배집",
+      "address": "부산광역시 강서구 봉림동 110",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통전담배집",
+      "address": "부산광역시 강서구 봉림동 738",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장댁",
+      "address": "부산광역시 강서구 봉림동 740",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해포초등가게",
+      "address": "부산광역시 강서구 봉림동 738",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강변식당",
+      "address": "부산광역시 강서구 봉림동 738",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세진슈퍼",
+      "address": "부산광역시 강서구 구랑동 243-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산강상회",
+      "address": "부산광역시 강서구 생곡동 594",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호정슈퍼",
+      "address": "부산광역시 강서구 송정동 1140-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "늘봄슈퍼",
+      "address": "부산광역시 강서구 녹산동 456-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "할매집",
+      "address": "부산광역시 강서구 녹산동 57-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "산양상회",
+      "address": "부산광역시 강서구 녹산동 1031",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "녹산약방",
+      "address": "부산광역시 강서구 녹산동 15-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신광상회",
+      "address": "부산광역시 강서구 대저1동 998-54",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신촌부식점",
+      "address": "부산광역시 강서구 대저1동 641-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강변식육점",
+      "address": "부산광역시 강서구 강동동 250",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "본리상회",
+      "address": "부산광역시 강서구 대저2동 2637-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물상회",
+      "address": "부산광역시 강서구 대저2동 4460",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "맥도마트",
+      "address": "부산광역시 강서구 대저2동 4414-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해피마켓",
+      "address": "부산광역시 강서구 강동동 29-314",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부산상회",
+      "address": "부산광역시 강서구 강동동 146-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보경상회",
+      "address": "부산광역시 강서구 명지동 2757-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "슈퍼상회",
+      "address": "부산광역시 강서구 대저1동 2917-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "부산광역시 강서구 대저1동 449-6    11 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진주슈퍼",
+      "address": "부산광역시 강서구 대저1동 1318-101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물슈퍼",
+      "address": "부산광역시 강서구 대저1동 1274",
+      "roadAddress": "부산광역시 강서구 대저중앙로 141  (대저1동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "M마트",
+      "address": "부산광역시 강서구 대저2동 1938-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성진슈퍼",
+      "address": "부산광역시 강서구 강동동 149-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "부산광역시 강서구 강동동 165-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강변슈퍼",
+      "address": "부산광역시 강서구 강동동 4389-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼육슈퍼",
+      "address": "부산광역시 강서구 명지동 3219-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신흥슈퍼",
+      "address": "부산광역시 강서구 명지동 1539-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대한슈퍼",
+      "address": "부산광역시 강서구 대저1동 527-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "숭창상회",
+      "address": "부산광역시 강서구 대저1동 1491-44",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼양슈퍼",
+      "address": "부산광역시 강서구 대저2동 2084",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정상재슈퍼",
+      "address": "부산광역시 강서구 명지동 1292-7    23 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "M할인마트",
+      "address": "부산광역시 강서구 녹산동 546-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "녹산농협",
+      "address": "부산광역시 강서구 녹산동 5-94",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-15"
+    },
+    {
+      "name": "가락농협",
+      "address": "부산광역시 강서구 죽림동 750",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-15"
+    },
+    {
+      "name": "강동농협",
+      "address": "부산광역시 강서구 강동동 131-62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-05-15"
+    },
+    {
+      "name": "연주상회",
+      "address": "부산광역시 강서구 명지동 1-666",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-13"
+    },
+    {
+      "name": "부산문방구",
+      "address": "부산광역시 강서구 대저1동 2388-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수진상회",
+      "address": "부산광역시 강서구 대저1동 2342-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "회관상회",
+      "address": "부산광역시 강서구 대저1동 4323-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "부산광역시 강서구 대저1동 400-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성대쌀상회",
+      "address": "부산광역시 강서구 대저1동 341",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가락상회",
+      "address": "부산광역시 강서구 대저1동 330-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장수상회",
+      "address": "부산광역시 강서구 대저1동 666-14",
+      "roadAddress": "부산광역시 강서구 공항로1309번길 212  (대저1동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농심가슈퍼",
+      "address": "부산광역시 강서구 대저1동 451-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하진상회",
+      "address": "부산광역시 강서구 대저1동 433-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신촌상회",
+      "address": "부산광역시 강서구 대저1동 527-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동원상회",
+      "address": "부산광역시 강서구 대저1동 1349",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키상회",
+      "address": "부산광역시 강서구 대저1동 1426-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대지상회",
+      "address": "부산광역시 강서구 대저1동 1358-21",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상회",
+      "address": "부산광역시 강서구 대저1동 1328",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강정상회",
+      "address": "부산광역시 강서구 대저1동 1318-53",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "울진상회",
+      "address": "부산광역시 강서구 대저1동 1318-39",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강물상회",
+      "address": "부산광역시 강서구 대저1동 1291-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상회",
+      "address": "부산광역시 강서구 대저1동 1286-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물상회",
+      "address": "부산광역시 강서구 대저1동 1157-36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중리연쇄점",
+      "address": "부산광역시 강서구 대저1동 991-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중리상회",
+      "address": "부산광역시 강서구 대저1동 1509-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "회관상회",
+      "address": "부산광역시 강서구 대저1동 1061-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평강슈퍼",
+      "address": "부산광역시 강서구 대저1동 1726-1    22 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성상회",
+      "address": "부산광역시 강서구 대저1동 3630-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "공회당",
+      "address": "부산광역시 강서구 대저1동 3665-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "회관식당",
+      "address": "부산광역시 강서구 대저1동 250-51",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가락상회",
+      "address": "부산광역시 강서구 대저1동 1296-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일상회",
+      "address": "부산광역시 강서구 대저1동 1668-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명지상회",
+      "address": "부산광역시 강서구 명지동 1-479",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마을회관",
+      "address": "부산광역시 강서구 명지동 608-1178 8  통2  반",
+      "roadAddress": "부산광역시 강서구 순아3구길 31  (명지동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우진상회",
+      "address": "부산광역시 강서구 명지동 608-571  6  통1  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장",
+      "address": "부산광역시 강서구 명지동 611-105",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미화당",
+      "address": "부산광역시 강서구 강동동 112-5 3통2반",
+      "roadAddress": "부산광역시 강서구 낙동북로 74  (강동동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영강식육점",
+      "address": "부산광역시 강서구 명지동 1360-9    10 통2  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영강상회",
+      "address": "부산광역시 강서구 명지동 1381 10 통2  반",
+      "roadAddress": "부산광역시 강서구 영강길19번길 28  (명지동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장",
+      "address": "부산광역시 강서구 명지동 1079-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장",
+      "address": "부산광역시 강서구 명지동 1229-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진동상회",
+      "address": "부산광역시 강서구 명지동 1530-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조동상회",
+      "address": "부산광역시 강서구 명지동 1155",
+      "roadAddress": "부산광역시 강서구 영강조동길 216  (명지동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장",
+      "address": "부산광역시 강서구 명지동 2746-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장",
+      "address": "부산광역시 강서구 명지동 1763-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상신상회",
+      "address": "부산광역시 강서구 명지동 1853",
+      "roadAddress": "부산광역시 강서구 상신길 100  (명지동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장",
+      "address": "부산광역시 강서구 명지동 2151",
+      "roadAddress": "부산광역시 강서구 중신길 31  (명지동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장",
+      "address": "부산광역시 강서구 명지동 2917-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장",
+      "address": "부산광역시 강서구 명지동 165-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일용상회",
+      "address": "부산광역시 강서구 명지동 1-236",
+      "roadAddress": "부산광역시 강서구 신포길 11-7  (명지동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협연쇄점",
+      "address": "부산광역시 강서구 명지동 1-417",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영강슈퍼",
+      "address": "부산광역시 강서구 명지동 1451 23 통3  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명지슈퍼",
+      "address": "부산광역시 강서구 명지동 3231-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시장번영회",
+      "address": "부산광역시 강서구 대저1동 2431-31",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대저슈퍼",
+      "address": "부산광역시 강서구 대저1동 2388-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서강슈퍼",
+      "address": "부산광역시 강서구 대저1동 2391-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리문구",
+      "address": "부산광역시 강서구 대저1동 2383-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행운슈퍼",
+      "address": "부산광역시 강서구 대저1동 2291-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "후문문구",
+      "address": "부산광역시 강서구 대저1동 2380",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대저농협슈퍼",
+      "address": "부산광역시 강서구 대저1동 2372-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "충무상회",
+      "address": "부산광역시 강서구 대저1동 1406-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구멍가게",
+      "address": "부산광역시 강서구 대저1동 1318-73",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영화슈퍼",
+      "address": "부산광역시 강서구 대저1동 1491-58",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "남동상회",
+      "address": "부산광역시 강서구 대저1동 1214-15",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화인유통평강점",
+      "address": "부산광역시 강서구 대저1동 1674-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현진식품",
+      "address": "부산광역시 강서구 대저1동 1748-62",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새평강슈퍼",
+      "address": "부산광역시 강서구 대저1동 1686-1    22 통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "통장댁상회",
+      "address": "부산광역시 강서구 대저1동 4755",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대슈퍼",
+      "address": "부산광역시 강서구 대저1동 1286-48",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "본동슈퍼",
+      "address": "부산광역시 강서구 대저2동 1242-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "등구슈퍼",
+      "address": "부산광역시 강서구 대저2동 1252",
+      "roadAddress": "부산광역시 강서구 대저동서로 239  (대저2동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대저농협",
+      "address": "부산광역시 강서구 대저2동 1851-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호상회",
+      "address": "부산광역시 강서구 대저2동 3909",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "작지상회",
+      "address": "부산광역시 강서구 대저2동 4976",
+      "roadAddress": "부산광역시 강서구 공항로393번길 52  (대저2동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서원유통",
+      "address": "부산광역시 강서구 대저2동 1819-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세희분식",
+      "address": "부산광역시 강서구 대저2동 4882",
+      "roadAddress": "부산광역시 강서구 공항로339번길 157  (대저2동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동방상점",
+      "address": "부산광역시 강서구 대저2동 3292",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "공항슈퍼",
+      "address": "부산광역시 강서구 대저2동 2017-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대명식육점",
+      "address": "부산광역시 강서구 강동동 208-96",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대평슈퍼",
+      "address": "부산광역시 강서구 강동동 52-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수봉상회",
+      "address": "부산광역시 강서구 강동동 4392-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신덕구판장",
+      "address": "부산광역시 강서구 강동동 1487-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "평진슈퍼",
+      "address": "부산광역시 강서구 강동동 661-73   5  통4  반",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "헌성슈퍼",
+      "address": "부산광역시 강서구 강동동 164-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "혜강슈퍼",
+      "address": "부산광역시 강서구 강동동 29-464",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나상회",
+      "address": "부산광역시 강서구 죽림동 945-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼거리상회",
+      "address": "부산광역시 강서구 죽림동 1076",
+      "roadAddress": "부산광역시 강서구 가락대로 1424-1  (죽림동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해창상회",
+      "address": "부산광역시 강서구 죽림동 1063-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "죽림상회",
+      "address": "부산광역시 강서구 죽림동 1066-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    }
+  ]
+}
