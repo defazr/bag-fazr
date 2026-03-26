@@ -51,6 +51,31 @@ export default function HomePage() {
         </p>
       </section>
 
+      {/* 자주 찾는 지역 */}
+      <section className="mb-8">
+        <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-white">
+          자주 찾는 지역
+        </h2>
+        <div className="flex flex-wrap gap-2">
+          {[
+            { name: "강남구", href: "/seoul/gangnam" },
+            { name: "수원시", href: "/gyeonggi/suwon" },
+            { name: "해운대구", href: "/busan/haeundae" },
+            { name: "은평구", href: "/seoul/eunpyeong" },
+            { name: "성남시", href: "/gyeonggi/seongnam" },
+            { name: "중구", href: "/seoul/jung" },
+          ].map((d) => (
+            <Link
+              key={d.href}
+              href={d.href}
+              className="rounded-full border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-1.5 text-sm text-gray-700 dark:text-zinc-300 hover:border-blue-300 dark:hover:border-zinc-600 hover:shadow-md transition duration-200"
+            >
+              {d.name}
+            </Link>
+          ))}
+        </div>
+      </section>
+
       {/* 광고: 상단
       <AdSlot slotId="8836749083" className="mb-6" /> */}
 
