@@ -4,6 +4,7 @@ import "./globals.css";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import NoticeBanner from "@/components/layout/NoticeBanner";
+import ScrollToTop from "@/components/layout/ScrollToTop";
 // import StickyBottomAd from "@/components/ads/StickyBottomAd";
 
 export const metadata: Metadata = {
@@ -17,7 +18,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ko">
-      <body className="min-h-screen bg-gray-50 text-gray-900 antialiased pb-14 sm:pb-0">
+      <body className="min-h-screen bg-gray-50 text-gray-900 antialiased pb-14 sm:pb-0 dark:bg-gray-950 dark:text-gray-100">
         {/* <Script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7976139023602789"
@@ -28,6 +29,7 @@ export default function RootLayout({
         <Header />
         <main className="mx-auto max-w-4xl px-4 py-8">{children}</main>
         <Footer />
+        <ScrollToTop />
         {/* <StickyBottomAd /> */}
       </body>
     </html>

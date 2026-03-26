@@ -350,7 +350,7 @@ export default async function DistrictPage({ params }: PageProps) {
       </section>
 
       {/* 신뢰 시그널 */}
-      <div className="mt-10 rounded-lg bg-gray-50 px-4 py-3 text-xs text-gray-400">
+      <div className="mt-10 mb-20 sm:mb-0 rounded-lg bg-gray-50 px-4 py-3 text-xs text-gray-400">
         <p>
           데이터 출처: 공공데이터포털 (행정안전부 자원환경
           쓰레기종량제봉투판매업) · 갱신일: {data.updatedAt} · 영업 중인

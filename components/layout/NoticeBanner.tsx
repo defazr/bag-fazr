@@ -1,27 +1,39 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 export default function NoticeBanner() {
-  const [dismissed, setDismissed] = useState(false);
+  const [dismissed, setDismissed] = useState(true);
+
+  useEffect(() => {
+    const stored = localStorage.getItem("notice-dismissed");
+    if (stored !== "true") {
+      setDismissed(false);
+    }
+  }, []);
+
+  const handleDismiss = () => {
+    setDismissed(true);
+    localStorage.setItem("notice-dismissed", "true");
+  };
 
   if (dismissed) return null;
 
   return (
-    <div className="sticky top-0 z-50 bg-amber-500 text-white text-sm">
-      <div className="mx-auto max-w-4xl px-4 py-2 flex items-center justify-between">
-        <p>
-          ⚠️ 현재 일부 지역은 종량제 봉투 품절이 발생하고 있습니다. 데이터가
-          제한될 수 있습니다.
+    <div className="sticky top-0 z-50 h-8 bg-orange-100 overflow-hidden flex items-center">
+      <div className="flex-1 overflow-hidden relative group">
+        <p className="text-orange-800 text-xs whitespace-nowrap animate-ticker group-hover:[animation-play-state:paused]">
+          현재 일부 지역은 종량제 봉투 품절이 발생하고 있습니다. 방문 전 재고
+          확인을 권장드립니다.
         </p>
-        <button
-          onClick={() => setDismissed(true)}
-          className="ml-4 shrink-0 text-white/80 hover:text-white text-lg leading-none"
-          aria-label="공지 닫기"
-        >
-          ✕
-        </button>
       </div>
+      <button
+        onClick={handleDismiss}
+        className="shrink-0 px-2 text-orange-600 hover:text-orange-800 text-xs leading-none"
+        aria-label="공지 닫기"
+      >
+        ✕
+      </button>
     </div>
   );
 }
