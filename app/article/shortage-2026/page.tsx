@@ -43,6 +43,14 @@ export default function ShortageArticlePage() {
           <p className="mt-2 text-sm text-gray-500">2026년 3월 기준</p>
         </header>
 
+        {/* Hook */}
+        <div className="mb-8 rounded-lg border border-red-200 bg-red-50 px-4 py-3">
+          <p className="text-sm text-red-800">
+            최근 종량제 봉투를 구하기 어렵다는 이야기가 많습니다. 실제로 일부
+            지역에서는 편의점과 마트에서 품절 사례가 발생하고 있습니다.
+          </p>
+        </div>
+
         <div className="space-y-6 text-[15px] text-gray-700 leading-relaxed">
           <section>
             <h2 className="text-lg font-bold text-gray-900 mb-2">
@@ -51,7 +59,9 @@ export default function ShortageArticlePage() {
             <p>
               2026년 들어 전국적으로 종량제 봉투 품귀 현상이 발생하고 있습니다.
               편의점과 마트에서 봉투를 찾기 어렵다는 민원이 급증하면서, 많은
-              사람들이 가까운 판매처를 찾고 있습니다.
+              사람들이 가까운 판매처를 찾고 있습니다. 지역에 따라 재고 상황이
+              다를 수 있으므로, 지금 구매 가능한 판매처를 확인하는 것이
+              중요합니다.
             </p>
           </section>
 
@@ -66,6 +76,19 @@ export default function ShortageArticlePage() {
               생산량이 줄어들면서 봉투 공급이 수요를 따라가지 못하고 있습니다.
             </p>
           </section>
+
+          {/* Mid CTA */}
+          <div className="rounded-lg border border-blue-200 bg-blue-50 px-4 py-3 text-center">
+            <p className="text-sm text-blue-800">
+              지금 내 주변 판매처를 확인해보세요
+            </p>
+            <Link
+              href="/seoul/gangnam"
+              className="mt-2 inline-block rounded-md bg-blue-600 px-4 py-2 text-sm font-medium text-white hover:bg-blue-700"
+            >
+              내 주변 종량제 봉투 판매처 확인하기 →
+            </Link>
+          </div>
 
           <section>
             <h2 className="text-lg font-bold text-gray-900 mb-2">

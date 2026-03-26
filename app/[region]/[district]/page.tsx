@@ -183,6 +183,14 @@ export default async function DistrictPage({ params }: PageProps) {
         </p>
       </section>
 
+      {/* 품절 안내 */}
+      <div className="mb-4 rounded-lg border border-amber-200 bg-amber-50 px-4 py-2.5">
+        <p className="text-sm text-amber-800">
+          현재 일부 지역에서는 품절이 발생할 수 있습니다. 방문 전 재고 확인을
+          권장합니다.
+        </p>
+      </div>
+
       <StoreList stores={data.stores} />
 
       {data.totalCount < 3 && adjacentDistricts.length > 0 && (
@@ -204,13 +212,17 @@ export default async function DistrictPage({ params }: PageProps) {
         </section>
       )}
 
-      {/* 마이크로 콘텐츠: 재고 안내 */}
-      <div className="mt-8 rounded-lg border border-amber-200 bg-amber-50 px-4 py-3">
-        <p className="text-sm text-amber-800">
-          최근 수요 증가로 일부 판매처는 품절일 수 있습니다. 방문 전 재고를
-          확인하시는 것을 권장합니다.
-        </p>
-      </div>
+      {/* 다른 지역 보기 버튼 */}
+      {adjacentDistricts.length > 0 && (
+        <div className="mt-6 text-center">
+          <Link
+            href={`/${region}`}
+            className="inline-block rounded-lg border border-blue-300 bg-blue-50 px-5 py-2.5 text-sm font-medium text-blue-700 hover:bg-blue-100"
+          >
+            가까운 다른 지역 판매처 보기
+          </Link>
+        </div>
+      )}
 
       {/* 종량제 봉투 안내 콘텐츠 블록 */}
       <section className="mt-10">
