@@ -6,6 +6,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://bag.fazr.co.kr";
   const entries: MetadataRoute.Sitemap = [
     { url: baseUrl, lastModified: new Date(), changeFrequency: "daily", priority: 1 },
+    { url: `${baseUrl}/article/shortage-2026`, lastModified: new Date(), changeFrequency: "weekly", priority: 0.7 },
   ];
 
   for (const region of REGIONS) {

@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { getRegionsData } from "@/lib/data";
 import RegionGrid from "@/components/region/RegionGrid";
 import FaqSection from "@/components/seo/FaqSection";
@@ -59,6 +60,25 @@ export default function HomePage() {
           지역별 판매처
         </h2>
         <RegionGrid regions={data.regions} />
+      </section>
+
+      {/* 최근 이슈 */}
+      <section className="mt-10">
+        <h2 className="mb-3 text-lg font-bold text-gray-900">
+          최근 종량제 봉투 이슈
+        </h2>
+        <Link
+          href="/article/shortage-2026"
+          className="block rounded-lg border border-gray-200 bg-white p-4 hover:border-blue-300 hover:shadow-sm"
+        >
+          <p className="font-semibold text-gray-900">
+            종량제 봉투 대란 이유 총정리 (2026 최신)
+          </p>
+          <p className="mt-1 text-sm text-gray-500">
+            나프타 수급 불안, 수요 급증, 물류 지연까지. 왜 종량제 봉투를 못
+            구하는지 원인과 대처법을 정리했습니다.
+          </p>
+        </Link>
       </section>
 
       <FaqSection faqs={faqs} />
