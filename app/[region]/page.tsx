@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import Link from "next/link";
 import { getRegionIndex } from "@/lib/data";
 import { getRegionBySlug, REGIONS } from "@/lib/regions";
 import { getRegionFaqs } from "@/lib/seo";
@@ -83,13 +84,13 @@ export default async function RegionPage({ params }: PageProps) {
         </h2>
         <div className="flex flex-wrap gap-2">
           {adjacentRegions.map((r) => (
-            <a
+            <Link
               key={r.slug}
               href={`/${r.slug}`}
-              className="rounded-full border border-gray-200 dark:border-zinc-800 px-3 py-1 text-sm text-gray-600 dark:text-gray-400 hover:border-blue-300 hover:text-blue-600"
+              className="rounded-full border border-gray-200 dark:border-zinc-800 px-3 py-1 text-sm text-gray-600 dark:text-zinc-400 hover:bg-gray-50 dark:hover:bg-zinc-800 transition duration-200"
             >
               {r.name}
-            </a>
+            </Link>
           ))}
         </div>
       </section>

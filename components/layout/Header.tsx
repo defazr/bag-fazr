@@ -4,11 +4,11 @@ import MobileMenu from "./MobileMenu";
 
 export default function Header() {
   return (
-    <header className="border-b border-gray-200 bg-white dark:border-gray-800 dark:bg-gray-900">
-      <div className="mx-auto max-w-4xl px-4 py-4 flex items-center justify-between">
+    <header className="border-b border-gray-200 bg-white dark:border-zinc-800 dark:bg-zinc-950 h-14 flex items-center">
+      <div className="mx-auto max-w-4xl w-full px-5 flex items-center justify-between">
         <Link
           href="/"
-          className="text-xl font-bold text-gray-900 dark:text-white"
+          className="text-base font-bold text-gray-900 dark:text-white"
         >
           🗑️ 종량제 봉투 판매처 찾기
         </Link>

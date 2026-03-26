@@ -39,24 +39,24 @@ export default function HomePage() {
 
   return (
     <>
-      <section className="mb-8 text-center">
-        <h1 className="text-3xl font-bold text-gray-900 dark:text-white">
+      <section className="mt-6 mb-2 text-center">
+        <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
           종량제 봉투 판매처 찾기
         </h1>
-        <p className="mt-2 text-gray-600 dark:text-gray-400">
+        <p className="mt-2 text-gray-600 dark:text-zinc-400 text-sm">
           전국 {data.totalCount.toLocaleString()}곳의 판매처 정보를 제공합니다
         </p>
-        <p className="mt-1 text-sm text-gray-400 dark:text-gray-500">
+        <p className="mt-1 text-sm text-gray-400 dark:text-zinc-500">
           데이터 갱신일: {data.updatedAt}
         </p>
       </section>
 
       {/* 자주 찾는 지역 */}
-      <section className="mb-8">
+      <section className="mt-10">
         <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-white">
           자주 찾는 지역
         </h2>
-        <div className="flex flex-wrap gap-2">
+        <div className="flex gap-2 overflow-x-auto pb-2">
           {[
             { name: "강남구", href: "/seoul/gangnam" },
             { name: "송파구", href: "/seoul/songpa" },
@@ -68,7 +68,7 @@ export default function HomePage() {
             <Link
               key={d.href}
               href={d.href}
-              className="rounded-full border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-1.5 text-sm text-gray-700 dark:text-zinc-300 hover:border-blue-300 dark:hover:border-zinc-600 hover:shadow-md transition duration-200"
+              className="whitespace-nowrap rounded-full border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-3 py-1.5 text-sm text-gray-700 dark:text-zinc-300 hover:bg-gray-50 dark:hover:bg-zinc-800 transition duration-200"
             >
               {d.name}
             </Link>
@@ -77,10 +77,10 @@ export default function HomePage() {
       </section>
 
       {/* 광고: 상단
-      <AdSlot slotId="8836749083" className="mb-6" /> */}
+      <AdSlot slotId="8836749083" className="my-10" /> */}
 
-      <section>
-        <h2 className="mb-4 text-xl font-bold text-gray-900 dark:text-white">
+      <section className="mt-10">
+        <h2 className="mb-4 text-lg font-bold text-gray-900 dark:text-white">
           지역별 판매처
         </h2>
         <RegionGrid regions={data.regions} />
@@ -93,22 +93,24 @@ export default function HomePage() {
         </h2>
         <Link
           href="/article/shortage-2026"
-          className="block rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-4 hover:border-blue-300 hover:shadow-md duration-200"
+          className="block rounded-xl border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-5 hover:bg-gray-50 dark:hover:bg-zinc-800 transition duration-200"
         >
           <p className="font-semibold text-gray-900 dark:text-white">
             종량제 봉투 대란 이유 총정리 (2026 최신)
           </p>
-          <p className="mt-1 text-sm text-gray-500 dark:text-gray-400">
+          <p className="mt-1 text-sm text-gray-500 dark:text-zinc-400">
             나프타 수급 불안, 수요 급증, 물류 지연까지. 왜 종량제 봉투를 못
             구하는지 원인과 대처법을 정리했습니다.
           </p>
         </Link>
       </section>
 
-      <FaqSection faqs={faqs} />
+      <div className="mt-12 border-t border-gray-200 dark:border-zinc-800 pt-6">
+        <FaqSection faqs={faqs} />
+      </div>
 
       {/* 광고: 하단
-      <AdSlot slotId="6518541657" className="mt-8" /> */}
+      <AdSlot slotId="6518541657" className="my-10" /> */}
     </>
   );
 }

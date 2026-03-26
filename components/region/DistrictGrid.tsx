@@ -11,15 +11,15 @@ export default function DistrictGrid({
   districts,
 }: DistrictGridProps) {
   return (
-    <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
+    <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
       {districts.map((d) => (
         <Link
           key={d.districtSlug}
           href={`/${regionSlug}/${d.districtSlug}`}
-          className="flex flex-col items-center rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-4 text-center transition hover:border-blue-300 hover:shadow-md duration-200"
+          className="flex flex-col items-center rounded-xl border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-5 text-center transition hover:bg-gray-50 dark:hover:bg-zinc-800 duration-200"
         >
           <span className="font-medium text-gray-900 dark:text-white">{d.district}</span>
-          <span className="mt-1 text-sm text-gray-500 dark:text-gray-400">
+          <span className="mt-1 text-sm text-gray-500 dark:text-zinc-400">
             {d.count > 0 ? `${d.count}곳` : "준비중"}
           </span>
         </Link>

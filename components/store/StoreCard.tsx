@@ -4,7 +4,7 @@ export default function StoreCard({ store }: { store: Store }) {
   const displayAddress = store.roadAddress || store.address;
 
   return (
-    <div className="rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-3 shadow-sm transition hover:shadow-md duration-200">
+    <div className="rounded-xl border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-5 transition hover:bg-gray-50 dark:hover:bg-zinc-800 duration-200">
       <div className="flex items-start justify-between gap-2">
         <h3 className="font-semibold text-gray-900 dark:text-white text-[15px]">
           {store.name}
@@ -13,7 +13,7 @@ export default function StoreCard({ store }: { store: Store }) {
           영업중
         </span>
       </div>
-      <p className="mt-1.5 text-sm text-gray-500 dark:text-gray-400 leading-snug">
+      <p className="mt-1.5 text-sm text-gray-500 dark:text-zinc-400 leading-snug">
         {displayAddress}
       </p>
     </div>
