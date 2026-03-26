@@ -147,7 +147,7 @@ export default function ShortageArticlePage() {
           {/* 5. CTA 중간 */}
           <div className="rounded-xl border border-gray-200 dark:border-zinc-800 bg-gray-50 dark:bg-zinc-900 p-5 text-center">
             <p className="font-bold text-gray-900 dark:text-white">
-              내 주변 종량제 봉투 판매처, 미리 확인하세요
+              종량제 봉투 판매처, 미리 확인하세요
             </p>
             <p className="mt-1 text-sm text-gray-500 dark:text-zinc-400">
               전국 69,000곳 이상의 판매처를 지역별로 검색할 수 있습니다
@@ -156,7 +156,7 @@ export default function ShortageArticlePage() {
               href="/"
               className="mt-3 inline-block rounded-xl border border-gray-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 px-5 py-2.5 text-sm font-medium text-gray-700 dark:text-white hover:bg-gray-50 dark:hover:bg-zinc-700 transition"
             >
-              내 주변 종량제 봉투 판매처 확인하기 →
+              종량제 봉투 판매처 확인하기 →
             </Link>
           </div>
 
@@ -221,7 +221,7 @@ export default function ShortageArticlePage() {
           {/* 7. CTA 하단 */}
           <div className="rounded-xl border border-gray-200 dark:border-zinc-800 bg-gray-50 dark:bg-zinc-900 p-5 text-center">
             <p className="font-bold text-gray-900 dark:text-white">
-              우리 동네 판매처, 지금 바로 확인해보세요
+              종량제 봉투 판매처, 지금 바로 확인하세요
             </p>
             <p className="mt-1 text-sm text-gray-500 dark:text-zinc-400">
               지역을 선택하면 가까운 판매처 목록을 바로 볼 수 있습니다
@@ -230,7 +230,7 @@ export default function ShortageArticlePage() {
               href="/"
               className="mt-3 inline-block rounded-xl border border-gray-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 px-5 py-2.5 text-sm font-medium text-gray-700 dark:text-white hover:bg-gray-50 dark:hover:bg-zinc-700 transition"
             >
-              우리 동네 판매처 바로 확인하기 →
+              종량제 봉투 판매처 확인하기 →
             </Link>
           </div>
 
