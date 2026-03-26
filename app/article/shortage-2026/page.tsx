@@ -57,7 +57,7 @@ export default function ShortageArticlePage() {
         <div className="space-y-6 text-[15px] text-gray-700 dark:text-zinc-400 leading-relaxed">
           {/* 1. 공감 도입 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-2">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
               편의점 3곳을 돌았는데 봉투가 없습니다
             </h2>
             <p>
@@ -74,7 +74,7 @@ export default function ShortageArticlePage() {
 
           {/* 2. 문제 확대 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-2">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
               나만 겪는 문제가 아닙니다
             </h2>
             <p>
@@ -93,7 +93,7 @@ export default function ShortageArticlePage() {
 
           {/* 3. 원인 설명 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-2">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
               원인은 하나가 아닙니다
             </h2>
             <p>
@@ -129,7 +129,7 @@ export default function ShortageArticlePage() {
 
           {/* 4. 해결 방향 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-2">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
               그냥 찾아다니지 마세요. 확인하고 가세요.
             </h2>
             <p>
@@ -162,7 +162,7 @@ export default function ShortageArticlePage() {
 
           {/* 6. 현실 팁 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-2">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
               어디서 사는 게 가장 현실적인가?
             </h2>
             <p>
@@ -203,7 +203,7 @@ export default function ShortageArticlePage() {
 
           {/* 전망 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-2">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
               언제쯤 나아질까?
             </h2>
             <p>
@@ -236,7 +236,7 @@ export default function ShortageArticlePage() {
 
           {/* 8. 정리 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-2">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
               정리
             </h2>
             <ul className="space-y-1">

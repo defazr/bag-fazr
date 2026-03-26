@@ -57,7 +57,7 @@ export default function WhyNoBagsPage() {
         <div className="space-y-6 text-[15px] text-gray-700 dark:text-zinc-400 leading-relaxed">
           {/* 1. 공감 도입 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-2">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
               쓰레기 버리는 날인데 봉투가 없습니다
             </h2>
             <p>
@@ -73,7 +73,7 @@ export default function WhyNoBagsPage() {
 
           {/* 2. 문제 확대 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-2">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
               물어보니 다들 같은 상황이었습니다
             </h2>
             <p>
@@ -90,7 +90,7 @@ export default function WhyNoBagsPage() {
 
           {/* 3. 원인 설명 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-2">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
               알고 보니 원인이 여러 가지였습니다
             </h2>
             <p>
@@ -118,7 +118,7 @@ export default function WhyNoBagsPage() {
 
           {/* 4. 해결 방향 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-2">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
               무작정 찾아다니면 시간만 낭비됩니다
             </h2>
             <p>
@@ -150,7 +150,7 @@ export default function WhyNoBagsPage() {
 
           {/* 6. 현실 팁 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-2">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
               직접 돌아다녀보고 느낀 것들
             </h2>
             <p>
@@ -196,7 +196,7 @@ export default function WhyNoBagsPage() {
 
           {/* 전망 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-2">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
               앞으로는 나아질까?
             </h2>
             <p>
@@ -229,7 +229,7 @@ export default function WhyNoBagsPage() {
 
           {/* 8. 정리 */}
           <section>
-            <h2 className="text-lg font-bold text-gray-900 dark:text-white mb-2">
+            <h2 className="text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-500 pl-3 mt-10 mb-4">
               정리
             </h2>
             <ul className="space-y-1">
