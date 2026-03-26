@@ -8,7 +8,7 @@ export default function RegionGrid({ regions }: { regions: RegionMeta[] }) {
         <Link
           key={r.regionSlug}
           href={`/${r.regionSlug}`}
-          className="flex flex-col items-center rounded-lg border border-gray-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 p-4 text-center transition hover:border-blue-300 hover:shadow-md duration-200"
+          className="flex flex-col items-center rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-4 text-center transition hover:border-blue-300 hover:shadow-md duration-200"
         >
           <span className="font-medium text-gray-900 dark:text-gray-100">{r.region}</span>
           <span className="mt-1 text-sm text-gray-500 dark:text-gray-400">

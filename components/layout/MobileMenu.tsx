@@ -35,7 +35,7 @@ export default function MobileMenu() {
             onClick={() => setOpen(false)}
           />
           <div className="fixed top-0 right-0 z-50 h-full w-64 bg-white dark:bg-gray-900 shadow-xl">
-            <div className="flex items-center justify-between border-b border-gray-200 dark:border-gray-700 px-4 py-4">
+            <div className="flex items-center justify-between border-b border-gray-200 dark:border-gray-800 px-4 py-4">
               <span className="font-bold text-gray-900 dark:text-white">
                 메뉴
               </span>

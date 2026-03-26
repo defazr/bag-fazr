@@ -86,7 +86,7 @@ export default async function RegionPage({ params }: PageProps) {
             <a
               key={r.slug}
               href={`/${r.slug}`}
-              className="rounded-full border border-gray-200 dark:border-zinc-700 px-3 py-1 text-sm text-gray-600 dark:text-gray-400 hover:border-blue-300 hover:text-blue-600"
+              className="rounded-full border border-gray-200 dark:border-zinc-800 px-3 py-1 text-sm text-gray-600 dark:text-gray-400 hover:border-blue-300 hover:text-blue-600"
             >
               {r.name}
             </a>

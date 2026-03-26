@@ -113,7 +113,7 @@ export default async function DistrictPage({ params }: PageProps) {
         </div>
 
         {/* 실제 구매 가능 장소 안내 */}
-        <div className="mt-4 rounded-xl border border-gray-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 p-5">
+        <div className="mt-4 rounded-xl border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-5">
           <h2 className="text-base font-bold text-gray-900 dark:text-gray-100 mb-3">
             {districtInfo.name} 종량제 봉투 구매 가능 장소
           </h2>
@@ -150,7 +150,7 @@ export default async function DistrictPage({ params }: PageProps) {
                 <Link
                   key={d.districtSlug}
                   href={`/${region}/${d.districtSlug}`}
-                  className="flex flex-col items-center rounded-lg border border-gray-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 p-4 text-center transition hover:border-blue-300 hover:shadow-md duration-200"
+                  className="flex flex-col items-center rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-4 text-center transition hover:border-blue-300 hover:shadow-md duration-200"
                 >
                   <span className="font-medium text-gray-900 dark:text-gray-100">
                     {d.district}
@@ -177,7 +177,7 @@ export default async function DistrictPage({ params }: PageProps) {
           )}
           <Link
             href={`/${region}`}
-            className="inline-block rounded-lg border border-gray-300 dark:border-zinc-600 bg-white dark:bg-zinc-800 px-5 py-2.5 text-sm font-medium text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-zinc-700"
+            className="inline-block rounded-lg border border-gray-300 dark:border-zinc-600 bg-white dark:bg-zinc-900 px-5 py-2.5 text-sm font-medium text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-zinc-800"
           >
             {regionInfo.name} 전체 보기
           </Link>
@@ -308,13 +308,13 @@ export default async function DistrictPage({ params }: PageProps) {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
           <Link
             href={`/${region}`}
-            className="rounded-lg border border-gray-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 px-4 py-3 text-sm text-gray-700 dark:text-gray-300 hover:border-blue-300 hover:shadow-md duration-200"
+            className="rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-3 text-sm text-gray-700 dark:text-gray-300 hover:border-blue-300 hover:shadow-md duration-200"
           >
             {regionInfo.name} 종량제 봉투 가격 안내 →
           </Link>
           <Link
             href={`/${region}`}
-            className="rounded-lg border border-gray-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 px-4 py-3 text-sm text-gray-700 dark:text-gray-300 hover:border-blue-300 hover:shadow-md duration-200"
+            className="rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-3 text-sm text-gray-700 dark:text-gray-300 hover:border-blue-300 hover:shadow-md duration-200"
           >
             {regionInfo.name} 종량제 봉투 크기별 판매처 →
           </Link>
@@ -332,7 +332,7 @@ export default async function DistrictPage({ params }: PageProps) {
               <Link
                 key={d.districtSlug}
                 href={`/${region}/${d.districtSlug}`}
-                className="rounded-full border border-gray-200 dark:border-zinc-700 px-3 py-1 text-sm text-gray-600 dark:text-gray-400 hover:border-blue-300 hover:text-blue-600"
+                className="rounded-full border border-gray-200 dark:border-zinc-800 px-3 py-1 text-sm text-gray-600 dark:text-gray-400 hover:border-blue-300 hover:text-blue-600"
               >
                 {d.district} ({d.count}곳)
               </Link>
@@ -350,7 +350,7 @@ export default async function DistrictPage({ params }: PageProps) {
       </section>
 
       {/* 신뢰 시그널 */}
-      <div className="mt-10 mb-20 sm:mb-0 rounded-lg bg-gray-50 dark:bg-zinc-800 px-4 py-3 text-xs text-gray-400 dark:text-gray-500">
+      <div className="mt-10 mb-20 sm:mb-0 rounded-lg bg-gray-50 dark:bg-zinc-900 px-4 py-3 text-xs text-gray-400 dark:text-gray-500">
         <p>
           데이터 출처: 공공데이터포털 (행정안전부 자원환경
           쓰레기종량제봉투판매업) · 갱신일: {data.updatedAt} · 영업 중인

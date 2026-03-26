@@ -4,7 +4,7 @@ export default function StoreCard({ store }: { store: Store }) {
   const displayAddress = store.roadAddress || store.address;
 
   return (
-    <div className="rounded-lg border border-gray-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 px-4 py-3 shadow-sm transition hover:shadow-md duration-200">
+    <div className="rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-3 shadow-sm transition hover:shadow-md duration-200">
       <div className="flex items-start justify-between gap-2">
         <h3 className="font-semibold text-gray-900 dark:text-gray-100 text-[15px]">
           {store.name}

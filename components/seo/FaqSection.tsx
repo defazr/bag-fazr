@@ -14,9 +14,9 @@ export default function FaqSection({ faqs }: FaqSectionProps) {
         {faqs.map((faq, i) => (
           <details
             key={i}
-            className="rounded-lg border border-gray-200 dark:border-zinc-700 bg-white dark:bg-zinc-800"
+            className="rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900"
           >
-            <summary className="cursor-pointer px-4 py-3 font-medium text-gray-900 dark:text-gray-100 hover:bg-gray-50 dark:hover:bg-zinc-700">
+            <summary className="cursor-pointer px-4 py-3 font-medium text-gray-900 dark:text-gray-100 hover:bg-gray-50 dark:hover:bg-zinc-800">
               {faq.question}
             </summary>
             <p className="px-4 pb-3 text-gray-600 dark:text-gray-400">{faq.answer}</p>

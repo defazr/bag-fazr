@@ -68,7 +68,7 @@ export default function HomePage() {
         </h2>
         <Link
           href="/article/shortage-2026"
-          className="block rounded-lg border border-gray-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 p-4 hover:border-blue-300 hover:shadow-md duration-200"
+          className="block rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-4 hover:border-blue-300 hover:shadow-md duration-200"
         >
           <p className="font-semibold text-gray-900 dark:text-gray-100">
             종량제 봉투 대란 이유 총정리 (2026 최신)
