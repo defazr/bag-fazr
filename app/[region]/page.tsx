@@ -6,6 +6,7 @@ import { getRegionFaqs } from "@/lib/seo";
 import DistrictGrid from "@/components/region/DistrictGrid";
 import Breadcrumb from "@/components/seo/Breadcrumb";
 import FaqSection from "@/components/seo/FaqSection";
+import AdSlot from "@/components/ads/AdSlot";
 
 export const revalidate = 86400;
 
@@ -64,10 +65,8 @@ export default async function RegionPage({ params }: PageProps) {
         </p>
       </section>
 
-      {/* 광고 슬롯 */}
-      <div className="mb-6 min-h-[90px] rounded-lg border border-dashed border-gray-300 bg-gray-50 flex items-center justify-center text-sm text-gray-400">
-        광고 영역
-      </div>
+      {/* 광고: 상단 */}
+      <AdSlot slotId="8836749083" className="mb-6" />
 
       <section>
         <h2 className="mb-4 text-lg font-bold text-gray-900">
@@ -94,6 +93,9 @@ export default async function RegionPage({ params }: PageProps) {
           ))}
         </div>
       </section>
+
+      {/* 광고: 하단 */}
+      <AdSlot slotId="6518541657" className="mt-8" />
     </>
   );
 }

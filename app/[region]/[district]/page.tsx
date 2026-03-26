@@ -12,6 +12,7 @@ import { getDistrictFaqs } from "@/lib/seo";
 import StoreList from "@/components/store/StoreList";
 import Breadcrumb from "@/components/seo/Breadcrumb";
 import FaqSection from "@/components/seo/FaqSection";
+import AdSlot from "@/components/ads/AdSlot";
 
 export const revalidate = 86400;
 
@@ -101,18 +102,41 @@ export default async function DistrictPage({ params }: PageProps) {
           </p>
         </section>
 
-        <div className="rounded-lg border border-blue-200 bg-blue-50 p-6">
-          <p className="text-lg font-medium text-blue-800">
-            {districtInfo.name} 판매처 데이터를 준비하고 있습니다
+        {/* 데이터 없음 안내 */}
+        <div className="rounded-xl border border-yellow-200 bg-yellow-50 p-6 text-center">
+          <p className="text-lg font-semibold text-yellow-800">
+            {districtInfo.name}에 등록된 판매처가 없습니다
           </p>
-          <p className="mt-2 text-sm text-blue-600">
-            공공데이터포털에서 {districtInfo.name} 지역의 종량제 봉투 판매처
-            정보를 수집 중입니다. 곧 업데이트될 예정이며, 아래 인근 지역
-            판매처를 먼저 확인해보세요.
+          <p className="mt-2 text-sm text-yellow-700">
+            공공데이터 기준이며, 실제로는 아래 장소에서 구매 가능합니다.
           </p>
-          <p className="mt-3 text-sm text-blue-600">
-            종량제 봉투는 보통 편의점, 마트, 슈퍼마켓에서 구매할 수 있습니다.
-            가까운 편의점을 방문해보시기 바랍니다.
+        </div>
+
+        {/* 실제 구매 가능 장소 안내 */}
+        <div className="mt-4 rounded-xl border border-gray-200 bg-white p-5">
+          <h2 className="text-base font-bold text-gray-900 mb-3">
+            {districtInfo.name} 종량제 봉투 구매 가능 장소
+          </h2>
+          <ul className="space-y-2 text-sm text-gray-700">
+            <li className="flex items-center gap-2">
+              <span className="text-green-500">✔</span>
+              편의점 (CU, GS25, 세븐일레븐)
+            </li>
+            <li className="flex items-center gap-2">
+              <span className="text-green-500">✔</span>
+              대형마트 (이마트, 홈플러스, 롯데마트)
+            </li>
+            <li className="flex items-center gap-2">
+              <span className="text-green-500">✔</span>
+              동네 슈퍼마켓
+            </li>
+            <li className="flex items-center gap-2">
+              <span className="text-green-500">✔</span>
+              주민센터
+            </li>
+          </ul>
+          <p className="mt-3 text-xs text-gray-400">
+            품절 시 여러 곳을 확인해보시기 바랍니다.
           </p>
         </div>
 
@@ -142,10 +166,18 @@ export default async function DistrictPage({ params }: PageProps) {
 
         <FaqSection faqs={emptyFaqs} />
 
-        <div className="mt-6 text-center">
+        <div className="mt-6 flex flex-col sm:flex-row items-center justify-center gap-3">
+          {adjacentDistricts.length > 0 && (
+            <Link
+              href={`/${region}/${adjacentDistricts[0].districtSlug}`}
+              className="inline-block rounded-lg bg-blue-600 px-5 py-2.5 text-sm font-medium text-white hover:bg-blue-700"
+            >
+              인근 {adjacentDistricts[0].district} 판매처 보기
+            </Link>
+          )}
           <Link
             href={`/${region}`}
-            className="inline-block rounded-lg bg-blue-600 px-4 py-2 text-sm text-white hover:bg-blue-700"
+            className="inline-block rounded-lg border border-gray-300 bg-white px-5 py-2.5 text-sm font-medium text-gray-700 hover:bg-gray-50"
           >
             {regionInfo.name} 전체 보기
           </Link>
@@ -183,6 +215,22 @@ export default async function DistrictPage({ params }: PageProps) {
         </p>
       </section>
 
+      {/* 데이터 안내 박스 */}
+      <div className="rounded-xl border border-yellow-200 bg-yellow-50 p-4 mb-4">
+        <div className="flex items-start gap-2">
+          <span className="text-yellow-600 text-lg">⚠️</span>
+          <div className="text-sm text-yellow-800">
+            <p className="font-semibold mb-1">
+              일부 지역은 공공데이터 기준으로 정보가 제한될 수 있습니다
+            </p>
+            <p>
+              종량제 봉투는 편의점(CU, GS25, 세븐일레븐), 대형마트, 주민센터에서도
+              구매 가능합니다.
+            </p>
+          </div>
+        </div>
+      </div>
+
       {/* 품절 안내 */}
       <div className="mb-4 rounded-lg border border-amber-200 bg-amber-50 px-4 py-2.5">
         <p className="text-sm text-amber-800">
@@ -192,6 +240,9 @@ export default async function DistrictPage({ params }: PageProps) {
       </div>
 
       <StoreList stores={data.stores} />
+
+      {/* 광고: 리스트 아래 */}
+      <AdSlot slotId="7831623329" className="mt-6" />
 
       {data.totalCount < 3 && adjacentDistricts.length > 0 && (
         <section className="mt-6 rounded-lg border border-yellow-200 bg-yellow-50 p-4">
@@ -306,6 +357,9 @@ export default async function DistrictPage({ params }: PageProps) {
           판매처만 제공
         </p>
       </div>
+
+      {/* 광고: 하단 */}
+      <AdSlot slotId="6518541657" className="mt-8" />
     </>
   );
 }
