@@ -86,23 +86,67 @@ export default function HomePage() {
         <RegionGrid regions={data.regions} />
       </section>
 
-      {/* 최근 이슈 */}
+      {/* 종량제 봉투 이슈 */}
       <section className="mt-10">
         <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-white">
-          최근 종량제 봉투 이슈
+          종량제 봉투, 요즘 왜 이런가요?
         </h2>
-        <Link
-          href="/article/shortage-2026"
-          className="block rounded-xl border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-5 hover:bg-gray-50 dark:hover:bg-zinc-800 transition duration-200"
-        >
-          <p className="font-semibold text-gray-900 dark:text-white">
-            종량제 봉투 대란 이유 총정리 (2026 최신)
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <Link
+            href="/article/shortage-2026"
+            className="rounded-xl border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-5 hover:bg-gray-50 dark:hover:bg-zinc-800 transition duration-200"
+          >
+            <p className="font-semibold text-gray-900 dark:text-white">
+              종량제 봉투 대란 이유 총정리
+            </p>
+            <p className="mt-1 text-sm text-gray-500 dark:text-zinc-400">
+              나프타 수급 불안, 사재기, 물류 지연까지. 원인과 대처법을 정리했습니다.
+            </p>
+          </Link>
+          <Link
+            href="/article/why-no-bags"
+            className="rounded-xl border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-5 hover:bg-gray-50 dark:hover:bg-zinc-800 transition duration-200"
+          >
+            <p className="font-semibold text-gray-900 dark:text-white">
+              종량제 봉투 왜 없을까? 직접 확인해봤습니다
+            </p>
+            <p className="mt-1 text-sm text-gray-500 dark:text-zinc-400">
+              편의점 3곳을 돌아도 없어서 직접 찾아본 후기와 구매 팁을 정리했습니다.
+            </p>
+          </Link>
+        </div>
+      </section>
+
+      {/* 종량제 봉투 가격 */}
+      <section className="mt-10">
+        <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-white">
+          종량제 봉투 가격
+        </h2>
+        <div className="rounded-xl border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-5">
+          <div className="flex gap-6">
+            <div>
+              <span className="text-sm text-gray-500 dark:text-zinc-500">10L</span>
+              <p className="text-lg font-bold text-gray-900 dark:text-white">250원</p>
+            </div>
+            <div>
+              <span className="text-sm text-gray-500 dark:text-zinc-500">20L</span>
+              <p className="text-lg font-bold text-gray-900 dark:text-white">490원</p>
+            </div>
+            <div>
+              <span className="text-sm text-gray-500 dark:text-zinc-500">50L</span>
+              <p className="text-lg font-bold text-gray-900 dark:text-white">1,250원</p>
+            </div>
+          </div>
+          <p className="mt-3 text-xs text-gray-400 dark:text-zinc-500">
+            ※ 가격은 지역에 따라 다를 수 있습니다
           </p>
-          <p className="mt-1 text-sm text-gray-500 dark:text-zinc-400">
-            나프타 수급 불안, 수요 급증, 물류 지연까지. 왜 종량제 봉투를 못
-            구하는지 원인과 대처법을 정리했습니다.
-          </p>
-        </Link>
+          <Link
+            href="/"
+            className="mt-3 inline-block rounded-xl border border-gray-200 dark:border-zinc-700 bg-gray-50 dark:bg-zinc-800 px-4 py-2 text-sm font-medium text-gray-700 dark:text-white hover:bg-gray-100 dark:hover:bg-zinc-700 transition"
+          >
+            지역별 가격 확인하기 →
+          </Link>
+        </div>
       </section>
 
       <FaqSection faqs={faqs} />
