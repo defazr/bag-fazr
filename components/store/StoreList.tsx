@@ -47,7 +47,7 @@ export default function StoreList({ stores }: StoreListProps) {
         value={query}
         onChange={(e) => setQuery(e.target.value)}
         placeholder="이 지역 내 판매처 검색 (예: GS25, 마트)"
-        className="w-full rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-2.5 text-sm text-gray-900 dark:text-zinc-100 placeholder-gray-400 dark:placeholder-zinc-500 outline-none focus:border-zinc-500 dark:focus:border-zinc-600"
+        className="w-full rounded-xl border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-2.5 text-sm text-gray-900 dark:text-zinc-100 placeholder-gray-400 dark:placeholder-zinc-500 outline-none focus:border-zinc-500 dark:focus:border-zinc-600"
       />
 
       {/* 결과 수 */}
@@ -59,7 +59,7 @@ export default function StoreList({ stores }: StoreListProps) {
 
       {/* 리스트 */}
       {visible.length === 0 ? (
-        <div className="rounded-lg border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-8 text-center text-sm text-gray-500 dark:text-zinc-500">
+        <div className="rounded-xl border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 px-4 py-8 text-center text-sm text-gray-500 dark:text-zinc-500">
           검색 결과 없음
         </div>
       ) : (
@@ -72,7 +72,7 @@ export default function StoreList({ stores }: StoreListProps) {
       {hasMore && (
         <button
           onClick={() => setVisibleCount((prev) => prev + 15)}
-          className="w-full rounded-lg bg-gray-100 dark:bg-zinc-800 px-4 py-2.5 text-sm font-medium text-gray-700 dark:text-zinc-300 hover:bg-gray-200 dark:hover:bg-zinc-700 transition duration-200"
+          className="w-full rounded-xl bg-gray-100 dark:bg-zinc-800 px-4 py-2.5 text-sm font-medium text-gray-700 dark:text-zinc-300 hover:bg-gray-200 dark:hover:bg-zinc-700 transition duration-200"
         >
           판매처 더 보기 ({filtered.length - visibleCount}곳 남음)
         </button>
