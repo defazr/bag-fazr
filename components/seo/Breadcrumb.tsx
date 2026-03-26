@@ -7,10 +7,10 @@ interface BreadcrumbItem {
 
 export default function Breadcrumb({ items }: { items: BreadcrumbItem[] }) {
   return (
-    <nav aria-label="breadcrumb" className="mb-4 text-sm text-gray-500">
+    <nav aria-label="breadcrumb" className="mb-4 text-sm text-gray-500 dark:text-gray-400">
       <ol className="flex flex-wrap items-center gap-1">
         <li>
-          <Link href="/" className="hover:text-gray-700">
+          <Link href="/" className="hover:text-gray-700 dark:hover:text-gray-200">
             홈
           </Link>
         </li>
@@ -18,11 +18,11 @@ export default function Breadcrumb({ items }: { items: BreadcrumbItem[] }) {
           <li key={i} className="flex items-center gap-1">
             <span>/</span>
             {item.href ? (
-              <Link href={item.href} className="hover:text-gray-700">
+              <Link href={item.href} className="hover:text-gray-700 dark:hover:text-gray-200">
                 {item.label}
               </Link>
             ) : (
-              <span className="text-gray-900">{item.label}</span>
+              <span className="text-gray-900 dark:text-gray-100">{item.label}</span>
             )}
           </li>
         ))}

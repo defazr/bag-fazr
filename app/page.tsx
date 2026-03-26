@@ -40,13 +40,13 @@ export default function HomePage() {
   return (
     <>
       <section className="mb-8 text-center">
-        <h1 className="text-3xl font-bold text-gray-900">
+        <h1 className="text-3xl font-bold text-gray-900 dark:text-gray-100">
           종량제 봉투 판매처 찾기
         </h1>
-        <p className="mt-2 text-gray-600">
+        <p className="mt-2 text-gray-600 dark:text-gray-400">
           전국 {data.totalCount.toLocaleString()}곳의 판매처 정보를 제공합니다
         </p>
-        <p className="mt-1 text-sm text-gray-400">
+        <p className="mt-1 text-sm text-gray-400 dark:text-gray-500">
           데이터 갱신일: {data.updatedAt}
         </p>
       </section>
@@ -55,7 +55,7 @@ export default function HomePage() {
       <AdSlot slotId="8836749083" className="mb-6" /> */}
 
       <section>
-        <h2 className="mb-4 text-xl font-bold text-gray-900">
+        <h2 className="mb-4 text-xl font-bold text-gray-900 dark:text-gray-100">
           지역별 판매처
         </h2>
         <RegionGrid regions={data.regions} />
@@ -63,17 +63,17 @@ export default function HomePage() {
 
       {/* 최근 이슈 */}
       <section className="mt-10">
-        <h2 className="mb-3 text-lg font-bold text-gray-900">
+        <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-gray-100">
           최근 종량제 봉투 이슈
         </h2>
         <Link
           href="/article/shortage-2026"
-          className="block rounded-lg border border-gray-200 bg-white p-4 hover:border-blue-300 hover:shadow-sm"
+          className="block rounded-lg border border-gray-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 p-4 hover:border-blue-300 hover:shadow-md duration-200"
         >
-          <p className="font-semibold text-gray-900">
+          <p className="font-semibold text-gray-900 dark:text-gray-100">
             종량제 봉투 대란 이유 총정리 (2026 최신)
           </p>
-          <p className="mt-1 text-sm text-gray-500">
+          <p className="mt-1 text-sm text-gray-500 dark:text-gray-400">
             나프타 수급 불안, 수요 급증, 물류 지연까지. 왜 종량제 봉투를 못
             구하는지 원인과 대처법을 정리했습니다.
           </p>

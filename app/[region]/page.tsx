@@ -56,10 +56,10 @@ export default async function RegionPage({ params }: PageProps) {
       <Breadcrumb items={[{ label: regionInfo.name }]} />
 
       <section className="mb-8">
-        <h1 className="text-2xl font-bold text-gray-900">
+        <h1 className="text-2xl font-bold text-gray-900 dark:text-gray-100">
           {regionInfo.name} 종량제 봉투 판매처
         </h1>
-        <p className="mt-1 text-gray-600">
+        <p className="mt-1 text-gray-600 dark:text-gray-400">
           총 {data.totalCount.toLocaleString()}곳 · 데이터 갱신일:{" "}
           {data.updatedAt}
         </p>
@@ -69,7 +69,7 @@ export default async function RegionPage({ params }: PageProps) {
       <AdSlot slotId="8836749083" className="mb-6" /> */}
 
       <section>
-        <h2 className="mb-4 text-lg font-bold text-gray-900">
+        <h2 className="mb-4 text-lg font-bold text-gray-900 dark:text-gray-100">
           {regionInfo.name} 지역별 판매처
         </h2>
         <DistrictGrid regionSlug={region} districts={data.districts} />
@@ -78,7 +78,7 @@ export default async function RegionPage({ params }: PageProps) {
       <FaqSection faqs={faqs} />
 
       <section className="mt-10">
-        <h2 className="mb-3 text-lg font-bold text-gray-900">
+        <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-gray-100">
           다른 지역 판매처
         </h2>
         <div className="flex flex-wrap gap-2">
@@ -86,7 +86,7 @@ export default async function RegionPage({ params }: PageProps) {
             <a
               key={r.slug}
               href={`/${r.slug}`}
-              className="rounded-full border border-gray-200 px-3 py-1 text-sm text-gray-600 hover:border-blue-300 hover:text-blue-600"
+              className="rounded-full border border-gray-200 dark:border-zinc-700 px-3 py-1 text-sm text-gray-600 dark:text-gray-400 hover:border-blue-300 hover:text-blue-600"
             >
               {r.name}
             </a>

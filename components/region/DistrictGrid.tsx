@@ -16,10 +16,10 @@ export default function DistrictGrid({
         <Link
           key={d.districtSlug}
           href={`/${regionSlug}/${d.districtSlug}`}
-          className="flex flex-col items-center rounded-lg border border-gray-200 bg-white p-4 text-center transition hover:border-blue-300 hover:shadow-sm"
+          className="flex flex-col items-center rounded-lg border border-gray-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 p-4 text-center transition hover:border-blue-300 hover:shadow-md duration-200"
         >
-          <span className="font-medium text-gray-900">{d.district}</span>
-          <span className="mt-1 text-sm text-gray-500">
+          <span className="font-medium text-gray-900 dark:text-gray-100">{d.district}</span>
+          <span className="mt-1 text-sm text-gray-500 dark:text-gray-400">
             {d.count > 0 ? `${d.count}곳` : "준비중"}
           </span>
         </Link>

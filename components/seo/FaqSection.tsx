@@ -9,17 +9,17 @@ export default function FaqSection({ faqs }: FaqSectionProps) {
 
   return (
     <section className="mt-10">
-      <h2 className="text-xl font-bold text-gray-900 mb-4">자주 묻는 질문</h2>
+      <h2 className="text-xl font-bold text-gray-900 dark:text-gray-100 mb-4">자주 묻는 질문</h2>
       <div className="space-y-4">
         {faqs.map((faq, i) => (
           <details
             key={i}
-            className="rounded-lg border border-gray-200 bg-white"
+            className="rounded-lg border border-gray-200 dark:border-zinc-700 bg-white dark:bg-zinc-800"
           >
-            <summary className="cursor-pointer px-4 py-3 font-medium text-gray-900 hover:bg-gray-50">
+            <summary className="cursor-pointer px-4 py-3 font-medium text-gray-900 dark:text-gray-100 hover:bg-gray-50 dark:hover:bg-zinc-700">
               {faq.question}
             </summary>
-            <p className="px-4 pb-3 text-gray-600">{faq.answer}</p>
+            <p className="px-4 pb-3 text-gray-600 dark:text-gray-400">{faq.answer}</p>
           </details>
         ))}
       </div>
