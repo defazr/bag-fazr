@@ -1,8 +1,8 @@
 {
   "region": "경상남도",
   "regionSlug": "gyeongnam",
-  "updatedAt": "2026-03-26",
-  "totalCount": 4768,
+  "updatedAt": "2026-03-27",
+  "totalCount": 4755,
   "districts": [
     {
       "district": "창녕군",
@@ -17,17 +17,17 @@
     {
       "district": "거창군",
       "districtSlug": "geochang",
-      "count": 188
+      "count": 187
     },
     {
       "district": "거제시",
       "districtSlug": "geoje",
-      "count": 543
+      "count": 540
     },
     {
       "district": "김해시",
       "districtSlug": "gimhae",
-      "count": 1401
+      "count": 1397
     },
     {
       "district": "고성군",
@@ -57,7 +57,7 @@
     {
       "district": "진주시",
       "districtSlug": "jinju",
-      "count": 567
+      "count": 563
     },
     {
       "district": "밀양시",
@@ -92,7 +92,7 @@
     {
       "district": "양산시",
       "districtSlug": "yangsan",
-      "count": 787
+      "count": 786
     }
   ]
 }

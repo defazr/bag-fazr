@@ -3,8 +3,8 @@
   "regionSlug": "gyeongnam",
   "district": "진주시",
   "districtSlug": "jinju",
-  "updatedAt": "2026-03-26",
-  "totalCount": 567,
+  "updatedAt": "2026-03-27",
+  "totalCount": 563,
   "stores": [
     {
       "name": "시장할인마트",
@@ -987,13 +987,6 @@
       "licenseDate": "2003-01-24"
     },
     {
-      "name": "홈마트망경점",
-      "address": "경상남도 진주시 망경동 34-3",
-      "roadAddress": "경상남도 진주시 망경로 279  (망경동)",
-      "status": "영업/정상",
-      "licenseDate": "2003-08-21"
-    },
-    {
       "name": "한누리유통참마트 한주점",
       "address": "경상남도 진주시 상봉동 1098-26",
       "roadAddress": "",
@@ -1470,13 +1463,6 @@
       "licenseDate": "2003-12-19"
     },
     {
-      "name": "호탄할인마트",
-      "address": "경상남도 진주시 호탄동 636-5",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "삼전슈퍼",
       "address": "경상남도 진주시 봉래동 38-143",
       "roadAddress": "",
@@ -1944,13 +1930,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2004-08-25"
-    },
-    {
-      "name": "화진할인마트",
-      "address": "경상남도 진주시 문산읍 삼곡리 1350-3",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2004-08-30"
     },
     {
       "name": "임마누예",
@@ -2665,13 +2644,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2006-01-19"
-    },
-    {
-      "name": "태화상회",
-      "address": "경상남도 진주시 인사동 10-11",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2006-01-20"
     },
     {
       "name": "유일할인마트",

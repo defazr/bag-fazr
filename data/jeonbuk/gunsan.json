@@ -3,8 +3,8 @@
   "regionSlug": "jeonbuk",
   "district": "군산시",
   "districtSlug": "gunsan",
-  "updatedAt": "2026-03-26",
-  "totalCount": 666,
+  "updatedAt": "2026-03-27",
+  "totalCount": 662,
   "stores": [
     {
       "name": "장인영쇠 철물",
@@ -1090,13 +1090,6 @@
       "roadAddress": "전북특별자치도 군산시 대학로 539 (미룡동)",
       "status": "영업/정상",
       "licenseDate": "2013-11-29"
-    },
-    {
-      "name": "24시웅마트",
-      "address": "",
-      "roadAddress": "전북특별자치도 군산시 미원로 125 (중앙로3가)",
-      "status": "영업/정상",
-      "licenseDate": "2013-12-12"
     },
     {
       "name": "시장식자재마트",
@@ -2989,13 +2982,6 @@
       "licenseDate": "2012-02-03"
     },
     {
-      "name": "연일슈퍼",
-      "address": "전북특별자치도 군산시 경암동 652-6",
-      "roadAddress": "전북특별자치도 군산시 경암1길 114  (경암동)",
-      "status": "영업/정상",
-      "licenseDate": "2012-02-03"
-    },
-    {
       "name": "대야홈마트",
       "address": "",
       "roadAddress": "전북특별자치도 군산시 대야면 번영로 889",
@@ -3969,13 +3955,6 @@
       "licenseDate": "2012-09-03"
     },
     {
-      "name": "대박마트",
-      "address": "",
-      "roadAddress": "전북특별자치도 군산시 삼화3길 3 (문화동)",
-      "status": "영업/정상",
-      "licenseDate": "2012-09-03"
-    },
-    {
       "name": "GS군산시티점",
       "address": "",
       "roadAddress": "전북특별자치도 군산시 나운안1길 19 (나운동)",
@@ -4434,13 +4413,6 @@
       "name": "웅마트",
       "address": "",
       "roadAddress": "전북특별자치도 군산시 미원로 125 (중앙로3가)",
-      "status": "영업/정상",
-      "licenseDate": "2013-01-28"
-    },
-    {
-      "name": "동네슈퍼",
-      "address": "전북특별자치도 군산시 문화동 1-11",
-      "roadAddress": "전북특별자치도 군산시 삼화1길 30 (문화동)",
       "status": "영업/정상",
       "licenseDate": "2013-01-28"
     },

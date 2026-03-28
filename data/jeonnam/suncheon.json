@@ -3,8 +3,8 @@
   "regionSlug": "jeonnam",
   "district": "순천시",
   "districtSlug": "suncheon",
-  "updatedAt": "2026-03-26",
-  "totalCount": 456,
+  "updatedAt": "2026-03-27",
+  "totalCount": 455,
   "stores": [
     {
       "name": "광주지방법원 순천지원",
@@ -2168,13 +2168,6 @@
       "roadAddress": "전라남도 순천시 옥천길 207  (옥천동)",
       "status": "영업/정상",
       "licenseDate": "2007-04-27"
-    },
-    {
-      "name": "민경슈퍼",
-      "address": "전라남도 순천시 연향동 1364-21",
-      "roadAddress": "전라남도 순천시 연향번영4길 28  (연향동)",
-      "status": "영업/정상",
-      "licenseDate": "2008-08-25"
     },
     {
       "name": "테스트",

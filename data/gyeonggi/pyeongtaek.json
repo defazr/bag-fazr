@@ -3,8 +3,8 @@
   "regionSlug": "gyeonggi",
   "district": "평택시",
   "districtSlug": "pyeongtaek",
-  "updatedAt": "2026-03-26",
-  "totalCount": 1151,
+  "updatedAt": "2026-03-27",
+  "totalCount": 1141,
   "stores": [
     {
       "name": "세븐일레븐 동탄부영점",
@@ -147,13 +147,6 @@
       "licenseDate": ""
     },
     {
-      "name": "그린슈퍼",
-      "address": "경기도 평택시 서정동 62-8",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "대옥연쇄점",
       "address": "경기도 평택시 서정동 85-8",
       "roadAddress": "",
@@ -184,13 +177,6 @@
     {
       "name": "덕성상회",
       "address": "경기도 평택시 서정동 557-21",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "대호슈퍼",
-      "address": "경기도 평택시 서정동 590-136",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -3619,13 +3605,6 @@
       "licenseDate": "2003-08-02"
     },
     {
-      "name": "건영마트",
-      "address": "경기도 평택시 서정동 596-210",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "서정마트",
       "address": "경기도 평택시 서정동 313-14",
       "roadAddress": "",
@@ -5215,13 +5194,6 @@
       "licenseDate": ""
     },
     {
-      "name": "덕산마트",
-      "address": "경기도 평택시 지산동 763-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2004-11-19"
-    },
-    {
       "name": "(주)포탈하이웨이",
       "address": "경기도 평택시 이충동 518-3",
       "roadAddress": "",
@@ -6139,13 +6111,6 @@
       "licenseDate": ""
     },
     {
-      "name": "길슈퍼",
-      "address": "경기도 평택시 평택동 23-14",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "서림슈퍼",
       "address": "경기도 평택시 합정동 733-12",
       "roadAddress": "경기도 평택시 중앙2로 41  (합정동)",
@@ -6403,13 +6368,6 @@
       "roadAddress": "경기도 평택시 서정로 232  (서정동)",
       "status": "영업/정상",
       "licenseDate": "2005-09-30"
-    },
-    {
-      "name": "훼미리마트 평택숙성점",
-      "address": "경기도 평택시 오성면 숙성리 134-16",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2005-09-27"
     },
     {
       "name": "코니나밸리(안중)",
@@ -6783,13 +6741,6 @@
       "licenseDate": "2006-05-04"
     },
     {
-      "name": "목원슈퍼",
-      "address": "경기도 평택시 신대동 528-8",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "주공웰마트",
       "address": "경기도 평택시 이충동 택지개발지구1 단지내상가 103호",
       "roadAddress": "",
@@ -7138,13 +7089,6 @@
       "roadAddress": "경기도 평택시 포승읍 서동대로 1297-19  ((1층) 청정)",
       "status": "영업/정상",
       "licenseDate": "2006-11-14"
-    },
-    {
-      "name": "솔드아웃",
-      "address": "경기도 평택시 포승읍 도곡리 1139-1",
-      "roadAddress": "경기도 평택시 포승읍 여술4길 18-22",
-      "status": "영업/정상",
-      "licenseDate": "2006-11-16"
     },
     {
       "name": "월드푸드",
@@ -7700,13 +7644,6 @@
       "licenseDate": ""
     },
     {
-      "name": "서림슈퍼",
-      "address": "경기도 평택시 합정동 733-12",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "한국마트",
       "address": "경기도 평택시 합정동",
       "roadAddress": "",
@@ -7796,13 +7733,6 @@
       "roadAddress": "경기도 평택시 안중읍 안중믿음길 50-6",
       "status": "영업/정상",
       "licenseDate": "2005-05-23"
-    },
-    {
-      "name": "뉴엘마트",
-      "address": "경기도 평택시 안중읍 안중리 297-11",
-      "roadAddress": "경기도 평택시 안중읍 안현로 429",
-      "status": "영업/정상",
-      "licenseDate": "2005-05-30"
     },
     {
       "name": "소정슈퍼",

@@ -3,8 +3,8 @@
   "regionSlug": "chungnam",
   "district": "금산군",
   "districtSlug": "geumsan",
-  "updatedAt": "2026-03-26",
-  "totalCount": 516,
+  "updatedAt": "2026-03-27",
+  "totalCount": 515,
   "stores": [
     {
       "name": "씨유 금산용수목점",
@@ -1368,13 +1368,6 @@
       "name": "이장댁",
       "address": "충청남도 금산군 군북면 동편리",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "이장댁",
-      "address": "충청남도 금산군 군북면 동편리",
-      "roadAddress": "충청남도 금산군 군북면 퉁점길 66-3",
       "status": "영업/정상",
       "licenseDate": ""
     },

@@ -3,8 +3,8 @@
   "regionSlug": "seoul",
   "district": "종로구",
   "districtSlug": "jongno",
-  "updatedAt": "2026-03-26",
-  "totalCount": 633,
+  "updatedAt": "2026-03-27",
+  "totalCount": 632,
   "stores": [
     {
       "name": "성원마트",
@@ -4100,13 +4100,6 @@
       "roadAddress": "서울특별시 종로구 무교로 37, 1층 (서린동)",
       "status": "영업/정상",
       "licenseDate": "2023-06-23"
-    },
-    {
-      "name": "지에스(GS)25 숭인필점",
-      "address": "서울특별시 종로구 숭인동 81-15 필빌딩",
-      "roadAddress": "서울특별시 종로구 지봉로 50, 필빌딩 101호 (숭인동)",
-      "status": "영업/정상",
-      "licenseDate": "2023-07-05"
     },
     {
       "name": "지에스25 창덕궁길점",

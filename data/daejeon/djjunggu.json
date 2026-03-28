@@ -3,8 +3,8 @@
   "regionSlug": "daejeon",
   "district": "중구",
   "districtSlug": "djjunggu",
-  "updatedAt": "2026-03-26",
-  "totalCount": 1324,
+  "updatedAt": "2026-03-27",
+  "totalCount": 1310,
   "stores": [
     {
       "name": "하림슈퍼",
@@ -2075,13 +2075,6 @@
       "name": "아름슈퍼",
       "address": "대전광역시 중구 대사동 247-181",
       "roadAddress": "대전광역시 중구 솔밭로 32  (대사동)",
-      "status": "영업/정상",
-      "licenseDate": "1995-10-01"
-    },
-    {
-      "name": "현대슈퍼",
-      "address": "대전광역시 중구 대사동 104-5",
-      "roadAddress": "대전광역시 중구 보문로162번길 17  (대사동)",
       "status": "영업/정상",
       "licenseDate": "1995-10-01"
     },
@@ -4942,13 +4935,6 @@
       "licenseDate": "2005-07-22"
     },
     {
-      "name": "원마트",
-      "address": "대전광역시 중구 용두동 126-4",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2005-07-28"
-    },
-    {
       "name": "쌍용물산",
       "address": "대전광역시 중구 문화동 27-18",
       "roadAddress": "",
@@ -6342,13 +6328,6 @@
       "licenseDate": "1994-12-02"
     },
     {
-      "name": "새한슈퍼",
-      "address": "대전광역시 중구 문화동 311-48",
-      "roadAddress": "대전광역시 중구 서문로 109-1  (문화동)",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-02"
-    },
-    {
       "name": "한밭쌀상회",
       "address": "대전광역시 중구 문화동 331-12",
       "roadAddress": "",
@@ -7259,13 +7238,6 @@
       "licenseDate": ""
     },
     {
-      "name": "한마당슈퍼",
-      "address": "대전광역시 중구 은행동 3-7",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "목동시장슈퍼",
       "address": "대전광역시 중구 목동 33-30   1층",
       "roadAddress": "",
@@ -7966,13 +7938,6 @@
       "licenseDate": ""
     },
     {
-      "name": "삼부스토아",
-      "address": "대전광역시 중구 태평동 417-14",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "훼미리마트 태평오거리점",
       "address": "대전광역시 중구 태평동 379-3",
       "roadAddress": "",
@@ -8216,13 +8181,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1998-12-14"
-    },
-    {
-      "name": "하나슈퍼",
-      "address": "대전광역시 중구 오류동 178-8",
-      "roadAddress": "대전광역시 중구 계룡로830번길 46  (오류동)",
-      "status": "영업/정상",
-      "licenseDate": "1998-09-04"
     },
     {
       "name": "애니원편의점",
@@ -8778,20 +8736,6 @@
       "licenseDate": "2002-12-03"
     },
     {
-      "name": "동진기업",
-      "address": "대전광역시 중구 문창동 110-3",
-      "roadAddress": "대전광역시 중구 문창로50번길 36 (문창동)",
-      "status": "영업/정상",
-      "licenseDate": "2002-11-09"
-    },
-    {
-      "name": "A마트",
-      "address": "대전광역시 중구 부사동 155-7",
-      "roadAddress": "대전광역시 중구 대종로295번길 15 (부사동)",
-      "status": "영업/정상",
-      "licenseDate": "2002-08-13"
-    },
-    {
       "name": "세븐일레븐대전용두점",
       "address": "대전광역시 중구 용두동 112-10",
       "roadAddress": "대전광역시 중구 계룡로 815 (용두동)",
@@ -8804,13 +8748,6 @@
       "roadAddress": "대전광역시 중구 보문산공원로497번길 4 (대사동)",
       "status": "영업/정상",
       "licenseDate": "2002-04-09"
-    },
-    {
-      "name": "SK글로벌(주)대전주유소",
-      "address": "대전광역시 중구 대흥동 522-1",
-      "roadAddress": "대전광역시 중구 중앙로 64  (대흥동)",
-      "status": "영업/정상",
-      "licenseDate": "2002-08-12"
     },
     {
       "name": "굿데이25",
@@ -8923,13 +8860,6 @@
       "roadAddress": "대전광역시 중구 보문로 35  (문창동)",
       "status": "영업/정상",
       "licenseDate": "2007-10-02"
-    },
-    {
-      "name": "한아름슈퍼",
-      "address": "대전광역시 중구 중촌동 100-1",
-      "roadAddress": "대전광역시 중구 중촌로 28 (중촌동)",
-      "status": "영업/정상",
-      "licenseDate": "2007-05-18"
     },
     {
       "name": "대도상사",
@@ -9100,13 +9030,6 @@
       "licenseDate": "2007-09-19"
     },
     {
-      "name": "개미슈퍼",
-      "address": "대전광역시 중구 유천동 270-6",
-      "roadAddress": "대전광역시 중구 유천로 7 (유천동)",
-      "status": "영업/정상",
-      "licenseDate": "2007-09-28"
-    },
-    {
       "name": "부사할인마트",
       "address": "대전광역시 중구 부사동 288-3",
       "roadAddress": "대전광역시 중구 부용로 9 (부사동)",
@@ -9154,13 +9077,6 @@
       "roadAddress": "대전광역시 중구 문화로 50-1 (산성동)",
       "status": "영업/정상",
       "licenseDate": "2007-10-05"
-    },
-    {
-      "name": "장수슈퍼",
-      "address": "대전광역시 중구 문창동 10-3",
-      "roadAddress": "대전광역시 중구 인창로 36 (문창동)",
-      "status": "영업/정상",
-      "licenseDate": "2007-10-11"
     },
     {
       "name": "GS25 대전안영점",
@@ -9212,13 +9128,6 @@
       "licenseDate": "2007-12-24"
     },
     {
-      "name": "서울마트",
-      "address": "대전광역시 중구 유천동 181-8",
-      "roadAddress": "대전광역시 중구 유천로48번길 17  (유천동)",
-      "status": "영업/정상",
-      "licenseDate": "2007-12-28"
-    },
-    {
       "name": "성심슈퍼퍼",
       "address": "대전광역시 중구 오류동 178-7",
       "roadAddress": "대전광역시 중구 계룡로830번길 44  (오류동)",
@@ -9245,13 +9154,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2002-09-06"
-    },
-    {
-      "name": "왁시",
-      "address": "대전광역시 중구 용두동 56-52",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2012-03-20"
     },
     {
       "name": "씨유 계룡 양정삼거리점",

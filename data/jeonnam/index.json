@@ -1,18 +1,18 @@
 {
   "region": "전라남도",
   "regionSlug": "jeonnam",
-  "updatedAt": "2026-03-26",
-  "totalCount": 6752,
+  "updatedAt": "2026-03-27",
+  "totalCount": 6736,
   "districts": [
     {
       "district": "보성군",
       "districtSlug": "boseong",
-      "count": 358
+      "count": 357
     },
     {
       "district": "담양군",
       "districtSlug": "damyang",
-      "count": 297
+      "count": 296
     },
     {
       "district": "강진군",
@@ -37,12 +37,12 @@
     {
       "district": "광양시",
       "districtSlug": "gwangyang",
-      "count": 294
+      "count": 293
     },
     {
       "district": "해남군",
       "districtSlug": "haenam",
-      "count": 284
+      "count": 282
     },
     {
       "district": "함평군",
@@ -67,7 +67,7 @@
     {
       "district": "진도군",
       "districtSlug": "jindo",
-      "count": 385
+      "count": 384
     },
     {
       "district": "목포시",
@@ -92,7 +92,7 @@
     {
       "district": "순천시",
       "districtSlug": "suncheon",
-      "count": 456
+      "count": 455
     },
     {
       "district": "완도군",
@@ -112,7 +112,7 @@
     {
       "district": "여수시",
       "districtSlug": "yeosu",
-      "count": 1099
+      "count": 1090
     }
   ]
 }

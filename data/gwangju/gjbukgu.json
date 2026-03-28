@@ -3,8 +3,8 @@
   "regionSlug": "gwangju",
   "district": "북구",
   "districtSlug": "gjbukgu",
-  "updatedAt": "2026-03-26",
-  "totalCount": 666,
+  "updatedAt": "2026-03-27",
+  "totalCount": 665,
   "stores": [
     {
       "name": "열린마트",
@@ -978,13 +978,6 @@
       "roadAddress": "광주광역시 북구 무등로153번길 9  (신안동)",
       "status": "영업/정상",
       "licenseDate": "2008-12-29"
-    },
-    {
-      "name": "한빛종합상사",
-      "address": "광주광역시 북구 문흥동 978-1",
-      "roadAddress": "광주광역시 북구 부남길 34-2  (문흥동)",
-      "status": "영업/정상",
-      "licenseDate": "2007-03-02"
     },
     {
       "name": "창조교육사",

@@ -3,8 +3,8 @@
   "regionSlug": "gyeongbuk",
   "district": "영주시",
   "districtSlug": "yeongju",
-  "updatedAt": "2026-03-26",
-  "totalCount": 299,
+  "updatedAt": "2026-03-27",
+  "totalCount": 298,
   "stores": [
     {
       "name": "스마일마트",
@@ -12,6 +12,13 @@
       "roadAddress": "경상북도 영주시 대학로188번길 1 (가흥동)",
       "status": "영업/정상",
       "licenseDate": "2026-02-19"
+    },
+    {
+      "name": "영주시니어클럽(은빛상회)",
+      "address": "경상북도 영주시 가흥동 1453-23",
+      "roadAddress": "경상북도 영주시 지천로 177 (가흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2026-03-24"
     },
     {
       "name": "코사마트 민정점",
@@ -518,13 +525,6 @@
       "licenseDate": "2023-08-16"
     },
     {
-      "name": "씨유 영주가흥공원점",
-      "address": "경상북도 영주시 가흥동 1904-1",
-      "roadAddress": "경상북도 영주시 대학로163번길 22-15 (가흥동)",
-      "status": "영업/정상",
-      "licenseDate": "2023-08-21"
-    },
-    {
       "name": "㈜ 코리아 세븐 영주행복점",
       "address": "경상북도 영주시 가흥동 1964-12",
       "roadAddress": "경상북도 영주시 대학로164번길 17, 1층 (가흥동)",
@@ -878,13 +878,6 @@
       "name": "4주공웰빙마트",
       "address": "경상북도 영주시 가흥동 2046",
       "roadAddress": "경상북도 영주시 가흥로 345-27, 101호 (가흥동, 가흥주공상가)",
-      "status": "영업/정상",
-      "licenseDate": "2016-09-08"
-    },
-    {
-      "name": "영주시니어클럽(은빛유통)",
-      "address": "경상북도 영주시 가흥동 1453-23",
-      "roadAddress": "경상북도 영주시 지천로 177 (가흥동)",
       "status": "영업/정상",
       "licenseDate": "2016-09-08"
     },

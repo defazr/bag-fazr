@@ -3,8 +3,8 @@
   "regionSlug": "seoul",
   "district": "동대문구",
   "districtSlug": "dongdaemun",
-  "updatedAt": "2026-03-26",
-  "totalCount": 817,
+  "updatedAt": "2026-03-27",
+  "totalCount": 813,
   "stores": [
     {
       "name": "한림사",
@@ -3682,13 +3682,6 @@
       "licenseDate": "2016-12-26"
     },
     {
-      "name": "태양마트",
-      "address": "서울특별시 동대문구 청량리동 445-44",
-      "roadAddress": "서울특별시 동대문구 제기로28길 9 (청량리동)",
-      "status": "영업/정상",
-      "licenseDate": "2016-12-28"
-    },
-    {
       "name": "CU 회기힐스테이트점",
       "address": "서울특별시 동대문구 회기동 351",
       "roadAddress": "서울특별시 동대문구 회기로26길 15 (회기동, 회기힐스테이트)",
@@ -4352,13 +4345,6 @@
       "roadAddress": "서울특별시 동대문구 한천로 250 (휘경동)",
       "status": "영업/정상",
       "licenseDate": "2014-01-15"
-    },
-    {
-      "name": "CU 경희스타점",
-      "address": "서울특별시 동대문구 회기동 42-141",
-      "roadAddress": "서울특별시 동대문구 경희대로3길 38 (회기동)",
-      "status": "영업/정상",
-      "licenseDate": "2014-01-28"
     },
     {
       "name": "CU 촬영소사거리점",
@@ -5026,13 +5012,6 @@
       "licenseDate": "2023-03-20"
     },
     {
-      "name": "세븐일레븐 경희대기숙사점",
-      "address": "서울특별시 동대문구 이문동 346-5",
-      "roadAddress": "서울특별시 동대문구 이문로9길 46, 1층 (이문동)",
-      "status": "영업/정상",
-      "licenseDate": "2023-03-24"
-    },
-    {
       "name": "씨유(CU) 동대문도서관점",
       "address": "서울특별시 동대문구 신설동 104-30",
       "roadAddress": "서울특별시 동대문구 천호대로2길 23-17 (신설동)",
@@ -5297,13 +5276,6 @@
       "roadAddress": "서울특별시 동대문구 천호대로 377, 근린생활시설 건물1층 (장안동)",
       "status": "영업/정상",
       "licenseDate": "2023-12-07"
-    },
-    {
-      "name": "GS25 장한평역점",
-      "address": "서울특별시 동대문구 장안동 433-7",
-      "roadAddress": "서울특별시 동대문구 장한로 10 (장안동)",
-      "status": "영업/정상",
-      "licenseDate": "2014-12-24"
     },
     {
       "name": "세븐일레븐 고대용두점",

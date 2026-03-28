@@ -3,8 +3,8 @@
   "regionSlug": "jeonnam",
   "district": "광양시",
   "districtSlug": "gwangyang",
-  "updatedAt": "2026-03-26",
-  "totalCount": 294,
+  "updatedAt": "2026-03-27",
+  "totalCount": 293,
   "stores": [
     {
       "name": "모아마트",
@@ -1671,13 +1671,6 @@
       "roadAddress": "전라남도 광양시 중마용소6길 3-9, 401호(중동)",
       "status": "영업/정상",
       "licenseDate": "2000-11-11"
-    },
-    {
-      "name": "화니스파",
-      "address": "전라남도 광양시 중동 1419-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
     },
     {
       "name": "미니스톱광양중동점",

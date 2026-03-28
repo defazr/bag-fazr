@@ -3,8 +3,8 @@
   "regionSlug": "daegu",
   "district": "수성구",
   "districtSlug": "suseong",
-  "updatedAt": "2026-03-26",
-  "totalCount": 474,
+  "updatedAt": "2026-03-27",
+  "totalCount": 471,
   "stores": [
     {
       "name": "(주)이마트 만촌점",
@@ -1477,13 +1477,6 @@
       "licenseDate": "2001-11-16"
     },
     {
-      "name": "다모아슈퍼",
-      "address": "대구광역시 수성구 지산동 981-4",
-      "roadAddress": "대구광역시 수성구 청수로38길 65  (지산동)",
-      "status": "영업/정상",
-      "licenseDate": "2001-11-24"
-    },
-    {
       "name": "효성할인마트",
       "address": "대구광역시 수성구 수성동1가 425-8",
       "roadAddress": "대구광역시 수성구 수성로 287  (수성동1가)",
@@ -2296,13 +2289,6 @@
       "licenseDate": "2002-10-18"
     },
     {
-      "name": "푸른할인마트",
-      "address": "대구광역시 수성구 수성동4가 1229-10",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2002-10-19"
-    },
-    {
       "name": "LG25 수성시지범",
       "address": "대구광역시 수성구 신매동 567-4",
       "roadAddress": "",
@@ -2441,13 +2427,6 @@
       "roadAddress": "대구광역시 수성구 청호로96안길 1  (만촌동)",
       "status": "영업/정상",
       "licenseDate": "2002-12-21"
-    },
-    {
-      "name": "창신할인마트",
-      "address": "대구광역시 수성구 두산동 49-3",
-      "roadAddress": "대구광역시 수성구 들안로18길 42  (두산동)",
-      "status": "영업/정상",
-      "licenseDate": "2002-12-24"
     },
     {
       "name": "대도슈퍼",

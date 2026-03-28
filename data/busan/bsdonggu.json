@@ -3,8 +3,8 @@
   "regionSlug": "busan",
   "district": "동구",
   "districtSlug": "bsdonggu",
-  "updatedAt": "2026-03-26",
-  "totalCount": 612,
+  "updatedAt": "2026-03-27",
+  "totalCount": 597,
   "stores": [
     {
       "name": "일광상회",
@@ -1827,83 +1827,6 @@
       "licenseDate": "2001-01-02"
     },
     {
-      "name": "럭키슈퍼",
-      "address": "부산광역시 동구 초량동 853-38",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-01-02"
-    },
-    {
-      "name": "서원유통초량슈퍼",
-      "address": "부산광역시 동구 초량동 974-18",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-01-02"
-    },
-    {
-      "name": "동일슈퍼",
-      "address": "부산광역시 동구 초량동 865-31",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-01-02"
-    },
-    {
-      "name": "초량봉투상회",
-      "address": "부산광역시 동구 초량동 937-23",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-01-02"
-    },
-    {
-      "name": "현대슈퍼",
-      "address": "부산광역시 동구 초량동 968-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-01-02"
-    },
-    {
-      "name": "충남슈퍼",
-      "address": "부산광역시 동구 초량동 906-125",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-01-02"
-    },
-    {
-      "name": "새들슈퍼",
-      "address": "부산광역시 동구 초량동 394-6",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-01-02"
-    },
-    {
-      "name": "축협우유직판장",
-      "address": "부산광역시 동구 초량동 931-19",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-01-02"
-    },
-    {
-      "name": "(주)보광훼미리마트",
-      "address": "부산광역시 동구 초량동 1207-21",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-01-02"
-    },
-    {
-      "name": "JOY스토아",
-      "address": "부산광역시 동구 초량동 423-16",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-01-02"
-    },
-    {
-      "name": "훼미리마트초량그린점",
-      "address": "부산광역시 동구 초량동 377-3",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-01-02"
-    },
-    {
       "name": "D.C만봉",
       "address": "부산광역시 동구 초량동 232-1",
       "roadAddress": "",
@@ -2130,20 +2053,6 @@
     {
       "name": "담배가게",
       "address": "부산광역시 동구 초량동 781-1 1  통1  반",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-01-02"
-    },
-    {
-      "name": "알짜마트",
-      "address": "부산광역시 동구 초량동 754-1203 11 통1  반",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-01-02"
-    },
-    {
-      "name": "보성슈퍼",
-      "address": "부산광역시 동구 초량동 754-1206 11 통1  반",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2001-01-02"
@@ -2424,13 +2333,6 @@
     {
       "name": "대림상회",
       "address": "부산광역시 동구 수정동 79 14 통4  반",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2001-01-02"
-    },
-    {
-      "name": "우리슈퍼",
-      "address": "부산광역시 동구 수정동 631-26",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2001-01-02"
@@ -4079,13 +3981,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2002-11-13"
-    },
-    {
-      "name": "한성슈퍼",
-      "address": "부산광역시 동구 초량동 1213-7",
-      "roadAddress": "부산광역시 동구 중앙대로180번길 12-9  (초량동)",
-      "status": "영업/정상",
-      "licenseDate": "2009-07-01"
     },
     {
       "name": "선양",

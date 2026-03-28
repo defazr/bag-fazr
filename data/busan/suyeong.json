@@ -3,8 +3,8 @@
   "regionSlug": "busan",
   "district": "수영구",
   "districtSlug": "suyeong",
-  "updatedAt": "2026-03-26",
-  "totalCount": 492,
+  "updatedAt": "2026-03-27",
+  "totalCount": 489,
   "stores": [
     {
       "name": "퀸마트",
@@ -1018,13 +1018,6 @@
       "name": "파워24시",
       "address": "부산광역시 수영구 광안동 1077-23",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2007-10-24"
-    },
-    {
-      "name": "탑세일마트",
-      "address": "부산광역시 수영구 광안동 738-4",
-      "roadAddress": "부산광역시 수영구 장대골로 20-8  (광안동)",
       "status": "영업/정상",
       "licenseDate": "2007-10-24"
     },
@@ -2492,13 +2485,6 @@
       "licenseDate": ""
     },
     {
-      "name": "동방슈퍼",
-      "address": "부산광역시 수영구 민락동 156-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "동성상회",
       "address": "부산광역시 수영구 광안동 174-1",
       "roadAddress": "",
@@ -2564,13 +2550,6 @@
     {
       "name": "빅세일마트",
       "address": "부산광역시 수영구 남천동 77-17",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "GS25 광안비치점",
-      "address": "부산광역시 수영구 광안동 196-1",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""

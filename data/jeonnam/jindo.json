@@ -3,8 +3,8 @@
   "regionSlug": "jeonnam",
   "district": "진도군",
   "districtSlug": "jindo",
-  "updatedAt": "2026-03-26",
-  "totalCount": 385,
+  "updatedAt": "2026-03-27",
+  "totalCount": 384,
   "stores": [
     {
       "name": "독치부인회",
@@ -1949,13 +1949,6 @@
       "name": "분토상점",
       "address": "전라남도 진도군 군내면 분토리 988",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-03"
-    },
-    {
-      "name": "분토상점",
-      "address": "전라남도 진도군 군내면 분토리 988",
-      "roadAddress": "전라남도 진도군 군내면 분토길 28",
       "status": "영업/정상",
       "licenseDate": "1994-12-03"
     },

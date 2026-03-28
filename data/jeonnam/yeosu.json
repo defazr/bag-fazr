@@ -3,8 +3,8 @@
   "regionSlug": "jeonnam",
   "district": "여수시",
   "districtSlug": "yeosu",
-  "updatedAt": "2026-03-26",
-  "totalCount": 1099,
+  "updatedAt": "2026-03-27",
+  "totalCount": 1090,
   "stores": [
     {
       "name": "오복수퍼",
@@ -3535,13 +3535,6 @@
       "licenseDate": "2000-06-01"
     },
     {
-      "name": "반달슈퍼",
-      "address": "전라남도 여수시 학동 24-11",
-      "roadAddress": "전라남도 여수시 학동8길 9  (학동)",
-      "status": "영업/정상",
-      "licenseDate": "2000-06-01"
-    },
-    {
       "name": "여수수협수산물백화점",
       "address": "전라남도 여수시 학동 200-1",
       "roadAddress": "",
@@ -5152,13 +5145,6 @@
       "licenseDate": ""
     },
     {
-      "name": "삼성할인마트",
-      "address": "전라남도 여수시 동산동 374-1",
-      "roadAddress": "전라남도 여수시 진남로 112  (동산동)",
-      "status": "영업/정상",
-      "licenseDate": "2005-01-17"
-    },
-    {
       "name": "성진유통",
       "address": "전라남도 여수시 학동 35-1",
       "roadAddress": "",
@@ -5572,13 +5558,6 @@
       "licenseDate": "2006-08-01"
     },
     {
-      "name": "청경할인마트",
-      "address": "전라남도 여수시 미평동 756-7",
-      "roadAddress": "전라남도 여수시 대학로 35  (미평동)",
-      "status": "영업/정상",
-      "licenseDate": "2006-08-01"
-    },
-    {
       "name": "미니수퍼",
       "address": "전라남도 여수시 오천동 359-1",
       "roadAddress": "",
@@ -5661,13 +5640,6 @@
       "roadAddress": "전라남도 여수시 어항단지로 116  (국동)",
       "status": "영업/정상",
       "licenseDate": "2006-10-30"
-    },
-    {
-      "name": "대경도대합실",
-      "address": "전라남도 여수시 국동 37-542",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
     },
     {
       "name": "여수농업협동충무지점",
@@ -5952,20 +5924,6 @@
     {
       "name": "(주)진마트",
       "address": "전라남도 여수시 여서동 490-3",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "(주)진마트",
-      "address": "전라남도 여수시 여서동 490-3",
-      "roadAddress": "전라남도 여수시 여서로 154  (여서동)",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "공원마트",
-      "address": "전라남도 여수시 여서동 208-5",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -6846,13 +6804,6 @@
       "licenseDate": "2000-06-01"
     },
     {
-      "name": "(유)에이스마트",
-      "address": "전라남도 여수시 여서동 490-3",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-06-01"
-    },
-    {
       "name": "주공편의점",
       "address": "전라남도 여수시 여서동 241 주공상가 1단지",
       "roadAddress": "전라남도 여수시 여서2로 39  (여서동,주공상가 1단지)",
@@ -7002,13 +6953,6 @@
     {
       "name": "새나루터슈퍼",
       "address": "전라남도 여수시 중앙동 60-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-06-01"
-    },
-    {
-      "name": "장미슈퍼",
-      "address": "전라남도 여수시 중앙동 300-2",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2000-06-01"
@@ -7423,13 +7367,6 @@
       "name": "전성페인트",
       "address": "전라남도 여수시 교동 587",
       "roadAddress": "전라남도 여수시 충무로 27-2  (교동)",
-      "status": "영업/정상",
-      "licenseDate": "2000-06-01"
-    },
-    {
-      "name": "보람유통",
-      "address": "전라남도 여수시 교동 596-2",
-      "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2000-06-01"
     },

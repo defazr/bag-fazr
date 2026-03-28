@@ -3,8 +3,8 @@
   "regionSlug": "gyeongnam",
   "district": "거제시",
   "districtSlug": "geoje",
-  "updatedAt": "2026-03-26",
-  "totalCount": 543,
+  "updatedAt": "2026-03-27",
+  "totalCount": 540,
   "stores": [
     {
       "name": "대진유통",
@@ -166,13 +166,6 @@
       "roadAddress": "경상남도 거제시 수양로 40 (문동동)",
       "status": "영업/정상",
       "licenseDate": "2019-08-30"
-    },
-    {
-      "name": "화이트편의점",
-      "address": "경상남도 거제시 장목면 대금리 425-9",
-      "roadAddress": "경상남도 거제시 장목면 옥포대첩로 1356, 1층",
-      "status": "영업/정상",
-      "licenseDate": "2022-11-08"
     },
     {
       "name": "지에스25 거제고현화성",
@@ -3507,13 +3500,6 @@
       "licenseDate": "2018-04-04"
     },
     {
-      "name": "GS25 거제능포점",
-      "address": "경상남도 거제시 능포동 669-3",
-      "roadAddress": "경상남도 거제시 능포로2길 39 (능포동)",
-      "status": "영업/정상",
-      "licenseDate": "2018-04-19"
-    },
-    {
       "name": "미니스톱 거제옥포누리점",
       "address": "경상남도 거제시 옥포동 1911-4 미진아파트",
       "roadAddress": "경상남도 거제시 옥포로6길 38-3, 1,2호 (옥포동, 미진아파트)",
@@ -3624,13 +3610,6 @@
       "roadAddress": "경상남도 거제시 수양로 110, 601동 4층 B401호, 402호 (양정동, 거제2차 IPARK)",
       "status": "영업/정상",
       "licenseDate": "2022-07-06"
-    },
-    {
-      "name": "세븐일레븐 거제능포점",
-      "address": "경상남도 거제시 능포동 660-6",
-      "roadAddress": "경상남도 거제시 능포로2길 61, 1층 (능포동)",
-      "status": "영업/정상",
-      "licenseDate": "2022-07-08"
     },
     {
       "name": "이마트24 거제고려점",

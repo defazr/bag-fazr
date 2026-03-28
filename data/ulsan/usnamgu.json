@@ -3,8 +3,8 @@
   "regionSlug": "ulsan",
   "district": "남구",
   "districtSlug": "usnamgu",
-  "updatedAt": "2026-03-26",
-  "totalCount": 859,
+  "updatedAt": "2026-03-27",
+  "totalCount": 857,
   "stores": [
     {
       "name": "영진슈퍼",
@@ -4536,13 +4536,6 @@
       "licenseDate": "2007-06-01"
     },
     {
-      "name": "태양할인마트",
-      "address": "울산광역시 남구 무거동 846-7",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "썬빌리지(희망점)",
       "address": "울산광역시 남구 신정동 1413-3",
       "roadAddress": "",
@@ -5654,13 +5647,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2008-02-12"
-    },
-    {
-      "name": "삼광유통",
-      "address": "울산광역시 남구 야음동 863-18",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
     },
     {
       "name": "바둑이유통",

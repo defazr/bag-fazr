@@ -1,8 +1,8 @@
 {
   "region": "서울특별시",
   "regionSlug": "seoul",
-  "updatedAt": "2026-03-26",
-  "totalCount": 3124,
+  "updatedAt": "2026-03-27",
+  "totalCount": 3118,
   "districts": [
     {
       "district": "도봉구",
@@ -12,7 +12,7 @@
     {
       "district": "동대문구",
       "districtSlug": "dongdaemun",
-      "count": 817
+      "count": 813
     },
     {
       "district": "동작구",
@@ -67,7 +67,7 @@
     {
       "district": "종로구",
       "districtSlug": "jongno",
-      "count": 633
+      "count": 632
     },
     {
       "district": "중구",
@@ -82,7 +82,7 @@
     {
       "district": "마포구",
       "districtSlug": "mapo",
-      "count": 603
+      "count": 602
     },
     {
       "district": "노원구",

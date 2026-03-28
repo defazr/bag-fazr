@@ -3,8 +3,8 @@
   "regionSlug": "gyeongnam",
   "district": "양산시",
   "districtSlug": "yangsan",
-  "updatedAt": "2026-03-26",
-  "totalCount": 787,
+  "updatedAt": "2026-03-27",
+  "totalCount": 786,
   "stores": [
     {
       "name": "샘터슈퍼",
@@ -537,13 +537,6 @@
       "roadAddress": "경상남도 양산시 하북면 용연로 79",
       "status": "영업/정상",
       "licenseDate": "2013-04-22"
-    },
-    {
-      "name": "대동할인마트",
-      "address": "경상남도 양산시 하북면 용연리 480-7",
-      "roadAddress": "경상남도 양산시 하북면 용연로 79, 481동 1층 11호",
-      "status": "영업/정상",
-      "licenseDate": "2020-03-05"
     },
     {
       "name": "대동할인마트(대동이미지2차상가)",

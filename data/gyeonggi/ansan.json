@@ -3,8 +3,8 @@
   "regionSlug": "gyeonggi",
   "district": "안산시",
   "districtSlug": "ansan",
-  "updatedAt": "2026-03-26",
-  "totalCount": 996,
+  "updatedAt": "2026-03-27",
+  "totalCount": 992,
   "stores": [
     {
       "name": "원곡슈퍼",
@@ -3129,13 +3129,6 @@
       "licenseDate": ""
     },
     {
-      "name": "오성마트",
-      "address": "경기도 안산시 단원구 와동 769-25",
-      "roadAddress": "경기도 안산시 단원구 와동공원로 122  (와동)",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "슈퍼더블마트",
       "address": "경기도 안산시 단원구 고잔동 672-1",
       "roadAddress": "",
@@ -3792,13 +3785,6 @@
       "roadAddress": "경기도 안산시 단원구 원곡로 51  (원곡동)",
       "status": "영업/정상",
       "licenseDate": ""
-    },
-    {
-      "name": "자매슈퍼",
-      "address": "경기도 안산시 단원구 선부동 987-19",
-      "roadAddress": "경기도 안산시 단원구 지곡로 106-1  (선부동)",
-      "status": "영업/정상",
-      "licenseDate": "2000-03-03"
     },
     {
       "name": "해피마트",
@@ -4786,13 +4772,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "1997-05-22"
-    },
-    {
-      "name": "바다슈퍼",
-      "address": "경기도 안산시 상록구 사동 1481-11",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1997-06-25"
     },
     {
       "name": "영광공판장",
@@ -6953,13 +6932,6 @@
     {
       "name": "수정할인마트",
       "address": "경기도 안산시 상록구 본오동 837-4",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2002-04-11"
-    },
-    {
-      "name": "우성슈퍼",
-      "address": "경기도 안산시 상록구 이동 527-2",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2002-04-11"

@@ -3,8 +3,8 @@
   "regionSlug": "gyeonggi",
   "district": "파주시",
   "districtSlug": "paju",
-  "updatedAt": "2026-03-26",
-  "totalCount": 902,
+  "updatedAt": "2026-03-27",
+  "totalCount": 901,
   "stores": [
     {
       "name": "주식회사 스프링(SPRING)",
@@ -4345,13 +4345,6 @@
       "roadAddress": "경기도 파주시 조리읍 대원로 24",
       "status": "영업/정상",
       "licenseDate": "2012-06-20"
-    },
-    {
-      "name": "미니스톱 파주선유점",
-      "address": "경기도 파주시 문산읍",
-      "roadAddress": "경기도 파주시 문산읍 봉미로 3 (101,102호)",
-      "status": "영업/정상",
-      "licenseDate": "2012-06-26"
     },
     {
       "name": "아이빌",

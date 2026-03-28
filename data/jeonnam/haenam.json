@@ -3,8 +3,8 @@
   "regionSlug": "jeonnam",
   "district": "해남군",
   "districtSlug": "haenam",
-  "updatedAt": "2026-03-26",
-  "totalCount": 284,
+  "updatedAt": "2026-03-27",
+  "totalCount": 282,
   "stores": [
     {
       "name": "하나슈퍼",
@@ -656,13 +656,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2005-09-20"
-    },
-    {
-      "name": "제이유25마트 해남평동점",
-      "address": "전라남도 해남군 해남읍 평동리 35-6",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
     },
     {
       "name": "한국미니스톱(주)",
@@ -1748,13 +1741,6 @@
       "roadAddress": "전라남도 해남군 삼산면 농암길 28",
       "status": "영업/정상",
       "licenseDate": "1995-11-15"
-    },
-    {
-      "name": "한양마트",
-      "address": "전라남도 해남군 해남읍 해리 642-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1996-05-21"
     },
     {
       "name": "명지마트",

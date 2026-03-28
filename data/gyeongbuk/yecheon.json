@@ -3,8 +3,8 @@
   "regionSlug": "gyeongbuk",
   "district": "예천군",
   "districtSlug": "yecheon",
-  "updatedAt": "2026-03-26",
-  "totalCount": 133,
+  "updatedAt": "2026-03-27",
+  "totalCount": 132,
   "stores": [
     {
       "name": "세븐일레븐 예천양궁로점",
@@ -684,13 +684,6 @@
       "roadAddress": "경상북도 예천군 예천읍 중앙로 72, 1층",
       "status": "영업/정상",
       "licenseDate": "2020-09-15"
-    },
-    {
-      "name": "이마트24 예천호반2차점",
-      "address": "경상북도 예천군 호명읍 산합리 1381 경북도청신도시 호반베르디움2차",
-      "roadAddress": "경상북도 예천군 호명읍 양지로 14, 228동 104호 (경북도청신도시 호반베르디움2차)",
-      "status": "영업/정상",
-      "licenseDate": "2021-08-31"
     },
     {
       "name": "정미 아이스크림",

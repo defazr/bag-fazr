@@ -3,8 +3,8 @@
   "regionSlug": "gyeonggi",
   "district": "안성시",
   "districtSlug": "anseong",
-  "updatedAt": "2026-03-26",
-  "totalCount": 416,
+  "updatedAt": "2026-03-27",
+  "totalCount": 411,
   "stores": [
     {
       "name": "금화마트",
@@ -2723,13 +2723,6 @@
       "licenseDate": "1998-10-13"
     },
     {
-      "name": "형제슈퍼",
-      "address": "경기도 안성시 봉산동 45-1",
-      "roadAddress": "경기도 안성시 중앙로461번길 7  (봉산동)",
-      "status": "영업/정상",
-      "licenseDate": "1999-01-08"
-    },
-    {
       "name": "로숀편의점",
       "address": "경기도 안성시 영동 31",
       "roadAddress": "경기도 안성시 중앙로 412  (영동)",
@@ -2877,39 +2870,11 @@
       "licenseDate": "2000-01-10"
     },
     {
-      "name": "미양농업협동조합",
-      "address": "경기도 안성시 미양면 양지리 90-1",
-      "roadAddress": "경기도 안성시 미양면 역전1길 18",
-      "status": "영업/정상",
-      "licenseDate": "2000-01-15"
-    },
-    {
-      "name": "대명미니슈퍼",
-      "address": "경기도 안성시 공도읍 마정리 45-11",
-      "roadAddress": "경기도 안성시 공도읍 가족공원길 70-11",
-      "status": "영업/정상",
-      "licenseDate": "2000-01-15"
-    },
-    {
       "name": "쏘리마트",
       "address": "경기도 안성시 공도읍 진사리 산 52 주은청설아파트 상가 B동 110호",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2000-01-27"
-    },
-    {
-      "name": "공도할인마트",
-      "address": "경기도 안성시 공도읍 용두리 158-8",
-      "roadAddress": "경기도 안성시 공도읍 공도1로 25",
-      "status": "영업/정상",
-      "licenseDate": "2000-03-17"
-    },
-    {
-      "name": "그린슈퍼",
-      "address": "경기도 안성시 대덕면 내리 163-3",
-      "roadAddress": "경기도 안성시 대덕면 차골길 21",
-      "status": "영업/정상",
-      "licenseDate": "2000-04-07"
     },
     {
       "name": "봉할인마트",

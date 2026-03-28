@@ -1,13 +1,13 @@
 {
   "region": "세종특별자치시",
   "regionSlug": "sejong",
-  "updatedAt": "2026-03-26",
-  "totalCount": 173,
+  "updatedAt": "2026-03-27",
+  "totalCount": 165,
   "districts": [
     {
       "district": "세종시",
       "districtSlug": "sejongsi",
-      "count": 173
+      "count": 165
     }
   ]
 }

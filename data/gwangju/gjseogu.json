@@ -3,8 +3,8 @@
   "regionSlug": "gwangju",
   "district": "서구",
   "districtSlug": "gjseogu",
-  "updatedAt": "2026-03-26",
-  "totalCount": 755,
+  "updatedAt": "2026-03-27",
+  "totalCount": 754,
   "stores": [
     {
       "name": "유진할인마트",
@@ -3608,13 +3608,6 @@
       "name": "화니스파주월2호",
       "address": "광주광역시 서구 화정동 368-104",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "대성슈퍼",
-      "address": "광주광역시 서구 화정동 726-23",
-      "roadAddress": "광주광역시 서구 군분로179번길 13-3  (화정동)",
       "status": "영업/정상",
       "licenseDate": ""
     },

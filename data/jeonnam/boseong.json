@@ -3,8 +3,8 @@
   "regionSlug": "jeonnam",
   "district": "보성군",
   "districtSlug": "boseong",
-  "updatedAt": "2026-03-26",
-  "totalCount": 358,
+  "updatedAt": "2026-03-27",
+  "totalCount": 357,
   "stores": [
     {
       "name": "세븐일레븐 보성예당점",
@@ -2292,13 +2292,6 @@
       "name": "보성농협 웅치지점",
       "address": "전라남도 보성군 웅치면 강산리 845-7",
       "roadAddress": "전라남도 보성군 웅치면 일림로 985",
-      "status": "영업/정상",
-      "licenseDate": "2015-02-27"
-    },
-    {
-      "name": "대웅슈퍼",
-      "address": "전라남도 보성군 웅치면 중산리 57-18",
-      "roadAddress": "전라남도 보성군 웅치면 일림로 1006-2",
       "status": "영업/정상",
       "licenseDate": "2015-02-27"
     },

@@ -1,56 +1,11 @@
 {
-  "updatedAt": "2026-03-26",
-  "totalCount": 69615,
+  "updatedAt": "2026-03-27",
+  "totalCount": 69265,
   "regions": [
-    {
-      "region": "서울특별시",
-      "regionSlug": "seoul",
-      "count": 3124
-    },
     {
       "region": "부산광역시",
       "regionSlug": "busan",
-      "count": 4190
-    },
-    {
-      "region": "대구광역시",
-      "regionSlug": "daegu",
-      "count": 4792
-    },
-    {
-      "region": "인천광역시",
-      "regionSlug": "incheon",
-      "count": 1146
-    },
-    {
-      "region": "광주광역시",
-      "regionSlug": "gwangju",
-      "count": 2530
-    },
-    {
-      "region": "대전광역시",
-      "regionSlug": "daejeon",
-      "count": 2230
-    },
-    {
-      "region": "울산광역시",
-      "regionSlug": "ulsan",
-      "count": 1397
-    },
-    {
-      "region": "세종특별자치시",
-      "regionSlug": "sejong",
-      "count": 173
-    },
-    {
-      "region": "경기도",
-      "regionSlug": "gyeonggi",
-      "count": 15262
-    },
-    {
-      "region": "강원특별자치도",
-      "regionSlug": "gangwon",
-      "count": 3815
+      "count": 4164
     },
     {
       "region": "충청북도",
@@ -60,32 +15,77 @@
     {
       "region": "충청남도",
       "regionSlug": "chungnam",
-      "count": 4824
+      "count": 4800
     },
     {
-      "region": "전북특별자치도",
-      "regionSlug": "jeonbuk",
-      "count": 5200
+      "region": "대구광역시",
+      "regionSlug": "daegu",
+      "count": 4744
     },
     {
-      "region": "전라남도",
-      "regionSlug": "jeonnam",
-      "count": 6752
+      "region": "대전광역시",
+      "regionSlug": "daejeon",
+      "count": 2216
+    },
+    {
+      "region": "강원특별자치도",
+      "regionSlug": "gangwon",
+      "count": 3810
+    },
+    {
+      "region": "광주광역시",
+      "regionSlug": "gwangju",
+      "count": 2524
     },
     {
       "region": "경상북도",
       "regionSlug": "gyeongbuk",
-      "count": 6223
+      "count": 6203
+    },
+    {
+      "region": "경기도",
+      "regionSlug": "gyeonggi",
+      "count": 15174
     },
     {
       "region": "경상남도",
       "regionSlug": "gyeongnam",
-      "count": 4768
+      "count": 4755
+    },
+    {
+      "region": "인천광역시",
+      "regionSlug": "incheon",
+      "count": 1145
     },
     {
       "region": "제주특별자치도",
       "regionSlug": "jeju",
-      "count": 817
+      "count": 815
+    },
+    {
+      "region": "전북특별자치도",
+      "regionSlug": "jeonbuk",
+      "count": 5139
+    },
+    {
+      "region": "전라남도",
+      "regionSlug": "jeonnam",
+      "count": 6736
+    },
+    {
+      "region": "세종특별자치시",
+      "regionSlug": "sejong",
+      "count": 165
+    },
+    {
+      "region": "서울특별시",
+      "regionSlug": "seoul",
+      "count": 3118
+    },
+    {
+      "region": "울산광역시",
+      "regionSlug": "ulsan",
+      "count": 1385
     }
   ]
 }

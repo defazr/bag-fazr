@@ -1,8 +1,8 @@
 {
   "region": "전북특별자치도",
   "regionSlug": "jeonbuk",
-  "updatedAt": "2026-03-26",
-  "totalCount": 5200,
+  "updatedAt": "2026-03-27",
+  "totalCount": 5139,
   "districts": [
     {
       "district": "부안군",
@@ -22,7 +22,7 @@
     {
       "district": "군산시",
       "districtSlug": "gunsan",
-      "count": 666
+      "count": 662
     },
     {
       "district": "익산시",
@@ -32,7 +32,7 @@
     {
       "district": "임실군",
       "districtSlug": "imsil",
-      "count": 219
+      "count": 215
     },
     {
       "district": "장수군",
@@ -47,7 +47,7 @@
     {
       "district": "전주시",
       "districtSlug": "jeonju",
-      "count": 1932
+      "count": 1880
     },
     {
       "district": "진안군",
@@ -72,7 +72,7 @@
     {
       "district": "완주군",
       "districtSlug": "wanju",
-      "count": 316
+      "count": 315
     }
   ]
 }

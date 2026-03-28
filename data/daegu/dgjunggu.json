@@ -3,8 +3,8 @@
   "regionSlug": "daegu",
   "district": "중구",
   "districtSlug": "dgjunggu",
-  "updatedAt": "2026-03-26",
-  "totalCount": 483,
+  "updatedAt": "2026-03-27",
+  "totalCount": 482,
   "stores": [
     {
       "name": "황실마트",
@@ -3348,13 +3348,6 @@
     {
       "name": "코코마트",
       "address": "대구광역시 중구 남산동 2486-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "청솔할인마트",
-      "address": "대구광역시 중구 동인동4가 259-1",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""

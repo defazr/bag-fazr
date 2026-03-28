@@ -3,8 +3,8 @@
   "regionSlug": "busan",
   "district": "사상구",
   "districtSlug": "sasang",
-  "updatedAt": "2026-03-26",
-  "totalCount": 463,
+  "updatedAt": "2026-03-27",
+  "totalCount": 462,
   "stores": [
     {
       "name": "럭키슈퍼",
@@ -1942,13 +1942,6 @@
       "name": "삼성빅스토아",
       "address": "부산광역시 사상구 감전동 131-8",
       "roadAddress": "부산광역시 사상구 새벽시장로103번길 21  (감전동)",
-      "status": "영업/정상",
-      "licenseDate": "1995-03-01"
-    },
-    {
-      "name": "한진슈퍼",
-      "address": "부산광역시 사상구 주례동 313-5",
-      "roadAddress": "부산광역시 사상구 양지로 8  (주례동)",
       "status": "영업/정상",
       "licenseDate": "1995-03-01"
     },

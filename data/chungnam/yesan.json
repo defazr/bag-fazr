@@ -3,8 +3,8 @@
   "regionSlug": "chungnam",
   "district": "예산군",
   "districtSlug": "yesan",
-  "updatedAt": "2026-03-26",
-  "totalCount": 255,
+  "updatedAt": "2026-03-27",
+  "totalCount": 254,
   "stores": [
     {
       "name": "다있슈철물농자재",
@@ -369,13 +369,6 @@
       "roadAddress": "충청남도 예산군 삽교읍 수암천로 11, 117동 B103,B104호 (이지더원아파트)",
       "status": "영업/정상",
       "licenseDate": "2023-08-17"
-    },
-    {
-      "name": "이마트24 예산신암점",
-      "address": "충청남도 예산군 신암면 두곡리 253-17 삼신아파트",
-      "roadAddress": "충청남도 예산군 신암면 추사고택로 36-7, 삼신아파트 106동 101,102호",
-      "status": "영업/정상",
-      "licenseDate": "2023-09-07"
     },
     {
       "name": "스파뷰호텔 매점",

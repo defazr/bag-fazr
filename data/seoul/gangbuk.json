@@ -1,10 +1,10 @@
 {
-  "region": "대구광역시",
-  "regionSlug": "daegu",
-  "district": "북구",
-  "districtSlug": "dgbukgu",
+  "region": "서울특별시",
+  "regionSlug": "seoul",
+  "district": "강북구",
+  "districtSlug": "gangbuk",
   "updatedAt": "2026-03-27",
-  "totalCount": 931,
+  "totalCount": 1779,
   "stores": [
     {
       "name": "씨유복현점",
@@ -1827,6 +1827,13 @@
       "licenseDate": "2016-12-20"
     },
     {
+      "name": "신세계마트",
+      "address": "대구광역시 북구 산격동 750-3",
+      "roadAddress": "대구광역시 북구 연암로 177 (산격동)",
+      "status": "영업/정상",
+      "licenseDate": "2017-01-03"
+    },
+    {
       "name": "이마트24칠곡태전점",
       "address": "대구광역시 북구 태전동 472-5",
       "roadAddress": "대구광역시 북구 칠곡중앙대로 232 (태전동)",
@@ -2175,6 +2182,20 @@
       "roadAddress": "대구광역시 북구 유통단지로7길 33 (산격동)",
       "status": "영업/정상",
       "licenseDate": "2018-01-02"
+    },
+    {
+      "name": "롯데쇼핑(주)롯데슈퍼복현점",
+      "address": "",
+      "roadAddress": "대구광역시 북구 검단로 8 (복현동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-08-11"
+    },
+    {
+      "name": "대백마트(영진점)",
+      "address": "대구광역시 북구 복현동 249-1",
+      "roadAddress": "대구광역시 북구 복현로 40 (복현동)",
+      "status": "영업/정상",
+      "licenseDate": "2014-09-18"
     },
     {
       "name": "씨유대구침산그린점",
@@ -3059,6 +3080,13 @@
       "licenseDate": "2018-10-22"
     },
     {
+      "name": "대백마트(산격점)",
+      "address": "대구광역시 북구 산격동 1412-44",
+      "roadAddress": "대구광역시 북구 산격로6길 7 (산격동)",
+      "status": "영업/정상",
+      "licenseDate": "2015-08-26"
+    },
+    {
       "name": "나이스마트 복현점",
       "address": "대구광역시 북구 복현동 464-1",
       "roadAddress": "대구광역시 북구 경대로27길 7 (복현동)",
@@ -3547,6 +3575,13 @@
       "roadAddress": "대구광역시 북구 학정로 143-16 (태전동)",
       "status": "영업/정상",
       "licenseDate": "2018-08-14"
+    },
+    {
+      "name": "홈플러스 익스프레스 대구 구암2점",
+      "address": "대구광역시 북구 구암동 652-1",
+      "roadAddress": "대구광역시 북구 구암로32길 6-10 (구암동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-03-19"
     },
     {
       "name": "롯데쇼핑(주)롯데마트 칠성점",
@@ -5271,6 +5306,13 @@
       "licenseDate": "2025-03-10"
     },
     {
+      "name": "더(the)조은장터",
+      "address": "대구광역시 북구 학정동 967-2",
+      "roadAddress": "대구광역시 북구 학정동로 63-1 (학정동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-11-24"
+    },
+    {
       "name": "씨유 도남지구점",
       "address": "대구광역시 북구 국우동 616-1",
       "roadAddress": "대구광역시 북구 도남길 23 (국우동)",
@@ -5311,6 +5353,13 @@
       "roadAddress": "대구광역시 북구 매천로2길 19, 126동 101호 (팔달동, 두산위브2001)",
       "status": "영업/정상",
       "licenseDate": "2022-04-15"
+    },
+    {
+      "name": "세븐일레븐 서변원룸점",
+      "address": "대구광역시 북구 서변동 1736-7 1층",
+      "roadAddress": "대구광역시 북구 호국로51길 28, 1층 (서변동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-04-27"
     },
     {
       "name": "대백마트(팔달점)",
@@ -5523,6 +5572,13 @@
       "licenseDate": "2022-10-04"
     },
     {
+      "name": "세븐일레븐 경북대점",
+      "address": "대구광역시 북구 산격동 1397",
+      "roadAddress": "대구광역시 북구 대학로15길 17 (산격동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-23"
+    },
+    {
       "name": "세븐일레븐 경북대 북문점",
       "address": "대구광역시 북구 산격동 1416-49",
       "roadAddress": "대구광역시 북구 대학로 63 (산격동)",
@@ -5561,6 +5617,13 @@
       "name": "지에스25 대구학정점",
       "address": "대구광역시 북구 학정동 973-7",
       "roadAddress": "대구광역시 북구 학정동로 42-21, 1층 (학정동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-10-19"
+    },
+    {
+      "name": "지에스25 대구도남점",
+      "address": "대구광역시 북구 국우동 592-1 힐스테이트데시앙 도남 2단지",
+      "roadAddress": "대구광역시 북구 도남길 16, 상가동 104호 (국우동, 힐스테이트데시앙 도남 2단지)",
       "status": "영업/정상",
       "licenseDate": "2022-10-19"
     },
@@ -5696,6 +5759,13 @@
       "roadAddress": "대구광역시 북구 구암로65길 10, 1층 (구암동)",
       "status": "영업/정상",
       "licenseDate": "2023-01-26"
+    },
+    {
+      "name": "지에스(GS)25 동천대동점",
+      "address": "대구광역시 북구 동천동 932-1",
+      "roadAddress": "대구광역시 북구 대천로 70 (동천동)",
+      "status": "영업/정상",
+      "licenseDate": "2023-02-14"
     },
     {
       "name": "지에스25 동변센터점",
@@ -5943,6 +6013,20 @@
       "licenseDate": "2024-01-03"
     },
     {
+      "name": "나이스마트 구암점",
+      "address": "대구광역시 북구 구암동 695",
+      "roadAddress": "대구광역시 북구 구암로 170 (구암동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-09-14"
+    },
+    {
+      "name": "이마트24 대구대현점",
+      "address": "대구광역시 북구 대현동 395-2",
+      "roadAddress": "대구광역시 북구 대현남로5길 2, 1층 (대현동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-09-17"
+    },
+    {
       "name": "오케이포인트24시마트",
       "address": "대구광역시 북구 학정동 946-2",
       "roadAddress": "대구광역시 북구 학남로 11 (학정동)",
@@ -5985,6 +6069,13 @@
       "licenseDate": "2020-04-23"
     },
     {
+      "name": "파워마트",
+      "address": "대구광역시 북구 고성동2가 112-346",
+      "roadAddress": "대구광역시 북구 칠성남로 7, 1층 (고성동2가)",
+      "status": "영업/정상",
+      "licenseDate": "2021-02-16"
+    },
+    {
       "name": "이마트24만평점",
       "address": "대구광역시 북구 노원동3가 681-1",
       "roadAddress": "대구광역시 북구 팔달로 93, 101호 (노원동3가)",
@@ -6004,6 +6095,13 @@
       "roadAddress": "대구광역시 북구 산격로 33 (산격동)",
       "status": "영업/정상",
       "licenseDate": "2021-11-16"
+    },
+    {
+      "name": "장바구니",
+      "address": "대구광역시 북구 검단동 838-4",
+      "roadAddress": "대구광역시 북구 검단로 135, 101동 115호 (검단동)",
+      "status": "영업/정상",
+      "licenseDate": "2018-12-05"
     },
     {
       "name": "신흥슈퍼",
@@ -6095,6 +6193,13 @@
       "roadAddress": "대구광역시 북구 칠성남로 59-2 (고성동2가)",
       "status": "영업/정상",
       "licenseDate": "2024-07-12"
+    },
+    {
+      "name": "콜마트",
+      "address": "대구광역시 북구 노원동2가 225 노원동대신빌라",
+      "roadAddress": "대구광역시 북구 팔달로41길 52, 1층 5호 (노원동2가, 노원동대신빌라)",
+      "status": "영업/정상",
+      "licenseDate": "2024-07-16"
     },
     {
       "name": "콜마트",
@@ -6221,6 +6326,13 @@
       "roadAddress": "대구광역시 북구 학남로1길 31 (학정동)",
       "status": "영업/정상",
       "licenseDate": "2019-03-25"
+    },
+    {
+      "name": "나이스마트 구암점",
+      "address": "대구광역시 북구 구암동 695",
+      "roadAddress": "대구광역시 북구 구암로 170 (구암동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-10-25"
     },
     {
       "name": "씨유 구암그린빌점",
@@ -6489,6 +6601,13 @@
       "licenseDate": "2019-06-19"
     },
     {
+      "name": "씨유 구암대로점",
+      "address": "대구광역시 북구 구암동 815-14",
+      "roadAddress": "대구광역시 북구 구암로 306 (구암동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-04-23"
+    },
+    {
       "name": "365마트",
       "address": "대구광역시 북구 복현동 701 복현3차서한이다음",
       "roadAddress": "대구광역시 북구 복현로 130 (복현동, 복현3차서한이다음)",
@@ -6510,11 +6629,5828 @@
       "licenseDate": "2019-07-09"
     },
     {
+      "name": "열린마트",
+      "address": "광주광역시 북구 두암동 281-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-25"
+    },
+    {
+      "name": "현대수퍼",
+      "address": "광주광역시 북구 두암동 357-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)빅마트두암점",
+      "address": "광주광역시 북구 두암동 985-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-08-02"
+    },
+    {
+      "name": "빅마트몰",
+      "address": "광주광역시 북구 매곡동 45-25",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2004-06-21"
+    },
+    {
+      "name": "홈플러스동광주점",
+      "address": "광주광역시 북구 두암동 575-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2005-03-25"
+    },
+    {
+      "name": "한빛종합상사",
+      "address": "광주광역시 북구 문흥동 978-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-01-21"
+    },
+    {
+      "name": "임동25마트",
+      "address": "광주광역시 북구 임동 61-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-02"
+    },
+    {
+      "name": "단지수퍼",
+      "address": "광주광역시 북구 신안동 349-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국마트",
+      "address": "광주광역시 북구 운암동 110-80 한국A내 상가 B02호",
+      "roadAddress": "광주광역시 북구 금호로40번길 33  (운암동,한국A내 상가 B02호)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해태마트",
+      "address": "광주광역시 북구 임동 359",
+      "roadAddress": "광주광역시 북구 무등로 22  (임동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴스코마켓",
+      "address": "광주광역시 북구 일곡동 814-3 롯데단지상가 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일광수퍼",
+      "address": "광주광역시 북구 운암동 1470",
+      "roadAddress": "광주광역시 북구 하남대로 817  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿마트",
+      "address": "광주광역시 북구 두암동 859-12",
+      "roadAddress": "광주광역시 북구 서방로107번길 67  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대박(토토)",
+      "address": "광주광역시 북구 각화동 180-5",
+      "roadAddress": "광주광역시 북구 군왕로 196  (각화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴그린마트",
+      "address": "광주광역시 북구 운암동 377-6",
+      "roadAddress": "광주광역시 북구 황계로 23  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홈마트",
+      "address": "광주광역시 북구 양산동 240-1",
+      "roadAddress": "광주광역시 북구 하서로 410  (양산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에이플러스마트",
+      "address": "광주광역시 북구 오치동 987-3",
+      "roadAddress": "광주광역시 북구 대천로 26  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코스코 마트",
+      "address": "광주광역시 북구 운암동 477-28",
+      "roadAddress": "광주광역시 북구 비엔날레로3번길 54-1  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "새마을수퍼",
+      "address": "광주광역시 북구 운암동 393",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐 일레븐 양산점",
+      "address": "광주광역시 북구 양산동 287-4",
+      "roadAddress": "광주광역시 북구 하서로 335  (양산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광명수퍼",
+      "address": "광주광역시 북구 양산동 광명@상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱용봉현대점",
+      "address": "광주광역시 북구 삼각동 533",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "푸른마트",
+      "address": "광주광역시 북구 임동 36-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 동림점",
+      "address": "광주광역시 북구 동림동 1149-2",
+      "roadAddress": "광주광역시 북구 북문대로 242  (동림동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용봉현대마트",
+      "address": "광주광역시 북구 용봉동 1355-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿모닝 편의점",
+      "address": "광주광역시 북구 신안동 224-4",
+      "roadAddress": "광주광역시 북구 자미로66번길 15  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마트뱅크",
+      "address": "광주광역시 북구 운암동 420-1",
+      "roadAddress": "광주광역시 북구 무등로27번길 10  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에이치디현대오일뱅크(주)동천마을주유소",
+      "address": "광주광역시 북구 동림동 885-12",
+      "roadAddress": "광주광역시 북구 하남대로 691 (동림동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "E-편한마트",
+      "address": "광주광역시 북구 일곡동 1238-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명성슈퍼",
+      "address": "광주광역시 북구 운암동 1541",
+      "roadAddress": "광주광역시 북구 하남대로 770  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호남고속B주유소",
+      "address": "광주광역시 북구 운암동 97-1",
+      "roadAddress": "광주광역시 북구 북문대로 17 (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일곡서점",
+      "address": "광주광역시 북구 삼각동 783-1",
+      "roadAddress": "광주광역시 북구 설죽로455번길 30  (삼각동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에덴문구",
+      "address": "광주광역시 북구 두암동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무등슈퍼",
+      "address": "광주광역시 북구 우산동 518-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에프엔디협동조합",
+      "address": "광주광역시 북구 중흥동 333-17",
+      "roadAddress": "광주광역시 북구 용봉로 106, 1층 (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2024-04-19"
+    },
+    {
+      "name": "망태슈퍼",
+      "address": "광주광역시 북구 운암동 420-16",
+      "roadAddress": "광주광역시 북구 무등로 27  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에스마트",
+      "address": "광주광역시 북구 운암동 110-80",
+      "roadAddress": "광주광역시 북구 금호로40번길 33  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅마트해피",
+      "address": "광주광역시 북구 두암동 985-1",
+      "roadAddress": "광주광역시 북구 삼정로3번길 21  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "D.C마트",
+      "address": "광주광역시 북구 용두동 326-5",
+      "roadAddress": "광주광역시 북구 하서로423번길 42  (용두동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광주공팡장텃밭",
+      "address": "광주광역시 북구 매곡동 214-44",
+      "roadAddress": "광주광역시 북구 매곡로 70  (매곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "광주광역시 북구 우산동 431-5",
+      "roadAddress": "광주광역시 북구 와우로 34  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채널큐 24시 편의점",
+      "address": "광주광역시 북구 매곡동 106-11 매화빌딩101호",
+      "roadAddress": "광주광역시 북구 매곡로 55  (매곡동,매화빌딩101호)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐전대정문점",
+      "address": "광주광역시 북구 신안동 225-33",
+      "roadAddress": "광주광역시 북구 자미로 66  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성산슈퍼",
+      "address": "광주광역시 북구 오치동 985-1 고운@101동상가",
+      "roadAddress": "광주광역시 북구 천지인로105번길 12-2  (오치동,고운@101동상가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "솔밭슈퍼",
+      "address": "광주광역시 북구 신안동 146-25",
+      "roadAddress": "광주광역시 북구 경양로87번길 26  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일신슈퍼청과물",
+      "address": "광주광역시 북구 신안동 479-15",
+      "roadAddress": "광주광역시 북구 자미로39번길 3  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "밤솔마트",
+      "address": "광주광역시 북구 운암동 1065-3",
+      "roadAddress": "광주광역시 북구 북문대로159번길 50  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마운틴마트",
+      "address": "광주광역시 북구 중흥동 323-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국수퍼",
+      "address": "광주광역시 북구 양산동 355",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "참마트",
+      "address": "광주광역시 북구 운암동 110-51",
+      "roadAddress": "광주광역시 북구 금호로40번길 16  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "광주광역시 북구 매곡동 42-5",
+      "roadAddress": "광주광역시 북구 매곡로 45  (매곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종합마트",
+      "address": "광주광역시 북구 풍향동 19-52",
+      "roadAddress": "광주광역시 북구 군왕로 32  (풍향동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종로마트",
+      "address": "광주광역시 북구 두암동 460-39",
+      "roadAddress": "광주광역시 북구 면앙로 214-11  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일할인마트",
+      "address": "광주광역시 북구 오치동 1021-1",
+      "roadAddress": "광주광역시 북구 송월로50번길 2  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "ok마트",
+      "address": "광주광역시 북구 임동 188-23",
+      "roadAddress": "광주광역시 북구 자동차로47번길 60  (임동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "푸른마트",
+      "address": "광주광역시 북구 운암동 1040-3",
+      "roadAddress": "광주광역시 북구 북문대로 151  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일신청과마트",
+      "address": "광주광역시 북구 양산동 205-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리마트",
+      "address": "광주광역시 북구 운암동 479-20",
+      "roadAddress": "광주광역시 북구 북문대로20번길 35  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월드마트",
+      "address": "광주광역시 북구 문흥동 972-1 금호아파트 상가 106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼일수퍼",
+      "address": "광주광역시 북구 유동 7-27",
+      "roadAddress": "광주광역시 북구 버들로 7  (유동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)빅스토아",
+      "address": "광주광역시 북구 삼각동 755-44",
+      "roadAddress": "광주광역시 북구 설죽로370번길 27-4  (삼각동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "광주광역시 북구 오치동 1026-4",
+      "roadAddress": "광주광역시 북구 서하로 301  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "맘모스마트",
+      "address": "광주광역시 북구 신안동 118-1",
+      "roadAddress": "광주광역시 북구 무등로218번길 17  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일편의점",
+      "address": "광주광역시 북구 신안동 134-7 제일오피스텔 109호",
+      "roadAddress": "광주광역시 북구 무등로180번길 12,  109호 (신안동,제일오피스텔)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "sk네트웍스(주) ok주유소",
+      "address": "광주광역시 북구 동림동 885-12",
+      "roadAddress": "광주광역시 북구 하남대로 691  (동림동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일할인마트",
+      "address": "광주광역시 북구 오치동 1021-1",
+      "roadAddress": "광주광역시 북구 송월로50번길 2  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼양수퍼",
+      "address": "광주광역시 북구 오치동 923-14",
+      "roadAddress": "광주광역시 북구 우치로 290  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일신마트",
+      "address": "광주광역시 북구 양산동 205-6 일신아파트 상가 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성복마트",
+      "address": "광주광역시 북구 문흥동 968-9",
+      "roadAddress": "광주광역시 북구 대천로157번길 60  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중흥마트",
+      "address": "광주광역시 북구 문흥동 995-3 중흥1차 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일신종합마트",
+      "address": "광주광역시 북구 운암동 1038-1 일신상가 A동 202호호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐 문흥4호점",
+      "address": "광주광역시 북구 문흥동 956-13",
+      "roadAddress": "광주광역시 북구 대천로139번길 2  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보라슈퍼",
+      "address": "광주광역시 북구 운암동 928-6",
+      "roadAddress": "광주광역시 북구 서강로66번길 22-1  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "크레파스서점 문구",
+      "address": "광주광역시 북구 각화동 471-109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "썸클럽마트",
+      "address": "광주광역시 북구 용봉동 1356-8",
+      "roadAddress": "광주광역시 북구 설죽로 239-12  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니수퍼",
+      "address": "광주광역시 북구 임동 187-42",
+      "roadAddress": "광주광역시 북구 자동차로47번길 37  (임동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니수퍼",
+      "address": "광주광역시 북구 임동 187-42",
+      "roadAddress": "광주광역시 북구 자동차로47번길 37  (임동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "이루도매센터문흥점",
+      "address": "광주광역시 북구 문흥동 996-3 라인상가 지하 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코아마트 오치점",
+      "address": "광주광역시 북구 오치동 936-28",
+      "roadAddress": "광주광역시 북구 신촌로23번길 45  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리마트",
+      "address": "광주광역시 북구 운암동 479-20",
+      "roadAddress": "광주광역시 북구 북문대로20번길 35  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신선마트",
+      "address": "광주광역시 북구 용봉동 1047-5",
+      "roadAddress": "광주광역시 북구 비엔날레로 95  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "흥림슈퍼",
+      "address": "광주광역시 북구 중흥동 348-12",
+      "roadAddress": "광주광역시 북구 우치로1번길 11  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "착한사람들",
+      "address": "광주광역시 북구 우산동 207-12",
+      "roadAddress": "광주광역시 북구 동문대로 111  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아욱 룩 365",
+      "address": "광주광역시 북구 용봉동 158-15",
+      "roadAddress": "광주광역시 북구 우치로100번길 20  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중흥마트",
+      "address": "광주광역시 북구 용봉동 976 중흥S클래스 111동 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신한산전",
+      "address": "광주광역시 북구 운암동 1215",
+      "roadAddress": "광주광역시 북구 하남대로 737 (운암동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-02-17"
+    },
+    {
+      "name": "선우테크",
+      "address": "광주광역시 북구 용봉동 1346-8",
+      "roadAddress": "광주광역시 북구 설죽로 255, 2층 (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2025-03-06"
+    },
+    {
+      "name": "미니스톱 운암주공점",
+      "address": "광주광역시 북구 운암동 90-1",
+      "roadAddress": "광주광역시 북구 북문대로 47  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시민마트",
+      "address": "광주광역시 북구 신안동 266-4",
+      "roadAddress": "광주광역시 북구 자동차로47번길 10  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대진수퍼",
+      "address": "광주광역시 북구 운암동 416-1",
+      "roadAddress": "광주광역시 북구 무등로5번길 12  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "썬마트",
+      "address": "광주광역시 북구 문흥동 1011-2 대주상가 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광미슈퍼",
+      "address": "광주광역시 북구 북동 88-15",
+      "roadAddress": "광주광역시 북구 금재로73번길 8  (북동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장터할인마트",
+      "address": "광주광역시 북구 북동 88-15",
+      "roadAddress": "광주광역시 북구 금재로73번길 8  (북동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장터할인마트",
+      "address": "광주광역시 북구 용봉동 161-27",
+      "roadAddress": "광주광역시 북구 호동로 13  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니마트",
+      "address": "광주광역시 북구 우산동 554-19",
+      "roadAddress": "광주광역시 북구 서양로 170-4  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성인수퍼",
+      "address": "광주광역시 북구 풍향동 597-13",
+      "roadAddress": "광주광역시 북구 필문대로 29  (풍향동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광주북부경찰서",
+      "address": "광주광역시 북구 오치동 782-4",
+      "roadAddress": "광주광역시 북구 서하로 172 (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일슈퍼",
+      "address": "광주광역시 북구 문흥동 1010-7 제일아파트상가 1동 7호",
+      "roadAddress": "광주광역시 북구 천지인로 191, 1동 7호 (문흥동,제일아파트상가)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "운암철물",
+      "address": "광주광역시 북구 용봉동 625-23",
+      "roadAddress": "광주광역시 북구 설죽로 188  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황금마트",
+      "address": "광주광역시 북구 오치동 975-20",
+      "roadAddress": "광주광역시 북구 우치로231번길 6  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "K-미니마켓",
+      "address": "광주광역시 북구 우산동 207-4",
+      "roadAddress": "광주광역시 북구 동문대로 121  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알리바이 중흥점",
+      "address": "광주광역시 북구 중흥동 721-11",
+      "roadAddress": "광주광역시 북구 경열로 228  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "글로벌마트",
+      "address": "광주광역시 북구 각화동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "체널큐24시편의점",
+      "address": "광주광역시 북구 풍향동 597-13",
+      "roadAddress": "광주광역시 북구 필문대로 29  (풍향동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성수퍼",
+      "address": "광주광역시 북구 각화동 303-162",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴스코마트",
+      "address": "광주광역시 북구 풍향동 30-12",
+      "roadAddress": "광주광역시 북구 군왕로18번길 2  (풍향동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원-마트",
+      "address": "광주광역시 북구 운암동 351-3",
+      "roadAddress": "광주광역시 북구 북문대로 97  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마운틴마트",
+      "address": "광주광역시 북구 오치동 957-10",
+      "roadAddress": "광주광역시 북구 서하로 257  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월드마트",
+      "address": "광주광역시 북구 문흥동 972-1 금호아파트 상가 106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종로마트",
+      "address": "광주광역시 북구 운암동 943-3",
+      "roadAddress": "광주광역시 북구 대자실로 16  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "E-편한편의점",
+      "address": "광주광역시 북구 오치동 952-9",
+      "roadAddress": "광주광역시 북구 우치로 254  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중흥수퍼",
+      "address": "광주광역시 북구 중흥동 717-22",
+      "roadAddress": "광주광역시 북구 중가로 79  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경진수퍼",
+      "address": "광주광역시 북구 중흥동 678-29",
+      "roadAddress": "광주광역시 북구 중가로115번길 29  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼화수퍼",
+      "address": "광주광역시 북구 각화동 689-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "화순수퍼",
+      "address": "광주광역시 북구 풍향동 659-0",
+      "roadAddress": "광주광역시 북구 군왕로8번길 27-1  (풍향동)",
+      "status": "영업/정상",
+      "licenseDate": "2000-01-01"
+    },
+    {
+      "name": "돼지수퍼",
+      "address": "광주광역시 북구 문흥동 963-3",
+      "roadAddress": "광주광역시 북구 대천로 165-1  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-12"
+    },
+    {
+      "name": "마운틴마트북부",
+      "address": "광주광역시 북구 오치동 946-21",
+      "roadAddress": "광주광역시 북구 안산로 20  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-12"
+    },
+    {
+      "name": "삼호마트(수퍼)",
+      "address": "광주광역시 북구 동림동 산 31 삼호가든상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼익마트",
+      "address": "광주광역시 북구 오치동 862-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리수퍼",
+      "address": "광주광역시 북구 각화동 640-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니수퍼",
+      "address": "광주광역시 북구 임동 187-42",
+      "roadAddress": "광주광역시 북구 자동차로47번길 37  (임동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성수퍼",
+      "address": "광주광역시 북구 중흥동 280-9",
+      "roadAddress": "광주광역시 북구 향토문화로 62  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성슈퍼",
+      "address": "광주광역시 북구 유동 10-3",
+      "roadAddress": "광주광역시 북구 경열로212번길 6  (유동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장성수퍼",
+      "address": "광주광역시 북구 유동 22-10",
+      "roadAddress": "광주광역시 북구 금재로1번길 7-1  (유동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 유동점",
+      "address": "광주광역시 북구 유동 49-7",
+      "roadAddress": "광주광역시 북구 경열로 181  (유동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대원수퍼",
+      "address": "광주광역시 북구 중흥동 284-24",
+      "roadAddress": "광주광역시 북구 서방로 26-1  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "DC홈마트 용두점",
+      "address": "광주광역시 북구 용두동 267-14 B동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-26"
+    },
+    {
+      "name": "비엠에스씨 신안지점",
+      "address": "광주광역시 북구 신안동 121-2",
+      "roadAddress": "광주광역시 북구 무등로 198  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-26"
+    },
+    {
+      "name": "미니스톱 문흥점",
+      "address": "광주광역시 북구 문흥동 1001-1",
+      "roadAddress": "광주광역시 북구 대천로 124-1  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-19"
+    },
+    {
+      "name": "하나로슈퍼",
+      "address": "광주광역시 북구 운암동 294 상가 10호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-19"
+    },
+    {
+      "name": "우미마트",
+      "address": "광주광역시 북구 운암동 1058-3 우미A A동상가 201호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-11"
+    },
+    {
+      "name": "우리마트",
+      "address": "광주광역시 북구 두암동 357-3",
+      "roadAddress": "광주광역시 북구 탁영로15번길 25  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-05"
+    },
+    {
+      "name": "엄지슈퍼",
+      "address": "광주광역시 북구 본촌동 648-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-02-27"
+    },
+    {
+      "name": "영산상회",
+      "address": "광주광역시 북구 운암동 487-1",
+      "roadAddress": "광주광역시 북구 비엔날레로3번길 37  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-02-27"
+    },
+    {
+      "name": "대한월드그린",
+      "address": "광주광역시 북구 일곡동 900-3",
+      "roadAddress": "광주광역시 북구 일곡로 36  (일곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-02-10"
+    },
+    {
+      "name": "알파(전남대점)",
+      "address": "광주광역시 북구 용봉동 300",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-02-09"
+    },
+    {
+      "name": "상아슈퍼",
+      "address": "광주광역시 북구 운암동 92-3",
+      "roadAddress": "광주광역시 북구 북문대로33번길 14-7  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-29"
+    },
+    {
+      "name": "훼미리마트 삼각점",
+      "address": "광주광역시 북구 오치동 857-11",
+      "roadAddress": "광주광역시 북구 설죽로370번길 18  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-23"
+    },
+    {
+      "name": "웰빙할인마트",
+      "address": "광주광역시 북구 오치동 1025-18",
+      "roadAddress": "광주광역시 북구 서하로 287  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-23"
+    },
+    {
+      "name": "아름닷컴몰",
+      "address": "광주광역시 북구 오룡동 1 과학기술원 매점",
+      "roadAddress": "광주광역시 북구 첨단과기로 123  (오룡동,과학기술원 매점)",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-14"
+    },
+    {
+      "name": "미래편의점",
+      "address": "광주광역시 북구 각화동 523-2",
+      "roadAddress": "광주광역시 북구 두리봉길 55  (각화동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-08"
+    },
+    {
+      "name": "미니스톱 두암/무등점",
+      "address": "광주광역시 북구 두암동 576-12",
+      "roadAddress": "광주광역시 북구 두리봉길 45  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-01-08"
+    },
+    {
+      "name": "생활용품 D.C마트",
+      "address": "광주광역시 북구 우산동 231-66",
+      "roadAddress": "광주광역시 북구 동문대로 87-1  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-29"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "광주광역시 북구 신안동 501-8",
+      "roadAddress": "광주광역시 북구 무등로153번길 9  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-29"
+    },
+    {
+      "name": "한빛종합상사",
+      "address": "광주광역시 북구 문흥동 978-1",
+      "roadAddress": "광주광역시 북구 부남길 34-2  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-03-02"
+    },
+    {
+      "name": "창조교육사",
+      "address": "광주광역시 북구 임동 62-4",
+      "roadAddress": "광주광역시 북구 태봉로 9 (임동)",
+      "status": "영업/정상",
+      "licenseDate": "2007-09-14"
+    },
+    {
+      "name": "리빙마트",
+      "address": "광주광역시 북구 두암동 969-1",
+      "roadAddress": "광주광역시 북구 삼정로 50  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐(두암점)",
+      "address": "광주광역시 북구 두암동 888-1",
+      "roadAddress": "광주광역시 북구 군왕로51번길 152  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상아수퍼",
+      "address": "광주광역시 북구 운암동 92-3",
+      "roadAddress": "광주광역시 북구 북문대로33번길 14-7  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시골마트",
+      "address": "광주광역시 북구 삼각동 533 그린타운상가 지하1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빛고을SP",
+      "address": "광주광역시 북구 중흥동 209-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "나이스데이 슈퍼",
+      "address": "광주광역시 북구 중흥동 288-38",
+      "roadAddress": "광주광역시 북구 서방로 66  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오렌지마트",
+      "address": "광주광역시 북구 용두동 330",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "만물수퍼",
+      "address": "광주광역시 북구 용봉동 144-10",
+      "roadAddress": "광주광역시 북구 면앙로32번길 14  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "박용오",
+      "address": "광주광역시 북구 운암동 94-7",
+      "roadAddress": "광주광역시 북구 대자로 87  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "앤마트",
+      "address": "광주광역시 북구 용봉동 1070-9",
+      "roadAddress": "광주광역시 북구 용봉택지로 13  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용봉마트",
+      "address": "광주광역시 북구 용봉동 1249-27",
+      "roadAddress": "광주광역시 북구 설죽로214번길 32  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보원수퍼",
+      "address": "광주광역시 북구 풍향동 416-2",
+      "roadAddress": "광주광역시 북구 두방길 58-4  (풍향동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일상사",
+      "address": "광주광역시 북구 문흥동 998-1  샛터코아 1층 101호",
+      "roadAddress": "광주광역시 북구 서하로 369  (문흥동, 샛터코아 1층 101호)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에이스마트",
+      "address": "광주광역시 북구 오치동 866-1",
+      "roadAddress": "광주광역시 북구 우치로231번길 9  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "광주광역시 북구 용봉동 1378-1",
+      "roadAddress": "광주광역시 북구 저불로 51  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장 터 마 트",
+      "address": "광주광역시 북구 중흥동 696-13",
+      "roadAddress": "광주광역시 북구 중흥로 157  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장터마트",
+      "address": "광주광역시 북구 중흥동 696-13",
+      "roadAddress": "광주광역시 북구 중흥로 157  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴마트",
+      "address": "광주광역시 북구 신안동 478-4",
+      "roadAddress": "광주광역시 북구 서양로 18  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐문흥점",
+      "address": "광주광역시 북구 문흥동 734-4",
+      "roadAddress": "광주광역시 북구 호동로75번길 3  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "참마트",
+      "address": "광주광역시 북구 각화동 874-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "거석슈퍼",
+      "address": "광주광역시 북구 임동 188-23",
+      "roadAddress": "광주광역시 북구 자동차로47번길 60  (임동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그 린",
+      "address": "광주광역시 북구 신안동 240-37",
+      "roadAddress": "광주광역시 북구 서암대로 186  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "참솔마트",
+      "address": "광주광역시 북구 중흥동 286-1",
+      "roadAddress": "광주광역시 북구 서방로 28  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 일곡제일점",
+      "address": "광주광역시 북구 일곡동 828-5",
+      "roadAddress": "광주광역시 북구 송해로 71  (일곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우미마트",
+      "address": "광주광역시 북구 동림동 26-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐 풍향점",
+      "address": "광주광역시 북구 풍향동 577-10",
+      "roadAddress": "광주광역시 북구 군왕로 10  (풍향동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "장터할인마트",
+      "address": "광주광역시 북구 문흥동 1001-2",
+      "roadAddress": "광주광역시 북구 대천로 124-3  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용봉마트",
+      "address": "광주광역시 북구 용봉동 20-18",
+      "roadAddress": "광주광역시 북구 우치로 148  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "E-편한마트",
+      "address": "광주광역시 북구 우산동 604-4",
+      "roadAddress": "광주광역시 북구 면앙로89번길 33  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "홈플러스(주)",
+      "address": "광주광역시 북구 두암동 575-1",
+      "roadAddress": "광주광역시 북구 동문대로 200 (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼각동 우미타운",
+      "address": "광주광역시 북구 삼각동 637",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우성할인마트",
+      "address": "광주광역시 북구 문흥동 787-6 우성아파트 상가 111동 108호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "둥지슈퍼",
+      "address": "광주광역시 북구 운암동 418-14",
+      "roadAddress": "광주광역시 북구 무등로27번길 13  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하상용",
+      "address": "광주광역시 북구 매곡동 45-25",
+      "roadAddress": "광주광역시 북구 서하로 97  (매곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성마트",
+      "address": "광주광역시 북구 두암동 601-15",
+      "roadAddress": "광주광역시 북구 군왕로168번길 18  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴코스코마트",
+      "address": "광주광역시 북구 운암동 400-5",
+      "roadAddress": "광주광역시 북구 서암대로42번길 7  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대박(토토)",
+      "address": "광주광역시 북구 각화동 180-5",
+      "roadAddress": "광주광역시 북구 군왕로 196  (각화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 전대후문점",
+      "address": "광주광역시 북구 중흥동 279-3",
+      "roadAddress": "광주광역시 북구 호동로 16  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)한라종합식품",
+      "address": "광주광역시 북구 용봉동 30-29",
+      "roadAddress": "광주광역시 북구 우치로186번길 54-1  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일출마트",
+      "address": "광주광역시 북구 문흥동 188-3",
+      "roadAddress": "광주광역시 북구 평교로30번길 17  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "상가마트",
+      "address": "광주광역시 북구 문흥동 787-5",
+      "roadAddress": "광주광역시 북구 면앙로31번길 2  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "광주광역시 북구 중흥동 674-1",
+      "roadAddress": "광주광역시 북구 중가로 91-14  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마운틴마트 용봉점",
+      "address": "광주광역시 북구 용봉동 1226-3",
+      "roadAddress": "광주광역시 북구 용주로30번길 36  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전대상대 미니스톱",
+      "address": "광주광역시 북구 용봉동 1253-5",
+      "roadAddress": "광주광역시 북구 설죽로202번길 89  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "다스코상사",
+      "address": "광주광역시 북구 용봉동 1230-13",
+      "roadAddress": "광주광역시 북구 반룡로5번길 27  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱일곡중앙점",
+      "address": "광주광역시 북구 일곡동 822-1",
+      "roadAddress": "광주광역시 북구 송해로 84  (일곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐 문흥5호점",
+      "address": "광주광역시 북구 문흥동 980-1",
+      "roadAddress": "광주광역시 북구 문산로 90  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마트클럽",
+      "address": "광주광역시 북구 두암동 834-18",
+      "roadAddress": "광주광역시 북구 동문대로134번길 53  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 두암점",
+      "address": "광주광역시 북구 두암동 905-19",
+      "roadAddress": "광주광역시 북구 탁영로 5-1  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보물창고",
+      "address": "광주광역시 북구 매곡동 83-12",
+      "roadAddress": "광주광역시 북구 매곡로69번길 1  (매곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니마트",
+      "address": "광주광역시 북구 오치동 1035-4",
+      "roadAddress": "광주광역시 북구 서하로 310-1  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종량제봉투판매",
+      "address": "광주광역시 북구 중흥동 611-10 광주역 다사로움",
+      "roadAddress": "광주광역시 북구 서암대로 268, 101동 107호 (중흥동, 광주역 다사로움)",
+      "status": "영업/정상",
+      "licenseDate": "2010-02-04"
+    },
+    {
+      "name": "창명NS",
+      "address": "광주광역시 북구 문흥동 995-5 문흥동 명지아파트",
+      "roadAddress": "광주광역시 북구 서하로 403, 문흥동 명지아파트 (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2010-03-12"
+    },
+    {
+      "name": "광주상회",
+      "address": "광주광역시 북구 신안동 8-13 ]호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼익수퍼",
+      "address": "광주광역시 북구 동림동 645 삼익아파트상가 1층",
+      "roadAddress": "광주광역시 북구 유림로 175  (동림동,삼익아파트상가 1층)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴스코 두암2호점",
+      "address": "광주광역시 북구 두암동 898-42",
+      "roadAddress": "광주광역시 북구 군왕로51번길 16  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "올마트",
+      "address": "광주광역시 북구 동림동 1161-6 동림빌딩지하",
+      "roadAddress": "광주광역시 북구 동림용산로 12-8  (동림동,동림빌딩지하)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문종선",
+      "address": "광주광역시 북구 중흥동 722-4",
+      "roadAddress": "광주광역시 북구 경열로 242  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "천일수퍼",
+      "address": "광주광역시 북구 문흥동 745-6",
+      "roadAddress": "광주광역시 북구 호동로 56  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 용봉모아점",
+      "address": "광주광역시 북구 용봉동 1389-1",
+      "roadAddress": "광주광역시 북구 용봉택지로 82  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무진장수퍼",
+      "address": "광주광역시 북구 오치동 962-7",
+      "roadAddress": "광주광역시 북구 서하로273번길 21  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐",
+      "address": "광주광역시 북구 중흥동 288-1",
+      "roadAddress": "광주광역시 북구 서방로 42  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 두암 가산점",
+      "address": "광주광역시 북구 두암동 310-17",
+      "roadAddress": "광주광역시 북구 밤실로 207  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성수퍼",
+      "address": "광주광역시 북구 각화동 303-162",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오렌지마트",
+      "address": "광주광역시 북구 용두동 330",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알짜마트",
+      "address": "광주광역시 북구 양산동 120-11 호반아파트 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴스코마트 운암점",
+      "address": "광주광역시 북구 운암동 117-5",
+      "roadAddress": "광주광역시 북구 비엔날레로 54-8  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 광주 대리점",
+      "address": "광주광역시 북구 중흥동 270-12",
+      "roadAddress": "광주광역시 북구 서방로 39  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "독립문구",
+      "address": "광주광역시 북구 누문동 69-4",
+      "roadAddress": "광주광역시 북구 독립로237번길 30  (누문동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국마트",
+      "address": "광주광역시 북구 운암동 110-80 한국A내 상가 B02호",
+      "roadAddress": "광주광역시 북구 금호로40번길 33  (운암동,한국A내 상가 B02호)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "축산물판매장",
+      "address": "광주광역시 북구 문흥동 735",
+      "roadAddress": "광주광역시 북구 호동로 70  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성슈퍼",
+      "address": "광주광역시 북구 운암동 252 운암아파트 345동 404호",
+      "roadAddress": "광주광역시 북구 북문대로98번길 50  (운암동,운암아파트 345동 404호)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 문흥대주점",
+      "address": "광주광역시 북구 문흥동 184-5",
+      "roadAddress": "광주광역시 북구 면앙로121번길 85  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수영수퍼",
+      "address": "광주광역시 북구 용봉동 1216-7",
+      "roadAddress": "광주광역시 북구 용주로40번길 19  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호수퍼",
+      "address": "광주광역시 북구 북동 40-26",
+      "roadAddress": "광주광역시 북구 독립로 263  (북동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호수퍼",
+      "address": "광주광역시 북구 북동 40-26",
+      "roadAddress": "광주광역시 북구 독립로 263  (북동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모아청과",
+      "address": "광주광역시 북구 중흥동 323-1 모아청과 109-104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "햇님마트",
+      "address": "광주광역시 북구 오치동 1044-2",
+      "roadAddress": "광주광역시 북구 송월로30번길 40-2  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 첨단오룡점",
+      "address": "광주광역시 북구 오룡동 1115-4",
+      "roadAddress": "광주광역시 북구 앰코로 10  (오룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-21"
+    },
+    {
+      "name": "성현공구철물상사",
+      "address": "광주광역시 북구 풍향동 496-2",
+      "roadAddress": "광주광역시 북구 동문대로 36  (풍향동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-21"
+    },
+    {
+      "name": "가가호호",
+      "address": "광주광역시 북구 오치동 1025-12",
+      "roadAddress": "광주광역시 북구 서하로 295  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-16"
+    },
+    {
+      "name": "GS25 일곡청솔점",
+      "address": "광주광역시 북구 일곡동 817-5 청솔A3차상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-16"
+    },
+    {
+      "name": "바로고편의점",
+      "address": "광주광역시 북구 신안동 138-2",
+      "roadAddress": "광주광역시 북구 중흥로83번길 21  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-04"
+    },
+    {
+      "name": "신선마트",
+      "address": "광주광역시 북구 본촌동 3018 103~104호",
+      "roadAddress": "광주광역시 북구 양산택지소로 25  (본촌동,103~104호)",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-26"
+    },
+    {
+      "name": "마트 클럽",
+      "address": "광주광역시 북구 운암동 496-11",
+      "roadAddress": "광주광역시 북구 서암대로 31  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-25"
+    },
+    {
+      "name": "문화 병원 매점",
+      "address": "광주광역시 북구 운암동 487-36",
+      "roadAddress": "광주광역시 북구 북문대로20번길 8  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-29"
+    },
+    {
+      "name": "세븐일레븐 광주 용봉 경원점",
+      "address": "광주광역시 북구 용봉동 1376-3",
+      "roadAddress": "광주광역시 북구 용봉택지로 59  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-18"
+    },
+    {
+      "name": "직거래 장터 마트",
+      "address": "광주광역시 북구 문흥동 743-20",
+      "roadAddress": "광주광역시 북구 호동로 47  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-18"
+    },
+    {
+      "name": "E-편한마트",
+      "address": "광주광역시 북구 용봉동 155-28",
+      "roadAddress": "광주광역시 북구 우치로100번길 57  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-18"
+    },
+    {
+      "name": "GS25 광주 중흥점",
+      "address": "광주광역시 북구 중흥동 709-4",
+      "roadAddress": "광주광역시 북구 경양로 145  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-11"
+    },
+    {
+      "name": "중앙마트",
+      "address": "광주광역시 북구 오치동 661-2",
+      "roadAddress": "광주광역시 북구 안산로 25  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-11"
+    },
+    {
+      "name": "훼미리마트 양산 우미점",
+      "address": "광주광역시 북구 양산동 736",
+      "roadAddress": "광주광역시 북구 양산로 37  (양산동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-11"
+    },
+    {
+      "name": "포시즌 편의점",
+      "address": "광주광역시 북구 중흥동 362-2 시너스 전대 빌딩 101호",
+      "roadAddress": "광주광역시 북구 우치로 60  (중흥동,시너스 전대 빌딩 101호)",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-11"
+    },
+    {
+      "name": "복 할인 마트",
+      "address": "광주광역시 북구 두암동 584-31 1층",
+      "roadAddress": "광주광역시 북구 면앙로 191  (두암동,1층)",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-11"
+    },
+    {
+      "name": "삼화 종합 식품",
+      "address": "광주광역시 북구 우산동 183-7",
+      "roadAddress": "광주광역시 북구 동문대로97번길 64  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-11"
+    },
+    {
+      "name": "플러스마트",
+      "address": "광주광역시 북구 운암동 364-1 롯데낙천대A상가 2-103",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-14"
+    },
+    {
+      "name": "(주)직거래장터마트 오치지점",
+      "address": "광주광역시 북구 오치동 574 외 1필지",
+      "roadAddress": "광주광역시 북구 서하로 198  (오치동,외 1필지)",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-14"
+    },
+    {
+      "name": "NC백화점 광주점",
+      "address": "광주광역시 북구 신안동 6-1 NC백화점광주점",
+      "roadAddress": "광주광역시 북구 경열로 249, NC백화점광주점 (신안동)",
+      "status": "영업/정상",
+      "licenseDate": "2013-05-24"
+    },
+    {
+      "name": "세븐일레븐(운암2호)",
+      "address": "광주광역시 북구 운암동 90-4",
+      "roadAddress": "광주광역시 북구 북문대로 41  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "계동식품",
+      "address": "광주광역시 북구 중흥동 599-4 효광맨션 101-101",
+      "roadAddress": "광주광역시 북구 당뫼로 10  (중흥동,효광맨션 101-101)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 문흥대주점",
+      "address": "광주광역시 북구 문흥동 184-5",
+      "roadAddress": "광주광역시 북구 면앙로121번길 85  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 전대중앙점",
+      "address": "광주광역시 북구 용봉동 153-1",
+      "roadAddress": "광주광역시 북구 우치로110번길 24  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마트클럽(풍향점)",
+      "address": "광주광역시 북구 풍향동 580-26",
+      "roadAddress": "광주광역시 북구 참판로 39  (풍향동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "거목청과마트",
+      "address": "광주광역시 북구 운암동 1063-4",
+      "roadAddress": "광주광역시 북구 북문대로159번길 38  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서산슈퍼",
+      "address": "광주광역시 북구 오치동 944-9",
+      "roadAddress": "광주광역시 북구 서하로233번길 35-2  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광주마트",
+      "address": "광주광역시 북구 문흥동 978-12",
+      "roadAddress": "광주광역시 북구 부남길 32  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐일곡3호",
+      "address": "광주광역시 북구 일곡동 843-1",
+      "roadAddress": "광주광역시 북구 설죽로 505-9  (일곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성 열쇠 전기",
+      "address": "광주광역시 북구 일곡동 819-1 현대3차 상가 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해광수퍼",
+      "address": "광주광역시 북구 신안동 240-12",
+      "roadAddress": "광주광역시 북구 자미로26번길 11  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "24시마트",
+      "address": "광주광역시 북구 중흥동 266-1",
+      "roadAddress": "광주광역시 북구 서방로39번길 40  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "파워마겟",
+      "address": "광주광역시 북구 오치동 1035-14",
+      "roadAddress": "광주광역시 북구 송월로30번길 19  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마운틴마트",
+      "address": "광주광역시 북구 신안동 255-32",
+      "roadAddress": "광주광역시 북구 신임로 29  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에텐수퍼",
+      "address": "광주광역시 북구 누문동 174-11",
+      "roadAddress": "광주광역시 북구 천변우로257번길 24  (누문동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광인수퍼",
+      "address": "광주광역시 북구 풍향동 25-71",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마운틴마트",
+      "address": "광주광역시 북구 신안동 255-32",
+      "roadAddress": "광주광역시 북구 신임로 29  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코리아마트",
+      "address": "광주광역시 북구 중흥동 261-5",
+      "roadAddress": "광주광역시 북구 서방로31번길 41  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마트로 운암점",
+      "address": "광주광역시 북구 운암동 1038-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채널큐 24시 편의점",
+      "address": "광주광역시 북구 두암동 941-5",
+      "roadAddress": "광주광역시 북구 삼정로74번길 1  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 용봉중앙점",
+      "address": "광주광역시 북구 용봉동 1372-4",
+      "roadAddress": "광주광역시 북구 설죽로217번길 12  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리수퍼",
+      "address": "광주광역시 북구 신안동 472-10",
+      "roadAddress": "광주광역시 북구 설죽로126번길 45  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐 일레븐 두암2호",
+      "address": "광주광역시 북구 두암동 569-12",
+      "roadAddress": "광주광역시 북구 면앙로 153-1  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 운암주공점",
+      "address": "광주광역시 북구 운암동 90-1",
+      "roadAddress": "광주광역시 북구 북문대로 47  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지엠비 편의점",
+      "address": "광주광역시 북구 매곡동 468-2",
+      "roadAddress": "광주광역시 북구 설죽로 319  (매곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대성수퍼",
+      "address": "광주광역시 북구 각화동 303-162",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성산슈퍼",
+      "address": "광주광역시 북구 용봉동 33-43",
+      "roadAddress": "광주광역시 북구 우치로 172  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금호수퍼",
+      "address": "광주광역시 북구 북동 40-26",
+      "roadAddress": "광주광역시 북구 독립로 263  (북동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "창마트",
+      "address": "광주광역시 북구 운암동 110-51",
+      "roadAddress": "광주광역시 북구 금호로40번길 16  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일마트",
+      "address": "광주광역시 북구 문흥동 974-10",
+      "roadAddress": "광주광역시 북구 부남길15번길 50  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일마트",
+      "address": "광주광역시 북구 문흥동 974-10",
+      "roadAddress": "광주광역시 북구 부남길15번길 50  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영진슈퍼",
+      "address": "광주광역시 북구 중흥동 678-29",
+      "roadAddress": "광주광역시 북구 중가로115번길 29  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대화수퍼",
+      "address": "광주광역시 북구 양산동 620-49",
+      "roadAddress": "광주광역시 북구 하서로 205-2  (양산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "3단지 수퍼",
+      "address": "광주광역시 북구 두암동 969-2",
+      "roadAddress": "광주광역시 북구 삼정로 50-1  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종로마트",
+      "address": "광주광역시 북구 운암동 943-3",
+      "roadAddress": "광주광역시 북구 대자실로 16  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채널큐 동광주점",
+      "address": "광주광역시 북구 두암동 563-1",
+      "roadAddress": "광주광역시 북구 문화소통로302번길 52  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아행행",
+      "address": "광주광역시 북구 우산동 188-5",
+      "roadAddress": "광주광역시 북구 서방로 80  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴스코마트",
+      "address": "광주광역시 북구 삼각동 523",
+      "roadAddress": "광주광역시 북구 설죽로389번길 71  (삼각동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문산슈퍼",
+      "address": "광주광역시 북구 문흥동 953-8",
+      "roadAddress": "광주광역시 북구 서하로355번길 5  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대흥마트",
+      "address": "광주광역시 북구 문흥동 787-1 우산아파트 106동 1506호",
+      "roadAddress": "광주광역시 북구 면앙로31번길 10, 106동 1506호 (문흥동,우산아파트)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "솔이네슈퍼",
+      "address": "광주광역시 북구 운암동 421-10",
+      "roadAddress": "광주광역시 북구 무등로 51  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코아마트",
+      "address": "광주광역시 북구 오치동 936-28",
+      "roadAddress": "광주광역시 북구 신촌로23번길 45  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "임동슈퍼",
+      "address": "광주광역시 북구 임동 94-124",
+      "roadAddress": "광주광역시 북구 임동로8번길 8  (임동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트",
+      "address": "광주광역시 북구 오치동 946-1",
+      "roadAddress": "광주광역시 북구 안산로 22  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정현마트",
+      "address": "광주광역시 북구 삼각동 533",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "황금문구",
+      "address": "광주광역시 북구 오치동 932-6",
+      "roadAddress": "광주광역시 북구 신촌로23번길 2  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "비타민마트",
+      "address": "광주광역시 북구 용봉동 973-1 삼성아파트상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보람마트",
+      "address": "광주광역시 북구 용봉동 1407-6",
+      "roadAddress": "광주광역시 북구 저불로 22  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니수퍼",
+      "address": "광주광역시 북구 임동 187-42",
+      "roadAddress": "광주광역시 북구 자동차로47번길 37  (임동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 동광주점",
+      "address": "광주광역시 북구 두암동 568-6",
+      "roadAddress": "광주광역시 북구 동문대로 157  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우정수퍼",
+      "address": "광주광역시 북구 임동 101-95",
+      "roadAddress": "광주광역시 북구 천변우로 157-6  (임동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무등 미니마트",
+      "address": "광주광역시 북구 두암동 825-40",
+      "roadAddress": "광주광역시 북구 면앙로 192  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주) 그린환경개발",
+      "address": "광주광역시 북구 중흥동 349-15",
+      "roadAddress": "광주광역시 북구 우치로 3  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "재영수퍼",
+      "address": "광주광역시 북구 임동 193-16",
+      "roadAddress": "광주광역시 북구 경양로73번길 29-4  (임동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐 삼각점",
+      "address": "광주광역시 북구 삼각동 755-49",
+      "roadAddress": "광주광역시 북구 설죽로370번길 33  (삼각동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해진유통",
+      "address": "광주광역시 북구 운암동 479-1",
+      "roadAddress": "광주광역시 북구 금호로 111  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코리아세븐",
+      "address": "광주광역시 북구 두암동 907-7",
+      "roadAddress": "광주광역시 북구 군왕로 53  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 동광주점",
+      "address": "광주광역시 북구 두암동 568-6",
+      "roadAddress": "광주광역시 북구 동문대로 157  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린수퍼",
+      "address": "광주광역시 북구 신안동 240-37",
+      "roadAddress": "광주광역시 북구 서암대로 186  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일븐 문흥2호",
+      "address": "광주광역시 북구 문흥동 1001-11",
+      "roadAddress": "광주광역시 북구 문산로 27  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유창식품",
+      "address": "광주광역시 북구 용봉동 405",
+      "roadAddress": "광주광역시 북구 반룡로 57  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 삼각점",
+      "address": "광주광역시 북구 오치동 856-44",
+      "roadAddress": "광주광역시 북구 설죽로370번길 26  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채널큐24시편의점",
+      "address": "광주광역시 북구 중흥동 224-87",
+      "roadAddress": "광주광역시 북구 당뫼로 43-2  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미라보 수퍼",
+      "address": "광주광역시 북구 운암동 1051-5",
+      "roadAddress": "광주광역시 북구 북문대로 158  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종로마트중흥점",
+      "address": "광주광역시 북구 중흥동 329-5",
+      "roadAddress": "광주광역시 북구 자미로66번길 60  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한남마트",
+      "address": "광주광역시 북구 일곡동 819-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씨튼수녀회 사회복지원",
+      "address": "광주광역시 북구 오룡동 1-1",
+      "roadAddress": "광주광역시 북구 앰코로 123  (오룡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 프린스점",
+      "address": "광주광역시 북구 운암동 65-29",
+      "roadAddress": "광주광역시 북구 북문대로 74  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유창마트",
+      "address": "광주광역시 북구 용봉동 405",
+      "roadAddress": "광주광역시 북구 반룡로 57  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보라슈퍼",
+      "address": "광주광역시 북구 운암동 928-6",
+      "roadAddress": "광주광역시 북구 서강로66번길 22-1  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대창문구사",
+      "address": "광주광역시 북구 운암동 786-8",
+      "roadAddress": "광주광역시 북구 동운로 172  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서울수퍼",
+      "address": "광주광역시 북구 중흥동 667-3",
+      "roadAddress": "광주광역시 북구 중가로 116-1  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에스 스토아",
+      "address": "광주광역시 북구 두암동 859-12",
+      "roadAddress": "광주광역시 북구 서방로107번길 67  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 운암금호점",
+      "address": "광주광역시 북구 운암동 1040-5",
+      "roadAddress": "광주광역시 북구 서강로 108  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "명신슈퍼",
+      "address": "광주광역시 북구 용봉동 1408-1",
+      "roadAddress": "광주광역시 북구 저불로 16  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "원텐",
+      "address": "광주광역시 북구 오치동 776-14",
+      "roadAddress": "광주광역시 북구 서하로194번길 3  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주공지하마트",
+      "address": "광주광역시 북구 각화동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "웰빙마트",
+      "address": "광주광역시 북구 오치동 856-28",
+      "roadAddress": "광주광역시 북구 안산로 67  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱",
+      "address": "광주광역시 북구 운암동 65-29",
+      "roadAddress": "광주광역시 북구 북문대로 74  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "녹원슈퍼",
+      "address": "광주광역시 북구 운암동 400-13",
+      "roadAddress": "광주광역시 북구 서암대로42번길 17  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "디마트",
+      "address": "광주광역시 북구 신안동 212-25",
+      "roadAddress": "광주광역시 북구 서양로 33  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴스코마트",
+      "address": "광주광역시 북구 운암동 117-5",
+      "roadAddress": "광주광역시 북구 비엔날레로 54-8  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에이원마트",
+      "address": "광주광역시 북구 오치동 967-10",
+      "roadAddress": "광주광역시 북구 우치로228번길 51  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해피존",
+      "address": "광주광역시 북구 일곡동 822-9",
+      "roadAddress": "광주광역시 북구 일곡마을로 7  (일곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광일슈퍼",
+      "address": "광주광역시 북구 유동 106-17",
+      "roadAddress": "광주광역시 북구 중가로51번길 6  (유동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "스카이마트",
+      "address": "광주광역시 북구 용봉동 142-4",
+      "roadAddress": "광주광역시 북구 우치로126번길 25-3  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 전대공대점",
+      "address": "광주광역시 북구 용봉동 151-1",
+      "roadAddress": "광주광역시 북구 우치로 124-1  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영마트",
+      "address": "광주광역시 북구 용봉동 151-86",
+      "roadAddress": "광주광역시 북구 우치로110번길 5  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱용두제일점",
+      "address": "광주광역시 북구 용두동 300-1",
+      "roadAddress": "광주광역시 북구 하서로 418  (용두동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 일곡제일점",
+      "address": "광주광역시 북구 일곡동 828-5",
+      "roadAddress": "광주광역시 북구 송해로 71  (일곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일할인마트",
+      "address": "광주광역시 북구 오치동 1021-1",
+      "roadAddress": "광주광역시 북구 송월로50번길 2  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴스코마트청솔",
+      "address": "광주광역시 북구 일곡동 819-3 청솔아파트 상가 101동 104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채널큐용봉파크점",
+      "address": "광주광역시 북구 용봉동 1358-9",
+      "roadAddress": "광주광역시 북구 저불로69번길 18  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱용두제일점",
+      "address": "광주광역시 북구 용두동 300-1",
+      "roadAddress": "광주광역시 북구 하서로 418  (용두동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성복마트",
+      "address": "광주광역시 북구 문흥동 968-9",
+      "roadAddress": "광주광역시 북구 대천로157번길 60  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25 신안행복점",
+      "address": "광주광역시 북구 신안동 497-5",
+      "roadAddress": "광주광역시 북구 자산로 67  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-17"
+    },
+    {
+      "name": "세븐일레븐 일곡우치점",
+      "address": "광주광역시 북구 일곡동 834-2",
+      "roadAddress": "광주광역시 북구 송해로 70-4  (일곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-17"
+    },
+    {
+      "name": "미니스톱 운암미라보점",
+      "address": "광주광역시 북구 운암동 229 미라보A 상가동 1,2호",
+      "roadAddress": "광주광역시 북구 서강로 155  (운암동,미라보A 상가동 1,2호)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-17"
+    },
+    {
+      "name": "우리 세탁소",
+      "address": "광주광역시 북구 두암동 850-19",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "진원상회",
+      "address": "광주광역시 북구 우산동 397",
+      "roadAddress": "광주광역시 북구 효죽로 40  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개나리수퍼",
+      "address": "광주광역시 북구 중흥동 357-1",
+      "roadAddress": "광주광역시 북구 용봉로138번길 21  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마운틴마트 전대점",
+      "address": "광주광역시 북구 용봉동 1197-5",
+      "roadAddress": "광주광역시 북구 우치로 175  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코아마트",
+      "address": "광주광역시 북구 일곡동 814-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴스코마트",
+      "address": "광주광역시 북구 두암동 834-18",
+      "roadAddress": "광주광역시 북구 동문대로134번길 53  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영 마 트",
+      "address": "광주광역시 북구 삼각동 820-5",
+      "roadAddress": "광주광역시 북구 송해로 6  (삼각동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중흥수퍼",
+      "address": "광주광역시 북구 중흥동 365-1",
+      "roadAddress": "광주광역시 북구 우치로 52  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "승희수퍼",
+      "address": "광주광역시 북구 중흥동 266-1",
+      "roadAddress": "광주광역시 북구 서방로39번길 40  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱일곡중앙점",
+      "address": "광주광역시 북구 일곡동 822-1",
+      "roadAddress": "광주광역시 북구 송해로 84  (일곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주) 코리아 세븐 용봉3호점",
+      "address": "광주광역시 북구 용봉동 1224-5",
+      "roadAddress": "광주광역시 북구 용주로 28  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "C,J마트",
+      "address": "광주광역시 북구 유동 46-2",
+      "roadAddress": "광주광역시 북구 경열로 183  (유동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "sk글로벌",
+      "address": "광주광역시 북구 동림동 885-12",
+      "roadAddress": "광주광역시 북구 하남대로 691  (동림동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "구내매점",
+      "address": "광주광역시 북구 오룡동 1",
+      "roadAddress": "광주광역시 북구 첨단과기로 123  (오룡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐동림2호",
+      "address": "광주광역시 북구 동림동 1152-1",
+      "roadAddress": "광주광역시 북구 동림용산로 33  (동림동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농산마트",
+      "address": "광주광역시 북구 우산동 232-1",
+      "roadAddress": "광주광역시 북구 서방로 83  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 전남대점",
+      "address": "광주광역시 북구 신안동 477-15",
+      "roadAddress": "광주광역시 북구 자미로 61  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일수퍼",
+      "address": "광주광역시 북구 우산동 174-8",
+      "roadAddress": "광주광역시 북구 동문대로97번길 85-2  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐 문흥3호",
+      "address": "광주광역시 북구 문흥동 1005-8",
+      "roadAddress": "광주광역시 북구 천지인로173번길 30  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우미 청과 수퍼",
+      "address": "광주광역시 북구 오치동 406",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모아수퍼",
+      "address": "광주광역시 북구 양산동 57-6",
+      "roadAddress": "광주광역시 북구 양지길 33  (양산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "강 변 수 퍼",
+      "address": "광주광역시 북구 임동 579",
+      "roadAddress": "광주광역시 북구 천변우로 49  (임동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신용수퍼",
+      "address": "광주광역시 북구 용봉동 161-52",
+      "roadAddress": "광주광역시 북구 우치로 86  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양산주유소",
+      "address": "광주광역시 북구 양산동 610-17",
+      "roadAddress": "광주광역시 북구 하서로 255  (양산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해피데이",
+      "address": "광주광역시 북구 신안동 240-1",
+      "roadAddress": "광주광역시 북구 자미로 26  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빛고을마트",
+      "address": "광주광역시 북구 각화동 528-17",
+      "roadAddress": "광주광역시 북구 두리봉길 52  (각화동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-16"
+    },
+    {
+      "name": "DC마트",
+      "address": "광주광역시 북구 신안동 491-1 111",
+      "roadAddress": "광주광역시 북구 무등로111번길 30  (신안동,111)",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-16"
+    },
+    {
+      "name": "빛고을마트",
+      "address": "광주광역시 북구 신안동 470-43",
+      "roadAddress": "광주광역시 북구 용봉로 2  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-05-16"
+    },
+    {
+      "name": "G마트",
+      "address": "광주광역시 북구 양산동 776 GS그린자이1차상가 103호, 104호, 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-29"
+    },
+    {
+      "name": "세영 마트",
+      "address": "광주광역시 북구 풍향동 579-9",
+      "roadAddress": "광주광역시 북구 필문대로105번길 5  (풍향동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-13"
+    },
+    {
+      "name": "송지 영마트",
+      "address": "광주광역시 북구 양산동 1148 송지트리뷰상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-12"
+    },
+    {
+      "name": "DC 홈 마트",
+      "address": "광주광역시 북구 용두동 267-14 B동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-07"
+    },
+    {
+      "name": "보물창고",
+      "address": "광주광역시 북구 풍향동 603-10",
+      "roadAddress": "광주광역시 북구 동문대로 4  (풍향동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-08-04"
+    },
+    {
+      "name": "GS25 광주일곡점",
+      "address": "광주광역시 북구 일곡동 829-1",
+      "roadAddress": "광주광역시 북구 설죽로 518-4  (일곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-27"
+    },
+    {
+      "name": "삼호마트",
+      "address": "광주광역시 북구 동림동 37-10 삼호가든 상가 105호",
+      "roadAddress": "광주광역시 북구 북문대로 235  (동림동,삼호가든 상가 105호)",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-27"
+    },
+    {
+      "name": "미니스톱 매곡 으뜸점",
+      "address": "광주광역시 북구 매곡동 95-1",
+      "roadAddress": "광주광역시 북구 설죽로315번길 40  (매곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-22"
+    },
+    {
+      "name": "영암마트",
+      "address": "광주광역시 북구 동림동 245",
+      "roadAddress": "광주광역시 북구 유림로 165  (동림동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-22"
+    },
+    {
+      "name": "빛고을 마트 클럽",
+      "address": "광주광역시 북구 양산동 205-6 일신 아파트 상가 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-22"
+    },
+    {
+      "name": "GS25 두암중흥점",
+      "address": "광주광역시 북구 두암동 905-19",
+      "roadAddress": "광주광역시 북구 탁영로 5-1  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-20"
+    },
+    {
+      "name": "삼익 마트",
+      "address": "광주광역시 북구 동림동 645 삼익 상가동 123호",
+      "roadAddress": "광주광역시 북구 유림로 175  (동림동,삼익 상가동 123호)",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-20"
+    },
+    {
+      "name": "알리바이 24시 편의점",
+      "address": "광주광역시 북구 양산동 851 ,852번지",
+      "roadAddress": "광주광역시 북구 양산로 36  (양산동,,852번지)",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-08"
+    },
+    {
+      "name": "훼미리마트 삼각 원룸점",
+      "address": "광주광역시 북구 삼각동 798-1",
+      "roadAddress": "광주광역시 북구 송해로 47-1  (삼각동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-06"
+    },
+    {
+      "name": "용봉 할인마트",
+      "address": "광주광역시 북구 용봉동 584-28",
+      "roadAddress": "광주광역시 북구 설죽로 239-13  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-06"
+    },
+    {
+      "name": "본촌수퍼",
+      "address": "광주광역시 북구 본촌동 322",
+      "roadAddress": "광주광역시 북구 본촌마을길 121  (본촌동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한국수퍼",
+      "address": "광주광역시 북구 두암동 563-19",
+      "roadAddress": "광주광역시 북구 동문대로191번길 32  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리마트",
+      "address": "광주광역시 북구 용봉동 1407-6",
+      "roadAddress": "광주광역시 북구 저불로 22  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중앙스토아",
+      "address": "광주광역시 북구 유동 10-1",
+      "roadAddress": "광주광역시 북구 경열로212번길 4  (유동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수영수퍼",
+      "address": "광주광역시 북구 오치동 1025-8",
+      "roadAddress": "광주광역시 북구 송월로39번길 3  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 두암점",
+      "address": "광주광역시 북구 두암동 905-19",
+      "roadAddress": "광주광역시 북구 탁영로 5-1  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐 일레븐 문흥4호점",
+      "address": "광주광역시 북구 문흥동 956-13",
+      "roadAddress": "광주광역시 북구 대천로139번길 2  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "OK마트",
+      "address": "광주광역시 북구 신안동 256-7",
+      "roadAddress": "광주광역시 북구 무등로 136  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐 용봉4호점",
+      "address": "광주광역시 북구 용봉동 1037-6",
+      "roadAddress": "광주광역시 북구 비엔날레로 112  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "친절상회",
+      "address": "광주광역시 북구 중흥동 676-3",
+      "roadAddress": "광주광역시 북구 중가로113번길 33  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "양산 홈마트",
+      "address": "광주광역시 북구 양산동 209-70",
+      "roadAddress": "광주광역시 북구 상촌로 25-4  (양산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐 운암3호점",
+      "address": "광주광역시 북구 운암동 1051-10",
+      "roadAddress": "광주광역시 북구 북문대로 152  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알짜마트",
+      "address": "광주광역시 북구 양산동 120-11 호반아파트 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "씨앤씨마트 (양산점)",
+      "address": "광주광역시 북구 양산동 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한남체인 2호점",
+      "address": "광주광역시 북구 신안동 250-16",
+      "roadAddress": "광주광역시 북구 무등로 100  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문흥슈퍼",
+      "address": "광주광역시 북구 문흥동 949-16",
+      "roadAddress": "광주광역시 북구 대천로139번길 46  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문흥슈퍼",
+      "address": "광주광역시 북구 문흥동 949-16",
+      "roadAddress": "광주광역시 북구 대천로139번길 46  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "싸용할인마트",
+      "address": "광주광역시 북구 일곡동 814-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "3단지 수퍼",
+      "address": "광주광역시 북구 두암동 969-2",
+      "roadAddress": "광주광역시 북구 삼정로 50-1  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐용봉5호점",
+      "address": "광주광역시 북구 용봉동 1361-1",
+      "roadAddress": "광주광역시 북구 저불로69번길 17-1  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우정수퍼",
+      "address": "광주광역시 북구 신안동 237-47",
+      "roadAddress": "광주광역시 북구 서암대로 168-1  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "소망장식",
+      "address": "광주광역시 북구 운암동 496-11",
+      "roadAddress": "광주광역시 북구 서암대로 31  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "승주수퍼",
+      "address": "광주광역시 북구 중흥동 713-6",
+      "roadAddress": "광주광역시 북구 경양로 162  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마운틴마트",
+      "address": "광주광역시 북구 오치동 957-10",
+      "roadAddress": "광주광역시 북구 서하로 257  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "1코리아세븐 중흥2호점",
+      "address": "광주광역시 북구 중흥동 356-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보람마트",
+      "address": "광주광역시 북구 용봉동 1407-6",
+      "roadAddress": "광주광역시 북구 저불로 22  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "역전휴게마트",
+      "address": "광주광역시 북구 중흥동 700-11",
+      "roadAddress": "광주광역시 북구 무등로 240  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성산슈퍼",
+      "address": "광주광역시 북구 용봉동 33-43",
+      "roadAddress": "광주광역시 북구 우치로 172  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미라보 수퍼",
+      "address": "광주광역시 북구 운암동 1051-5",
+      "roadAddress": "광주광역시 북구 북문대로 158  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "모아마트",
+      "address": "광주광역시 북구 용봉동 1406-1 모아미래도 상가 109",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사마트",
+      "address": "광주광역시 북구 용봉동 353",
+      "roadAddress": "광주광역시 북구 설죽로202번길 90  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코리아세븐 무등2호",
+      "address": "광주광역시 북구 운암동 424-16",
+      "roadAddress": "광주광역시 북구 금호로 2  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광주농협 하나로 클럽",
+      "address": "광주광역시 북구 매곡동 214-19",
+      "roadAddress": "광주광역시 북구 매곡로 50  (매곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "직거래장터마트",
+      "address": "광주광역시 북구 일곡동 816-3 동아아파트 상가 지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "오치할인마트",
+      "address": "광주광역시 북구 오치동 1022-8",
+      "roadAddress": "광주광역시 북구 송월로39번길 2  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "알리바이 24시 편의점",
+      "address": "광주광역시 북구 우산동 359-1",
+      "roadAddress": "광주광역시 북구 동문대로 35  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에덴슈퍼",
+      "address": "광주광역시 북구 누문동 174-11",
+      "roadAddress": "광주광역시 북구 천변우로257번길 24  (누문동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "은정슈퍼",
+      "address": "광주광역시 북구 우산동 518-120",
+      "roadAddress": "광주광역시 북구 독립로402번길 11  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나로 플러스마트",
+      "address": "광주광역시 북구 중흥동 705-6",
+      "roadAddress": "광주광역시 북구 제봉로 305  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "해태마트",
+      "address": "광주광역시 북구 임동 359",
+      "roadAddress": "광주광역시 북구 무등로 22  (임동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼각동 우미타운",
+      "address": "광주광역시 북구 삼각동 637",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴스코마트 전대점",
+      "address": "광주광역시 북구 중흥동 275-8",
+      "roadAddress": "광주광역시 북구 호동로 28  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서강슈퍼",
+      "address": "광주광역시 북구 운암동 782-1",
+      "roadAddress": "광주광역시 북구 동운로 182  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아침햇살마트",
+      "address": "광주광역시 북구 우산동 601-7",
+      "roadAddress": "광주광역시 북구 중문로 96  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우미마트",
+      "address": "광주광역시 북구 운암동 1058-3 우미1차상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대학로명과 24시편의점",
+      "address": "광주광역시 북구 신안동 213-5",
+      "roadAddress": "광주광역시 북구 자미로 36  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영암상회",
+      "address": "광주광역시 북구 각화동 451-1",
+      "roadAddress": "광주광역시 북구 동문대로248번길 10  (각화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아매점",
+      "address": "광주광역시 북구 북동 190-1",
+      "roadAddress": "광주광역시 북구 금남로 121  (북동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱용봉중앙점",
+      "address": "광주광역시 북구 용봉동 1372-4",
+      "roadAddress": "광주광역시 북구 설죽로217번길 12  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "플러스마트",
+      "address": "광주광역시 북구 두암동 396-1",
+      "roadAddress": "광주광역시 북구 참판로 158  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린마트",
+      "address": "광주광역시 북구 각화동 934-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광주광역시북구 장애인 복지회",
+      "address": "광주광역시 북구 오치동 921-6",
+      "roadAddress": "광주광역시 북구 우치로 287-1  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하이퍼마켓",
+      "address": "광주광역시 북구 문흥동 943-2",
+      "roadAddress": "광주광역시 북구 호동로79번길 19  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "광일마트",
+      "address": "광주광역시 북구 문흥동 964-1",
+      "roadAddress": "광주광역시 북구 대천로157번길 108  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행운 할인 마트",
+      "address": "광주광역시 북구 중흥동 114-1",
+      "roadAddress": "광주광역시 북구 와우로 12-1  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "가나다 문구",
+      "address": "광주광역시 북구 신안동 233-41",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "용봉수퍼",
+      "address": "광주광역시 북구 용봉동 1256-7",
+      "roadAddress": "광주광역시 북구 설죽로202번길 20  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농업경영인 북구 연합회",
+      "address": "광주광역시 북구 동림동 1156-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청명마트",
+      "address": "광주광역시 북구 두암동 875-21",
+      "roadAddress": "광주광역시 북구 서방로135번길 2  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱오치2점",
+      "address": "광주광역시 북구 오치동 949-28",
+      "roadAddress": "광주광역시 북구 안산로 2  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그 린 마 트",
+      "address": "광주광역시 북구 두암동 586-13",
+      "roadAddress": "광주광역시 북구 면앙로185번길 31  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "조이마트",
+      "address": "광주광역시 북구 우산동 556-29",
+      "roadAddress": "광주광역시 북구 서양로 158-1  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성 훼미리 마트",
+      "address": "광주광역시 북구 용봉동 973-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빛고을유통",
+      "address": "광주광역시 북구 각화동 225-1",
+      "roadAddress": "광주광역시 북구 군왕로 247  (각화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코리아 편의점",
+      "address": "광주광역시 북구 용봉동 151-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼화식품",
+      "address": "광주광역시 북구 각화동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 우산주공점",
+      "address": "광주광역시 북구 용봉동 1274-7",
+      "roadAddress": "광주광역시 북구 면앙로 30  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴스코 매장",
+      "address": "광주광역시 북구 우산동 633-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "우리24시마트",
+      "address": "광주광역시 북구 두암동 851-12",
+      "roadAddress": "광주광역시 북구 군왕로 120  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채널큐24시편의점",
+      "address": "광주광역시 북구 우산동 616-1",
+      "roadAddress": "광주광역시 북구 평교로 6-1  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "무등수퍼",
+      "address": "광주광역시 북구 우산동 264-68",
+      "roadAddress": "광주광역시 북구 동문대로65번길 16-4  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마트클럽",
+      "address": "광주광역시 북구 각화동 181-23",
+      "roadAddress": "광주광역시 북구 군왕로208번길 24  (각화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아하마트",
+      "address": "광주광역시 북구 문흥동 1011-5 상록아파트지하상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "나이스마트",
+      "address": "광주광역시 북구 두암동 145-17",
+      "roadAddress": "광주광역시 북구 삼정로 122  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "3차 마트",
+      "address": "광주광역시 북구 문흥동 1010-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "호반종합마트",
+      "address": "광주광역시 북구 연제동 478-181",
+      "roadAddress": "광주광역시 북구 연양로28번길 26  (연제동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월드마트",
+      "address": "광주광역시 북구 문흥동 972-1 금호A 상가 1층 112호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-03"
+    },
+    {
+      "name": "킴스클럽마트 일곡점",
+      "address": "광주광역시 북구 일곡동 845-1",
+      "roadAddress": "광주광역시 북구 설죽로 517-5  (일곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-27"
+    },
+    {
+      "name": "킴스클럽마트 동림점",
+      "address": "광주광역시 북구 동림동 1148-1 2층",
+      "roadAddress": "광주광역시 북구 북문대로242번길 9  (동림동,2층)",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-27"
+    },
+    {
+      "name": "친절한24편의점",
+      "address": "광주광역시 북구 신안동 475-3 1층",
+      "roadAddress": "광주광역시 북구 용봉로 40  (신안동,1층)",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-27"
+    },
+    {
+      "name": "모아식품",
+      "address": "광주광역시 북구 일곡동 824-16",
+      "roadAddress": "광주광역시 북구 양일로343번길 47-18  (일곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-27"
+    },
+    {
+      "name": "해태마트",
+      "address": "광주광역시 북구 중흥동 797-16",
+      "roadAddress": "광주광역시 북구 서양로 137  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-27"
+    },
+    {
+      "name": "웰빙마트",
+      "address": "광주광역시 북구 오치동 1043-2",
+      "roadAddress": "광주광역시 북구 서하로316번길 10  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-27"
+    },
+    {
+      "name": "장터할인마트",
+      "address": "광주광역시 북구 용봉동 1256-7",
+      "roadAddress": "광주광역시 북구 설죽로202번길 20  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-27"
+    },
+    {
+      "name": "복할인마트",
+      "address": "광주광역시 북구 두암동 584-31",
+      "roadAddress": "광주광역시 북구 면앙로 191  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-27"
+    },
+    {
+      "name": "GS25 운암병원점",
+      "address": "광주광역시 북구 운암동 365-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-18"
+    },
+    {
+      "name": "GS25 일곡병원점",
+      "address": "광주광역시 북구 일곡동 843-4",
+      "roadAddress": "광주광역시 북구 설죽로 495-10  (일곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-12"
+    },
+    {
+      "name": "조은생활",
+      "address": "광주광역시 북구 용봉동 1273-4",
+      "roadAddress": "광주광역시 북구 면앙로 18  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-12"
+    },
+    {
+      "name": "GS25 용봉현대점",
+      "address": "광주광역시 북구 용봉동 1366-1",
+      "roadAddress": "광주광역시 북구 저불로 68  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-12"
+    },
+    {
+      "name": "보람마트",
+      "address": "광주광역시 북구 임동 100-44",
+      "roadAddress": "광주광역시 북구 천변우로79번길 89  (임동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-11-12"
+    },
+    {
+      "name": "우성슈퍼",
+      "address": "광주광역시 북구 중흥동 363-102",
+      "roadAddress": "광주광역시 북구 향토문화로 57  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-21"
+    },
+    {
+      "name": "조이마트",
+      "address": "광주광역시 북구 우산동 556-29",
+      "roadAddress": "광주광역시 북구 서양로 158-1  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-21"
+    },
+    {
+      "name": "장터할인마트",
+      "address": "광주광역시 북구 오치동 1016-7",
+      "roadAddress": "광주광역시 북구 서하로315번길 39  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-21"
+    },
+    {
+      "name": "바로GO편의점 신안점",
+      "address": "광주광역시 북구 신안동 138-2",
+      "roadAddress": "광주광역시 북구 중흥로83번길 21  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-21"
+    },
+    {
+      "name": "미니스톱 용두제일점",
+      "address": "광주광역시 북구 용두동 300-1",
+      "roadAddress": "광주광역시 북구 하서로 418  (용두동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-21"
+    },
+    {
+      "name": "우리마트",
+      "address": "광주광역시 북구 운암동 479-20",
+      "roadAddress": "광주광역시 북구 북문대로20번길 35  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "돼지수퍼",
+      "address": "광주광역시 북구 문흥동 963-3",
+      "roadAddress": "광주광역시 북구 대천로 165-1  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "하나생활마트",
+      "address": "광주광역시 북구 오치동 855-2",
+      "roadAddress": "광주광역시 북구 우치로331번길 5  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보광훼미리마트 홈플러스점",
+      "address": "광주광역시 북구 각화동 505-9",
+      "roadAddress": "광주광역시 북구 동문대로204번길 11  (각화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "으뜸수퍼",
+      "address": "광주광역시 북구 임동 92-54",
+      "roadAddress": "광주광역시 북구 자동차로1번길 24  (임동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행복이가득한마트",
+      "address": "광주광역시 북구 문흥동 1000-5",
+      "roadAddress": "광주광역시 북구 서하로 388  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "생생마트",
+      "address": "광주광역시 북구 용봉동 1063",
+      "roadAddress": "광주광역시 북구 용봉택지로13번길 17  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "생생마트",
+      "address": "광주광역시 북구 용봉동 1063",
+      "roadAddress": "광주광역시 북구 용봉택지로13번길 17  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마운틴마트효동점",
+      "address": "광주광역시 북구 중흥동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "365마트",
+      "address": "광주광역시 북구 오치동 984-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주)거평유통지점(DC마트)",
+      "address": "광주광역시 북구 용두동 326-5",
+      "roadAddress": "광주광역시 북구 하서로423번길 42  (용두동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "머니텐 마트",
+      "address": "광주광역시 북구 오치동 937-7",
+      "roadAddress": "광주광역시 북구 서하로257번길 31  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동그라미문구",
+      "address": "광주광역시 북구 두암동 892-32",
+      "roadAddress": "광주광역시 북구 서방로160번길 12  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "DC마트",
+      "address": "광주광역시 북구 두암동 847-10",
+      "roadAddress": "광주광역시 북구 군왕로117번길 51-2  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제로 마트",
+      "address": "광주광역시 북구 삼각동 533",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사마트",
+      "address": "광주광역시 북구 일곡동 816-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "굿모닝주유소",
+      "address": "광주광역시 북구 운암동 97-1",
+      "roadAddress": "광주광역시 북구 북문대로 17  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "민이수퍼",
+      "address": "광주광역시 북구 우산동 205-14",
+      "roadAddress": "광주광역시 북구 감적길 60  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대진수퍼",
+      "address": "광주광역시 북구 운암동 416-1",
+      "roadAddress": "광주광역시 북구 무등로5번길 12  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "바른손 팬시",
+      "address": "광주광역시 북구 각화동 216",
+      "roadAddress": "광주광역시 북구 각화대로39번길 6  (각화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐 일레븐 운암5호점",
+      "address": "광주광역시 북구 운암동 936-9",
+      "roadAddress": "광주광역시 북구 북문대로103번길 32  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세계우표사",
+      "address": "광주광역시 북구 누문동 43",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)코리아 세븐 운암4호점",
+      "address": "광주광역시 북구 운암동 96-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)코리아 세븐 각화점",
+      "address": "광주광역시 북구 각화동 180-2",
+      "roadAddress": "광주광역시 북구 군왕로 206  (각화동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한성철물",
+      "address": "광주광역시 북구 중흥동 284-1",
+      "roadAddress": "광주광역시 북구 서방로 16-1  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐 중흥3호점",
+      "address": "광주광역시 북구 중흥동 710-10",
+      "roadAddress": "광주광역시 북구 경양로 163  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월드 마트",
+      "address": "광주광역시 북구 문흥동 968-2 1층",
+      "roadAddress": "광주광역시 북구 대천로157번길 88-2  (문흥동,1층)",
+      "status": "영업/정상",
+      "licenseDate": "2009-07-06"
+    },
+    {
+      "name": "월드 마트",
+      "address": "광주광역시 북구 삼각동 585",
+      "roadAddress": "광주광역시 북구 우치로383번길 5  (삼각동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-29"
+    },
+    {
+      "name": "신선마트",
+      "address": "광주광역시 북구 본촌동 3018",
+      "roadAddress": "광주광역시 북구 양산택지소로 25  (본촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-29"
+    },
+    {
+      "name": "빛고을 에덴 마트",
+      "address": "광주광역시 북구 두암동 846-14",
+      "roadAddress": "광주광역시 북구 동문대로134번길 84  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-06-29"
+    },
+    {
+      "name": "미니스톱 두암2호점",
+      "address": "광주광역시 북구 두암동 61",
+      "roadAddress": "광주광역시 북구 월동로 36  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-29"
+    },
+    {
+      "name": "월드마트",
+      "address": "광주광역시 북구 두암동 59-20 미라보A상가 104~109호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-22"
+    },
+    {
+      "name": "정마트",
+      "address": "광주광역시 북구 매곡동 189 매곡프라자 제지층제비 105호, 106호",
+      "roadAddress": "광주광역시 북구 매곡로 85  (매곡동,매곡프라자 제지층제비 105호, 106호)",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-22"
+    },
+    {
+      "name": "동명철물",
+      "address": "광주광역시 북구 두암동 915-1",
+      "roadAddress": "광주광역시 북구 삼정소로길 52  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-17"
+    },
+    {
+      "name": "한국슈퍼마트",
+      "address": "광주광역시 북구 양산동 355 한국A상가 205호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-13"
+    },
+    {
+      "name": "GS25 전대모아점",
+      "address": "광주광역시 북구 중흥동 322-30",
+      "roadAddress": "광주광역시 북구 서양로 43  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-13"
+    },
+    {
+      "name": "휴먼할인마트",
+      "address": "광주광역시 북구 용봉동 1470 용봉2차 휴먼시아A 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-13"
+    },
+    {
+      "name": "GS25 전대상대점",
+      "address": "광주광역시 북구 용봉동 1254-15",
+      "roadAddress": "광주광역시 북구 설죽로202번길 35  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-13"
+    },
+    {
+      "name": "웰빙할인마트",
+      "address": "광주광역시 북구 두암동 856-5",
+      "roadAddress": "광주광역시 북구 금녕길 23  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-13"
+    },
+    {
+      "name": "여명슈퍼",
+      "address": "광주광역시 북구 대촌동 958-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-08"
+    },
+    {
+      "name": "우리유통",
+      "address": "광주광역시 북구 문흥동 947-1",
+      "roadAddress": "광주광역시 북구 능안로 28-1  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-08"
+    },
+    {
+      "name": "세븐일레븐 용봉모아점",
+      "address": "광주광역시 북구 용봉동 1400-5 , 1400-8",
+      "roadAddress": "광주광역시 북구 운용로95번길 25-3  (용봉동,, 1400-8)",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-08"
+    },
+    {
+      "name": "참사랑 마트",
+      "address": "광주광역시 북구 연제동 1009 대주2차A 상가동 4,5호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-08"
+    },
+    {
+      "name": "행복 1000",
+      "address": "광주광역시 북구 두암동 915-5",
+      "roadAddress": "광주광역시 북구 삼정로 123  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-06"
+    },
+    {
+      "name": "미니스톱 용봉지구점",
+      "address": "광주광역시 북구 용봉동 1398-3",
+      "roadAddress": "광주광역시 북구 저불로 33  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-04-06"
+    },
+    {
+      "name": "길 편의숍",
+      "address": "광주광역시 북구 오치동 946-5",
+      "roadAddress": "광주광역시 북구 우치로275번길 45  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-03-26"
+    },
+    {
+      "name": "(주)지맥스",
+      "address": "광주광역시 북구 양산동 967",
+      "roadAddress": "광주광역시 북구 양산택지로37번길 89 (양산동)",
+      "status": "영업/정상",
+      "licenseDate": "2020-10-20"
+    },
+    {
+      "name": "청포도마트",
+      "address": "광주광역시 북구 중흥동 373-5",
+      "roadAddress": "광주광역시 북구 우치로2번길 24  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "일등수퍼",
+      "address": "광주광역시 북구 운암동 69-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 두암 가산점",
+      "address": "광주광역시 북구 두암동 310-17",
+      "roadAddress": "광주광역시 북구 밤실로 207  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대상유통(주)우산주공점",
+      "address": "광주광역시 북구 용봉동 1274-7",
+      "roadAddress": "광주광역시 북구 면앙로 30  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "OK마트",
+      "address": "광주광역시 북구 두암동 578-1",
+      "roadAddress": "광주광역시 북구 동문대로180번길 26  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 용봉지구점",
+      "address": "광주광역시 북구 용봉동 1398-3",
+      "roadAddress": "광주광역시 북구 저불로 33  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 전대예대점",
+      "address": "광주광역시 북구 용봉동 1209-12",
+      "roadAddress": "광주광역시 북구 용주로30번길 64  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트 광주 신안점",
+      "address": "광주광역시 북구 신안동 154-6",
+      "roadAddress": "광주광역시 북구 자동차로 56  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수영수퍼",
+      "address": "광주광역시 북구 오치동 1025-8",
+      "roadAddress": "광주광역시 북구 송월로39번길 3  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "리빙마트",
+      "address": "광주광역시 북구 두암동 969-1",
+      "roadAddress": "광주광역시 북구 삼정로 50  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐일곡2호점",
+      "address": "광주광역시 북구 일곡동 829-1",
+      "roadAddress": "광주광역시 북구 설죽로 518-4  (일곡동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "부흥수퍼상회",
+      "address": "광주광역시 북구 신안동 1-5",
+      "roadAddress": "광주광역시 북구 무등로 225  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정현마트",
+      "address": "광주광역시 북구 삼각동 533",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "팔영마트",
+      "address": "광주광역시 북구 신안동 132-5",
+      "roadAddress": "광주광역시 북구 자미로6번길 20  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐중흥4호점",
+      "address": "광주광역시 북구 중흥동 722-3",
+      "roadAddress": "광주광역시 북구 경열로234번길 1  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "그린24시 신안점",
+      "address": "광주광역시 북구 신안동 134-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "종로마트",
+      "address": "광주광역시 북구 우산동 496",
+      "roadAddress": "광주광역시 북구 향토문화로2번길 24  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "축산물판매장",
+      "address": "광주광역시 북구 중흥동 224-46",
+      "roadAddress": "광주광역시 북구 당뫼로 43-4  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "예향마트",
+      "address": "광주광역시 북구 문흥동 742-1",
+      "roadAddress": "광주광역시 북구 면앙로32번길 57  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금강문구",
+      "address": "광주광역시 북구 운암동 1016-4",
+      "roadAddress": "광주광역시 북구 서강로 79-17  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "나라마트",
+      "address": "광주광역시 북구 용봉동 154-17",
+      "roadAddress": "광주광역시 북구 호동로63번길 56-4  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "K유통",
+      "address": "광주광역시 북구 두암동 874-13",
+      "roadAddress": "광주광역시 북구 서방로 159  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 운암점",
+      "address": "광주광역시 북구 운암동 434-60",
+      "roadAddress": "광주광역시 북구 북문대로 42-1  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "혜정상사",
+      "address": "광주광역시 북구 장등동 286-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "전주수퍼",
+      "address": "광주광역시 북구 신안동 124-13",
+      "roadAddress": "광주광역시 북구 자미로6번길 30-1  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱두암2점",
+      "address": "광주광역시 북구 두암동 61",
+      "roadAddress": "광주광역시 북구 월동로 36  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빛고을 엄마손맛 김치",
+      "address": "광주광역시 북구 두암동 591-3",
+      "roadAddress": "광주광역시 북구 두리봉길 34-8  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "코사마트",
+      "address": "광주광역시 북구 두암동 59-23",
+      "roadAddress": "광주광역시 북구 월동로 38  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동광주 마트방",
+      "address": "광주광역시 북구 두암동 565-6",
+      "roadAddress": "광주광역시 북구 면앙로139번길 45  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마트피아",
+      "address": "광주광역시 북구 문흥동 943-2",
+      "roadAddress": "광주광역시 북구 호동로79번길 19  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중흥수퍼",
+      "address": "광주광역시 북구 중흥동 365-1",
+      "roadAddress": "광주광역시 북구 우치로 52  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴 동신 마트",
+      "address": "광주광역시 북구 풍향동 602-9",
+      "roadAddress": "광주광역시 북구 풍동길10번길 8  (풍향동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 운암금호점",
+      "address": "광주광역시 북구 운암동 1040-5",
+      "roadAddress": "광주광역시 북구 서강로 108  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에이스 마트",
+      "address": "광주광역시 북구 용봉동 1407-1",
+      "roadAddress": "광주광역시 북구 운용로 86  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "제일문구서점",
+      "address": "광주광역시 북구 신안동 233-23",
+      "roadAddress": "광주광역시 북구 서암대로144번길 12  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱삼각점",
+      "address": "광주광역시 북구 오치동 856-44",
+      "roadAddress": "광주광역시 북구 설죽로370번길 26  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱삼각점",
+      "address": "광주광역시 북구 오치동 856-44",
+      "roadAddress": "광주광역시 북구 설죽로370번길 26  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "톰과제리 문구점",
+      "address": "광주광역시 북구 운암동 407-4",
+      "roadAddress": "광주광역시 북구 동운로 230-1  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "에누리마트(주)",
+      "address": "광주광역시 북구 신안동 13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "미니스톱 두암타운점",
+      "address": "광주광역시 북구 두암동 985-7",
+      "roadAddress": "광주광역시 북구 갈마로 51  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "채널큐24시용봉점",
+      "address": "광주광역시 북구 용봉동 1251",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "행운마트",
+      "address": "광주광역시 북구 두암동 969-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훼미리마트전대상대점",
+      "address": "광주광역시 북구 용봉동 555-8",
+      "roadAddress": "광주광역시 북구 설죽로202번길 62  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아윤상사",
+      "address": "광주광역시 북구 임동 36",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "시온마트",
+      "address": "광주광역시 북구 오치동 992-6",
+      "roadAddress": "광주광역시 북구 문화소통로 124  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "훈이마트",
+      "address": "광주광역시 북구 임동 563",
+      "roadAddress": "광주광역시 북구 천변우로 45  (임동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "디씨마투(주)용봉지점",
+      "address": "광주광역시 북구 용봉동 1038-1",
+      "roadAddress": "광주광역시 북구 비엔날레로 108  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "후레쉬푸드마트",
+      "address": "광주광역시 북구 삼각동 523",
+      "roadAddress": "광주광역시 북구 설죽로389번길 71  (삼각동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마운틴마트 용두점",
+      "address": "광주광역시 북구 양산동 209-172",
+      "roadAddress": "광주광역시 북구 상촌로 14  (양산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "유림수퍼",
+      "address": "광주광역시 북구 우산동 528-71",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "주식회사 다우환경",
+      "address": "광주광역시 북구 신안동 135-7",
+      "roadAddress": "광주광역시 북구 자동차로 62-1, 2층 (신안동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-10-28"
+    },
+    {
+      "name": "광명",
+      "address": "광주광역시 북구 누문동 32-1",
+      "roadAddress": "광주광역시 북구 경열로186번길 43 (누문동)",
+      "status": "영업/정상",
+      "licenseDate": "2021-10-28"
+    },
+    {
+      "name": "예스마트",
+      "address": "광주광역시 북구 오치동 941-1",
+      "roadAddress": "광주광역시 북구 서하로245번길 42  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "마운틴마트 문화점",
+      "address": "광주광역시 북구 두암동 584-31",
+      "roadAddress": "광주광역시 북구 면앙로 191  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "파워마트",
+      "address": "광주광역시 북구 운암동 252",
+      "roadAddress": "광주광역시 북구 북문대로98번길 50  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영암마트",
+      "address": "광주광역시 북구 용봉동 1103",
+      "roadAddress": "광주광역시 북구 비엔날레로 64  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "영암할인마트",
+      "address": "광주광역시 북구 용봉동 1103",
+      "roadAddress": "광주광역시 북구 비엔날레로 64  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "돼지 꿈 마트",
+      "address": "광주광역시 북구 두암동 823-21",
+      "roadAddress": "광주광역시 북구 면앙로 178  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "청암수퍼",
+      "address": "광주광역시 북구 양산동 101",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "보라수퍼",
+      "address": "광주광역시 북구 풍향동 15-3",
+      "roadAddress": "광주광역시 북구 군왕로 35  (풍향동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴스코마켓",
+      "address": "광주광역시 북구 풍향동 30-12",
+      "roadAddress": "광주광역시 북구 군왕로18번길 2  (풍향동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "믿음수퍼",
+      "address": "광주광역시 북구 용봉동 151-77",
+      "roadAddress": "광주광역시 북구 우치로126번길 12  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문흥소비자마트",
+      "address": "광주광역시 북구 문흥동 965-8",
+      "roadAddress": "광주광역시 북구 대천로169번길 12  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문흥소비자마트",
+      "address": "광주광역시 북구 문흥동 965-8",
+      "roadAddress": "광주광역시 북구 대천로169번길 12  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "수호마트",
+      "address": "광주광역시 북구 풍향동 602-1",
+      "roadAddress": "광주광역시 북구 동문대로 20  (풍향동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "뉴스코마트 운암점",
+      "address": "광주광역시 북구 운암동 400-5",
+      "roadAddress": "광주광역시 북구 서암대로42번길 7  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동신수퍼",
+      "address": "광주광역시 북구 중흥동 710-15",
+      "roadAddress": "광주광역시 북구 경양로 155  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월드마트",
+      "address": "광주광역시 북구 문흥동 972-1 금호아파트 상가 106호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아하마트",
+      "address": "광주광역시 북구 매곡동 295-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "문화수퍼",
+      "address": "광주광역시 북구 두암동 865-28",
+      "roadAddress": "광주광역시 북구 군왕로93번길 24  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신용마트인업사",
+      "address": "광주광역시 북구 신안동 3-2",
+      "roadAddress": "광주광역시 북구 태봉로 88  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "21세기 편의점",
+      "address": "광주광역시 북구 중흥동 723-6",
+      "roadAddress": "광주광역시 북구 버들로 24-1  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)씨엔푸드",
+      "address": "광주광역시 북구 대촌동 958-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세븐일레븐 용봉3호",
+      "address": "광주광역시 북구 용봉동 1224-5",
+      "roadAddress": "광주광역시 북구 용주로 28  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "중흥 문구사",
+      "address": "광주광역시 북구 중흥동 654-6",
+      "roadAddress": "광주광역시 북구 경양로197번길 28  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송광수퍼",
+      "address": "광주광역시 북구 풍향동 585-22",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "(주)대상유통 우산주공점",
+      "address": "광주광역시 북구 용봉동 1247-7",
+      "roadAddress": "광주광역시 북구 설죽로 216  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼일수퍼",
+      "address": "광주광역시 북구 유동 7-27",
+      "roadAddress": "광주광역시 북구 버들로 7  (유동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "GS25 양산우미점",
+      "address": "광주광역시 북구 양산동 808",
+      "roadAddress": "광주광역시 북구 양산로 18  (양산동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-07"
+    },
+    {
+      "name": "풍향종합마트",
+      "address": "광주광역시 북구 풍향동 19-52",
+      "roadAddress": "광주광역시 북구 군왕로 32  (풍향동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-08"
+    },
+    {
+      "name": "북광주농업협동조합",
+      "address": "광주광역시 북구 본촌동 772-1",
+      "roadAddress": "광주광역시 북구 하서로 522 (본촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-08"
+    },
+    {
+      "name": "세븐일레븐 광주매곡호반점",
+      "address": "광주광역시 북구 매곡동 214-10 호반상가 101호~104호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-11"
+    },
+    {
+      "name": "주식회사 에스엠마트준성",
+      "address": "광주광역시 북구 일곡동 885-5",
+      "roadAddress": "광주광역시 북구 일곡택지로 65  (일곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-14"
+    },
+    {
+      "name": "세븐일레븐 광주두암라인점",
+      "address": "광주광역시 북구 두암동 916-8",
+      "roadAddress": "광주광역시 북구 삼정로 107  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-18"
+    },
+    {
+      "name": "GS25 일곡지구점",
+      "address": "광주광역시 북구 일곡동 830-5",
+      "roadAddress": "광주광역시 북구 설죽로 506-3  (일곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-18"
+    },
+    {
+      "name": "풍성할인마트",
+      "address": "광주광역시 북구 신용동 용두주공제상가동 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-22"
+    },
+    {
+      "name": "GS25 운암주공점",
+      "address": "광주광역시 북구 운암동 294 제상가및관리사무동 104",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-22"
+    },
+    {
+      "name": "유)장터디씨마트",
+      "address": "광주광역시 북구 문흥동 1001-2",
+      "roadAddress": "광주광역시 북구 대천로 124-3  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-22"
+    },
+    {
+      "name": "권필주",
+      "address": "광주광역시 북구 오치동 1028-15",
+      "roadAddress": "광주광역시 북구 능안로 21  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-25"
+    },
+    {
+      "name": "정금순",
+      "address": "광주광역시 북구 일곡동 828-2",
+      "roadAddress": "광주광역시 북구 송해로 79  (일곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-01"
+    },
+    {
+      "name": "플러스하나로마트",
+      "address": "광주광역시 북구 중흥동 705-6",
+      "roadAddress": "광주광역시 북구 제봉로 305  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-04"
+    },
+    {
+      "name": "어린이교통공원매점",
+      "address": "광주광역시 북구 오룡동 1113",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-09"
+    },
+    {
+      "name": "영암마트 풍향점",
+      "address": "광주광역시 북구 풍향동 580-6",
+      "roadAddress": "광주광역시 북구 참판로 39  (풍향동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-09"
+    },
+    {
+      "name": "GS25 두암율곡점",
+      "address": "광주광역시 북구 두암동 304-52",
+      "roadAddress": "광주광역시 북구 밤실로 191  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-12"
+    },
+    {
+      "name": "GS25신안무등점",
+      "address": "광주광역시 북구 신안동 256-7",
+      "roadAddress": "광주광역시 북구 무등로 136  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-31"
+    },
+    {
+      "name": "더원마트",
+      "address": "광주광역시 북구 양산동 687 주공아파트상가 101호, 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-08-30"
+    },
+    {
+      "name": "해남종합식품",
+      "address": "광주광역시 북구 양산동 939 송원상가 A동 1~2호",
+      "roadAddress": "광주광역시 북구 연양로67번길 15  (양산동,송원상가 A동 1~2호)",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-05"
+    },
+    {
+      "name": "훼미리마트 광주오치점",
+      "address": "광주광역시 북구 오치동 977-1",
+      "roadAddress": "광주광역시 북구 우치로 232  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-21"
+    },
+    {
+      "name": "행복한마트",
+      "address": "광주광역시 북구 동림동 호반베르디움아파트 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2010-09-07"
+    },
+    {
+      "name": "해태마트",
+      "address": "광주광역시 북구 신안동 353-1",
+      "roadAddress": "광주광역시 북구 서암대로90번길 9  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-26"
+    },
+    {
+      "name": "용두마트",
+      "address": "광주광역시 북구 신용동 643-4 상가 102호",
+      "roadAddress": "광주광역시 북구 임방울대로1041번길 15  (신용동,상가 102호)",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-28"
+    },
+    {
+      "name": "GS25양산점",
+      "address": "광주광역시 북구 용두동 306 104,105호",
+      "roadAddress": "광주광역시 북구 하서로 421  (용두동,104,105호)",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-30"
+    },
+    {
+      "name": "세븐일레븐광주문흥한국점",
+      "address": "광주광역시 북구 문흥동 947-1",
+      "roadAddress": "광주광역시 북구 능안로 28-1  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-29"
+    },
+    {
+      "name": "훼미리마트첨단자이점",
+      "address": "광주광역시 북구 신용동 602-10 101호",
+      "roadAddress": "광주광역시 북구 임방울대로1042번길 49  (신용동,101호)",
+      "status": "영업/정상",
+      "licenseDate": "2011-09-30"
+    },
+    {
+      "name": "GS25오치쌍굴점",
+      "address": "광주광역시 북구 오치동 1051-5",
+      "roadAddress": "광주광역시 북구 천지인로115번길 2  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-04"
+    },
+    {
+      "name": "해피뉴파워마트",
+      "address": "광주광역시 북구 양산동 258-13",
+      "roadAddress": "광주광역시 북구 효열로29번길 26  (양산동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-07"
+    },
+    {
+      "name": "미니스톱(유동현대점)",
+      "address": "광주광역시 북구 유동 101-7",
+      "roadAddress": "광주광역시 북구 중가로51번길 28  (유동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-07"
+    },
+    {
+      "name": "중흥모아상회",
+      "address": "광주광역시 북구 중흥동 342-4",
+      "roadAddress": "광주광역시 북구 서양로 65  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-11"
+    },
+    {
+      "name": "GS25 두암중흥점",
+      "address": "광주광역시 북구 두암동 905-19",
+      "roadAddress": "광주광역시 북구 탁영로 5-1  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-17"
+    },
+    {
+      "name": "코사마트",
+      "address": "광주광역시 북구 매곡동 190-5",
+      "roadAddress": "광주광역시 북구 매곡로 81-6  (매곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-17"
+    },
+    {
+      "name": "GS25 전대GS점",
+      "address": "광주광역시 북구 용봉동 365",
+      "roadAddress": "광주광역시 북구 설죽로214번길 99  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-24"
+    },
+    {
+      "name": "고향D.C마트",
+      "address": "광주광역시 북구 중흥동 340-24",
+      "roadAddress": "광주광역시 북구 우치로27번길 11  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-25"
+    },
+    {
+      "name": "세븐일레븐광주전대치대점",
+      "address": "광주광역시 북구 신안동 475-3",
+      "roadAddress": "광주광역시 북구 용봉로 40  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-31"
+    },
+    {
+      "name": "월드마트",
+      "address": "광주광역시 북구 삼각동 585",
+      "roadAddress": "광주광역시 북구 우치로383번길 5  (삼각동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-10-31"
+    },
+    {
+      "name": "햇살마트",
+      "address": "광주광역시 북구 오치동 1006",
+      "roadAddress": "광주광역시 북구 우치로241번길 45  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-07"
+    },
+    {
+      "name": "미니스톱양산우미점",
+      "address": "광주광역시 북구 양산동 209-172",
+      "roadAddress": "광주광역시 북구 상촌로 14 (양산동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-10"
+    },
+    {
+      "name": "쏘울마트",
+      "address": "광주광역시 북구 중흥동 280-6",
+      "roadAddress": "광주광역시 북구 향토문화로 66-1 (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-14"
+    },
+    {
+      "name": "서광마트",
+      "address": "광주광역시 북구 매곡동 290 서광인텔파크아파트 상가 101호",
+      "roadAddress": "광주광역시 북구 하백로 47 (매곡동, 상가-101)",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-11"
+    },
+    {
+      "name": "미니스톱 양산양지점",
+      "address": "광주광역시 북구 양산동 1027",
+      "roadAddress": "광주광역시 북구 자라봉로 49 (양산동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-14"
+    },
+    {
+      "name": "대림마트",
+      "address": "광주광역시 북구 일곡동 817-4 대림2차상가 103,104,105호",
+      "roadAddress": "광주광역시 북구 일곡마을로 245 (일곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-22"
+    },
+    {
+      "name": "서영마트",
+      "address": "광주광역시 북구 운암동 885-43",
+      "roadAddress": "광주광역시 북구 대자로 55 (운암동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-22"
+    },
+    {
+      "name": "만물설비",
+      "address": "광주광역시 북구 오치동 948-20",
+      "roadAddress": "광주광역시 북구 안산로 14-1 (오치동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-11-23"
+    },
+    {
+      "name": "현대수퍼",
+      "address": "광주광역시 북구 임동 135-84",
+      "roadAddress": "광주광역시 북구 중흥로 7 (임동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-01"
+    },
+    {
+      "name": "GS25운암벽산점",
+      "address": "광주광역시 북구 운암동 779-17",
+      "roadAddress": "광주광역시 북구 황계로 9 (운암동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-06"
+    },
+    {
+      "name": "오렌지마트",
+      "address": "광주광역시 북구 용봉동 1197-5",
+      "roadAddress": "광주광역시 북구 우치로 175 (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-08"
+    },
+    {
+      "name": "일곡중앙슈퍼",
+      "address": "광주광역시 북구 일곡동 413",
+      "roadAddress": "광주광역시 북구 일곡로49번길 67 (일곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-15"
+    },
+    {
+      "name": "훼미리마트두암덕산점",
+      "address": "광주광역시 북구 두암동",
+      "roadAddress": "광주광역시 북구 서방로 171 (두암동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-22"
+    },
+    {
+      "name": "주식회사영암마트용두점",
+      "address": "광주광역시 북구 용두동 311-10",
+      "roadAddress": "광주광역시 북구 임방울대로 1038 (용두동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-23"
+    },
+    {
+      "name": "나눔마트",
+      "address": "광주광역시 북구 양산동 1031",
+      "roadAddress": "광주광역시 북구 연양로105번길 26 (양산동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-22"
+    },
+    {
+      "name": "(주)에이젯푸드",
+      "address": "광주광역시 북구 신안동 1-1",
+      "roadAddress": "광주광역시 북구 무등로 217  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-23"
+    },
+    {
+      "name": "위마트동림점",
+      "address": "광주광역시 북구 동림동 280",
+      "roadAddress": "광주광역시 북구 유림로160번길 6 (동림동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-29"
+    },
+    {
+      "name": "세븐일레븐 광주용봉원룸점",
+      "address": "광주광역시 북구 용봉동",
+      "roadAddress": "광주광역시 북구 반룡로 8 (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-30"
+    },
+    {
+      "name": "세븐일레븐 광주신안모아점",
+      "address": "광주광역시 북구 신안동 213-1",
+      "roadAddress": "광주광역시 북구 서양로 28 (신안동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-30"
+    },
+    {
+      "name": "훼미리마트우산마루점",
+      "address": "광주광역시 북구 우산동",
+      "roadAddress": "광주광역시 북구 면앙로 113, 1층 (우산동)",
+      "status": "영업/정상",
+      "licenseDate": "2012-01-03"
+    },
+    {
+      "name": "목화할인점",
+      "address": "광주광역시 북구 두암동 871-1",
+      "roadAddress": "광주광역시 북구 서방로159번길 10  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": "2008-12-29"
+    },
+    {
+      "name": "GS25 용봉원룸점",
+      "address": "광주광역시 북구 용봉동 1273-4",
+      "roadAddress": "광주광역시 북구 면앙로 18  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-29"
+    },
+    {
+      "name": "미니스톱 신안제일점",
+      "address": "광주광역시 북구 신안동 136-7",
+      "roadAddress": "광주광역시 북구 중흥로 75  (신안동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-09-29"
+    },
+    {
+      "name": "돼지수퍼",
+      "address": "광주광역시 북구 문흥동 963-3",
+      "roadAddress": "광주광역시 북구 대천로 165-1  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2009-12-01"
+    },
+    {
+      "name": "마운틴마트북부",
+      "address": "광주광역시 북구 오치동 946-21",
+      "roadAddress": "광주광역시 북구 안산로 20  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": "2010-01-11"
+    },
+    {
+      "name": "성원DC마트",
+      "address": "광주광역시 북구 운암동 69 벽산블루밍2차아파트",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-04"
+    },
+    {
+      "name": "GS25 오치대웅점",
+      "address": "광주광역시 북구 오치동 762 대웅아파트 105호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-01-18"
+    },
+    {
+      "name": "햇살마트",
+      "address": "광주광역시 북구 우산동 177-15",
+      "roadAddress": "광주광역시 북구 서방로63번길 57  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-01"
+    },
+    {
+      "name": "GS25 두암밤실점",
+      "address": "광주광역시 북구 두암동 396-1",
+      "roadAddress": "광주광역시 북구 참판로 158  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-01"
+    },
+    {
+      "name": "웨이스탑 동광주점",
+      "address": "광주광역시 북구 두암동 561-6",
+      "roadAddress": "광주광역시 북구 동문대로 191  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-01"
+    },
+    {
+      "name": "GS25 광주동부점",
+      "address": "광주광역시 북구 중흥동 801-21",
+      "roadAddress": "광주광역시 북구 당뫼로 24  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-08"
+    },
+    {
+      "name": "빛고을마트(운암점)",
+      "address": "광주광역시 북구 운암동 140-17 중흥아파트 2차상가 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-08"
+    },
+    {
+      "name": "쏘울마트(동신점)",
+      "address": "광주광역시 북구 우산동 356-6",
+      "roadAddress": "광주광역시 북구 동문대로 39  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-10"
+    },
+    {
+      "name": "주식회사 호암마트",
+      "address": "광주광역시 북구 연제동 첨단과학산업단지 6블럭 상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-10"
+    },
+    {
+      "name": "훼미리마트(두암중흥점)",
+      "address": "광주광역시 북구 두암동 174-15",
+      "roadAddress": "광주광역시 북구 삼정로 51  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-11"
+    },
+    {
+      "name": "미니스톱문흥점",
+      "address": "광주광역시 북구 문흥동 1001-1",
+      "roadAddress": "광주광역시 북구 대천로 124-1  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-21"
+    },
+    {
+      "name": "마운틴마트(혜민점)",
+      "address": "광주광역시 북구 신용동 679 첨단과학산업단지 상가 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-21"
+    },
+    {
+      "name": "나산할인마트",
+      "address": "광주광역시 북구 운암동 나산건강아파트 109호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-02-28"
+    },
+    {
+      "name": "송지마트",
+      "address": "광주광역시 북구 양산동 1148 송지트리뷰상가 101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-11"
+    },
+    {
+      "name": "훼미리마트 운암굿모닝점",
+      "address": "광주광역시 북구 운암동 1080-9",
+      "roadAddress": "광주광역시 북구 북문대로 184  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-15"
+    },
+    {
+      "name": "그린요양병원매점",
+      "address": "광주광역시 북구 임동 100-67",
+      "roadAddress": "광주광역시 북구 경양로 21  (임동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-22"
+    },
+    {
+      "name": "티 스토어",
+      "address": "광주광역시 북구 중흥동 280-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-23"
+    },
+    {
+      "name": "세븐일레븐 삼각원룸점",
+      "address": "광주광역시 북구 삼각동 772-13",
+      "roadAddress": "광주광역시 북구 설죽로471번길 83  (삼각동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-24"
+    },
+    {
+      "name": "DC홈마트",
+      "address": "광주광역시 북구 두암동 572-20",
+      "roadAddress": "광주광역시 북구 동문대로168번길 25  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-31"
+    },
+    {
+      "name": "우리마트",
+      "address": "광주광역시 북구 우산동 199-7",
+      "roadAddress": "광주광역시 북구 동문대로121번길 35  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-03-31"
+    },
+    {
+      "name": "부창수퍼",
+      "address": "광주광역시 북구 북동 3-1",
+      "roadAddress": "광주광역시 북구 금재로51번길 27  (북동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-04"
+    },
+    {
+      "name": "GS25 오치우산점",
+      "address": "광주광역시 북구 오치동 1022-8",
+      "roadAddress": "광주광역시 북구 송월로39번길 2  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-04"
+    },
+    {
+      "name": "햇살마트",
+      "address": "광주광역시 북구 우산동 177-15",
+      "roadAddress": "광주광역시 북구 서방로63번길 57  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-06"
+    },
+    {
+      "name": "미니스톱 운암예향점",
+      "address": "광주광역시 북구 운암동 412-1",
+      "roadAddress": "광주광역시 북구 하남대로819번길 12-2  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-08"
+    },
+    {
+      "name": "대호수도철물",
+      "address": "광주광역시 북구 두암동 927-1",
+      "roadAddress": "광주광역시 북구 삼정로 95  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-11"
+    },
+    {
+      "name": "SM마트",
+      "address": "광주광역시 북구 양산동 720",
+      "roadAddress": "광주광역시 북구 양산택지로 59  (양산동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-13"
+    },
+    {
+      "name": "뷰티아둘람유통",
+      "address": "광주광역시 북구 임동 94-244",
+      "roadAddress": "광주광역시 북구 임동로8번길 11  (임동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-14"
+    },
+    {
+      "name": "장터홈마트",
+      "address": "광주광역시 북구 운암동 1030",
+      "roadAddress": "광주광역시 북구 서강로 92  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-15"
+    },
+    {
+      "name": "훼미리마트 삼각원룸점",
+      "address": "광주광역시 북구 삼각동 798-1",
+      "roadAddress": "광주광역시 북구 송해로 47-1  (삼각동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-18"
+    },
+    {
+      "name": "허니문마트",
+      "address": "광주광역시 북구 용봉동 1256-25",
+      "roadAddress": "광주광역시 북구 설죽로196번길 31  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-18"
+    },
+    {
+      "name": "세븐일레븐(운암동운점)",
+      "address": "광주광역시 북구 운암동 97-21",
+      "roadAddress": "광주광역시 북구 대자로 91  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-21"
+    },
+    {
+      "name": "영암마트",
+      "address": "광주광역시 북구 문흥동 787-5",
+      "roadAddress": "광주광역시 북구 면앙로31번길 2  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-21"
+    },
+    {
+      "name": "주식회사 푸르젠각화",
+      "address": "광주광역시 북구 각화동 528-17",
+      "roadAddress": "광주광역시 북구 두리봉길 52  (각화동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-21"
+    },
+    {
+      "name": "훼미리마트 두암현대점",
+      "address": "광주광역시 북구 두암동 880-17",
+      "roadAddress": "광주광역시 북구 서방로107번길 38  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-26"
+    },
+    {
+      "name": "미니스톱 일곡중앙점",
+      "address": "광주광역시 북구 일곡동 822-1",
+      "roadAddress": "광주광역시 북구 송해로 84  (일곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-04-29"
+    },
+    {
+      "name": "유림슈퍼",
+      "address": "광주광역시 북구 우산동 518-71",
+      "roadAddress": "광주광역시 북구 서암대로289번길 12  (우산동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-03"
+    },
+    {
+      "name": "청운마트",
+      "address": "광주광역시 북구 양산동 1051",
+      "roadAddress": "광주광역시 북구 연양로105번길 8  (양산동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-20"
+    },
+    {
+      "name": "GS25 광주유동점",
+      "address": "광주광역시 북구 유동 8-8",
+      "roadAddress": "광주광역시 북구 중가로 60  (유동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-23"
+    },
+    {
+      "name": "국군복지단 광주지원본부",
+      "address": "광주광역시 북구 오치동 사서함 85-1 31사단",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2011-05-23"
+    },
+    {
+      "name": "주식회사 영암마켓",
+      "address": "광주광역시 북구 동림동 245",
+      "roadAddress": "광주광역시 북구 유림로 165  (동림동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-03"
+    },
+    {
+      "name": "세븐일레븐 광주본촌점",
+      "address": "광주광역시 북구 본촌동 3005",
+      "roadAddress": "광주광역시 북구 양산택지로 104  (본촌동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-09"
+    },
+    {
+      "name": "세븐일레븐 광주매곡점",
+      "address": "광주광역시 북구 매곡동 44-39",
+      "roadAddress": "광주광역시 북구 매곡로 36-1  (매곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-10"
+    },
+    {
+      "name": "해태할인마트",
+      "address": "광주광역시 북구 유동 46-2",
+      "roadAddress": "광주광역시 북구 경열로 183  (유동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-14"
+    },
+    {
+      "name": "세븐일레븐 광주동림주공점",
+      "address": "광주광역시 북구 동림동 1153-4",
+      "roadAddress": "광주광역시 북구 동림용산로 25  (동림동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-17"
+    },
+    {
+      "name": "미스터펀마켓",
+      "address": "광주광역시 북구 운암동 443-1",
+      "roadAddress": "광주광역시 북구 대자로54번길 3  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-17"
+    },
+    {
+      "name": "GS25 전대후문점",
+      "address": "광주광역시 북구 용봉동 159-8",
+      "roadAddress": "광주광역시 북구 호동로15번길 9  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-22"
+    },
+    {
+      "name": "자연드림빛고을운암점",
+      "address": "광주광역시 북구 운암동 1052",
+      "roadAddress": "광주광역시 북구 서강로 123  (운암동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-23"
+    },
+    {
+      "name": "전대DC마트",
+      "address": "광주광역시 북구 용봉동 366-1",
+      "roadAddress": "광주광역시 북구 설죽로214번길 103  (용봉동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-24"
+    },
+    {
+      "name": "삼성편의점휴게실",
+      "address": "광주광역시 북구 유동 16-11",
+      "roadAddress": "광주광역시 북구 경열로 202-1  (유동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-30"
+    },
+    {
+      "name": "미니스톱 오치삼익점",
+      "address": "광주광역시 북구 오치동 948-11",
+      "roadAddress": "광주광역시 북구 우치로257번길 24  (오치동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-30"
+    },
+    {
+      "name": "미니스톱 양산희망점",
+      "address": "광주광역시 북구 양산동 816-2",
+      "roadAddress": "광주광역시 북구 양산택지로37번길 24  (양산동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-06-30"
+    },
+    {
+      "name": "GS25 전대모아점",
+      "address": "광주광역시 북구 중흥동 322-30",
+      "roadAddress": "광주광역시 북구 서양로 43  (중흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-05"
+    },
+    {
+      "name": "에덴마트",
+      "address": "광주광역시 북구 두암동 846-14",
+      "roadAddress": "광주광역시 북구 동문대로134번길 84  (두암동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-06"
+    },
+    {
+      "name": "홈마트",
+      "address": "광주광역시 북구 문흥동 185-5",
+      "roadAddress": "광주광역시 북구 면앙로121번길 88  (문흥동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-07-06"
+    },
+    {
+      "name": "대원환경(주)",
+      "address": "울산광역시 북구 효문동 816-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-09-09"
+    },
+    {
+      "name": "성우현대슈퍼마켓",
+      "address": "울산광역시 북구 신천동 346-5 성우현대아파트 상가동 107호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-12"
+    },
+    {
+      "name": "용강건어물",
+      "address": "울산광역시 북구 신천동 318-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-24"
+    },
+    {
+      "name": "필그린마트",
+      "address": "울산광역시 북구 신천동 334-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세이브할인마트",
+      "address": "울산광역시 북구 호계동 732-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-11"
+    },
+    {
+      "name": "정은미니슈퍼",
+      "address": "울산광역시 북구 호계동 375",
+      "roadAddress": "울산광역시 북구 호계9길 52-2  (호계동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "신동슈퍼마켓",
+      "address": "울산광역시 북구 신천동 430-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-21"
+    },
+    {
+      "name": "제일마트",
+      "address": "울산광역시 북구 중산동 1166-18",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "정공마트",
+      "address": "울산광역시 북구 매곡동 422-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-18"
+    },
+    {
+      "name": "통화스토아",
+      "address": "울산광역시 북구 상안동 26-2 쌍용아진아파트 2차 지하상가동 지하슈퍼호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "성혜슈퍼",
+      "address": "울산광역시 북구 시례동 96",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "대동스토아",
+      "address": "울산광역시 북구 천곡동 940-6    대동상가  A동 103호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "공단슈퍼",
+      "address": "울산광역시 북구 달천동 209",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "금룡상회",
+      "address": "울산광역시 북구 신명동 152-33",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "연암슈퍼",
+      "address": "울산광역시 북구 연암동 841-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "삼성유통",
+      "address": "울산광역시 북구 연암동 411-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한우리스토아",
+      "address": "울산광역시 북구 화봉동 667-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "송정슈퍼",
+      "address": "울산광역시 북구 화봉동 436-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-11-16"
+    },
+    {
+      "name": "대운슈퍼",
+      "address": "울산광역시 북구 양정동 126",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현대자동차새마을금고",
+      "address": "울산광역시 북구 양정동 700 사택",
+      "roadAddress": "울산광역시 북구 염포로 700  (양정동,사택)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "럭키양정점",
+      "address": "울산광역시 북구 양정동 535-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-31"
+    },
+    {
+      "name": "한농스토아",
+      "address": "울산광역시 북구 신천동 309-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-13"
+    },
+    {
+      "name": "TOP24",
+      "address": "울산광역시 북구 연암동 375-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-07-21"
+    },
+    {
+      "name": "우리슈퍼",
+      "address": "울산광역시 북구 염포동 194-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-12"
+    },
+    {
+      "name": "쌍용마트",
+      "address": "울산광역시 북구 천곡동 418-8 쌍용아진 3차지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-08-24"
+    },
+    {
+      "name": "아진슈퍼",
+      "address": "울산광역시 북구 천곡동 3차상가101호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-09-16"
+    },
+    {
+      "name": "시장마트",
+      "address": "울산광역시 북구 호계동 681-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-07"
+    },
+    {
+      "name": "농심가 양정슈퍼",
+      "address": "울산광역시 북구 양정동 500-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-17"
+    },
+    {
+      "name": "새마을마트",
+      "address": "울산광역시 북구 양정동 500-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-20"
+    },
+    {
+      "name": "대박슈퍼",
+      "address": "울산광역시 북구 양정동 551-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-10-31"
+    },
+    {
+      "name": "쌍용아진슈퍼",
+      "address": "울산광역시 북구 상안동 418-8 쌍용아진아파트 311동 지하",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "빅썬마트",
+      "address": "울산광역시 북구 매곡동 548-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-08"
+    },
+    {
+      "name": "대화산업(주)",
+      "address": "울산광역시 북구 화봉동 674-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2000-12-06"
+    },
+    {
+      "name": "삼호매일유통",
+      "address": "울산광역시 북구 천곡동 940-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "월마트",
+      "address": "울산광역시 북구 중산동 684-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-06"
+    },
+    {
+      "name": "호계마트",
+      "address": "울산광역시 북구 호계동 681-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-08"
+    },
+    {
+      "name": "베스트프랜드편의점",
+      "address": "울산광역시 북구 양정동 624-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-01-08"
+    },
+    {
+      "name": "태화마트",
+      "address": "울산광역시 북구 연암동 291-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-13"
+    },
+    {
+      "name": "훼미리25",
+      "address": "울산광역시 북구 염포동 138-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-02-21"
+    },
+    {
+      "name": "효문상회",
+      "address": "울산광역시 북구 효문동",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-03-20"
+    },
+    {
+      "name": "한국까르푸(주)울산점",
+      "address": "울산광역시 북구 상안동 322-9",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-04-13"
+    },
+    {
+      "name": "훼미리마트 석영점",
+      "address": "울산광역시 북구 양정동 731-13",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-07"
+    },
+    {
+      "name": "새시대 슈퍼",
+      "address": "울산광역시 북구 호계동 693-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-11"
+    },
+    {
+      "name": "토비문구사",
+      "address": "울산광역시 북구 화봉동 452",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-21"
+    },
+    {
+      "name": "서원할인마트",
+      "address": "울산광역시 북구 양정동 496-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-05-22"
+    },
+    {
+      "name": "우리들 호계점",
+      "address": "울산광역시 북구 호계동 730-14",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-20"
+    },
+    {
+      "name": "한마음 슈퍼",
+      "address": "울산광역시 북구 산하동 956",
+      "roadAddress": "울산광역시 북구 동해안로 1650  (산하동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-28"
+    },
+    {
+      "name": "소라횟집",
+      "address": "울산광역시 북구 산하동 2",
+      "roadAddress": "울산광역시 북구 화암길 43  (산하동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-28"
+    },
+    {
+      "name": "달맞이 횟집",
+      "address": "울산광역시 북구 신명동 39",
+      "roadAddress": "울산광역시 북구 신명길 117  (신명동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-28"
+    },
+    {
+      "name": "선돌횟집",
+      "address": "울산광역시 북구 신명동 54",
+      "roadAddress": "울산광역시 북구 신명길 101  (신명동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-28"
+    },
+    {
+      "name": "수평선회마을",
+      "address": "울산광역시 북구 신명동 29-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-28"
+    },
+    {
+      "name": "플러스마트",
+      "address": "울산광역시 북구 호계동 27B14L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-06-29"
+    },
+    {
+      "name": "무룡슈퍼",
+      "address": "울산광역시 북구 화봉동 464-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-05"
+    },
+    {
+      "name": "우리마트",
+      "address": "울산광역시 북구 양정동 776-17",
+      "roadAddress": "울산광역시 북구 오치골2길 9  (양정동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-20"
+    },
+    {
+      "name": "강동농협협동조합",
+      "address": "울산광역시 북구 정자동 169-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-20"
+    },
+    {
+      "name": "밀양슈퍼",
+      "address": "울산광역시 북구 양정동 490-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-25"
+    },
+    {
+      "name": "연암슈퍼",
+      "address": "울산광역시 북구 연암동 300-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-07-30"
+    },
+    {
+      "name": "한우리스토아",
+      "address": "울산광역시 북구 화봉동 667-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-06"
+    },
+    {
+      "name": "미니슈퍼",
+      "address": "울산광역시 북구 진장동 784-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-08-09"
+    },
+    {
+      "name": "현대스토아",
+      "address": "울산광역시 북구 양정동 558-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-03"
+    },
+    {
+      "name": "세일세일마트",
+      "address": "울산광역시 북구 양정동 500-16",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-18"
+    },
+    {
+      "name": "제우스편의점",
+      "address": "울산광역시 북구 연암동 363-4",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-21"
+    },
+    {
+      "name": "민영마트24시편의점",
+      "address": "울산광역시 북구 호계동 25B 2N",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-25"
+    },
+    {
+      "name": "열린장터",
+      "address": "울산광역시 북구 천곡동 165-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-09-25"
+    },
+    {
+      "name": "스마일 할인마트",
+      "address": "울산광역시 북구 연암동 363-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-04"
+    },
+    {
+      "name": "세일세일마트",
+      "address": "울산광역시 북구 중산동 621",
+      "roadAddress": "울산광역시 북구 이화5길 23  (중산동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-22"
+    },
+    {
+      "name": "농소농협아진지소",
+      "address": "울산광역시 북구 천곡동 410-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-25"
+    },
+    {
+      "name": "농소농협매곡지소",
+      "address": "울산광역시 북구 매곡동 542-27",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-10-25"
+    },
+    {
+      "name": "광포슈퍼",
+      "address": "울산광역시 북구 양정동 536-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-09"
+    },
+    {
+      "name": "푸른슈퍼",
+      "address": "울산광역시 북구 화봉동 463-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-14"
+    },
+    {
+      "name": "SF24시",
+      "address": "울산광역시 북구 호계동 24B1N",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-04"
+    },
+    {
+      "name": "유성유리슈퍼",
+      "address": "울산광역시 북구 염포동 187",
+      "roadAddress": "울산광역시 북구 염포로 653  (염포동)",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-17"
+    },
+    {
+      "name": "오가네식품",
+      "address": "울산광역시 북구 천곡동 410-23",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-12-24"
+    },
+    {
+      "name": "약수공판장",
+      "address": "울산광역시 북구 중산동 904-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-02"
+    },
+    {
+      "name": "벽산유통",
+      "address": "울산광역시 북구 연암동 415",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-07"
+    },
+    {
+      "name": "이화슈퍼",
+      "address": "울산광역시 북구 중산동 1166-45",
+      "roadAddress": "울산광역시 북구 화정4길 16  (중산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "아람마트화봉점",
+      "address": "울산광역시 북구 연암동 402-1    지하 1 동비 -01",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-08"
+    },
+    {
+      "name": "OK스마일",
+      "address": "울산광역시 북구 호계동 41B 8L",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-12"
+    },
+    {
+      "name": "우정슈퍼",
+      "address": "울산광역시 북구 연암동 411-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-14"
+    },
+    {
+      "name": "365마트",
+      "address": "울산광역시 북구 정자동 31-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-01-21"
+    },
+    {
+      "name": "한진슈퍼",
+      "address": "울산광역시 북구 천곡동 927-1    한진훼미리아파트 상가동 1층",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-02-19"
+    },
+    {
+      "name": "동경매일유통",
+      "address": "울산광역시 북구 양정동 621-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-08"
+    },
+    {
+      "name": "세계로마트(명촌점)",
+      "address": "울산광역시 북구 명촌동 126B 1N 평창1차아파트 상가",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-03-25"
+    },
+    {
+      "name": "스마일마트",
+      "address": "울산광역시 북구 진장동 126b 1n",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-04-02"
+    },
+    {
+      "name": "무룡상회",
+      "address": "울산광역시 북구 무룡동 935-232",
+      "roadAddress": "울산광역시 북구 달곡1길 4  (무룡동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-09"
+    },
+    {
+      "name": "구멍가게",
+      "address": "울산광역시 북구 연암동 356-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-12"
+    },
+    {
+      "name": "코끼리마트",
+      "address": "울산광역시 북구 신천동 309-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-15"
+    },
+    {
+      "name": "정자그린슈퍼",
+      "address": "울산광역시 북구 정자동 426-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-23"
+    },
+    {
+      "name": "훼미리마트호계점",
+      "address": "울산광역시 북구 천곡동 410-6",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-29"
+    },
+    {
+      "name": "개인 포장마차",
+      "address": "울산광역시 북구 명촌동 평창리비에르",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-29"
+    },
+    {
+      "name": "개인 포장마차",
+      "address": "울산광역시 북구 산하동 124-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-29"
+    },
+    {
+      "name": "소라횟집",
+      "address": "울산광역시 북구 산하동 2",
+      "roadAddress": "울산광역시 북구 화암길 43  (산하동)",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-30"
+    },
+    {
+      "name": "경진슈퍼",
+      "address": "울산광역시 북구 산하동 996",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "포장마차",
+      "address": "울산광역시 북구 정자동 309-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-07-31"
+    },
+    {
+      "name": "M24시 마트",
+      "address": "울산광역시 북구 연암동 380-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-24"
+    },
+    {
+      "name": "OK동아청구할인마트",
+      "address": "울산광역시 북구 화봉동 452",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "프라임 24시 편의점",
+      "address": "울산광역시 북구 상안동 367-7",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-08-29"
+    },
+    {
+      "name": "호계슈퍼",
+      "address": "울산광역시 북구 호계동 171-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-09-04"
+    },
+    {
+      "name": "이화그린슈퍼",
+      "address": "울산광역시 북구 중산동 546-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2002-10-21"
+    },
+    {
+      "name": "Q마트",
+      "address": "울산광역시 북구 염포동 1000-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "동아청구아파트",
+      "address": "울산광역시 북구 화봉동 452",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-07"
+    },
+    {
+      "name": "양정마트",
+      "address": "울산광역시 북구 양정동 439-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-23"
+    },
+    {
+      "name": "세븐-일레븐 울산호게점",
+      "address": "울산광역시 북구 호계동 683-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-23"
+    },
+    {
+      "name": "진장상회",
+      "address": "울산광역시 북구 진장동 464",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-01-29"
+    },
+    {
+      "name": "대경철물설비",
+      "address": "울산광역시 북구 중산동 1002",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2003-11-24"
+    },
+    {
+      "name": "세일세일마트",
+      "address": "울산광역시 북구 중산동 621",
+      "roadAddress": "울산광역시 북구 이화5길 23  (중산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "세일세일마트",
+      "address": "울산광역시 북구 중산동 621",
+      "roadAddress": "울산광역시 북구 이화5길 23  (중산동)",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
       "name": "지에스(GS)25 대구북구해링턴점",
       "address": "대구광역시 북구 읍내동 1449 학정역 효성해링턴 플레이스",
       "roadAddress": "대구광역시 북구 관음로 295, 상가 202동 114, 115호 (읍내동, 학정역 효성해링턴 플레이스)",
       "status": "영업/정상",
       "licenseDate": "2026-02-20"
+    },
+    {
+      "name": "세븐일레븐 나주빛가람종합병원점",
+      "address": "광주광역시 북구 신용동 667 첨단휴먼시아",
+      "roadAddress": "광주광역시 북구 첨단연신로 250, 110동 14층 5호 (신용동, 첨단휴먼시아)",
+      "status": "영업/정상",
+      "licenseDate": "2026-01-20"
+    },
+    {
+      "name": "(유)삼육산업개발",
+      "address": "광주광역시 북구 오치동 926-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "지에스25 경주문무왕릉점",
+      "address": "울산광역시 북구 산하동 509-1 블루마시티 KCC스위첸",
+      "roadAddress": "울산광역시 북구 산하중앙1로 6, 104동 3201호 (산하동, 블루마시티 KCC스위첸)",
+      "status": "영업/정상",
+      "licenseDate": "2020-09-08"
+    },
+    {
+      "name": "농협부산경남유통하나로클럽부산",
+      "address": "부산광역시 북구 금곡동 1874-3 농협하나로클럽",
+      "roadAddress": "부산광역시 북구 금곡대로 469, 농협하나로클럽 (금곡동)",
+      "status": "영업/정상",
+      "licenseDate": "2011-12-28"
     },
     {
       "name": "대가상회",

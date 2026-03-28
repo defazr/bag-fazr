@@ -1,7 +1,7 @@
 {
   "region": "충청북도",
   "regionSlug": "chungbuk",
-  "updatedAt": "2026-03-26",
+  "updatedAt": "2026-03-27",
   "totalCount": 2372,
   "districts": [
     {
@@ -42,7 +42,7 @@
     {
       "district": "증평군",
       "districtSlug": "jeungpyeong",
-      "count": 169
+      "count": 168
     },
     {
       "district": "진천군",
@@ -52,7 +52,7 @@
     {
       "district": "옥천군",
       "districtSlug": "okcheon",
-      "count": 120
+      "count": 121
     },
     {
       "district": "영동군",

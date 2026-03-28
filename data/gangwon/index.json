@@ -1,8 +1,8 @@
 {
   "region": "강원특별자치도",
   "regionSlug": "gangwon",
-  "updatedAt": "2026-03-26",
-  "totalCount": 3815,
+  "updatedAt": "2026-03-27",
+  "totalCount": 3810,
   "districts": [
     {
       "district": "철원군",
@@ -77,7 +77,7 @@
     {
       "district": "원주시",
       "districtSlug": "wonju",
-      "count": 1536
+      "count": 1531
     },
     {
       "district": "양구군",

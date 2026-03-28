@@ -3,8 +3,8 @@
   "regionSlug": "jeonbuk",
   "district": "임실군",
   "districtSlug": "imsil",
-  "updatedAt": "2026-03-26",
-  "totalCount": 219,
+  "updatedAt": "2026-03-27",
+  "totalCount": 215,
   "stores": [
     {
       "name": "운암편의점",
@@ -170,13 +170,6 @@
     {
       "name": "성원슈퍼",
       "address": "전북특별자치도 임실군 임실읍 두곡리 13-5",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "제일슈퍼",
-      "address": "전북특별자치도 임실군 강진면 갈담리 508-3",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -952,13 +945,6 @@
       "licenseDate": ""
     },
     {
-      "name": "합동슈퍼",
-      "address": "전북특별자치도 임실군 성수면 양지리 782-3",
-      "roadAddress": "전북특별자치도 임실군 성수면 임진로 200",
-      "status": "영업/정상",
-      "licenseDate": "2004-07-03"
-    },
-    {
       "name": "사선대마트",
       "address": "전북특별자치도 임실군 관촌면 관촌리 488-9",
       "roadAddress": "전북특별자치도 임실군 관촌면 사선1길 47",
@@ -971,13 +957,6 @@
       "roadAddress": "전북특별자치도 임실군 오수면 오수로 145",
       "status": "영업/정상",
       "licenseDate": "2007-01-11"
-    },
-    {
-      "name": "원천슈퍼",
-      "address": "전북특별자치도 임실군 신평면 원천리 314-3",
-      "roadAddress": "전북특별자치도 임실군 신평면 석등슬치로 349",
-      "status": "영업/정상",
-      "licenseDate": "2008-12-24"
     },
     {
       "name": "태평슈퍼",
@@ -1473,13 +1452,6 @@
       "name": "관촌마트",
       "address": "전북특별자치도 임실군 관촌면 관촌리 520-2",
       "roadAddress": "전북특별자치도 임실군 관촌면 사선로 72",
-      "status": "영업/정상",
-      "licenseDate": "1996-12-24"
-    },
-    {
-      "name": "동남슈퍼",
-      "address": "전북특별자치도 임실군 관촌면 관촌리 463-1",
-      "roadAddress": "전북특별자치도 임실군 관촌면 사선로 47",
       "status": "영업/정상",
       "licenseDate": "1996-12-24"
     },

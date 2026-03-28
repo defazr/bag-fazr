@@ -1,8 +1,8 @@
 {
   "region": "경상북도",
   "regionSlug": "gyeongbuk",
-  "updatedAt": "2026-03-26",
-  "totalCount": 6223,
+  "updatedAt": "2026-03-27",
+  "totalCount": 6203,
   "districts": [
     {
       "district": "안동시",
@@ -47,7 +47,7 @@
     {
       "district": "경주시",
       "districtSlug": "gyeongju",
-      "count": 1095
+      "count": 1078
     },
     {
       "district": "경산시",
@@ -77,7 +77,7 @@
     {
       "district": "의성군",
       "districtSlug": "uiseong",
-      "count": 202
+      "count": 201
     },
     {
       "district": "울진군",
@@ -92,7 +92,7 @@
     {
       "district": "예천군",
       "districtSlug": "yecheon",
-      "count": 133
+      "count": 132
     },
     {
       "district": "영천시",
@@ -107,7 +107,7 @@
     {
       "district": "영주시",
       "districtSlug": "yeongju",
-      "count": 299
+      "count": 298
     },
     {
       "district": "영양군",

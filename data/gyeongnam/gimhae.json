@@ -3,8 +3,8 @@
   "regionSlug": "gyeongnam",
   "district": "김해시",
   "districtSlug": "gimhae",
-  "updatedAt": "2026-03-26",
-  "totalCount": 1401,
+  "updatedAt": "2026-03-27",
+  "totalCount": 1397,
   "stores": [
     {
       "name": "조은할인마트",
@@ -3598,13 +3598,6 @@
       "licenseDate": "2003-11-21"
     },
     {
-      "name": "제일슈퍼",
-      "address": "경상남도 김해시 외동 687-6",
-      "roadAddress": "경상남도 김해시 금관대로1213번길 16-4  (외동)",
-      "status": "영업/정상",
-      "licenseDate": "2003-11-24"
-    },
-    {
       "name": "성실할인마트",
       "address": "경상남도 김해시 삼방동 163-8",
       "roadAddress": "경상남도 김해시 인제로210번길 20  (삼방동)",
@@ -5768,13 +5761,6 @@
       "licenseDate": "2007-11-05"
     },
     {
-      "name": "원마트",
-      "address": "경상남도 김해시 삼정동 654-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2007-11-06"
-    },
-    {
       "name": "굿 25시",
       "address": "경상남도 김해시 구산동 481-3 보보스빌딩 108",
       "roadAddress": "",
@@ -5847,13 +5833,6 @@
     {
       "name": "애드타임",
       "address": "경상남도 김해시 신문동 568-3",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2008-01-02"
-    },
-    {
-      "name": "남해슈퍼",
-      "address": "경상남도 김해시 봉황동 198-7",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2008-01-02"
@@ -9740,13 +9719,6 @@
       "name": "우리생협 장유점",
       "address": "경상남도 김해시 율하동 1330-3 103",
       "roadAddress": "경상남도 김해시 율하3로 71  (율하동,103)",
-      "status": "영업/정상",
-      "licenseDate": "2011-04-12"
-    },
-    {
-      "name": "GS25 김해삼계",
-      "address": "경상남도 김해시 삼계동 1489-6 솔리드빌딩 102호",
-      "roadAddress": "경상남도 김해시 삼계중앙로 39  (삼계동,솔리드빌딩 102호)",
       "status": "영업/정상",
       "licenseDate": "2011-04-12"
     },

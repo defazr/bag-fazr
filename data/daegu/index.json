@@ -1,13 +1,13 @@
 {
   "region": "대구광역시",
   "regionSlug": "daegu",
-  "updatedAt": "2026-03-26",
-  "totalCount": 4792,
+  "updatedAt": "2026-03-27",
+  "totalCount": 4744,
   "districts": [
     {
       "district": "달서구",
       "districtSlug": "dalseo",
-      "count": 1314
+      "count": 1296
     },
     {
       "district": "달성군",
@@ -17,17 +17,17 @@
     {
       "district": "북구",
       "districtSlug": "dgbukgu",
-      "count": 934
+      "count": 931
     },
     {
       "district": "동구",
       "districtSlug": "dgdonggu",
-      "count": 851
+      "count": 832
     },
     {
       "district": "중구",
       "districtSlug": "dgjunggu",
-      "count": 483
+      "count": 482
     },
     {
       "district": "남구",
@@ -37,7 +37,7 @@
     {
       "district": "서구",
       "districtSlug": "dgseogu",
-      "count": 452
+      "count": 448
     },
     {
       "district": "군위군",
@@ -47,7 +47,7 @@
     {
       "district": "수성구",
       "districtSlug": "suseong",
-      "count": 474
+      "count": 471
     }
   ]
 }

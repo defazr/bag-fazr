@@ -3,8 +3,8 @@
   "regionSlug": "jeju",
   "district": "서귀포시",
   "districtSlug": "seogwipo",
-  "updatedAt": "2026-03-26",
-  "totalCount": 616,
+  "updatedAt": "2026-03-27",
+  "totalCount": 614,
   "stores": [
     {
       "name": "지에스25성산동남점",
@@ -1736,13 +1736,6 @@
       "licenseDate": ""
     },
     {
-      "name": "서귀포농협천지간이지소",
-      "address": "제주특별자치도 서귀포시 서귀동 319-10",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "(주)신세계이마트서귀포점",
       "address": "제주특별자치도 서귀포시 법환동 841-2",
       "roadAddress": "",
@@ -1930,13 +1923,6 @@
       "roadAddress": "제주특별자치도 서귀포시 안덕면 일주서로 1357, 1층",
       "status": "영업/정상",
       "licenseDate": "2022-09-26"
-    },
-    {
-      "name": "가파도용궁정식",
-      "address": "제주특별자치도 서귀포시 대정읍 가파리 559-1",
-      "roadAddress": "제주특별자치도 서귀포시 대정읍 가파로67번길 7-1",
-      "status": "영업/정상",
-      "licenseDate": "2022-09-29"
     },
     {
       "name": "예성상회",

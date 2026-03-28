@@ -1,8 +1,8 @@
 {
   "region": "인천광역시",
   "regionSlug": "incheon",
-  "updatedAt": "2026-03-26",
-  "totalCount": 1146,
+  "updatedAt": "2026-03-27",
+  "totalCount": 1145,
   "districts": [
     {
       "district": "부평구",
@@ -52,7 +52,7 @@
     {
       "district": "연수구",
       "districtSlug": "yeonsu",
-      "count": 326
+      "count": 325
     }
   ]
 }

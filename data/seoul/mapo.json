@@ -3,8 +3,8 @@
   "regionSlug": "seoul",
   "district": "마포구",
   "districtSlug": "mapo",
-  "updatedAt": "2026-03-26",
-  "totalCount": 603,
+  "updatedAt": "2026-03-27",
+  "totalCount": 602,
   "stores": [
     {
       "name": "지에스(GS)25 망원라비앙",
@@ -1713,13 +1713,6 @@
       "roadAddress": "서울특별시 마포구 독막로20나길 22, 1층 104호 (상수동, 래미안밤섬리베뉴 1)",
       "status": "영업/정상",
       "licenseDate": "2024-01-29"
-    },
-    {
-      "name": "행복마트",
-      "address": "서울특별시 마포구 공덕동 456 한국사회복지회관 르네상스타워",
-      "roadAddress": "서울특별시 마포구 만리재로 14, 한국사회복지회관 르네상스타워 지하1층 9호 (공덕동)",
-      "status": "영업/정상",
-      "licenseDate": "2024-01-26"
     },
     {
       "name": "세븐일레븐 망원본점",

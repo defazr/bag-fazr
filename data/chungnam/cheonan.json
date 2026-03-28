@@ -3,8 +3,8 @@
   "regionSlug": "chungnam",
   "district": "천안시",
   "districtSlug": "cheonan",
-  "updatedAt": "2026-03-26",
-  "totalCount": 1155,
+  "updatedAt": "2026-03-27",
+  "totalCount": 1152,
   "stores": [
     {
       "name": "세븐일레븐 천안신방유안점",
@@ -4452,9 +4452,9 @@
       "licenseDate": "2018-09-12"
     },
     {
-      "name": "오피스디포 진영",
-      "address": "충청남도 천안시 동남구 청당동 443",
-      "roadAddress": "충청남도 천안시 동남구 광풍로 1877 (청당동)",
+      "name": "오피스문구",
+      "address": "충청남도 천안시 동남구 다가동 396-10 일봉빌딩",
+      "roadAddress": "충청남도 천안시 동남구 다가4길 4-11, 일봉빌딩 101호 (다가동)",
       "status": "영업/정상",
       "licenseDate": "2015-01-01"
     },
@@ -5705,25 +5705,11 @@
       "licenseDate": ""
     },
     {
-      "name": "미니스톱 천안두정점",
-      "address": "충청남도 천안시 서북구 두정동 929-3",
-      "roadAddress": "충청남도 천안시 서북구 봉서2길 7, 111호(쌍용동,시영1차아파트)",
-      "status": "영업/정상",
-      "licenseDate": "2005-03-24"
-    },
-    {
       "name": "훼미리마트성환역점",
       "address": "충청남도 천안시 서북구 성환읍 성환리 449-310",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
-    },
-    {
-      "name": "훼미리마트성환역점",
-      "address": "충청남도 천안시 서북구 성환읍 성환리 449-310",
-      "roadAddress": "충청남도 천안시 서북구 성환읍 성환1로 235",
-      "status": "영업/정상",
-      "licenseDate": "2005-03-28"
     },
     {
       "name": "신동아마트",
@@ -7110,13 +7096,6 @@
       "roadAddress": "충청남도 천안시 동남구 남부대로 122 (용곡동)",
       "status": "영업/정상",
       "licenseDate": "2025-11-21"
-    },
-    {
-      "name": "미라문구유통",
-      "address": "충청남도 천안시 동남구 봉명동 60-10",
-      "roadAddress": "충청남도 천안시 동남구 양지4길 6-8, 1층 (봉명동)",
-      "status": "영업/정상",
-      "licenseDate": "2025-12-05"
     },
     {
       "name": "주식회사 제일식자재",

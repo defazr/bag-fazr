@@ -3,8 +3,8 @@
   "regionSlug": "jeonbuk",
   "district": "완주군",
   "districtSlug": "wanju",
-  "updatedAt": "2026-03-26",
-  "totalCount": 316,
+  "updatedAt": "2026-03-27",
+  "totalCount": 315,
   "stores": [
     {
       "name": "세븐일레븐 삼례퍼스트점",
@@ -579,13 +579,6 @@
       "roadAddress": "전북특별자치도 완주군 삼례읍 원후정2길 10-4",
       "status": "영업/정상",
       "licenseDate": "2025-05-21"
-    },
-    {
-      "name": "세븐일레븐 봉동코아루점",
-      "address": "",
-      "roadAddress": "전북특별자치도 완주군 봉동읍 둔산3로 63, 102호 (전주첨단코아루아파트)",
-      "status": "영업/정상",
-      "licenseDate": "2016-09-22"
     },
     {
       "name": "GS25 둔산도서관점",

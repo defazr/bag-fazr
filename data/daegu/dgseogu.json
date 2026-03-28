@@ -3,8 +3,8 @@
   "regionSlug": "daegu",
   "district": "서구",
   "districtSlug": "dgseogu",
-  "updatedAt": "2026-03-26",
-  "totalCount": 452,
+  "updatedAt": "2026-03-27",
+  "totalCount": 448,
   "stores": [
     {
       "name": "대경할인마트",
@@ -304,13 +304,6 @@
       "name": "신우슈퍼",
       "address": "대구광역시 서구 평리동 1492-31",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "경산슈퍼",
-      "address": "대구광역시 서구 평리동 1485-1",
-      "roadAddress": "대구광역시 서구 문화로 154  (평리동)",
       "status": "영업/정상",
       "licenseDate": ""
     },
@@ -2933,32 +2926,11 @@
       "licenseDate": "2009-07-27"
     },
     {
-      "name": "홀마트",
-      "address": "대구광역시 서구 내당동 918-24",
-      "roadAddress": "대구광역시 서구 달서로5길 24  (내당동)",
-      "status": "영업/정상",
-      "licenseDate": "2009-08-31"
-    },
-    {
       "name": "참마트",
       "address": "대구광역시 서구 내당동 228-3",
       "roadAddress": "대구광역시 서구 서대구로8길 12  (내당동)",
       "status": "영업/정상",
       "licenseDate": "2009-09-15"
-    },
-    {
-      "name": "명성슈퍼",
-      "address": "대구광역시 서구 내당동 240-7",
-      "roadAddress": "대구광역시 서구 평리로 322-1  (내당동)",
-      "status": "영업/정상",
-      "licenseDate": "2009-09-18"
-    },
-    {
-      "name": "현대할인마트",
-      "address": "대구광역시 서구 내당동 892-3",
-      "roadAddress": "대구광역시 서구 달구벌대로377길 7-1  (내당동)",
-      "status": "영업/정상",
-      "licenseDate": "2009-09-21"
     },
     {
       "name": "드림마트",

@@ -3,8 +3,8 @@
   "regionSlug": "incheon",
   "district": "연수구",
   "districtSlug": "yeonsu",
-  "updatedAt": "2026-03-26",
-  "totalCount": 326,
+  "updatedAt": "2026-03-27",
+  "totalCount": 325,
   "stores": [
     {
       "name": "전원슈퍼",
@@ -824,13 +824,6 @@
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
-    },
-    {
-      "name": "경북슈퍼",
-      "address": "인천광역시 연수구 옥련동 548-1",
-      "roadAddress": "인천광역시 연수구 능허대로 195  (옥련동)",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-22"
     },
     {
       "name": "대구슈퍼",

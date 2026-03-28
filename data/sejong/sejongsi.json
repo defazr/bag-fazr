@@ -3,8 +3,8 @@
   "regionSlug": "sejong",
   "district": "세종시",
   "districtSlug": "sejongsi",
-  "updatedAt": "2026-03-26",
-  "totalCount": 173,
+  "updatedAt": "2026-03-27",
+  "totalCount": 165,
   "stores": [
     {
       "name": "이마트24 천안야구장점",
@@ -1157,62 +1157,6 @@
     {
       "name": "정동슈퍼",
       "address": "세종특별자치시 조치원읍 정리 105",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "시장슈퍼",
-      "address": "충청남도 연기군 금남면 용포리 109 2통3반",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "대평농약사",
-      "address": "충청남도 연기군 금남면 용포리 95",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-22"
-    },
-    {
-      "name": "금천슈퍼",
-      "address": "충청남도 연기군 금남면 용포리 137 1 통5반",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-22"
-    },
-    {
-      "name": "인정도매 슈퍼",
-      "address": "충청남도 연기군 금남면 용포리 193 3통5반",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-22"
-    },
-    {
-      "name": "한남공판장",
-      "address": "충청남도 연기군 조치원읍 신흥리 주공상가104호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "2000-01-06"
-    },
-    {
-      "name": "굴다리슈퍼",
-      "address": "충청남도 연기군 조치원읍 신흥리 46",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "조치원서부농협",
-      "address": "충청남도 연기군 조치원읍 죽림리 66-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "삼정슈퍼",
-      "address": "충청남도 연기군 조치원읍 죽림리 49-1",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""

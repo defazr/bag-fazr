@@ -3,51 +3,9 @@
   "regionSlug": "busan",
   "district": "해운대구",
   "districtSlug": "haeundae",
-  "updatedAt": "2026-03-26",
-  "totalCount": 337,
+  "updatedAt": "2026-03-27",
+  "totalCount": 331,
   "stores": [
-    {
-      "name": "GS25 해운대해변점",
-      "address": "부산광역시 해운대구 우동 123-4",
-      "roadAddress": "부산광역시 해운대구 해운대해변로 123",
-      "status": "영업/정상",
-      "licenseDate": "2020-03-15"
-    },
-    {
-      "name": "CU 마린시티점",
-      "address": "부산광역시 해운대구 우동 456-7",
-      "roadAddress": "부산광역시 해운대구 마린시티2로 45",
-      "status": "영업/정상",
-      "licenseDate": "2021-07-20"
-    },
-    {
-      "name": "세븐일레븐 센텀점",
-      "address": "부산광역시 해운대구 재송동 789-1",
-      "roadAddress": "부산광역시 해운대구 센텀남대로 78",
-      "status": "영업/정상",
-      "licenseDate": "2019-11-10"
-    },
-    {
-      "name": "이마트24 좌동점",
-      "address": "부산광역시 해운대구 좌동 234-5",
-      "roadAddress": "부산광역시 해운대구 좌동순환로 234",
-      "status": "영업/정상",
-      "licenseDate": "2022-01-05"
-    },
-    {
-      "name": "GS25 반여점",
-      "address": "부산광역시 해운대구 반여동 567-8",
-      "roadAddress": "부산광역시 해운대구 반여로 56",
-      "status": "영업/정상",
-      "licenseDate": "2018-08-25"
-    },
-    {
-      "name": "CU 중동점",
-      "address": "부산광역시 해운대구 중동 890-1",
-      "roadAddress": "부산광역시 해운대구 중동2로 89",
-      "status": "영업/정상",
-      "licenseDate": "2020-12-15"
-    },
     {
       "name": "무지개스토아",
       "address": "부산광역시 해운대구 반여동 1291-257",

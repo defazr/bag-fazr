@@ -3,30 +3,9 @@
   "regionSlug": "gyeonggi",
   "district": "수원시",
   "districtSlug": "suwon",
-  "updatedAt": "2026-03-26",
-  "totalCount": 44,
+  "updatedAt": "2026-03-27",
+  "totalCount": 41,
   "stores": [
-    {
-      "name": "GS25 수원역점",
-      "address": "경기도 수원시 팔달구 매산동 123",
-      "roadAddress": "경기도 수원시 팔달구 덕영대로 123",
-      "status": "영업/정상",
-      "licenseDate": "2020-05-10"
-    },
-    {
-      "name": "CU 영통점",
-      "address": "경기도 수원시 영통구 영통동 456",
-      "roadAddress": "경기도 수원시 영통구 영통로 456",
-      "status": "영업/정상",
-      "licenseDate": "2021-02-15"
-    },
-    {
-      "name": "세븐일레븐 광교점",
-      "address": "경기도 수원시 영통구 이의동 789",
-      "roadAddress": "경기도 수원시 영통구 광교로 78",
-      "status": "영업/정상",
-      "licenseDate": "2022-08-20"
-    },
     {
       "name": "바른생활유통",
       "address": "경기도 수원시 장안구 율전동 303 힐타운",

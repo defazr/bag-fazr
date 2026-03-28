@@ -3,8 +3,8 @@
   "regionSlug": "gyeonggi",
   "district": "연천군",
   "districtSlug": "yeoncheon",
-  "updatedAt": "2026-03-26",
-  "totalCount": 107,
+  "updatedAt": "2026-03-27",
+  "totalCount": 108,
   "stores": [
     {
       "name": "필로우캠핑장",
@@ -26,6 +26,13 @@
       "roadAddress": "경기도 연천군 전곡읍 어못내길 12-7",
       "status": "영업/정상",
       "licenseDate": "2026-03-05"
+    },
+    {
+      "name": "모두오피스",
+      "address": "경기도 연천군 연천읍 차탄리 89-7",
+      "roadAddress": "경기도 연천군 연천읍 연천로42번길 23",
+      "status": "영업/정상",
+      "licenseDate": "2026-03-20"
     },
     {
       "name": "예일슈퍼",

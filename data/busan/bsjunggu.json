@@ -3,8 +3,8 @@
   "regionSlug": "busan",
   "district": "중구",
   "districtSlug": "bsjunggu",
-  "updatedAt": "2026-03-26",
-  "totalCount": 357,
+  "updatedAt": "2026-03-27",
+  "totalCount": 356,
   "stores": [
     {
       "name": "영주진마트",
@@ -976,13 +976,6 @@
       "name": "하양상회",
       "address": "부산광역시 중구 영주동 산1",
       "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1994-12-21"
-    },
-    {
-      "name": "스파빅마트",
-      "address": "",
-      "roadAddress": "부산광역시 중구 동광길 91 (동광동5가)",
       "status": "영업/정상",
       "licenseDate": "1994-12-21"
     },
