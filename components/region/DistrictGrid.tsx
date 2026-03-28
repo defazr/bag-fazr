@@ -20,7 +20,7 @@ export default function DistrictGrid({
         >
           <span className="font-medium text-gray-900 dark:text-white">{d.district}</span>
           <span className="mt-1 text-sm text-gray-500 dark:text-zinc-400">
-            {d.count > 0 ? `${d.count}곳` : "준비중"}
+            {d.count > 0 ? `${d.count}곳` : "판매처 정보 없음"}
           </span>
         </Link>
       ))}

@@ -68,10 +68,10 @@ export default async function RegionPage({ params }: PageProps) {
           총 {data.totalCount.toLocaleString()}곳 · 데이터 갱신일:{" "}
           {data.updatedAt}
         </p>
+        <p className="mt-2 text-xs text-gray-400 dark:text-zinc-500">
+          지역별 판매처 수는 공공데이터 기준이며, 일부 지역은 실제와 차이가 있을 수 있습니다.
+        </p>
       </section>
-
-      {/* 광고: 상단 */}
-      <AdSlot slotId="8836749083" className="mb-6" />
 
       <section>
         <h2 className="mb-4 text-lg font-bold text-gray-900 dark:text-white">
@@ -79,6 +79,9 @@ export default async function RegionPage({ params }: PageProps) {
         </h2>
         <DistrictGrid regionSlug={region} districts={data.districts} />
       </section>
+
+      {/* 광고: 리스트 아래 */}
+      <AdSlot slotId="8836749083" className="my-6" />
 
       <FaqSection faqs={faqs} />
 

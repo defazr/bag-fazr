@@ -76,15 +76,15 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* 광고: 상단 */}
-      <AdSlot slotId="8836749083" className="my-10" />
-
       <section id="regions" className="mt-10">
         <h2 className="mb-4 text-lg font-bold text-gray-900 dark:text-white">
           지역별 판매처
         </h2>
         <RegionGrid regions={data.regions} />
       </section>
+
+      {/* 광고: 리스트 아래 */}
+      <AdSlot slotId="8836749083" className="my-6" />
 
       {/* 종량제 봉투 이슈 */}
       <section className="mt-10">

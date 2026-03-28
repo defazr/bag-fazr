@@ -46,11 +46,11 @@ export async function generateMetadata({
     title:
       count > 0
         ? `${districtInfo.name} 종량제 봉투 파는곳 총정리 | 가격 | 크기 (2026)`
-        : `${districtInfo.name} 종량제 봉투 판매처 | 데이터 준비중`,
+        : `${districtInfo.name} 종량제 봉투 판매처 안내`,
     description:
       count > 0
         ? `${districtInfo.name} 종량제 봉투 판매처 ${count}곳. 가격, 크기, 편의점 구매 가능 여부까지. 영업 중인 곳만 제공합니다.`
-        : `${districtInfo.name} 종량제 봉투 판매처 정보를 준비하고 있습니다. ${regionInfo.name}의 다른 지역 판매처를 먼저 확인해보세요.`,
+        : `${districtInfo.name} 종량제 봉투 판매처 정보가 없습니다. ${regionInfo.name}의 다른 지역 판매처를 확인해보세요.`,
     alternates: {
       canonical: `https://bag.fazr.co.kr/${region}/${district}`,
     },
@@ -59,7 +59,7 @@ export async function generateMetadata({
       description:
         count > 0
           ? `${districtInfo.name} 종량제 봉투 판매처 ${count}곳 목록`
-          : `${districtInfo.name} 종량제 봉투 판매처 정보 준비중`,
+          : `${districtInfo.name} 종량제 봉투 판매처 정보 없음`,
     },
   };
 }
@@ -195,6 +195,9 @@ export default async function DistrictPage({ params }: PageProps) {
         </h1>
         <p className="mt-1 text-gray-600 dark:text-zinc-400">
           총 {data.totalCount}곳 · 데이터 갱신일: {data.updatedAt}
+        </p>
+        <p className="mt-2 text-xs text-gray-400 dark:text-zinc-500">
+          지역별 판매처 수는 공공데이터 기준이며, 일부 지역은 실제와 차이가 있을 수 있습니다.
         </p>
         <p className="mt-3 text-sm text-gray-500 dark:text-zinc-400 leading-relaxed">
           종량제 봉투는 지역별 가격과 크기가 다르며, 편의점과 마트에서도 구매할
