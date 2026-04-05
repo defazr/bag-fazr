@@ -1,6 +1,6 @@
 # bag.fazr.co.kr — 프로젝트 전체 보고서
 
-> 최종 업데이트: 2026-03-28
+> 최종 업데이트: 2026-04-05
 > 이 문서는 새 세션(GPT/Claude)에서 프로젝트 컨텍스트를 완전히 복원하기 위한 것입니다.
 > 이 파일을 새 세션에 첨부하면 됩니다.
 
@@ -16,7 +16,7 @@
 | 목적 | 전국 종량제 봉투 판매처를 지역별로 검색할 수 있는 SEO 기반 서비스 |
 | 배경 | 2026 나프타 공급 위기 → 종량제 봉투 품귀 → 검색 수요 급증 |
 | 수익 모델 | AdSense (SEO 트래픽 기반) |
-| 현재 상태 | 개발+UI+SEO+콘텐츠+광고+데이터품질+검색UX 전체 완료. 운영 단계 |
+| 현재 상태 | 개발+UI+SEO+콘텐츠+광고+데이터품질+검색UX+내부링크 전체 완료. 운영 단계 |
 
 ---
 
@@ -118,6 +118,8 @@ bag.fazr/
 │   ├── seo/
 │   │   ├── Breadcrumb.tsx
 │   │   └── FaqSection.tsx      # FAQ 아코디언 + JSON-LD
+│   ├── article/
+│   │   └── RegionLinks.tsx     # 6개 지역 chip 링크 (SEO 내부링크)
 │   └── ads/
 │       ├── AdSlot.tsx          # AdSense 슬롯 (플랫, full-width-responsive=false)
 │       └── StickyBottomAd.tsx  # 모바일 하단 (max-h-100px, fluid, sm:hidden)
@@ -222,8 +224,9 @@ hover:bg-gray-50 또는 hover:bg-gray-100 dark:hover:bg-zinc-700
 - 0건: Breadcrumb → h1 → 안내박스("판매처 정보 없음") → 인접지역 → FAQ → CTA
 
 ### Article (/article/*)
-- 8섹션: 공감→문제→원인→해결→CTA중간→팁→CTA하단→정리
+- 8섹션: 공감→문제→원인→해결→CTA중간→팁→CTA하단→RegionLinks→정리
 - CTA 2개 (모두 "/" 연결), 최소 1200자
+- RegionLinks: 서울/경기/부산/인천/대구/광주 6개 지역 chip (P15)
 
 ---
 
@@ -261,6 +264,7 @@ hover:bg-gray-50 또는 hover:bg-gray-100 dark:hover:bg-zinc-700
 ## 9. 커밋 히스토리 (최신→과거, 주요)
 
 ```
+70cc412 P15: Add region internal links to articles for SEO crawl path
 0dc9e3d P14: District card CTR improvement with arrow and hover
 36ed6a8 P13: trust message, search alias, ad placement, remove 준비중
 ae1b916 Rewrite collect.py v2: single-fetch + Sejong fix (69,265 stores)
@@ -307,6 +311,7 @@ f187f52 P10: fix ad layout — remove fixed/sticky
 14. **CTA 정직** — CTA 문구 = 실제 도착 페이지
 15. **중간 끊긴 작업** — 이어하지 말고 처음부터 다시 적용
 16. **GPT 지시서 검증** — 맥락 잃은 GPT 지시 반드시 의견 제시
+17. **Article 내부링크** — RegionLinks 컴포넌트 사용, CTA 하단과 정리 섹션 사이에 삽입
 
 ---
 

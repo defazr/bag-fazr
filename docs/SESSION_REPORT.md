@@ -1,12 +1,12 @@
 # bag.fazr.co.kr 클로드 세션 보고서
 
 > 새 Claude 세션에서 컨텍스트 파악용
-> 최종 업데이트: 2026-03-28
+> 최종 업데이트: 2026-04-05
 
 ## 현재 상태: 운영 단계 진입
 
 사이트 라이브: https://bag.fazr.co.kr
-데이터: 전국 69,265곳 | 페이지: 252개 | SEO+CTR+디자인+광고+데이터품질+검색UX 완료
+데이터: 전국 69,265곳 | 페이지: 252개 | SEO+CTR+디자인+광고+데이터품질+검색UX+내부링크 완료
 
 ## 완료된 Phase
 
@@ -20,6 +20,7 @@
 | 6. 데이터 품질 | collect.py v2 + 세종 복구 + dedupe | 완료 |
 | 7. 검색 UX | alias 검색 + 신뢰 문구 + 광고 위치 | 완료 |
 | 8. CTR 카드 | District 카드 화살표 + hover | 완료 |
+| 9. 내부링크 | Article → 지역 RegionLinks 컴포넌트 | 완료 |
 
 ## 프로젝트 구조
 
@@ -38,6 +39,7 @@ components/
   store/   StoreCard, StoreList (alias 검색)
   region/  RegionGrid, DistrictGrid (화살표 CTR)
   seo/     Breadcrumb, FaqSection
+  article/ RegionLinks (6개 지역 chip, SEO 내부링크)
   layout/  Header, Footer, NoticeBanner, MobileMenu, ThemeToggle, ScrollToTop
   ads/     AdSlot, StickyBottomAd
 data/  regions.json, {region}/, _unmatched.json
@@ -57,6 +59,7 @@ docs/  SESSION_REPORT.md, BLOG_POST_NAVER.md, gpt/
 8. data-full-width-responsive="false" 필수
 9. 검색: alias 매핑 (CU→씨유, GS→GS25 등)
 10. 광고 위치: 리스트 아래 (제목 아래 ❌)
+11. Article 내부링크: RegionLinks 컴포넌트 (CTA 하단 → RegionLinks → 정리 섹션)
 
 ## AdSense 설정
 
