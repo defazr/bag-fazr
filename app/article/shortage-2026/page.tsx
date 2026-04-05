@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Breadcrumb from "@/components/seo/Breadcrumb";
 import FaqSection from "@/components/seo/FaqSection";
+import RegionLinks from "@/components/article/RegionLinks";
 
 export const metadata: Metadata = {
   title: "종량제 봉투 대란 이유 총정리 (2026 최신)",
@@ -233,6 +234,8 @@ export default function ShortageArticlePage() {
               종량제 봉투 판매처 확인하기 →
             </Link>
           </div>
+
+          <RegionLinks />
 
           {/* 8. 정리 */}
           <section>

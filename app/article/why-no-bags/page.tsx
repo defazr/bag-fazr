@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import Breadcrumb from "@/components/seo/Breadcrumb";
 import FaqSection from "@/components/seo/FaqSection";
+import RegionLinks from "@/components/article/RegionLinks";
 
 export const metadata: Metadata = {
   title: "종량제 봉투 요즘 왜 없을까? 직접 확인해봤습니다 (2026)",
@@ -226,6 +227,8 @@ export default function WhyNoBagsPage() {
               종량제 봉투 판매처 확인하기 →
             </Link>
           </div>
+
+          <RegionLinks />
 
           {/* 8. 정리 */}
           <section>
