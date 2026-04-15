@@ -140,7 +140,11 @@ export default function ShortageArticlePage() {
             </p>
             <p className="mt-3">
               지금 전국 69,000곳 이상의 종량제 봉투 판매처 정보를 지역별로 정리해둔
-              데이터가 있습니다. 내 주변에 어디서 살 수 있는지 먼저 확인한 다음에
+              데이터가 있습니다.{" "}
+              <Link href="/seoul" className="font-medium underline underline-offset-2 hover:text-gray-900 dark:hover:text-white transition">서울</Link>{" / "}
+              <Link href="/gyeonggi" className="font-medium underline underline-offset-2 hover:text-gray-900 dark:hover:text-white transition">경기</Link>{" / "}
+              <Link href="/busan" className="font-medium underline underline-offset-2 hover:text-gray-900 dark:hover:text-white transition">부산</Link>{" "}
+              등 주요 지역은 바로 확인할 수 있습니다. 내 주변에 어디서 살 수 있는지 먼저 확인한 다음에
               움직이는 게 시간도 아끼고 헛걸음도 줄이는 방법입니다.
             </p>
           </section>

@@ -3,6 +3,16 @@
   "totalCount": 69265,
   "regions": [
     {
+      "region": "서울특별시",
+      "regionSlug": "seoul",
+      "count": 3118
+    },
+    {
+      "region": "경기도",
+      "regionSlug": "gyeonggi",
+      "count": 15174
+    },
+    {
       "region": "부산광역시",
       "regionSlug": "busan",
       "count": 4164
@@ -43,11 +53,6 @@
       "count": 6203
     },
     {
-      "region": "경기도",
-      "regionSlug": "gyeonggi",
-      "count": 15174
-    },
-    {
       "region": "경상남도",
       "regionSlug": "gyeongnam",
       "count": 4755
@@ -76,11 +81,6 @@
       "region": "세종특별자치시",
       "regionSlug": "sejong",
       "count": 165
-    },
-    {
-      "region": "서울특별시",
-      "regionSlug": "seoul",
-      "count": 3118
     },
     {
       "region": "울산광역시",

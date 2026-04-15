@@ -129,7 +129,11 @@ export default function WhyNoBagsPage() {
             </p>
             <p className="mt-3">
               저도 나중에야 알았는데, 전국 판매처를 지역별로 정리해둔 데이터가
-              있었습니다. 미리 확인했으면 헛걸음 안 했을 텐데 하는 생각이 들더라고요.
+              있었습니다.{" "}
+              <Link href="/seoul" className="font-medium underline underline-offset-2 hover:text-gray-900 dark:hover:text-white transition">서울</Link>,{" "}
+              <Link href="/gyeonggi" className="font-medium underline underline-offset-2 hover:text-gray-900 dark:hover:text-white transition">경기</Link>,{" "}
+              <Link href="/busan" className="font-medium underline underline-offset-2 hover:text-gray-900 dark:hover:text-white transition">부산</Link>{" "}
+              등 주요 지역은 바로 확인 가능합니다. 미리 확인했으면 헛걸음 안 했을 텐데 하는 생각이 들더라고요.
             </p>
           </section>
 
