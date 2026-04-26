@@ -1,6 +1,6 @@
 # bag.fazr.co.kr — 프로젝트 전체 보고서
 
-> 최종 업데이트: 2026-04-05
+> 최종 업데이트: 2026-04-26
 > 이 문서는 새 세션(GPT/Claude)에서 프로젝트 컨텍스트를 완전히 복원하기 위한 것입니다.
 > 이 파일을 새 세션에 첨부하면 됩니다.
 
@@ -16,7 +16,7 @@
 | 목적 | 전국 종량제 봉투 판매처를 지역별로 검색할 수 있는 SEO 기반 서비스 |
 | 배경 | 2026 나프타 공급 위기 → 종량제 봉투 품귀 → 검색 수요 급증 |
 | 수익 모델 | AdSense (SEO 트래픽 기반) |
-| 현재 상태 | 개발+UI+SEO+콘텐츠+광고+데이터품질+검색UX+내부링크 전체 완료. 운영 단계 |
+| 현재 상태 | P17.5 완료. 허브 article + 양방향 내부링크 + 홈/메뉴 동선 완성. 색인 확장 대기. |
 
 ---
 
@@ -43,44 +43,12 @@
 - **수량**: 전국 69,265곳 (dedupe 후)
 - **미매칭**: 14건 (연기군/주소깨짐/군위 — 무시 가능)
 - **구조**: 17개 시/도, 229개 시/군/구
-- **정적 페이지**: 252개
+- **정적 페이지**: 253개
+- **Article**: 3개 (shortage-2026, why-no-bags, where-to-buy)
 - **수집 방식**: collect.py v2 — 1회 전국 수집 → 주소 파싱 분류 → dedupe
-- **주소 파싱**: normalize + 시/도 우선 매칭 (동명 구 문제 해결)
-- **세종 처리**: 구 없음 → "세종시"(sejongsi)로 직접 매핑
-
-### API 정보
-- 행정안전부_자원환경_쓰레기종량제봉투판매업
-- 일일 한도: 10,000건
-- localCode: 6110000_ALL (전국 반환)
-- 필터: SALS_STTS_CD="01" (영업/정상)
-- API 콜: 905회 (1회 수집 구조)
-
-### collect.py v2 주요 변경 (2026-03-28)
-- 기존: 17개 시/도별 localCode 호출 (각각 전국 반환 → 중복 17배) → 15,385+ API 콜
-- 변경: 1회 전국 수집 + 주소 파싱 분류 → 905 API 콜 (94% 절감)
-- 세종 예외: extract_district()에서 세종특별자치시 → "세종시" 직접 반환
-- dedupe: name + address 기준 중복 제거
 
 ### 0건 구 (API 데이터 없음 — 수정 불가)
 서울 강북구/중랑구/송파구, 울산 울주군, 강원 고성군, 충남 부여군/청양군/당진시
-
-### 종량제 봉투 가격 참고 (인천 기준)
-
-| 구분 | 크기 | 가격 |
-|------|------|------|
-| 일반용(재사용) | 3L | 90원 |
-| | 5L | 130원 |
-| | 10L | 250원 |
-| | 20L | 490원 |
-| | 30L | 740원 |
-| | 50L | 1,250원 |
-| | 75L | 1,880원 |
-| PP마대 | 20L | 2,040원 |
-| 음식물(가정) | kg당 130원 / L당 100원 (2L=190원) |
-| 음식물(소형음식점) | kg당 190원 / L당 140원 |
-| 음식물(다량배출) | kg당 230원 / L당 170원 |
-
-※ 가격은 지자체마다 다름. 위는 인천 기준 참고값.
 
 ---
 
@@ -90,23 +58,24 @@
 bag.fazr/
 ├── app/
 │   ├── layout.tsx              # 루트 레이아웃 (metadata, OG, AdSense + GA4 <script> in <head>)
-│   ├── page.tsx                # 홈 (hero, chips, RegionGrid, articles, price, FAQ, AdSlot x2)
+│   ├── page.tsx                # 홈 (hero, chips, RegionGrid, 가이드카드3개, price, FAQ, AdSlot x2)
 │   ├── not-found.tsx           # 404
 │   ├── globals.css             # Tailwind v4 + dark variant + ticker + slide-in animation
-│   ├── sitemap.ts              # 동적 sitemap 생성
+│   ├── sitemap.ts              # 동적 sitemap 생성 (article 3개 수동)
 │   ├── [region]/
-│   │   ├── page.tsx            # 시/도 (신뢰문구, DistrictGrid, AdSlot 리스트아래, FAQ)
+│   │   ├── page.tsx            # 시/도 (신뢰문구, DistrictGrid, where-to-buy 역방향링크, FAQ)
 │   │   └── [district]/
 │   │       └── page.tsx        # 구/군/시 (신뢰문구, StoreList alias검색, AdSlot x2)
 │   └── article/
-│       ├── shortage-2026/page.tsx  # 종량제 봉투 대란 이유 총정리
-│       └── why-no-bags/page.tsx    # 종량제 봉투 왜 없을까?
+│       ├── where-to-buy/page.tsx   # 쓰레기봉투 파는곳 총정리 (SEO 허브, P17)
+│       ├── shortage-2026/page.tsx   # 종량제 봉투 대란 이유 총정리
+│       └── why-no-bags/page.tsx     # 종량제 봉투 왜 없을까?
 ├── components/
 │   ├── layout/
 │   │   ├── Header.tsx          # 좌측 "홈" + ThemeToggle + MobileMenu
 │   │   ├── Footer.tsx
 │   │   ├── NoticeBanner.tsx    # 상단 ticker (sticky, dismiss)
-│   │   ├── MobileMenu.tsx      # 3단 구조 (CTA → 빠른이동 → 정보) + slide-in + ESC
+│   │   ├── MobileMenu.tsx      # 3단 구조 (CTA → 빠른이동 → 정보3개) + slide-in + ESC
 │   │   ├── ThemeToggle.tsx     # 다크/라이트 토글
 │   │   └── ScrollToTop.tsx
 │   ├── region/
@@ -124,30 +93,26 @@ bag.fazr/
 │       ├── AdSlot.tsx          # AdSense 슬롯 (플랫, full-width-responsive=false)
 │       └── StickyBottomAd.tsx  # 모바일 하단 (max-h-100px, fluid, sm:hidden)
 ├── lib/
-│   ├── data.ts                 # JSON 데이터 로딩
-│   ├── regions.ts              # REGIONS 상수, slug↔name 매핑
-│   ├── seo.ts                  # FAQ 생성, JSON-LD schema
-│   └── types.ts                # Store, RegionMeta, RegionIndexEntry
-├── public/
-│   ├── og-default.jpg, favicon.ico, apple-touch-icon.png
-│   ├── ads.txt, robots.txt
+│   ├── data.ts, regions.ts, seo.ts, types.ts
 ├── data/
-│   ├── regions.json            # 17개 시/도 인덱스
-│   ├── {region}/index.json     # 각 시/도별 구/군/시 목록
-│   ├── {region}/{district}.json # 각 구/군/시별 판매처 데이터
-│   └── _unmatched.json         # 미매칭 14건
+│   ├── regions.json, {region}/, _unmatched.json
 ├── scripts/
 │   └── collect.py              # v2: 1회 수집 + 주소 파싱 + 세종 예외 + dedupe
 └── docs/
-    ├── BLOG_POST_NAVER.md      # 네이버 블로그 복붙 템플릿
-    ├── SESSION_REPORT.md       # Claude용 세션 보고서
-    └── gpt/
-        └── SESSION_REPORT.md   # 이 문서 (GPT/Claude 공용)
+    ├── BLOG_POST_NAVER.md, SESSION_REPORT.md
+    └── gpt/  SESSION_REPORT.md, GPT-HANDOFF-*.md
 ```
 
 ---
 
 ## 5. 디자인 규칙 (SSOT v1.7 — 절대 준수)
+
+### 금지 사항 (중요)
+- `dark:*-gray-*` 사용 금지 → 반드시 `dark:*-zinc-*`
+- `*-blue-*` 사용 금지 → 파란색 전면 제거됨
+- `hover:shadow-md`, `hover:border-blue-*` 금지
+- `bg-zinc-800`을 카드 배경으로 금지 → `bg-zinc-900`이 정답
+- 광고에 fixed/sticky 금지
 
 ### 카드
 ```
@@ -156,48 +121,21 @@ bg-white dark:bg-zinc-900
 hover:bg-gray-50 dark:hover:bg-zinc-800 transition duration-200
 ```
 
-### 버튼
-```
-rounded-xl border border-gray-200 dark:border-zinc-700
-bg-white 또는 bg-gray-50 dark:bg-zinc-800
-text-gray-700 dark:text-white
-hover:bg-gray-50 또는 hover:bg-gray-100 dark:hover:bg-zinc-700
-```
-
-### 텍스트 (다크모드)
-| 용도 | 클래스 |
-|------|--------|
-| 제목 (h1, h2) | dark:text-white |
-| 본문 (article) | dark:text-zinc-300 |
-| 본문 (일반) | dark:text-zinc-400 |
-| 보조 텍스트 | dark:text-zinc-500 |
-| body 배경 | dark:bg-zinc-950 |
-| 카드 배경 | dark:bg-zinc-900 |
-| 테두리 | dark:border-zinc-800 |
-
 ### CTA (article 전용)
 ```
 박스: rounded-xl border border-gray-200 dark:border-zinc-700 bg-gray-50 dark:bg-zinc-800 p-6 shadow-sm
 버튼: rounded-xl bg-gray-900 dark:bg-zinc-700 hover:bg-gray-800 dark:hover:bg-zinc-600 text-white
 ```
 
-### 3-layer 체계 (다크모드)
-1. 배경: bg-zinc-950
-2. 콘텐츠: bg-transparent
-3. 강조 (CTA): bg-zinc-800 → 버튼 bg-zinc-700
+### Article h2
+```
+text-lg font-bold text-gray-900 dark:text-white border-l-4 border-orange-400 pl-3 mt-10 mb-4
+```
 
-### 금지 사항 (중요)
-- ❌ `dark:*-gray-*` 사용 금지 → 반드시 `dark:*-zinc-*`
-- ❌ `*-blue-*` 사용 금지 → 파란색 전면 제거됨
-- ❌ `hover:shadow-md`, `hover:border-blue-*` 금지
-- ❌ `bg-zinc-800`을 카드 배경으로 금지 → `bg-zinc-900`이 정답
-- ❌ CTA 문구와 실제 연결 페이지 불일치 금지
-- ❌ 광고에 fixed/sticky 금지
-
-### 여백
-- 섹션 간: `mt-10`
-- 버튼 위: `mt-8`
-- 카드 내부: `p-5`
+### 인라인 링크 (article 본문)
+```
+font-medium underline underline-offset-2 hover:text-gray-900 dark:hover:text-white transition
+```
 
 ---
 
@@ -210,112 +148,73 @@ hover:bg-gray-50 또는 hover:bg-gray-100 dark:hover:bg-zinc-700
 4. 자주 찾는 지역 — 수평 스크롤 chip
 5. 지역별 판매처 — RegionGrid 17시도
 6. 광고: 리스트 아래 (8836749083)
-7. 종량제 봉투 이슈 — article 2개 카드
+7. **종량제 봉투 가이드 — article 카드 3개** (where-to-buy → shortage → why-no-bags)
 8. 종량제 봉투 가격 — 미리보기 + CTA
 9. FAQ — 3문항 + JSON-LD
 10. 광고: 하단 (6518541657)
 11. Footer + StickyBottomAd (모바일만)
 
 ### 시/도 (/[region])
-- Breadcrumb → h1 + 신뢰문구 → DistrictGrid(화살표) → 광고:리스트아래 → FAQ → 인접 지역 → 광고:하단
+- Breadcrumb → h1+신뢰문구 → DistrictGrid → 광고:리스트아래 → **where-to-buy 역방향링크** → FAQ → 인접지역 → 광고:하단
 
-### 구/군/시 (/[region]/[district])
-- 데이터 있음: Breadcrumb → h1 + 신뢰문구 → 안내박스(yellow) → StoreList(alias검색) → 광고 → 인접지역 → 안내콘텐츠 → FAQ → 신뢰시그널 → 광고:하단
-- 0건: Breadcrumb → h1 → 안내박스("판매처 정보 없음") → 인접지역 → FAQ → CTA
+### Article (/article/where-to-buy) — 허브
+- Breadcrumb → h1 → 즉시클릭(서울/경기/부산) → 도입부(→shortage링크) → **17개 시/도 허브** → CTA중간 → 파는곳종류 → 편의점 → 가격/사이즈 → 구매팁(→why-no-bags링크) → CTA하단 → RegionLinks → 정리 → FAQ → 신뢰시그널
 
-### Article (/article/*)
-- 8섹션: 공감→문제→원인→해결→CTA중간→팁→CTA하단→RegionLinks→정리
-- CTA 2개 (모두 "/" 연결), 최소 1200자
-- RegionLinks: 서울/경기/부산/인천/대구/광주 6개 지역 chip (P15)
+### Article (/article/shortage-2026, why-no-bags)
+- 기존 구조 + P16 인라인 링크(서울/경기/부산) + **P17 where-to-buy 인라인 링크**
 
 ---
 
-## 7. AdSense 설정 (활성화 완료)
-
-| 항목 | 값 |
-|------|-----|
-| Publisher ID | ca-pub-7976139023602789 |
-| Slot 1 (리스트 아래) | 8836749083 |
-| Slot 2 (리스트 아래) | 7831623329 |
-| Slot 3 (하단) | 6518541657 |
-| Slot 4 (모바일 하단) | 3611374960 |
-
-### 광고 기술 결정 (삽질 기록)
-1. `next/script` 사용 금지 → `data-nscript` 속성 거부. `<head>`에 일반 `<script>` 태그
-2. `data-full-width-responsive="false"` 필수 → true면 컨테이너 밖 확장
-3. 광고 컨테이너: 플랫 (border/padding 없음)
-4. fixed/sticky 금지 → 콘텐츠 덮음
-5. StickyBottomAd: `max-h-[100px] overflow-hidden` + `format="fluid"`
-6. AdSlot 중복 방지: `mounted` state + `pushed` ref 이중 가드
-7. 광고 위치: 리스트(RegionGrid/DistrictGrid) 아래 (제목 바로 아래 ❌)
-
----
-
-## 8. 검색엔진 등록 상태
-
-| 엔진 | 상태 | 방법 |
-|------|------|------|
-| Google | 색인 제출 완료 | Search Console sitemap + URL 요청 |
-| 네이버 | 메타태그 적용 완료 | `naver-site-verification` in layout.tsx |
-| 다음 | robots.txt 적용 완료 | `#DaumWebMasterTool` in robots.txt |
-
----
-
-## 9. 커밋 히스토리 (최신→과거, 주요)
+## 7. 내부링크 구조 (P17.5 후 — 완성)
 
 ```
+홈 → where-to-buy(카드1), shortage(카드2), why-no-bags(카드3)
+햄버거 → where-to-buy(정보1), why-no-bags(정보2), shortage(정보3)
+where-to-buy → 17개 시/도(허브), shortage(인라인), why-no-bags(인라인)
+shortage → where-to-buy(인라인), 서울/경기/부산(P16)
+why-no-bags → where-to-buy(인라인), 서울/경기/부산(P16)
+17개 시/도 → where-to-buy(역방향링크)
+```
+
+---
+
+## 8. 커밋 히스토리 (최신→과거, 주요)
+
+```
+5215934 Fix: shortage-2026 한글 깨짐 복구
+ae09f66 P17.5: 홈 카드 3개 확장 + 햄버거 메뉴 where-to-buy 추가
+8e47352 P17: where-to-buy 허브 페이지 + 양방향 내부링크 구축
+615e669 P16: Crawl priority boost - reorder regions + inline article links
 70cc412 P15: Add region internal links to articles for SEO crawl path
 0dc9e3d P14: District card CTR improvement with arrow and hover
 36ed6a8 P13: trust message, search alias, ad placement, remove 준비중
 ae1b916 Rewrite collect.py v2: single-fetch + Sejong fix (69,265 stores)
-2baef6d Add GA4 tracking (G-WTTDTMNTWQ)
-0ee3304 Update session reports
-5605af1 Bottom ad: limit height to 100px, fluid format
-050244d Ad slots: flat display only
-851ab41 Fix ad overflow: disable full-width-responsive
-66668c9 Fix AdSense: plain script tag (no next/script)
-f187f52 P10: fix ad layout — remove fixed/sticky
-67dcbeb P9: mobile menu UX upgrade — 3-section layout
-614c4a2 Enable AdSense across all pages
-1f563df SSOT v1.7: article design polish
 ... (이전 커밋 생략)
-3751c31 Initial release
 ```
 
 ---
 
-## 10. 다음 단계 (우선순위순)
+## 9. 다음 단계 (우선순위순)
 
-1. **네이버 블로그 게시** — docs/BLOG_POST_NAVER.md 복붙
-2. **트래픽 모니터링** — GA4 + Search Console 확인
-3. **가격 전용 페이지** — 지역별 상세 가격표
-4. **데이터 갱신** — 주기적 갱신 구조 검토
-
----
-
-## 11. 핵심 교훈 / 주의사항
-
-1. **dark:*-gray 금지** — 반드시 dark:*-zinc
-2. **파란색 금지** — blue-* 절대 사용 안 함
-3. **AdSense + Next.js** — next/script 금지, 일반 `<script>` in `<head>`
-4. **광고 fixed/sticky 금지** — 일반 흐름에 넣기
-5. **data-full-width-responsive="false"** — true면 컨테이너 밖 확장
-6. **광고 위치** — 리스트 아래 (제목 바로 아래 ❌)
-7. **StickyBottomAd max-h-100px** — format="fluid" 필수
-8. **공공데이터 파싱** — localCode 구 단위 필터 안 됨. 전국 1회 수집 + 주소 파싱
-9. **세종 특수 처리** — 구 없음, sejongsi로 직접 매핑
-10. **동명 구 문제** — 동구/서구/남구/북구/중구 → 시/도 먼저 확정 후 구 매칭
-11. **검색 alias** — CU/GS 등 영문 브랜드 한글 alias 필수
-12. **"준비중" 금지** — "판매처 정보 없음" 사용
-13. **신뢰 문구** — "공공데이터 기준이며 일부 지역은 실제와 차이" 항상 표시
-14. **CTA 정직** — CTA 문구 = 실제 도착 페이지
-15. **중간 끊긴 작업** — 이어하지 말고 처음부터 다시 적용
-16. **GPT 지시서 검증** — 맥락 잃은 GPT 지시 반드시 의견 제시
-17. **Article 내부링크** — RegionLinks 컴포넌트 사용, CTA 하단과 정리 섹션 사이에 삽입
+1. **GSC 수동 색인 요청 5건** — /, /article/where-to-buy, /seoul, /gyeonggi, /busan
+2. **4/29 체크포인트** — 색인 8→10+ 확인
+3. **P18 방향 결정** — price 페이지 (MO 22,200) 유력
+4. 네이버 블로그 게시 — docs/BLOG_POST_NAVER.md
+5. 데이터 갱신 구조 검토
 
 ---
 
-## 12. 작업 스타일 규칙
+## 10. 핵심 교훈 / 주의사항
+
+1~17번은 이전 보고서와 동일 (dark:zinc, blue 금지, AdSense 등)
+
+18. **Edit tool 한글 바이트 손상** — Edit 시 한글 문자열이 깨질 수 있음. 커밋 전 반드시 확인.
+19. **where-to-buy = SEO 허브** — 17개 시/도 전부 링크 포함. 다른 article과 양방향 연결.
+20. **docs/md 커밋 시 [skip ci]** — 문서 변경은 빌드 불필요.
+
+---
+
+## 11. 작업 스타일 규칙
 
 - **지시서 기반**: 사용자가 구조/지시서를 주고, AI가 실행
 - **"해라" = 즉시 실행**: 추가 확인 불필요
@@ -324,3 +223,4 @@ f187f52 P10: fix ad layout — remove fixed/sticky
 - **커밋**: 작업 완료 후 사용자 확인 받고 push
 - **GPT 지시서**: 무조건 의견 제시부터. 맹목적 실행 금지
 - **검토만**: 사용자가 "검토만"이라고 하면 수정하지 말고 의견만 제시
+- **docs/md 커밋**: 메시지에 [skip ci] 붙이기
