@@ -83,6 +83,22 @@ export default async function RegionPage({ params }: PageProps) {
       {/* 광고: 리스트 아래 */}
       <AdSlot slotId="8836749083" className="my-6" />
 
+      <div className="mt-6 mb-6">
+        <p className="text-sm text-gray-600 dark:text-zinc-400">
+          종량제봉투 어디서 사는지 한눈에 보려면{" "}
+          <Link
+            href="/article/where-to-buy"
+            className="font-medium underline underline-offset-2 hover:text-gray-900 dark:hover:text-white transition"
+          >
+            전국 판매처 총정리
+          </Link>
+          를 확인하세요.
+        </p>
+        <p className="mt-1 text-xs text-gray-500 dark:text-zinc-500">
+          지역별 판매처 기준과 구매 방법을 정리한 페이지입니다.
+        </p>
+      </div>
+
       <FaqSection faqs={faqs} />
 
       <section className="mt-10">

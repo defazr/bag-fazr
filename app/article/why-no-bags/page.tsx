@@ -135,6 +135,11 @@ export default function WhyNoBagsPage() {
               <Link href="/busan" className="font-medium underline underline-offset-2 hover:text-gray-900 dark:hover:text-white transition">부산</Link>{" "}
               등 주요 지역은 바로 확인 가능합니다. 미리 확인했으면 헛걸음 안 했을 텐데 하는 생각이 들더라고요.
             </p>
+            <p className="mt-3">
+              전국 판매처를 한눈에 확인하려면{" "}
+              <Link href="/article/where-to-buy" className="font-medium underline underline-offset-2 hover:text-gray-900 dark:hover:text-white transition">쓰레기봉투 파는곳 총정리</Link>
+              를 함께 보시면 도움이 됩니다.
+            </p>
           </section>
 
           {/* 5. CTA 중간 */}
