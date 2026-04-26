@@ -144,8 +144,8 @@ export default function ShortageArticlePage() {
               <Link href="/seoul" className="font-medium underline underline-offset-2 hover:text-gray-900 dark:hover:text-white transition">서울</Link>{" / "}
               <Link href="/gyeonggi" className="font-medium underline underline-offset-2 hover:text-gray-900 dark:hover:text-white transition">경기</Link>{" / "}
               <Link href="/busan" className="font-medium underline underline-offset-2 hover:text-gray-900 dark:hover:text-white transition">부산</Link>{" "}
-              등 주요 지역은 바로 확인할 수 있습니다. 내 주변��� 어디서 살 수 있는지 먼저 확인한 다음에
-              ���직이는 게 시간도 아끼고 헛걸음도 줄이는 방법입니다.
+              등 주요 지역은 바로 확인할 수 있습니다. 내 주변에 어디서 살 수 있는지 먼저 확인한 다음에
+              움직이는 게 시간도 아끼고 헛걸음도 줄이는 방법입니다.
             </p>
             <p className="mt-3">
               판매처를 지역별로 한 번에 확인하고 싶다면{" "}
