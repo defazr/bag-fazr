@@ -86,12 +86,23 @@ export default function HomePage() {
       {/* 광고: 리스트 아래 */}
       <AdSlot slotId="8836749083" className="my-6" />
 
-      {/* 종량제 봉투 이슈 */}
+      {/* 종량제 봉투 가이드 */}
       <section className="mt-10">
         <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-white">
-          종량제 봉투, 요즘 왜 이런가요?
+          종량제 봉투 가이드
         </h2>
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          <Link
+            href="/article/where-to-buy"
+            className="rounded-xl border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-5 hover:bg-gray-50 dark:hover:bg-zinc-800 transition duration-200"
+          >
+            <p className="font-semibold text-gray-900 dark:text-white">
+              쓰레기봉투 파는곳 총정리 (종량제봉투 판매처)
+            </p>
+            <p className="mt-1 text-sm text-gray-500 dark:text-zinc-400">
+              전국 종량제봉투 판매처를 지역별로 한 번에 확인하세요.
+            </p>
+          </Link>
           <Link
             href="/article/shortage-2026"
             className="rounded-xl border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-5 hover:bg-gray-50 dark:hover:bg-zinc-800 transition duration-200"

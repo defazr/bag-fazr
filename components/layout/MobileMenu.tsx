@@ -115,6 +115,13 @@ export default function MobileMenu() {
               </p>
               <nav className="space-y-1">
                 <Link
+                  href="/article/where-to-buy"
+                  onClick={close}
+                  className="block rounded-xl px-3 py-2.5 text-sm text-gray-700 hover:bg-gray-100 dark:text-zinc-300 dark:hover:bg-zinc-800 transition duration-200"
+                >
+                  쓰레기봉투 파는곳 총정리
+                </Link>
+                <Link
                   href="/article/why-no-bags"
                   onClick={close}
                   className="block rounded-xl px-3 py-2.5 text-sm text-gray-700 hover:bg-gray-100 dark:text-zinc-300 dark:hover:bg-zinc-800 transition duration-200"
