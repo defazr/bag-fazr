@@ -174,11 +174,37 @@ export default async function DistrictPage({ params }: PageProps) {
     );
   }
 
-  const faqs = getDistrictFaqs(
+  const baseFaqs = getDistrictFaqs(
     regionInfo.name,
     districtInfo.name,
     data.totalCount
   );
+
+  const suwonExtraFaqs =
+    region === "gyeonggi" && district === "suwon"
+      ? [
+          {
+            question:
+              "수원에서 종량제 봉투를 가장 쉽게 살 수 있는 곳은 어디인가요?",
+            answer:
+              "거주하시는 구의 편의점(CU, GS25, 세븐일레븐, 이마트24)이 접근성이 가장 좋습니다. 편의점에서 품절일 경우 동네 슈퍼나 마트를 확인해보시는 것이 좋습니다.",
+          },
+          {
+            question:
+              "수원시 4개 구 중 어느 구의 봉투를 사용해야 하나요?",
+            answer:
+              "수원시는 4개 구가 같은 시 안에 있으므로 일반적으로 수원시 종량제 봉투를 사용합니다. 다만 봉투 종류와 사용 가능 여부는 품목이나 배출 방식에 따라 달라질 수 있어, 정확한 내용은 수원시청 또는 판매처 안내를 확인하는 것이 좋습니다.",
+          },
+          {
+            question:
+              "수원에서 50L, 100L 같은 대용량 봉투는 어디서 살 수 있나요?",
+            answer:
+              "대용량 봉투는 편의점보다 대형마트(이마트, 홈플러스, 롯데마트)나 동네 마트에서 확인하시는 것이 좋습니다. 사이즈별 재고는 매장마다 다를 수 있으니 방문 전 확인을 권장합니다.",
+          },
+        ]
+      : [];
+
+  const faqs = [...baseFaqs, ...suwonExtraFaqs];
 
   return (
     <>
@@ -205,6 +231,24 @@ export default async function DistrictPage({ params }: PageProps) {
           확인하세요.
         </p>
       </section>
+
+      {region === "gyeonggi" && district === "suwon" && (
+        <div className="rounded-xl border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-5 mb-6">
+          <p className="text-sm text-gray-600 dark:text-zinc-400 leading-relaxed">
+            <strong className="text-gray-900 dark:text-white">수원시 종량제 봉투 판매처 안내</strong>
+          </p>
+          <p className="mt-2 text-sm text-gray-600 dark:text-zinc-400 leading-relaxed">
+            수원시는 장안구, 권선구, 영통구, 팔달구로 나뉘어 있습니다. 아래 매장
+            목록에서 거주 지역과 가까운 판매처를 확인하시고, 매장에 직접 문의 후
+            방문하시는 것을 권장합니다.
+          </p>
+          <p className="mt-2 text-sm text-gray-600 dark:text-zinc-400 leading-relaxed">
+            편의점(CU, GS25, 세븐일레븐, 이마트24)은 가까운 곳에서 빠르게
+            구매하기 좋고, 마트(이마트, 홈플러스, 롯데마트)는 다양한 사이즈를 한
+            번에 확인할 수 있습니다.
+          </p>
+        </div>
+      )}
 
       {/* 데이터 안내 (통합) */}
       <div className="rounded-xl border border-yellow-200 dark:border-yellow-500/30 bg-yellow-50 dark:bg-yellow-500/10 p-5 mb-6">
@@ -258,6 +302,54 @@ export default async function DistrictPage({ params }: PageProps) {
         </div>
       )}
 
+      {region === "gyeonggi" && district === "suwon" && (
+        <section className="mt-10">
+          <h2 className="text-lg font-bold text-gray-900 dark:text-white">
+            수원시 구별로 찾는 법
+          </h2>
+          <div className="mt-3 rounded-xl border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-5">
+            <ul className="space-y-2.5 text-sm text-gray-600 dark:text-zinc-400 leading-relaxed">
+              <li>
+                <strong className="text-gray-900 dark:text-white">장안구</strong>
+                <span className="ml-1">— 율전동, 정자동, 영화동 일대. 거주 지역 가까운 편의점과 동네 슈퍼를 먼저 확인해보시는 것이 좋습니다.</span>
+              </li>
+              <li>
+                <strong className="text-gray-900 dark:text-white">권선구</strong>
+                <span className="ml-1">— 권선동, 세류동, 호매실동 일대. 마트와 동네 슈퍼를 함께 확인해보는 것을 권장합니다.</span>
+              </li>
+              <li>
+                <strong className="text-gray-900 dark:text-white">영통구</strong>
+                <span className="ml-1">— 영통동, 매탄동, 망포동 일대. 대형마트 접근성이 좋은 편입니다.</span>
+              </li>
+              <li>
+                <strong className="text-gray-900 dark:text-white">팔달구</strong>
+                <span className="ml-1">— 우만동, 인계동, 화서동 일대. 구도심으로 동네 슈퍼와 편의점이 함께 분포되어 있습니다.</span>
+              </li>
+            </ul>
+          </div>
+
+          <h2 className="mt-8 text-lg font-bold text-gray-900 dark:text-white">
+            매장 유형별 구매 팁
+          </h2>
+          <div className="mt-3 rounded-xl border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-5">
+            <ul className="space-y-2.5 text-sm text-gray-600 dark:text-zinc-400 leading-relaxed">
+              <li>
+                <strong className="text-gray-900 dark:text-white">편의점 (CU, GS25, 세븐일레븐, 이마트24)</strong>
+                <span className="ml-1">— 24시간 운영으로 접근성이 가장 좋습니다. 다만 인기 사이즈는 빠르게 소진될 수 있어 미리 확인 후 방문하는 것이 좋습니다.</span>
+              </li>
+              <li>
+                <strong className="text-gray-900 dark:text-white">대형마트 (이마트, 홈플러스, 롯데마트)</strong>
+                <span className="ml-1">— 다양한 사이즈를 한 번에 확인할 수 있습니다. 영통구와 권선구 일대에서는 대형마트와 마트를 함께 확인해보는 것이 좋습니다.</span>
+              </li>
+              <li>
+                <strong className="text-gray-900 dark:text-white">동네 슈퍼/마트</strong>
+                <span className="ml-1">— 편의점보다 재고가 오래 유지되는 경우가 많습니다. 편의점에서 품절일 때 가장 확실한 대안입니다.</span>
+              </li>
+            </ul>
+          </div>
+        </section>
+      )}
+
       {/* 종량제 봉투 안내 콘텐츠 블록 */}
       <section className="mt-10">
         <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-white">
@@ -290,10 +382,16 @@ export default async function DistrictPage({ params }: PageProps) {
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <Link
-            href={`/${region}`}
+            href={
+              region === "gyeonggi" && district === "suwon"
+                ? "/article/where-to-buy"
+                : `/${region}`
+            }
             className="rounded-xl border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-5 text-sm text-gray-700 dark:text-zinc-300 transition hover:bg-gray-50 dark:hover:bg-zinc-800 duration-200"
           >
-            {regionInfo.name} 종량제 봉투 가격 안내 →
+            {region === "gyeonggi" && district === "suwon"
+              ? "쓰레기봉투 파는곳 총정리 →"
+              : `${regionInfo.name} 종량제 봉투 가격 안내 →`}
           </Link>
           <Link
             href={`/${region}`}
