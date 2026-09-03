@@ -207,6 +207,141 @@ check(
 )
 
 
+# -------------------------------------------------------------- 10~16
+print("\n[10~16] 통합 시도(전남광주통합특별시) 논리 분리")
+
+gj = set(collect.DISTRICT_SLUG_MAP["gwangju"])
+jn = set(collect.DISTRICT_SLUG_MAP["jeonnam"])
+check("10) 광주 5구 집합", gj == {"동구", "서구", "남구", "북구", "광산구"}, f"{sorted(gj)}")
+check("10) 전남 22시군 집합", len(jn) == 22, f"{len(jn)}개")
+check("10) 두 집합 서로소 (드리프트 가드)", not (gj & jn), f"교집합 {sorted(gj & jn)}")
+
+for token in ("전남광주통합특별시", "전남광주"):
+    r = collect.resolve_merged_sido([token, "남구", "봉선로"])
+    check(f"11) '{token} 남구' → 광주광역시/남구", r == ("광주광역시", "남구"), f"{r}")
+    r = collect.resolve_merged_sido([token, "나주시", "그린로"])
+    check(f"12) '{token} 나주시' → 전라남도/나주시", r == ("전라남도", "나주시"), f"{r}")
+
+check(
+    "13) 통합 표기 + 미지 토큰 → (None, None)",
+    collect.resolve_merged_sido(["전남광주통합특별시", "없는구", "어딘가"]) == (None, None),
+)
+check(
+    "14) 광양시(전남) → 전라남도 (광주 오분류 방지)",
+    collect.resolve_merged_sido(["전남광주통합특별시", "광양시", "중동"]) == ("전라남도", "광양시"),
+)
+check(
+    "14) 경기도 광주시는 통합 resolver 미진입 → 경기도",
+    collect.derive_location("경기도 광주시 경안로 1") == ("경기도", "광주시"),
+)
+check(
+    "15) 구 명칭 잔존분 정상 처리 (전라남도/광주광역시)",
+    collect.derive_location("전라남도 나주시 그린로 1") == ("전라남도", "나주시")
+    and collect.derive_location("광주광역시 남구 봉선로 1") == ("광주광역시", "남구"),
+)
+check(
+    "16) startswith fallback 제거 — '전남광주통합특별시'가 전라남도로 흡수되지 않음",
+    collect.normalize_region("전남광주통합특별시 남구 봉선로 1") is None,
+)
+check(
+    "16) 정규화표 완전일치는 유지 ('강원도' → 강원특별자치도)",
+    collect.normalize_region("강원도 춘천시 1") == "강원특별자치도",
+)
+
+print("\n[17] 미등록 시도 토큰 분류 — new_region_token vs malformed_address")
+for tok, want in [
+    ("전남광주통합특별시", "new_region_token"),
+    ("가상특별자치도", "new_region_token"),
+    ("안양시", "malformed_address"),
+    ("385-2", "malformed_address"),
+    ("220", "malformed_address"),
+    ("", "malformed_address"),
+]:
+    got = collect.classify_unknown_sido(tok)
+    check(f"17) {tok or '(빈값)':16s} → {want}", got == want, f"실제 {got}")
+check(
+    "17) 기존 17개 시도명은 전부 시도로 인식",
+    all(collect.classify_unknown_sido(r) == "new_region_token" for r in collect.REGION_NAME_TO_SLUG),
+)
+
+print("\n[19] end-to-end — 정상 merged 주소가 classify_and_save() 전 경로를 통과")
+# 단위 테스트(resolve_merged_sido)만으로는 분기 순서 버그를 잡을 수 없다.
+# 실제 저장 함수를 통과시켜 최종 파일까지 확인한다. data/는 건드리지 않는다.
+before = data_fingerprint(os.path.join(ROOT, "data"))
+tmp = tempfile.mkdtemp()
+try:
+    e2e_items = [
+        item("광주남구마트", "전남광주통합특별시 남구 봉선로 1"),
+        item("광산구마트", "전남광주통합특별시 광산구 상무대로 1"),
+        item("나주마트", "전남광주통합특별시 나주시 그린로 1"),
+        item("여수마트", "전남광주 여수시 좌수영로 1"),
+        item("서울마트", "서울특별시 강남구 테헤란로 1"),
+    ]
+    total = collect.classify_and_save(e2e_items, "2026-09-03", complete=True, data_dir=tmp)
+
+    def loaded(region, slug):
+        p = os.path.join(tmp, region, slug + ".json")
+        if not os.path.exists(p):
+            return None
+        return json.load(open(p, encoding="utf-8"))
+
+    gn = loaded("gwangju", "gjnamgu")
+    gs = loaded("gwangju", "gwangsan")
+    nj = loaded("jeonnam", "naju")
+    ys = loaded("jeonnam", "yeosu")
+    check("19) '전남광주통합특별시 남구' → gwangju/gjnamgu 저장", gn is not None and gn["totalCount"] == 1,
+          f"{gn['totalCount'] if gn else '파일 없음'}")
+    check("19) '전남광주통합특별시 광산구' → gwangju/gwangsan 저장", gs is not None and gs["totalCount"] == 1,
+          f"{gs['totalCount'] if gs else '파일 없음'}")
+    check("19) '전남광주통합특별시 나주시' → jeonnam/naju 저장", nj is not None and nj["totalCount"] == 1,
+          f"{nj['totalCount'] if nj else '파일 없음'}")
+    check("19) 축약 변형 '전남광주 여수시' → jeonnam/yeosu 저장", ys is not None and ys["totalCount"] == 1,
+          f"{ys['totalCount'] if ys else '파일 없음'}")
+    check("19) 5건 전부 분류 성공 (총계)", total == 5, f"total={total}")
+
+    unm = os.path.join(tmp, "_unmatched.json")
+    if os.path.exists(unm):
+        rows = json.load(open(unm, encoding="utf-8"))
+    else:
+        rows = []
+    check("19) valid merged 주소가 _unmatched에 들어가지 않음", len(rows) == 0,
+          f"_unmatched {len(rows)}건: {[r.get('name') for r in rows]}")
+
+    gidx = json.load(open(os.path.join(tmp, "gwangju", "index.json"), encoding="utf-8"))
+    jidx = json.load(open(os.path.join(tmp, "jeonnam", "index.json"), encoding="utf-8"))
+    check("19) gwangju index totalCount=2", gidx["totalCount"] == 2, f"{gidx['totalCount']}")
+    check("19) jeonnam index totalCount=2", jidx["totalCount"] == 2, f"{jidx['totalCount']}")
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+check("19) 실제 data/ 무변경", before == data_fingerprint(os.path.join(ROOT, "data")))
+
+
+print("\n[18] 새 시도 토큰 1건이라도 나오면 저장·삭제 0")
+before = data_fingerprint(os.path.join(ROOT, "data"))
+raised = None
+try:
+    collect.classify_and_save(
+        [item("가짜마트", "가상특별자치도 어딘가 1")], "2026-09-03", complete=True
+    )
+except collect.CollectionError as e:
+    raised = str(e)
+after = data_fingerprint(os.path.join(ROOT, "data"))
+check("18) 새 시도 토큰 → CollectionError", raised is not None, raised or "예외 없음")
+check("18) data/ 무변경", before == after)
+
+before = data_fingerprint(os.path.join(ROOT, "data"))
+raised = None
+try:
+    collect.classify_and_save(
+        [item("가짜마트", "전남광주통합특별시 없는구 1")], "2026-09-03", complete=True
+    )
+except collect.CollectionError as e:
+    raised = str(e)
+after = data_fingerprint(os.path.join(ROOT, "data"))
+check("18) 통합 시도 분리 실패 → CollectionError", raised is not None, raised or "예외 없음")
+check("18) data/ 무변경", before == after)
+
+
 # ---------------------------------------------------------------- 9
 print("\n[9] 현행 69,265건에 새 검증 적용 — 예상치 못한 대량 탈락 여부")
 rejected = {}

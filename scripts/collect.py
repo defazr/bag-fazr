@@ -219,8 +219,70 @@ def fetch_all(service_key: str) -> tuple[list[dict], int, int]:
     return all_items, calls, expected_total
 
 
+# ────────────────────────────────────────────────────────────────────────
+# 통합 시도 대응 (2026-07-01 전남광주통합특별시 출범).
+#
+# 종전 전라남도 + 광주광역시가 하나의 시도로 통합되어 API 주소가
+# "전남광주통합특별시 남구 …" 형태로 온다. 시도 이름 앞부분으로 판정하면
+# "전남"으로 시작한다는 이유만으로 전라남도에 흡수되고, 광주 5개 구는
+# 매칭에 실패해 통째로 폐기된다.
+#
+# 하위 행정구역 이름을 완전 일치로 대조해 논리적으로 다시 분리한다.
+# 부분 문자열 판정은 쓰지 않는다 - 광양시(전남)나 경기도 광주시가
+# 오분류된다. 광주 5구와 전남 22시군은 이름이 겹치지 않는다(검증됨).
+# ────────────────────────────────────────────────────────────────────────
+MERGED_SIDO_TOKENS = {"전남광주통합특별시", "전남광주"}
+
+# 미등록 시도 토큰 판별용. 한국의 시/도는 전부 이 접미사로 끝난다.
+# "안양시"처럼 평범한 '시'는 시도 단위에 존재하지 않으므로 깨진 주소로 본다.
+SIDO_SUFFIXES = ("특별시", "광역시", "특별자치시", "특별자치도")
+
+
+def classify_unknown_sido(token: str) -> str:
+    """미등록 시도 토큰을 분류한다.
+
+    new_region_token  - 행정구역 개편으로 보이는 새 시도명. 저장을 중단해야 한다.
+    malformed_address - 시도가 빠졌거나 깨진 주소. 집계 후 넘어간다.
+    """
+    if not token or any(ch.isdigit() for ch in token):
+        return "malformed_address"
+    if token.endswith(SIDO_SUFFIXES):
+        return "new_region_token"
+    if token.endswith("도") and len(token) >= 3:
+        return "new_region_token"
+    return "malformed_address"
+
+
+def resolve_merged_sido(parts: list[str]) -> tuple[str | None, str | None]:
+    """통합 시도 주소를 하위 행정구역 완전 일치로 논리 분리한다.
+
+    반환: (시도명, 구군명). 어느 집합에도 없으면 (None, None).
+    집합은 lib/regions.ts에서 로드한 DISTRICT_SLUG_MAP을 그대로 쓴다(SSOT 단일화).
+    """
+    gwangju = DISTRICT_SLUG_MAP.get("gwangju", {})
+    jeonnam = DISTRICT_SLUG_MAP.get("jeonnam", {})
+    if not gwangju or not jeonnam:
+        raise CollectionError(
+            "load_district_slugs() 미실행 - 통합 시도를 분리할 수 없다."
+        )
+    # 앞 3개 토큰만 본다. 통합 표기 변형이 있어도 구군 토큰이 이 안에 든다.
+    for token in parts[1:4]:
+        if token in gwangju:
+            return "광주광역시", token
+        if token in jeonnam:
+            return "전라남도", token
+    return None, None
+
+
 def normalize_region(addr: str) -> str | None:
-    """주소에서 시/도명 추출 + 정규화"""
+    """주소에서 시/도명 추출 + 정규화.
+
+    부분 매칭(startswith) fallback은 제거했다. 실측 결과 이 경로가 처리하던
+    유일한 케이스가 "전남광주통합특별시" -> "전라남도" 오분류였고, 나머지
+    22개 시도 토큰은 전부 정확 매칭이나 정규화표를 탄다. 모르는 지명을
+    조용히 기존 지역으로 흡수하는 것보다 미매칭으로 드러나는 편이 안전하다.
+    통합 시도는 resolve_merged_sido()가 따로 처리한다.
+    """
     if not addr:
         return None
     parts = addr.strip().split()
@@ -230,15 +292,8 @@ def normalize_region(addr: str) -> str | None:
     # 정확 매칭
     if region_part in REGION_NAME_TO_SLUG:
         return region_part
-    # 정규화
-    normalized = REGION_NORMALIZE.get(region_part)
-    if normalized:
-        return normalized
-    # 부분 매칭 (예: "충청남" → "충청남도")
-    for short, full in REGION_NORMALIZE.items():
-        if region_part.startswith(short):
-            return full
-    return None
+    # 정규화 (구 명칭 포함, 완전 일치만)
+    return REGION_NORMALIZE.get(region_part)
 
 
 def extract_district(addr: str, region_name: str | None = None) -> str | None:
@@ -260,7 +315,15 @@ def derive_location(addr: str) -> tuple[str | None, str | None]:
     """주소 문자열 하나에서 (시/도명, 구·군명)을 독립적으로 추출한다.
 
     저장 직전 검증 전용. 분류 결과를 참조하지 않고 주소만 보고 판정한다.
+    통합 시도는 분류부와 같은 규칙으로 논리 분리한다.
     """
+    if not addr:
+        return None, None
+    parts = addr.strip().split()
+    if not parts:
+        return None, None
+    if parts[0] in MERGED_SIDO_TOKENS:
+        return resolve_merged_sido(parts)
     region_name = normalize_region(addr)
     if not region_name:
         return None, None
@@ -355,16 +418,44 @@ def classify_and_save(
     unmatched_districts: dict[str, int] = {}
     # 저장 직전 지역 검증에서 격리된 매장 (사유 포함)
     rejected_stores: list[str] = []
+    # 시도가 빠졌거나 깨진 주소. 행정구역 개편과 성격이 달라 별도 집계한다.
+    malformed_addresses: list[str] = []
 
     for item in active:
         store = transform_item(item)
         addr = store["roadAddress"] or store["address"]
+        parts = addr.strip().split() if addr else []
+        sido_token = parts[0] if parts else ""
 
         # Region 매칭
-        region_name = normalize_region(addr)
-        if not region_name:
-            unmatched.append(store)
-            continue
+        forced_district = None
+        if sido_token in MERGED_SIDO_TOKENS:
+            # 통합 시도 - 하위 행정구역 완전 일치로 논리 분리
+            region_name, forced_district = resolve_merged_sido(parts)
+            if region_name is None:
+                # 통합 시도인데 어느 집합에도 없다. 조용히 버리면 해당 구군이
+                # count=0이 되어 stale 삭제로 파일까지 사라진다. 저장 전에 멈춘다.
+                raise CollectionError(
+                    f"통합 시도 '{sido_token}' 주소를 광주 5구/전남 22시군 어느 쪽으로도 "
+                    f"분리하지 못했다: {' '.join(parts[:3])} "
+                    f"(하위 행정구역 집합 갱신이 필요하다)"
+                )
+        else:
+            region_name = normalize_region(addr)
+            if not region_name:
+                kind = classify_unknown_sido(sido_token)
+                if kind == "new_region_token":
+                    # 새 행정구역으로 보인다. 1건이라도 나오면 저장을 중단한다.
+                    raise CollectionError(
+                        f"미등록 시도 토큰 '{sido_token}' 발견 (행정구역 개편 가능성). "
+                        f"매핑을 갱신하기 전에는 저장·삭제를 진행하지 않는다: "
+                        f"{' '.join(parts[:3])}"
+                    )
+                malformed_addresses.append(
+                    f"{store.get('name', '?')} | {' '.join(parts[:3])}"
+                )
+                unmatched.append(store)
+                continue
 
         region_slug = REGION_NAME_TO_SLUG.get(region_name)
         if not region_slug:
@@ -372,7 +463,7 @@ def classify_and_save(
             continue
 
         # District 매칭
-        district_name = extract_district(addr, region_name)
+        district_name = forced_district or extract_district(addr, region_name)
         name_to_slug = DISTRICT_SLUG_MAP.get(region_slug, {})
         district_slug = None
 
@@ -532,6 +623,13 @@ def classify_and_save(
                   f, ensure_ascii=False, indent=2)
     log.info(f"\nregions.json updated: total {total_all}")
 
+    if malformed_addresses:
+        log.warning(f"시도 토큰이 깨진 주소 {len(malformed_addresses)}건 (개편 아님, 미매칭 처리):")
+        for m in malformed_addresses[:20]:
+            log.warning(f"  {m}")
+        if len(malformed_addresses) > 20:
+            log.warning(f"  ... 외 {len(malformed_addresses) - 20}건")
+
     if rejected_stores:
         log.error(f"지역 검증에서 격리된 매장 {len(rejected_stores)}건:")
         for r in rejected_stores[:50]:
@@ -571,7 +669,14 @@ def main():
     log.info("=" * 50)
     log.info("주소 기반 분류 시작")
     log.info("=" * 50)
-    total = classify_and_save(items, today, complete=True)
+    try:
+        total = classify_and_save(items, today, complete=True)
+    except CollectionError as e:
+        log.error("=" * 50)
+        log.error(f"분류 중단 - 저장·삭제를 진행하지 않는다: {e}")
+        log.error("기존 data/ 파일은 한 건도 변경·삭제되지 않았다.")
+        log.error("=" * 50)
+        sys.exit(1)
 
     log.info(f"\nDone! Total: {total}곳, API calls: {calls}")
 
