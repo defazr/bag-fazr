@@ -59,7 +59,7 @@ export default function HomePage() {
         <div className="flex gap-2 overflow-x-auto pb-2">
           {[
             { name: "강남구", href: "/seoul/gangnam" },
-            { name: "송파구", href: "/seoul/songpa" },
+            { name: "마포구", href: "/seoul/mapo" },
             { name: "서초구", href: "/seoul/seocho" },
             { name: "수원시", href: "/gyeonggi/suwon" },
             { name: "성남시", href: "/gyeonggi/seongnam" },

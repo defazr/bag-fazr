@@ -6,9 +6,10 @@ import {
   getRegionBySlug,
   getDistrictBySlug,
   getDistrictsByRegion,
+  getDistrictDisplayName,
   REGIONS,
 } from "@/lib/regions";
-import { getDistrictFaqs } from "@/lib/seo";
+import { buildOpenGraph, getDistrictFaqs } from "@/lib/seo";
 import StoreList from "@/components/store/StoreList";
 import Breadcrumb from "@/components/seo/Breadcrumb";
 import FaqSection from "@/components/seo/FaqSection";
@@ -42,25 +43,28 @@ export async function generateMetadata({
   const data = getDistrictData(region, district);
   const count = data?.totalCount ?? 0;
 
+  // 이름이 겹치는 구군(중구/동구/서구/남구/북구/강서구/고성군)만 시/도 축약명을 붙인다.
+  const displayName = getDistrictDisplayName(region, districtInfo.name);
+
   return {
     title:
       count > 0
-        ? `${districtInfo.name} 종량제 봉투 파는곳 총정리 | 가격 | 크기 (2026)`
-        : `${districtInfo.name} 종량제 봉투 판매처 안내`,
+        ? `${displayName} 종량제 봉투 파는곳 총정리 | 가격 | 크기 (2026)`
+        : `${displayName} 종량제 봉투 판매처 안내`,
     description:
       count > 0
-        ? `${districtInfo.name} 종량제 봉투 판매처 ${count}곳. 가격, 크기, 편의점 구매 가능 여부까지. 영업 중인 곳만 제공합니다.`
-        : `${districtInfo.name} 종량제 봉투 판매처 정보가 없습니다. ${regionInfo.name}의 다른 지역 판매처를 확인해보세요.`,
+        ? `${displayName} 종량제 봉투 판매처 ${count}곳. 가격, 크기, 편의점 구매 가능 여부까지. 영업 중인 곳만 제공합니다.`
+        : `${displayName} 종량제 봉투 판매처 정보가 없습니다. ${regionInfo.name}의 다른 지역 판매처를 확인해보세요.`,
     alternates: {
       canonical: `https://bag.fazr.co.kr/${region}/${district}`,
     },
-    openGraph: {
-      title: `${districtInfo.name} 종량제 봉투 판매처 찾기`,
-      description:
-        count > 0
-          ? `${districtInfo.name} 종량제 봉투 판매처 ${count}곳 목록`
-          : `${districtInfo.name} 종량제 봉투 판매처 정보 없음`,
-    },
+    openGraph: buildOpenGraph(
+      `${displayName} 종량제 봉투 판매처 찾기`,
+      count > 0
+        ? `${displayName} 종량제 봉투 판매처 ${count}곳 목록`
+        : `${displayName} 종량제 봉투 판매처 정보 없음`,
+      `/${region}/${district}`
+    ),
   };
 }
 
@@ -69,6 +73,9 @@ export default async function DistrictPage({ params }: PageProps) {
   const regionInfo = getRegionBySlug(region);
   const districtInfo = getDistrictBySlug(region, district);
   if (!regionInfo || !districtInfo) notFound();
+
+  // title/H1/FAQ가 같은 표시명을 쓰도록 한 곳에서 만든다.
+  const displayName = getDistrictDisplayName(region, districtInfo.name);
 
   const data = getDistrictData(region, district);
 
@@ -82,7 +89,7 @@ export default async function DistrictPage({ params }: PageProps) {
   if (!data || data.totalCount === 0) {
     const emptyFaqs = [
       {
-        question: `${districtInfo.name} 종량제 봉투 어디서 사나요?`,
+        question: `${displayName} 종량제 봉투 어디서 사나요?`,
         answer: `${districtInfo.name}의 종량제 봉투 판매처 데이터를 현재 수집 중입니다. 일반적으로 편의점(GS25, CU, 세븐일레븐), 대형마트, 동네 슈퍼마켓에서 구매할 수 있습니다.`,
       },
       {
@@ -102,7 +109,7 @@ export default async function DistrictPage({ params }: PageProps) {
 
         <section className="mb-6">
           <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
-            {districtInfo.name} 종량제 봉투 판매처
+            {displayName} 종량제 봉투 판매처
           </h1>
           <p className="mt-1 text-gray-600 dark:text-zinc-400">
             {regionInfo.name} {districtInfo.name} 종량제 봉투 판매처 정보
@@ -177,7 +184,8 @@ export default async function DistrictPage({ params }: PageProps) {
   const baseFaqs = getDistrictFaqs(
     regionInfo.name,
     districtInfo.name,
-    data.totalCount
+    data.totalCount,
+    displayName
   );
 
   const suwonExtraFaqs =
@@ -217,7 +225,7 @@ export default async function DistrictPage({ params }: PageProps) {
 
       <section className="mb-6">
         <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
-          {districtInfo.name} 종량제 봉투 파는곳
+          {displayName} 종량제 봉투 파는곳
         </h1>
         <p className="mt-1 text-gray-600 dark:text-zinc-400">
           총 {data.totalCount}곳 · 데이터 갱신일: {data.updatedAt}

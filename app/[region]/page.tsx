@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getRegionIndex } from "@/lib/data";
 import { getRegionBySlug, REGIONS } from "@/lib/regions";
-import { getRegionFaqs } from "@/lib/seo";
+import { buildOpenGraph, getRegionFaqs } from "@/lib/seo";
 import DistrictGrid from "@/components/region/DistrictGrid";
 import Breadcrumb from "@/components/seo/Breadcrumb";
 import FaqSection from "@/components/seo/FaqSection";
@@ -36,10 +36,11 @@ export async function generateMetadata({
     alternates: {
       canonical: `https://bag.fazr.co.kr/${region}`,
     },
-    openGraph: {
-      title: `${regionInfo.name} 종량제 봉투 판매처 찾기`,
-      description: `${regionInfo.name} ${districtCount}개 지역 판매처 ${totalCount.toLocaleString()}곳`,
-    },
+    openGraph: buildOpenGraph(
+      `${regionInfo.name} 종량제 봉투 판매처 찾기`,
+      `${regionInfo.name} ${districtCount}개 지역 판매처 ${totalCount.toLocaleString()}곳`,
+      `/${region}`
+    ),
   };
 }
 

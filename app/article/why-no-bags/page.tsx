@@ -3,6 +3,7 @@ import Link from "next/link";
 import Breadcrumb from "@/components/seo/Breadcrumb";
 import FaqSection from "@/components/seo/FaqSection";
 import RegionLinks from "@/components/article/RegionLinks";
+import { buildOpenGraph } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title: "종량제 봉투 요즘 왜 없을까? 직접 확인해봤습니다 (2026)",
@@ -11,10 +12,11 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://bag.fazr.co.kr/article/why-no-bags",
   },
-  openGraph: {
-    title: "종량제 봉투 요즘 왜 없을까?",
-    description: "직접 돌아다녀보고 정리한 종량제 봉투 구매 가이드",
-  },
+  openGraph: buildOpenGraph(
+    "종량제 봉투 요즘 왜 없을까?",
+    "직접 돌아다녀보고 정리한 종량제 봉투 구매 가이드",
+    "/article/why-no-bags"
+  ),
 };
 
 export default function WhyNoBagsPage() {

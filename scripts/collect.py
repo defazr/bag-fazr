@@ -235,6 +235,8 @@ def classify_and_save(items: list[dict], updated_at: str):
     # region_slug -> district_slug -> [stores]
     classified: dict[str, dict[str, list[dict]]] = {}
     unmatched: list[dict] = []
+    # "regionSlug/구군명" -> 건수. 정확 매칭 실패 집계용 (매핑 테이블 보강 근거)
+    unmatched_districts: dict[str, int] = {}
 
     for item in active:
         store = transform_item(item)
@@ -256,13 +258,15 @@ def classify_and_save(items: list[dict], updated_at: str):
         name_to_slug = DISTRICT_SLUG_MAP.get(region_slug, {})
         district_slug = None
 
+        # 정확 매칭만 허용한다.
+        # 부분 매칭 fallback은 "북구" → "강북구"처럼 다른 구로 조용히 오배치되어
+        # 2026-03 seoul/gangbuk 오염(타 지역 1,779곳)을 만든 원인이므로 사용하지 않는다.
+        # 매칭 실패는 _unmatched.json으로 보내고 로그로 드러낸다.
         if district_name:
             district_slug = name_to_slug.get(district_name)
             if not district_slug:
-                for name, s in name_to_slug.items():
-                    if district_name in name or name in district_name:
-                        district_slug = s
-                        break
+                key = f"{region_slug}/{district_name}"
+                unmatched_districts[key] = unmatched_districts.get(key, 0) + 1
 
         if not district_slug:
             unmatched.append(store)
@@ -298,6 +302,14 @@ def classify_and_save(items: list[dict], updated_at: str):
             json.dump(unmatched, f, ensure_ascii=False, indent=2)
         log.info(f"Unmatched: {len(unmatched)} → _unmatched.json")
 
+    if unmatched_districts:
+        log.warning(
+            f"정확 매칭 실패 구군 {len(unmatched_districts)}종 "
+            f"(부분 매칭으로 때우지 말고 lib/regions.ts에 명시적으로 추가할 것)"
+        )
+        for key, cnt in sorted(unmatched_districts.items(), key=lambda x: -x[1]):
+            log.warning(f"  {key}: {cnt}건")
+
     # 5. Save per region/district
     total_all = 0
     regions_list = []
@@ -317,6 +329,23 @@ def classify_and_save(items: list[dict], updated_at: str):
 
         for district_name, district_slug in sorted(name_to_slug.items(), key=lambda x: x[1]):
             stores = classified.get(region_slug, {}).get(district_slug, [])
+
+            # 저장 직전 지역 일치 검증.
+            # 주소의 시/도가 저장 대상 지역과 다른 매장은 절대 기록하지 않는다.
+            # (2026-03 seoul/gangbuk 오염 재발 방지 트립와이어)
+            verified = [
+                s
+                for s in stores
+                if normalize_region(s.get("roadAddress") or s.get("address") or "")
+                == region_name
+            ]
+            if len(verified) != len(stores):
+                log.error(
+                    f"  지역 불일치 매장 제외: {region_name} {district_name} "
+                    f"{len(stores) - len(verified)}건 (저장하지 않음)"
+                )
+                stores = verified
+
             count = len(stores)
             districts_meta.append({
                 "district": district_name,
@@ -325,6 +354,7 @@ def classify_and_save(items: list[dict], updated_at: str):
             })
             region_total += count
 
+            filepath = os.path.join(region_dir, f"{district_slug}.json")
             if stores:
                 district_data = {
                     "region": region_name,
@@ -335,9 +365,14 @@ def classify_and_save(items: list[dict], updated_at: str):
                     "totalCount": count,
                     "stores": stores,
                 }
-                filepath = os.path.join(region_dir, f"{district_slug}.json")
                 with open(filepath, "w", encoding="utf-8") as f:
                     json.dump(district_data, f, ensure_ascii=False, indent=2)
+            elif os.path.exists(filepath):
+                # count가 0이 된 구군의 이전 회차 파일을 남기지 않는다.
+                # index.json만 갱신되고 고아 파일이 살아남아 잘못된 페이지를
+                # 서비스한 사례(seoul/gangbuk)가 있어 명시적으로 삭제한다.
+                os.remove(filepath)
+                log.warning(f"  stale 파일 삭제: {region_slug}/{district_slug}.json (count=0)")
 
             if count > 0:
                 log.info(f"  {region_name} {district_name}: {count}곳")

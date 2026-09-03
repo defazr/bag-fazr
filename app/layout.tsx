@@ -6,24 +6,14 @@ import Footer from "@/components/layout/Footer";
 import NoticeBanner from "@/components/layout/NoticeBanner";
 import ScrollToTop from "@/components/layout/ScrollToTop";
 import StickyBottomAd from "@/components/ads/StickyBottomAd";
+import { buildOpenGraph } from "@/lib/seo";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://bag.fazr.co.kr"),
-  openGraph: {
-    title: "종량제 봉투 판매처 찾기",
-    description: "전국 종량제 봉투 판매처를 지역별로 확인하세요",
-    url: "https://bag.fazr.co.kr",
-    siteName: "bag.fazr",
-    images: [
-      {
-        url: "/og-default.jpg",
-        width: 1200,
-        height: 630,
-      },
-    ],
-    locale: "ko_KR",
-    type: "website",
-  },
+  openGraph: buildOpenGraph(
+    "종량제 봉투 판매처 찾기",
+    "전국 종량제 봉투 판매처를 지역별로 확인하세요"
+  ),
   twitter: {
     card: "summary_large_image",
     title: "종량제 봉투 판매처 찾기",

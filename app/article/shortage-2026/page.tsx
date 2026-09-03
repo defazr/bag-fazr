@@ -3,6 +3,7 @@ import Link from "next/link";
 import Breadcrumb from "@/components/seo/Breadcrumb";
 import FaqSection from "@/components/seo/FaqSection";
 import RegionLinks from "@/components/article/RegionLinks";
+import { buildOpenGraph } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title: "종량제 봉투 대란 이유 총정리 (2026 최신)",
@@ -11,10 +12,11 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://bag.fazr.co.kr/article/shortage-2026",
   },
-  openGraph: {
-    title: "종량제 봉투 대란 이유 총정리 (2026)",
-    description: "왜 봉투를 못 구하는지, 어디서 사야 하는지 정리했습니다",
-  },
+  openGraph: buildOpenGraph(
+    "종량제 봉투 대란 이유 총정리 (2026)",
+    "왜 봉투를 못 구하는지, 어디서 사야 하는지 정리했습니다",
+    "/article/shortage-2026"
+  ),
 };
 
 export default function ShortageArticlePage() {

@@ -303,3 +303,55 @@ export function getDistrictBySlug(
 export function getDistrictsByRegion(regionSlug: string): DistrictMapping[] {
   return DISTRICTS.filter((d) => d.regionSlug === regionSlug);
 }
+
+// 시/도 축약명. 이름이 겹치는 구군을 구분해 표시할 때만 사용한다.
+const REGION_SHORT_NAMES: Record<string, string> = {
+  seoul: "서울",
+  busan: "부산",
+  daegu: "대구",
+  incheon: "인천",
+  gwangju: "광주",
+  daejeon: "대전",
+  ulsan: "울산",
+  sejong: "세종",
+  gyeonggi: "경기",
+  gangwon: "강원",
+  chungbuk: "충북",
+  chungnam: "충남",
+  jeonbuk: "전북",
+  jeonnam: "전남",
+  gyeongbuk: "경북",
+  gyeongnam: "경남",
+  jeju: "제주",
+};
+
+// 전국에서 이름이 2곳 이상 겹치는 구군 이름 집합.
+// (중구/동구/서구/남구/북구/강서구/고성군 — 29개 페이지)
+// regionSlug+slug 기준으로 먼저 중복 제거해 같은 구군의 중복 등록을 오탐하지 않는다.
+const DUPLICATE_DISTRICT_NAMES: ReadonlySet<string> = (() => {
+  const seen = new Set<string>();
+  const counts = new Map<string, number>();
+  for (const d of DISTRICTS) {
+    const key = `${d.regionSlug}/${d.slug}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    counts.set(d.name, (counts.get(d.name) ?? 0) + 1);
+  }
+  return new Set(
+    [...counts].filter(([, n]) => n > 1).map(([name]) => name)
+  );
+})();
+
+/**
+ * 화면·title·FAQ에 공통으로 쓰는 구군 표시명.
+ * 이름이 겹치는 구군에만 시/도 축약명을 붙인다. ("부산 동구", "강원 고성군")
+ * 겹치지 않는 구군은 기존 표기를 그대로 유지한다. ("강남구")
+ */
+export function getDistrictDisplayName(
+  regionSlug: string,
+  districtName: string
+): string {
+  if (!DUPLICATE_DISTRICT_NAMES.has(districtName)) return districtName;
+  const short = REGION_SHORT_NAMES[regionSlug];
+  return short ? `${short} ${districtName}` : districtName;
+}

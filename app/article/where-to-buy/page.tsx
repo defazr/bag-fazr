@@ -3,6 +3,7 @@ import Link from "next/link";
 import Breadcrumb from "@/components/seo/Breadcrumb";
 import FaqSection from "@/components/seo/FaqSection";
 import RegionLinks from "@/components/article/RegionLinks";
+import { buildOpenGraph } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title: "쓰레기봉투 파는곳 총정리 | 종량제봉투 판매처 찾기 (2026)",
@@ -11,10 +12,11 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://bag.fazr.co.kr/article/where-to-buy",
   },
-  openGraph: {
-    title: "쓰레기봉투 파는곳 총정리 (2026)",
-    description: "전국 종량제봉투 판매처를 지역별로 한 번에 확인하세요",
-  },
+  openGraph: buildOpenGraph(
+    "쓰레기봉투 파는곳 총정리 (2026)",
+    "전국 종량제봉투 판매처를 지역별로 한 번에 확인하세요",
+    "/article/where-to-buy"
+  ),
 };
 
 export default function WhereToBuyPage() {
