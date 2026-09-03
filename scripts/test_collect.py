@@ -15,6 +15,7 @@ import hashlib
 import importlib.util
 import json
 import os
+import re
 import shutil
 import sys
 import tempfile
@@ -384,14 +385,6 @@ check("9) 탈락률 1% 미만 (대량 탈락 아님)", n_rejected / total_checke
 print("        ※ 9번은 자동 수정하지 않는다. 위 목록은 보고용이다.")
 
 
-# ---------------------------------------------------------------- 결과
-print("\n" + "=" * 60)
-print(f"PASS {len(PASS)} / FAIL {len(FAIL)}")
-if FAIL:
-    for f in FAIL:
-        print(f"  FAILED: {f}")
-    sys.exit(1)
-print("모든 안전장치 테스트 통과")
 
 
 # ============================================================ P17.8
@@ -480,3 +473,82 @@ shutil.rmtree(tmp, ignore_errors=True)
 check("L) historical exception은 CollectionError를 유발하지 않음", raised is None, raised or "")
 check("L) 자동 재귀속하지 않음 (세종/대구로 옮기지 않음)", not gn and not gd)
 check("L) historical 2건은 _unmatched에 남음", n_unm == 2, f"{n_unm}건")
+
+
+# ============================================================ P17.9
+# legacy destructive collector 재등장 방지 가드
+#
+# 2026-09-03에 classify_all.py / reclassify.py / reclassify_all.py를 삭제했다.
+# 셋 다 호출처가 0인데 인자 없이 실행 가능했고, data/*.json을 통째로 지운 뒤
+# 강북구 오염을 만든 부분 매칭 fallback으로 재분류했다.
+#
+# 목적은 "오늘 치운 위험이 조용히 다시 생기지 못하게" 하는 것이다.
+# Python 보안 분석기를 만드는 것이 아니다.
+# ============================================================
+print("\n[P17.9] legacy destructive entrypoint 재등장 방지")
+
+SCRIPTS_DIR = os.path.join(ROOT, "scripts")
+
+# 감사를 마친 Python entrypoint. 새 도구 추가 자체를 금지하지 않는다.
+# 다만 destructive path(data/ write·delete) 감사 없이 조용히 늘어나지는 못한다.
+ALLOWED_SCRIPTS = {"collect.py", "test_collect.py"}
+
+# 삭제된 legacy. 복원하지 않는다. 필요한 기능은 현재 collect.py의
+# exact-match / fail-closed 원칙 위에서 새로 구현한다.
+RETIRED_SCRIPTS = {"classify_all.py", "reclassify.py", "reclassify_all.py"}
+
+present = {f for f in os.listdir(SCRIPTS_DIR) if f.endswith(".py")}
+
+unexpected = sorted(present - ALLOWED_SCRIPTS)
+check(
+    "A) scripts/ Python entrypoint가 감사된 목록뿐",
+    not unexpected,
+    "새 Python entrypoint: " + ", ".join(unexpected) + "\n"
+    "        의도된 추가라면 data/ write·delete 경로를 감사한 뒤\n"
+    "        ALLOWED_SCRIPTS에 추가하라. 추가 자체가 금지는 아니다."
+    if unexpected else "",
+)
+
+revived = sorted(present & RETIRED_SCRIPTS)
+check(
+    "B) 삭제된 legacy collector가 복원되지 않음",
+    not revived,
+    "복원됨: " + ", ".join(revived) + "\n"
+    "        이 파일들은 data/*.json을 통째로 지우고 부분 매칭으로 재분류한다.\n"
+    "        복원하지 말고 collect.py 기반으로 새로 구현하라."
+    if revived else "",
+)
+
+# 강북구 오염을 만든 "양방향 부분 포함" 검사를 잡는다.
+# 두 변수를 서로의 부분 문자열로 두 번 비교하는 형태로, 변수명이
+# 달라져도 걸리도록 코드 모양으로 매칭한다. 주석과 문자열은 제외한다.
+BIDIR_SUBSTRING = re.compile(r"(\w+)\s+in\s+(\w+)\s+or\s+\2\s+in\s+\1")
+
+offenders = []
+for fn in sorted(present):
+    path = os.path.join(SCRIPTS_DIR, fn)
+    for i, raw_line in enumerate(open(path, encoding="utf-8"), 1):
+        line = raw_line.split("#", 1)[0]  # 주석 제외, 실제 코드만 본다
+        if BIDIR_SUBSTRING.search(line):
+            offenders.append(f"{fn}:{i}  {line.strip()[:70]}")
+
+check(
+    "C) 양방향 부분 포함 매칭이 재등장하지 않음",
+    not offenders,
+    "\n        ".join(offenders) + "\n"
+    "        양방향 부분 포함 검사는 \"북구\"를 \"강북구\"로 흡수시킨다.\n"
+    "        구군 판정은 토큰 완전 일치만 쓴다."
+    if offenders else "",
+)
+
+
+# ---------------------------------------------------------------- 결과
+# 이 블록은 반드시 파일 맨 끝에 있어야 한다. 중간에 있으면 뒤쪽 검사가
+# 실패해도 exit code가 0이 되어 커밋 게이트가 무력해진다.
+print("\n" + "=" * 60)
+print(f"PASS {len(PASS)} / FAIL {len(FAIL)}")
+if FAIL:
+    for f in FAIL:
+        print(f"  FAILED: {f}")
+    sys.exit(1)
+print("모든 안전장치 테스트 통과")
