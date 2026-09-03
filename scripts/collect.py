@@ -15,6 +15,7 @@ import json
 import logging
 import os
 import re
+import sys
 import time
 import urllib.parse
 import urllib.request
@@ -120,11 +121,28 @@ def fetch_page(service_key: str, page_no: int) -> dict | None:
     return None
 
 
-def fetch_all(service_key: str) -> tuple[list[dict], int]:
-    """전국 데이터 1회 수집"""
+class CollectionError(RuntimeError):
+    """수집이 완결됐음을 증명하지 못한 상태.
+
+    이 예외가 발생하면 저장 단계에 절대 진입하지 않는다. 기존 data/ 파일은
+    한 건도 쓰이거나 삭제되지 않는다. (fail closed)
+    """
+
+
+def fetch_all(service_key: str) -> tuple[list[dict], int, int]:
+    """전국 데이터 1회 수집.
+
+    반환: (items, api_calls, expected_total)
+
+    부분 수집을 정상 반환하지 않는다. 네트워크/파싱 실패와 "데이터가 정상적으로
+    끝남"을 같은 값으로 표현하지 않는다 - 전자는 CollectionError로 중단시킨다.
+    수집 건수가 API totalCount와 일치할 때만 정상 반환한다.
+    """
     all_items = []
     page_no = 1
     calls = 0
+    expected_total: int | None = None
+    pages_needed: int | None = None
 
     while True:
         if page_no % 50 == 1:
@@ -133,7 +151,11 @@ def fetch_all(service_key: str) -> tuple[list[dict], int]:
         calls += 1
 
         if not data:
-            break
+            # 재시도 소진. 정상 종료가 아니다.
+            raise CollectionError(
+                f"page {page_no} 응답 실패 (재시도 {MAX_RETRIES}회 소진). "
+                f"{len(all_items)}건 수집 후 중단."
+            )
 
         try:
             body = data["response"]["body"]
@@ -144,25 +166,43 @@ def fetch_all(service_key: str) -> tuple[list[dict], int]:
                 items = [items]
             total_count = int(body.get("totalCount", 0))
         except (KeyError, TypeError, ValueError) as e:
-            log.error(f"Parse error: {e}")
-            break
+            raise CollectionError(
+                f"page {page_no} 응답 파싱 실패: {e}. {len(all_items)}건 수집 후 중단."
+            ) from e
+
+        if expected_total is None:
+            expected_total = total_count
+            pages_needed = (expected_total + NUM_OF_ROWS - 1) // NUM_OF_ROWS
+            log.info(f"  totalCount={expected_total}, pages={pages_needed}")
 
         if not items:
+            # 아직 받을 페이지가 남아 있는데 빈 응답이면 정상 종료로 취급하지 않는다.
+            if page_no <= pages_needed:
+                raise CollectionError(
+                    f"page {page_no}/{pages_needed} 빈 응답. "
+                    f"예상 {expected_total}건 중 {len(all_items)}건만 수집."
+                )
             break
 
         all_items.extend(items)
 
-        if page_no == 1:
-            pages_needed = (total_count + NUM_OF_ROWS - 1) // NUM_OF_ROWS
-            log.info(f"  totalCount={total_count}, pages={pages_needed}")
-
-        if len(all_items) >= total_count:
+        if page_no >= pages_needed:
             break
 
         page_no += 1
         time.sleep(0.2)
 
-    return all_items, calls
+    if expected_total is None:
+        raise CollectionError("API totalCount를 한 번도 확보하지 못했다.")
+
+    if len(all_items) != expected_total:
+        raise CollectionError(
+            f"수집 건수 불일치: API totalCount={expected_total}, "
+            f"실제 수집={len(all_items)}"
+        )
+
+    log.info(f"  완결성 검증 통과: {len(all_items)} == totalCount {expected_total}")
+    return all_items, calls, expected_total
 
 
 def normalize_region(addr: str) -> str | None:
@@ -202,6 +242,59 @@ def extract_district(addr: str, region_name: str | None = None) -> str | None:
     return None
 
 
+def derive_location(addr: str) -> tuple[str | None, str | None]:
+    """주소 문자열 하나에서 (시/도명, 구·군명)을 독립적으로 추출한다.
+
+    저장 직전 검증 전용. 분류 결과를 참조하지 않고 주소만 보고 판정한다.
+    """
+    region_name = normalize_region(addr)
+    if not region_name:
+        return None, None
+    return region_name, extract_district(addr, region_name)
+
+
+def verify_store_location(
+    store: dict, expected_region: str, expected_district: str
+) -> str | None:
+    """매장이 기대한 지역/구군에 속하는지 독립 검증. 정상이면 None, 아니면 사유 문자열.
+
+    roadAddress와 address를 둘 다 본다. 한쪽만 믿고 통과시키면
+    지번은 전남 광양, 도로명은 서울 노원인 레코드가 서울 페이지에 실린다.
+    """
+    candidates = []
+    for field in ("roadAddress", "address"):
+        raw = (store.get(field) or "").strip()
+        if not raw:
+            continue
+        region, district = derive_location(raw)
+        if region:
+            candidates.append((field, region, district))
+
+    if not candidates:
+        return "주소에서 시/도를 추출하지 못함"
+
+    regions = {c[1] for c in candidates}
+    if len(regions) > 1:
+        return f"도로명/지번 시도 불일치: {sorted(regions)}"
+
+    districts = {c[2] for c in candidates if c[2]}
+    if len(districts) > 1:
+        return f"도로명/지번 구군 불일치: {sorted(districts)}"
+
+    derived_region = regions.pop()
+    if derived_region != expected_region:
+        return f"시/도 불일치: 기대={expected_region} 주소={derived_region}"
+
+    if not districts:
+        return "주소에서 구/군을 추출하지 못함"
+
+    derived_district = districts.pop()
+    if derived_district != expected_district:
+        return f"구/군 불일치: 기대={expected_district} 주소={derived_district}"
+
+    return None
+
+
 def transform_item(item: dict) -> dict:
     """API 응답 → store 스키마"""
     return {
@@ -225,8 +318,17 @@ def dedupe_stores(stores: list[dict]) -> list[dict]:
     return result
 
 
-def classify_and_save(items: list[dict], updated_at: str):
-    """전국 데이터를 주소 기반으로 분류 + 저장"""
+def classify_and_save(
+    items: list[dict],
+    updated_at: str,
+    complete: bool = False,
+    data_dir: str | None = None,
+):
+    """전국 데이터를 주소 기반으로 분류 + 저장.
+
+    complete=False면 stale 파일 삭제를 수행하지 않는다. 수집이 완결됐다는
+    사실을 증명한 실행에서만 True로 호출할 것. data_dir은 테스트용 주입점이다.
+    """
     # 1. Filter active only
     active = [i for i in items if str(i.get("SALS_STTS_CD", "")) == "01"]
     log.info(f"Active (영업/정상): {len(active)}/{len(items)}")
@@ -237,6 +339,8 @@ def classify_and_save(items: list[dict], updated_at: str):
     unmatched: list[dict] = []
     # "regionSlug/구군명" -> 건수. 정확 매칭 실패 집계용 (매핑 테이블 보강 근거)
     unmatched_districts: dict[str, int] = {}
+    # 저장 직전 지역 검증에서 격리된 매장 (사유 포함)
+    rejected_stores: list[str] = []
 
     for item in active:
         store = transform_item(item)
@@ -295,7 +399,8 @@ def classify_and_save(items: list[dict], updated_at: str):
     log.info(f"Dedupe: {total_before_dedupe} → {total_after_dedupe} ({total_before_dedupe - total_after_dedupe} removed)")
 
     # 4. Save unmatched
-    data_dir = os.path.join(os.path.dirname(__file__), "..", "data")
+    if data_dir is None:
+        data_dir = os.path.join(os.path.dirname(__file__), "..", "data")
     if unmatched:
         unmatched_path = os.path.join(data_dir, "_unmatched.json")
         with open(unmatched_path, "w", encoding="utf-8") as f:
@@ -330,18 +435,23 @@ def classify_and_save(items: list[dict], updated_at: str):
         for district_name, district_slug in sorted(name_to_slug.items(), key=lambda x: x[1]):
             stores = classified.get(region_slug, {}).get(district_slug, [])
 
-            # 저장 직전 지역 일치 검증.
-            # 주소의 시/도가 저장 대상 지역과 다른 매장은 절대 기록하지 않는다.
-            # (2026-03 seoul/gangbuk 오염 재발 방지 트립와이어)
-            verified = [
-                s
-                for s in stores
-                if normalize_region(s.get("roadAddress") or s.get("address") or "")
-                == region_name
-            ]
+            # 저장 직전 지역 일치 검증 (2026-03 seoul/gangbuk 오염 재발 방지).
+            #
+            # 분류에 쓴 값을 다시 비교하면 항등식이라 절대 발화하지 않는다.
+            # verify_store_location()은 분류 결과를 참조하지 않고 주소만 보고
+            # 시/도와 구/군을 독립 판정하며, roadAddress와 address를 둘 다 본다.
+            verified = []
+            for s in stores:
+                reason = verify_store_location(s, region_name, district_name)
+                if reason is None:
+                    verified.append(s)
+                else:
+                    rejected_stores.append(
+                        f"{region_slug}/{district_slug} | {s.get('name', '?')} | {reason}"
+                    )
             if len(verified) != len(stores):
                 log.error(
-                    f"  지역 불일치 매장 제외: {region_name} {district_name} "
+                    f"  지역 검증 실패로 제외: {region_name} {district_name} "
                     f"{len(stores) - len(verified)}건 (저장하지 않음)"
                 )
                 stores = verified
@@ -371,8 +481,18 @@ def classify_and_save(items: list[dict], updated_at: str):
                 # count가 0이 된 구군의 이전 회차 파일을 남기지 않는다.
                 # index.json만 갱신되고 고아 파일이 살아남아 잘못된 페이지를
                 # 서비스한 사례(seoul/gangbuk)가 있어 명시적으로 삭제한다.
-                os.remove(filepath)
-                log.warning(f"  stale 파일 삭제: {region_slug}/{district_slug}.json (count=0)")
+                #
+                # 단, 수집이 완결됐다고 증명된 실행에서만 지운다. 부분 수집에서
+                # 삭제하면 네트워크 한 번 끊긴 것이 전국 데이터 소실이 된다.
+                if complete:
+                    os.remove(filepath)
+                    log.warning(
+                        f"  stale 파일 삭제: {region_slug}/{district_slug}.json (count=0)"
+                    )
+                else:
+                    log.warning(
+                        f"  stale 파일 보존(수집 미완결): {region_slug}/{district_slug}.json"
+                    )
 
             if count > 0:
                 log.info(f"  {region_name} {district_name}: {count}곳")
@@ -398,6 +518,13 @@ def classify_and_save(items: list[dict], updated_at: str):
                   f, ensure_ascii=False, indent=2)
     log.info(f"\nregions.json updated: total {total_all}")
 
+    if rejected_stores:
+        log.error(f"지역 검증에서 격리된 매장 {len(rejected_stores)}건:")
+        for r in rejected_stores[:50]:
+            log.error(f"  {r}")
+        if len(rejected_stores) > 50:
+            log.error(f"  ... 외 {len(rejected_stores) - 50}건")
+
     return total_all
 
 
@@ -413,14 +540,24 @@ def main():
     log.info("=" * 50)
     log.info("전국 데이터 1회 수집 시작")
     log.info("=" * 50)
-    items, calls = fetch_all(args.key)
-    log.info(f"수집 완료: {len(items)}건, {calls} API calls")
+    try:
+        items, calls, expected_total = fetch_all(args.key)
+    except CollectionError as e:
+        log.error("=" * 50)
+        log.error(f"수집 미완결 — 저장 단계에 진입하지 않는다: {e}")
+        log.error("기존 data/ 파일은 한 건도 변경·삭제되지 않았다.")
+        log.error("=" * 50)
+        # cron이 성공으로 오인하지 않도록 non-zero exit.
+        sys.exit(1)
 
-    # 분류 + 저장
+    log.info(f"수집 완료: {len(items)}건 (totalCount {expected_total}), {calls} API calls")
+
+    # 분류 + 저장. 여기까지 왔다는 것은 수집이 완결됐다는 뜻이므로
+    # stale 파일 삭제를 허용한다.
     log.info("=" * 50)
     log.info("주소 기반 분류 시작")
     log.info("=" * 50)
-    total = classify_and_save(items, today)
+    total = classify_and_save(items, today, complete=True)
 
     log.info(f"\nDone! Total: {total}곳, API calls: {calls}")
 
