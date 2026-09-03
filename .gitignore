@@ -4,3 +4,5 @@ scripts/collect.log
 scripts/__pycache__/
 .DS_Store
 .vercel
+scripts/.apikey
+.env.local
