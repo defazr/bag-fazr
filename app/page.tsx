@@ -10,7 +10,7 @@ export const revalidate = 86400;
 export const metadata: Metadata = {
   title: "종량제 봉투 파는곳 | 전국 판매처 찾기 (2026 최신)",
   description:
-    "전국 종량제 봉투 판매처를 지역별로 빠르게 찾아보세요. 영업 중인 판매점만 제공합니다.",
+    "전국 종량제 봉투 판매처를 지역별로 빠르게 찾아보세요. 공공데이터를 바탕으로 판매처 정보를 제공합니다.",
   alternates: {
     canonical: "https://bag.fazr.co.kr",
   },

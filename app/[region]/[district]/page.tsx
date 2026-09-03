@@ -53,7 +53,7 @@ export async function generateMetadata({
         : `${displayName} 종량제 봉투 판매처 안내`,
     description:
       count > 0
-        ? `${displayName} 종량제 봉투 판매처 ${count}곳. 가격, 크기, 편의점 구매 가능 여부까지. 영업 중인 곳만 제공합니다.`
+        ? `${displayName} 종량제 봉투 판매처 ${count}곳. 가격, 크기, 편의점 구매 가능 여부까지. 공공데이터를 바탕으로 정리했습니다.`
         : `${displayName} 종량제 봉투 판매처 정보가 없습니다. ${regionInfo.name}의 다른 지역 판매처를 확인해보세요.`,
     alternates: {
       canonical: `https://bag.fazr.co.kr/${region}/${district}`,
@@ -442,8 +442,8 @@ export default async function DistrictPage({ params }: PageProps) {
       <div className="mt-10 mb-20 sm:mb-0 rounded-xl bg-gray-50 dark:bg-zinc-900 px-5 py-3 text-xs text-gray-400 dark:text-zinc-500">
         <p>
           데이터 출처: 공공데이터포털 (행정안전부 자원환경
-          쓰레기종량제봉투판매업) · 갱신일: {data.updatedAt} · 영업 중인
-          판매처만 제공
+          쓰레기종량제봉투판매업) · 데이터 수집일: {data.updatedAt} ·
+          공공데이터 기준 판매처 정보
         </p>
       </div>
 
