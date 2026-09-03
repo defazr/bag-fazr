@@ -172,8 +172,16 @@ def fetch_all(service_key: str) -> tuple[list[dict], int, int]:
 
         if expected_total is None:
             expected_total = total_count
-            pages_needed = (expected_total + NUM_OF_ROWS - 1) // NUM_OF_ROWS
-            log.info(f"  totalCount={expected_total}, pages={pages_needed}")
+            # 페이지 크기는 요청값(NUM_OF_ROWS)이 아니라 첫 응답의 실제 반환 개수로
+            # 계산한다. 이 API는 numOfRows=1000을 요청해도 100건만 돌려준다(실측).
+            # 요청값을 믿으면 필요한 페이지 수를 10분의 1로 잘못 계산해 수집이
+            # 조기 종료된다.
+            page_size = len(items) if items else NUM_OF_ROWS
+            pages_needed = (expected_total + page_size - 1) // page_size
+            log.info(
+                f"  totalCount={expected_total}, page_size={page_size}(실측), "
+                f"pages={pages_needed}"
+            )
 
         if not items:
             # 아직 받을 페이지가 남아 있는데 빈 응답이면 정상 종료로 취급하지 않는다.
@@ -186,10 +194,16 @@ def fetch_all(service_key: str) -> tuple[list[dict], int, int]:
 
         all_items.extend(items)
 
-        if page_no >= pages_needed:
+        # 종료 판정은 수집 건수 기준이다. 페이지 수는 안전 상한으로만 쓴다.
+        if len(all_items) >= expected_total:
             break
 
         page_no += 1
+        if page_no > pages_needed:
+            raise CollectionError(
+                f"예상 페이지 {pages_needed}를 넘겼는데 "
+                f"{len(all_items)}/{expected_total}건. 페이지 크기 가정이 틀렸다."
+            )
         time.sleep(0.2)
 
     if expected_total is None:

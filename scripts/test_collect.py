@@ -81,6 +81,25 @@ except Exception as e:
     check("정상 응답 완결 반환", False, f"예외 발생: {e}")
 
 
+# --------------------------------------------------------------- 1b
+print("\n[1b] API가 numOfRows를 무시하고 100건씩만 반환 → 전량 수집해야 함")
+# 실측: 이 API는 numOfRows=1000을 요청해도 100건만 반환한다.
+# 요청값으로 페이지 수를 계산하면 10분의 1에서 조기 종료된다.
+TOTAL, SIZE = 2350, 100
+collect.fetch_page = lambda k, n: make_page(
+    [SEOUL_GANGNAM] * min(SIZE, max(0, TOTAL - (n - 1) * SIZE)), TOTAL
+)
+try:
+    items, calls, total = collect.fetch_all("KEY")
+    check(
+        "요청값이 아닌 실제 페이지 크기로 전량 수집",
+        len(items) == TOTAL and calls == 24,
+        f"items={len(items)} (기대 {TOTAL}), calls={calls} (기대 24)",
+    )
+except Exception as e:
+    check("요청값이 아닌 실제 페이지 크기로 전량 수집", False, f"예외 발생: {e}")
+
+
 # ---------------------------------------------------------------- 2
 print("\n[2] 91페이지 중 5페이지에서 3회 실패 → 프로세스 실패 + data/ 무변경")
 before = data_fingerprint(os.path.join(ROOT, "data"))
