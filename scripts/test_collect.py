@@ -27,6 +27,7 @@ spec = importlib.util.spec_from_file_location(
 collect = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(collect)
 collect.load_district_slugs()
+collect.load_legacy_districts()
 
 PASS, FAIL = [], []
 
@@ -391,3 +392,91 @@ if FAIL:
         print(f"  FAILED: {f}")
     sys.exit(1)
 print("모든 안전장치 테스트 통과")
+
+
+# ============================================================ P17.8
+# 인천 2026 행정구역 개편 — legacy route bucket 정규화
+# ============================================================
+print("\n[P17.8-A~G] 인천 신규 구군 → legacy route bucket")
+
+OJ = collect.LEGACY_DISTRICT_SETS["old_junggu"]
+OY = collect.LEGACY_DISTRICT_SETS["old_junggu_yeongjong"]
+OD = collect.LEGACY_DISTRICT_SETS["old_donggu"]
+
+check("집합 교집합 0 (중구 원도심 ∩ 동구)", not (OJ & OD), f"{sorted(OJ & OD)}")
+check("집합 교집합 0 (영종 ∩ 동구)", not (OY & OD), f"{sorted(OY & OD)}")
+check("공식 동구 7개 법정동 전부 포함",
+      OD == {"만석동", "화수동", "화평동", "송현동", "송림동", "금곡동", "창영동"}, f"{sorted(OD)}")
+
+
+def loc(addr):
+    return collect.derive_location(addr)
+
+
+check("A) 제물포구 + 옛 중구 법정동 → 중구",
+      loc("인천광역시 제물포구 항동7가 1") == ("인천광역시", "중구"), f"{loc('인천광역시 제물포구 항동7가 1')}")
+check("B) 제물포구 + 옛 동구 법정동 → 동구",
+      loc("인천광역시 제물포구 송림동 1") == ("인천광역시", "동구"), f"{loc('인천광역시 제물포구 송림동 1')}")
+r, why = collect.resolve_legacy_district("인천광역시", "제물포구", ["인천광역시", "제물포구", "없는동", "1"])
+check("C) 제물포구 + 미등록 법정동 → 미해결", r is None, f"{r} / {why}")
+check("D) 영종구 → 중구 bucket",
+      loc("인천광역시 영종구 중산동 1") == ("인천광역시", "중구"), f"{loc('인천광역시 영종구 중산동 1')}")
+check("E) 서해구 → 서구 bucket",
+      loc("인천광역시 서해구 검암로 1") == ("인천광역시", "서구"), f"{loc('인천광역시 서해구 검암로 1')}")
+check("F) 검단구 → 서구 bucket",
+      loc("인천광역시 검단구 원당대로 1") == ("인천광역시", "서구"),
+      f"{loc('인천광역시 검단구 원당대로 1')}")
+
+print("  G) 유사명 완전일치 — 부분문자열로 섞이지 않는가")
+for dong, want in [("송림동", "동구"), ("송현동", "동구"),
+                   ("송월동1가", "중구"), ("송학동3가", "중구")]:
+    got = loc(f"인천광역시 제물포구 {dong} 1")
+    check(f"G) 제물포구 {dong} → {want}", got == ("인천광역시", want), f"{got}")
+
+print("\n[P17.8-H~J] road/lot 신구 표기 혼재 — legacy bucket 비교")
+check("H) road=중구 / lot=제물포구 옛 중구 → 정상",
+      collect.verify_store_location(
+          {"roadAddress": "인천광역시 중구 서해대로 1",
+           "address": "인천광역시 제물포구 항동7가 76-2"}, "인천광역시", "중구") is None)
+check("I) road=동구 / lot=제물포구 옛 동구 → 정상",
+      collect.verify_store_location(
+          {"roadAddress": "인천광역시 동구 봉수대로 82",
+           "address": "인천광역시 제물포구 송림동 296-2"}, "인천광역시", "동구") is None)
+j = collect.verify_store_location(
+    {"roadAddress": "인천광역시 중구 서해대로 1",
+     "address": "인천광역시 제물포구 송림동 296-2"}, "인천광역시", "중구")
+check("J) road=중구 / lot=제물포구 옛 동구 → contradiction 격리", j is not None, f"사유: {j}")
+
+print("\n[P17.8-K~L] 구군 drift preflight — write 전 fail closed")
+before = data_fingerprint(os.path.join(ROOT, "data"))
+tmp = tempfile.mkdtemp()
+raised = None
+try:
+    collect.classify_and_save(
+        [item("가짜", "인천광역시 제물포구 없는동 1")], "2026-09-03", complete=True, data_dir=tmp)
+except collect.CollectionError as e:
+    raised = str(e)
+wrote = sum(len(f) for _, _, f in os.walk(tmp))
+shutil.rmtree(tmp, ignore_errors=True)
+check("K) 미등록 구군 1건 → CollectionError", raised is not None, raised or "예외 없음")
+check("K) 임시 디렉터리에 파일 write 0 (index/_unmatched 포함)", wrote == 0, f"{wrote}개 생성됨")
+check("K) 실제 data/ 무변경", before == data_fingerprint(os.path.join(ROOT, "data")))
+
+tmp = tempfile.mkdtemp()
+raised = None
+try:
+    collect.classify_and_save(
+        [item("연기군매장", "충청남도 연기군 조치원읍 1"),
+         item("군위매장", "경상북도 군위군 군위읍 1"),
+         item("정상매장", "서울특별시 강남구 테헤란로 1")],
+        "2026-09-03", complete=True, data_dir=tmp)
+except collect.CollectionError as e:
+    raised = str(e)
+unm = os.path.join(tmp, "_unmatched.json")
+n_unm = len(json.load(open(unm, encoding="utf-8"))) if os.path.exists(unm) else 0
+gn = os.path.exists(os.path.join(tmp, "sejong", "sejongsi.json"))
+gd = os.path.exists(os.path.join(tmp, "daegu", "gunwi.json"))
+shutil.rmtree(tmp, ignore_errors=True)
+check("L) historical exception은 CollectionError를 유발하지 않음", raised is None, raised or "")
+check("L) 자동 재귀속하지 않음 (세종/대구로 옮기지 않음)", not gn and not gd)
+check("L) historical 2건은 _unmatched에 남음", n_unm == 2, f"{n_unm}건")

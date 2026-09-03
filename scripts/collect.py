@@ -238,6 +238,102 @@ MERGED_SIDO_TOKENS = {"전남광주통합특별시", "전남광주"}
 SIDO_SUFFIXES = ("특별시", "광역시", "특별자치시", "특별자치도")
 
 
+# ────────────────────────────────────────────────────────────────────────
+# 인천 2026 행정구역 개편 (2026-07-01 시행) 대응.
+#
+# 2군 8구 -> 2군 9구. 중구 원도심 + 동구 -> 제물포구, 중구 영종·용유 -> 영종구,
+# 서구 -> 서해구 + 검단구.
+#
+# 여기서 하는 일은 "현재 행정구역명을 옛 이름으로 바꾸는 것"이 아니다.
+# 개편 전에 만들어진 저장 경로와 URL(/incheon/icjunggu 등)을 유지하기 위해
+# 신규 구군명을 기존 route bucket으로 정규화할 뿐이다. 원본 주소 문자열은
+# 그대로 보존한다. 표시 행정구역명 변경은 별도 콘텐츠 결정이다.
+# ────────────────────────────────────────────────────────────────────────
+
+# 신규 구군 -> 기존 route bucket 구군명. 단일 대응이 가능한 것만 둔다.
+# 서해구·검단구는 현재 API에 0건이지만 선제 등록한다. API가 나중에 반영해도
+# silent unmatched가 발생하지 않아야 한다.
+LEGACY_ROUTE_DISTRICT_MAP = {
+    ("인천광역시", "영종구"): "중구",
+    ("인천광역시", "서해구"): "서구",
+    ("인천광역시", "검단구"): "서구",
+}
+
+# 두 개 이상의 옛 구가 합쳐진 구는 단일 대응이 불가능하다. 법정동 토큰을
+# 완전 일치로 대조해 갈라야 한다. 순서대로 검사하며, 어느 집합에도 없으면
+# 저장 전에 중단한다.
+LEGACY_ROUTE_SPLIT_DISTRICTS = {
+    ("인천광역시", "제물포구"): (
+        ("old_donggu", "동구"),
+        ("old_junggu", "중구"),
+    ),
+}
+
+# 과거 행정구역명이 남은 오래된 주소. 신규 개편과 구분하기 위한 예외 목록이다.
+# 이름만으로 허용하면 다른 시도의 동명이나 미래 오류까지 가려지므로
+# 반드시 (시도, 구군) 쌍으로 관리한다.
+# 이 예외는 drift 오탐 방지 용도일 뿐이며, 여기 있는 건을 새 지역으로
+# 자동 회수하지 않는다. (연기군 -> 세종, 군위군 -> 대구는 별도 작업)
+HISTORICAL_DISTRICT_EXCEPTIONS = {
+    ("충청남도", "연기군"),
+    ("경상북도", "군위군"),
+}
+
+# legacy_districts.json에서 로드한 법정동 집합
+LEGACY_DISTRICT_SETS: dict[str, set[str]] = {}
+
+
+def load_legacy_districts():
+    """제물포구 분리에 쓰는 법정동 집합을 로드한다.
+
+    매장 표본에서 추출하지 않는다. 표본은 옛 동구가 1종뿐이라
+    규칙을 만들 수 없다. 정본 파일을 그대로 쓴다.
+    """
+    path = os.path.join(os.path.dirname(__file__), "legacy_districts.json")
+    with open(path, "r", encoding="utf-8") as f:
+        raw = json.load(f)
+    for key, value in raw.items():
+        if key.startswith("_"):
+            continue
+        LEGACY_DISTRICT_SETS[key] = set(value)
+    log.info(
+        "Loaded legacy districts: "
+        + ", ".join(f"{k} {len(v)}종" for k, v in LEGACY_DISTRICT_SETS.items())
+    )
+
+
+def resolve_legacy_district(
+    region_name: str, district_name: str, parts: list[str]
+) -> tuple[str | None, str | None]:
+    """신규 구군명을 기존 route bucket 구군명으로 정규화한다.
+
+    반환: (구군명, None) 정상 / (None, 사유) 미해결
+    개편과 무관한 이름은 그대로 돌려준다.
+    """
+    key = (region_name, district_name)
+
+    mapped = LEGACY_ROUTE_DISTRICT_MAP.get(key)
+    if mapped:
+        return mapped, None
+
+    split = LEGACY_ROUTE_SPLIT_DISTRICTS.get(key)
+    if split:
+        if not LEGACY_DISTRICT_SETS:
+            raise CollectionError(
+                "load_legacy_districts() 미실행 - 통합된 구를 분리할 수 없다."
+            )
+        # 주소의 세 번째 토큰이 법정동이다. 완전 일치만 인정한다.
+        dong = parts[2] if len(parts) > 2 else None
+        if not dong:
+            return None, f"'{district_name}' 주소에 법정동 토큰이 없다"
+        for set_name, legacy_name in split:
+            if dong in LEGACY_DISTRICT_SETS.get(set_name, ()):
+                return legacy_name, None
+        return None, f"'{district_name}'의 법정동 '{dong}'을 옛 구로 분리할 수 없다"
+
+    return district_name, None
+
+
 def classify_unknown_sido(token: str) -> str:
     """미등록 시도 토큰을 분류한다.
 
@@ -323,11 +419,19 @@ def derive_location(addr: str) -> tuple[str | None, str | None]:
     if not parts:
         return None, None
     if parts[0] in MERGED_SIDO_TOKENS:
-        return resolve_merged_sido(parts)
-    region_name = normalize_region(addr)
-    if not region_name:
-        return None, None
-    return region_name, extract_district(addr, region_name)
+        region_name, district_name = resolve_merged_sido(parts)
+    else:
+        region_name = normalize_region(addr)
+        if not region_name:
+            return None, None
+        district_name = extract_district(addr, region_name)
+    if region_name and district_name:
+        # 신·구 행정구역명 차이는 허용하되 실제 귀속 차이는 허용하지 않는다.
+        # 정규화 실패 시에는 원본 이름을 그대로 둬서 비교에서 드러나게 한다.
+        resolved, _ = resolve_legacy_district(region_name, district_name, parts)
+        if resolved:
+            district_name = resolved
+    return region_name, district_name
 
 
 def verify_store_location(
@@ -415,7 +519,9 @@ def classify_and_save(
     classified: dict[str, dict[str, list[dict]]] = {}
     unmatched: list[dict] = []
     # "regionSlug/구군명" -> 건수. 정확 매칭 실패 집계용 (매핑 테이블 보강 근거)
-    unmatched_districts: dict[str, int] = {}
+    unmatched_districts: dict[tuple[str, str], int] = {}
+    # 개편된 구를 legacy bucket으로 분리하지 못한 사유
+    drift_reasons: dict[tuple[str, str], str] = {}
     # 저장 직전 지역 검증에서 격리된 매장 (사유 포함)
     rejected_stores: list[str] = []
     # 시도가 빠졌거나 깨진 주소. 행정구역 개편과 성격이 달라 별도 집계한다.
@@ -470,12 +576,19 @@ def classify_and_save(
         # 정확 매칭만 허용한다.
         # 부분 매칭 fallback은 "북구" → "강북구"처럼 다른 구로 조용히 오배치되어
         # 2026-03 seoul/gangbuk 오염(타 지역 1,779곳)을 만든 원인이므로 사용하지 않는다.
-        # 매칭 실패는 _unmatched.json으로 보내고 로그로 드러낸다.
+        # 매칭 실패는 집계만 하고, 저장 전 preflight에서 판정한다.
         if district_name:
-            district_slug = name_to_slug.get(district_name)
-            if not district_slug:
-                key = f"{region_slug}/{district_name}"
+            resolved, reason = resolve_legacy_district(region_name, district_name, parts)
+            if resolved is None:
+                # 개편된 구인데 legacy bucket으로 분리하지 못했다.
+                key = (region_name, district_name)
                 unmatched_districts[key] = unmatched_districts.get(key, 0) + 1
+                drift_reasons.setdefault(key, reason)
+            else:
+                district_slug = name_to_slug.get(resolved)
+                if not district_slug:
+                    key = (region_name, resolved)
+                    unmatched_districts[key] = unmatched_districts.get(key, 0) + 1
 
         if not district_slug:
             unmatched.append(store)
@@ -486,6 +599,42 @@ def classify_and_save(
         if district_slug not in classified[region_slug]:
             classified[region_slug][district_slug] = []
         classified[region_slug][district_slug].append(store)
+
+    # ── preflight: 구군 schema drift 게이트 ────────────────────────────
+    # 반드시 모든 active 레코드 분류가 끝난 뒤, 어떤 JSON write/delete/index
+    # write/_unmatched write 보다도 먼저 수행한다. 한 건씩 처리하다가 중간에
+    # 새 구군을 만나면 이미 앞부분 파일을 써버리므로 fail closed가 아니다.
+    #
+    # 불변조건: unknown administrative district > 0
+    #   -> CollectionError -> district JSON 0 / stale delete 0
+    #      / region index 0 / _unmatched.json 0
+    drift = {
+        key: cnt
+        for key, cnt in unmatched_districts.items()
+        if key not in HISTORICAL_DISTRICT_EXCEPTIONS
+    }
+    if drift:
+        lines = []
+        for (region_name_d, district_name_d), cnt in sorted(
+            drift.items(), key=lambda x: -x[1]
+        ):
+            why = drift_reasons.get((region_name_d, district_name_d), "매핑에 없는 구군")
+            lines.append(f"{region_name_d} {district_name_d}: {cnt}건 ({why})")
+        raise CollectionError(
+            "미등록 구군 발견 (행정구역 개편 가능성). 매핑을 갱신하기 전에는 "
+            "저장·삭제를 진행하지 않는다: " + " / ".join(lines)
+        )
+
+    known_historical = {
+        key: cnt
+        for key, cnt in unmatched_districts.items()
+        if key in HISTORICAL_DISTRICT_EXCEPTIONS
+    }
+    if known_historical:
+        log.warning(
+            "과거 행정구역명 잔존분 (drift 아님, 자동 회수하지 않음): "
+            + ", ".join(f"{r} {d}: {c}건" for (r, d), c in known_historical.items())
+        )
 
     # 3. Dedupe per district
     total_before_dedupe = sum(
@@ -511,14 +660,6 @@ def classify_and_save(
         with open(unmatched_path, "w", encoding="utf-8") as f:
             json.dump(unmatched, f, ensure_ascii=False, indent=2)
         log.info(f"Unmatched: {len(unmatched)} → _unmatched.json")
-
-    if unmatched_districts:
-        log.warning(
-            f"정확 매칭 실패 구군 {len(unmatched_districts)}종 "
-            f"(부분 매칭으로 때우지 말고 lib/regions.ts에 명시적으로 추가할 것)"
-        )
-        for key, cnt in sorted(unmatched_districts.items(), key=lambda x: -x[1]):
-            log.warning(f"  {key}: {cnt}건")
 
     # 5. Save per region/district
     total_all = 0
@@ -646,6 +787,7 @@ def main():
     args = parser.parse_args()
 
     load_district_slugs()
+    load_legacy_districts()
     today = time.strftime("%Y-%m-%d")
 
     # 1회 수집
