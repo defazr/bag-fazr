@@ -6,3 +6,5 @@ scripts/__pycache__/
 .vercel
 scripts/.apikey
 .env.local
+.data-candidate/
+.data-backup/

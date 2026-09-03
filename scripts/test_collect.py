@@ -17,6 +17,7 @@ import json
 import os
 import re
 import shutil
+import subprocess
 import sys
 import tempfile
 
@@ -491,7 +492,12 @@ SCRIPTS_DIR = os.path.join(ROOT, "scripts")
 
 # 감사를 마친 Python entrypoint. 새 도구 추가 자체를 금지하지 않는다.
 # 다만 destructive path(data/ write·delete) 감사 없이 조용히 늘어나지는 못한다.
-ALLOWED_SCRIPTS = {"collect.py", "test_collect.py"}
+#
+# integrity.py 추가 근거 (2026-09-03 P3-13 감사):
+#   write/delete/rename 계열 호출 0건, open() 1곳 전부 읽기 모드,
+#   모듈 레벨 실행문 없음(import 안전), __main__/argparse/sys.argv 0건,
+#   import 전후 data/ 체크섬 동일. 순수 검증 모듈이며 독립 entrypoint 아님.
+ALLOWED_SCRIPTS = {"collect.py", "test_collect.py", "integrity.py"}
 
 # 삭제된 legacy. 복원하지 않는다. 필요한 기능은 현재 collect.py의
 # exact-match / fail-closed 원칙 위에서 새로 구현한다.
@@ -539,6 +545,442 @@ check(
     "        양방향 부분 포함 검사는 \"북구\"를 \"강북구\"로 흡수시킨다.\n"
     "        구군 판정은 토큰 완전 일치만 쓴다."
     if offenders else "",
+)
+
+
+
+
+
+# ============================================================ P3-13
+# Single Integrity Gate + Rollback-safe Promotion
+#
+# 핵심 불변조건:
+#   integrity failure > 0  ->  promotion 0  ->  exit non-zero
+#                          ->  기존 production 보존
+# validator가 실행됐다는 것만으로는 부족하다. FAIL이 반드시 promotion
+# 차단으로 이어져야 한다.
+# ============================================================
+print("\n[P3-13] 단일 무결성 게이트 + rollback-safe promotion")
+
+
+def make_prod(root, region="seoul", slug="gangnam", district="강남구",
+              region_name="서울특별시", n=1):
+    """production 트리 흉내. 검증 대상이 아니라 '보존되는지' 확인용."""
+    os.makedirs(os.path.join(root, region), exist_ok=True)
+    stores = [{"name": f"기존{i}", "address": f"{region_name} {district} 역삼동 {i}",
+               "roadAddress": f"{region_name} {district} 테헤란로 {i}",
+               "status": "영업/정상", "licenseDate": "2020-01-01"} for i in range(n)]
+    json.dump({"region": region_name, "regionSlug": region, "district": district,
+               "districtSlug": slug, "updatedAt": "2026-03-27",
+               "totalCount": n, "stores": stores},
+              open(os.path.join(root, region, f"{slug}.json"), "w", encoding="utf-8"),
+              ensure_ascii=False)
+    json.dump({"region": region_name, "regionSlug": region, "updatedAt": "2026-03-27",
+               "totalCount": n,
+               "districts": [{"district": district, "districtSlug": slug, "count": n}]},
+              open(os.path.join(root, region, "index.json"), "w", encoding="utf-8"),
+              ensure_ascii=False)
+    json.dump({"updatedAt": "2026-03-27", "totalCount": n,
+               "regions": [{"region": region_name, "regionSlug": region, "count": n}]},
+              open(os.path.join(root, "regions.json"), "w", encoding="utf-8"),
+              ensure_ascii=False)
+
+
+def tree_sig(root):
+    h = hashlib.sha256()
+    for dp, _, fns in sorted(os.walk(root)):
+        for fn in sorted(fns):
+            p = os.path.join(dp, fn)
+            h.update(os.path.relpath(p, root).encode())
+            h.update(open(p, "rb").read())
+    return h.hexdigest()
+
+
+GOOD = [item("정상마트", "서울특별시 강남구 테헤란로 9", "서울특별시 강남구 역삼동 9")]
+
+# ── 1. integrity failure 1건 → promotion 0, production 보존, exit 1 경로
+tmp = tempfile.mkdtemp()
+try:
+    make_prod(tmp, n=3)
+    sig0 = tree_sig(tmp)
+    orig = collect.integrity.validate_candidate
+
+    def failing(cand, prod, stats, verify, subject="candidate"):
+        rep, plan = orig(cand, prod, stats, verify, subject)
+        rep.fail("TEST.injected", "주입된 무결성 실패")
+        return rep, plan
+
+    collect.integrity.validate_candidate = failing
+    promoted = {"called": False}
+    orig_promote = collect.promote_candidate
+    collect.promote_candidate = lambda *a, **k: promoted.__setitem__("called", True)
+    raised = None
+    try:
+        collect.classify_and_save(GOOD, "2026-09-03", complete=True, data_dir=tmp)
+    except collect.CollectionError as e:
+        raised = str(e)
+    collect.integrity.validate_candidate = orig
+    collect.promote_candidate = orig_promote
+    check("1) integrity failure → CollectionError", raised is not None, raised or "예외 없음")
+    check("1) promote_candidate 호출 0", not promoted["called"])
+    check("1) production 트리 보존", tree_sig(tmp) == sig0)
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
+# ── 2. candidate index mismatch → promotion 0
+tmp = tempfile.mkdtemp()
+try:
+    make_prod(tmp, n=3); sig0 = tree_sig(tmp)
+    orig_build = collect.build_candidate
+
+    def corrupt_index(items, updated_at, workspace):
+        st = orig_build(items, updated_at, workspace)
+        ip = os.path.join(workspace, "seoul", "index.json")
+        d = json.load(open(ip, encoding="utf-8"))
+        d["totalCount"] = d["totalCount"] + 7
+        json.dump(d, open(ip, "w", encoding="utf-8"), ensure_ascii=False)
+        return st
+
+    collect.build_candidate = corrupt_index
+    raised = None
+    try:
+        collect.classify_and_save(GOOD, "2026-09-03", complete=True, data_dir=tmp)
+    except collect.CollectionError as e:
+        raised = str(e)
+    collect.build_candidate = orig_build
+    check("2) candidate index mismatch → FAIL", raised is not None and "F." in (raised or ""), raised or "예외 없음")
+    check("2) production 보존", tree_sig(tmp) == sig0)
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
+# ── 3. candidate district 파일 누락 → promotion 0
+tmp = tempfile.mkdtemp()
+try:
+    make_prod(tmp, n=3); sig0 = tree_sig(tmp)
+
+    def drop_file(items, updated_at, workspace):
+        st = orig_build(items, updated_at, workspace)
+        os.remove(os.path.join(workspace, "seoul", "gangnam.json"))
+        return st
+
+    collect.build_candidate = drop_file
+    raised = None
+    try:
+        collect.classify_and_save(GOOD, "2026-09-03", complete=True, data_dir=tmp)
+    except collect.CollectionError as e:
+        raised = str(e)
+    collect.build_candidate = orig_build
+    check("3) candidate 파일 누락 → FAIL", raised is not None, raised or "예외 없음")
+    check("3) production 보존", tree_sig(tmp) == sig0)
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
+# ── 4. unknown district 1건 → promotion 0 (기존 preflight 재확인)
+tmp = tempfile.mkdtemp()
+try:
+    make_prod(tmp, n=3); sig0 = tree_sig(tmp)
+    raised = None
+    try:
+        collect.classify_and_save(
+            [item("가짜", "인천광역시 제물포구 없는동 1")], "2026-09-03",
+            complete=True, data_dir=tmp)
+    except collect.CollectionError as e:
+        raised = str(e)
+    check("4) unknown district → CollectionError", raised is not None, raised or "예외 없음")
+    check("4) production 보존", tree_sig(tmp) == sig0)
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
+# ── 5. accounted contradiction → 정상 quarantine + reconciliation PASS
+tmp = tempfile.mkdtemp()
+try:
+    mixed = GOOD + [item("모순마트", "서울특별시 강남구 테헤란로 1",
+                         "전라남도 광양시 광양읍 1")]
+    total = collect.classify_and_save(mixed, "2026-09-03", complete=True, data_dir=tmp)
+    gn = json.load(open(os.path.join(tmp, "seoul", "gangnam.json"), encoding="utf-8"))
+    check("5) contradiction 격리 후 promotion 성공", total == 1 and gn["totalCount"] == 1,
+          f"total={total} file={gn['totalCount']}")
+    check("5) contradiction이 최종 store에 없음",
+          all("광양" not in (s.get("address") or "") for s in gn["stores"]))
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
+# ── 6. unaccounted contradiction → FAIL
+tmp = tempfile.mkdtemp()
+try:
+    make_prod(tmp, n=3); sig0 = tree_sig(tmp)
+
+    def lose_accounting(items, updated_at, workspace):
+        st = orig_build(items, updated_at, workspace)
+        st["contradictions"] = 0          # 집계에서 사라뜨림
+        st["contradiction_records"] = []
+        return st
+
+    collect.build_candidate = lose_accounting
+    raised = None
+    try:
+        collect.classify_and_save(
+            GOOD + [item("모순", "서울특별시 강남구 테헤란로 1", "전라남도 광양시 광양읍 1")],
+            "2026-09-03", complete=True, data_dir=tmp)
+    except collect.CollectionError as e:
+        raised = str(e)
+    collect.build_candidate = orig_build
+    check("6) 회계에서 사라진 contradiction → FAIL", raised is not None and "B." in (raised or ""),
+          raised or "예외 없음")
+    check("6) production 보존", tree_sig(tmp) == sig0)
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
+# ── 7. 첫 rename 전 실패 → production unchanged
+tmp = tempfile.mkdtemp()
+try:
+    make_prod(tmp, n=3); sig0 = tree_sig(tmp)
+    real_rename = os.rename
+
+    def fail_first(src, dst):
+        if os.path.abspath(src) == os.path.abspath(tmp):
+            raise OSError("주입: data/ -> backup rename 실패")
+        return real_rename(src, dst)
+
+    collect.os.rename = fail_first
+    raised = None
+    try:
+        collect.classify_and_save(GOOD, "2026-09-03", complete=True, data_dir=tmp)
+    except OSError as e:
+        raised = str(e)
+    collect.os.rename = real_rename
+    check("7) 첫 rename 실패 → 예외 전파", raised is not None, raised or "예외 없음")
+    check("7) production 완전 유지", tree_sig(tmp) == sig0)
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
+# ── 8. backup 성공 후 candidate->data 실패 → rollback
+tmp = tempfile.mkdtemp()
+try:
+    make_prod(tmp, n=3); sig0 = tree_sig(tmp)
+    real_rename = os.rename
+    state = {"step": 0}
+
+    def fail_second(src, dst):
+        # data/ -> backup 은 통과, candidate -> data/ 에서 실패
+        if os.path.abspath(dst) == os.path.abspath(tmp) and ".data-candidate" in src:
+            raise OSError("주입: candidate -> data rename 실패")
+        return real_rename(src, dst)
+
+    collect.os.rename = fail_second
+    raised = None
+    try:
+        collect.classify_and_save(GOOD, "2026-09-03", complete=True, data_dir=tmp)
+    except OSError as e:
+        raised = str(e)
+    collect.os.rename = real_rename
+    check("8) 두 번째 rename 실패 → 예외 전파", raised is not None, raised or "예외 없음")
+    check("8) rollback으로 production 원상복구", os.path.isdir(tmp) and tree_sig(tmp) == sig0,
+          f"존재={os.path.isdir(tmp)}")
+    check("8) backup 잔여물 없음",
+          not os.path.exists(os.path.join(os.path.dirname(os.path.abspath(tmp)), ".data-backup")))
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
+# ── 10. 성공 promotion → candidate 전체 반영 + 3계층 일치
+tmp = tempfile.mkdtemp()
+try:
+    make_prod(tmp, region="busan", slug="bsjunggu", district="중구",
+              region_name="부산광역시", n=5)
+    stale = os.path.join(tmp, "busan", "bsjunggu.json")
+    check("10) 사전조건: stale 파일 존재", os.path.exists(stale))
+    total = collect.classify_and_save(GOOD, "2026-09-09", complete=True, data_dir=tmp)
+    check("10) promotion 성공", total == 1, f"total={total}")
+    check("10) candidate에 없던 stale 파일이 사라짐", not os.path.exists(stale))
+    check("10) 새 파일 반영", os.path.exists(os.path.join(tmp, "seoul", "gangnam.json")))
+    rep = collect.integrity.audit_tree(tmp, collect.verify_store_location, "promoted")
+    check("10) 반영된 트리 3계층 일치", rep.ok, rep.summary())
+    check("10) candidate workspace 잔여물 없음",
+          not os.path.exists(os.path.join(os.path.dirname(os.path.abspath(tmp)), ".data-candidate")))
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
+# ── 9. validator FAIL인데 exit 0이 되지 않음 (회귀 방지)
+check("9) 게이트 실패는 CollectionError로만 표현된다 (silent pass 없음)",
+      issubclass(collect.CollectionError, Exception))
+
+# ============================================================ P3-13 recovery
+# startup recovery state machine — 실제 프로세스 사망 후 복구
+#
+# SIGKILL·전원 차단·OS 크래시는 Python 예외가 아니다. promote_candidate의
+# rollback except가 실행되지 않으므로, 다음 실행 시작 시 디스크 상태로
+# 판정해야 한다. .data-backup 은 잔여물이 아니라 유일한 production일 수 있다.
+# ============================================================
+print("\n[P3-13 recovery] 프로세스 강제 종료 후 startup 복구")
+
+_CRASH_CHILD = r'''
+import importlib.util, os, sys
+ROOT = sys.argv[3]
+spec = importlib.util.spec_from_file_location("collect", os.path.join(ROOT, "scripts", "collect.py"))
+c = importlib.util.module_from_spec(spec); spec.loader.exec_module(c)
+c.load_district_slugs(); c.load_legacy_districts()
+data_dir, window = sys.argv[1], sys.argv[2]
+candidate, backup = c.promotion_paths(data_dir)
+items = [{"BPLC_NM": "새마트", "ROAD_NM_ADDR": "서울특별시 강남구 테헤란로 9",
+          "LOTNO_ADDR": "서울특별시 강남구 역삼동 9", "SALS_STTS_CD": "01",
+          "SALS_STTS_NM": "영업/정상", "APLY_YMD": "2026-01-01"}]
+c.build_candidate(items, "2026-09-09", candidate)
+os.rename(data_dir, backup)
+if window == "after_first":
+    os._exit(9)
+os.rename(candidate, data_dir)
+if window == "after_second":
+    os._exit(9)
+os._exit(0)
+'''
+
+
+def run_crash(data_dir, window):
+    """자식 프로세스에서 crash window를 실제로 재현한다 (os._exit)."""
+    child = os.path.join(tempfile.mkdtemp(), "crash_child.py")
+    open(child, "w", encoding="utf-8").write(_CRASH_CHILD)
+    r = subprocess.run([sys.executable, child, data_dir, window, ROOT], capture_output=True)
+    shutil.rmtree(os.path.dirname(child), ignore_errors=True)
+    return r.returncode
+
+
+def cleanup_promo(data_dir):
+    for p in collect.promotion_paths(data_dir):
+        if os.path.exists(p):
+            shutil.rmtree(p, ignore_errors=True)
+
+
+# ── window 1: 첫 rename 직후 강제 종료
+base = tempfile.mkdtemp()
+try:
+    data = os.path.join(base, "data")
+    make_prod(data, n=3)
+    orig = tree_sig(data)
+    cand, backup = collect.promotion_paths(data)
+    rc = run_crash(data, "after_first")
+    check("R1) 자식이 강제 종료됨 (Python 예외 아님)", rc != 0, f"returncode={rc}")
+    check("R1) crash window 재현: data 없음 + backup 있음",
+          not os.path.isdir(data) and os.path.isdir(backup),
+          f"data={os.path.isdir(data)} backup={os.path.isdir(backup)}")
+    raised = None
+    try:
+        collect.recover_promotion_state(data)
+    except collect.CollectionError as e:
+        raised = str(e)
+    check("R1) recovery가 fail closed (같은 실행에서 수집 안 이어감)", raised is not None,
+          raised or "예외 없음")
+    check("R1) data 자동 복구", os.path.isdir(data))
+    check("R1) production checksum 원상복구", tree_sig(data) == orig)
+    check("R1) backup을 잘못 삭제하지 않음 (복구로 소비)", not os.path.isdir(backup))
+    gn = json.load(open(os.path.join(data, "seoul", "gangnam.json"), encoding="utf-8"))
+    check("R1) candidate가 production으로 승격되지 않음", gn["totalCount"] == 3,
+          f"totalCount={gn['totalCount']} (구 production 3이어야 함)")
+    cleanup_promo(data)
+finally:
+    shutil.rmtree(base, ignore_errors=True)
+
+# ── window 2: 두 번째 rename 성공 후 backup 정리 전 강제 종료
+base = tempfile.mkdtemp()
+try:
+    data = os.path.join(base, "data")
+    make_prod(data, n=3)
+    old = tree_sig(data)
+    cand, backup = collect.promotion_paths(data)
+    rc = run_crash(data, "after_second")
+    check("R2) crash window 재현: data 있음 + backup 있음",
+          os.path.isdir(data) and os.path.isdir(backup),
+          f"data={os.path.isdir(data)} backup={os.path.isdir(backup)}")
+    new_sig = tree_sig(data)
+    check("R2) data가 candidate로 교체된 상태", new_sig != old)
+    state = collect.recover_promotion_state(data)
+    check("R2) recovery 상태 C (backup 정리)", state == "C.backup_cleaned", state)
+    check("R2) backup 제거됨", not os.path.isdir(backup))
+    check("R2) 새 data 유지 (되돌리지 않음)", tree_sig(data) == new_sig)
+    rep = collect.integrity.audit_tree_structure(data, "after-recovery")
+    check("R2) 복구 후 구조 감사 PASS", rep.ok, rep.summary())
+    cleanup_promo(data)
+finally:
+    shutil.rmtree(base, ignore_errors=True)
+
+# ── state C-fail: data 구조가 깨졌으면 backup 보존
+base = tempfile.mkdtemp()
+try:
+    data = os.path.join(base, "data")
+    make_prod(data, n=3)
+    cand, backup = collect.promotion_paths(data)
+    os.makedirs(backup, exist_ok=True)
+    make_prod(backup, n=3)
+    ip = os.path.join(data, "seoul", "index.json")
+    j = json.load(open(ip, encoding="utf-8"))
+    j["totalCount"] = 999
+    json.dump(j, open(ip, "w", encoding="utf-8"), ensure_ascii=False)
+    raised = None
+    try:
+        collect.recover_promotion_state(data)
+    except collect.CollectionError as e:
+        raised = str(e)
+    check("R3) data 구조 손상 + backup 존재 → fail closed", raised is not None,
+          raised or "예외 없음")
+    check("R3) backup 보존 (자동 삭제·덮어쓰기 금지)", os.path.isdir(backup))
+    cleanup_promo(data)
+finally:
+    shutil.rmtree(base, ignore_errors=True)
+
+# ── state D: data·backup 모두 없음 → HARD FAIL
+base = tempfile.mkdtemp()
+try:
+    data = os.path.join(base, "data")
+    raised = None
+    try:
+        collect.recover_promotion_state(data)
+    except collect.CollectionError as e:
+        raised = str(e)
+    check("R4) data·backup 모두 없음 → HARD FAIL", raised is not None and "state D" in (raised or ""),
+          raised or "예외 없음")
+finally:
+    shutil.rmtree(base, ignore_errors=True)
+
+# ── promote_candidate는 backup이 남아 있으면 스스로 거부한다
+base = tempfile.mkdtemp()
+try:
+    data = os.path.join(base, "data")
+    make_prod(data, n=3)
+    sig0 = tree_sig(data)
+    cand, backup = collect.promotion_paths(data)
+    os.makedirs(backup, exist_ok=True)
+    make_prod(backup, n=1)
+    os.makedirs(cand, exist_ok=True)
+    make_prod(cand, n=2)
+    raised = None
+    try:
+        collect.promote_candidate(cand, data)
+    except collect.CollectionError as e:
+        raised = str(e)
+    check("R5) backup 잔존 시 promote_candidate 자체가 거부", raised is not None,
+          raised or "예외 없음")
+    check("R5) production 보존", tree_sig(data) == sig0)
+    check("R5) backup 삭제되지 않음", os.path.isdir(backup))
+    cleanup_promo(data)
+finally:
+    shutil.rmtree(base, ignore_errors=True)
+
+
+# ---------------------------------------------------------------- 자기 검사
+# 요약 블록은 반드시 파일의 마지막이어야 한다. 뒤에 check()가 붙으면
+# 그 검사는 집계·exit code에 반영되지 않는다. 2026-09-03에 이 실수를
+# 두 번 했다(P17.8 추가 시, P3-13 추가 시). 그래서 구조로 막는다.
+_self_src = open(os.path.abspath(__file__), encoding="utf-8").read()
+# 기준 문자열을 조립한다. 리터럴로 쓰면 이 가드 자신이 오탐된다.
+_summary_marker = 'print(f"PASS {len(' + 'PASS)} / FAIL'
+_after_summary = _self_src.split(_summary_marker, 1)[-1]
+_summary_tail_ok = "check(" not in _after_summary
+check(
+    "요약 블록 이후에 검사가 없음 (게이트 무력화 방지)",
+    _summary_tail_ok,
+    ""
+    if _summary_tail_ok
+    else "요약 블록 뒤에 check() 호출이 있다. 그 검사는 exit code에 반영되지 않는다.\n"
+    "        새 검사는 요약 블록 '앞'에 넣어라.",
 )
 
 

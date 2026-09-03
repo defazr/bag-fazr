@@ -11,9 +11,11 @@
 """
 
 import argparse
+import importlib.util
 import json
 import logging
 import os
+import shutil
 import re
 import sys
 import time
@@ -29,6 +31,15 @@ logging.basicConfig(
     ],
 )
 log = logging.getLogger(__name__)
+
+# integrity.py는 순수 검증 모듈이다. collect.py가 어떤 방식으로 로드되든
+# 같은 디렉터리의 파일을 그대로 읽어 쓴다. sys.path를 오염시키지 않는다.
+_integrity_spec = importlib.util.spec_from_file_location(
+    "bagfazr_integrity",
+    os.path.join(os.path.dirname(os.path.abspath(__file__)), "integrity.py"),
+)
+integrity = importlib.util.module_from_spec(_integrity_spec)
+_integrity_spec.loader.exec_module(integrity)
 
 BASE_URL = "https://apis.data.go.kr/1741000/pay_as_you_throw_bag_retailers/info"
 NUM_OF_ROWS = 1000
@@ -499,16 +510,17 @@ def dedupe_stores(stores: list[dict]) -> list[dict]:
     return result
 
 
-def classify_and_save(
+def build_candidate(
     items: list[dict],
     updated_at: str,
-    complete: bool = False,
-    data_dir: str | None = None,
-):
-    """전국 데이터를 주소 기반으로 분류 + 저장.
+    workspace: str,
+) -> dict:
+    """분류 결과를 workspace(candidate 트리)에만 기록하고 회계 통계를 돌려준다.
 
-    complete=False면 stale 파일 삭제를 수행하지 않는다. 수집이 완결됐다는
-    사실을 증명한 실행에서만 True로 호출할 것. data_dir은 테스트용 주입점이다.
+    production data/ 는 한 바이트도 건드리지 않는다. _unmatched.json도
+    candidate의 일부다. contradiction 검증도 여기서 전량 끝낸다.
+    stale 삭제는 이 단계에 없다 - candidate 트리에 그 파일이 없는 것이
+    곧 삭제 계획이며, 실제 반영은 promote_candidate()의 트리 교체로만 일어난다.
     """
     # 1. Filter active only
     active = [i for i in items if str(i.get("SALS_STTS_CD", "")) == "01"]
@@ -652,16 +664,16 @@ def classify_and_save(
     )
     log.info(f"Dedupe: {total_before_dedupe} → {total_after_dedupe} ({total_before_dedupe - total_after_dedupe} removed)")
 
-    # 4. Save unmatched
-    if data_dir is None:
-        data_dir = os.path.join(os.path.dirname(__file__), "..", "data")
+    # 4. candidate 에 unmatched 기록
+    data_dir = workspace
+    os.makedirs(workspace, exist_ok=True)
     if unmatched:
-        unmatched_path = os.path.join(data_dir, "_unmatched.json")
+        unmatched_path = os.path.join(workspace, "_unmatched.json")
         with open(unmatched_path, "w", encoding="utf-8") as f:
             json.dump(unmatched, f, ensure_ascii=False, indent=2)
-        log.info(f"Unmatched: {len(unmatched)} → _unmatched.json")
+        log.info(f"Unmatched: {len(unmatched)} → _unmatched.json (candidate)")
 
-    # 5. Save per region/district
+    # 5. candidate 에 region/district 기록
     total_all = 0
     regions_list = []
 
@@ -723,22 +735,9 @@ def classify_and_save(
                 }
                 with open(filepath, "w", encoding="utf-8") as f:
                     json.dump(district_data, f, ensure_ascii=False, indent=2)
-            elif os.path.exists(filepath):
-                # count가 0이 된 구군의 이전 회차 파일을 남기지 않는다.
-                # index.json만 갱신되고 고아 파일이 살아남아 잘못된 페이지를
-                # 서비스한 사례(seoul/gangbuk)가 있어 명시적으로 삭제한다.
-                #
-                # 단, 수집이 완결됐다고 증명된 실행에서만 지운다. 부분 수집에서
-                # 삭제하면 네트워크 한 번 끊긴 것이 전국 데이터 소실이 된다.
-                if complete:
-                    os.remove(filepath)
-                    log.warning(
-                        f"  stale 파일 삭제: {region_slug}/{district_slug}.json (count=0)"
-                    )
-                else:
-                    log.warning(
-                        f"  stale 파일 보존(수집 미완결): {region_slug}/{district_slug}.json"
-                    )
+            # count가 0인 구군은 candidate 트리에 파일을 만들지 않는다.
+            # 그 부재가 곧 삭제 계획이며, promote_candidate()의 트리 교체로만
+            # 실제 반영된다. 여기서 production 파일을 직접 지우지 않는다.
 
             if count > 0:
                 log.info(f"  {region_name} {district_name}: {count}곳")
@@ -778,7 +777,217 @@ def classify_and_save(
         if len(rejected_stores) > 50:
             log.error(f"  ... 외 {len(rejected_stores) - 50}건")
 
-    return total_all
+    return {
+        "raw": len(items),
+        "active": len(active),
+        "unmatched_total": len(unmatched),
+        "unmatched_by_reason": {
+            "no_region_or_malformed": len(malformed_addresses),
+            "district_unresolved": len(unmatched)
+            - len(malformed_addresses)
+            - sum(known_historical.values()),
+            "historical": sum(known_historical.values()),
+        },
+        "dedupe_input": total_before_dedupe,
+        "duplicates_removed": total_before_dedupe - total_after_dedupe,
+        "verified_input": total_after_dedupe,
+        "contradictions": len(rejected_stores),
+        "contradiction_records": rejected_stores,
+        "final": total_all,
+        "unknown_provinces": {},
+        "unknown_districts": {},
+        "historical_exceptions": {f"{r} {d}": c for (r, d), c in known_historical.items()},
+        "workspace": workspace,
+    }
+
+
+def promotion_paths(data_dir: str) -> tuple[str, str]:
+    """(candidate, backup) 경로. data_dir의 형제 디렉터리여야 rename이 된다."""
+    parent = os.path.dirname(os.path.abspath(data_dir))
+    return (
+        os.path.join(parent, ".data-candidate"),
+        os.path.join(parent, ".data-backup"),
+    )
+
+
+def recover_promotion_state(data_dir: str) -> str:
+    """프로그램 시작 시 중단된 promotion 상태를 판정하고 복구한다.
+
+    .data-backup 은 잔여물이 아니다. promotion이 첫 rename 직후 죽으면
+    그것이 유일하게 남은 production이다. SIGKILL·전원 차단·OS 크래시는
+    Python 예외가 아니므로 promote_candidate의 rollback이 실행되지 않는다.
+    따라서 다음 실행 시작 시 디스크 상태로 판정해야 한다.
+
+    애매한 조합은 추측해서 정리하지 않고 fail closed 한다.
+
+      data  backup  candidate  판정
+      ────  ──────  ─────────  ─────────────────────────────────────────
+       O      X         X      A) 정상
+       O      X         O      E) production 확인 후 candidate 정리
+       X      O        any     B) backup -> data 복구, 실행 중단
+       O      O        any     C) data 구조 감사 PASS면 backup 제거,
+                                  FAIL이면 backup 보존 + fail closed
+       X      X        any     D) production 상실. HARD FAIL
+
+    반환: 상태 코드. fail closed가 필요하면 CollectionError를 던진다.
+    """
+    candidate, backup = promotion_paths(data_dir)
+    has_data = os.path.isdir(data_dir)
+    has_backup = os.path.isdir(backup)
+    has_cand = os.path.isdir(candidate)
+
+    # D) production 상실 - 수집으로 새로 만들어 덮지 않는다
+    if not has_data and not has_backup:
+        raise CollectionError(
+            f"production {data_dir} 와 {backup} 이 모두 없다. "
+            "수집으로 새 데이터를 만들어 덮어서 해결하지 않는다. "
+            "사람이 복구해야 한다. (recovery state D)"
+        )
+
+    # B) 첫 rename 직후 중단 - backup이 유일한 production
+    if not has_data and has_backup:
+        log.error("=" * 50)
+        log.error(
+            "이전 promotion이 첫 rename 직후 중단된 상태다. "
+            f"{backup} 이 유일한 production이다."
+        )
+        os.rename(backup, data_dir)  # 대상 없음 -> 성공
+        report = integrity.audit_tree_structure(data_dir, "recovered")
+        log.error(f"복구 완료. 구조 감사: {report.summary()}")
+        log.error("=" * 50)
+        raise CollectionError(
+            "중단된 promotion을 복구했다 (backup -> data). 같은 실행에서 "
+            "수집·promotion을 이어가지 않는다. 상태를 확인한 뒤 다시 실행할 것. "
+            f"(recovery state B, 구조 failures={len(report.failures)})"
+        )
+
+    # C) data와 backup이 동시에 존재 - 두 번째 crash window
+    if has_data and has_backup:
+        report = integrity.audit_tree_structure(data_dir, "post-crash data")
+        if report.ok:
+            log.warning(
+                "이전 promotion이 backup 정리 전에 중단됐다. 현재 data/ 구조 감사가 "
+                "통과했으므로 backup을 제거한다. (recovery state C)"
+            )
+            shutil.rmtree(backup)
+        else:
+            raise CollectionError(
+                f"{data_dir} 와 {backup} 이 함께 존재하고 현재 data/ 구조 감사가 "
+                "실패했다. backup을 보존한다 (자동 삭제·덮어쓰기 금지). "
+                f"(recovery state C-fail) failures={len(report.failures)}: "
+                + " / ".join(f"{c}: {m}" for c, m in report.failures[:3])
+            )
+    elif has_cand:
+        # E) candidate 잔여물 - production이 정상 존재할 때만 정리
+        log.warning(f"이전 실행의 candidate 잔여물을 제거한다: {candidate}")
+        shutil.rmtree(candidate)
+        return "E.candidate_cleaned"
+
+    if has_cand and os.path.isdir(candidate):
+        shutil.rmtree(candidate)
+
+    return "C.backup_cleaned" if has_backup else "A.normal"
+
+
+def promote_candidate(workspace: str, data_dir: str) -> None:
+    """ROLLBACK-SAFE PROMOTION.
+
+    엄밀한 의미의 원자적 swap이 아니다. 디렉터리 rename 두 번이 필요하고
+    그 사이에 실패 구간이 있다. 따라서 실패 시 기존 production이 자동
+    복구되는 것으로 보장 수준을 정의한다.
+
+    최종 상태는 반드시 둘 중 하나다.
+      A. 기존 production 완전 유지
+      B. candidate 전체 반영
+    old/new 혼합 상태는 만들지 않는다.
+
+    실측(macOS/APFS, 2026-09-03): os.rename과 os.replace 모두 비어 있지 않은
+    대상 디렉터리를 덮어쓰지 못하고 ENOTEMPTY(66)로 실패한다. 파일과 동작이
+    다르다. 그래서 "대상이 없는 상태"를 먼저 만들고 rename한다.
+    """
+    _, backup = promotion_paths(data_dir)
+
+    # backup이 남아 있으면 이전 promotion이 중단된 상태다. 여기서 지우면
+    # 유일하게 남은 production을 삭제할 수 있다. recover_promotion_state()가
+    # 시작 시 판정했어야 하므로, 여기 도달했다는 것 자체가 이상 상태다.
+    if os.path.exists(backup):
+        raise CollectionError(
+            f"{backup} 이 이미 존재한다. 이전 promotion이 중단된 상태일 수 있어 "
+            "덮어쓰거나 삭제하지 않는다. recover_promotion_state()를 먼저 실행할 것."
+        )
+
+    had_production = os.path.isdir(data_dir)
+    if had_production:
+        os.rename(data_dir, backup)  # 대상 없음 -> 성공
+
+    try:
+        os.rename(workspace, data_dir)  # 대상 없음 -> 성공
+    except BaseException:
+        # candidate 반영 실패. 기존 production을 되돌린다.
+        if had_production and not os.path.isdir(data_dir):
+            os.rename(backup, data_dir)
+            log.error("promotion 실패 - 기존 production data 복구 완료 (rollback)")
+        raise
+
+    if had_production:
+        shutil.rmtree(backup)
+
+
+def classify_and_save(
+    items: list[dict],
+    updated_at: str,
+    complete: bool = False,
+    data_dir: str | None = None,
+    expected_total: int | None = None,
+):
+    """candidate 생성 -> 단일 integrity gate -> promotion.
+
+    이 함수가 production data/ 를 바꾸는 유일한 경로다. 게이트가 실패하면
+    promote_candidate()를 호출하지 않으므로 production은 그대로 남는다.
+
+    complete=False면 candidate 검증까지만 하고 promotion을 생략한다
+    (dry-run). 수집이 완결됐음을 증명한 실행만 True로 호출한다.
+    """
+    if data_dir is None:
+        data_dir = os.path.join(os.path.dirname(__file__), "..", "data")
+    workspace, _ = promotion_paths(data_dir)
+    # 시작 시 recovery가 이미 판정했어야 한다. 여기서 candidate가 남아 있다면
+    # 같은 실행 안의 잔여물이므로 정리한다. backup은 절대 건드리지 않는다.
+    if os.path.exists(workspace):
+        shutil.rmtree(workspace)
+
+    try:
+        stats = build_candidate(items, updated_at, workspace)
+        stats["expected_total"] = expected_total
+
+        # ── SINGLE INTEGRITY GATE ─────────────────────────────────────
+        report, plan = integrity.validate_candidate(
+            workspace, data_dir, stats, verify_store_location
+        )
+        log.info(report.summary())
+        if not report.ok:
+            raise CollectionError(
+                f"무결성 게이트 실패 {len(report.failures)}건 - promotion 하지 않는다: "
+                + " / ".join(f"{c}: {m}" for c, m in report.failures[:5])
+            )
+        log.info(
+            f"promotion 계획: 생성 {len(plan['created'])} / 변경 {len(plan['modified'])} "
+            f"/ 제거 {len(plan['removed'])} / 유지 {len(plan['kept'])}"
+        )
+
+        if not complete:
+            log.warning(
+                "complete=False - candidate 검증만 수행하고 promotion을 생략한다. "
+                "production 무변경."
+            )
+            return stats["final"]
+
+        promote_candidate(workspace, data_dir)
+        log.info(f"promotion 완료: {stats['final']}곳")
+        return stats["final"]
+    finally:
+        if os.path.exists(workspace):
+            shutil.rmtree(workspace, ignore_errors=True)
 
 
 def main():
@@ -789,6 +998,17 @@ def main():
     load_district_slugs()
     load_legacy_districts()
     today = time.strftime("%Y-%m-%d")
+
+    # production 상태가 애매한데 API fetch부터 시작하지 않는다.
+    data_dir = os.path.join(os.path.dirname(__file__), "..", "data")
+    try:
+        state = recover_promotion_state(data_dir)
+        log.info(f"promotion recovery state: {state}")
+    except CollectionError as e:
+        log.error("=" * 50)
+        log.error(f"시작 전 production 상태 이상: {e}")
+        log.error("=" * 50)
+        sys.exit(1)
 
     # 1회 수집
     log.info("=" * 50)
@@ -812,7 +1032,9 @@ def main():
     log.info("주소 기반 분류 시작")
     log.info("=" * 50)
     try:
-        total = classify_and_save(items, today, complete=True)
+        total = classify_and_save(
+            items, today, complete=True, expected_total=expected_total
+        )
     except CollectionError as e:
         log.error("=" * 50)
         log.error(f"분류 중단 - 저장·삭제를 진행하지 않는다: {e}")
