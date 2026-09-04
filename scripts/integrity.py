@@ -17,6 +17,56 @@ derive 콜백을 넘긴다. 순환 의존을 만들지 않고, 검증 규칙과 
 import json
 import os
 
+# ─────────────────────────────────────────────────────────────────────────
+# G. catastrophic-drop guard 임계값
+#
+# 전부 2026-09-04 SAFETY dry-run 2회 실측이 근거다 (raw 91,120 / final 69,292).
+# 매직넘버를 함수 안에 흩뿌리지 않고 여기 모은다. 근거 없이 조정하지 않는다.
+#
+# 왜 전국 총계만으로는 안 되는가: 정상 전국 변동은 +0.04% 인데
+# 서울(3,118건)이 통째로 사라져도 전국은 -4.37%, 제주 -90% 는 -1.03%,
+# 세종 전멸은 -0.20% 에 불과하다. 시도·구군 층이 없으면 전부 통과한다.
+# ─────────────────────────────────────────────────────────────────────────
+
+# 전국. 비정상 축소의 최후 방어선. 정상 관측 +0.04% (2회).
+# 실 규모(69,265)에서 25% 는 약 17,300건 소실이다.
+#
+# 절대량 하한을 두지 않는다. production 이 작다는 이유로 25%·50%·90% 축소를
+# 허용할 이유가 없고, "작은 규모는 다른 계층이 본다"는 설명은 실제로 성립하지
+# 않는다 - 3 -> 1 은 R1(>=30건)·D1(>=100건)·D2(>=20건)·AGG(>=20건) 어디에도
+# 걸리지 않는다. bootstrap(production == 0)만 _loss() 에서 이미 제외된다.
+NATIONAL_DROP_RATIO = 0.25
+
+# 시도. 정상 최악은 서울 -2.05% / -64건 (2회 재현). 비율은 그 5배.
+# 절대 조건은 세종(165건) 같은 소규모 시도의 1~2건 변동을 걸러낸다.
+REGION_DROP_RATIO = 0.10
+REGION_DROP_ABS = 30
+
+# 구군. 두 조건의 교차로 정상 표본을 침범하지 않으면서 빈 구간을 메운다.
+#   정상에서 절대 감소 >=100 인 사례의 최대 비율: 화성 -108 / -6.21%
+#   정상에서 비율 >=10% 인 사례의 최대 절대량: -66 (마포 -10.96%, 부산중구 -18.54%)
+# 따라서 (>=100건 AND >=10%) 는 오늘 정상 candidate 에서 발화 0 이면서
+# 300 -> 160 (-140 / -46.7%) 같은 단일 구군 붕괴를 잡는다.
+DISTRICT_DROP_ABS = 100
+DISTRICT_DROP_RATIO = 0.10
+# 비율이 낮아도 수백 건이 한 번에 사라지는 대형 구군용 fail-safe.
+# 정상 최대 절대 감소 108건의 약 4.6배.
+DISTRICT_DROP_ABS_HARD = 500
+
+# 구군 전멸. 정상 전멸은 통영 prod=1 뿐이다(원인은 contradiction 격리).
+# production 10건 미만 구군이 41개(합계 99건)라 한두 건 변동으로 쉽게 0이 된다.
+DISTRICT_EXTINCT_MIN = 20
+
+# 다중 급감. 개별로는 임계값 아래인데 여러 구군이 동시에 빠지는 사고용.
+# 정상 material-drop 은 5개 / 합계 320건.
+MASS_DROP_ABS = 20
+MASS_DROP_RATIO = 0.05
+MASS_DROP_COUNT = 15
+MASS_DROP_TOTAL = 2000
+
+# 실패 메시지에 싣는 상세 항목 상한 (report 폭주 방지).
+MAX_OFFENDERS = 5
+
 
 class IntegrityReport:
     """검증 결과. failures가 하나라도 있으면 promotion을 허용하지 않는다."""
@@ -328,6 +378,33 @@ def tree_store_total(tree: dict) -> int:
     return total
 
 
+def tree_level_counts(tree: dict) -> tuple[dict, dict]:
+    """(시도별 합계, 구군별 합계). 구군 키는 "{region_slug}/{district_slug}"."""
+    regions: dict[str, int] = {}
+    districts: dict[str, int] = {}
+    for rs, r in tree["regions"].items():
+        n = 0
+        for slug, d in r["districts"].items():
+            stores = d.get("stores")
+            c = len(stores) if isinstance(stores, list) else 0
+            districts[f"{rs}/{slug}"] = c
+            n += c
+        regions[rs] = n
+    return regions, districts
+
+
+def _loss(prod: int, cand: int) -> tuple[int, float]:
+    """(절대 손실, 손실 비율). 증가·production 0 은 손실 0 으로 취급한다.
+
+    부호 실수를 막기 위해 항상 양수 loss 기준으로 계산한다.
+    production == 0 은 비율 게이트 대상이 아니다(신규 데이터이지 drop 이 아니다).
+    """
+    loss = prod - cand
+    if loss <= 0 or prod <= 0:
+        return 0, 0.0
+    return loss, loss / prod
+
+
 def diff_trees(prod_root: str, cand_root: str) -> dict:
     """G. production 트리와 candidate 트리의 차이를 명시적으로 계산한다.
 
@@ -346,6 +423,8 @@ def diff_trees(prod_root: str, cand_root: str) -> dict:
     common = set(prod) & set(cand)
     modified = sorted(p for p in common if prod[p] != cand[p])
     kept = sorted(p for p in common if prod[p] == cand[p])
+    prod_regions, prod_districts = tree_level_counts(prod_tree)
+    cand_regions, cand_districts = tree_level_counts(cand_tree)
     return {
         "created": created,
         "removed": removed,
@@ -355,7 +434,132 @@ def diff_trees(prod_root: str, cand_root: str) -> dict:
         "cand_files": len(cand),
         "prod_stores": tree_store_total(prod_tree),
         "cand_stores": tree_store_total(cand_tree),
+        # 전국 총계만 보면 지역 전멸을 놓친다. 세 레벨을 전부 싣는다.
+        "prod_regions": prod_regions,
+        "cand_regions": cand_regions,
+        "prod_districts": prod_districts,
+        "cand_districts": cand_districts,
     }
+
+
+def _diag(key: str, prod: int, cand: int, loss: int, ratio: float, dstats: dict) -> str:
+    """실패 메시지용 진단. 원인 분해를 '설명'에만 쓴다 - 면제 조건이 아니다."""
+    base = f"{key} prod={prod} cand={cand} loss={loss} ({ratio * 100:.2f}%)"
+    d = (dstats or {}).get(key)
+    if d:
+        base += (f" [classified={d.get('classified_before_dedupe')}"
+                 f" dup={d.get('duplicates_removed')}"
+                 f" after_dedupe={d.get('after_dedupe')}"
+                 f" contra={d.get('contradictions_removed')}"
+                 f" final={d.get('final')}]")
+    return base
+
+
+def check_drop_guard(plan: dict, stats: dict, report: IntegrityReport) -> None:
+    """G. production 대비 candidate 급감 판정.
+
+    A~F 는 전부 candidate 내부 정합성만 본다. 완벽하게 자기일관적인 '거의 빈'
+    트리도 통과한다. production 과 비교하는 외부 기준점은 여기뿐이다.
+
+    전부 report.fail 이다. note/warn 으로 두면 promotion 이 그대로 진행되므로
+    안전장치가 아니다 (IntegrityReport.ok 는 failures 만 본다).
+
+    원인 분해(district_stats)는 BLOCK 면제에 쓰지 않는다. dedupe 나
+    verify_store_location 자체가 회귀한 사고를 놓치기 때문이다. 진단에만 쓴다.
+    """
+    dstats = (stats or {}).get("district_stats", {})
+    P, C = plan["prod_stores"], plan["cand_stores"]
+
+    # N1. 전면 삭제 (기존 G.total_wipe 유지)
+    if P > 0 and C == 0:
+        report.fail(
+            "G.total_wipe",
+            f"production {P}건 -> candidate 0건. 전면 삭제는 자동 promotion "
+            f"대상이 아니다 (제거 예정 파일 {len(plan['removed'])}개).",
+        )
+
+    # N2. 전국 급감
+    n_loss, n_ratio = _loss(P, C)
+    if n_ratio >= NATIONAL_DROP_RATIO:
+        report.fail(
+            "G.national_drop",
+            f"전국 prod={P} cand={C} loss={n_loss} ({n_ratio * 100:.2f}%) "
+            f">= {NATIONAL_DROP_RATIO * 100:.0f}%",
+        )
+
+    # R1. 시도 급감 - production/candidate 키 합집합으로 순회한다.
+    #     교집합만 보면 candidate 에서 통째로 사라진 시도를 놓친다.
+    pr, cr = plan["prod_regions"], plan["cand_regions"]
+    hits = []
+    for rs in sorted(set(pr) | set(cr)):
+        p, c = pr.get(rs, 0), cr.get(rs, 0)
+        loss, ratio = _loss(p, c)
+        if loss >= REGION_DROP_ABS and ratio >= REGION_DROP_RATIO:
+            hits.append(_diag(rs, p, c, loss, ratio, None))
+    if hits:
+        report.fail(
+            "G.region_drop",
+            f"시도 급감 {len(hits)}건 (>={REGION_DROP_ABS}건 AND "
+            f">={REGION_DROP_RATIO * 100:.0f}%): " + " / ".join(hits[:MAX_OFFENDERS])
+            + (f" 외 {len(hits) - MAX_OFFENDERS}건" if len(hits) > MAX_OFFENDERS else ""),
+        )
+
+    pd, cd = plan["prod_districts"], plan["cand_districts"]
+    keys = sorted(set(pd) | set(cd))
+
+    # D1. 구군 대량 손실
+    hits = []
+    for k in keys:
+        p, c = pd.get(k, 0), cd.get(k, 0)
+        loss, ratio = _loss(p, c)
+        if (loss >= DISTRICT_DROP_ABS and ratio >= DISTRICT_DROP_RATIO) or (
+            loss >= DISTRICT_DROP_ABS_HARD
+        ):
+            hits.append(_diag(k, p, c, loss, ratio, dstats))
+    if hits:
+        report.fail(
+            "G.district_drop",
+            f"구군 대량 손실 {len(hits)}건 ((>={DISTRICT_DROP_ABS}건 AND "
+            f">={DISTRICT_DROP_RATIO * 100:.0f}%) OR >={DISTRICT_DROP_ABS_HARD}건): "
+            + " / ".join(hits[:MAX_OFFENDERS])
+            + (f" 외 {len(hits) - MAX_OFFENDERS}건" if len(hits) > MAX_OFFENDERS else ""),
+        )
+
+    # D2. 구군 전멸. 원인이 contradiction 인지 여부는 면제 조건이 아니다.
+    hits = []
+    for k in keys:
+        p, c = pd.get(k, 0), cd.get(k, 0)
+        if p >= DISTRICT_EXTINCT_MIN and c == 0:
+            hits.append(_diag(k, p, c, p, 1.0, dstats))
+    if hits:
+        report.fail(
+            "G.district_extinction",
+            f"구군 전멸 {len(hits)}건 (production >={DISTRICT_EXTINCT_MIN}건): "
+            + " / ".join(hits[:MAX_OFFENDERS])
+            + (f" 외 {len(hits) - MAX_OFFENDERS}건" if len(hits) > MAX_OFFENDERS else ""),
+        )
+
+    # AGG. 개별로는 임계값 아래인데 여러 구군이 동시에 빠지는 사고
+    material = []
+    for k in keys:
+        p, c = pd.get(k, 0), cd.get(k, 0)
+        loss, ratio = _loss(p, c)
+        if loss >= MASS_DROP_ABS and ratio >= MASS_DROP_RATIO:
+            material.append((k, p, c, loss, ratio))
+    m_total = sum(x[3] for x in material)
+    if len(material) >= MASS_DROP_COUNT or m_total >= MASS_DROP_TOTAL:
+        top = sorted(material, key=lambda x: -x[3])[:MAX_OFFENDERS]
+        report.fail(
+            "G.mass_drop",
+            f"다중 급감: material-drop 구군 {len(material)}개 / 합계 {m_total}건 "
+            f"(기준 {MASS_DROP_COUNT}개 또는 {MASS_DROP_TOTAL}건). 상위: "
+            + " / ".join(_diag(k, p, c, l, r, dstats) for k, p, c, l, r in top),
+        )
+    else:
+        report.note(
+            "G.mass_drop",
+            f"material-drop 구군 {len(material)}개 / 합계 {m_total}건 (기준 미달)",
+        )
 
 
 # ─────────────────────────────────────────────────────────────────────────
@@ -425,25 +629,20 @@ def validate_candidate(
         )
 
     plan = diff_trees(prod_root, cand_root)               # G
+    check_drop_guard(plan, stats, report)                 # G (catastrophic-drop)
 
-    # production에 매장이 있는데 candidate가 0건이면 전면 삭제다.
-    # A~F는 전부 통과할 수 있다(빈 트리도 자기일관적이므로). 실제로
-    # 2026-09-04에 totalCount=0 응답으로 failures=0 + production 전멸을 실증했다.
-    # 숫자형 감소율 임계값은 아직 넣지 않는다 - 실측 dry-run 근거가 없으면
-    # 감으로 정한 숫자가 또 다른 함정이 된다. 절대 조건만 먼저 건다.
-    # production이 없거나 0건인 최초 bootstrap에서는 발화하지 않는다.
-    if plan["prod_stores"] > 0 and plan["cand_stores"] == 0:
-        report.fail(
-            "G.total_wipe",
-            f"production {plan['prod_stores']}건 -> candidate 0건. "
-            f"전면 삭제는 자동 promotion 대상이 아니다 "
-            f"(제거 예정 파일 {len(plan['removed'])}개).",
-        )
-
+    removed_stores = sum(
+        plan["prod_districts"].get(f[:-5].replace(os.sep, "/"), 0)
+        for f in plan["removed"]
+        if f.endswith(".json") and "/" in f.replace(os.sep, "/")
+    )
     report.note(
         "G.plan",
         f"생성 {len(plan['created'])} / 변경 {len(plan['modified'])} / "
         f"제거 {len(plan['removed'])} / 유지 {len(plan['kept'])} / "
-        f"매장 {plan['prod_stores']} -> {plan['cand_stores']}",
+        f"매장 {plan['prod_stores']} -> {plan['cand_stores']} / "
+        f"제거 파일의 production 매장 합 {removed_stores}",
     )
+    if plan["removed"]:
+        report.note("G.removed_files", ", ".join(plan["removed"][:20]))
     return report, plan

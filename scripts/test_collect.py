@@ -607,6 +607,16 @@ def tree_sig(root):
 
 GOOD = [item("정상마트", "서울특별시 강남구 테헤란로 9", "서울특별시 강남구 역삼동 9")]
 
+# rollback/promotion mechanics fixture; not intended to exercise catastrophic-drop guard.
+# make_prod(n=3) 과 짝을 이뤄 production 3건 -> candidate 3건(감소 0%)이 되게 한다.
+# GOOD(1건)을 쓰면 3 -> 1 = -66.7% 라 G.national_drop 이 정당하게 발화해서
+# rename 주입 지점까지 도달하지 못한다. 안전 규칙을 약화하는 대신 fixture 를 맞춘다.
+GOOD3 = [
+    item("정상마트", "서울특별시 강남구 테헤란로 9", "서울특별시 강남구 역삼동 9"),
+    item("정상마트2", "서울특별시 강남구 테헤란로 10", "서울특별시 강남구 역삼동 10"),
+    item("정상마트3", "서울특별시 강남구 테헤란로 11", "서울특별시 강남구 역삼동 11"),
+]
+
 # ── 1. integrity failure 1건 → promotion 0, production 보존, exit 1 경로
 tmp = tempfile.mkdtemp()
 try:
@@ -754,7 +764,7 @@ try:
     collect.os.rename = fail_first
     raised = None
     try:
-        collect.classify_and_save(GOOD, "2026-09-03", complete=True, data_dir=tmp)
+        collect.classify_and_save(GOOD3, "2026-09-03", complete=True, data_dir=tmp)
     except OSError as e:
         raised = str(e)
     collect.os.rename = real_rename
@@ -779,7 +789,7 @@ try:
     collect.os.rename = fail_second
     raised = None
     try:
-        collect.classify_and_save(GOOD, "2026-09-03", complete=True, data_dir=tmp)
+        collect.classify_and_save(GOOD3, "2026-09-03", complete=True, data_dir=tmp)
     except OSError as e:
         raised = str(e)
     collect.os.rename = real_rename
@@ -794,12 +804,15 @@ finally:
 # ── 10. 성공 promotion → candidate 전체 반영 + 3계층 일치
 tmp = tempfile.mkdtemp()
 try:
+    # rollback/promotion mechanics fixture; not intended to exercise
+    # catastrophic-drop guard. production 3건(busan) -> candidate 3건(seoul)
+    # 이라 전국 감소 0%. GOOD(1건)이면 5 -> 1 = -80% 로 정당하게 막힌다.
     make_prod(tmp, region="busan", slug="bsjunggu", district="중구",
-              region_name="부산광역시", n=5)
+              region_name="부산광역시", n=3)
     stale = os.path.join(tmp, "busan", "bsjunggu.json")
     check("10) 사전조건: stale 파일 존재", os.path.exists(stale))
-    total = collect.classify_and_save(GOOD, "2026-09-09", complete=True, data_dir=tmp)
-    check("10) promotion 성공", total == 1, f"total={total}")
+    total = collect.classify_and_save(GOOD3, "2026-09-09", complete=True, data_dir=tmp)
+    check("10) promotion 성공", total == 3, f"total={total}")
     check("10) candidate에 없던 stale 파일이 사라짐", not os.path.exists(stale))
     check("10) 새 파일 반영", os.path.exists(os.path.join(tmp, "seoul", "gangnam.json")))
     rep = collect.integrity.audit_tree(tmp, collect.verify_store_location, "promoted")
@@ -1370,6 +1383,291 @@ finally:
 
 check("INSTR-F) production data checksum 무변경",
       before_repo == data_fingerprint(os.path.join(ROOT, "data")))
+
+
+# ------------------------------------------------- P19 catastrophic-drop guard
+print("\n[P19-GUARD] G 급감 가드 — S1~S24 시나리오 매트릭스")
+
+# 2026-09-04 SAFETY dry-run 의 실제 (district, production, candidate) 229개.
+# 이 fixture 가 새 게이트를 하나도 발화시키지 않아야 한다 — 우리가 가진
+# 유일한 정상 표본이므로, 여기서 발화하면 정상 수집이 매번 막힌다.
+REAL_20260904 = [
+    ("busan/bsbukgu",1,1), ("busan/bsdonggu",597,596), ("busan/bsgangseo",138,138),
+    ("busan/bsjunggu",356,290), ("busan/bsnamgu",503,503), ("busan/bsseogu",2,4),
+    ("busan/busanjin",321,321), ("busan/dongnae",239,239), ("busan/geumjeong",17,17),
+    ("busan/gijang",87,86), ("busan/haeundae",331,329), ("busan/saha",155,155),
+    ("busan/sasang",462,462), ("busan/suyeong",489,489), ("busan/yeongdo",465,465),
+    ("busan/yeonje",1,1), ("chungbuk/boeun",167,167), ("chungbuk/cheongju",973,973),
+    ("chungbuk/chungju",3,3), ("chungbuk/danyang",119,120), ("chungbuk/eumseong",1,1),
+    ("chungbuk/goesan",101,103), ("chungbuk/jecheon",591,591), ("chungbuk/jeungpyeong",168,168),
+    ("chungbuk/jincheon",116,116), ("chungbuk/okcheon",121,124), ("chungbuk/yeongdong",12,12),
+    ("chungnam/asan",1160,1171), ("chungnam/boryeong",582,582), ("chungnam/buyeo",0,0),
+    ("chungnam/cheonan",1152,1151), ("chungnam/cheongyang",0,0), ("chungnam/dangjin",0,0),
+    ("chungnam/geumsan",515,517), ("chungnam/gongju",22,22), ("chungnam/gyeryong",86,94),
+    ("chungnam/hongseong",208,205), ("chungnam/nonsan",497,497), ("chungnam/seocheon",121,122),
+    ("chungnam/seosan",4,4), ("chungnam/taean",199,199), ("chungnam/yesan",254,264),
+    ("daegu/dalseo",1296,1296), ("daegu/dalseong",230,230), ("daegu/dgbukgu",931,934),
+    ("daegu/dgdonggu",832,831), ("daegu/dgjunggu",482,482), ("daegu/dgnamgu",10,10),
+    ("daegu/dgseogu",448,448), ("daegu/gunwi",44,44), ("daegu/suseong",471,470),
+    ("daejeon/daedeok",607,607), ("daejeon/djdonggu",4,4), ("daejeon/djjunggu",1310,1310),
+    ("daejeon/djseogu",11,11), ("daejeon/yuseong",284,284), ("gangwon/cheorwon",149,149),
+    ("gangwon/chuncheon",125,124), ("gangwon/donghae",133,142), ("gangwon/gangneung",507,519),
+    ("gangwon/gwgoseong",0,0), ("gangwon/hoengseong",129,129), ("gangwon/hongcheon",259,259),
+    ("gangwon/hwacheon",36,37), ("gangwon/inje",43,47), ("gangwon/jeongseon",13,13),
+    ("gangwon/pyeongchang",170,170), ("gangwon/samcheok",81,81), ("gangwon/sokcho",22,22),
+    ("gangwon/taebaek",52,54), ("gangwon/wonju",1531,1556), ("gangwon/yanggu",205,205),
+    ("gangwon/yangyang",12,12), ("gangwon/yeongwol",343,346), ("gwangju/gjbukgu",665,666),
+    ("gwangju/gjdonggu",567,566), ("gwangju/gjnamgu",527,479), ("gwangju/gjseogu",754,754),
+    ("gwangju/gwangsan",11,13), ("gyeongbuk/andong",111,111), ("gyeongbuk/bonghwa",127,127),
+    ("gyeongbuk/cheongdo",242,246), ("gyeongbuk/cheongsong",112,112),
+    ("gyeongbuk/chilgok",210,210), ("gyeongbuk/gimcheon",324,324),
+    ("gyeongbuk/goryeong",230,230), ("gyeongbuk/gumi",1063,1063),
+    ("gyeongbuk/gyeongju",1078,1081), ("gyeongbuk/gyeongsan",56,56),
+    ("gyeongbuk/mungyeong",409,409), ("gyeongbuk/pohang",511,511), ("gyeongbuk/sangju",102,102),
+    ("gyeongbuk/seongju",28,29), ("gyeongbuk/uiseong",201,203), ("gyeongbuk/uljin",139,138),
+    ("gyeongbuk/ulleung",47,47), ("gyeongbuk/yecheon",132,133),
+    ("gyeongbuk/yeongcheon",488,488), ("gyeongbuk/yeongdeok",206,206),
+    ("gyeongbuk/yeongju",298,305), ("gyeongbuk/yeongyang",89,89), ("gyeonggi/ansan",992,992),
+    ("gyeonggi/anseong",411,411), ("gyeonggi/anyang",25,26), ("gyeonggi/bucheon",2,2),
+    ("gyeonggi/dongducheon",352,352), ("gyeonggi/gapyeong",304,308), ("gyeonggi/ggwangju",4,4),
+    ("gyeonggi/gimpo",1227,1233), ("gyeonggi/goyang",1793,1806), ("gyeonggi/gunpo",433,432),
+    ("gyeonggi/guri",247,247), ("gyeonggi/gwacheon",166,166), ("gyeonggi/gwangmyeong",303,323),
+    ("gyeonggi/hanam",23,22), ("gyeonggi/hwaseong",1738,1630), ("gyeonggi/icheon",2,1),
+    ("gyeonggi/namyangju",907,1002), ("gyeonggi/osan",421,422), ("gyeonggi/paju",901,901),
+    ("gyeonggi/pocheon",4,4), ("gyeonggi/pyeongtaek",1141,1141), ("gyeonggi/seongnam",11,11),
+    ("gyeonggi/siheung",1,1), ("gyeonggi/suwon",41,39), ("gyeonggi/uijeongbu",935,949),
+    ("gyeonggi/uiwang",184,192), ("gyeonggi/yangju",4,4), ("gyeonggi/yangpyeong",227,227),
+    ("gyeonggi/yeoju",585,585), ("gyeonggi/yeoncheon",108,108), ("gyeonggi/yongin",1682,1680),
+    ("gyeongnam/changnyeong",113,113), ("gyeongnam/changwon",430,429),
+    ("gyeongnam/geochang",187,187), ("gyeongnam/geoje",540,550), ("gyeongnam/gimhae",1397,1397),
+    ("gyeongnam/gsngoseong",7,7), ("gyeongnam/hadong",6,6), ("gyeongnam/haman",133,133),
+    ("gyeongnam/hamyang",5,5), ("gyeongnam/hapcheon",1,1), ("gyeongnam/jinju",563,562),
+    ("gyeongnam/miryang",1,1), ("gyeongnam/namhae",256,256), ("gyeongnam/sacheon",99,99),
+    ("gyeongnam/sancheong",36,34), ("gyeongnam/tongyeong",1,0), ("gyeongnam/uiryeong",194,193),
+    ("gyeongnam/yangsan",786,786), ("incheon/bupyeong",369,368), ("incheon/ganghwa",193,193),
+    ("incheon/gyeyang",10,10), ("incheon/icdonggu",1,1), ("incheon/icjunggu",82,82),
+    ("incheon/icseogu",3,3), ("incheon/michuhol",84,84), ("incheon/namdong",2,1),
+    ("incheon/ongjin",76,76), ("incheon/yeonsu",325,325), ("jeju/jejusi",201,201),
+    ("jeju/seogwipo",614,618), ("jeonbuk/buan",270,279), ("jeonbuk/gimje",79,80),
+    ("jeonbuk/gochang",223,238), ("jeonbuk/gunsan",662,662), ("jeonbuk/iksan",318,318),
+    ("jeonbuk/imsil",215,218), ("jeonbuk/jangsu",45,47), ("jeonbuk/jeongeup",478,483),
+    ("jeonbuk/jeonju",1880,1916), ("jeonbuk/jinan",127,128), ("jeonbuk/muju",175,176),
+    ("jeonbuk/namwon",340,339), ("jeonbuk/sunchang",12,15), ("jeonbuk/wanju",315,318),
+    ("jeonnam/boseong",357,357), ("jeonnam/damyang",296,296), ("jeonnam/gangjin",117,85),
+    ("jeonnam/goheung",353,356), ("jeonnam/gokseong",273,273), ("jeonnam/gurye",152,153),
+    ("jeonnam/gwangyang",293,292), ("jeonnam/haenam",282,281), ("jeonnam/hampyeong",175,175),
+    ("jeonnam/hwasun",438,437), ("jeonnam/jangheung",237,237), ("jeonnam/jangseong",218,218),
+    ("jeonnam/jindo",384,384), ("jeonnam/mokpo",22,21), ("jeonnam/muan",104,104),
+    ("jeonnam/naju",462,468), ("jeonnam/sinan",56,56), ("jeonnam/suncheon",455,448),
+    ("jeonnam/wando",364,364), ("jeonnam/yeongam",277,277), ("jeonnam/yeonggwang",331,331),
+    ("jeonnam/yeosu",1090,1090), ("sejong/sejongsi",165,165), ("seoul/dobong",4,4),
+    ("seoul/dongdaemun",813,812), ("seoul/dongjak",1,1), ("seoul/eunpyeong",70,70),
+    ("seoul/gangbuk",0,0), ("seoul/gangdong",3,3), ("seoul/gangnam",31,30),
+    ("seoul/gangseo",3,2), ("seoul/geumcheon",47,47), ("seoul/guro",4,4), ("seoul/gwanak",6,6),
+    ("seoul/gwangjin",86,86), ("seoul/jongno",632,639), ("seoul/junggu",24,24),
+    ("seoul/jungnang",0,0), ("seoul/mapo",602,536), ("seoul/nowon",89,87),
+    ("seoul/seocho",291,291), ("seoul/seodaemun",4,4), ("seoul/seongbuk",394,394),
+    ("seoul/seongdong",5,6), ("seoul/songpa",0,0), ("seoul/yangcheon",2,2),
+    ("seoul/yeongdeungpo",5,5), ("seoul/yongsan",2,1), ("ulsan/ulju",0,0),
+    ("ulsan/usbukgu",104,104), ("ulsan/usdonggu",154,154), ("ulsan/usjunggu",270,270),
+    ("ulsan/usnamgu",857,857)
+]
+
+
+def mkplan(pairs, removed=None):
+    """[(key, prod, cand)] → check_drop_guard 가 받는 plan 형태."""
+    pd = {k: p for k, p, _ in pairs}
+    cd = {k: c for k, _, c in pairs}
+    pr, cr = {}, {}
+    for k, p, c in pairs:
+        rs = k.split("/")[0]
+        pr[rs] = pr.get(rs, 0) + p
+        cr[rs] = cr.get(rs, 0) + c
+    return {"created": [], "removed": removed or [], "modified": [], "kept": [],
+            "prod_files": len(pd), "cand_files": sum(1 for _, _, c in pairs if c > 0),
+            "prod_stores": sum(pd.values()), "cand_stores": sum(cd.values()),
+            "prod_regions": pr, "cand_regions": cr,
+            "prod_districts": pd, "cand_districts": cd}
+
+
+def guard(pairs, stats=None, removed=None):
+    """발화한 실패 코드 집합을 돌려준다."""
+    rep = collect.integrity.IntegrityReport("scenario")
+    collect.integrity.check_drop_guard(mkplan(pairs, removed), stats or {}, rep)
+    return sorted(c for c, _ in rep.failures)
+
+
+def scen(name, pairs, expect, stats=None):
+    got = guard(pairs, stats)
+    if expect == "PASS":
+        check(f"{name} → PASS", got == [], f"발화: {got}")
+    else:
+        ok = bool(got) and all(e in got for e in expect)
+        check(f"{name} → BLOCK {expect}", ok, f"발화: {got}")
+    return got
+
+
+REAL = [(d, p, c) for d, p, c in REAL_20260904]
+by = {d: (p, c) for d, p, c in REAL}
+
+# ── S1 현재 정상 candidate → 발화 0
+got = scen("S1 정상(오늘 실측 229개)", REAL, "PASS")
+check("S1) prod 69,265 / cand 69,292 확인",
+      sum(p for _, p, _ in REAL) == 69265 and sum(c for _, _, c in REAL) == 69292)
+
+# ── S7~S10, S13: 정상 표본 안의 개별 사례가 S1 PASS 에 포함됨
+for nm, key, ep, ec in [("S7/S13 통영 1→0(contradiction)", "gyeongnam/tongyeong", 1, 0),
+                        ("S8 강진 117→85", "jeonnam/gangjin", 117, 85),
+                        ("S9 마포 602→536", "seoul/mapo", 602, 536),
+                        ("S10 화성 1738→1630", "gyeonggi/hwaseong", 1738, 1630)]:
+    check(f"{nm} fixture 확인", by[key] == (ep, ec), str(by.get(key)))
+check("S7~S10) 위 사례가 포함된 S1 이 PASS (오탐 0)", got == [], str(got))
+
+# ── S2 전체 0
+scen("S2 전체 0", [(d, p, 0) for d, p, _ in REAL],
+     ["G.total_wipe", "G.national_drop", "G.region_drop", "G.district_drop",
+      "G.district_extinction", "G.mass_drop"])
+
+# ── S3 전체 1
+s3 = [(d, p, 1 if d == "seoul/gangnam" else 0) for d, p, _ in REAL]
+got3 = scen("S3 전체 1", s3, ["G.national_drop", "G.region_drop", "G.district_drop"])
+check("S3) candidate 1건이라 G.total_wipe 는 발화 안 함", "G.total_wipe" not in got3, str(got3))
+
+# ── S4 서울 전체 소실
+scen("S4 서울 전체 소실", [(d, p, 0 if d.startswith("seoul/") else c) for d, p, c in REAL],
+     ["G.region_drop"])
+check("S4) 전국 감소율은 -4.4% 수준이라 전국 게이트만으로는 못 잡음",
+      (sum(c for d, _, c in REAL if not d.startswith("seoul/")) - 69265) / 69265 > -0.25)
+
+# ── S5 경기 -30%
+scen("S5 경기 -30%", [(d, p, int(p * 0.7) if d.startswith("gyeonggi/") else c) for d, p, c in REAL],
+     ["G.region_drop"])
+
+# ── S6 최대 district 전체 소실
+big = max(REAL, key=lambda x: x[1])[0]
+scen(f"S6 최대 district({big}) 소실",
+     [(d, p, 0 if d == big else c) for d, p, c in REAL],
+     ["G.district_drop", "G.district_extinction"])
+
+# ── S11 상위 50개 district 각 -8%
+top50 = {d for d, _, _ in sorted(REAL, key=lambda x: -x[1])[:50]}
+got11 = scen("S11 상위 50개 각 -8%", [(d, p, int(p * 0.92) if d in top50 else c) for d, p, c in REAL],
+             ["G.mass_drop"])
+check("S11) 개별 district 규칙만으로는 못 잡음 (mass_drop 이 유일)",
+      got11 == ["G.mass_drop"], str(got11))
+
+# ── S12 dedupe 대량 회귀: 원인 분해로 면제되지 않아야 한다
+fake_ds = {d: {"classified_before_dedupe": p, "duplicates_removed": p - p // 10,
+               "after_dedupe": p // 10, "contradictions_removed": 0, "final": p // 10}
+           for d, p, _ in REAL}
+got12 = scen("S12 dedupe 회귀로 90% 소실 (raw 정상)",
+             [(d, p, p // 10) for d, p, _ in REAL],
+             ["G.national_drop", "G.region_drop", "G.district_drop"],
+             stats={"district_stats": fake_ds})
+check("S12) 원인이 100% dedupe 여도 면제되지 않음", "G.national_drop" in got12, str(got12))
+
+# ── S14 한 시도 거의 전멸 (제주 -90%), 전국 영향은 작음
+scen("S14 제주 -90%", [(d, p, int(p * 0.1) if d.startswith("jeju/") else c) for d, p, c in REAL],
+     ["G.region_drop"])
+
+# ── S15 D1 수정의 이유: 300 → 160
+scen("S15 단일 구군 300→160 (-140/-46.7%)",
+     [("x/a", 300, 160), ("x/b", 5000, 5000)], ["G.district_drop"])
+
+# ── S16 비율 <10% 인데 절대 500건
+scen("S16 대형 구군 -500건 / 비율 <10%",
+     [("x/a", 6000, 5500), ("x/b", 60000, 60000)], ["G.district_drop"])
+
+# ── S17~S19 D1 경계
+scen("S17 99건 감소 + 20%", [("x/a", 495, 396), ("x/b", 50000, 50000)], "PASS")
+scen("S18 100건 감소 + 9.99%", [("x/a", 1001, 901), ("x/b", 50000, 50000)], "PASS")
+scen("S19 100건 감소 + 10.00%", [("x/a", 1000, 900), ("x/b", 50000, 50000)],
+     ["G.district_drop"])
+
+# ── S20~S21 R1 경계
+scen("S20 시도 29건 감소 + 50%", [("x/a", 58, 29), ("y/b", 50000, 50000)], "PASS")
+scen("S21 시도 30건 감소 + 10.00%", [("x/a", 300, 270), ("y/b", 50000, 50000)],
+     ["G.region_drop"])
+
+# ── S22~S24 AGG 경계
+def mass(n, loss, prod):
+    """n 개 district 를 각각 prod→prod-loss 로. 비율 <10% 라 D1 은 발화하지 않는다."""
+    out = [(f"m{i}/d", prod, prod - loss) for i in range(n)]
+    out.append(("pad/d", 400000, 400000))       # 전국·시도 게이트 회피용 패딩
+    return out
+s22 = mass(13, 143, 1589) + [("m13/d", 1556, 1416)]
+s22.append(("pad/d", 400000, 400000))
+scen("S22 material 14개 / 합계 1999", s22, "PASS")
+scen("S23 material 15개 / 합계 1950", mass(15, 130, 1445), ["G.mass_drop"])
+s24 = mass(13, 143, 1589) + [("m13/d", 1567, 1426)]
+s24.append(("pad/d", 400000, 400000))
+scen("S24 material 14개 / 합계 2000", s24, ["G.mass_drop"])
+
+# ── 전국 게이트 경계
+# 전국 게이트 경계는 코드 단위로 본다. 이만한 손실이면 구군 게이트도 함께
+# 발화하는 게 정상이므로(층이 겹치는 설계), 여기서는 G.national_drop 만 본다.
+def scen_code(name, pairs, code, present):
+    got = guard(pairs)
+    check(f"{name} → {code} {'발화' if present else '미발화'}",
+          (code in got) == present, f"발화: {got}")
+
+# N2 에는 절대량 하한을 두지 않는다. production 이 작다는 이유로 25%·50%·90%
+# 축소를 허용할 이유가 없고, 그 구간을 다른 계층이 본다는 설명은 성립하지 않는다
+# (3 -> 1 은 R1 >=30건 / D1 >=100건 / D2 >=20건 / AGG >=20건 어디에도 안 걸린다).
+scen_code("N2-A production 3 → candidate 1 (-66.67%)", [("x/a", 3, 1)],
+          "G.national_drop", True)
+got_a = guard([("x/a", 3, 1)])
+check("N2-A) 다른 계층은 이 규모를 잡지 못함 (N2 가 유일)",
+      got_a == ["G.national_drop"], f"발화: {got_a}")
+scen_code("N2-B production 4 → candidate 3 (정확히 -25%)", [("x/a", 4, 3)],
+          "G.national_drop", True)
+scen_code("N2-C production 10000 → 7501 (-24.99%)", [("x/a", 10000, 7501)],
+          "G.national_drop", False)
+scen_code("N2-D production 10000 → 7500 (-25.00%)", [("x/a", 10000, 7500)],
+          "G.national_drop", True)
+scen("N2-E bootstrap production 0 → candidate 500", [("x/a", 0, 500)], "PASS")
+# ── AGG material 판정 경계 (4.99% vs 5.00%)
+scen("AGG 경계 4.99% (material 아님)",
+     [(f"m{i}/d", 401, 381) for i in range(20)] + [("pad/d", 400000, 400000)], "PASS")
+scen("AGG 경계 5.00% (material)",
+     [(f"m{i}/d", 400, 380) for i in range(20)] + [("pad/d", 400000, 400000)],
+     ["G.mass_drop"])
+
+# ── D2 전멸 경계
+scen("D2 경계 prod=19 전멸", [("x/a", 19, 0), ("x/b", 50000, 50000)], "PASS")
+scen("D2 경계 prod=20 전멸", [("x/a", 20, 0), ("x/b", 50000, 50000)],
+     ["G.district_extinction"])
+
+# ── production=0 / 증가는 drop 대상 아님
+scen("신규 district (prod=0)", [("x/a", 0, 500), ("x/b", 50000, 50000)], "PASS")
+scen("전체 증가", [(d, p, p + 5) for d, p, _ in REAL], "PASS")
+
+# ── bootstrap: production 자체가 없음
+scen("bootstrap (production 0건)", [("x/a", 0, 100)], "PASS")
+
+# ── 실제 트리로 plan 레벨 집계가 생성되는지 (end-to-end)
+tmp = tempfile.mkdtemp()
+try:
+    ws = os.path.join(tmp, "cand")
+    prod = os.path.join(tmp, "prod")
+    # rollback/promotion mechanics fixture; not intended to exercise
+    # catastrophic-drop guard. production 3건 -> candidate 3건(감소 0%).
+    make_prod(prod, n=3)
+    stats = collect.build_candidate(GOOD3, "2026-09-04", ws)
+    rep, plan = collect.integrity.validate_candidate(ws, prod, stats,
+                                                    collect.verify_store_location)
+    check("GUARD-E2E) plan 에 시도/구군 레벨 집계 포함",
+          all(k in plan for k in ("prod_regions", "cand_regions",
+                                  "prod_districts", "cand_districts")), str(sorted(plan)))
+    check("GUARD-E2E) prod_districts 가 실제 production 을 읽음",
+          plan["prod_districts"].get("seoul/gangnam") == 3,
+          str(plan["prod_districts"]))
+    check("GUARD-E2E) prod 3건 → cand 3건 (감소 0%) 은 게이트 통과", rep.ok, rep.summary())
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
+check("GUARD) 기존 G.total_wipe 코드명 유지",
+      "G.total_wipe" in guard([("x/a", 10, 0), ("x/b", 10, 0)]))
 
 
 # ---------------------------------------------------------------- 자기 검사
