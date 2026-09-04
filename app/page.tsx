@@ -47,7 +47,7 @@ export default function HomePage() {
           전국 {data.totalCount.toLocaleString()}곳의 판매처 정보를 제공합니다
         </p>
         <p className="mt-1 text-sm text-gray-400 dark:text-zinc-500">
-          데이터 갱신일: {data.updatedAt}
+          데이터 수집일: {data.updatedAt}
         </p>
       </section>
 

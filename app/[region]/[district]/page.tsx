@@ -7,6 +7,7 @@ import {
   getDistrictBySlug,
   getDistrictsByRegion,
   getDistrictDisplayName,
+  getLegacyDisplay,
   REGIONS,
 } from "@/lib/regions";
 import { buildOpenGraph, getDistrictFaqs } from "@/lib/seo";
@@ -44,11 +45,21 @@ export async function generateMetadata({
   const count = data?.totalCount ?? 0;
 
   // 이름이 겹치는 구군(중구/동구/서구/남구/북구/강서구/고성군)만 시/도 축약명을 붙인다.
-  const displayName = getDistrictDisplayName(region, districtInfo.name);
+  // 2026 행정구역 개편으로 표시명이 달라진 legacy bucket은 그 값을 우선한다.
+  const legacy = getLegacyDisplay(region, district);
+  const displayName = legacy
+    ? legacy.longLabel
+    : getDistrictDisplayName(region, districtInfo.name);
 
   return {
     title:
-      count > 0
+      // 개편 페이지는 label 자체가 길어서 공통 suffix(가격·크기·2026)를 뺀다.
+      // 정확한 행정명 전달이 title 패턴 통일보다 우선이다.
+      legacy
+        ? count > 0
+          ? `${displayName} 종량제 봉투 파는곳 총정리`
+          : `${displayName} 종량제 봉투 판매처 안내`
+        : count > 0
         ? `${displayName} 종량제 봉투 파는곳 총정리 | 가격 | 크기 (2026)`
         : `${displayName} 종량제 봉투 판매처 안내`,
     description:
@@ -75,7 +86,19 @@ export default async function DistrictPage({ params }: PageProps) {
   if (!regionInfo || !districtInfo) notFound();
 
   // title/H1/FAQ가 같은 표시명을 쓰도록 한 곳에서 만든다.
-  const displayName = getDistrictDisplayName(region, districtInfo.name);
+  const legacy = getLegacyDisplay(region, district);
+  const displayName = legacy
+    ? legacy.longLabel
+    : getDistrictDisplayName(region, districtInfo.name);
+  // breadcrumb은 시도가 앞에 오므로 축약형을 쓴다.
+  const crumbLabel = legacy ? legacy.shortLabel : districtInfo.name;
+  // FAQ 답변·본문에서 "이 페이지가 다루는 범위"를 가리킬 때 쓴다.
+  // longLabel을 답변에 넣으면 제물포구 전체 + 영종구 전체의 합으로 읽힌다.
+  const scopeName = legacy ? legacy.scopeLabel : districtInfo.name;
+  // 인접 지역 링크 chip: 개편된 구는 현재 행정구역명으로 보여준다.
+  // chip은 좁아서 옛 이름 병기는 넣지 않는다. 목적지 페이지가 설명한다.
+  const chipLabel = (slug: string, fallback: string) =>
+    getLegacyDisplay(region, slug)?.selectorMain ?? fallback;
 
   const data = getDistrictData(region, district);
 
@@ -90,7 +113,7 @@ export default async function DistrictPage({ params }: PageProps) {
     const emptyFaqs = [
       {
         question: `${displayName} 종량제 봉투 어디서 사나요?`,
-        answer: `${districtInfo.name}의 종량제 봉투 판매처 데이터를 현재 수집 중입니다. 일반적으로 편의점(GS25, CU, 세븐일레븐), 대형마트, 동네 슈퍼마켓에서 구매할 수 있습니다.`,
+        answer: `${scopeName}의 종량제 봉투 판매처 데이터를 현재 수집 중입니다. 일반적으로 편의점(GS25, CU, 세븐일레븐), 대형마트, 동네 슈퍼마켓에서 구매할 수 있습니다.`,
       },
       {
         question: `종량제 봉투가 품귀인 이유는?`,
@@ -103,7 +126,7 @@ export default async function DistrictPage({ params }: PageProps) {
         <Breadcrumb
           items={[
             { label: regionInfo.name, href: `/${region}` },
-            { label: districtInfo.name },
+            { label: crumbLabel },
           ]}
         />
 
@@ -112,14 +135,14 @@ export default async function DistrictPage({ params }: PageProps) {
             {displayName} 종량제 봉투 판매처
           </h1>
           <p className="mt-1 text-gray-600 dark:text-zinc-400">
-            {regionInfo.name} {districtInfo.name} 종량제 봉투 판매처 정보
+            {legacy ? scopeName : `${regionInfo.name} ${scopeName}`} 종량제 봉투 판매처 정보
           </p>
         </section>
 
         {/* 데이터 없음 안내 + 구매 가능 장소 (통합) */}
         <div className="rounded-xl border border-yellow-200 dark:border-yellow-500/30 bg-yellow-50 dark:bg-yellow-500/10 p-5">
           <p className="text-lg font-semibold text-yellow-800 dark:text-yellow-200">
-            {districtInfo.name}에 등록된 판매처가 없습니다
+            {scopeName}에 등록된 판매처가 없습니다
           </p>
           <p className="mt-2 text-sm text-yellow-700 dark:text-yellow-300">
             공공데이터 기준이며, 실제로는 아래 장소에서 구매 가능합니다.
@@ -148,7 +171,7 @@ export default async function DistrictPage({ params }: PageProps) {
                   className="flex flex-col items-center rounded-xl border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-5 text-center transition hover:bg-gray-50 dark:hover:bg-zinc-800 duration-200"
                 >
                   <span className="font-medium text-gray-900 dark:text-white">
-                    {d.district}
+                    {chipLabel(d.districtSlug, d.district)}
                   </span>
                   <span className="mt-1 text-sm text-gray-500 dark:text-zinc-400">
                     {d.count}곳
@@ -167,7 +190,7 @@ export default async function DistrictPage({ params }: PageProps) {
               href={`/${region}/${adjacentDistricts[0].districtSlug}`}
               className="inline-block rounded-xl border border-gray-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 px-5 py-2.5 text-sm font-medium text-gray-700 dark:text-white hover:bg-gray-50 dark:hover:bg-zinc-700"
             >
-              인근 {adjacentDistricts[0].district} 판매처 보기
+              인근 {chipLabel(adjacentDistricts[0].districtSlug, adjacentDistricts[0].district)} 판매처 보기
             </Link>
           )}
           <Link
@@ -182,8 +205,8 @@ export default async function DistrictPage({ params }: PageProps) {
   }
 
   const baseFaqs = getDistrictFaqs(
-    regionInfo.name,
-    districtInfo.name,
+    legacy ? "" : regionInfo.name,
+    scopeName,
     data.totalCount,
     displayName
   );
@@ -219,7 +242,7 @@ export default async function DistrictPage({ params }: PageProps) {
       <Breadcrumb
         items={[
           { label: regionInfo.name, href: `/${region}` },
-          { label: districtInfo.name },
+          { label: crumbLabel },
         ]}
       />
 
@@ -228,14 +251,19 @@ export default async function DistrictPage({ params }: PageProps) {
           {displayName} 종량제 봉투 파는곳
         </h1>
         <p className="mt-1 text-gray-600 dark:text-zinc-400">
-          총 {data.totalCount}곳 · 데이터 갱신일: {data.updatedAt}
+          총 {data.totalCount}곳 · 데이터 수집일: {data.updatedAt}
         </p>
         <p className="mt-2 text-xs text-gray-400 dark:text-zinc-500">
           지역별 판매처 수는 공공데이터 기준이며, 일부 지역은 실제와 차이가 있을 수 있습니다.
         </p>
+        {legacy && (
+          <p className="mt-2 text-xs text-gray-500 dark:text-zinc-400 leading-relaxed">
+            {legacy.notice}
+          </p>
+        )}
         <p className="mt-3 text-sm text-gray-500 dark:text-zinc-400 leading-relaxed">
           종량제 봉투는 지역별 가격과 크기가 다르며, 편의점과 마트에서도 구매할
-          수 있습니다. 아래에서 {districtInfo.name} 종량제 봉투 판매처를
+          수 있습니다. 아래에서 {scopeName} 종량제 봉투 판매처를
           확인하세요.
         </p>
       </section>
@@ -291,7 +319,7 @@ export default async function DistrictPage({ params }: PageProps) {
                 href={`/${region}/${d.districtSlug}`}
                 className="rounded-full border border-yellow-300 dark:border-yellow-700 px-3 py-1 text-sm text-yellow-700 dark:text-yellow-300 hover:bg-yellow-100 dark:hover:bg-yellow-900/30"
               >
-                {d.district} ({d.count}곳)
+                {chipLabel(d.districtSlug, d.district)} ({d.count}곳)
               </Link>
             ))}
           </div>
@@ -361,12 +389,12 @@ export default async function DistrictPage({ params }: PageProps) {
       {/* 종량제 봉투 안내 콘텐츠 블록 */}
       <section className="mt-10">
         <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-white">
-          {districtInfo.name} 종량제 봉투 안내
+          {scopeName} 종량제 봉투 안내
         </h2>
         <div className="space-y-3 text-sm text-gray-600 dark:text-zinc-400 leading-relaxed">
           <p>
             종량제 봉투 가격은 지자체마다 다르게 책정됩니다.{" "}
-            {districtInfo.name} 기준 일반 가정용 20L 봉투는 약 500~1,000원
+            {scopeName} 기준 일반 가정용 20L 봉투는 약 500~1,000원
             수준이며, 음식물 쓰레기용은 별도 가격이 적용됩니다.
           </p>
           <p>
@@ -423,7 +451,7 @@ export default async function DistrictPage({ params }: PageProps) {
                 href={`/${region}/${d.districtSlug}`}
                 className="rounded-full border border-gray-200 dark:border-zinc-800 px-3 py-1 text-sm text-gray-600 dark:text-zinc-400 hover:bg-gray-50 dark:hover:bg-zinc-800 transition duration-200"
               >
-                {d.district} ({d.count}곳)
+                {chipLabel(d.districtSlug, d.district)} ({d.count}곳)
               </Link>
             ))}
           </div>

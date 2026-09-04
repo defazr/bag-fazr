@@ -355,3 +355,78 @@ export function getDistrictDisplayName(
   const short = REGION_SHORT_NAMES[regionSlug];
   return short ? `${short} ${districtName}` : districtName;
 }
+
+// ────────────────────────────────────────────────────────────────────────
+// 인천 2026 행정구역 개편 (2026-07-01 시행) — 사용자 표시 SSOT
+//
+// /incheon/icjunggu 같은 URL은 "현재의 어떤 행정구" 페이지가 아니라
+// 개편 이전 행정구 영역을 보존하는 compatibility bucket이다. URL은 호환성
+// 자산이라 바꾸지 않고, 사용자에게 보이는 이름만 현재 행정구역에 맞춘다.
+//
+// collector의 LEGACY_ROUTE_DISTRICT_MAP과 역할이 다르다.
+//   collector : 데이터가 어느 legacy bucket으로 들어가는가
+//   여기      : 그 legacy bucket을 사용자에게 어떻게 설명하는가
+// 둘을 섞지 않는다.
+//
+// 매장 주소는 공공데이터가 제공하는 원문을 그대로 쓴다. 표시명 정책과
+// 주소 문자열 정책은 별개다. 주소는 사용자가 찾아갈 때 쓰는 실용 정보다.
+//
+// 지금은 인천 3개만 명시한다. 전국 행정개편 프레임워크를 만들지 않는다.
+// ────────────────────────────────────────────────────────────────────────
+export interface LegacyDistrictDisplay {
+  /** title·H1·meta·FAQ 질문용. 현재 행정구역 + 옛 이름 병기 */
+  longLabel: string;
+  /** breadcrumb용. 시도가 문맥상 자명하므로 축약 */
+  shortLabel: string;
+  /** 지역 선택 카드의 주 label */
+  selectorMain: string;
+  /** 지역 선택 카드의 보조 문구 */
+  selectorLegacy: string;
+  /**
+   * FAQ 답변·본문에서 "이 페이지가 다루는 범위"를 가리킬 때 쓴다.
+   * longLabel을 답변에 쓰면 "제물포구·영종구에는 82곳"처럼 읽혀
+   * 제물포구 전체와 영종구 전체의 합으로 오해된다.
+   */
+  scopeLabel: string;
+  /** 행정구역 개편 안내. 페이지별 실제 coverage에 맞춰 다르게 쓴다 */
+  notice: string;
+}
+
+const INCHEON_LEGACY_DISPLAY: Record<string, LegacyDistrictDisplay> = {
+  icjunggu: {
+    longLabel: "제물포구·영종구 (옛 인천 중구)",
+    shortLabel: "제물포구·영종구 (옛 중구)",
+    selectorMain: "제물포구·영종구",
+    selectorLegacy: "옛 중구",
+    scopeLabel: "옛 인천 중구 지역",
+    notice:
+      "이 페이지는 2026년 7월 행정구역 개편 이전 인천 중구 지역을 기준으로 묶은 판매처 정보입니다. 현재 이 지역은 제물포구와 영종구에 속합니다. 매장 주소는 공공데이터에 제공된 주소를 그대로 표시합니다.",
+  },
+  icdonggu: {
+    longLabel: "제물포구 (옛 인천 동구)",
+    shortLabel: "제물포구 (옛 동구)",
+    selectorMain: "제물포구",
+    selectorLegacy: "옛 동구",
+    scopeLabel: "옛 인천 동구 지역",
+    notice:
+      "이 페이지는 2026년 7월 행정구역 개편 이전 인천 동구 지역을 기준으로 묶은 판매처 정보입니다. 현재 이 지역은 제물포구에 속합니다. 매장 주소는 공공데이터에 제공된 주소를 그대로 표시합니다.",
+  },
+  icseogu: {
+    longLabel: "서해구·검단구 (옛 인천 서구)",
+    shortLabel: "서해구·검단구 (옛 서구)",
+    selectorMain: "서해구·검단구",
+    selectorLegacy: "옛 서구",
+    scopeLabel: "옛 인천 서구 지역",
+    notice:
+      "이 페이지는 2026년 7월 행정구역 개편 이전 인천 서구 지역을 기준으로 묶은 판매처 정보입니다. 현재 이 지역은 서해구와 검단구로 나뉘었습니다. 매장 주소는 공공데이터에 제공된 주소를 그대로 표시합니다.",
+  },
+};
+
+/** 개편으로 표시명이 달라진 legacy bucket이면 표시 정보를, 아니면 null. */
+export function getLegacyDisplay(
+  regionSlug: string,
+  districtSlug: string
+): LegacyDistrictDisplay | null {
+  if (regionSlug !== "incheon") return null;
+  return INCHEON_LEGACY_DISPLAY[districtSlug] ?? null;
+}

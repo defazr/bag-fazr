@@ -65,7 +65,12 @@ export function getDistrictFaqs(
   return [
     {
       question: `${displayName} 종량제 봉투 어디서 사나요?`,
-      answer: `${regionName} ${districtName}에는 현재 ${count}곳의 종량제 봉투 판매처가 등록되어 있습니다. 편의점(GS25, CU, 세븐일레븐), 대형마트, 동네 슈퍼마켓 등에서 구매 가능합니다.`,
+      // regionName이 비면 접두를 생략한다. 행정구역 개편 legacy 페이지는
+      // districtName 자리에 "옛 인천 중구 지역" 같은 범위 표현이 들어와서
+      // 시도명을 또 붙이면 "인천광역시 옛 인천 중구 지역"이 된다.
+      answer: `${[regionName, districtName]
+        .filter(Boolean)
+        .join(" ")}에는 현재 ${count}곳의 종량제 봉투 판매처가 등록되어 있습니다. 편의점(GS25, CU, 세븐일레븐), 대형마트, 동네 슈퍼마켓 등에서 구매 가능합니다.`,
     },
     {
       question: `${displayName} 종량제 봉투 가격은 얼마인가요?`,
