@@ -140,6 +140,85 @@ class CollectionError(RuntimeError):
     """
 
 
+# 공공데이터포털이 정상 응답에 쓰는 성공 sentinel. 이 서비스의 실제 정상
+# header는 아직 확보하지 못했다(저장소·로그·fixture 어디에도 header가 없다).
+# 그래서 "00만 성공"으로 단정하지 않는다. 확실한 것만 실패로 본다:
+#   - 게이트웨이 오류 봉투(OpenAPI_ServiceResponse / cmmMsgHeader)
+#   - resultCode가 정수로 읽히고 0이 아닌 경우 (22=쿼터초과, 30=키오류 등)
+# 정수로 읽히지 않는 미지의 코드는 판정하지 않고 경고만 남긴다. 근거 없이
+# 조이면 이 API가 header를 안 보내거나 다른 형태로 보낼 때 수집이 100%
+# 실패한다 - 드문 전멸 위험을 상시 수집 불능으로 바꾸는 셈이다.
+# 실제 정상 header 확보 후 별도로 조인다(향후 dry-run 과제).
+SUCCESS_RESULT_CODES = {"00", "0", "0000"}
+
+
+def _clip(v, n: int = 120) -> str:
+    """진단용 문자열. 응답 원문을 통째로 싣지 않는다(키·민감정보 유출 방지)."""
+    t = str(v).replace("\n", " ").strip()
+    return t[:n] + ("…" if len(t) > n else "")
+
+
+def detect_api_error(data: dict) -> str | None:
+    """응답이 '명백한 오류'면 사유 문자열, 아니면 None.
+
+    body만 보면 오류 응답도 items=[] / totalCount=0 인 정상 완결처럼 보인다.
+    실제로 쿼터 초과(resultCode 22) 응답이 그 형태로 온다. 그래서 body 파싱
+    전에 봉투부터 판정한다. serviceKey는 어떤 경로로도 메시지에 넣지 않는다.
+    """
+    if not isinstance(data, dict):
+        return f"응답이 dict가 아니다: {type(data).__name__}"
+
+    # 게이트웨이 레벨 오류 봉투. 정상 응답에는 절대 나타나지 않는다.
+    if "OpenAPI_ServiceResponse" in data:
+        env = data.get("OpenAPI_ServiceResponse") or {}
+        hdr = env.get("cmmMsgHeader", {}) if isinstance(env, dict) else {}
+        return (
+            "게이트웨이 오류 봉투(OpenAPI_ServiceResponse) "
+            f"returnReasonCode={_clip(hdr.get('returnReasonCode'), 20)} "
+            f"errMsg={_clip(hdr.get('errMsg'))}"
+        )
+    if "cmmMsgHeader" in data:
+        hdr = data.get("cmmMsgHeader") or {}
+        hdr = hdr if isinstance(hdr, dict) else {}
+        return (
+            "오류 봉투(cmmMsgHeader) "
+            f"returnReasonCode={_clip(hdr.get('returnReasonCode'), 20)} "
+            f"errMsg={_clip(hdr.get('errMsg'))}"
+        )
+
+    resp = data.get("response")
+    if isinstance(resp, dict):
+        if "cmmMsgHeader" in resp:
+            hdr = resp.get("cmmMsgHeader") or {}
+            hdr = hdr if isinstance(hdr, dict) else {}
+            return (
+                "오류 봉투(response.cmmMsgHeader) "
+                f"returnReasonCode={_clip(hdr.get('returnReasonCode'), 20)} "
+                f"errMsg={_clip(hdr.get('errMsg'))}"
+            )
+        header = resp.get("header")
+        if isinstance(header, dict) and "resultCode" in header:
+            code = header.get("resultCode")
+            text = str(code).strip()
+            if text in SUCCESS_RESULT_CODES:
+                return None
+            try:
+                numeric = int(text)
+            except (TypeError, ValueError):
+                # 판정 불가. 여기서 막지 않는다(위 주석 참조).
+                log.warning(
+                    f"  판정할 수 없는 resultCode={_clip(code, 20)} "
+                    f"resultMsg={_clip(header.get('resultMsg'))} - 계속 진행한다"
+                )
+                return None
+            if numeric != 0:
+                return (
+                    f"resultCode={_clip(code, 20)} "
+                    f"resultMsg={_clip(header.get('resultMsg'))}"
+                )
+    return None
+
+
 def fetch_all(service_key: str) -> tuple[list[dict], int, int]:
     """전국 데이터 1회 수집.
 
@@ -168,6 +247,15 @@ def fetch_all(service_key: str) -> tuple[list[dict], int, int]:
                 f"{len(all_items)}건 수집 후 중단."
             )
 
+        # body 파싱 전에 봉투부터 본다. 오류 응답도 items=[] / totalCount=0
+        # 형태로 와서 body만 보면 '정상 완결'과 구분되지 않는다.
+        api_error = detect_api_error(data)
+        if api_error:
+            raise CollectionError(
+                f"page {page_no} API 오류 응답: {api_error}. "
+                f"{len(all_items)}건 수집 후 중단."
+            )
+
         try:
             body = data["response"]["body"]
             items = body.get("items", [])
@@ -183,6 +271,18 @@ def fetch_all(service_key: str) -> tuple[list[dict], int, int]:
 
         if expected_total is None:
             expected_total = total_count
+            # totalCount=0 을 '정상 완결'로 인정하지 않는다.
+            #
+            # 형식상 정상인 빈 응답(점검·쿼터 초과·업스트림 장애)이 오면
+            # 빈 candidate가 A~F 게이트를 전부 통과하고 production 전체가
+            # 0건으로 교체된다(2026-09-04 실증). 정말 전국 판매처가 0이 되는
+            # 상황은 자동 promotion 대상이 아니라 사람이 확인할 사건이다.
+            if expected_total <= 0:
+                raise CollectionError(
+                    f"API totalCount={expected_total}. 빈 결과를 완결로 인정하지 "
+                    "않는다 (점검·쿼터 초과·업스트림 장애와 구분할 수 없다). "
+                    "기존 data/ 는 한 건도 변경·삭제되지 않는다."
+                )
             # 페이지 크기는 요청값(NUM_OF_ROWS)이 아니라 첫 응답의 실제 반환 개수로
             # 계산한다. 이 API는 numOfRows=1000을 요청해도 100건만 돌려준다(실측).
             # 요청값을 믿으면 필요한 페이지 수를 10분의 1로 잘못 계산해 수집이
@@ -794,6 +894,12 @@ def build_candidate(
         "contradictions": len(rejected_stores),
         "contradiction_records": rejected_stores,
         "final": total_all,
+        # 정상 경로에서는 항상 비어 있다. 미등록 시도는 위에서 즉시
+        # CollectionError를, 미등록 구군은 drift preflight가 workspace write
+        # 이전에 CollectionError를 던지기 때문이다. 즉 게이트 D는 그 preflight의
+        # 이중 안전망이며, 여기 도달했다는 것 자체가 unknown 0을 뜻한다.
+        # preflight를 게이트 뒤로 옮기지 않는다 - 지금이 더 강한 불변조건이다.
+        # (D의 판정 로직 자체는 test_collect.py에서 직접 주입해 검증한다.)
         "unknown_provinces": {},
         "unknown_districts": {},
         "historical_exceptions": {f"{r} {d}": c for (r, d), c in known_historical.items()},

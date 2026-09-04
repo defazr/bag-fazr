@@ -317,13 +317,30 @@ def check_contradiction_accounting(stats: dict, tree: dict, report: IntegrityRep
         report.note("E.accounted", "contradiction 0")
 
 
+def tree_store_total(tree: dict) -> int:
+    """트리에 실제로 직렬화된 store 건수. 자기신고 totalCount가 아니라 실측."""
+    total = 0
+    for r in tree["regions"].values():
+        for d in r["districts"].values():
+            stores = d.get("stores")
+            if isinstance(stores, list):
+                total += len(stores)
+    return total
+
+
 def diff_trees(prod_root: str, cand_root: str) -> dict:
     """G. production 트리와 candidate 트리의 차이를 명시적으로 계산한다.
 
     stale 삭제는 즉시 mutation이 아니라 이 차이의 결과여야 한다.
+
+    파일 목록뿐 아니라 양쪽 store 총계도 돌려준다. A~F는 전부 candidate 내부
+    정합성만 보므로, candidate가 완벽하게 자기일관적인 '빈 트리'여도 통과한다.
+    production과 비교하는 외부 기준점은 여기뿐이다.
     """
-    prod = read_tree(prod_root)["files"]
-    cand = read_tree(cand_root)["files"]
+    prod_tree = read_tree(prod_root)
+    cand_tree = read_tree(cand_root)
+    prod = prod_tree["files"]
+    cand = cand_tree["files"]
     created = sorted(set(cand) - set(prod))
     removed = sorted(set(prod) - set(cand))
     common = set(prod) & set(cand)
@@ -336,6 +353,8 @@ def diff_trees(prod_root: str, cand_root: str) -> dict:
         "kept": kept,
         "prod_files": len(prod),
         "cand_files": len(cand),
+        "prod_stores": tree_store_total(prod_tree),
+        "cand_stores": tree_store_total(cand_tree),
     }
 
 
@@ -406,9 +425,25 @@ def validate_candidate(
         )
 
     plan = diff_trees(prod_root, cand_root)               # G
+
+    # production에 매장이 있는데 candidate가 0건이면 전면 삭제다.
+    # A~F는 전부 통과할 수 있다(빈 트리도 자기일관적이므로). 실제로
+    # 2026-09-04에 totalCount=0 응답으로 failures=0 + production 전멸을 실증했다.
+    # 숫자형 감소율 임계값은 아직 넣지 않는다 - 실측 dry-run 근거가 없으면
+    # 감으로 정한 숫자가 또 다른 함정이 된다. 절대 조건만 먼저 건다.
+    # production이 없거나 0건인 최초 bootstrap에서는 발화하지 않는다.
+    if plan["prod_stores"] > 0 and plan["cand_stores"] == 0:
+        report.fail(
+            "G.total_wipe",
+            f"production {plan['prod_stores']}건 -> candidate 0건. "
+            f"전면 삭제는 자동 promotion 대상이 아니다 "
+            f"(제거 예정 파일 {len(plan['removed'])}개).",
+        )
+
     report.note(
         "G.plan",
         f"생성 {len(plan['created'])} / 변경 {len(plan['modified'])} / "
-        f"제거 {len(plan['removed'])} / 유지 {len(plan['kept'])}",
+        f"제거 {len(plan['removed'])} / 유지 {len(plan['kept'])} / "
+        f"매장 {plan['prod_stores']} -> {plan['cand_stores']}",
     )
     return report, plan

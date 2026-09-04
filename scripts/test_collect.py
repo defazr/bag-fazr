@@ -135,26 +135,35 @@ check("data/ 무변경", before == after)
 
 
 # ---------------------------------------------------------------- 4
-print("\n[4] API totalCount=0 정상 응답 → 완결로 인정, stale 삭제 허용")
+print("\n[4] API totalCount=0 → 완결로 인정하지 않는다 (fail closed)")
+# 2026-09-04 실증: 형식상 정상인 빈 응답이 오면 빈 candidate가 A~F를 전부
+# 통과하고 production 전체가 0건으로 교체됐다. 이 블록은 원래 그 동작을
+# "정상"으로 단언하고 있었다. 테스트가 파괴적 동작을 보증하고 있었던 셈이다.
+before = data_fingerprint(os.path.join(ROOT, "data"))
 collect.fetch_page = lambda k, n: make_page([], 0)
+raised = None
 try:
-    items, calls, total = collect.fetch_all("KEY")
-    check("totalCount=0은 완결로 인정", items == [] and total == 0)
-except Exception as e:
-    check("totalCount=0은 완결로 인정", False, f"예외 발생: {e}")
+    collect.fetch_all("KEY")
+except collect.CollectionError as e:
+    raised = str(e)
+check("totalCount=0은 완결로 인정하지 않음", raised is not None, raised or "예외 없음")
+check("data/ 무변경", before == data_fingerprint(os.path.join(ROOT, "data")))
 
+# stale 삭제 자체는 계속 동작해야 한다. 단 '빈 candidate'가 아니라
+# 매장이 있는 정상 candidate 기준으로 증명한다.
 tmp = tempfile.mkdtemp()
 try:
-    os.makedirs(os.path.join(tmp, "seoul"))
-    stale = os.path.join(tmp, "seoul", "gangnam.json")
+    os.makedirs(os.path.join(tmp, "busan"))
+    stale = os.path.join(tmp, "busan", "bsjunggu.json")
     with open(stale, "w", encoding="utf-8") as f:
         json.dump({"totalCount": 1, "stores": []}, f)
-    collect.classify_and_save([], "2026-09-03", complete=True, data_dir=tmp)
+    collect.classify_and_save([SEOUL_GANGNAM], "2026-09-03", complete=True, data_dir=tmp)
     check("complete=True면 stale 파일 삭제", not os.path.exists(stale))
 
+    os.makedirs(os.path.join(tmp, "busan"), exist_ok=True)
     with open(stale, "w", encoding="utf-8") as f:
         json.dump({"totalCount": 1, "stores": []}, f)
-    collect.classify_and_save([], "2026-09-03", complete=False, data_dir=tmp)
+    collect.classify_and_save([SEOUL_GANGNAM], "2026-09-03", complete=False, data_dir=tmp)
     check("complete=False면 stale 파일 보존", os.path.exists(stale))
 finally:
     shutil.rmtree(tmp, ignore_errors=True)
@@ -960,6 +969,287 @@ try:
           raised or "예외 없음")
     check("R5) production 보존", tree_sig(data) == sig0)
     check("R5) backup 삭제되지 않음", os.path.isdir(backup))
+    cleanup_promo(data)
+finally:
+    shutil.rmtree(base, ignore_errors=True)
+
+
+# ---------------------------------------------------------------- P19 SAFETY
+print("\n[P19-SAFETY] 빈 응답/오류 봉투 → promotion 0, 전면 삭제 차단")
+
+# ── A. totalCount=0 → CollectionError → promotion 0
+#    (fetch_all 차단은 [4]에서 확인. 여기서는 promotion 경로가 뚫리지 않는지 본다.)
+tmp = tempfile.mkdtemp()
+try:
+    make_prod(tmp, n=10)
+    sig0 = tree_sig(tmp)
+    collect.fetch_page = lambda k, n: make_page([], 0)
+    raised = None
+    try:
+        collect.fetch_all("KEY")
+    except collect.CollectionError as e:
+        raised = str(e)
+    check("A) totalCount=0 → CollectionError", raised is not None, raised or "예외 없음")
+    check("A) 그 결과로 promotion 시도 자체가 없음 → production 10건 유지",
+          tree_sig(tmp) == sig0)
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
+# ── B. 게이트웨이 오류 봉투 3형태 → CollectionError
+ERR_ENVELOPES = [
+    ("OpenAPI_ServiceResponse",
+     {"OpenAPI_ServiceResponse": {"cmmMsgHeader": {
+         "returnReasonCode": "30", "errMsg": "SERVICE ERROR"}}}),
+    ("top-level cmmMsgHeader",
+     {"cmmMsgHeader": {"returnReasonCode": "30", "errMsg": "SERVICE ERROR"}}),
+    ("response.header resultCode=22",
+     {"response": {"header": {"resultCode": "22",
+                              "resultMsg": "LIMITED_NUMBER_OF_SERVICE_REQUESTS_EXCEEDS_ERROR"},
+                   "body": {"items": [], "totalCount": 0}}}),
+]
+before = data_fingerprint(os.path.join(ROOT, "data"))
+for label, envelope in ERR_ENVELOPES:
+    collect.fetch_page = lambda k, n, _e=envelope: _e
+    raised = None
+    try:
+        collect.fetch_all("KEY")
+    except collect.CollectionError as e:
+        raised = str(e)
+    check(f"B) 오류 봉투({label}) → CollectionError", raised is not None,
+          raised or "예외 없음")
+check("B) 오류 봉투 처리 중 data/ 무변경",
+      before == data_fingerprint(os.path.join(ROOT, "data")))
+
+# 오류 메시지에 serviceKey가 절대 들어가지 않는다
+collect.fetch_page = lambda k, n: {"response": {"header": {
+    "resultCode": "22", "resultMsg": "QUOTA"}, "body": {"items": [], "totalCount": 0}}}
+msg = ""
+try:
+    collect.fetch_all("SUPER-SECRET-KEY-abc123")
+except collect.CollectionError as e:
+    msg = str(e)
+check("B) 오류 메시지에 serviceKey 미포함", "SUPER-SECRET-KEY" not in msg, msg[:120])
+
+# ── C. header 없는 기존 정상 fixture + 양수 totalCount → 정상 경로 유지
+#    실제 정상 header를 아직 모르므로, header 부재를 실패로 보면 수집이
+#    100% 실패한다. 그 회귀를 여기서 고정한다.
+collect.fetch_page = lambda k, n: make_page([SEOUL_GANGNAM] * 100, 100) if n == 1 else make_page([], 100)
+raised = None
+try:
+    items, calls, total = collect.fetch_all("KEY")
+except Exception as e:
+    raised = f"{type(e).__name__}: {e}"
+check("C) header 없는 정상 응답 + 양수 totalCount → 통과", raised is None, raised or "")
+check("C) 전량 수집", raised is None and len(items) == 100 and total == 100)
+
+# 성공 sentinel이 명시된 header도 통과
+collect.fetch_page = lambda k, n: (
+    {"response": {"header": {"resultCode": "00", "resultMsg": "NORMAL SERVICE."},
+                  "body": {"items": [SEOUL_GANGNAM], "totalCount": 1}}}
+    if n == 1 else make_page([], 1))
+raised = None
+try:
+    collect.fetch_all("KEY")
+except Exception as e:
+    raised = f"{type(e).__name__}: {e}"
+check("C) resultCode=00 정상 header → 통과", raised is None, raised or "")
+
+# 판정 불가한 미지의 코드는 막지 않는다 (근거 없는 hardcode 금지 원칙)
+collect.fetch_page = lambda k, n: (
+    {"response": {"header": {"resultCode": "NORMAL_SERVICE", "resultMsg": "OK"},
+                  "body": {"items": [SEOUL_GANGNAM], "totalCount": 1}}}
+    if n == 1 else make_page([], 1))
+raised = None
+try:
+    collect.fetch_all("KEY")
+except Exception as e:
+    raised = f"{type(e).__name__}: {e}"
+check("C) 판정 불가 resultCode는 차단하지 않음 (경고만)", raised is None, raised or "")
+
+# ── D. production > 0 / candidate == 0 → G.total_wipe → promotion 0
+#    2026-09-04에 실증한 전멸 시나리오와 동일한 fixture다.
+tmp = tempfile.mkdtemp()
+try:
+    make_prod(tmp, n=10)
+    sig0 = tree_sig(tmp)
+    raised = None
+    try:
+        collect.classify_and_save([], "2026-09-04", complete=True, data_dir=tmp,
+                                  expected_total=0)
+    except collect.CollectionError as e:
+        raised = str(e)
+    check("D) production 10건 + candidate 0건 → CollectionError", raised is not None,
+          raised or "예외 없음")
+    check("D) 실패 사유가 G.total_wipe", "G.total_wipe" in (raised or ""), raised or "")
+    check("D) promotion 0 — production 원본 그대로", tree_sig(tmp) == sig0)
+    gn = json.load(open(os.path.join(tmp, "seoul", "gangnam.json"), encoding="utf-8"))
+    check("D) production 매장 10건 유지", gn["totalCount"] == 10 and len(gn["stores"]) == 10,
+          f"totalCount={gn['totalCount']} stores={len(gn['stores'])}")
+    check("D) backup/candidate 잔여물 없음",
+          not any(os.path.exists(p) for p in collect.promotion_paths(tmp)))
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
+# diff_trees가 store 총계를 실제로 돌려주는지 (G 판정의 입력)
+tmp = tempfile.mkdtemp()
+try:
+    make_prod(tmp, n=7)
+    plan = collect.integrity.diff_trees(tmp, tmp)
+    check("D) diff_trees가 prod_stores/cand_stores 반환",
+          plan.get("prod_stores") == 7 and plan.get("cand_stores") == 7,
+          f"prod={plan.get('prod_stores')} cand={plan.get('cand_stores')}")
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
+# ── F. bootstrap: production 부재/0건 → total-wipe guard 오발화 0
+tmp = tempfile.mkdtemp()
+try:
+    empty = os.path.join(tmp, "data")   # 아직 존재하지 않는 production
+    total = collect.classify_and_save(GOOD, "2026-09-04", complete=True,
+                                      data_dir=empty, expected_total=1)
+    check("F) production 부재 bootstrap → promotion 성공", total == 1, f"total={total}")
+    check("F) 최초 트리 생성됨",
+          os.path.exists(os.path.join(empty, "seoul", "gangnam.json")))
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+    for p in collect.promotion_paths(os.path.join(tmp, "data")):
+        shutil.rmtree(p, ignore_errors=True)
+
+tmp = tempfile.mkdtemp()
+try:
+    data = os.path.join(tmp, "data")
+    os.makedirs(data)
+    total = collect.classify_and_save(GOOD, "2026-09-04", complete=True,
+                                      data_dir=data, expected_total=1)
+    check("F) 빈 production(0건) bootstrap → promotion 성공", total == 1, f"total={total}")
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+    for p in collect.promotion_paths(os.path.join(tmp, "data")):
+        shutil.rmtree(p, ignore_errors=True)
+
+# ── G. D 게이트 직접 주입 — 정상 경로에서 안 쓰인다고 죽은 게 아님을 증명
+_rep = collect.integrity.IntegrityReport("D-direct")
+collect.integrity.check_schema_drift(
+    {"unknown_provinces": {"화성특별시": 3}, "unknown_districts": {}}, _rep)
+check("G) D.unknown_province 직접 주입 시 실제 fail",
+      not _rep.ok and any(c == "D.unknown_province" for c, _ in _rep.failures),
+      _rep.summary())
+_rep = collect.integrity.IntegrityReport("D-direct")
+collect.integrity.check_schema_drift(
+    {"unknown_provinces": {}, "unknown_districts": {("서울특별시", "없는구"): 1}}, _rep)
+check("G) D.unknown_district 직접 주입 시 실제 fail",
+      not _rep.ok and any(c == "D.unknown_district" for c, _ in _rep.failures),
+      _rep.summary())
+_rep = collect.integrity.IntegrityReport("D-direct")
+collect.integrity.check_schema_drift({"unknown_provinces": {}, "unknown_districts": {}}, _rep)
+check("G) unknown 0이면 D 통과", _rep.ok, _rep.summary())
+
+
+# ── E. 게이트 실패가 실제 process exit non-zero 로 전파되는가
+#    main()의 except CollectionError -> sys.exit(1) 경로를 자식에서 실행한다.
+#    main()은 data_dir을 하드코딩하므로 classify_and_save를 임시 디렉터리로
+#    감싸 실제 저장소 data/ 를 절대 건드리지 않게 한다.
+_EXIT_CHILD = r"""
+import importlib.util, os, sys
+ROOT, scenario, data_dir = sys.argv[1], sys.argv[2], sys.argv[3]
+spec = importlib.util.spec_from_file_location("collect", os.path.join(ROOT, "scripts", "collect.py"))
+c = importlib.util.module_from_spec(spec); spec.loader.exec_module(c)
+
+item = {"BPLC_NM": "정상마트", "ROAD_NM_ADDR": "서울특별시 강남구 테헤란로 9",
+        "LOTNO_ADDR": "서울특별시 강남구 역삼동 9", "SALS_STTS_CD": "01",
+        "SALS_STTS_NM": "영업/정상", "APLY_YMD": "2026-01-01"}
+
+c.recover_promotion_state = lambda d: "A.normal"
+_real = c.classify_and_save
+c.classify_and_save = (lambda items, updated_at, **kw:
+                       _real(items, updated_at, complete=kw.get("complete", False),
+                             data_dir=data_dir, expected_total=kw.get("expected_total")))
+
+if scenario == "empty_total":
+    c.fetch_page = lambda k, n: {"response": {"body": {"items": [], "totalCount": 0}}}
+elif scenario == "error_envelope":
+    c.fetch_page = lambda k, n: {"OpenAPI_ServiceResponse": {"cmmMsgHeader": {
+        "returnReasonCode": "30", "errMsg": "SERVICE KEY IS NOT REGISTERED ERROR"}}}
+elif scenario == "gate_wipe":
+    # fetch는 통과시키고 게이트에서 막히게 한다: candidate 0건 vs production >0
+    c.fetch_page = lambda k, n: {"response": {"body": {"items": [item], "totalCount": 1}}}
+    c.build_candidate = (lambda items, updated_at, workspace, _b=c.build_candidate:
+                         _b([], updated_at, workspace))
+sys.argv = ["collect.py", "--key", "TEST"]
+c.main()
+"""
+
+
+def run_main(scenario, data_dir):
+    child = os.path.join(tempfile.mkdtemp(), "exit_child.py")
+    open(child, "w", encoding="utf-8").write(_EXIT_CHILD)
+    r = subprocess.run([sys.executable, child, ROOT, scenario, data_dir],
+                       capture_output=True)
+    shutil.rmtree(os.path.dirname(child), ignore_errors=True)
+    return r.returncode
+
+
+for _scenario, _label in [("empty_total", "totalCount=0"),
+                          ("error_envelope", "오류 봉투"),
+                          ("gate_wipe", "G.total_wipe")]:
+    tmp = tempfile.mkdtemp()
+    try:
+        data = os.path.join(tmp, "data")
+        make_prod(data, n=10)
+        sig0 = tree_sig(data)
+        rc = run_main(_scenario, data)
+        check(f"E) {_label} → process exit non-zero", rc != 0, f"returncode={rc}")
+        check(f"E) {_label} → production 10건 유지", tree_sig(data) == sig0)
+    finally:
+        shutil.rmtree(tmp, ignore_errors=True)
+        for p in collect.promotion_paths(os.path.join(tmp, "data")):
+            shutil.rmtree(p, ignore_errors=True)
+
+
+# ── H. state E: build_candidate 진행 중 hard exit → candidate 고아만 남음
+_BUILD_CRASH_CHILD = r"""
+import importlib.util, os, sys
+ROOT, data_dir = sys.argv[1], sys.argv[2]
+spec = importlib.util.spec_from_file_location("collect", os.path.join(ROOT, "scripts", "collect.py"))
+c = importlib.util.module_from_spec(spec); spec.loader.exec_module(c)
+c.load_district_slugs(); c.load_legacy_districts()
+candidate, backup = c.promotion_paths(data_dir)
+item = {"BPLC_NM": "새마트", "ROAD_NM_ADDR": "서울특별시 강남구 테헤란로 9",
+        "LOTNO_ADDR": "서울특별시 강남구 역삼동 9", "SALS_STTS_CD": "01",
+        "SALS_STTS_NM": "영업/정상", "APLY_YMD": "2026-01-01"}
+# workspace에 파일이 만들어지기 시작한 뒤 강제 종료한다 (Python 예외 아님).
+_real_verify = c.verify_store_location
+def boom(*a, **k):
+    os._exit(9)
+c.verify_store_location = boom
+c.build_candidate([item], "2026-09-09", candidate)
+os._exit(0)
+"""
+
+
+def run_build_crash(data_dir):
+    child = os.path.join(tempfile.mkdtemp(), "build_crash_child.py")
+    open(child, "w", encoding="utf-8").write(_BUILD_CRASH_CHILD)
+    r = subprocess.run([sys.executable, child, ROOT, data_dir], capture_output=True)
+    shutil.rmtree(os.path.dirname(child), ignore_errors=True)
+    return r.returncode
+
+
+base = tempfile.mkdtemp()
+try:
+    data = os.path.join(base, "data")
+    make_prod(data, n=3)
+    orig = tree_sig(data)
+    cand, backup = collect.promotion_paths(data)
+    rc = run_build_crash(data)
+    check("H) build_candidate 중 강제 종료됨 (Python 예외 아님)", rc != 0, f"returncode={rc}")
+    check("H) production 무접촉", os.path.isdir(data) and tree_sig(data) == orig)
+    check("H) candidate 고아가 남음", os.path.isdir(cand))
+    check("H) backup은 생기지 않음", not os.path.isdir(backup))
+    state = collect.recover_promotion_state(data)
+    check("H) 다음 startup이 state E로 정리", state == "E.candidate_cleaned", state)
+    check("H) candidate 제거됨", not os.path.isdir(cand))
+    check("H) production 여전히 원본", tree_sig(data) == orig)
     cleanup_promo(data)
 finally:
     shutil.rmtree(base, ignore_errors=True)
