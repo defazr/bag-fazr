@@ -16,6 +16,7 @@ import importlib.util
 import json
 import os
 import re
+import atexit
 import shutil
 import subprocess
 import sys
@@ -32,6 +33,43 @@ collect.load_district_slugs()
 collect.load_legacy_districts()
 
 PASS, FAIL = [], []
+
+# ── 요약/exit 게이트 무력화 방지 (런타임 계측)
+#
+# 파일 하단의 리터럴 "check(" 스캔만으로는 부족하다. 실측으로 확인된 우회 3형태
+#   chk = check ; chk(...)      /  check (...)      /  globals()["check"](...)
+# 는 전부 통과하고, 요약 블록 '앞'에 sys.exit(0) 이 들어가면 요약도 스캔도 아예
+# 실행되지 않아 exit 0 으로 끝난다.
+#
+# 실행된 check() 횟수를 요약 시점과 프로세스 종료 시점에 비교하면 호출 형태와
+# 무관하게 잡힌다. 문자열이 아니라 실제 실행을 세기 때문이다.
+_gate = {"summary_count": None}
+
+
+def _gate_verdict(executed, summary_count):
+    """None 이면 정상. 문자열이면 게이트 무력화 사유."""
+    if summary_count is None:
+        return f"요약 블록이 실행되지 않았다 (검사 {executed}건이 exit 판정에 미반영)"
+    if executed != summary_count:
+        return f"요약 이후에 검사 {executed - summary_count}건이 실행됐다"
+    return None
+
+
+def _final_gate():
+    verdict = _gate_verdict(len(PASS) + len(FAIL), _gate["summary_count"])
+    if verdict:
+        sys.stdout.write("\n" + "=" * 60 + f"\nGATE FAIL: {verdict}.\n"
+                         "        새 검사는 요약 블록 '앞'에 넣어라.\n")
+        sys.stdout.flush()
+        os._exit(1)
+
+
+atexit.register(_final_gate)
+
+if os.environ.get("TEST_COLLECT_SELFTEST") == "early_exit":
+    # 게이트 자체의 종단 검증용. 요약 블록 앞에서 성공 코드로 빠져나가는 상황을
+    # 실제로 재현한다. atexit 게이트가 이것을 exit 1 로 뒤집어야 한다.
+    sys.exit(0)
 
 
 def check(name, cond, detail=""):
@@ -617,6 +655,50 @@ GOOD3 = [
     item("정상마트3", "서울특별시 강남구 테헤란로 11", "서울특별시 강남구 역삼동 11"),
 ]
 
+
+def make_prod_multi(root, counts, region="seoul", region_name="서울특별시"):
+    """다중 district production 트리. counts = {slug: (district명, n)}.
+
+    단일 district fixture 로는 "candidate 파일 하나 누락" 을 시험할 수 없다.
+    유일한 파일을 지우면 candidate 가 0건이 되어 G.total_wipe 가 대신 막아버리고,
+    F.missing_file 탐지가 통째로 죽어도 테스트가 통과한다. 큰 district 하나와
+    아주 작은 district 하나를 두면, 작은 쪽을 지워도 전국·시도·구군 게이트가
+    전부 임계값 미달이라 F 계열만 발화한다.
+    """
+    os.makedirs(os.path.join(root, region), exist_ok=True)
+    entries = []
+    total = 0
+    for slug, (district, n) in counts.items():
+        stores = [{"name": f"기존{slug}{i}",
+                   "address": f"{region_name} {district} 역삼동 {i}",
+                   "roadAddress": f"{region_name} {district} 테헤란로 {i}",
+                   "status": "영업/정상", "licenseDate": "2020-01-01"} for i in range(n)]
+        json.dump({"region": region_name, "regionSlug": region, "district": district,
+                   "districtSlug": slug, "updatedAt": "2026-03-27",
+                   "totalCount": n, "stores": stores},
+                  open(os.path.join(root, region, f"{slug}.json"), "w", encoding="utf-8"),
+                  ensure_ascii=False)
+        entries.append({"district": district, "districtSlug": slug, "count": n})
+        total += n
+    json.dump({"region": region_name, "regionSlug": region, "updatedAt": "2026-03-27",
+               "totalCount": total, "districts": entries},
+              open(os.path.join(root, region, "index.json"), "w", encoding="utf-8"),
+              ensure_ascii=False)
+    json.dump({"updatedAt": "2026-03-27", "totalCount": total,
+               "regions": [{"region": region_name, "regionSlug": region, "count": total}]},
+              open(os.path.join(root, "regions.json"), "w", encoding="utf-8"),
+              ensure_ascii=False)
+    return total
+
+
+# 강남 199 + 서초 1 = 200. 서초 파일 하나를 지우면 candidate 199 (-0.5%) 라
+# 전국(>=25%)·시도(>=30건)·구군(>=100건 / 전멸은 prod>=20) 어디에도 걸리지 않는다.
+BIG200 = (
+    [item(f"강남마트{i}", f"서울특별시 강남구 테헤란로 {i}",
+          f"서울특별시 강남구 역삼동 {i}") for i in range(199)]
+    + [item("서초마트", "서울특별시 서초구 서초대로 1", "서울특별시 서초구 서초동 1")]
+)
+
 # ── 1. integrity failure 1건 → promotion 0, production 보존, exit 1 경로
 tmp = tempfile.mkdtemp()
 try:
@@ -635,14 +717,33 @@ try:
     collect.promote_candidate = lambda *a, **k: promoted.__setitem__("called", True)
     raised = None
     try:
-        collect.classify_and_save(GOOD, "2026-09-03", complete=True, data_dir=tmp)
+        # GOOD3(3건). GOOD(1건)을 쓰면 prod 3 -> cand 1 = -66.7% 라 G.national_drop 이
+        # 대신 막아버려서, 주입한 TEST.injected 가 없어도 이 테스트가 통과한다.
+        # 그러면 "임의의 미지 실패 코드가 promotion 을 차단한다"는 것을 증명하지 못한다.
+        collect.classify_and_save(GOOD3, "2026-09-03", complete=True, data_dir=tmp)
     except collect.CollectionError as e:
         raised = str(e)
     collect.integrity.validate_candidate = orig
     collect.promote_candidate = orig_promote
     check("1) integrity failure → CollectionError", raised is not None, raised or "예외 없음")
+    # 주입한 코드가 실제 차단 사유여야 한다. 다른 게이트가 대신 막은 것이면 무의미하다.
+    check("1) 차단 사유가 주입한 TEST.injected", "TEST.injected" in (raised or ""), raised or "예외 없음")
+    check("1) 다른 게이트가 대신 막지 않았다 (G 미발화)", "G." not in (raised or ""), raised or "")
     check("1) promote_candidate 호출 0", not promoted["called"])
     check("1) production 트리 보존", tree_sig(tmp) == sig0)
+
+    # mutation 검증: 주입을 제거하면 같은 fixture 가 promotion 까지 간다.
+    # 이것이 성립해야 위 3개 단언이 "주입 때문에" 막혔음을 증명한다.
+    promoted2 = {"called": False}
+    collect.promote_candidate = lambda *a, **k: promoted2.__setitem__("called", True)
+    raised2 = None
+    try:
+        collect.classify_and_save(GOOD3, "2026-09-03", complete=True, data_dir=tmp)
+    except collect.CollectionError as e:
+        raised2 = str(e)
+    collect.promote_candidate = orig_promote
+    check("1-mut) 주입 제거 시 게이트 통과 (masking 아님 증명)",
+          raised2 is None and promoted2["called"], raised2 or "promote 미호출")
 finally:
     shutil.rmtree(tmp, ignore_errors=True)
 
@@ -673,24 +774,45 @@ finally:
     shutil.rmtree(tmp, ignore_errors=True)
 
 # ── 3. candidate district 파일 누락 → promotion 0
+#
+# fixture 설계 근거: 단일 district(강남 3건) + GOOD 로 하면 파일을 지운 candidate 가
+# 0건이 되어 G.total_wipe 가 발화한다. 그러면 F.missing_file 계열 탐지가 통째로
+# 죽어도 이 테스트는 PASS 한다. 200건 중 1건짜리 구군만 지우면 급감 가드가 전부
+# 임계값 미달이라 F 계열만 남는다. 게이트를 약화하지 않고 fixture 를 맞춘 것이다.
 tmp = tempfile.mkdtemp()
 try:
-    make_prod(tmp, n=3); sig0 = tree_sig(tmp)
+    make_prod_multi(tmp, {"gangnam": ("강남구", 199), "seocho": ("서초구", 1)})
+    sig0 = tree_sig(tmp)
 
     def drop_file(items, updated_at, workspace):
         st = orig_build(items, updated_at, workspace)
-        os.remove(os.path.join(workspace, "seoul", "gangnam.json"))
+        os.remove(os.path.join(workspace, "seoul", "seocho.json"))
         return st
 
     collect.build_candidate = drop_file
     raised = None
     try:
-        collect.classify_and_save(GOOD, "2026-09-03", complete=True, data_dir=tmp)
+        collect.classify_and_save(BIG200, "2026-09-03", complete=True, data_dir=tmp)
     except collect.CollectionError as e:
         raised = str(e)
     collect.build_candidate = orig_build
     check("3) candidate 파일 누락 → FAIL", raised is not None, raised or "예외 없음")
+    check("3) 차단 사유가 F.missing_file", "F.missing_file" in (raised or ""), raised or "")
+    check("3) 급감 가드가 대신 막지 않았다 (G 미발화)", "G." not in (raised or ""), raised or "")
     check("3) production 보존", tree_sig(tmp) == sig0)
+
+    # mutation 검증: 파일을 지우지 않으면 같은 fixture 가 promotion 까지 간다.
+    promoted3 = {"called": False}
+    orig_promote3 = collect.promote_candidate
+    collect.promote_candidate = lambda *a, **k: promoted3.__setitem__("called", True)
+    raised3 = None
+    try:
+        collect.classify_and_save(BIG200, "2026-09-03", complete=True, data_dir=tmp)
+    except collect.CollectionError as e:
+        raised3 = str(e)
+    collect.promote_candidate = orig_promote3
+    check("3-mut) 변이 제거 시 게이트 통과 (masking 아님 증명)",
+          raised3 is None and promoted3["called"], raised3 or "promote 미호출")
 finally:
     shutil.rmtree(tmp, ignore_errors=True)
 
@@ -806,7 +928,13 @@ tmp = tempfile.mkdtemp()
 try:
     # rollback/promotion mechanics fixture; not intended to exercise
     # catastrophic-drop guard. production 3건(busan) -> candidate 3건(seoul)
-    # 이라 전국 감소 0%. GOOD(1건)이면 5 -> 1 = -80% 로 정당하게 막힌다.
+    # 이라 전국 감소 0%. GOOD(1건)이면 3 -> 1 = -66.7% 로 정당하게 막힌다.
+    #
+    # 시도·구군 층이 조용한 이유도 함께 적는다. 이 fixture 는 busan 시도와
+    # bsjunggu 구군이 통째로 사라지지만, 손실 3건은 R1(시도 >=30건)·
+    # D1(구군 >=100건)·D2(구군 전멸은 production >=20건)·AGG(material 은
+    # >=20건) 어디에도 미달이라 정상적으로 미발화한다. 즉 이 침묵은 게이트
+    # 결함이 아니라 임계값 설계의 결과다. 임계값 경계 자체는 S1~S24 가 본다.
     make_prod(tmp, region="busan", slug="bsjunggu", district="중구",
               region_name="부산광역시", n=3)
     stale = os.path.join(tmp, "busan", "bsjunggu.json")
@@ -823,8 +951,315 @@ finally:
     shutil.rmtree(tmp, ignore_errors=True)
 
 # ── 9. validator FAIL인데 exit 0이 되지 않음 (회귀 방지)
-check("9) 게이트 실패는 CollectionError로만 표현된다 (silent pass 없음)",
-      issubclass(collect.CollectionError, Exception))
+#
+# 여기 있던 `issubclass(collect.CollectionError, Exception)` 단언을 제거했다.
+# CollectionError 는 `class CollectionError(RuntimeError)` 이므로 그 조건은 클래스
+# 정의만으로 항상 참이었다. 모든 게이트가 조용히 통과하도록 바뀌어도 PASS 였다.
+#
+# 이 항목이 보증하려던 것(게이트 실패가 silent success 가 되지 않고 process exit
+# non-zero 로 전파된다)은 아래 [P3-13 exit] 섹션의 자식 프로세스 테스트가 실제
+# 행위로 단언한다: totalCount=0 / API 오류 봉투 / G.total_wipe 3시나리오에서
+# returncode != 0 과 production 무변경을 확인한다. 중복 단언을 억지로 만들지 않는다.
+
+# ============================================================ F 개별 코드
+# F.* 는 12개 실패 코드를 갖는데, 감사 시점에 이름이 고정된 것은 0개였다.
+# 유일한 F 계열 단언이 접두사 검사(`"F." in raised`) 하나뿐이어서, 예컨대
+# F.missing_file 탐지가 죽고 F.index_selfsum 만 살아 있어도 통과했다.
+#
+# 여기서는 합성 트리를 check_tree_counts 에 직접 넣어 **정확한 코드 집합**을
+# 단언한다. read_tree 가 돌려주는 구조를 그대로 만들므로 report.fail 배선을
+# 실제로 통과한다. validate_candidate → check_tree_counts 배선은 [P3-13] 2·3 이
+# e2e 로 이미 덮는다.
+#
+# 코드 선정: production 에서 실제로 발생 가능한 경로와 root cause 가 서로 다른
+# 것만 개별 고정한다. F.index_vs_files / F.regions_vs_index 는 다른 변이에서
+# 파생적으로 함께 발화하므로 exact-set 단언이 자동으로 덮는다.
+# ============================================================
+print("\n[F] 개별 failure code 고정")
+
+
+def ftree(districts, index_entries=None, index_total=None,
+          regions_total=None, regions_count=None, regions_json="ok",
+          index="ok", unreadable=()):
+    """read_tree 반환 구조를 합성한다. districts = {slug: district json dict}.
+
+    regions.json 은 기본값으로 **실제 파일 합** 을 쓴다. 따라서 index 가 파일과
+    어긋나는 케이스에서 regions.json 은 파일과 일치하고 F.regions_vs_index 는
+    발화하지 않는다. 최상위 집계 불일치는 regions_count / regions_total 인자로
+    따로 주입해 독립적으로 시험한다.
+    """
+    if index_entries is None:
+        index_entries = [{"district": f"{k}구", "districtSlug": k,
+                          "count": len(v.get("stores") or [])}
+                         for k, v in districts.items()]
+    if index_total is None:
+        index_total = sum(e.get("count", 0) for e in index_entries)
+    file_sum = sum(len(v.get("stores") or []) for v in districts.values()
+                   if isinstance(v.get("stores"), list))
+    idx = None if index is None else {
+        "region": "서울특별시", "regionSlug": "seoul",
+        "totalCount": index_total, "districts": index_entries,
+    }
+    rj = None if regions_json is None else {
+        "updatedAt": "2026-09-04",
+        "totalCount": file_sum if regions_total is None else regions_total,
+        "regions": [{"region": "서울특별시", "regionSlug": "seoul",
+                     "count": file_sum if regions_count is None else regions_count}],
+    }
+    return {"root": "<synthetic>", "regions_json": rj,
+            "regions": {"seoul": {"index": idx, "districts": districts}},
+            "unreadable": list(unreadable), "files": {}}
+
+
+def dfile(n, total=None, stores="list"):
+    st = [{"name": f"s{i}"} for i in range(n)]
+    if stores != "list":
+        st = stores
+    return {"region": "서울특별시", "regionSlug": "seoul", "district": "강남구",
+            "districtSlug": "gangnam", "updatedAt": "2026-09-04",
+            "totalCount": n if total is None else total, "stores": st}
+
+
+def fcodes(tree):
+    rep = collect.integrity.IntegrityReport("f-test")
+    collect.integrity.check_tree_counts(tree, rep)
+    return {c for c, _ in rep.failures}
+
+
+def fcase(label, tree, expected):
+    got = fcodes(tree)
+    check(f"F-code) {label}", got == set(expected), f"기대={sorted(expected)} 실제={sorted(got)}")
+
+
+# negative 대조군 — 정합한 트리는 F 실패 0
+fcase("정합 트리는 실패 0 (negative 대조군)", ftree({"gangnam": dfile(5)}), [])
+
+# 자기정합
+fcase("파일 totalCount != stores 길이 → F.file_selfcount",
+      ftree({"gangnam": dfile(5, total=7)}), ["F.file_selfcount"])
+fcase("index totalCount != 항목합 → F.index_selfsum",
+      ftree({"gangnam": dfile(5)}, index_total=9), ["F.index_selfsum"])
+
+# 교차정합
+fcase("index count != 파일 stores → F.index_vs_file",
+      ftree({"gangnam": dfile(5)},
+            index_entries=[{"district": "강남구", "districtSlug": "gangnam", "count": 8}]),
+      ["F.index_vs_file", "F.index_vs_files"])
+fcase("index 에 없는 파일 → F.orphan_file",
+      ftree({"gangnam": dfile(5)}, index_entries=[]),
+      ["F.orphan_file", "F.index_vs_files"])
+fcase("index count>0 인데 파일 없음 → F.missing_file",
+      ftree({}, index_entries=[{"district": "서초구", "districtSlug": "seocho", "count": 3}]),
+      ["F.missing_file", "F.index_vs_files"])
+
+# 스키마 / 읽기
+fcase("stores 가 배열이 아님 → F.schema",
+      ftree({"gangnam": dfile(0, total=0, stores={"not": "a list"})},
+            index_entries=[{"district": "강남구", "districtSlug": "gangnam", "count": 0}]),
+      ["F.schema"])
+fcase("index.json 읽기 실패 → F.index_missing",
+      ftree({"gangnam": dfile(5)}, index=None),
+      ["F.index_missing", "F.regions_total"])
+fcase("regions.json 없음 → F.regions_json",
+      ftree({"gangnam": dfile(5)}, regions_json=None), ["F.regions_json"])
+fcase("JSON 파손 → F.unreadable",
+      ftree({"gangnam": dfile(5)}, unreadable=["seoul/x.json: bad json"]),
+      ["F.unreadable"])
+
+# 최상위 집계
+fcase("regions.json count != 실제 → F.regions_vs_index",
+      ftree({"gangnam": dfile(5)}, regions_count=99),
+      ["F.regions_vs_index"])
+fcase("regions.json totalCount != 파일 합 → F.regions_total",
+      ftree({"gangnam": dfile(5)}, regions_total=99), ["F.regions_total"])
+
+# F.tree_vs_stats 는 check_tree_counts 가 아니라 validate_candidate 가 낸다.
+# 트리 실측과 회계상 최종을 어긋나게 해서 직접 발화시킨다.
+tmp = tempfile.mkdtemp()
+try:
+    make_prod(tmp, n=3); sig0 = tree_sig(tmp)
+
+    def inflate_final(items, updated_at, workspace):
+        st = orig_build(items, updated_at, workspace)
+        # 회계만 부풀린다. B 는 stage3/closure 가 함께 깨지므로 그것도 함께 나온다.
+        st["final"] = st["final"] + 1
+        return st
+
+    collect.build_candidate = inflate_final
+    raised = None
+    try:
+        collect.classify_and_save(GOOD3, "2026-09-03", complete=True, data_dir=tmp)
+    except collect.CollectionError as e:
+        raised = str(e)
+    collect.build_candidate = orig_build
+    check("F-code) 트리 실측 != 회계 최종 → F.tree_vs_stats",
+          "F.tree_vs_stats" in (raised or ""), raised or "예외 없음")
+    check("F-code) production 보존", tree_sig(tmp) == sig0)
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
+
+# ============================================================ A/C/E positive
+# 게이트 A · C · E 의 "발화 배선" 직접 검증
+#
+# 감사에서 확인된 구멍: A.api_completeness / C.no_names / C.location_mismatch /
+# E.count_vs_records 는 테스트 파일 전체에서 코드명 출현이 0회였다. 함수 단위
+# 테스트(verify_store_location)는 있었으나, 그 결과가 report.fail 로 실려
+# promotion 을 막는 배선은 어떤 테스트도 통과시키지 않았다. 즉 이 게이트들이
+# 통째로 죽어도 스위트는 초록색이었다.
+#
+# D 게이트는 같은 상황(정상 경로에서 항상 empty)인데도 직접 주입 positive 2개 +
+# negative 1개를 갖고 있다. 여기서는 그 방식을 A·C·E 에 동일하게 적용한다.
+#
+# 각 fixture 는 대상 코드만 발화하고 다른 게이트가 대신 막지 않음을 함께 단언한다.
+# ============================================================
+print("\n[A/C/E] 게이트 발화 배선 직접 검증")
+
+
+def _codes(raised):
+    """CollectionError 메시지에서 실패 코드 접두 집합을 뽑는다."""
+    return set(re.findall(r"\b([A-Z]+\.[a-z_]+)", raised or ""))
+
+
+# ── A. api_completeness — classify_and_save 의 expected_total 인자로 직접 주입
+tmp = tempfile.mkdtemp()
+try:
+    make_prod(tmp, n=3); sig0 = tree_sig(tmp)
+    raised = None
+    try:
+        # GOOD3 는 raw 3건. expected_total 을 4로 주면 raw != totalCount.
+        collect.classify_and_save(GOOD3, "2026-09-03", complete=True,
+                                  data_dir=tmp, expected_total=4)
+    except collect.CollectionError as e:
+        raised = str(e)
+    check("A+) raw != expected_total → A.api_completeness 발화",
+          "A.api_completeness" in (raised or ""), raised or "예외 없음")
+    check("A+) 다른 게이트가 대신 막지 않았다", _codes(raised) == {"A.api_completeness"},
+          f"발화 코드={sorted(_codes(raised))}")
+    check("A+) production 보존", tree_sig(tmp) == sig0)
+
+    # negative: raw == expected_total 이면 통과해야 한다 (게이트가 항상 발화하는 게 아님)
+    promoted = {"called": False}
+    orig_promote = collect.promote_candidate
+    collect.promote_candidate = lambda *a, **k: promoted.__setitem__("called", True)
+    raised_n = None
+    try:
+        collect.classify_and_save(GOOD3, "2026-09-03", complete=True,
+                                  data_dir=tmp, expected_total=3)
+    except collect.CollectionError as e:
+        raised_n = str(e)
+    collect.promote_candidate = orig_promote
+    check("A-) raw == expected_total 이면 통과", raised_n is None and promoted["called"],
+          raised_n or "promote 미호출")
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
+# ── C.location_mismatch — candidate 트리의 store 주소만 바꾼다 (건수 불변 → F/G 무발화)
+tmp = tempfile.mkdtemp()
+try:
+    make_prod(tmp, n=3); sig0 = tree_sig(tmp)
+
+    def move_store_out_of_bucket(items, updated_at, workspace):
+        st = orig_build(items, updated_at, workspace)
+        fp = os.path.join(workspace, "seoul", "gangnam.json")
+        d = json.load(open(fp, encoding="utf-8"))
+        # 강남구 파일에 저장돼 있는데 주소는 부산. 건수는 그대로라 F·G 는 조용하다.
+        d["stores"][0]["address"] = "부산광역시 중구 남포동 1"
+        d["stores"][0]["roadAddress"] = "부산광역시 중구 구덕로 1"
+        json.dump(d, open(fp, "w", encoding="utf-8"), ensure_ascii=False)
+        return st
+
+    collect.build_candidate = move_store_out_of_bucket
+    raised = None
+    try:
+        collect.classify_and_save(GOOD3, "2026-09-03", complete=True, data_dir=tmp)
+    except collect.CollectionError as e:
+        raised = str(e)
+    collect.build_candidate = orig_build
+    check("C+) 저장 bucket != 주소 유래 지역 → C.location_mismatch 발화",
+          "C.location_mismatch" in (raised or ""), raised or "예외 없음")
+    check("C+) 다른 게이트가 대신 막지 않았다", _codes(raised) == {"C.location_mismatch"},
+          f"발화 코드={sorted(_codes(raised))}")
+    check("C+) production 보존", tree_sig(tmp) == sig0)
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
+# ── C.no_names — 지역명을 알 수 없는 트리
+tmp = tempfile.mkdtemp()
+try:
+    make_prod(tmp, n=3); sig0 = tree_sig(tmp)
+
+    def strip_names(items, updated_at, workspace):
+        st = orig_build(items, updated_at, workspace)
+        ip = os.path.join(workspace, "seoul", "index.json")
+        d = json.load(open(ip, encoding="utf-8"))
+        d.pop("region", None)                       # region_name 소실
+        for e in d["districts"]:
+            e.pop("district", None)                 # entries fallback 도 소실
+        json.dump(d, open(ip, "w", encoding="utf-8"), ensure_ascii=False)
+        fp = os.path.join(workspace, "seoul", "gangnam.json")
+        f = json.load(open(fp, encoding="utf-8"))
+        f.pop("district", None)                     # district_name 소실
+        json.dump(f, open(fp, "w", encoding="utf-8"), ensure_ascii=False)
+        return st
+
+    collect.build_candidate = strip_names
+    raised = None
+    try:
+        collect.classify_and_save(GOOD3, "2026-09-03", complete=True, data_dir=tmp)
+    except collect.CollectionError as e:
+        raised = str(e)
+    collect.build_candidate = orig_build
+    check("C+) 지역명 소실 → C.no_names 발화", "C.no_names" in (raised or ""),
+          raised or "예외 없음")
+    check("C+) no_names 는 급감 가드와 무관하게 발화", "G." not in (raised or ""), raised or "")
+    check("C+) production 보존", tree_sig(tmp) == sig0)
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
+# ── E.count_vs_records — 집계와 격리 기록 수를 어긋나게 한다
+#    contradictions(선언값)를 바꾸면 B.stage3·B.closure 가 함께 터져 E 를 가린다.
+#    반대로 contradiction_records(목록)만 늘리면 B 는 선언값만 보므로 조용하고,
+#    E 만 발화한다. 이것이 E 를 고립시키는 유일한 방향이다.
+tmp = tempfile.mkdtemp()
+try:
+    make_prod(tmp, n=3); sig0 = tree_sig(tmp)
+
+    def phantom_record(items, updated_at, workspace):
+        st = orig_build(items, updated_at, workspace)
+        st["contradiction_records"] = list(st["contradiction_records"]) + [
+            {"name": "유령기록", "reason": "테스트 주입"}
+        ]
+        return st
+
+    collect.build_candidate = phantom_record
+    raised = None
+    try:
+        collect.classify_and_save(GOOD3, "2026-09-03", complete=True, data_dir=tmp)
+    except collect.CollectionError as e:
+        raised = str(e)
+    collect.build_candidate = orig_build
+    check("E+) 집계 != 격리 기록 수 → E.count_vs_records 발화",
+          "E.count_vs_records" in (raised or ""), raised or "예외 없음")
+    check("E+) 다른 게이트가 대신 막지 않았다", _codes(raised) == {"E.count_vs_records"},
+          f"발화 코드={sorted(_codes(raised))}")
+    check("E+) production 보존", tree_sig(tmp) == sig0)
+
+    # negative: 집계와 기록이 일치하면 통과
+    promoted = {"called": False}
+    orig_promote = collect.promote_candidate
+    collect.promote_candidate = lambda *a, **k: promoted.__setitem__("called", True)
+    raised_n = None
+    try:
+        collect.classify_and_save(GOOD3, "2026-09-03", complete=True, data_dir=tmp)
+    except collect.CollectionError as e:
+        raised_n = str(e)
+    collect.promote_candidate = orig_promote
+    check("E-) 집계 == 기록 수 이면 통과", raised_n is None and promoted["called"],
+          raised_n or "promote 미호출")
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
 
 # ============================================================ P3-13 recovery
 # startup recovery state machine — 실제 프로세스 사망 후 복구
@@ -1595,12 +2030,15 @@ def mass(n, loss, prod):
     out = [(f"m{i}/d", prod, prod - loss) for i in range(n)]
     out.append(("pad/d", 400000, 400000))       # 전국·시도 게이트 회피용 패딩
     return out
+# mass() 가 이미 pad 를 붙인다. 예전에는 여기서 한 번 더 append 해서 같은 키가
+# 두 번 들어갔고, dict comprehension 인 prod_districts 는 400,000 으로 합쳐지는데
+# 루프 누적인 prod_regions 는 800,000 이 되어 정합하지 않은 트리를 나타냈다.
+# 판정에는 영향이 없었지만(prod·cand 가 같이 두 배라 감소 0) fixture 를 고친다.
+# AGG 임계값 자체는 건드리지 않는다.
 s22 = mass(13, 143, 1589) + [("m13/d", 1556, 1416)]
-s22.append(("pad/d", 400000, 400000))
 scen("S22 material 14개 / 합계 1999", s22, "PASS")
 scen("S23 material 15개 / 합계 1950", mass(15, 130, 1445), ["G.mass_drop"])
 s24 = mass(13, 143, 1589) + [("m13/d", 1567, 1426)]
-s24.append(("pad/d", 400000, 400000))
 scen("S24 material 14개 / 합계 2000", s24, ["G.mass_drop"])
 
 # ── 전국 게이트 경계
@@ -1688,11 +2126,37 @@ check(
     "        새 검사는 요약 블록 '앞'에 넣어라.",
 )
 
+# 위 리터럴 스캔은 1차 방어일 뿐이다. 실제 방어는 런타임 계측(_final_gate)이며,
+# 아래에서 판정 로직과 종단 배선을 각각 검증한다.
+check("SELF) 요약 미실행을 게이트가 잡는다", _gate_verdict(10, None) is not None)
+check("SELF) 요약 이후 추가 검사를 게이트가 잡는다", _gate_verdict(11, 10) is not None)
+check("SELF) 정상 종료는 게이트를 통과한다", _gate_verdict(10, 10) is None)
+
+# 종단 검증: 실제 자식 프로세스에서 요약 앞 sys.exit(0) 을 재현하고, atexit 게이트가
+# exit code 를 1 로 뒤집는지 본다. 리터럴 스캔이 절대 잡지 못하는 경로다.
+_self_child = subprocess.run(
+    [sys.executable, os.path.abspath(__file__)],
+    env={**os.environ, "TEST_COLLECT_SELFTEST": "early_exit"},
+    capture_output=True, text=True,
+)
+_self_ok = _self_child.returncode != 0
+_self_msg = "GATE FAIL" in _self_child.stdout
+check("SELF) 요약 전 sys.exit(0) 이 exit 1 로 뒤집힌다",
+      _self_ok, "" if _self_ok else f"returncode={_self_child.returncode}")
+# detail 은 실패할 때만 넘긴다. check() 는 PASS 에서도 detail 을 출력하므로
+# 자식 stdout 을 그대로 주면 자식의 GATE FAIL 메시지가 부모 출력에 섞여
+# 이후 진단을 오독하게 만든다.
+check("SELF) 그 때 GATE FAIL 사유가 출력된다",
+      _self_msg, "" if _self_msg else _self_child.stdout[-200:])
+
 
 # ---------------------------------------------------------------- 결과
 # 이 블록은 반드시 파일 맨 끝에 있어야 한다. 중간에 있으면 뒤쪽 검사가
 # 실패해도 exit code가 0이 되어 커밋 게이트가 무력해진다.
 print("\n" + "=" * 60)
+# 이 시점의 검사 수를 기록한다. 프로세스 종료 시 _final_gate 가 실제 실행된
+# 검사 수와 비교해, 요약 이후에 실행된 검사가 있으면 exit 1 로 뒤집는다.
+_gate["summary_count"] = len(PASS) + len(FAIL)
 print(f"PASS {len(PASS)} / FAIL {len(FAIL)}")
 if FAIL:
     for f in FAIL:
