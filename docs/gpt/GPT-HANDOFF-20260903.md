@@ -167,23 +167,27 @@ data  backup  candidate  판정
 
 | | |
 |---|---|
-| HEAD | `40a4ee98d755f81b4c448e193a05e1d297b697ea` (`40a4ee9`) |
+| HEAD | `dc22fe2260188ac268a25995db20f36bfe97e7fe` (`dc22fe2`) |
 | origin/main | HEAD 와 일치 |
 | git status | untracked `tsconfig.tsbuildinfo` 만 |
-| 마지막 사이트 배포 | `9d79168` (2026-09-04). 이후 커밋 3개는 전부 `scripts/` 만 건드려 사이트 산출물 무변경 |
+| 마지막 배포 data commit | **`dc22fe2`** (2026-09-04, P19 recollection) |
 | 정적 페이지 | 253 routes (HTML 252 + `sitemap.xml`) |
-| 매장 총계 | **69,265건** / 데이터 파일 221개 (JSON 240개) |
-| data checksum | `c6e2934b7173b8b9` (`find data -type f -name '*.json' \| sort \| xargs shasum -a 256 \| shasum -a 256`) |
+| sitemap | **241 URLs**, 생성 안 된 페이지 0 |
+| 매장 총계 | **69,292건** |
+| 데이터 파일 | JSON **239개** / district data file **220개** / region index 17 |
+| **데이터 수집일** | **2026-09-04** (사용자 노출 **238 페이지**) |
+| data checksum | **`59617a5e2965712e`** |
 | 테스트 | **`PASS 226 / FAIL 0`, process exit code 0** |
 
-**파일 해시 (HEAD `40a4ee9`)**
+**파일 해시** (scripts 는 `40a4ee9` 이후 변경 없음)
 
 ```
 collect.py       cc944e916f8de7e1df6f6c0b501a5f48800dc46cafeb70a94557846d8650d066
 integrity.py     1a850a28a5bc663044d571e816f81f01b0b915561fb169d650575be2dc5de4ae
 test_collect.py  95fc21d3d7b738726a841b06271aedddcf0c1fc99363de5bc1386e87637add61
-data checksum    c6e2934b7173b8b9
+data checksum    59617a5e2965712e   (P19 이전: c6e2934b7173b8b9)
 ```
+
 
 ### Production 완료 항목
 
@@ -199,10 +203,11 @@ data checksum    c6e2934b7173b8b9
 | P19 SAFETY FIX-1 | 빈 응답·오류 봉투 promotion 차단 | `8f2b6ee` |
 | P19 계측 | 구군별 손실 원인 분해 (`district_stats`) | `b10ac51` |
 | P19 급감 가드 | G 확장 — catastrophic-drop guard | `40a4ee9` |
+| **P19 recollection** | **전국 재수집 + promotion 완료 (CLOSED)** | **`dc22fe2`** |
 
 ---
 
-# 2. 커밋 (시간순 17건)
+# 2. 커밋 (시간순 21건)
 
 | # | 커밋 | 시각 | 무엇을 닫았는가 |
 |---|---|---|---|
@@ -224,6 +229,9 @@ data checksum    c6e2934b7173b8b9
 | 16 | `8f2b6ee` | 09-04 12:0x | **P19 SAFETY FIX-1.** `totalCount=0` 을 완결로 인정하지 않고, API 오류 봉투를 차단하고, `G.total_wipe` 로 전면 삭제를 막았다. 실증했던 전멸 경로를 닫는다. §10-1, §10-2 |
 | 17 | `b10ac51` | 09-04 13:4x | 구군별 손실 원인 계측. `district_stats` 5칸을 stats 에 추가. 수집 결과·candidate serialization 변화 0 을 69,265건 실규모로 증명. §10-4 |
 | 18 | `40a4ee9` | 09-04 16:xx | **catastrophic-drop guard.** G 를 실제 차단 게이트로 확장. N1/N2/R1/D1/D2/AGG. §10-5, §10-6 |
+| 19 | `c845430` | 09-04 17:xx | 정본을 `40a4ee9` 기준으로 갱신. `[skip ci]` |
+| 20 | `6432324` | 09-04 17:xx | SAFETY=GO / VALUE=GO / NECESSITY=MEDIUM 판정 기록. `[skip ci]` |
+| 21 | **`dc22fe2`** | **09-04 18:13** | **P19 전국 재수집.** 912 calls / A~G PASS / promotion 성공. 69,265 → 69,292. data-only. §10-10 |
 
 > 커밋 번호 15~18 은 `docs/` 또는 `scripts/` 만 건드렸다. 사이트 산출물(253 pages)은
 > `9d79168` 이후 변하지 않았고 production `data/` 도 무변경이다.
@@ -423,7 +431,7 @@ summary 이후 assertion 0개, `PASS 120 / FAIL 0`, process exit code 0.
 
 - 기존 "영업중" 배지는 **하드코딩**이었다. `store.status`를 읽지 않았다.
   모든 매장에 무조건 초록색 "영업중"이 붙었다.
-- 저장된 69,265건은 **`SALS_STTS_CD == "01"` 필터 결과**다.
+- 저장된 매장(2026-09-04 기준 **69,292건**)은 **`SALS_STTS_CD == "01"` 필터 결과**다.
   이건 수집 시점의 인허가 상태이지 **현재 실세계 영업 여부를 증명하지 않는다.**
 - `licenseDate`는 `APLY_YMD`, 즉 **신청일(application date)**이다.
   **폐업 판단 근거가 아니다.**
@@ -764,18 +772,19 @@ Jeonnam 6,736→6,703 (-0.49%) / Incheon 1,145→1,143 (-0.17%) / Jeonbuk +1.52%
    delta 크기를 모른다. 반영되면 게이트가 발화할 수 있고, 그건 정상 발화다.
 6. **production 의 42건 위치 모순.** 재수집하면 격리되어 사라진다(설명 가능한 감소).
 
-## 10-9. 최종 판정과 다음 단계 (2026-09-04 확정)
+## 10-9. 최종 판정 (2026-09-04 확정)
 
 | | |
 |---|---|
-| **P19 SAFETY** | **GO** (판정일 2026-09-04) |
-| **P19 VALUE** | **GO** (판정일 2026-09-04) |
+| **P19 SAFETY** | **GO** |
+| **P19 VALUE** | **GO** |
 | **NECESSITY** | **MEDIUM** |
-| **P19 recollection** | **APPROVED FOR ONE CONTROLLED RUN** |
+| **P19 PRODUCTION RECOLLECTION** | **COMPLETED** |
+| **P19** | **CLOSED** |
 
-> **다음 세션은 SAFETY 도 VALUE 도 다시 판정하지 않는다. 두 게이트는 닫혔다.**
-> 단, 실제 collector 실행에서 **A–G 중 하나라도 실패하면 promotion 0 으로 STOP** 한다.
-> 그 자리에서 threshold 를 완화하지 않는다.
+실행일 **2026-09-04**, data commit **`dc22fe2260188ac268a25995db20f36bfe97e7fe`**.
+
+> **다음 세션은 SAFETY 도 VALUE 도 다시 판정하지 않고, P19 recollection 을 다시 실행하지 않는다.**
 
 ### SAFETY = GO 근거 (요약)
 
@@ -784,46 +793,25 @@ Jeonnam 6,736→6,703 (-0.49%) / Incheon 1,145→1,143 (-0.17%) / Jeonbuk +1.52%
 - 시도 / 구군 / 전멸 / 분산 손실 각각에 가드 존재 (§10-6)
 - dedupe·contradiction 은 **면제 사유가 아니라 diagnostic only.** S12 로 고정
 - S1–S24 + N2 경계 전부 PASS (`PASS 226 / FAIL 0 / exit 0`)
-- §10-8 의 남은 threshold blind spot 은 **탐지 한계**이지,
-  현재 확인된 silent catastrophic path 가 열린 것이 아니다
+- §10-8 의 남은 threshold blind spot 은 **탐지 한계**이지 열린 silent catastrophic path 가 아니다
 
 ### VALUE = GO 근거
 
-**`+27` 순증 자체는 이유가 아니다.** 그 숫자만 보면 안 해도 되는 작업처럼 보인다.
+**`+27` 순증 자체는 이유가 아니다.** 실제 이동은 **759건 = production 의 약 1.10%** 다
+(감소 38 districts / -366, 증가 52 districts / +393, 동일 139).
 
-| | |
-|---|---|
-| production | 69,265 |
-| candidate | 69,292 |
-| net | **+27 / +0.04%** |
-| 감소 | **38 districts / -366** |
-| 증가 | **52 districts / +393** |
-| 동일 | 139 districts |
-| **gross movement** | **759건 = production 의 약 1.10%** |
+- **노후도**: 직전 수집일 `2026-03-27`, 판정일 기준 **161일**. 사용자에게 직접 노출됐다.
+- **품질**: contradiction **42건** quarantine. 자동 주소 수정이 아니다.
+- **신규 반영**: 증가 393건은 당시 사이트에 없던 매장이다 (Namyangju +95 / Jeonju +36 / Wonju +25 등)
+- 실행 비용 낮음 (912 calls / 약 9분 / 쿼터 9.1%), 실패해도 production 보존
+- **기다릴 구체적 이점이 없었다**
 
-- **노후도**: production 수집일 `2026-03-27`, 판정일 기준 **161일**.
-  사용자에게 **239 페이지**에서 "데이터 수집일: 2026-03-27" 로 직접 노출된다.
-  날짜를 정직하게 보여주기 때문에 오히려 갱신하지 않는 비용이 명확하다.
-- **품질**: contradiction **42건**이 candidate 에서 quarantine 된다.
-  자동 주소 수정이 아니라 격리다.
-- **신규 반영**: 증가 393건은 현재 사이트에 없는 매장이다.
-  Namyangju +95 / Jeonju +36 / Wonju +25 등.
-- 주요 감소: Hwaseong -108 / Busan Jung-gu -66 / Mapo -66 / Gangjin -32
-  (대부분 source/API 감소 후보. §10-5 의 해석 주의 참조)
-- 실행 비용 낮음 (912 calls / 약 8.5분 / 쿼터 9.1%), 실패해도 production 보존
-- **기다릴 구체적 이점이 없다**
+알고 있는 한계이며 **VALUE STOP 사유로 보지 않은 것**: 서울 sparsity 미해결
+(Gangbuk / Songpa / Jungnang 은 source 자체가 0건 — **VALUE GO 의 근거로 서울 해결을 쓰지 않았다**),
+일부 district 감소, Tongyeong 0건, 인천 source lag.
+**SEO 는 판정 근거에서 제외했다. SEO effect = UNKNOWN.**
 
-알고 있는 한계이며 **VALUE STOP 사유로 보지 않는 것**:
-
-- **서울 sparsity 미해결.** Gangbuk / Songpa / Jungnang 은 source 자체가 0건이다.
-  P19 의 성공 조건을 "세 구를 채운다"로 잡은 적이 없다.
-  **VALUE GO 의 근거로 서울 해결을 쓰지 않는다.**
-- 일부 district 감소, Tongyeong 0건
-- 인천 source lag (Seohae / Geomdan 원천 0건). recollection 은 일회성 마이그레이션이
-  아니라 반복 가능한 운영 작업이므로, 원천이 바뀌면 나중에 다시 돌린다.
-- **SEO 효과는 판정 근거에서 제외했다. SEO effect = UNKNOWN.**
-
-### Tongyeong 정책 결정 (선례로 남긴다)
+### Tongyeong 정책 결정 (선례)
 
 `gyeongnam/tongyeong` — production 1 / raw 1 / dedupe 0 / **contradiction 1** / candidate 0.
 매장명 `도매유통`. 도로명은 경상남도, 지번은 전라남도로 **지역 identity 를 검증할 수 없다.**
@@ -831,28 +819,94 @@ Jeonnam 6,736→6,703 (-0.49%) / Incheon 1,145→1,143 (-0.17%) / Jeonbuk +1.52%
 
 > **정책: 검증 불가능한 1건을 coverage 를 위해 유지하는 것보다 정직한 0건을 우선한다.**
 
-단, 이것은 **"모든 contradiction 은 항상 삭제가 정답"** 이라는 뜻이 아니다.
-어느 위치가 맞는지 **독립 검증할 수 없을 때** 임의 rewrite/relocation 하지 않고
-**quarantine** 한다는 뜻이다. 0건 페이지는 이미 편의점·마트·주민센터 대안 안내를 한다.
+단, **"모든 contradiction 은 항상 삭제가 정답"** 이라는 뜻이 아니다.
+**독립 검증이 불가능할 때** 임의 rewrite/relocation 하지 않고 **quarantine** 한다는 뜻이다.
 
-### 다음 단계 — 판정이 아니라 실행
+---
 
-**P19 ONE CONTROLLED PRODUCTION RECOLLECTION**
+## 10-10. 실행 결과 (2026-09-04, `dc22fe2`)
+
+**preflight**: HEAD/origin `6432324` 일치, 예상 외 working-tree 변경 0,
+`PASS 226 / FAIL 0 / exit 0`, pre checksum `c6e2934b7173b8b9`, recovery state **A.normal**
+(`.data-backup` / `.data-candidate` 둘 다 없음).
+
+### API
+
+| | |
+|---|---|
+| API calls | **912** |
+| elapsed | **8분 58초** (18:04:12 → 18:13:10) |
+| expected_total / fetched | **91,120 / 91,120** (완결성 검증 통과) |
+| page size | 100 (실측) |
+| retry | **0회** |
+
+> header fingerprint 는 production collector 에 계측이 없어 별도 수집하지 않았다.
+> 다만 `detect_api_error()` 가 912 페이지 전부에서 한 번도 발화하지 않았다 —
+> gateway 오류 봉투 0건이고 오류 `resultCode` 도 관측되지 않았다는 뜻이다.
+
+### pipeline
 
 ```
-preflight PASS
-  → 실제 API collection (912 calls 예상)
-  → candidate 생성
-  → A–G 게이트
-  → mutation plan 확인
-  → PASS 일 때만 promotion
+raw 91,120 → active 72,480 → unmatched 14 → dedupe input 72,466
+  → duplicates removed 3,132 → verified input 69,334
+  → contradictions 42 → final 69,292
 ```
 
-실행 중 `G.*` 또는 다른 integrity failure 가 하나라도 나면 **promotion 0 / STOP**.
-**현장에서 threshold 를 완화하지 않는다.**
+unmatched 14 = malformed 3 + historical 11 (경상북도 군위군 1 / 충청남도 연기군 10).
+**dry-run 2회와 여덟 개 수치가 전부 동일했다.**
 
-> 쿼터 주의: 실패해도 그 실행의 수확은 0이다(부분 수집을 남기지 않는다).
-> **하루 한 번**만 돌리고 같은 날 재시도하지 않는다. → §10-3
+### integrity — A~G 전부 PASS (`failures=0 notes=11`)
+
+`G.total_wipe` / `G.national_drop` / `G.region_drop` / `G.district_drop` /
+`G.district_extinction` / `G.mass_drop` — **failure count 전부 0**.
+`G.mass_drop` 은 material-drop 5개 / 합계 320건으로 기준(15개 또는 2,000건) 미달 note.
+
+### mutation plan
+
+| | |
+|---|---|
+| store total | 69,265 → **69,292** (**+27 / +0.04%**) |
+| 감소 | 38 districts / **-366** |
+| 증가 | 52 districts / **+393** |
+| 동일 | 139 districts |
+| **gross movement** | **759건 (production 의 약 1.10%)** |
+| plan | created 0 / modified 142 / removed 1 / kept 97 |
+| removed | `gyeongnam/tongyeong.json` (production 1건) |
+
+### promotion
+
+성공. **rollback 0회.** `.data-backup` / `.data-candidate` 둘 다 없음.
+checksum `c6e2934b7173b8b9` → **`59617a5e2965712e`**.
+**"atomic swap" 이 아니라 rollback-safe multi-step promotion 이다.**
+
+### postcheck (commit 전 전부 통과)
+
+- 테스트 **`PASS 226 / FAIL 0` / process exit 0**
+  — 별도 execution/structure 계측: PASS·FAIL 출력 라인 **244개**. 두 숫자를 혼동하지 않는다
+- TypeScript errors 0 / `next build` success / **253 routes**
+- duplicate title 0 / duplicate H1 0 / canonical 누락 0 / U+FFFD 0 / 예상 밖 noindex 0
+- sitemap **241 URLs**, 생성 안 된 페이지 0
+  (P19 이전 242 → 통영 data file 제거로 241. 구조 회귀 아님)
+- 사용자 노출 수집일: 옛 날짜 `2026-03-27` 잔존 **0건**, `2026-09-04` **238 페이지**
+  (이전 239 → 통영 data file 제거 영향으로 238)
+
+### 0-store district 9개
+
+부여 · 청양 · 당진 · 강원 고성 · **통영** · 강북 · 중랑 · 송파 · 울주.
+전부 404 가 아니라 **0곳 안내 정적 페이지**로 정상 생성되며 대안 안내(편의점·마트·주민센터)를 갖췄다.
+Tongyeong 은 §10-9 정책대로 contradiction quarantine 에 따른 의도된 1→0 변화다.
+
+### deployment / smoke
+
+data commit `dc22fe2`, `[skip ci]` 미사용, origin/main 일치, 최종 HEAD 가 data commit.
+deployment triggered 및 live 반영 확인. **deployment ID / production revision 은 미확보**
+— HTTP live smoke 로 확인했으므로 이를 실패로 쓰지 않는다.
+
+smoke 9 URL 전부 **200**: `/` · `/seoul` · `/gyeongnam` · `/seoul/mapo` ·
+`/gyeonggi/hwaseong` · `/busan/bsjunggu` · `/jeonnam/gangjin` ·
+`/gyeongnam/tongyeong` · `/seoul/gangbuk`.
+라이브 본문이 로컬 빌드와 일치했다 — Seoul 3,054 / Mapo 536 / Hwaseong 1,630 /
+Busan Jung-gu 290 / Gangjin 85.
 
 ---
 
@@ -865,7 +919,7 @@ preflight PASS
 | server-rendered store coverage | 페이지당 초기 렌더 매장 수 제한 |
 | template similarity | 페이지 간 본문 유사도 |
 | search trim bug | P3 이월 |
-| 42 road/lot contradictions | 현재 production에 잔존. 자동 수정 안 함. |
+| ~~42 road/lot contradictions~~ | **2026-09-04 P19 에서 42건 quarantine 완료** (`dc22fe2`). contradiction 정책 자체는 유지 — §10-9 |
 | schema drift sensor | 게이트 D는 있으나 상시 센서는 없음. D 는 정상 경로에서 항상 empty 를 받는다(drift preflight 가 workspace write 이전에 먼저 막기 때문). 판정 로직이 살아 있음은 직접 주입 테스트로 증명돼 있다 |
 | 감소율 threshold 정밀화 | D1 사각지대(1,000→910), AGG 사각지대(14개×100건). 관측이 쌓이면 재검토 |
 | API 오류 시 `resultCode` 확정 | 정상값 `"0"` 만 관측. 오류 코드 미관측이라 header 검증을 더 조이지 못함 |
@@ -886,19 +940,19 @@ preflight PASS
 
 # 12. 현재 위치
 
-**판정은 전부 끝났다.** SAFETY = GO, VALUE = GO, NECESSITY = MEDIUM. (§10-9)
-
-**다음은 판정이 아니라 실행이다 — P19 ONE CONTROLLED PRODUCTION RECOLLECTION.**
+**P19 CLOSED.** (§10-9, §10-10)
 
 다음 세션이 하지 말아야 할 것:
 
 - SAFETY 재판정 (2026-09-04 종료)
 - VALUE 재판정 (2026-09-04 종료)
-- §11 Deferred 항목을 VALUE GO 를 이유로 해결됐다고 표시하는 것
+- **P19 recollection 재실행**
+- threshold 재논쟁 — 새 실측이나 실제 사고 근거 없이는 하지 않는다
 
-실행 중 게이트가 발화하면 그것은 **정상 동작**이다. promotion 0 으로 종료하고
-숫자를 보고한 뒤 판단을 구한다. 게이트를 그 자리에서 완화하지 않는다.
+**P19 완료가 Google 색인 문제 해결을 의미하지 않는다.**
+GSC indexing diagnosis 는 §11 Deferred 로 그대로 남아 있다.
+다음 우선순위는 별도 판단 사항이다.
 
 ---
 
-*이 문서는 HEAD `40a4ee9` 기준 정본이며, 2026-09-04 최종 판정을 반영해 갱신됐다.*
+*이 문서는 HEAD `dc22fe2` 기준 정본이며, 2026-09-04 P19 완료를 반영해 갱신됐다.*
