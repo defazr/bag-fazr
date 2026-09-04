@@ -3,71 +3,43 @@
   "regionSlug": "seoul",
   "district": "강남구",
   "districtSlug": "gangnam",
-  "updatedAt": "2026-03-27",
-  "totalCount": 31,
+  "updatedAt": "2026-09-04",
+  "totalCount": 30,
   "stores": [
     {
-      "name": "까치상회",
-      "address": "서울특별시 강남구 세곡동 375-2",
-      "roadAddress": "",
+      "name": "초록마을 덕소점",
+      "address": "서울특별시 강남구 논현동 105-7 두산빌딩 8층",
+      "roadAddress": "서울특별시 강남구 언주로 726, 두산빌딩 8층 (논현동)",
       "status": "영업/정상",
-      "licenseDate": "1997-09-30"
+      "licenseDate": "2022-11-23"
     },
     {
-      "name": "광장공판장",
-      "address": "서울특별시 강남구 세곡동 124-2",
-      "roadAddress": "",
+      "name": "씨유대정하모리점",
+      "address": "서울특별시 강남구 대치동 890-49 선릉역대우아이빌",
+      "roadAddress": "서울특별시 강남구 테헤란로64길 9, 1114호 (대치동, 선릉역대우아이빌)",
       "status": "영업/정상",
-      "licenseDate": "1997-09-30"
+      "licenseDate": "2020-11-26"
     },
     {
-      "name": "정호식품",
-      "address": "서울특별시 강남구 세곡동 124-2",
-      "roadAddress": "",
+      "name": "병천버스터미널 휴게소",
+      "address": "서울특별시 강남구 일원동 719 푸른마을아파트 107동 1001호",
+      "roadAddress": "서울특별시 강남구 일원로14길 25, 107동 1001호 (일원동, 푸른마을아파트)",
       "status": "영업/정상",
-      "licenseDate": "1997-09-30"
+      "licenseDate": "2020-09-24"
     },
     {
-      "name": "대성슈퍼",
-      "address": "서울특별시 강남구 세곡동 171-11",
-      "roadAddress": "",
+      "name": "이마트24 동탄능동점",
+      "address": "서울특별시 강남구 자곡동 651 강남유탑유블레스 A동 505호",
+      "roadAddress": "서울특별시 강남구 자곡로 180, 강남유탑유블레스 A동 505호 (자곡동)",
       "status": "영업/정상",
-      "licenseDate": "1997-09-30"
+      "licenseDate": "2018-07-21"
     },
     {
-      "name": "송파농협세곡지소",
-      "address": "서울특별시 강남구 세곡동 103-3",
+      "name": "훼미리마트 오산역점",
+      "address": "서울특별시 강남구 삼성동 141-32",
       "roadAddress": "",
       "status": "영업/정상",
-      "licenseDate": "1997-09-30"
-    },
-    {
-      "name": "보영상회",
-      "address": "서울특별시 강남구 율현동 298-10",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1997-09-30"
-    },
-    {
-      "name": "율현상회",
-      "address": "서울특별시 강남구 율현동 194-5",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1997-09-30"
-    },
-    {
-      "name": "자곡슈퍼",
-      "address": "서울특별시 강남구 자곡동 447-11",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1997-09-30"
-    },
-    {
-      "name": "쟁골식품",
-      "address": "서울특별시 강남구 자곡동 220-26",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": "1997-09-30"
+      "licenseDate": ""
     },
     {
       "name": "강남슈퍼",
@@ -84,85 +56,8 @@
       "licenseDate": ""
     },
     {
-      "name": "경기미니슈퍼",
-      "address": "서울특별시 강남구 개포동 660-12",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "경남미니슈퍼",
-      "address": "서울특별시 강남구 개포동 649-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "개포만물슈퍼",
-      "address": "서울특별시 강남구 개포동 복합상가 102호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "농협 개포점",
-      "address": "서울특별시 강남구 개포동 141 1단지상가 3",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "내고향슈퍼",
-      "address": "서울특별시 강남구 개포동 660-17",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "청솔마트",
-      "address": "서울특별시 강남구 개포동 652 우성3차상가",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "백동슈퍼",
-      "address": "서울특별시 강남구 개포동 660-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "인수슈퍼",
-      "address": "서울특별시 강남구 개포동 651-1",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "여주쌀집",
-      "address": "서울특별시 강남구 개포동 660-3",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "충남식품",
-      "address": "서울특별시 강남구 개포동 660-4    종합상가 137호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "충무슈퍼",
-      "address": "서울특별시 강남구 개포동 가상가 114호",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "한아름공판장",
-      "address": "서울특별시 강남구 개포동 141",
+      "name": "해태유통",
+      "address": "서울특별시 강남구 개포동 660-4",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -175,53 +70,151 @@
       "licenseDate": ""
     },
     {
-      "name": "해태유통",
-      "address": "서울특별시 강남구 개포동 660-4",
+      "name": "한아름공판장",
+      "address": "서울특별시 강남구 개포동 141",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
     },
     {
-      "name": "훼미리마트 오산역점",
-      "address": "서울특별시 강남구 삼성동 141-32",
+      "name": "충무슈퍼",
+      "address": "서울특별시 강남구 개포동 가상가 114호",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
     },
     {
-      "name": "초록마을 덕소점",
-      "address": "서울특별시 강남구 논현동 105-7 두산빌딩 8층",
-      "roadAddress": "서울특별시 강남구 언주로 726, 두산빌딩 8층 (논현동)",
+      "name": "충남식품",
+      "address": "서울특별시 강남구 개포동 660-4    종합상가 137호",
+      "roadAddress": "",
       "status": "영업/정상",
-      "licenseDate": "2022-11-23"
+      "licenseDate": ""
     },
     {
-      "name": "스마트건설(주)",
-      "address": "충청북도 진천군 진천읍 읍내리 98번지 7   호",
-      "roadAddress": "서울특별시 강남구 남부순환로 2738 (도곡동)",
+      "name": "여주쌀집",
+      "address": "서울특별시 강남구 개포동 660-3",
+      "roadAddress": "",
       "status": "영업/정상",
-      "licenseDate": "1996-09-06"
+      "licenseDate": ""
     },
     {
-      "name": "병천버스터미널 휴게소",
-      "address": "서울특별시 강남구 일원동 719 푸른마을아파트 107동 1001호",
-      "roadAddress": "서울특별시 강남구 일원로14길 25, 107동 1001호 (일원동, 푸른마을아파트)",
+      "name": "인수슈퍼",
+      "address": "서울특별시 강남구 개포동 651-1",
+      "roadAddress": "",
       "status": "영업/정상",
-      "licenseDate": "2020-09-24"
+      "licenseDate": ""
     },
     {
-      "name": "씨유대정하모리점",
-      "address": "서울특별시 강남구 대치동 890-49 선릉역대우아이빌",
-      "roadAddress": "서울특별시 강남구 테헤란로64길 9, 1114호 (대치동, 선릉역대우아이빌)",
+      "name": "백동슈퍼",
+      "address": "서울특별시 강남구 개포동 660-2",
+      "roadAddress": "",
       "status": "영업/정상",
-      "licenseDate": "2020-11-26"
+      "licenseDate": ""
     },
     {
-      "name": "이마트24 동탄능동점",
-      "address": "서울특별시 강남구 자곡동 651 강남유탑유블레스 A동 505호",
-      "roadAddress": "서울특별시 강남구 자곡로 180, 강남유탑유블레스 A동 505호 (자곡동)",
+      "name": "청솔마트",
+      "address": "서울특별시 강남구 개포동 652 우성3차상가",
+      "roadAddress": "",
       "status": "영업/정상",
-      "licenseDate": "2018-07-21"
+      "licenseDate": ""
+    },
+    {
+      "name": "내고향슈퍼",
+      "address": "서울특별시 강남구 개포동 660-17",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "농협 개포점",
+      "address": "서울특별시 강남구 개포동 141 1단지상가 3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "개포만물슈퍼",
+      "address": "서울특별시 강남구 개포동 복합상가 102호",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경남미니슈퍼",
+      "address": "서울특별시 강남구 개포동 649-1",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "경기미니슈퍼",
+      "address": "서울특별시 강남구 개포동 660-12",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "쟁골식품",
+      "address": "서울특별시 강남구 자곡동 220-26",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-30"
+    },
+    {
+      "name": "자곡슈퍼",
+      "address": "서울특별시 강남구 자곡동 447-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-30"
+    },
+    {
+      "name": "율현상회",
+      "address": "서울특별시 강남구 율현동 194-5",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-30"
+    },
+    {
+      "name": "보영상회",
+      "address": "서울특별시 강남구 율현동 298-10",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-30"
+    },
+    {
+      "name": "송파농협세곡지소",
+      "address": "서울특별시 강남구 세곡동 103-3",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-30"
+    },
+    {
+      "name": "대성슈퍼",
+      "address": "서울특별시 강남구 세곡동 171-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-30"
+    },
+    {
+      "name": "정호식품",
+      "address": "서울특별시 강남구 세곡동 124-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-30"
+    },
+    {
+      "name": "광장공판장",
+      "address": "서울특별시 강남구 세곡동 124-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-30"
+    },
+    {
+      "name": "까치상회",
+      "address": "서울특별시 강남구 세곡동 375-2",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "1997-09-30"
     }
   ]
 }

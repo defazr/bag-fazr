@@ -1,8 +1,8 @@
 {
   "region": "부산광역시",
   "regionSlug": "busan",
-  "updatedAt": "2026-03-27",
-  "totalCount": 4164,
+  "updatedAt": "2026-09-04",
+  "totalCount": 4096,
   "districts": [
     {
       "district": "북구",
@@ -12,7 +12,7 @@
     {
       "district": "동구",
       "districtSlug": "bsdonggu",
-      "count": 597
+      "count": 596
     },
     {
       "district": "강서구",
@@ -22,7 +22,7 @@
     {
       "district": "중구",
       "districtSlug": "bsjunggu",
-      "count": 356
+      "count": 290
     },
     {
       "district": "남구",
@@ -32,7 +32,7 @@
     {
       "district": "서구",
       "districtSlug": "bsseogu",
-      "count": 2
+      "count": 4
     },
     {
       "district": "부산진구",
@@ -52,12 +52,12 @@
     {
       "district": "기장군",
       "districtSlug": "gijang",
-      "count": 87
+      "count": 86
     },
     {
       "district": "해운대구",
       "districtSlug": "haeundae",
-      "count": 331
+      "count": 329
     },
     {
       "district": "사하구",

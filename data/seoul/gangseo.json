@@ -3,8 +3,8 @@
   "regionSlug": "seoul",
   "district": "강서구",
   "districtSlug": "gangseo",
-  "updatedAt": "2026-03-27",
-  "totalCount": 3,
+  "updatedAt": "2026-09-04",
+  "totalCount": 2,
   "stores": [
     {
       "name": "홈플러스(주)",
@@ -12,13 +12,6 @@
       "roadAddress": "서울특별시 강서구 화곡로 398, 홈플러스강서점앤본사사옥 (등촌동)",
       "status": "영업/정상",
       "licenseDate": "2024-03-13"
-    },
-    {
-      "name": "홈플러스(주)",
-      "address": "서울특별시 강서구 등촌동 639-11 삼성홈플러스 강서점",
-      "roadAddress": "서울특별시 강서구 화곡로 398 (등촌동, 삼성홈플러스강서점)",
-      "status": "영업/정상",
-      "licenseDate": "2013-06-03"
     },
     {
       "name": "홈플러스(주) 병점점",

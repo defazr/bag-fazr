@@ -1,36 +1,26 @@
 {
-  "updatedAt": "2026-03-27",
-  "totalCount": 69265,
+  "updatedAt": "2026-09-04",
+  "totalCount": 69292,
   "regions": [
-    {
-      "region": "서울특별시",
-      "regionSlug": "seoul",
-      "count": 3118
-    },
-    {
-      "region": "경기도",
-      "regionSlug": "gyeonggi",
-      "count": 15174
-    },
     {
       "region": "부산광역시",
       "regionSlug": "busan",
-      "count": 4164
+      "count": 4096
     },
     {
       "region": "충청북도",
       "regionSlug": "chungbuk",
-      "count": 2372
+      "count": 2378
     },
     {
       "region": "충청남도",
       "regionSlug": "chungnam",
-      "count": 4800
+      "count": 4828
     },
     {
       "region": "대구광역시",
       "regionSlug": "daegu",
-      "count": 4744
+      "count": 4745
     },
     {
       "region": "대전광역시",
@@ -40,47 +30,57 @@
     {
       "region": "강원특별자치도",
       "regionSlug": "gangwon",
-      "count": 3810
+      "count": 3865
     },
     {
       "region": "광주광역시",
       "regionSlug": "gwangju",
-      "count": 2524
+      "count": 2478
     },
     {
       "region": "경상북도",
       "regionSlug": "gyeongbuk",
-      "count": 6203
+      "count": 6220
+    },
+    {
+      "region": "경기도",
+      "regionSlug": "gyeonggi",
+      "count": 15221
     },
     {
       "region": "경상남도",
       "regionSlug": "gyeongnam",
-      "count": 4755
+      "count": 4759
     },
     {
       "region": "인천광역시",
       "regionSlug": "incheon",
-      "count": 1145
+      "count": 1143
     },
     {
       "region": "제주특별자치도",
       "regionSlug": "jeju",
-      "count": 815
+      "count": 819
     },
     {
       "region": "전북특별자치도",
       "regionSlug": "jeonbuk",
-      "count": 5139
+      "count": 5217
     },
     {
       "region": "전라남도",
       "regionSlug": "jeonnam",
-      "count": 6736
+      "count": 6703
     },
     {
       "region": "세종특별자치시",
       "regionSlug": "sejong",
       "count": 165
+    },
+    {
+      "region": "서울특별시",
+      "regionSlug": "seoul",
+      "count": 3054
     },
     {
       "region": "울산광역시",

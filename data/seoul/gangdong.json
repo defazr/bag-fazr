@@ -3,9 +3,16 @@
   "regionSlug": "seoul",
   "district": "강동구",
   "districtSlug": "gangdong",
-  "updatedAt": "2026-03-27",
+  "updatedAt": "2026-09-04",
   "totalCount": 3,
   "stores": [
+    {
+      "name": "(주)코리아세븐",
+      "address": "서울특별시 강동구 천호동 571 래미안강동팰리스",
+      "roadAddress": "서울특별시 강동구 천호대로 1077 (천호동, 래미안강동팰리스)",
+      "status": "영업/정상",
+      "licenseDate": "2024-11-29"
+    },
     {
       "name": "test",
       "address": "서울특별시 강동구 성내동",
@@ -19,13 +26,6 @@
       "roadAddress": "서울특별시 강동구 천호대로 1077, 16,17,18층 (천호동, 래미안강동팰리스)",
       "status": "영업/정상",
       "licenseDate": "2007-12-31"
-    },
-    {
-      "name": "(주)코리아세븐",
-      "address": "서울특별시 강동구 천호동 571 래미안강동팰리스",
-      "roadAddress": "서울특별시 강동구 천호대로 1077 (천호동, 래미안강동팰리스)",
-      "status": "영업/정상",
-      "licenseDate": "2024-11-29"
     }
   ]
 }

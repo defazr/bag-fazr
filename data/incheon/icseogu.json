@@ -3,15 +3,15 @@
   "regionSlug": "incheon",
   "district": "서구",
   "districtSlug": "icseogu",
-  "updatedAt": "2026-03-27",
+  "updatedAt": "2026-09-04",
   "totalCount": 3,
   "stores": [
     {
-      "name": "씨유 별내우미린점",
-      "address": "인천광역시 서구 청라동 104-124",
-      "roadAddress": "인천광역시 서구 보석로18번안길 16, 201호 (청라동)",
+      "name": "더제이마켓 검단",
+      "address": "인천광역시 서구 당하동 1280-1",
+      "roadAddress": "인천광역시 서구 이음대로 437, 1층 (당하동)",
       "status": "영업/정상",
-      "licenseDate": "2020-02-18"
+      "licenseDate": "2026-04-24"
     },
     {
       "name": "평강기업",
@@ -21,11 +21,11 @@
       "licenseDate": "2024-11-26"
     },
     {
-      "name": "신일상회",
-      "address": "경상남도 의령군 낙서면 전화리 224-9",
-      "roadAddress": "인천광역시 서구 검암로 53, 110동  602호(검암동,풍림아이원2차)",
+      "name": "씨유 별내우미린점",
+      "address": "인천광역시 서구 청라동 104-124",
+      "roadAddress": "인천광역시 서구 보석로18번안길 16, 201호 (청라동)",
       "status": "영업/정상",
-      "licenseDate": "1995-06-24"
+      "licenseDate": "2020-02-18"
     }
   ]
 }

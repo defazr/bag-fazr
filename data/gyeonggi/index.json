@@ -1,8 +1,8 @@
 {
   "region": "경기도",
   "regionSlug": "gyeonggi",
-  "updatedAt": "2026-03-27",
-  "totalCount": 15174,
+  "updatedAt": "2026-09-04",
+  "totalCount": 15221,
   "districts": [
     {
       "district": "안산시",
@@ -17,7 +17,7 @@
     {
       "district": "안양시",
       "districtSlug": "anyang",
-      "count": 25
+      "count": 26
     },
     {
       "district": "부천시",
@@ -32,7 +32,7 @@
     {
       "district": "가평군",
       "districtSlug": "gapyeong",
-      "count": 304
+      "count": 308
     },
     {
       "district": "광주시",
@@ -42,17 +42,17 @@
     {
       "district": "김포시",
       "districtSlug": "gimpo",
-      "count": 1227
+      "count": 1233
     },
     {
       "district": "고양시",
       "districtSlug": "goyang",
-      "count": 1793
+      "count": 1806
     },
     {
       "district": "군포시",
       "districtSlug": "gunpo",
-      "count": 433
+      "count": 432
     },
     {
       "district": "구리시",
@@ -67,32 +67,32 @@
     {
       "district": "광명시",
       "districtSlug": "gwangmyeong",
-      "count": 303
+      "count": 323
     },
     {
       "district": "하남시",
       "districtSlug": "hanam",
-      "count": 23
+      "count": 22
     },
     {
       "district": "화성시",
       "districtSlug": "hwaseong",
-      "count": 1738
+      "count": 1630
     },
     {
       "district": "이천시",
       "districtSlug": "icheon",
-      "count": 2
+      "count": 1
     },
     {
       "district": "남양주시",
       "districtSlug": "namyangju",
-      "count": 907
+      "count": 1002
     },
     {
       "district": "오산시",
       "districtSlug": "osan",
-      "count": 421
+      "count": 422
     },
     {
       "district": "파주시",
@@ -122,17 +122,17 @@
     {
       "district": "수원시",
       "districtSlug": "suwon",
-      "count": 41
+      "count": 39
     },
     {
       "district": "의정부시",
       "districtSlug": "uijeongbu",
-      "count": 935
+      "count": 949
     },
     {
       "district": "의왕시",
       "districtSlug": "uiwang",
-      "count": 184
+      "count": 192
     },
     {
       "district": "양주시",
@@ -157,7 +157,7 @@
     {
       "district": "용인시",
       "districtSlug": "yongin",
-      "count": 1682
+      "count": 1680
     }
   ]
 }

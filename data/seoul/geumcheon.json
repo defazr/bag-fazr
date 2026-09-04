@@ -3,20 +3,41 @@
   "regionSlug": "seoul",
   "district": "금천구",
   "districtSlug": "geumcheon",
-  "updatedAt": "2026-03-27",
+  "updatedAt": "2026-09-04",
   "totalCount": 47,
   "stores": [
     {
-      "name": "서울금형매점",
-      "address": "서울특별시 금천구 가산동 345-89",
-      "roadAddress": "서울특별시 금천구 가산디지털2로 62  (가산동)",
+      "name": "지에스25 정남니트로점",
+      "address": "서울특별시 금천구 독산동 711-2 금천현대아파트 107동 1603호",
+      "roadAddress": "서울특별시 금천구 벚꽃로 73, 107동 1603호 (독산동, 금천현대아파트)",
       "status": "영업/정상",
-      "licenseDate": "2001-11-12"
+      "licenseDate": "2023-06-01"
+    },
+    {
+      "name": "씨유 독산승리점",
+      "address": "서울특별시 금천구 독산동 1104-1",
+      "roadAddress": "서울특별시 금천구 금하로1길 61, 1층 (독산동)",
+      "status": "영업/정상",
+      "licenseDate": "2022-09-13"
+    },
+    {
+      "name": "한샘마트",
+      "address": "서울특별시 금천구 시흥동 840-8",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
     },
     {
       "name": "소비자유통",
       "address": "서울특별시 금천구 시흥동 862-14",
       "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": "2001-11-12"
+    },
+    {
+      "name": "서울금형매점",
+      "address": "서울특별시 금천구 가산동 345-89",
+      "roadAddress": "서울특별시 금천구 가산디지털2로 62  (가산동)",
       "status": "영업/정상",
       "licenseDate": "2001-11-12"
     },
@@ -42,15 +63,15 @@
       "licenseDate": "2001-10-10"
     },
     {
-      "name": "늘푸른슈퍼",
-      "address": "서울특별시 금천구 가산동 44-1",
+      "name": "잉크마을",
+      "address": "서울특별시 금천구 독산동 293-1",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2001-09-20"
     },
     {
-      "name": "잉크마을",
-      "address": "서울특별시 금천구 독산동 293-1",
+      "name": "늘푸른슈퍼",
+      "address": "서울특별시 금천구 가산동 44-1",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": "2001-09-20"
@@ -77,13 +98,6 @@
       "licenseDate": ""
     },
     {
-      "name": "경남마트",
-      "address": "서울특별시 금천구 시흥동 820-17",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "동시흥마트",
       "address": "서울특별시 금천구 시흥동 799-36",
       "roadAddress": "",
@@ -91,15 +105,8 @@
       "licenseDate": ""
     },
     {
-      "name": "그랜드마트",
-      "address": "서울특별시 금천구 독산동 1038-28",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "우리슈퍼",
-      "address": "서울특별시 금천구 시흥동 117-5",
+      "name": "경남마트",
+      "address": "서울특별시 금천구 시흥동 820-17",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -112,15 +119,22 @@
       "licenseDate": ""
     },
     {
-      "name": "한아름슈퍼",
-      "address": "서울특별시 금천구 시흥동 865-14",
+      "name": "우리슈퍼",
+      "address": "서울특별시 금천구 시흥동 117-5",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
     },
     {
-      "name": "훼미리마트",
-      "address": "서울특별시 금천구 시흥동 883-5",
+      "name": "그랜드마트",
+      "address": "서울특별시 금천구 독산동 1038-28",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "한아름슈퍼",
+      "address": "서울특별시 금천구 시흥동 865-14",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -133,15 +147,15 @@
       "licenseDate": ""
     },
     {
-      "name": "금천주유소",
-      "address": "서울특별시 금천구 시흥동 903-9",
+      "name": "훼미리마트",
+      "address": "서울특별시 금천구 시흥동 883-5",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
     },
     {
-      "name": "관악슈퍼",
-      "address": "서울특별시 금천구 독산동 201-17",
+      "name": "금천주유소",
+      "address": "서울특별시 금천구 시흥동 903-9",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -155,8 +169,8 @@
     },
     {
       "name": "관악슈퍼",
-      "address": "서울특별시 금천구 독산동 987",
-      "roadAddress": "서울특별시 금천구 시흥대로140길 18  (독산동)",
+      "address": "서울특별시 금천구 독산동 201-17",
+      "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
     },
@@ -168,15 +182,22 @@
       "licenseDate": ""
     },
     {
-      "name": "서호상회",
-      "address": "서울특별시 금천구 가산동 517-4",
-      "roadAddress": "",
+      "name": "관악슈퍼",
+      "address": "서울특별시 금천구 독산동 987",
+      "roadAddress": "서울특별시 금천구 시흥대로140길 18  (독산동)",
       "status": "영업/정상",
       "licenseDate": ""
     },
     {
       "name": "한빛종합할인마트",
       "address": "서울특별시 금천구 독산동 1065-11",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "서호상회",
+      "address": "서울특별시 금천구 가산동 517-4",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -210,13 +231,6 @@
       "licenseDate": ""
     },
     {
-      "name": "가산마트",
-      "address": "서울특별시 금천구 가산동 32-54",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "동네슈퍼",
       "address": "서울특별시 금천구 시흥동 169-38",
       "roadAddress": "",
@@ -224,15 +238,15 @@
       "licenseDate": ""
     },
     {
-      "name": "현미식품",
-      "address": "서울특별시 금천구 독산동 296-14",
+      "name": "가산마트",
+      "address": "서울특별시 금천구 가산동 32-54",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
     },
     {
-      "name": "부여슈퍼",
-      "address": "서울특별시 금천구 독산동 1022-117",
+      "name": "신일슈퍼",
+      "address": "서울특별시 금천구 독산동 180-47",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -245,8 +259,15 @@
       "licenseDate": ""
     },
     {
-      "name": "신일슈퍼",
-      "address": "서울특별시 금천구 독산동 180-47",
+      "name": "부여슈퍼",
+      "address": "서울특별시 금천구 독산동 1022-117",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
+      "name": "현미식품",
+      "address": "서울특별시 금천구 독산동 296-14",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -280,13 +301,6 @@
       "licenseDate": ""
     },
     {
-      "name": "농산물할인매장",
-      "address": "서울특별시 금천구 독산동 1043-2",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
       "name": "태광상회",
       "address": "서울특별시 금천구 독산동 198-44",
       "roadAddress": "",
@@ -294,8 +308,8 @@
       "licenseDate": ""
     },
     {
-      "name": "똘똘이슈퍼",
-      "address": "서울특별시 금천구 독산동 985-20",
+      "name": "농산물할인매장",
+      "address": "서울특별시 금천구 독산동 1043-2",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
@@ -308,32 +322,18 @@
       "licenseDate": ""
     },
     {
+      "name": "똘똘이슈퍼",
+      "address": "서울특별시 금천구 독산동 985-20",
+      "roadAddress": "",
+      "status": "영업/정상",
+      "licenseDate": ""
+    },
+    {
       "name": "생협슈퍼",
       "address": "서울특별시 금천구 시흥동 868-35",
       "roadAddress": "",
       "status": "영업/정상",
       "licenseDate": ""
-    },
-    {
-      "name": "한샘마트",
-      "address": "서울특별시 금천구 시흥동 840-8",
-      "roadAddress": "",
-      "status": "영업/정상",
-      "licenseDate": ""
-    },
-    {
-      "name": "씨유 독산승리점",
-      "address": "서울특별시 금천구 독산동 1104-1",
-      "roadAddress": "서울특별시 금천구 금하로1길 61, 1층 (독산동)",
-      "status": "영업/정상",
-      "licenseDate": "2022-09-13"
-    },
-    {
-      "name": "지에스25 정남니트로점",
-      "address": "서울특별시 금천구 독산동 711-2 금천현대아파트 107동 1603호",
-      "roadAddress": "서울특별시 금천구 벚꽃로 73, 107동 1603호 (독산동, 금천현대아파트)",
-      "status": "영업/정상",
-      "licenseDate": "2023-06-01"
     }
   ]
 }
