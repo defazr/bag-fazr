@@ -512,6 +512,8 @@ npx tsc --noEmit ; npx next build                  # errors 0 / 253 routes
 grep -o '<loc>' .next/server/app/sitemap.xml.body | wc -l                     # 241
 
 # GSC 읽기 전용 진단 (scope: webmasters.readonly, 색인 요청 없음)
+# [정정 2026-09-04] 아래 두 경로는 세션 스코프 스크래치패드라 새 세션에서 사라진다.
+# +7일 관측용 READ-ONLY 재현 코드는 GPT-HANDOFF-20260903.md §13-4-1 코드블록이 정본이다.
 python3 <scratchpad>/gsc_diag.py <service-account-key.json>
 python3 <scratchpad>/gsc_deep.py <service-account-key.json>
 ```

@@ -276,7 +276,11 @@ live HTML 이 로컬보다 일괄 +938B 인데, `/gyeonggi` `/busan` `/seoul` �
 사이트 전체: Search Analytics 90일 clicks 0 / impressions 0 · Google 이 아는 URL 6 / sitemap 241 ·
 region crawled 3 / unknown 14.
 
-관측 일정: **+7일** `/gyeonggi` `/busan` — **+21일** 위 2개 + `/gyeonggi/goyang` `/gyeonggi/yongin` `/busan/bsdonggu` — **+45일** 위 최소집합 + Search Analytics.
+관측 일정: ~~**+7일** `/gyeonggi` `/busan`~~ — **+21일** + `/gyeonggi/goyang` `/gyeonggi/yongin` `/busan/bsdonggu` — **+45일** + Search Analytics.
+
+> **[정정 2026-09-04] +7일 대상은 3 URL 이 정본이다** — `/gyeonggi` `/busan` **`/seoul`**.
+> 위 2 URL 은 superseded historical plan. 근거는 이 문서 §CC-5(`/seoul` 이 `/busan` 보다
+> 가까운 비교군)이고, 정본 표기는 `GPT-HANDOFF-20260903.md` §13-4 에 있다.
 
 규칙: URL Inspection 1회 **최대 6 URL** · READ-ONLY only · 색인요청 / 유효성검사 / sitemap 재제출 /
 Indexing API **전부 금지** · scope `webmasters.readonly` 유지 · 서비스 계정 JSON `git add` 금지.

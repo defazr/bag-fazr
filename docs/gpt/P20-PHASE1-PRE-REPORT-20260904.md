@@ -327,9 +327,13 @@ scope 는 `webmasters.readonly` 유지. 서비스 계정 JSON 은 저장소 밖�
 
 **baseline 은 이미 고정됐다** (§A-2, 2026-09-04 측정).
 
+> **[정정 2026-09-04] 이 절의 +7일 대상 2 URL 은 superseded historical plan 이다.**
+> 정본은 **3 URL** (`/gyeonggi` `/busan` `/seoul`) — `GPT-HANDOFF-20260903.md` §13-4 참조.
+> `/seoul` 추가 근거는 `P20-PHASE1-COMPLETION-20260904.md` §CC-5.
+
 | 시점 | 확인 URL | 확인 항목 |
 |---|---|---|
-| 배포 +7일 | `/gyeonggi` **`/busan`(대조군)** | coverageState, lastCrawlTime |
+| 배포 +7일 | `/gyeonggi` **`/busan`(대조군)** ~~2 URL~~ → **정본은 3 URL** | coverageState, lastCrawlTime |
 | 배포 +21일 | 위 2개 + `/gyeonggi/goyang` `/gyeonggi/yongin` `/busan/bsdonggu`(대조) | coverageState 변화, unknown → 발견 이동 여부 |
 | 배포 +45일 | 위 + Search Analytics 90일 | impressions 발생 여부 |
 

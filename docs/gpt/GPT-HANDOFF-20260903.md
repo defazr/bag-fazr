@@ -4,12 +4,16 @@
 >
 > | 용어 | 뜻 | 2026-09-04 현재 |
 > |---|---|---|
-> | **repository HEAD** | git 이력의 최신 커밋. docs-only 커밋도 여기에 포함된다 | `befe834` |
+> | **repository HEAD** | git 이력의 최신 커밋. docs-only 커밋도 포함된다 | **값을 적지 않는다** — `git rev-parse --short HEAD` 로 확인 |
 > | **production revision** | 실제로 배포되어 라이브를 서빙하는 커밋 | `befe834` (`dpl_GvogSRHiaFRkM5QWRMMhwsfj26Pc`, READY) |
 > | **canonical data revision** | production `data/` 를 마지막으로 바꾼 커밋 | `dc22fe2` (P19 재수집) |
 >
 > 셋이 같아 보이는 시점도 있지만 일치를 전제하지 않는다. docs-only 커밋은 repository HEAD 만 올리고
 > production revision 을 바꾸지 않는다 (§0-8).
+>
+> **repository HEAD 는 이 문서에 값으로 적지 않는다.** 자기참조이기 때문이다 — 값을 적어 넣는
+> 그 커밋이 곧 HEAD 를 바꾸므로 기록하는 순간 낡는다. 나머지 둘은 docs-only 커밋으로 바뀌지
+> 않으므로 고정값으로 적어도 안전하다.
 
 > 이 문서는 **정본**이다. 다음 세션은 커밋 로그를 다시 읽기 전에 이 문서부터 읽는다.
 > 이전 핸드오프: `docs/gpt/GPT-HANDOFF-20260426.md` (P17/P17.5)
@@ -206,7 +210,7 @@ exit 0 = 빌드 건너뜀 / exit 1 = 빌드 진행 / exit 128(`HEAD^` 없음) = 
 
 | | |
 |---|---|
-| **repository HEAD** | `befe834` |
+| **repository HEAD** | `git rev-parse --short HEAD` 로 확인 (§ 상단 규약 참조) |
 | **production revision** | `befe834` (`dpl_GvogSRHiaFRkM5QWRMMhwsfj26Pc`, READY) |
 | **canonical data revision** | `dc22fe2` (2026-09-04, P19 recollection) |
 | origin/main | repository HEAD 와 일치 |
@@ -1088,7 +1092,122 @@ Search Analytics 90일: **clicks 0 / impressions 0.**
 
 > `/busan` 을 **control 이라고 쓰지 않는다.** 무작위 배정이 아니고 Google 크롤 스케줄링은 비결정적이다. **comparison URL** 로 표기한다.
 
-**관측 일정** — **+7일** `/gyeonggi` `/busan` `/seoul` — **+21일** 최소 comparison set + district 표본 — **+45일** 최소 URL set + Search Analytics.
+**관측 일정** — **+7일(2026-09-11)** `/gyeonggi` `/busan` `/seoul` — **+21일(9/25)** 위 3개 + district 표본 — **+45일(10/19)** 위 + Search Analytics.
+
+> **+7일 대상은 3 URL 이 정본이다.** `P20-PHASE1-PRE-REPORT-20260904.md` §I-2 와
+> `P20-PHASE1-COMPLETION-20260904.md` §M 에는 2 URL(`/gyeonggi` `/busan`)로 적혀 있으나
+> **superseded historical plan** 이다. `/seoul` 을 넣는 근거는 COMPLETION §CC-5 다 —
+> `/gyeonggi` 와 `/seoul` 은 lastCrawl 이 **초 단위까지 동일**(같은 크롤 배치)이라
+> `/busan`(04-26)보다 가까운 비교군이고, 셋 다 변하면 "사이트 전체 재평가" 해석이 가능해진다.
+> 추가 비용은 1 URL 이고 6 URL 상한 안이다.
+
+## 13-4-1. 관측 재현 코드 (READ-ONLY)
+
+> **이 코드블록이 정본이다.** 이전 판은 `<scratchpad>/gsc_diag.py` 를 가리켰으나
+> 스크래치패드는 세션 스코프라 새 세션에서 사라진다. 저장소에 실행 파일로 추가하지 않는다 —
+> `scripts/` 에 `.py` 를 넣으면 P17.9 entrypoint 재등장 방지 가드에 걸린다.
+> **필요할 때 이 블록을 세션 스크래치패드에 복사해 쓰고 저장소에 커밋하지 않는다.**
+
+**실행 전 preflight (API 호출 0):** `git rev-parse --short HEAD` 와 `git status --porcelain` 으로
+P20 배포(`befe834`) 이후 production build 가 0건인지 먼저 확인한다. build 가 있었다면
+241개 lastmod 가 갱신됐다는 뜻이고 관측 해석이 달라진다.
+
+```python
+#!/usr/bin/env python3
+"""P20 관측 — GSC READ-ONLY. 의존성 0 (openssl + 표준 라이브러리).
+
+사용: python3 observe.py <service-account-key.json>
+     또는  GSC_KEY=<경로> python3 observe.py
+
+이 스크립트는 URL Inspection(index:inspect) 조회만 한다.
+색인 요청 / 유효성 검사 / sitemap 재제출 / Indexing API 는 참조조차 하지 않는다.
+서비스 계정 키는 저장소 밖에 두고 절대 git add 하지 않는다.
+"""
+import base64, json, os, subprocess, sys, tempfile, time
+import urllib.error, urllib.parse, urllib.request
+
+SCOPE = "https://www.googleapis.com/auth/webmasters.readonly"
+TOKEN_URI = "https://oauth2.googleapis.com/token"
+INSPECT = "https://searchconsole.googleapis.com/v1/urlInspection/index:inspect"
+SITE = "https://bag.fazr.co.kr/"
+TARGETS = ["/gyeonggi", "/busan", "/seoul"]          # +7일 정본 3개
+BASELINE = {                                          # 2026-09-04 고정값
+    "/gyeonggi": ("Crawled - currently not indexed", "2026-04-30T10:55:04Z"),
+    "/busan":    ("Crawled - currently not indexed", "2026-04-26T10:30:52Z"),
+    "/seoul":    ("Crawled - currently not indexed", "2026-04-30T10:55:04Z"),
+}
+
+def b64u(raw): return base64.urlsafe_b64encode(raw).rstrip(b"=").decode()
+
+def get_token(key):
+    now = int(time.time())
+    head = b64u(json.dumps({"alg": "RS256", "typ": "JWT"}).encode())
+    claim = b64u(json.dumps({"iss": key["client_email"], "scope": SCOPE,
+                             "aud": TOKEN_URI, "iat": now, "exp": now + 3600}).encode())
+    signing_input = f"{head}.{claim}".encode()
+    with tempfile.NamedTemporaryFile("w", suffix=".pem", delete=False) as f:
+        f.write(key["private_key"]); pem = f.name
+    os.chmod(pem, 0o600)
+    try:
+        p = subprocess.run(["openssl", "dgst", "-sha256", "-sign", pem, "-binary"],
+                           input=signing_input, capture_output=True)
+        if p.returncode != 0:
+            raise SystemExit(f"openssl 서명 실패: {p.stderr.decode()[:300]}")
+        jwt = signing_input.decode() + "." + b64u(p.stdout)
+    finally:
+        os.unlink(pem)
+    body = urllib.parse.urlencode({
+        "grant_type": "urn:ietf:params:oauth:grant-type:jwt-bearer",
+        "assertion": jwt}).encode()
+    try:
+        with urllib.request.urlopen(urllib.request.Request(TOKEN_URI, data=body)) as r:
+            return json.load(r)["access_token"]
+    except urllib.error.HTTPError as e:
+        raise SystemExit(f"토큰 교환 실패 {e.code}: {e.read().decode()[:400]}")
+
+def inspect(token, path):
+    req = urllib.request.Request(
+        INSPECT,
+        data=json.dumps({"inspectionUrl": SITE.rstrip("/") + path, "siteUrl": SITE}).encode(),
+        headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
+        method="POST")
+    try:
+        with urllib.request.urlopen(req) as r:
+            return json.load(r)["inspectionResult"]["indexStatusResult"]
+    except urllib.error.HTTPError as e:
+        return {"_error": f"{e.code} {e.read().decode()[:200]}"}
+
+def main():
+    kp = sys.argv[1] if len(sys.argv) > 1 else os.environ.get("GSC_KEY")
+    if not kp:
+        raise SystemExit(__doc__)
+    token = get_token(json.load(open(kp)))
+    print(f"{'URL':<12}{'coverageState':<36}{'lastCrawlTime':<24}변화")
+    print("-" * 88)
+    for path in TARGETS:
+        r = inspect(token, path)
+        if "_error" in r:
+            print(f"{path:<12}ERROR {r['_error']}"); continue
+        cov, last = r.get("coverageState"), r.get("lastCrawlTime")
+        b_cov, b_last = BASELINE[path]
+        d = []
+        if cov != b_cov: d.append(f"coverage {b_cov!r} → {cov!r}")
+        if last != b_last: d.append(f"lastCrawl {b_last} → {last}")
+        print(f"{path:<12}{str(cov):<36}{str(last):<24}{' / '.join(d) if d else '변화 없음'}")
+
+if __name__ == "__main__":
+    main()
+```
+
+**서비스 계정 키는 저장소 밖**(`~/Downloads/claude-seo-*.json`)에 두고 **절대 `git add` 하지 않는다.**
+`python3 observe.py <key.json>` 또는 `GSC_KEY=<경로> python3 observe.py`.
+의존성 0 — `openssl` 로 RS256 서명하고 표준 라이브러리로 호출한다.
+
+**검증 상태 (2026-09-04):** 구문 OK · 금지 엔드포인트 참조 0(`indexing.googleapis` / `urlNotifications` /
+`sitemaps` / `searchAnalytics` / PUT / DELETE) · scope `webmasters.readonly` 고정 ·
+키 하드코딩 없음 · **openssl 서명 경로 실증**(exit 0, 서명 256 bytes, JWT 3세그먼트, claim.scope 확인).
+네트워크 구간(토큰 교환·Inspection)은 FREEZE 중이라 실행하지 않았다 — 그 부분은
+2026-09-04 에 실제로 동작한 `gsc_diag.py` 와 동일한 코드다.
 
 **GSC 규칙:** READ-ONLY only. URL Inspection 1회 **최대 6 URL**. 색인 요청 / 유효성 검사 / sitemap 재제출 / Indexing API / 대량 Inspection **전부 금지**. scope `webmasters.readonly` 유지. 서비스 계정 JSON `git add` 금지.
 
@@ -1096,6 +1215,16 @@ Search Analytics 90일: **clicks 0 / impressions 0.**
 
 관측 종료 전까지 `app/` `components/` `lib/` `data/` `public/` 를 바꾸지 않는다.
 특히 region · district · sitemap · metadata · `INITIAL_COUNT` · `adjacentDistricts` · schema/FAQ 를 열지 않는다.
+
+**디렉터리 목록만 보고 판단하지 않는다. 루트 레벨 tracked 파일도 전부 금지다.**
+`.gitignore` · `package.json` · `next.config.ts` · `tsconfig.json` · `postcss.config.mjs` 등은
+Ignored Build Step 의 세 pathspec(`':!*.md'` `':!docs/'` `':!scripts/'`) 어디에도 걸리지 않아
+**변경 시 production build 를 일으킨다.**
+
+실측 확인: 과거 `.gitignore` 만 바꾼 커밋 `f9672fa` 에 현재 ignore 명령을 대입하면
+`exit 1 (BUILD)` 이다. 특히 `.gitignore` 에 `tsconfig.tsbuildinfo` 를 추가하는 것은
+빌드 산출물 위생 작업이라 가장 무해해 보이지만 **관측을 통째로 오염시킨다.**
+(`tsconfig.tsbuildinfo` 는 애초에 git 에 추적되지 않으므로 실익도 0이다.)
 
 **이유:** production build 가 한 번이라도 발생하면 `app/sitemap.ts` 의 `new Date()` 때문에 241개 lastmod 가 다시 갱신된다. `lib/regions.ts` 고령군 중복 정의처럼 사소해 보이는 수정도 포함이다.
 
