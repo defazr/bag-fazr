@@ -748,6 +748,25 @@ def build_candidate(
             + ", ".join(f"{r} {d}: {c}건" for (r, d), c in known_historical.items())
         )
 
+    # ── 계측: 구군별 손실 분해 (관측 전용) ─────────────────────────────
+    # "몇 % 줄었나"가 아니라 "어디에서 왜 줄었나"를 사후에 분해하기 위한 값이다.
+    # 수집·분류·dedupe·격리 판정에는 일절 쓰이지 않고, 무결성 게이트도 이 값을
+    # 읽지 않는다. 관측만 추가하고 기존 흐름은 한 줄도 바꾸지 않는다.
+    #
+    # unmatched 는 district 귀속이 불가능하다(분류에 실패해 district_slug 가
+    # 없다). 따라서 구군 사슬은 raw 가 아니라 classified 에서 시작하며,
+    # unmatched 는 전국 회계에만 존재한다. 억지로 귀속시키지 않는다.
+    district_stats: dict[str, dict[str, int]] = {}
+
+    def _dstat(rs: str, ds: str) -> dict:
+        return district_stats.setdefault(f"{rs}/{ds}", {
+            "classified_before_dedupe": 0,
+            "duplicates_removed": 0,
+            "after_dedupe": 0,
+            "contradictions_removed": 0,
+            "final": 0,
+        })
+
     # 3. Dedupe per district
     total_before_dedupe = sum(
         sum(len(stores) for stores in districts.values())
@@ -755,9 +774,15 @@ def build_candidate(
     )
     for region_slug in classified:
         for district_slug in classified[region_slug]:
+            _before_n = len(classified[region_slug][district_slug])
             classified[region_slug][district_slug] = dedupe_stores(
                 classified[region_slug][district_slug]
             )
+            _after_n = len(classified[region_slug][district_slug])
+            _d = _dstat(region_slug, district_slug)
+            _d["classified_before_dedupe"] = _before_n
+            _d["duplicates_removed"] = _before_n - _after_n
+            _d["after_dedupe"] = _after_n
     total_after_dedupe = sum(
         sum(len(stores) for stores in districts.values())
         for districts in classified.values()
@@ -807,6 +832,12 @@ def build_candidate(
                     rejected_stores.append(
                         f"{region_slug}/{district_slug} | {s.get('name', '?')} | {reason}"
                     )
+            # 계측: 반드시 재할당 '전'에 잰다. stores = verified 뒤에 재면
+            # len(stores) == len(verified) 라 항상 0으로 굳는다. 조용히 틀리는
+            # 종류의 버그라서 fixture 테스트로 6/2/4/1/3 을 고정해 둔다.
+            _d = _dstat(region_slug, district_slug)
+            _d["contradictions_removed"] = len(stores) - len(verified)
+
             if len(verified) != len(stores):
                 log.error(
                     f"  지역 검증 실패로 제외: {region_name} {district_name} "
@@ -815,6 +846,7 @@ def build_candidate(
                 stores = verified
 
             count = len(stores)
+            _d["final"] = count
             districts_meta.append({
                 "district": district_name,
                 "districtSlug": district_slug,
@@ -903,6 +935,8 @@ def build_candidate(
         "unknown_provinces": {},
         "unknown_districts": {},
         "historical_exceptions": {f"{r} {d}": c for (r, d), c in known_historical.items()},
+        # 구군별 손실 분해 (관측 전용). 게이트는 이 키를 읽지 않는다.
+        "district_stats": district_stats,
         "workspace": workspace,
     }
 

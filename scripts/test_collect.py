@@ -1255,6 +1255,123 @@ finally:
     shutil.rmtree(base, ignore_errors=True)
 
 
+# ------------------------------------------------------- P19 계측 (구군별 분해)
+print("\n[P19-INSTR] district_stats — 구군별 손실 원인 분해")
+
+def _it(name, road, lot):
+    return {"BPLC_NM": name, "ROAD_NM_ADDR": road, "LOTNO_ADDR": lot,
+            "SALS_STTS_CD": "01", "SALS_STTS_NM": "영업/정상", "APLY_YMD": "2026-01-01"}
+
+# 강남: 정상 3 + duplicate 2 + contradiction 1  → 6 / 2 / 4 / 1 / 3
+GN_A = _it("정상A", "서울특별시 강남구 테헤란로 1", "서울특별시 강남구 역삼동 1")
+FIX_GANGNAM = [
+    GN_A, GN_A, GN_A,                                                    # dedupe 2건 제거
+    _it("정상B", "서울특별시 강남구 테헤란로 2", "서울특별시 강남구 역삼동 2"),
+    _it("정상C", "서울특별시 강남구 테헤란로 3", "서울특별시 강남구 역삼동 3"),
+    # road 는 강남 → 강남으로 분류되지만 lot 이 전남이라 저장 직전 격리된다
+    _it("모순", "서울특별시 강남구 테헤란로 9", "전라남도 강진군 강진읍 1"),
+]
+# 해운대: 정상 2 + duplicate 1 + contradiction 0  → 3 / 1 / 2 / 0 / 2
+HD_A = _it("해운대A", "부산광역시 해운대구 해운대로 1", "부산광역시 해운대구 우동 1")
+FIX_HAEUNDAE = [
+    HD_A, HD_A,
+    _it("해운대B", "부산광역시 해운대구 해운대로 2", "부산광역시 해운대구 우동 2"),
+]
+
+before_repo = data_fingerprint(os.path.join(ROOT, "data"))
+tmp = tempfile.mkdtemp()
+try:
+    ws = os.path.join(tmp, "cand")
+    stats = collect.build_candidate(FIX_GANGNAM + FIX_HAEUNDAE, "2026-09-04", ws)
+    ds = stats["district_stats"]
+
+    # ── 핵심 fixture: 6 / 2 / 4 / 1 / 3
+    gn = ds.get("seoul/gangnam")
+    check("INSTR) 강남 district_stats 존재", gn is not None, str(sorted(ds)[:5]))
+    check("INSTR) 강남 classified_before_dedupe = 6",
+          gn and gn["classified_before_dedupe"] == 6, str(gn))
+    check("INSTR) 강남 duplicates_removed = 2", gn and gn["duplicates_removed"] == 2, str(gn))
+    check("INSTR) 강남 after_dedupe = 4", gn and gn["after_dedupe"] == 4, str(gn))
+    check("INSTR) 강남 contradictions_removed = 1 (재할당 전 계측)",
+          gn and gn["contradictions_removed"] == 1, str(gn))
+    check("INSTR) 강남 final = 3", gn and gn["final"] == 3, str(gn))
+
+    # ── B) 여러 구군이 서로 오염되지 않음
+    hd = ds.get("busan/haeundae")
+    check("INSTR-B) 해운대 3 / 1 / 2 / 0 / 2",
+          hd == {"classified_before_dedupe": 3, "duplicates_removed": 1, "after_dedupe": 2,
+                 "contradictions_removed": 0, "final": 2}, str(hd))
+    others = {k: v for k, v in ds.items()
+              if k not in ("seoul/gangnam", "busan/haeundae") and any(v.values())}
+    check("INSTR-B) 나머지 구군은 전부 0 (오염 없음)", not others, str(list(others)[:5]))
+
+    # ── A) 0건 구군도 5개 값 전부 0으로 존재
+    total_districts = sum(len(v) for v in collect.DISTRICT_SLUG_MAP.values())
+    check("INSTR-A) 전체 구군이 district_stats 에 존재",
+          len(ds) == total_districts, f"{len(ds)} != {total_districts}")
+    zeros = ds.get("jeju/jejusi")
+    check("INSTR-A) 0건 구군도 5개 값 0으로 존재",
+          zeros == {"classified_before_dedupe": 0, "duplicates_removed": 0, "after_dedupe": 0,
+                    "contradictions_removed": 0, "final": 0}, str(zeros))
+    check("INSTR-A) 모든 항목이 5개 키를 갖춤",
+          all(set(v) == {"classified_before_dedupe", "duplicates_removed", "after_dedupe",
+                         "contradictions_removed", "final"} for v in ds.values()))
+
+    # ── 구군 단위 reconciliation 두 등식
+    bad = [k for k, v in ds.items()
+           if v["classified_before_dedupe"] != v["duplicates_removed"] + v["after_dedupe"]]
+    check("INSTR) 구군: classified = duplicates + after_dedupe", not bad, str(bad[:5]))
+    bad = [k for k, v in ds.items()
+           if v["after_dedupe"] != v["contradictions_removed"] + v["final"]]
+    check("INSTR) 구군: after_dedupe = contradictions + final", not bad, str(bad[:5]))
+
+    # ── 전국 합계가 기존 stats 와 일치 (unmatched 는 귀속하지 않는다)
+    S = lambda f: sum(v[f] for v in ds.values())
+    check("INSTR) Σ classified_before_dedupe == stats.dedupe_input",
+          S("classified_before_dedupe") == stats["dedupe_input"],
+          f"{S('classified_before_dedupe')} != {stats['dedupe_input']}")
+    check("INSTR) Σ duplicates_removed == stats.duplicates_removed",
+          S("duplicates_removed") == stats["duplicates_removed"],
+          f"{S('duplicates_removed')} != {stats['duplicates_removed']}")
+    check("INSTR) Σ after_dedupe == stats.verified_input",
+          S("after_dedupe") == stats["verified_input"],
+          f"{S('after_dedupe')} != {stats['verified_input']}")
+    check("INSTR) Σ contradictions_removed == stats.contradictions",
+          S("contradictions_removed") == stats["contradictions"],
+          f"{S('contradictions_removed')} != {stats['contradictions']}")
+    check("INSTR) Σ final == stats.final",
+          S("final") == stats["final"], f"{S('final')} != {stats['final']}")
+    check("INSTR) unmatched 는 구군에 귀속되지 않음 (전국 회계에만)",
+          stats["active"] - stats["unmatched_total"] == S("classified_before_dedupe"),
+          f"active {stats['active']} - unmatched {stats['unmatched_total']} "
+          f"!= Σ {S('classified_before_dedupe')}")
+
+    # ── C) 계측값이 candidate 트리로 새어 나가지 않음
+    leaked = []
+    for dp, _, fns in os.walk(ws):
+        for fn in fns:
+            if not fn.endswith(".json"):
+                continue
+            raw = open(os.path.join(dp, fn), encoding="utf-8").read()
+            for k in ("district_stats", "classified_before_dedupe", "duplicates_removed",
+                      "after_dedupe", "contradictions_removed"):
+                if k in raw:
+                    leaked.append(f"{fn}:{k}")
+    check("INSTR-C) 계측 키가 candidate 파일에 기록되지 않음", not leaked, str(leaked[:5]))
+
+    # ── D) 게이트 A–G 가 계측 전과 동일하게 동작
+    rep, plan = collect.integrity.validate_candidate(
+        ws, os.path.join(tmp, "no-such-prod"), stats, collect.verify_store_location)
+    check("INSTR-D) A–G 통과 (계측이 게이트 판정에 영향 없음)", rep.ok, rep.summary())
+    check("INSTR-D) bootstrap 이므로 G.total_wipe 미발화",
+          not any(c == "G.total_wipe" for c, _ in rep.failures))
+finally:
+    shutil.rmtree(tmp, ignore_errors=True)
+
+check("INSTR-F) production data checksum 무변경",
+      before_repo == data_fingerprint(os.path.join(ROOT, "data")))
+
+
 # ---------------------------------------------------------------- 자기 검사
 # 요약 블록은 반드시 파일의 마지막이어야 한다. 뒤에 check()가 붙으면
 # 그 검사는 집계·exit code에 반영되지 않는다. 2026-09-03에 이 실수를
