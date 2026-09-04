@@ -1,4 +1,15 @@
-# GPT 핸드오프 — 2026-09-04 (HEAD `40a4ee9` 기준)
+# GPT 핸드오프 — bag.fazr.co.kr 정본
+
+> **리비전 표기 규약.** 이 프로젝트는 세 가지가 서로 다를 수 있으므로 `HEAD` 한 단어로 뭉뚱그리지 않는다.
+>
+> | 용어 | 뜻 | 2026-09-04 현재 |
+> |---|---|---|
+> | **repository HEAD** | git 이력의 최신 커밋. docs-only 커밋도 여기에 포함된다 | `befe834` |
+> | **production revision** | 실제로 배포되어 라이브를 서빙하는 커밋 | `befe834` (`dpl_GvogSRHiaFRkM5QWRMMhwsfj26Pc`, READY) |
+> | **canonical data revision** | production `data/` 를 마지막으로 바꾼 커밋 | `dc22fe2` (P19 재수집) |
+>
+> 셋이 같아 보이는 시점도 있지만 일치를 전제하지 않는다. docs-only 커밋은 repository HEAD 만 올리고
+> production revision 을 바꾸지 않는다 (§0-8).
 
 > 이 문서는 **정본**이다. 다음 세션은 커밋 로그를 다시 읽기 전에 이 문서부터 읽는다.
 > 이전 핸드오프: `docs/gpt/GPT-HANDOFF-20260426.md` (P17/P17.5)
@@ -26,7 +37,14 @@
 **게이트 전체를 통과하기 전에는 production promotion을 하지 않는다.**
 
 게이트는 `scripts/integrity.py`의 `validate_candidate()` 하나뿐이다.
-**named gate는 A–G 7개이고, 별도로 S-prefixed structural audit이 있다.**
+**named gate는 A–G 7개이고, 별도로 structural audit(`audit_tree_structure()`)이 있다.**
+
+> **[정정 2026-09-04]** 이전 판은 이를 "S-prefixed structural audit" 이라고 적었으나 사실과 다르다.
+> `S.` 접두 코드는 **`S.empty` 하나뿐**(`integrity.py:580`)이고, 나머지 구조 실패는
+> `check_tree_counts()` 에 위임되어 **`F.*` 접두**로 나온다. 실측:
+> 빈 디렉터리 → `['S.empty']` / count 불일치 트리 → `['F.file_selfcount','F.index_vs_file', …]`.
+> **차단 동작에는 영향이 없다** — `recover_promotion_state()` 는 접두사가 아니라
+> `report.ok`(= `failures` 유무)만 본다 (`collect.py:1007`).
 
 **Candidate integrity gate**
 
@@ -59,7 +77,7 @@ production preserved
 process non-zero
 ```
 
-**별도 structural audit — S-prefixed checks.**
+**별도 structural audit — `audit_tree_structure()`.** (§0-2 정정 참조: `S.` 접두는 `S.empty` 하나뿐이고 나머지는 `F.*` 로 나온다)
 `audit_tree_structure()`. crash-recovery 경로에서 production / backup tree의 **구조 검증**에만 쓴다.
 candidate 게이트가 아니다.
 
@@ -155,11 +173,32 @@ data  backup  candidate  판정
 
 ### 8. 배포 규칙
 
-- docs/md만 바꾸는 커밋에는 `[skip ci]`를 붙일 수 있다.
-- **배포가 필요한 code/data와 함께 push할 때 최종 HEAD를 `[skip ci]`로 두지 않는다.**
-- 커밋은 로컬에서 다 만들고 **push는 한 번**만 한다.
+> **[전면 개정 2026-09-04]** 이전 판은 배포 제어를 `[skip ci]` 로 설명했다. **틀렸다.**
+> 이 프로젝트에서 배포 여부를 결정하는 것은 오직 Vercel **Ignored Build Step** 의 exit code 다.
+> 실증: `befe834` 는 커밋 메시지에 `[skip ci]` 를 달았는데도 production 배포가 발생했다
+> (`dpl_GvogSRHiaFRkM5QWRMMhwsfj26Pc`, READY). 반대로 docs-only 커밋이 CANCELED 된 것은
+> `[skip ci]` 때문이 아니라 ignore 명령이 exit 0 을 반환했기 때문이다.
+
+**현재 Ignored Build Step (2026-09-04 개정):**
+
+```
+git diff --quiet HEAD^ HEAD -- ':!*.md' ':!docs/' ':!scripts/'
+```
+
+exit 0 = 빌드 건너뜀 / exit 1 = 빌드 진행 / exit 128(`HEAD^` 없음) = 빌드 진행(fail-open).
+
+- **`[skip ci]` 를 배포 제어 수단으로 쓰지 않는다.** 이 프로젝트에서 아무 효과가 없다.
+- **한 push 에 여러 커밋을 담을 때, 최종 HEAD 가 `docs/`·`*.md`·`scripts/` 만 바꾸는 커밋이면 안 된다.**
+  Ignored Build Step 은 `HEAD^..HEAD`, 즉 **최종 커밋 하나만** 판정한다. 앞선 커밋의 code/data
+  변경이 배포되지 않은 채 남는다. (실측 확인: 마지막이 docs-only 면 직전 `app/` 변경이 skip 된다.)
+- 커밋은 로컬에서 다 만들고 **push는 한 번**만 한다 — 단 위 규칙을 함께 지킨다.
 - **code와 data를 한 커밋에 섞지 않는다.**
 - **이미 push한 커밋은 amend/rebase 하지 않는다.** 오류는 문서에서 정정한다.
+- **`scripts/` 에 `.ts`/`.tsx`/`.js` 를 두지 않는다.** 현재 `scripts/` 는 `.py` 3개 + `.json` 1개라
+  production build input 이 아님이 감사됐고(§13-2), 그 전제 위에서 배포 제외 대상이다.
+
+**merge commit 은 안전하다.** `HEAD^` 는 첫 부모(main)이므로 feature 브랜치 변경이 diff 에 전부 들어와
+빌드가 진행된다. 실측 확인.
 
 ---
 
@@ -167,26 +206,50 @@ data  backup  candidate  판정
 
 | | |
 |---|---|
-| HEAD | `dc22fe2260188ac268a25995db20f36bfe97e7fe` (`dc22fe2`) |
-| origin/main | HEAD 와 일치 |
+| **repository HEAD** | `befe834` |
+| **production revision** | `befe834` (`dpl_GvogSRHiaFRkM5QWRMMhwsfj26Pc`, READY) |
+| **canonical data revision** | `dc22fe2` (2026-09-04, P19 recollection) |
+| origin/main | repository HEAD 와 일치 |
 | git status | untracked `tsconfig.tsbuildinfo` 만 |
-| 마지막 배포 data commit | **`dc22fe2`** (2026-09-04, P19 recollection) |
 | 정적 페이지 | 253 routes (HTML 252 + `sitemap.xml`) |
 | sitemap | **241 URLs**, 생성 안 된 페이지 0 |
 | 매장 총계 | **69,292건** |
 | 데이터 파일 | JSON **239개** / district data file **220개** / region index 17 |
 | **데이터 수집일** | **2026-09-04** (사용자 노출 **238 페이지**) |
 | data checksum | **`59617a5e2965712e`** |
-| 테스트 | **`PASS 226 / FAIL 0`, process exit code 0** |
+| 테스트 | **`PASS 264 / FAIL 0`, process exit code 0** |
 
-**파일 해시** (scripts 는 `40a4ee9` 이후 변경 없음)
+**테스트 계측은 세 숫자를 분리해서 읽는다** (§0-4). 2026-09-04 실측:
+
+| | |
+|---|---|
+| 실행된 assertion | **264** (`sys.setprofile` 로 `check()` 진입 계수) |
+| summary 반영 | **264** |
+| exit 판정 대상 | **264** |
+
+세 숫자가 일치하고 요약 블록 이후 실행문은 0이다. 런타임 게이트가 이 일치를 강제한다
+(불일치 시 `atexit` 에서 exit 1).
+
+**data checksum 산출식** (문서에 없어 2026-09-04 에 특정함):
+
+```
+find data -type f | sort | xargs shasum -a 256 | shasum -a 256 | cut -c1-16
+```
+
+`test_collect.py` 의 `tree_sig()`(relpath+content 를 sha256 에 누적)로는 **재현되지 않는다.**
+두 방식이 공존하므로 checksum 을 비교할 때 어느 쪽인지 먼저 확인한다.
+
+**파일 해시** (2026-09-04 실측)
 
 ```
 collect.py       cc944e916f8de7e1df6f6c0b501a5f48800dc46cafeb70a94557846d8650d066
 integrity.py     1a850a28a5bc663044d571e816f81f01b0b915561fb169d650575be2dc5de4ae
-test_collect.py  95fc21d3d7b738726a841b06271aedddcf0c1fc99363de5bc1386e87637add61
+test_collect.py  4a6bd538cbc2d2e6312f9f4448f5779355b8bd9332b1217525bfd37a64084294
 data checksum    59617a5e2965712e   (P19 이전: c6e2934b7173b8b9)
 ```
+
+`collect.py` / `integrity.py` 는 `40a4ee9` 이후 무변경이다. `test_collect.py` 는
+P20-SAFETY-TEST-HARDENING(`befe834`)에서 바뀌었다 — 게이트 로직은 건드리지 않았다 (§13-1).
 
 
 ### Production 완료 항목
@@ -721,7 +784,11 @@ Jeonnam 6,736→6,703 (-0.49%) / Incheon 1,145→1,143 (-0.17%) / Jeonbuk +1.52%
 `classify_and_save` 는 `report.ok is False` 일 때만 `CollectionError` 를 던진다.
 즉 `note` 로 두면 promotion 이 그대로 진행된다 — 로그만 남기는 경고는 안전장치가 아니다.
 
-## 10-7. fixture matrix (전부 테스트로 고정, `PASS 226 / FAIL 0 / exit 0`)
+## 10-7. fixture matrix (전부 테스트로 고정, 당시 `PASS 226 / FAIL 0 / exit 0`)
+
+> **[주의]** 이 절의 `PASS 226` 은 **P19 당시(2026-09-04) 값**이다. 현재 baseline 은
+> **`PASS 264 / FAIL 0 / exit 0`** 이다 (§1, §13-1). 아래 §10 전체가 P19 시점 기록이며,
+> 현재 상태를 읽으려면 §1 과 §12·§13 을 본다.
 
 | | 시나리오 | 기대 | 발화 |
 |---|---|---|---|
@@ -914,7 +981,7 @@ Busan Jung-gu 290 / Gangjin 85.
 
 | 항목 | 비고 |
 |---|---|
-| GSC indexing diagnosis | Google 색인 0 (사용자 보고). canonical은 정상. |
+| ~~GSC indexing diagnosis~~ | **2026-09-04 완료.** `GSC-DIAGNOSIS-20260904.md`. 색인 0 확정(90일 노출 0), Google 이 아는 URL 은 241개 중 6개뿐 |
 | 0–9 store pages | 전국 33개 (서울 11개 포함) |
 | server-rendered store coverage | 페이지당 초기 렌더 매장 수 제한 |
 | template similarity | 페이지 간 본문 유사도 |
@@ -933,26 +1000,113 @@ Busan Jung-gu 290 / Gangjin 85.
 | 홈 가격표 모순 | 20L 490원 vs FAQ 500~1,000원 |
 | AdSense 문서/코드 모순 | P3 이월 |
 | sitemap lastmod | P3 이월 |
-| `docs/AUDIT-20260903.md` 전면 갱신 | 현재 P17.6 시점 내용. **HEAD와 불일치.** |
-| `docs/SESSION_REPORT.md` 갱신 | 현재 P18-A 시점 내용. **HEAD와 불일치.** |
+| `docs/AUDIT-20260903.md` | P17.6 시점 감사 기록. **이미 stale 배너가 있고 이 문서를 정본으로 가리킨다.** 전면 갱신 불필요 — 역사 기록으로 보존 |
+| `docs/SESSION_REPORT.md` | P18-A 시점 기록. **이미 stale 배너 있음.** 역사 기록으로 보존 |
+| `docs/gpt/SESSION_REPORT.md` | 2026-04-26 시점. 2026-09-04 에 stale 배너 추가함 |
+| **A 게이트 침묵 경로** | `expected_total is None` 이면 fail 도 note 도 없이 침묵한다 (`integrity.py:609`). 출하 경로(`main()`)는 항상 값을 넘기므로 현재 무해하나, `classify_and_save` 기본값이 `None` 이라 **새 호출자가 생기면 A 가 조용히 꺼진다.** 다음 collector 변경 때 기본값 제거를 검토한다. 이번에 semantics 를 바꾸지 않았다 |
+| `audit_tree()` production 미호출 | 유일한 호출자가 `test_collect.py`. 죽은 코드인지 의도된 도구인지 문서에 없다 |
+| sitemap `lastmod` | `app/sitemap.ts:8,17,28` 이 전부 `new Date()`. **아무 production build 나 241개 lastmod 를 동시에 갱신한다.** P20 관측 종료 후 최우선 후보 |
+| `app/` 아래 `.md` 와 ignore 규칙 | `':!*.md'` 는 git pathspec 상 **모든 위치**의 `.md` 를 제외한다(`app/x/README.md` 포함). 현재 노출도 0(모든 `.md` 11개가 `docs/` 아래, MDX 참조 0)이나 나중에 MDX 도입 시 조용히 skip 된다 |
 
 ---
 
 # 12. 현재 위치
 
-**P19 CLOSED.** (§10-9, §10-10)
+| | |
+|---|---|
+| **P19** | **CLOSED** (§10-9, §10-10) |
+| **P20 Phase 1** | **DEPLOYED / TECHNICAL PASS / OBSERVATION ACTIVE / FREEZE** |
+| **P20-SAFETY-TEST-HARDENING** | **CLOSED** (§13-1) |
+| **P20 build-trigger hardening** | **CLOSED** (§13-2) |
 
 다음 세션이 하지 말아야 할 것:
 
-- SAFETY 재판정 (2026-09-04 종료)
-- VALUE 재판정 (2026-09-04 종료)
+- SAFETY 재판정 / VALUE 재판정 (2026-09-04 종료)
 - **P19 recollection 재실행**
 - threshold 재논쟁 — 새 실측이나 실제 사고 근거 없이는 하지 않는다
+- **관측 종료 전 `app/` `components/` `lib/` `data/` `public/` 변경** (§13-5)
 
-**P19 완료가 Google 색인 문제 해결을 의미하지 않는다.**
-GSC indexing diagnosis 는 §11 Deferred 로 그대로 남아 있다.
-다음 우선순위는 별도 판단 사항이다.
+**지금 가장 중요한 것은 무언가를 더 고치는 것이 아니라 변수를 더 넣지 않는 것이다.**
++7일 관측 시점까지 문서 외에는 건드리지 않는다.
 
 ---
 
-*이 문서는 HEAD `dc22fe2` 기준 정본이며, 2026-09-04 P19 완료를 반영해 갱신됐다.*
+# 13. P20 — Google 색인 회복 (진행 중)
+
+> 상세는 별도 문서에 있다. 여기서는 **상태와 금지사항만** 고정한다. 내용을 중복하지 않는다.
+> - `docs/gpt/GSC-DIAGNOSIS-20260904.md` — 색인 진단 + 세션 감사 3건
+> - `docs/gpt/P20-PHASE1-PRE-REPORT-20260904.md` — 설계 판단 (**바이트 예측은 반증됨**)
+> - `docs/gpt/P20-PHASE1-COMPLETION-20260904.md` — 구현·배포 결과 + 예측 정정 (해당 항목 정본)
+
+## 13-1. P20-SAFETY-TEST-HARDENING (`befe834`) — CLOSED
+
+**게이트 정책 변경 0.** 테스트가 각 규칙의 발화를 실제로 증명하도록만 바꿨다.
+
+- **C positive wiring** — `C.location_mismatch`(store 주소만 변경, 건수 불변) / `C.no_names`
+- **`A.api_completeness`** — `expected_total` 주입 + negative 대조군
+- **`E.count_vs_records`** — `contradiction_records` 만 늘린다. 선언값을 바꾸면 `B.stage3`·`B.closure` 가 함께 터져 E 를 가린다
+- **F 13개 코드** — 합성 트리를 `check_tree_counts` 에 직접 넣어 exact-set 단언. 이전에는 접두사 검사 하나뿐이라 `F.missing_file` 이 죽고 `F.index_selfsum` 만 살아 있어도 통과했다
+- **masking fixture 2건** — `[P3-13] 1`(`G.national_drop` 이 대신 막음) / `[P3-13] 3`(`G.total_wipe` 가 대신 막음). 둘 다 **변이 제거 시 promotion 까지 감**을 실제로 확인
+- **항진명제 제거** — `issubclass(CollectionError, Exception)` 은 클래스 정의만으로 항상 참이었다
+- **runtime structural self-test** — 리터럴 `check(` 스캔은 `chk = check` / `check (` / `globals()["check"]` 로 우회되고 요약 앞 `sys.exit(0)` 을 못 잡았다. 실행 횟수를 요약 시점과 `atexit` 시점에 비교하는 게이트로 교체. 격리 트리 실측: 우회 3형태 전부 exit 1, 대조군 exit 0
+- **fixture 정합성** — 테스트 10 주석의 `5 -> 1 = -80%` → 실제값 `3 -> 1 = -66.7%` 로 정정하고 시도·구군 층 침묵 사유(R1·D1·D2·AGG 임계값 미달) 명시. S22/S24 의 pad 중복 append 제거(판정 불변)
+
+## 13-2. Vercel build-trigger hardening — CLOSED
+
+**문제.** `scripts/` 파일 하나만 바꿔도 production 이 재배포되고, `app/sitemap.ts` 의 `new Date()` 때문에 241개 lastmod 가 전부 새로 찍혔다.
+
+**감사 — `scripts/` 는 production build input 이 아니다.** `package.json` 에 prebuild/postbuild 없음, `next.config.ts` 빈 설정, `app`/`components`/`lib` 에서 참조 0건, `scripts/legacy_districts.json` 을 TS 가 읽지 않음, tsconfig include 는 `**/*.ts|tsx` 인데 `scripts/` 는 `.py`+`.json` 뿐, 빌드의 파일 접근 지점은 `lib/data.ts` → `data/` 하나뿐.
+
+**변경.** Ignored Build Step: `':!*.md' ':!docs/'` → **`':!*.md' ':!docs/' ':!scripts/'`**
+
+**truth table 13/13 실측 일치.** scripts-only → skip / docs-only → skip / docs+scripts → skip / `app`·`components`·`lib`·`data`·`public`·`package.json` → build / **app+scripts 혼합 → build**. merge commit → build(안전, 첫 부모가 main). 최초 커밋(`HEAD^` 없음) → exit 128 → build(fail-open).
+
+**설정 저장 자체는 배포를 만들지 않는다.** 저장(12:19:26Z) 후 새 deployment 0, production revision `befe834` 유지, sitemap lastmod 재갱신 0 — 전부 실측 확인.
+
+**롤백 명령:** `git diff --quiet HEAD^ HEAD -- ':!*.md' ':!docs/'`
+
+## 13-3. accidental deployment 기록 (`befe834`)
+
+scripts-only 커밋에 `[skip ci]` 를 붙였으나 **production 배포가 발생했다** (`dpl_GvogSRHiaFRkM5QWRMMhwsfj26Pc`, READY).
+
+**원인.** 이 프로젝트에서 `[skip ci]` 는 배포 제어 수단이 아니다. Ignored Build Step 의 exit code 가 실제 결정자다 (§0-8).
+
+**영향.** application content 는 의미상 동일 — `/gyeonggi` **2,691자** / `/busan` **995자** / sitemap **241 URLs** 전부 유지. **바뀐 것은 241개 lastmod 가 같은 날 안에서 한 번 재갱신된 것뿐**(빌드 11:47:48Z → lastmod 11:47:59Z).
+
+**revert 하지 않은 이유.** revert 자체가 또 build 를 일으켜 lastmod 를 다시 흔든다. 현 상태 유지가 최선이다.
+
+## 13-4. P20 Phase 1 관측 상태
+
+| 역할 | URL | 2026-09-04 baseline |
+|---|---|---|
+| **treatment** | `/gyeonggi` | Crawled - currently not indexed / lastCrawl `2026-04-30T10:55:04Z` |
+| **comparison** | `/busan` | Crawled - currently not indexed / lastCrawl `2026-04-26T10:30:52Z` |
+| **comparison** | `/seoul` | Crawled - currently not indexed / lastCrawl `2026-04-30T10:55:04Z` |
+| — | `/gyeonggi/suwon` `/gyeonggi/anyang` `/busan/haeundae` 등 district 표본 | **URL is unknown to Google** |
+
+Search Analytics 90일: **clicks 0 / impressions 0.**
+
+> `/busan` 을 **control 이라고 쓰지 않는다.** 무작위 배정이 아니고 Google 크롤 스케줄링은 비결정적이다. **comparison URL** 로 표기한다.
+
+**관측 일정** — **+7일** `/gyeonggi` `/busan` `/seoul` — **+21일** 최소 comparison set + district 표본 — **+45일** 최소 URL set + Search Analytics.
+
+**GSC 규칙:** READ-ONLY only. URL Inspection 1회 **최대 6 URL**. 색인 요청 / 유효성 검사 / sitemap 재제출 / Indexing API / 대량 Inspection **전부 금지**. scope `webmasters.readonly` 유지. 서비스 계정 JSON `git add` 금지.
+
+## 13-5. FREEZE 규칙
+
+관측 종료 전까지 `app/` `components/` `lib/` `data/` `public/` 를 바꾸지 않는다.
+특히 region · district · sitemap · metadata · `INITIAL_COUNT` · `adjacentDistricts` · schema/FAQ 를 열지 않는다.
+
+**이유:** production build 가 한 번이라도 발생하면 `app/sitemap.ts` 의 `new Date()` 때문에 241개 lastmod 가 다시 갱신된다. `lib/regions.ts` 고령군 중복 정의처럼 사소해 보이는 수정도 포함이다.
+
+## 13-6. 관측 종료 후 후보 (우선순위는 관측 결과로 재판정)
+
+1. **sitemap `lastmod`** 를 실제 변경 시각 기반으로 수정
+2. **`INITIAL_COUNT`** — **PRE-REPORT §L-1 의 바이트 계산은 폐기하고 참고하지 않는다.** RSC payload 증가를 누락해 과소평가다. 실측 재계산이 선행 조건
+3. `adjacentDistricts` — 내부 링크 수가 이 사이트에서 예측력이 없다는 반증이 있어 우선순위 낮음
+4. schema / FAQ 정리
+5. 외부 backlink 신호 검토 — 전 표본에서 referring 이 내부 URL 하나뿐이었다
+
+---
+
+*이 문서는 repository HEAD 기준 정본이다. P19 완료(2026-09-04), P20 Phase 1 배포·관측 개시, 테스트 하드닝, 배포 트리거 하드닝을 반영해 갱신됐다.*
