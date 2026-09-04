@@ -502,10 +502,10 @@ HTML 문자열을 치환하면 RSC 페이로드가 깨져 오히려 error bounda
 
 ---
 
-# 10. P19 SAFETY 워크스트림 — 현재 **HARD BLOCK**
+# 10. P19 SAFETY 워크스트림 — **판정 완료 (SAFETY GO / VALUE GO)**
 
-> 이 절이 다음 세션의 출발점이다. 아래를 읽으면 **SAFETY 최종 재판정에 바로 들어갈 수 있다.**
-> 재측정은 필요 없다. 필요한 실측은 전부 여기 있다.
+> 이 절이 다음 세션의 출발점이다. **최종 판정과 다음 단계는 §10-9 에 있다.**
+> 10-1 ~ 10-8 은 그 판정의 근거이며, 재측정은 필요 없다.
 
 ## 10-1. 최초 SAFETY 판정 = **STOP** (실증)
 
@@ -543,7 +543,7 @@ promotion  → 실행됨. 매장 10건 → 0건
 
 **남아 있던 구멍:** `G.total_wipe` 는 candidate 가 **정확히 0** 일 때만 발화한다.
 candidate 1건 / 10건 / 100건 같은 자기일관적 near-total drop 은 그대로 통과했다.
-→ P19 HARD BLOCK 유지.
+→ **당시** P19 HARD BLOCK 유지 사유였다. 이 구멍은 `40a4ee9` 에서 닫혔다(§10-6).
 
 ## 10-3. SAFETY dry-run 2회 (promotion 불가 3중 차단)
 
@@ -764,26 +764,95 @@ Jeonnam 6,736→6,703 (-0.49%) / Incheon 1,145→1,143 (-0.17%) / Jeonbuk +1.52%
    delta 크기를 모른다. 반영되면 게이트가 발화할 수 있고, 그건 정상 발화다.
 6. **production 의 42건 위치 모순.** 재수집하면 격리되어 사라진다(설명 가능한 감소).
 
-## 10-9. 현재 상태와 다음 단계
+## 10-9. 최종 판정과 다음 단계 (2026-09-04 확정)
 
 | | |
 |---|---|
-| P19 production promotion | **HARD BLOCK** |
-| 이유 | catastrophic guard 구현은 끝났으나 **GPT SAFETY 최종 재판정을 아직 하지 않았다** |
-| 다음 단계 | **GPT SAFETY FINAL RE-JUDGMENT** |
+| **P19 SAFETY** | **GO** (판정일 2026-09-04) |
+| **P19 VALUE** | **GO** (판정일 2026-09-04) |
+| **NECESSITY** | **MEDIUM** |
+| **P19 recollection** | **APPROVED FOR ONE CONTROLLED RUN** |
 
-**이 문서 어디에도 SAFETY GO, P19 실행 승인, recollection 승인은 없다.**
-그런 판정은 아직 내려지지 않았다.
+> **다음 세션은 SAFETY 도 VALUE 도 다시 판정하지 않는다. 두 게이트는 닫혔다.**
+> 단, 실제 collector 실행에서 **A–G 중 하나라도 실패하면 promotion 0 으로 STOP** 한다.
+> 그 자리에서 threshold 를 완화하지 않는다.
 
-최종 판정 이후의 순서(변경 없음):
+### SAFETY = GO 근거 (요약)
 
-1. SAFETY FINAL RE-JUDGMENT
-2. GO 여도 **P19 실행 금지** — VALUE / NECESSITY 판정이 남는다
-3. safety + value 둘 다 GO 일 때만 recollect
-4. recollection 후에도 integrity gate 통과 전 promotion 금지
+- 최초 STOP 을 만든 `totalCount=0` silent wipe 경로 폐쇄 (§10-1, §10-2)
+- near-total drop 도 `G.national_drop` 으로 폐쇄. 절대량 하한이 없어 `3 → 1` 도 막힌다
+- 시도 / 구군 / 전멸 / 분산 손실 각각에 가드 존재 (§10-6)
+- dedupe·contradiction 은 **면제 사유가 아니라 diagnostic only.** S12 로 고정
+- S1–S24 + N2 경계 전부 PASS (`PASS 226 / FAIL 0 / exit 0`)
+- §10-8 의 남은 threshold blind spot 은 **탐지 한계**이지,
+  현재 확인된 silent catastrophic path 가 열린 것이 아니다
 
-> **"collector 가 안전해졌다" 와 "지금 recollect 할 가치가 있다" 를 같은 판단으로 취급하지 않는다.**
-> 서울 sparsity 는 public API 자체의 희소성이다. P19 가 강북구 문제를 해결한다고 기대하지 않는다. (§5)
+### VALUE = GO 근거
+
+**`+27` 순증 자체는 이유가 아니다.** 그 숫자만 보면 안 해도 되는 작업처럼 보인다.
+
+| | |
+|---|---|
+| production | 69,265 |
+| candidate | 69,292 |
+| net | **+27 / +0.04%** |
+| 감소 | **38 districts / -366** |
+| 증가 | **52 districts / +393** |
+| 동일 | 139 districts |
+| **gross movement** | **759건 = production 의 약 1.10%** |
+
+- **노후도**: production 수집일 `2026-03-27`, 판정일 기준 **161일**.
+  사용자에게 **239 페이지**에서 "데이터 수집일: 2026-03-27" 로 직접 노출된다.
+  날짜를 정직하게 보여주기 때문에 오히려 갱신하지 않는 비용이 명확하다.
+- **품질**: contradiction **42건**이 candidate 에서 quarantine 된다.
+  자동 주소 수정이 아니라 격리다.
+- **신규 반영**: 증가 393건은 현재 사이트에 없는 매장이다.
+  Namyangju +95 / Jeonju +36 / Wonju +25 등.
+- 주요 감소: Hwaseong -108 / Busan Jung-gu -66 / Mapo -66 / Gangjin -32
+  (대부분 source/API 감소 후보. §10-5 의 해석 주의 참조)
+- 실행 비용 낮음 (912 calls / 약 8.5분 / 쿼터 9.1%), 실패해도 production 보존
+- **기다릴 구체적 이점이 없다**
+
+알고 있는 한계이며 **VALUE STOP 사유로 보지 않는 것**:
+
+- **서울 sparsity 미해결.** Gangbuk / Songpa / Jungnang 은 source 자체가 0건이다.
+  P19 의 성공 조건을 "세 구를 채운다"로 잡은 적이 없다.
+  **VALUE GO 의 근거로 서울 해결을 쓰지 않는다.**
+- 일부 district 감소, Tongyeong 0건
+- 인천 source lag (Seohae / Geomdan 원천 0건). recollection 은 일회성 마이그레이션이
+  아니라 반복 가능한 운영 작업이므로, 원천이 바뀌면 나중에 다시 돌린다.
+- **SEO 효과는 판정 근거에서 제외했다. SEO effect = UNKNOWN.**
+
+### Tongyeong 정책 결정 (선례로 남긴다)
+
+`gyeongnam/tongyeong` — production 1 / raw 1 / dedupe 0 / **contradiction 1** / candidate 0.
+매장명 `도매유통`. 도로명은 경상남도, 지번은 전라남도로 **지역 identity 를 검증할 수 없다.**
+**source disappearance 가 아니라 quarantine 에 따른 의도된 품질 변화다.**
+
+> **정책: 검증 불가능한 1건을 coverage 를 위해 유지하는 것보다 정직한 0건을 우선한다.**
+
+단, 이것은 **"모든 contradiction 은 항상 삭제가 정답"** 이라는 뜻이 아니다.
+어느 위치가 맞는지 **독립 검증할 수 없을 때** 임의 rewrite/relocation 하지 않고
+**quarantine** 한다는 뜻이다. 0건 페이지는 이미 편의점·마트·주민센터 대안 안내를 한다.
+
+### 다음 단계 — 판정이 아니라 실행
+
+**P19 ONE CONTROLLED PRODUCTION RECOLLECTION**
+
+```
+preflight PASS
+  → 실제 API collection (912 calls 예상)
+  → candidate 생성
+  → A–G 게이트
+  → mutation plan 확인
+  → PASS 일 때만 promotion
+```
+
+실행 중 `G.*` 또는 다른 integrity failure 가 하나라도 나면 **promotion 0 / STOP**.
+**현장에서 threshold 를 완화하지 않는다.**
+
+> 쿼터 주의: 실패해도 그 실행의 수확은 0이다(부분 수집을 남기지 않는다).
+> **하루 한 번**만 돌리고 같은 날 재시도하지 않는다. → §10-3
 
 ---
 
@@ -815,16 +884,21 @@ Jeonnam 6,736→6,703 (-0.49%) / Incheon 1,145→1,143 (-0.17%) / Jeonbuk +1.52%
 
 ---
 
-# 12. GPT에게 요청하는 것
+# 12. 현재 위치
 
-**P19 SAFETY FINAL RE-JUDGMENT.**
+**판정은 전부 끝났다.** SAFETY = GO, VALUE = GO, NECESSITY = MEDIUM. (§10-9)
 
-판단할 것은 하나다 — **§10-8 의 남은 위험이 production promotion 을 계속 막아야 할 급인가.**
+**다음은 판정이 아니라 실행이다 — P19 ONE CONTROLLED PRODUCTION RECOLLECTION.**
 
-- 코드 측 안전 근거는 §10-1 ~ §10-7 에 실측으로 정리돼 있다. 추가 측정은 필요 없다.
-- 이 판정은 **"코드가 안전한가" 만** 본다. 재수집 가치(VALUE / NECESSITY)는 그다음 단계다.
-- GO 가 나와도 **P19 실행은 여전히 금지**다. → §10-9
+다음 세션이 하지 말아야 할 것:
+
+- SAFETY 재판정 (2026-09-04 종료)
+- VALUE 재판정 (2026-09-04 종료)
+- §11 Deferred 항목을 VALUE GO 를 이유로 해결됐다고 표시하는 것
+
+실행 중 게이트가 발화하면 그것은 **정상 동작**이다. promotion 0 으로 종료하고
+숫자를 보고한 뒤 판단을 구한다. 게이트를 그 자리에서 완화하지 않는다.
 
 ---
 
-*이 문서는 HEAD `40a4ee9` 시점의 정본이다. 이후 커밋이 생기면 갱신한다.*
+*이 문서는 HEAD `40a4ee9` 기준 정본이며, 2026-09-04 최종 판정을 반영해 갱신됐다.*
