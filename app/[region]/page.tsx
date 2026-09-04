@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
+import type { Store } from "@/lib/types";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getRegionIndex } from "@/lib/data";
+import { getDistrictSampleStore, getRegionIndex } from "@/lib/data";
 import { getRegionBySlug, getRegionDisplay, REGIONS } from "@/lib/regions";
 import { buildOpenGraph, getRegionFaqs } from "@/lib/seo";
 import DistrictGrid from "@/components/region/DistrictGrid";
@@ -10,6 +11,15 @@ import FaqSection from "@/components/seo/FaqSection";
 import AdSlot from "@/components/ads/AdSlot";
 
 export const revalidate = 86400;
+
+// P20 Phase 1 pilot (2026-09-04). Google 이 실제로 크롤한 region 페이지에는
+// 판매처 데이터가 0건이었다(roadAddress 출현 17개 region 전부 0). 여기에 각
+// 구군의 대표 판매처 1곳을 SSR 로 노출해 페이지 고유 데이터를 늘린다.
+//
+// 한 곳에만 적용한다. /busan 은 같은 사이트에서 crawl 기록이 남아 있는 유일한
+// 비교 기준점이므로 변경하지 않는다. 둘 다 바꾸면 이후 관측에서 변화의 원인이
+// 이 변경인지 Google 의 자체 재평가인지 구분할 수 없다.
+const PILOT_SAMPLE_REGIONS = new Set(["gyeonggi"]);
 
 interface PageProps {
   params: Promise<{ region: string }>;
@@ -74,6 +84,16 @@ export default async function RegionPage({ params }: PageProps) {
   // 인접 시/도 링크 (현재 region 제외)
   const adjacentRegions = REGIONS.filter((r) => r.slug !== region).slice(0, 4);
 
+  // pilot 대상이 아니면 undefined 를 넘겨 기존 렌더를 그대로 유지한다.
+  let districtSamples: Record<string, Store> | undefined;
+  if (PILOT_SAMPLE_REGIONS.has(region)) {
+    districtSamples = {};
+    for (const d of data.districts) {
+      const sample = getDistrictSampleStore(region, d.districtSlug);
+      if (sample) districtSamples[d.districtSlug] = sample;
+    }
+  }
+
   return (
     <>
       <Breadcrumb items={[{ label: rd ? rd.shortLabel : regionInfo.name }]} />
@@ -95,7 +115,11 @@ export default async function RegionPage({ params }: PageProps) {
         <h2 className="mb-4 text-lg font-bold text-gray-900 dark:text-white">
           {currentLabel} 지역별 판매처
         </h2>
-        <DistrictGrid regionSlug={region} districts={data.districts} />
+        <DistrictGrid
+          regionSlug={region}
+          districts={data.districts}
+          samples={districtSamples}
+        />
       </section>
 
       {/* 광고: 리스트 아래 */}
