@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getRegionIndex } from "@/lib/data";
-import { getRegionBySlug, REGIONS } from "@/lib/regions";
+import { getRegionBySlug, getRegionDisplay, REGIONS } from "@/lib/regions";
 import { buildOpenGraph, getRegionFaqs } from "@/lib/seo";
 import DistrictGrid from "@/components/region/DistrictGrid";
 import Breadcrumb from "@/components/seo/Breadcrumb";
@@ -29,16 +29,24 @@ export async function generateMetadata({
   const data = getRegionIndex(region);
   const districtCount = data?.districts.length ?? 0;
 
+  // 2026 통합으로 폐지된 시도명을 쓰는 region은 법정 약칭 + 옛 이름 병기.
+  const rd = getRegionDisplay(region);
+  const displayName = rd ? rd.longLabel : regionInfo.name;
+
   const totalCount = data?.totalCount ?? 0;
   return {
-    title: `${regionInfo.name} 종량제 봉투 파는곳 총정리 | 가격 | 크기 (2026)`,
-    description: `${regionInfo.name} ${districtCount}개 지역 종량제 봉투 판매처 ${totalCount.toLocaleString()}곳. 가격, 크기, 편의점 구매 정보까지 한눈에.`,
+    title: rd
+      // 병기 label이 길어서 공통 suffix(가격·크기·2026)를 뺀다.
+      // 정확한 행정명 전달이 title 패턴 통일보다 우선이다.
+      ? `${displayName} 종량제 봉투 파는곳 총정리`
+      : `${displayName} 종량제 봉투 파는곳 총정리 | 가격 | 크기 (2026)`,
+    description: `${displayName} ${districtCount}개 지역 종량제 봉투 판매처 ${totalCount.toLocaleString()}곳. 가격, 크기, 편의점 구매 정보까지 한눈에.`,
     alternates: {
       canonical: `https://bag.fazr.co.kr/${region}`,
     },
     openGraph: buildOpenGraph(
-      `${regionInfo.name} 종량제 봉투 판매처 찾기`,
-      `${regionInfo.name} ${districtCount}개 지역 판매처 ${totalCount.toLocaleString()}곳`,
+      `${displayName} 종량제 봉투 판매처 찾기`,
+      `${displayName} ${districtCount}개 지역 판매처 ${totalCount.toLocaleString()}곳`,
       `/${region}`
     ),
   };
@@ -52,18 +60,27 @@ export default async function RegionPage({ params }: PageProps) {
   const data = getRegionIndex(region);
   if (!data) notFound();
 
-  const faqs = getRegionFaqs(regionInfo.name, data.districts.length);
+  const rd = getRegionDisplay(region);
+  // title/H1/meta/FAQ가 같은 표시명을 쓰도록 한 곳에서 만든다.
+  const displayName = rd ? rd.longLabel : regionInfo.name;
+  // 링크 anchor·섹션 제목처럼 짧아야 하는 곳은 현재 행정명만 쓴다.
+  const currentLabel = rd ? rd.currentLabel : regionInfo.name;
+
+  // FAQ 답변이 "N개 시/군/구"로 개수를 말하므로 범위를 한정하는 병기형을 쓴다.
+  // currentLabel만 쓰면 "광주특별시에는 5개 시/군/구"가 되어 사실과 다르다
+  // (통합특별시 전체는 27개, 이 페이지는 옛 광주광역시 영역 5개).
+  const faqs = getRegionFaqs(displayName, data.districts.length);
 
   // 인접 시/도 링크 (현재 region 제외)
   const adjacentRegions = REGIONS.filter((r) => r.slug !== region).slice(0, 4);
 
   return (
     <>
-      <Breadcrumb items={[{ label: regionInfo.name }]} />
+      <Breadcrumb items={[{ label: rd ? rd.shortLabel : regionInfo.name }]} />
 
       <section className="mb-8">
         <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
-          {regionInfo.name} 종량제 봉투 판매처
+          {displayName} 종량제 봉투 판매처
         </h1>
         <p className="mt-1 text-gray-600 dark:text-zinc-400">
           총 {data.totalCount.toLocaleString()}곳 · 데이터 수집일:{" "}
@@ -76,7 +93,7 @@ export default async function RegionPage({ params }: PageProps) {
 
       <section>
         <h2 className="mb-4 text-lg font-bold text-gray-900 dark:text-white">
-          {regionInfo.name} 지역별 판매처
+          {currentLabel} 지역별 판매처
         </h2>
         <DistrictGrid regionSlug={region} districts={data.districts} />
       </section>
@@ -113,7 +130,7 @@ export default async function RegionPage({ params }: PageProps) {
               href={`/${r.slug}`}
               className="rounded-full border border-gray-200 dark:border-zinc-800 px-3 py-1 text-sm text-gray-600 dark:text-zinc-400 hover:bg-gray-50 dark:hover:bg-zinc-800 transition duration-200"
             >
-              {r.name}
+              {getRegionDisplay(r.slug)?.currentLabel ?? r.name}
             </Link>
           ))}
         </div>

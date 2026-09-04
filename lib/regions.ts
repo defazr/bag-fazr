@@ -430,3 +430,57 @@ export function getLegacyDisplay(
   if (regionSlug !== "incheon") return null;
   return INCHEON_LEGACY_DISPLAY[districtSlug] ?? null;
 }
+
+// ────────────────────────────────────────────────────────────────────────
+// 전남·광주 통합 (2026-07-01 시행) — 시도 표시 SSOT
+//
+// 전남광주통합특별시 설치 및 지원에 관한 특별법
+//   2026-03-05 제정 / 2026-07-01 시행
+//   제7조에 법정 약칭 "광주특별시" 명시
+//   종전 광주광역시·전라남도는 폐지
+//
+// /gwangju 와 /jeonnam 은 통합특별시 안의 옛 광주 영역·옛 전남 영역을
+// 보존하는 compatibility region이다. 통합특별시 아래에는 27개 구·시군이
+// 평평하게 있고 이 둘을 묶는 현재 행정 단위는 없다. 그래서 "광주 지역"
+// 같은 준행정명을 만들지 않고, 법정 약칭 + 폐지된 옛 시도명을 병기한다.
+//
+// 인천과 다른 점: 하위 27개 구·시군 이름은 그대로 유효하다. 북구는 여전히
+// 북구고 보성군은 여전히 보성군이다. 따라서 district title/H1은 바꾸지 않고
+// 시도명이 드러나는 surface만 고친다.
+//
+// REGIONS.name(canonical identity)은 건드리지 않는다. collector의
+// REGION_NAME_TO_SLUG와 이름 체계를 공유하고, REGION_SHORT_NAMES를 바꾸면
+// 중복 구군명 4개(동구·서구·남구·북구)의 title까지 흔들린다.
+// ────────────────────────────────────────────────────────────────────────
+export interface LegacyRegionDisplay {
+  /** region page의 title·H1·meta·FAQ 질문 */
+  longLabel: string;
+  /** breadcrumb 상위 노드 */
+  shortLabel: string;
+  /** 내부링크 anchor·섹션 제목·FAQ 답변. 짧아야 하는 곳 */
+  currentLabel: string;
+  /** RegionGrid 카드의 보조 문구 */
+  legacyLabel: string;
+}
+
+const LEGACY_REGION_DISPLAY: Record<string, LegacyRegionDisplay> = {
+  gwangju: {
+    longLabel: "광주특별시 (옛 광주광역시)",
+    shortLabel: "광주특별시 (옛 광주)",
+    currentLabel: "광주특별시",
+    legacyLabel: "옛 광주광역시",
+  },
+  jeonnam: {
+    longLabel: "광주특별시 (옛 전라남도)",
+    shortLabel: "광주특별시 (옛 전남)",
+    currentLabel: "광주특별시",
+    legacyLabel: "옛 전라남도",
+  },
+};
+
+/** 통합으로 시도명이 바뀐 compatibility region이면 표시 정보를, 아니면 null. */
+export function getRegionDisplay(
+  regionSlug: string
+): LegacyRegionDisplay | null {
+  return LEGACY_REGION_DISPLAY[regionSlug] ?? null;
+}

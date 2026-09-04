@@ -8,6 +8,7 @@ import {
   getDistrictsByRegion,
   getDistrictDisplayName,
   getLegacyDisplay,
+  getRegionDisplay,
   REGIONS,
 } from "@/lib/regions";
 import { buildOpenGraph, getDistrictFaqs } from "@/lib/seo";
@@ -44,6 +45,10 @@ export async function generateMetadata({
   const data = getDistrictData(region, district);
   const count = data?.totalCount ?? 0;
 
+  // 2026 통합으로 폐지된 시도명 대신 현재 행정명을 쓴다. 구·군 이름 자체는
+  // 그대로 유효하므로 district의 title/H1은 손대지 않는다.
+  const regionLabel = getRegionDisplay(region)?.currentLabel ?? regionInfo.name;
+
   // 이름이 겹치는 구군(중구/동구/서구/남구/북구/강서구/고성군)만 시/도 축약명을 붙인다.
   // 2026 행정구역 개편으로 표시명이 달라진 legacy bucket은 그 값을 우선한다.
   const legacy = getLegacyDisplay(region, district);
@@ -65,7 +70,7 @@ export async function generateMetadata({
     description:
       count > 0
         ? `${displayName} 종량제 봉투 판매처 ${count}곳. 가격, 크기, 편의점 구매 가능 여부까지. 공공데이터를 바탕으로 정리했습니다.`
-        : `${displayName} 종량제 봉투 판매처 정보가 없습니다. ${regionInfo.name}의 다른 지역 판매처를 확인해보세요.`,
+        : `${displayName} 종량제 봉투 판매처 정보가 없습니다. ${regionLabel}의 다른 지역 판매처를 확인해보세요.`,
     alternates: {
       canonical: `https://bag.fazr.co.kr/${region}/${district}`,
     },
@@ -90,6 +95,10 @@ export default async function DistrictPage({ params }: PageProps) {
   const displayName = legacy
     ? legacy.longLabel
     : getDistrictDisplayName(region, districtInfo.name);
+  // breadcrumb 상위 노드·내부링크 anchor·섹션 제목·FAQ 답변에 쓰는 시도명.
+  // 폐지된 시도명(광주광역시/전라남도)을 현재형으로 쓰지 않기 위한 것이고,
+  // 여기서 옛 이름까지 병기하면 한 페이지에서 같은 설명이 여러 번 반복된다.
+  const regionLabel = getRegionDisplay(region)?.currentLabel ?? regionInfo.name;
   // breadcrumb은 시도가 앞에 오므로 축약형을 쓴다.
   const crumbLabel = legacy ? legacy.shortLabel : districtInfo.name;
   // FAQ 답변·본문에서 "이 페이지가 다루는 범위"를 가리킬 때 쓴다.
@@ -125,7 +134,7 @@ export default async function DistrictPage({ params }: PageProps) {
       <>
         <Breadcrumb
           items={[
-            { label: regionInfo.name, href: `/${region}` },
+            { label: regionLabel, href: `/${region}` },
             { label: crumbLabel },
           ]}
         />
@@ -135,7 +144,7 @@ export default async function DistrictPage({ params }: PageProps) {
             {displayName} 종량제 봉투 판매처
           </h1>
           <p className="mt-1 text-gray-600 dark:text-zinc-400">
-            {legacy ? scopeName : `${regionInfo.name} ${scopeName}`} 종량제 봉투 판매처 정보
+            {legacy ? scopeName : `${regionLabel} ${scopeName}`} 종량제 봉투 판매처 정보
           </p>
         </section>
 
@@ -161,7 +170,7 @@ export default async function DistrictPage({ params }: PageProps) {
         {adjacentDistricts.length > 0 && (
           <section className="mt-10">
             <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-white">
-              {regionInfo.name} 인근 지역 판매처
+              {regionLabel} 인근 지역 판매처
             </h2>
             <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
               {adjacentDistricts.map((d) => (
@@ -197,7 +206,7 @@ export default async function DistrictPage({ params }: PageProps) {
             href={`/${region}`}
             className="inline-block rounded-xl border border-gray-200 dark:border-zinc-700 bg-white dark:bg-zinc-800 px-5 py-2.5 text-sm font-medium text-gray-700 dark:text-white hover:bg-gray-50 dark:hover:bg-zinc-700"
           >
-            {regionInfo.name} 전체 보기
+            {regionLabel} 전체 보기
           </Link>
         </div>
       </>
@@ -205,7 +214,7 @@ export default async function DistrictPage({ params }: PageProps) {
   }
 
   const baseFaqs = getDistrictFaqs(
-    legacy ? "" : regionInfo.name,
+    legacy ? "" : regionLabel,
     scopeName,
     data.totalCount,
     displayName
@@ -241,7 +250,7 @@ export default async function DistrictPage({ params }: PageProps) {
     <>
       <Breadcrumb
         items={[
-          { label: regionInfo.name, href: `/${region}` },
+          { label: regionLabel, href: `/${region}` },
           { label: crumbLabel },
         ]}
       />
@@ -427,13 +436,13 @@ export default async function DistrictPage({ params }: PageProps) {
           >
             {region === "gyeonggi" && district === "suwon"
               ? "쓰레기봉투 파는곳 총정리 →"
-              : `${regionInfo.name} 종량제 봉투 가격 안내 →`}
+              : `${regionLabel} 종량제 봉투 가격 안내 →`}
           </Link>
           <Link
             href={`/${region}`}
             className="rounded-xl border border-gray-200 dark:border-zinc-800 bg-white dark:bg-zinc-900 p-5 text-sm text-gray-700 dark:text-zinc-300 transition hover:bg-gray-50 dark:hover:bg-zinc-800 duration-200"
           >
-            {regionInfo.name} 종량제 봉투 크기별 판매처 →
+            {regionLabel} 종량제 봉투 크기별 판매처 →
           </Link>
         </div>
       </section>
@@ -441,7 +450,7 @@ export default async function DistrictPage({ params }: PageProps) {
       {/* 인접 지역 */}
       <section className="mt-10">
         <h2 className="mb-3 text-lg font-bold text-gray-900 dark:text-white">
-          {regionInfo.name} 다른 지역 판매처
+          {regionLabel} 다른 지역 판매처
         </h2>
         {adjacentDistricts.length > 0 && (
           <div className="flex flex-wrap gap-2">
@@ -461,7 +470,7 @@ export default async function DistrictPage({ params }: PageProps) {
             href={`/${region}`}
             className="inline-block text-sm text-gray-600 dark:text-zinc-400 hover:text-gray-900 dark:hover:text-white transition"
           >
-            {regionInfo.name} 전체 판매처 보기 →
+            {regionLabel} 전체 판매처 보기 →
           </Link>
         </div>
       </section>
