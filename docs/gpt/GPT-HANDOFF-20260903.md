@@ -1,4 +1,4 @@
-# GPT 핸드오프 — 2026-09-04 (Production HEAD `9d79168` 기준)
+# GPT 핸드오프 — 2026-09-04 (HEAD `40a4ee9` 기준)
 
 > 이 문서는 **정본**이다. 다음 세션은 커밋 로그를 다시 읽기 전에 이 문서부터 읽는다.
 > 이전 핸드오프: `docs/gpt/GPT-HANDOFF-20260426.md` (P17/P17.5)
@@ -38,7 +38,18 @@
 | D | schema drift | `check_schema_drift` |
 | E | contradiction accounting | `check_contradiction_accounting` |
 | F | serialized tree reconciliation (`tree_vs_stats` 포함) | `check_tree_counts` |
-| G | explicit mutation plan (created/modified/removed/kept) | `diff_trees` |
+| G | explicit mutation plan + **catastrophic-drop guard** | `diff_trees` + `check_drop_guard` |
+
+**G 하위 실패 코드 6개** (전부 `report.fail`. 임계값 근거는 §10-6):
+
+| 코드 | 조건 |
+|---|---|
+| `G.total_wipe` | production > 0 AND candidate == 0 |
+| `G.national_drop` | 전국 손실률 >= 25% (절대량 하한 **없음**) |
+| `G.region_drop` | 시도 손실 >= 30건 AND >= 10% |
+| `G.district_drop` | (구군 손실 >= 100건 AND >= 10%) OR >= 500건 |
+| `G.district_extinction` | production >= 20건인 구군이 0 이 됨 |
+| `G.mass_drop` | material-drop(>=20건 AND >=5%) 구군 >= 15개 OR 합계 >= 2,000건 |
 
 **A–G 중 하나라도 실패하면:**
 
@@ -90,7 +101,28 @@ data  backup  candidate  판정
 - self-check가 자기 자신을 오탐하지 않도록 marker 문자열은 런타임에 조립한다
   (`_summary_marker = 'print(f"PASS {len(' + 'PASS)} / FAIL'`).
 - 보고할 때 **실행된 assertion 수 / PASS-FAIL / process exit code를 각각 분리해서** 쓴다.
+- **테스트가 있다는 사실은 안전의 증거가 아니다. 그 테스트가 무엇을 단언하는지를 본다.**
+  실제로 테스트 [4]가 `totalCount=0` 을 정상 완결로 단언하며 전멸 경로를 보증하고
+  있었고, 스위트는 그 상태로 PASS 였다. → §10-1
 - 이 규칙은 실제 사고에서 나왔다. §4 참조.
+
+### 4-1. 안전 게이트 vs 테스트 fixture
+
+**안전 게이트 때문에 기존 테스트가 깨지면 안전 게이트를 약화하지 않는다.**
+테스트가 본래 검증하려던 목적을 유지하도록 **fixture 를 수정**하고,
+그 fixture 에 **왜 safety gate 대상이 아닌지 주석으로 남긴다.**
+
+**어떤 안전 규칙을 완화하는 근거로 "다른 계층이 이미 커버한다"고 주장하려면,
+실제 현재 상수와 fixture 에 대입해 그 주장을 먼저 검증한다.
+추측으로 cross-layer coverage 를 주장하지 않는다.**
+
+> 실패 사례 (2026-09-04, FIX-2A 로 정정). 급감 가드 도입 후 promotion mechanics
+> 테스트(production 3건 → candidate 1건)가 전국 게이트에 걸리자, 게이트에
+> 절대량 하한 1,000건을 넣어 통과시켰다. 근거로 "그 구간은 시도·구군 게이트가
+> 본다"고 적었으나 **상수와 대조하지 않은 추측이었다.** 3 → 1 은
+> R1(>=30건)·D1(>=100건)·D2(>=20건)·AGG(>=20건) 어디에도 걸리지 않는다.
+> 즉 전국 66.7% 붕괴가 통과하는 구멍을 스스로 만든 것이다.
+> 정정: 하한을 제거하고 fixture(`GOOD3`)를 고쳤다.
 
 ### 5. Administrative SSOT
 
@@ -135,13 +167,23 @@ data  backup  candidate  판정
 
 | | |
 |---|---|
-| HEAD | `9d79168` |
-| 배포 확인 | 2026-09-04, push 후 약 60초에 반영 |
+| HEAD | `40a4ee98d755f81b4c448e193a05e1d297b697ea` (`40a4ee9`) |
+| origin/main | HEAD 와 일치 |
+| git status | untracked `tsconfig.tsbuildinfo` 만 |
+| 마지막 사이트 배포 | `9d79168` (2026-09-04). 이후 커밋 3개는 전부 `scripts/` 만 건드려 사이트 산출물 무변경 |
 | 정적 페이지 | 253 routes (HTML 252 + `sitemap.xml`) |
-| 매장 총계 | **69,265건** / 데이터 파일 221개 |
+| 매장 총계 | **69,265건** / 데이터 파일 221개 (JSON 240개) |
 | data checksum | `c6e2934b7173b8b9` (`find data -type f -name '*.json' \| sort \| xargs shasum -a 256 \| shasum -a 256`) |
-| `scripts/collect.py` sha256 | `b121e0b6725e6260` (앞 16자) |
-| 테스트 | `PASS 120 / FAIL 0`, process exit code 0 |
+| 테스트 | **`PASS 226 / FAIL 0`, process exit code 0** |
+
+**파일 해시 (HEAD `40a4ee9`)**
+
+```
+collect.py       cc944e916f8de7e1df6f6c0b501a5f48800dc46cafeb70a94557846d8650d066
+integrity.py     1a850a28a5bc663044d571e816f81f01b0b915561fb169d650575be2dc5de4ae
+test_collect.py  95fc21d3d7b738726a841b06271aedddcf0c1fc99363de5bc1386e87637add61
+data checksum    c6e2934b7173b8b9
+```
 
 ### Production 완료 항목
 
@@ -154,10 +196,13 @@ data  backup  candidate  판정
 | StoreCard factuality | 근거 없는 "영업중" 표시 제거 | `c43a517` |
 | Incheon display | 인천 2026 개편 표시 | `70b1e18` |
 | Gwangju/Jeonnam display | 전남·광주 통합 표시 | `9d79168` |
+| P19 SAFETY FIX-1 | 빈 응답·오류 봉투 promotion 차단 | `8f2b6ee` |
+| P19 계측 | 구군별 손실 원인 분해 (`district_stats`) | `b10ac51` |
+| P19 급감 가드 | G 확장 — catastrophic-drop guard | `40a4ee9` |
 
 ---
 
-# 2. 오늘 커밋 (시간순 14건)
+# 2. 커밋 (시간순 17건)
 
 | # | 커밋 | 시각 | 무엇을 닫았는가 |
 |---|---|---|---|
@@ -175,6 +220,13 @@ data  backup  candidate  판정
 | 12 | `c43a517` | 09-04 06:04 | 하드코딩된 "영업중" 배지 제거. 데이터로 뒷받침되지 않는 주장을 UI에서 삭제. §7 참조. |
 | 13 | `70b1e18` | 09-04 09:53 | 인천 3개 legacy bucket 표시 확정 + "데이터 갱신일" → "데이터 수집일" 사이트 전체 통일. §6 참조. |
 | 14 | `9d79168` | 09-04 10:37 | 전남·광주 통합 표시 확정. region 2개 + district 27개 + 홈 + 인접 칩 4개. §6 참조. |
+| 15 | `12bb09e` | 09-04 11:5x | 직전 정본 문서 마감. `[skip ci]` |
+| 16 | `8f2b6ee` | 09-04 12:0x | **P19 SAFETY FIX-1.** `totalCount=0` 을 완결로 인정하지 않고, API 오류 봉투를 차단하고, `G.total_wipe` 로 전면 삭제를 막았다. 실증했던 전멸 경로를 닫는다. §10-1, §10-2 |
+| 17 | `b10ac51` | 09-04 13:4x | 구군별 손실 원인 계측. `district_stats` 5칸을 stats 에 추가. 수집 결과·candidate serialization 변화 0 을 69,265건 실규모로 증명. §10-4 |
+| 18 | `40a4ee9` | 09-04 16:xx | **catastrophic-drop guard.** G 를 실제 차단 게이트로 확장. N1/N2/R1/D1/D2/AGG. §10-5, §10-6 |
+
+> 커밋 번호 15~18 은 `docs/` 또는 `scripts/` 만 건드렸다. 사이트 산출물(253 pages)은
+> `9d79168` 이후 변하지 않았고 production `data/` 도 무변경이다.
 
 ---
 
@@ -450,34 +502,288 @@ HTML 문자열을 치환하면 RSC 페이로드가 깨져 오히려 error bounda
 
 ---
 
-# 10. P19 상태 — **HARD BLOCK**
+# 10. P19 SAFETY 워크스트림 — 현재 **HARD BLOCK**
 
-### 다음 세션의 순서
+> 이 절이 다음 세션의 출발점이다. 아래를 읽으면 **SAFETY 최종 재판정에 바로 들어갈 수 있다.**
+> 재측정은 필요 없다. 필요한 실측은 전부 여기 있다.
 
-1. **이 handoff 정본 확인**
-2. **P19 SAFETY FINAL JUDGMENT** (collector가 안전한가)
-3. **P19 VALUE / NECESSITY JUDGMENT** (지금 재수집할 가치가 있는가)
-4. **safety + value 둘 다 GO일 때만** recollect
-5. recollection 후 **integrity gate 통과 전 promotion 금지**
+## 10-1. 최초 SAFETY 판정 = **STOP** (실증)
 
-### 반드시 지킬 것
+기존 게이트가 막지 못한 것을 격리 환경에서 **실제로 재현했다.**
 
-> **"collector가 안전해졌다"와 "지금 recollect할 가치가 있다"를 절대 같은 판단으로 취급하지 않는다.**
+API 가 형식상 정상인 빈 응답(`totalCount=0`)을 주면:
 
-- 서울 sparsity는 **public API 자체의 희소성**이다.
-  P19가 강북구 문제를 해결한다고 **기대하지 않는다.** (§5 참조)
-- 현재 production에 **42건의 도로명/지번 위치 모순**이 남아 있다. 자동 수정하지 않았다.
+```
+fetch_all  → "완결성 검증 통과: 0 == totalCount 0"   (예외 없음)
+게이트 A~G → failures=0                              (빈 트리도 자기일관적)
+promotion  → 실행됨. 매장 10건 → 0건
+```
 
-### 판정 시 함께 볼 것 (미결)
+실 데이터라면 69,265 → 0 이고, **크래시가 아니라 exit 0 으로 끝나는 조용한 전멸**이다.
+쿼터 초과 응답(`resultCode=22`)도 body 가 `items=[] / totalCount=0` 이라 같은 경로를 탔다.
+당시 응답 header 는 **아예 검증하지 않았다.**
 
-인천과 광주는 **P19 이후 성격이 다르다.**
+> 더 불편한 사실: 테스트 [4]가 이 동작을 `"totalCount=0은 완결로 인정"` 으로
+> **단언하고 있었다.** 스위트는 PASS 120 / FAIL 0 이면서 전멸 경로를 보증했다.
+> → 영구 규칙 §0-4 에 반영.
 
-- **인천**: 재수집하면 주소가 제물포구·영종구·서해구·검단구로 바뀐다.
-  그러면 `/incheon/icjunggu` 페이지 제목의 구 이름이 **주소에 아예 나오지 않는** 상태가 된다.
-- **광주·전남**: 구·시군 이름이 일치하고 상위 시도명만 갱신되므로 **모순이 없다.**
-  `/jeonnam/boseong`에 "전남광주통합특별시 보성군" 주소가 나오는 것은 정확한 주소다.
+## 10-2. FIX-1 (`8f2b6ee`) — 무엇을 닫았나
 
-이 둘을 한 판단으로 묶지 않는다.
+3층 구조. 다만 **실측으로 확인한 각 층의 실제 기여도**는 다음과 같다.
+
+| 층 | 내용 | 실제 기여 |
+|---|---|---|
+| 1 | API 오류 봉투 / `resultCode` 검증 | **주로 진단**. `OpenAPI_ServiceResponse` 와 top-level `cmmMsgHeader` 는 수정 전에도 `data["response"]` KeyError 로 이미 막혔다(사유가 "응답 파싱 실패" 였을 뿐). 새로 막은 것은 `response.header` 오류 코드 케이스 |
+| 2 | `expected_total <= 0` fail closed | **실제 차단** |
+| 3 | `G.total_wipe` | **실제 차단** |
+
+`resultCode` 는 정수로 읽히고 0 이 아닐 때만 오류로 본다. 판정 불가한 문자열은
+경고만 남기고 통과시킨다 — 근거 없이 조이면 이 API 가 header 를 다른 형태로
+보낼 때 수집이 **100% 실패**한다. 이 판단은 §10-3 실측으로 옳았음이 확인됐다.
+
+**남아 있던 구멍:** `G.total_wipe` 는 candidate 가 **정확히 0** 일 때만 발화한다.
+candidate 1건 / 10건 / 100건 같은 자기일관적 near-total drop 은 그대로 통과했다.
+→ P19 HARD BLOCK 유지.
+
+## 10-3. SAFETY dry-run 2회 (promotion 불가 3중 차단)
+
+**차단 방식** — 한 층이 뚫려도 나머지가 막는다.
+
+```
+Layer A  classify_and_save(complete=False)     promote_candidate 미도달
+Layer B  data_dir = TEMP 사본                   repo data/ 가 인자에 없음
+Layer C  스파이                                  promote_candidate 호출 시 SafetyIncident,
+                                                repo 경로 rename/rmtree/remove 차단
+```
+
+실 fetch 전에 **스파이 자체를 fixture 로 검증**했다 (2회 모두 PASS 14 / FAIL 0).
+과차단 여부까지 봤다 — TEMP 내부 mutation 은 정상 허용되어야 dry-run 이 성립한다.
+
+**두 실행 결과가 완전히 동일했다.**
+
+| | dry-run #1 | dry-run #2 |
+|---|---|---|
+| API calls | 912 | 912 |
+| elapsed | 515.9s | 502.9s |
+| raw totalCount | 91,120 | 91,120 |
+| active | 72,480 | 72,480 |
+| unmatched | 14 | 14 |
+| dedupe input | 72,466 | 72,466 |
+| duplicates removed | 3,132 | 3,132 |
+| verified input | 69,334 | 69,334 |
+| contradictions | 42 | 42 |
+| final | 69,292 | 69,292 |
+| candidate fingerprint | `ec0731218421da99` | `ec0731218421da99` |
+| A–G | PASS | PASS |
+| promote_candidate 호출 | **0** | **0** |
+| repo 대상 rename/delete | **0 / 0** | **0 / 0** |
+| production checksum | 무변경 | 무변경 |
+
+production 69,265 → candidate 69,292 (**+27 / +0.04%**).
+plan: 생성 0 / 변경 142 / 제거 1 / 유지 97. 제거 파일은 `gyeongnam/tongyeong.json` 하나.
+
+### API header 정본 (2회 × 912페이지 = 1,824 관측)
+
+```
+top[response] response[body,header] header[resultCode,resultMsg]
+resultCode='0'  resultMsg='정상'
+```
+
+**단일 지문. 다른 shape·code 0건. gateway 오류 봉투 0건.**
+
+> **`resultCode` 는 `"00"` 이 아니라 `"0"` 이다.**
+> FIX-1 이 성공 집합을 `{"00","0","0000"}` 로 넓게 잡고 정수 fallback 을 둔 덕에 통과했다.
+> `"00만 성공"` 으로 하드코딩했다면 **1페이지에서 수집이 전부 실패했다.**
+> 향후 조일 때도 관측된 `"0"` 을 넘어 좁히지 않는다.
+
+### API 쿼터 (다음 세션이 꼭 알아야 할 것)
+
+| | |
+|---|---|
+| 전국 1회 수집 | **912 calls** (91,120건 ÷ 페이지 100건) |
+| 일일 한도 | **10,000** (2026-03 로그 `Total API calls so far: 905/10000`) |
+| 2026-09-04 소모 | 1,824 (18.2%) — 쿼터 오류 0건, HTTP 503 재시도 1회씩 복구 |
+
+**쿼터에 걸리면 그 실행의 수확은 0이다.** FIX-1 이 부분 수집을 남기지 않기 때문이다.
+따라서 실제 P19 는 **하루 한 번, 쿼터가 넉넉할 때** 돌린다. 실패해도 같은 날 재시도하지 않는다.
+응답에 잔여 쿼터 정보는 없다(header 는 `resultCode`/`resultMsg` 2개뿐).
+
+## 10-4. 계측 (`b10ac51`) 과 229개 교차검증
+
+`stats["district_stats"]` — 키 `"{region_slug}/{district_slug}"`, 값 5개 정수:
+`classified_before_dedupe` / `duplicates_removed` / `after_dedupe` /
+`contradictions_removed` / `final`. **매장 0건 구군 포함 229개 전부** 존재한다
+(빠지면 전멸 구군이 집계에서 사라진다).
+
+- 격리 수는 반드시 `stores = verified` **재할당 전**에 잰다. 뒤에서 재면 항상 0 으로 굳는다.
+- `unmatched` 는 구군 귀속이 불가능하다(분류 실패로 `district_slug` 가 없다).
+  억지로 배분하지 않고 전국 회계에만 둔다. 구군 사슬은 raw 가 아니라 **classified 에서 시작**한다.
+- 수집 결과 변화 0 을 **실규모로 증명**했다: production 69,265건을 API item 으로 복원해
+  계측 전(HEAD)과 계측 후에 넣었더니 candidate tree sha256 이 `804bc5b07794b0c9…` 로
+  **완전히 동일**(238 파일, stats 정수 전부 동일, A~G note 목록 동일).
+
+### 교차검증 결과 (dry-run #2)
+
+| 검사 | 결과 |
+|---|---|
+| 구군 항등식 `classified = duplicates + after_dedupe` | 불일치 **0/229** |
+| 구군 항등식 `after_dedupe = contradictions + final` | 불일치 **0/229** |
+| 전국 합계 5종 vs `stats` | 72,466 / 3,132 / 69,334 / 42 / 69,292 **전부 일치** |
+| raw 주소 **독립** 집계 vs `classified_before_dedupe` | **229/229 일치, 불일치 0** |
+| 독립 집계 미귀속 잔차 | **14** = historical 11 + malformed 3 + merged unresolved 0 = `unmatched_total` |
+
+독립 집계는 드라이버가 `normalize_region` / `extract_district` / `resolve_merged_sido` /
+`resolve_legacy_district` 를 재사용해 `build_candidate` 분기 순서를 그대로 따른 것이다.
+**진실로 간주하지 않고 대조 대상으로만 썼고, 전량 일치했으므로 원인 분해를 근거로 쓸 수 있다.**
+
+## 10-5. 원인 분해 결과
+
+229개 구군: **감소 38 / 증가 52 / 동일 139.**
+감소 38개의 원인: **dedupe 주도 19 / contradiction 주도 10 / source·API 감소 후보 6 / 복합 3.**
+
+> **해석 순서 주의.** production 은 2026-03 수집의 *최종* 산출물(그때의 dedupe·격리를 이미 거침)이고
+> 오늘 raw 는 dedupe *이전* 값이다. 그래서 `raw - production` 을 "순수 source delta" 라고 부르지 않는다.
+> 3월의 구군별 원장이 없으므로 이 값은 **상한 추정**이며, 음수로 나오면 실제 원천 감소는 그보다 크다.
+> 표현은 **"source/API change candidate"** 또는 **"internal loss 로 설명되지 않는 변화"** 를 쓴다.
+
+| district | production | raw | dedupe | contra | final | delta | 판정 |
+|---|---|---|---|---|---|---|---|
+| `jeonnam/gangjin` | 117 | 87 | 2 | 0 | 85 | -32 / -27.35% | source/API 감소 후보 |
+| `busan/bsjunggu` | 356 | 304 | 14 | 0 | 290 | -66 / -18.54% | source/API 감소 후보 |
+| `seoul/mapo` | 602 | 537 | 1 | 0 | 536 | -66 / -10.96% | source/API 감소 후보 (거의 순수) |
+| `gyeonggi/hwaseong` | 1,738 | 1,657 | 26 | 1 | 1,630 | -108 / -6.21% | source 주도, 최대 절대 감소 |
+| `gyeongnam/tongyeong` | 1 | **1** | 0 | **1** | **0** | -1 / -100% | **원천 소멸 아님** |
+
+**통영이 설계를 바꿨다.** 원천에는 1건이 그대로 있는데(매장명 `도매유통`,
+도로명 경상남도 / 지번 전라남도) 저장 직전 격리에 걸려 0 이 됐다.
+즉 **"district 전멸이면 무조건 BLOCK"** 은 잘못된 설계다. 최소 규모 조건이 필요하다.
+
+### 시도 단위 정상 변동 (2회 재현)
+
+범위 **-2.05% ~ +1.52%**. 10% 이상 감소한 시도 **0개**.
+Seoul 3,118→3,054 (-2.05%) / Gwangju 2,524→2,478 (-1.82%) / Busan 4,164→4,096 (-1.63%) /
+Jeonnam 6,736→6,703 (-0.49%) / Incheon 1,145→1,143 (-0.17%) / Jeonbuk +1.52% / Gangwon +1.44%.
+
+> 두 dry-run 은 **같은 날 같은 API 스냅샷**이다. 시계열로 과장하지 않는다.
+
+### 전국 총계 게이트만으로는 불가능하다는 근거
+
+| 사고 | 전국 영향 |
+|---|---|
+| 서울(3,118건) 전체 소실 | **-4.37%** |
+| 제주 -90% | **-1.03%** |
+| 세종(165건) 전멸 | **-0.20%** |
+| 최대 구군 전주(1,880건) 전멸 | **-2.73%** |
+
+## 10-6. 최종 catastrophic-drop guard (`40a4ee9`)
+
+**A–G 구조 유지. 새 H 없음.** G 를 production↔candidate mutation/drop safety gate 로 확장.
+코드 위치: `integrity.py` `check_drop_guard()`, 임계값은 파일 상단 상수 블록.
+비교는 **production/candidate 키 합집합**으로 한다(교집합만 보면 사라진 시도·구군을 놓친다).
+
+| 코드 | 조건 | 임계값 근거 (2026-09-04 실측) |
+|---|---|---|
+| `G.total_wipe` | prod > 0 AND cand == 0 | FIX-1 에서 유지 |
+| `G.national_drop` | 전국 손실률 >= **25%** | 정상 +0.04%. **절대량 하한 없음** — §0-4-1 참조 |
+| `G.region_drop` | 손실 >= **30건** AND >= **10%** | 정상 최악 서울 -2.05% / -64건 (2회). 비율은 5배. 절대 조건은 세종(165건) 소량 변동 제외용 |
+| `G.district_drop` | (손실 >= **100건** AND >= **10%**) OR >= **500건** | 정상에서 손실>=100 인 최대 비율 = 화성 -6.21%. 비율>=10% 인 최대 절대 = -66건. 교차 조건이라 정상 표본 침범 0 |
+| `G.district_extinction` | production >= **20건** 이 0 이 됨 | 정상 전멸은 통영 prod=1. prod<10 구군이 41개(합계 99건) |
+| `G.mass_drop` | material(>=**20건** AND >=**5%**) 구군 >= **15개** OR 합계 >= **2,000건** | 정상 material 5개 / 합계 320건 |
+
+**D1 이 왜 저 형태인가.** 초안은 `(>=50% AND >=150건) OR >=500건` 이었는데
+`300 → 160 (-140 / -46.7%)` 같은 단일 구군 붕괴를 놓쳤다. 실측에 더 깔끔한 경계가 있었다:
+손실>=100건 사례의 최대 비율이 -6.21%, 비율>=10% 사례의 최대 절대가 -66건이라
+**(>=100건 AND >=10%)** 는 정상 candidate 를 하나도 막지 않으면서 그 빈 구간을 덮는다.
+
+**N2 에 절대량 하한이 없는 이유.** §0-4-1 의 실패 사례 그대로다. `3 → 1` 은
+다른 어떤 층에도 걸리지 않으므로 전국 비율 fail-safe 를 약화하면 안 된다.
+테스트가 `3 → 1` 이 `G.national_drop` **단독**으로 BLOCK 됨을 고정한다.
+
+### 원인 분해는 BLOCK 면제에 쓰지 않는다 (영구 결정)
+
+`district_stats` 는 **진단 전용**이다. "dedupe 때문이므로 PASS", "contradiction 때문이므로 PASS"
+같은 예외를 두지 않는다. **dedupe 나 `verify_store_location` 자체가 회귀한 사고를 놓치기 때문이다.**
+
+> S12 로 증명: 감소분 100% 를 dedupe 로 귀속시킨 `district_stats` 를 넘겨도
+> `G.national_drop` / `G.region_drop` / `G.district_drop` 이 그대로 발화한다.
+> 반대로 구군 게이트를 source 성분 기준으로 만들었다면(안 B), raw 가 정상인
+> dedupe 회귀 사고에서 **한 건도 발화하지 않는다**(오늘 데이터에서 raw >= prod×0.9 인 구군 225/229).
+
+**WARN 등급은 만들지 않는다.** `IntegrityReport.ok` 는 `failures` 만 보고,
+`classify_and_save` 는 `report.ok is False` 일 때만 `CollectionError` 를 던진다.
+즉 `note` 로 두면 promotion 이 그대로 진행된다 — 로그만 남기는 경고는 안전장치가 아니다.
+
+## 10-7. fixture matrix (전부 테스트로 고정, `PASS 226 / FAIL 0 / exit 0`)
+
+| | 시나리오 | 기대 | 발화 |
+|---|---|---|---|
+| S1 | **2026-09-04 실측 229개 구군 그대로** (69,265→69,292) | PASS | — |
+| S2 | 전체 0 | BLOCK | 6개 전부 |
+| S3 | 전체 1 | BLOCK | national/region/district (total_wipe 는 미발화) |
+| S4 | 서울 전체 소실 | BLOCK | region_drop |
+| S5 | 경기 -30% | BLOCK | region_drop |
+| S6 | 최대 구군(전주) 전멸 | BLOCK | district_drop + extinction |
+| S7/S13 | 통영 1→0 (contradiction) | **PASS** | — |
+| S8 | 강진 117→85 | **PASS** | — |
+| S9 | 마포 602→536 | **PASS** | — |
+| S10 | 화성 1738→1630 | **PASS** | — |
+| S11 | 상위 50개 각 -8% | BLOCK | **mass_drop 단독** |
+| S12 | dedupe 회귀 90% 소실 (raw 정상) | BLOCK | national/region/district |
+| S14 | 제주 -90% | BLOCK | region_drop |
+| S15 | 300→160 (-140 / -46.7%) | BLOCK | district_drop |
+| S16 | -500건 / 비율 <10% | BLOCK | district_drop |
+| S17 | -99건 / 20% | PASS | — |
+| S18 | -100건 / 9.99% | PASS | — |
+| S19 | -100건 / 10.00% | BLOCK | district_drop |
+| S20 | 시도 -29건 / 50% | PASS | — |
+| S21 | 시도 -30건 / 10.00% | BLOCK | region_drop |
+| S22 | material 14개 / 1,999건 | PASS | — |
+| S23 | material 15개 / 1,950건 | BLOCK | mass_drop |
+| S24 | material 14개 / 2,000건 | BLOCK | mass_drop |
+| N2-A | production 3 → 1 (-66.67%) | BLOCK | **national_drop 단독** |
+| N2-B | 4 → 3 (정확히 -25%) | BLOCK | national_drop |
+| N2-C | 10,000 → 7,501 (-24.99%) | PASS(N2) | — |
+| N2-D | 10,000 → 7,500 (-25.00%) | BLOCK | national_drop |
+| N2-E | bootstrap 0 → 양수 | PASS | — |
+
+경계 테스트: AGG 4.99% vs 5.00%, D2 prod=19 vs 20 도 고정. **임계값 이상이면 발화**로 확정.
+
+> S1 이 가장 중요하다. 우리가 가진 **유일한 정상 표본**이므로 여기서 발화하면
+> 정상 수집이 매번 막힌다. 여유는 R1 이 가장 빡빡해 7.95%p.
+
+## 10-8. 남은 위험 (SAFETY 최종 판정에서 판단할 것)
+
+1. **임계값의 근거가 사실상 한 점이다.** 2회 측정했지만 같은 날 같은 API 스냅샷이다.
+   계절·주기 변동으로 시도 감소가 -10% 를 넘는 날이 있으면 오탐이 난다.
+   다만 그 경우 promotion 이 막힐 뿐 데이터는 안전하고, 사람이 조정하면 된다.
+2. **D1 의 사각지대.** 300건 구군이 160건이 되면 잡지만, 예컨대 1,000건이 910건이
+   되는 경우(-90건 / -9%)는 통과한다. AGG 로 일부만 커버된다.
+3. **AGG 의 사각지대.** 14개 구군이 각 100건씩 1,400건을 잃으면 통과한다.
+4. **오류 시 `resultCode` 를 아직 모른다.** 2회 다 정상 응답만 받았다.
+5. **인천 서해구·검단구가 원천에 0건이다.** 개편이 API 에 반영되는 시점과 그때의
+   delta 크기를 모른다. 반영되면 게이트가 발화할 수 있고, 그건 정상 발화다.
+6. **production 의 42건 위치 모순.** 재수집하면 격리되어 사라진다(설명 가능한 감소).
+
+## 10-9. 현재 상태와 다음 단계
+
+| | |
+|---|---|
+| P19 production promotion | **HARD BLOCK** |
+| 이유 | catastrophic guard 구현은 끝났으나 **GPT SAFETY 최종 재판정을 아직 하지 않았다** |
+| 다음 단계 | **GPT SAFETY FINAL RE-JUDGMENT** |
+
+**이 문서 어디에도 SAFETY GO, P19 실행 승인, recollection 승인은 없다.**
+그런 판정은 아직 내려지지 않았다.
+
+최종 판정 이후의 순서(변경 없음):
+
+1. SAFETY FINAL RE-JUDGMENT
+2. GO 여도 **P19 실행 금지** — VALUE / NECESSITY 판정이 남는다
+3. safety + value 둘 다 GO 일 때만 recollect
+4. recollection 후에도 integrity gate 통과 전 promotion 금지
+
+> **"collector 가 안전해졌다" 와 "지금 recollect 할 가치가 있다" 를 같은 판단으로 취급하지 않는다.**
+> 서울 sparsity 는 public API 자체의 희소성이다. P19 가 강북구 문제를 해결한다고 기대하지 않는다. (§5)
 
 ---
 
@@ -491,7 +797,11 @@ HTML 문자열을 치환하면 RSC 페이로드가 깨져 오히려 error bounda
 | template similarity | 페이지 간 본문 유사도 |
 | search trim bug | P3 이월 |
 | 42 road/lot contradictions | 현재 production에 잔존. 자동 수정 안 함. |
-| schema drift sensor | 게이트 D는 있으나 상시 센서는 없음 |
+| schema drift sensor | 게이트 D는 있으나 상시 센서는 없음. D 는 정상 경로에서 항상 empty 를 받는다(drift preflight 가 workspace write 이전에 먼저 막기 때문). 판정 로직이 살아 있음은 직접 주입 테스트로 증명돼 있다 |
+| 감소율 threshold 정밀화 | D1 사각지대(1,000→910), AGG 사각지대(14개×100건). 관측이 쌓이면 재검토 |
+| API 오류 시 `resultCode` 확정 | 정상값 `"0"` 만 관측. 오류 코드 미관측이라 header 검증을 더 조이지 못함 |
+| `tsconfig.tsbuildinfo` | 빌드 산출물. 다음 코드 커밋 때 `.gitignore` 후보 |
+| `lib/regions.ts` 고령군 중복 | 경상북도 고령군이 동일 내용으로 2회 정의. 현재 무해(값이 같아 dict 병합에서 흡수) |
 | richer API fields | 미사용 필드 활용 |
 | BreadcrumbList JSON-LD | **사이트 전체 미구현.** 현재 JSON-LD는 FAQPage뿐이다. |
 | `/gwangju` ↔ `/jeonnam` cross-link | 같은 통합특별시인데 서로 링크가 없다 |
@@ -507,6 +817,14 @@ HTML 문자열을 치환하면 RSC 페이로드가 깨져 오히려 error bounda
 
 # 12. GPT에게 요청하는 것
 
-**P19 SAFETY FINAL JUDGMENT 진행 승인.**
+**P19 SAFETY FINAL RE-JUDGMENT.**
 
-이때는 **"코드가 안전한가"만 따로 판정한다.** 재수집 가치 판단은 그다음 단계로 분리한다. → §10
+판단할 것은 하나다 — **§10-8 의 남은 위험이 production promotion 을 계속 막아야 할 급인가.**
+
+- 코드 측 안전 근거는 §10-1 ~ §10-7 에 실측으로 정리돼 있다. 추가 측정은 필요 없다.
+- 이 판정은 **"코드가 안전한가" 만** 본다. 재수집 가치(VALUE / NECESSITY)는 그다음 단계다.
+- GO 가 나와도 **P19 실행은 여전히 금지**다. → §10-9
+
+---
+
+*이 문서는 HEAD `40a4ee9` 시점의 정본이다. 이후 커밋이 생기면 갱신한다.*
